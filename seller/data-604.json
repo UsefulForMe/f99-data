@@ -1,0 +1,35 @@
+{
+  "id": 604,
+  "name": "Quầy trái cây 17",
+  "logo": "https://cdn.f99.link/groupbuy-images/8a74dfa7-5977-4315-adef-50b3b1773d92.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên kinh doanh sỉ lẻ các loại trái cây, nông sản theo mùa",
+  "headQuarter": "28 đường 5, Bình Trưng Tây, Thủ Đức, Hồ Chí Minh",
+  "email": "vi2630@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "17:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 8
+}

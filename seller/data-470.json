@@ -1,0 +1,35 @@
+{
+  "id": 470,
+  "name": "Siêu Thị Lệ Mỹ",
+  "logo": "https://cdn.f99.link/groupbuy-images/b07a879a-3108-4b43-a271-c084db8bc433.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Siêu Thị Lệ Mỹ chuyên cung cấp thực phẩm tươi, sạch.",
+  "headQuarter": "316/13 Bùi Đình Túy, 12, Bình Thạnh, Hồ Chí Minh",
+  "email": "sieuthilemy@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

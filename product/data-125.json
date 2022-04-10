@@ -1,0 +1,1099 @@
+[
+  {
+    "id": 12254,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Chanh leo vàng ngọt Đà Lạt",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Chanh leo vàng ngọt hương ổi, giống của Nhật, trồng tại Đà Lạt theo tiêu chuẩn Việt Gap.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/59bbfdf7-b5f2-49fa-85c4-9076b6280458.jpg\",\"https://images.f99.com.vn/images/5e857f74-c277-4fd6-9717-ab5770366ab5.jpg\",\"https://images.f99.com.vn/images/a2ecd209-e89c-42ba-a071-193320c29de7.jpg\",\"https://images.f99.com.vn/images/52b545c8-7d3b-466c-8f67-333e4c31917c.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Chanh leo vàng ngọt Đà Lạt",
+    "description": "<p>Chanh leo vàng ngọt hương ổi, giống của Nhật, trồng tại Đà Lạt theo tiêu chuẩn Việt Gap.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/59bbfdf7-b5f2-49fa-85c4-9076b6280458.jpg",
+    "price": 120000,
+    "oldPrice": 120000,
+    "discountPercent": 0,
+    "stock": 0,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 173,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 125,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0d58bbde-f61d-4a75-be11-0d225ce722c9.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/59bbfdf7-b5f2-49fa-85c4-9076b6280458.jpg",
+      "https://images.f99.com.vn/images/5e857f74-c277-4fd6-9717-ab5770366ab5.jpg",
+      "https://images.f99.com.vn/images/a2ecd209-e89c-42ba-a071-193320c29de7.jpg",
+      "https://images.f99.com.vn/images/52b545c8-7d3b-466c-8f67-333e4c31917c.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12254",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 173,
+      "sellerRate": 4.5,
+      "sellerName": "King Fruits",
+      "warehouseId": "fe189cb4-4394-480a-9ca7-bbefc4461398",
+      "warehouseAddress": "105E5 Tạ Quang Bửu, Bách Khoa, Hai Bà Trưng, Hà Nội.",
+      "distance": 3150,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13424,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/9f710143-6350-460f-a68f-08a1d6184948.png\",\"https://images.f99.com.vn/images/fe6c79bb-6f5e-4f39-9a18-7fa628187cb2.jpg\",\"https://images.f99.com.vn/images/86d2d300-ff5a-4cae-ab55-f9a6086189df.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "NƯỚC RỬA TAY CAM SẢ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Làm sạch tay với hương thơm dịu nhẹ, cảm giác mềm da tay chứ không thô ráp nên rất được ưa chuộng.</p><p>Nước rửa tay Cam sả Kỳ Yến được kết hợp từ Ethanol (hay còn gọi là cồn) nước cất vỏ cam, sả và tinh dầu cam, sả. Ngoài cồn 70 độ đủ khả năng diệt khuẩn thì cả vỏ cam lẫn sả đều là những nguyên liệu tự nhiên có công dụng kháng khuẩn rất tốt. Tinh dầu Cam Vinh Kỳ Yến có trong nước rửa tay thì có hàm lượng limonene chiếm hơn 91 đến 96% là chất được coi là có khả năng kháng khuẩn, sát khuẩn tốt.</p><p>Bởi vậy, không chỉ rửa tay, nước rửa tay này cũng hoàn toàn có thể sử dụng để xịt lên đồ dùng, vào không khí để phòng chống vi khuẩn một cách tốt hơn. </p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "NƯỚC RỬA TAY CAM SẢ",
+    "description": "<p>Làm sạch tay với hương thơm dịu nhẹ, cảm giác mềm da tay chứ không thô ráp nên rất được ưa chuộng.</p><p>Nước rửa tay Cam sả Kỳ Yến được kết hợp từ Ethanol (hay còn gọi là cồn) nước cất vỏ cam, sả và tinh dầu cam, sả. Ngoài cồn 70 độ đủ khả năng diệt khuẩn thì cả vỏ cam lẫn sả đều là những nguyên liệu tự nhiên có công dụng kháng khuẩn rất tốt. Tinh dầu Cam Vinh Kỳ Yến có trong nước rửa tay thì có hàm lượng limonene chiếm hơn 91 đến 96% là chất được coi là có khả năng kháng khuẩn, sát khuẩn tốt.</p><p>Bởi vậy, không chỉ rửa tay, nước rửa tay này cũng hoàn toàn có thể sử dụng để xịt lên đồ dùng, vào không khí để phòng chống vi khuẩn một cách tốt hơn. </p>",
+    "imageUrl": "https://images.f99.com.vn/images/9f710143-6350-460f-a68f-08a1d6184948.png",
+    "price": 35000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 2000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "150ml",
+    "sku": "",
+    "origin": "",
+    "sellerId": 85,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát.</p>",
+    "category": {
+      "id": 125,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0d58bbde-f61d-4a75-be11-0d225ce722c9.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/9f710143-6350-460f-a68f-08a1d6184948.png",
+      "https://images.f99.com.vn/images/fe6c79bb-6f5e-4f39-9a18-7fa628187cb2.jpg",
+      "https://images.f99.com.vn/images/86d2d300-ff5a-4cae-ab55-f9a6086189df.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13424",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Lốc 6 chai",
+          "Thùng 42 chai"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 13428,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Lốc 6 chai",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Lốc 6 chai",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Lốc 6 chai",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 200000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 1000,
+        "totalSold": 0,
+        "unit": "150ml",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Lốc 6 chai"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 13429,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Thùng 42 chai",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Thùng 42 chai",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Thùng 42 chai",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 1350000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 1000,
+        "totalSold": 0,
+        "unit": "150ml",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Thùng 42 chai"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 85,
+      "sellerRate": 4.7,
+      "sellerName": "Cam Vinh Kỳ Yến",
+      "warehouseId": "c8f99772-04ec-4003-a303-5985e3552344",
+      "warehouseAddress": "489 Hoàng Quốc Việt,Bắc Từ Liêm Hà Nội",
+      "distance": 5683,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 44.6657142857149,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13729,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "NẤM HƯƠNG RỪNG 500GR",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/a99c9c77-a6c9-4c8b-af13-198def6680a1.jpg\",\"https://images.f99.com.vn/images/34a5b8f8-fdd7-4a16-8e32-3d9aeee4a8d1.jpg\",\"https://images.f99.com.vn/images/5b585f9a-8129-443c-a11f-62e82d3f4eca.jpg\",\"https://images.f99.com.vn/images/b053b805-e903-4ea4-ac14-ad180dc2ec42.jpg\",\"https://images.f99.com.vn/images/b145c36c-4552-42b1-bb3c-314b24ac049e.jpg\",\"https://images.f99.com.vn/images/a1881a61-52d6-437b-8426-ea94f6bb8aeb.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>🍄NẤM HƯƠNG RỪNG - HƯƠNG VỊ KHÓ QUÊN CHO THỰC KHÁCH</p><p><br></p><p>❌ Nấm hương rừng một đặc sản Tây Bắc không thể bỏ qua khi tới vùng đất này. Nấm về hình thức cũng giống như các loại nấm hương khác nhưng về hương vị thì những ai đã thưởng thức một lần chắc sẽ không thể quên được mùi vị đặc biệt này.</p><p><br></p><p>💯 Nấm sau khi ngâm trong nước và sau khi xào nấu vẫn giữ được mùi thơm đặc trưng của núi rừng Tây Bắc.&nbsp;</p><p><br></p><p>Không chỉ có hương vị thơm ngon khó quên mà nấm hương rừng còn biết đến là “vua các loại rau” khi có tác dụng:</p><p>✅ Phòng ngừa ung thư</p><p>✅ Giảm cholesterol</p><p>✅ Tăng khả năng miễn dịch cho cơ thể</p><p>✅ Giải độc và bảo vệ gan&nbsp;</p><p>...</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/c447c5f2-78be-4fd8-8a9c-64daee492aae.jpg\"></p><p><br></p><p>🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄</p><p><br></p><p>🍝Cách chế biến :</p><p>🔪 Trước khi sử dung ngâm trong nước chừng 15 – 30 phút, sau đó vớt ra cắt chân, rửa sạch.🐣</p><p>🔪 Thường nấm hương được chế biến trong các món ăn như : làm nhân nem, các món xào, Nấu, Lẩu.vv…🐣</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/8458a60d-3783-4b41-9aee-fcda3fdabf39.jpg\"></p><p><br></p><p>🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄</p><p><br></p><p>🕌 192 Nguyễn Huy Tưởng, Thanh Xuân, Hà Nội</p><p>🕌Tổng kho tổ 2, Thị trấn Đồng Văn, Hà Giang</p><p><br></p><p>☎Sỉ, lẻ LH 0966311292</p><p><br></p><p>#namhuongrung #namhuong #namhuongrungchuan #namhuonghagiang #namhuongrungtaybac #namhuongtaybac #namhuongrungbackan</p><p>#nấm_hương_rừng #nấm_hương #nấm_hương_sạch_chân&nbsp;#nấm_hương_tây_bắc #nấm_hương_cao_bằng</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "NẤM HƯƠNG RỪNG 500GR",
+    "description": "<p>🍄NẤM HƯƠNG RỪNG - HƯƠNG VỊ KHÓ QUÊN CHO THỰC KHÁCH</p><p><br></p><p>❌ Nấm hương rừng một đặc sản Tây Bắc không thể bỏ qua khi tới vùng đất này. Nấm về hình thức cũng giống như các loại nấm hương khác nhưng về hương vị thì những ai đã thưởng thức một lần chắc sẽ không thể quên được mùi vị đặc biệt này.</p><p><br></p><p>💯 Nấm sau khi ngâm trong nước và sau khi xào nấu vẫn giữ được mùi thơm đặc trưng của núi rừng Tây Bắc.&nbsp;</p><p><br></p><p>Không chỉ có hương vị thơm ngon khó quên mà nấm hương rừng còn biết đến là “vua các loại rau” khi có tác dụng:</p><p>✅ Phòng ngừa ung thư</p><p>✅ Giảm cholesterol</p><p>✅ Tăng khả năng miễn dịch cho cơ thể</p><p>✅ Giải độc và bảo vệ gan&nbsp;</p><p>...</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/c447c5f2-78be-4fd8-8a9c-64daee492aae.jpg\"></p><p><br></p><p>🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄</p><p><br></p><p>🍝Cách chế biến :</p><p>🔪 Trước khi sử dung ngâm trong nước chừng 15 – 30 phút, sau đó vớt ra cắt chân, rửa sạch.🐣</p><p>🔪 Thường nấm hương được chế biến trong các món ăn như : làm nhân nem, các món xào, Nấu, Lẩu.vv…🐣</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/8458a60d-3783-4b41-9aee-fcda3fdabf39.jpg\"></p><p><br></p><p>🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄</p><p><br></p><p>🕌 192 Nguyễn Huy Tưởng, Thanh Xuân, Hà Nội</p><p>🕌Tổng kho tổ 2, Thị trấn Đồng Văn, Hà Giang</p><p><br></p><p>☎Sỉ, lẻ LH 0966311292</p><p><br></p><p>#namhuongrung #namhuong #namhuongrungchuan #namhuonghagiang #namhuongrungtaybac #namhuongtaybac #namhuongrungbackan</p><p>#nấm_hương_rừng #nấm_hương #nấm_hương_sạch_chân&nbsp;#nấm_hương_tây_bắc #nấm_hương_cao_bằng</p>",
+    "imageUrl": "https://images.f99.com.vn/images/a99c9c77-a6c9-4c8b-af13-198def6680a1.jpg",
+    "price": 169000,
+    "oldPrice": 199000,
+    "discountPercent": 15,
+    "stock": 1527,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "500gr",
+    "sku": "NHR500",
+    "origin": "",
+    "sellerId": 216,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Để nhiệt độ bình thường, tránh ánh nắng trực tiếp</p>",
+    "category": {
+      "id": 125,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0d58bbde-f61d-4a75-be11-0d225ce722c9.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/a99c9c77-a6c9-4c8b-af13-198def6680a1.jpg",
+      "https://images.f99.com.vn/images/34a5b8f8-fdd7-4a16-8e32-3d9aeee4a8d1.jpg",
+      "https://images.f99.com.vn/images/5b585f9a-8129-443c-a11f-62e82d3f4eca.jpg",
+      "https://images.f99.com.vn/images/b053b805-e903-4ea4-ac14-ad180dc2ec42.jpg",
+      "https://images.f99.com.vn/images/b145c36c-4552-42b1-bb3c-314b24ac049e.jpg",
+      "https://images.f99.com.vn/images/a1881a61-52d6-437b-8426-ea94f6bb8aeb.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13729",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 216,
+      "sellerRate": 4.9,
+      "sellerName": "Về Bản",
+      "warehouseId": "2c09665c-515e-4f69-86a3-2156469f6e7e",
+      "warehouseAddress": "192 Nguyễn Huy Tưởng, Thanh Xuân Trung, Thanh Xuân, Hà Nội",
+      "distance": 4642,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 83.06101333333335,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13733,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "NẤM HƯƠNG RỪNG 1KG",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/8dc657f9-bf86-4327-a057-e56da130934c.jpg\",\"https://images.f99.com.vn/images/5b328c39-f754-42f7-8f92-c3385a6bbd7a.jpg\",\"https://images.f99.com.vn/images/bdd64243-f30b-42e4-8b86-b2a3b915586a.jpg\",\"https://images.f99.com.vn/images/ce7cc749-c14c-4628-a6f0-64e7bf74b4bf.jpg\",\"https://images.f99.com.vn/images/01a9fed0-713c-4b0b-9dff-08b2868d3c02.jpg\",\"https://images.f99.com.vn/images/a3c92a5e-2c9d-4971-9710-485762fe2e81.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>🍄NẤM HƯƠNG RỪNG - HƯƠNG VỊ KHÓ QUÊN CHO THỰC KHÁCH</p><p><br></p><p>❌ Nấm hương rừng một đặc sản Tây Bắc không thể bỏ qua khi tới vùng đất này. Nấm về hình thức cũng giống như các loại nấm hương khác nhưng về hương vị thì những ai đã thưởng thức một lần chắc sẽ không thể quên được mùi vị đặc biệt này.</p><p><br></p><p>💯 Nấm sau khi ngâm trong nước và sau khi xào nấu vẫn giữ được mùi thơm đặc trưng của núi rừng Tây Bắc.&nbsp;</p><p><br></p><p>Không chỉ có hương vị thơm ngon khó quên mà nấm hương rừng còn biết đến là “vua các loại rau” khi có tác dụng:</p><p>✅ Phòng ngừa ung thư</p><p>✅ Giảm cholesterol</p><p>✅ Tăng khả năng miễn dịch cho cơ thể</p><p>✅ Giải độc và bảo vệ gan&nbsp;</p><p>...</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/9a630a1e-4ce1-4286-850e-fe52b685720a.jpg\"></p><p><br></p><p>🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄</p><p><br></p><p>🍝Cách chế biến :</p><p>🔪 Trước khi sử dung ngâm trong nước chừng 15 – 30 phút, sau đó vớt ra cắt chân, rửa sạch.🐣</p><p>🔪 Thường nấm hương được chế biến trong các món ăn như : làm nhân nem, các món xào, Nấu, Lẩu.vv…🐣</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/c02b2cd3-0c7c-418f-9a8a-4ac39d47c1e8.jpg\"></p><p><br></p><p><br></p><p>🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄</p><p><br></p><p>🕌 192 Nguyễn Huy Tưởng, Thanh Xuân, Hà Nội</p><p>🕌Tổng kho tổ 2, Thị trấn Đồng Văn, Hà Giang</p><p><br></p><p>☎Sỉ, lẻ LH 0966311292</p><p><br></p><p>#namhuongrung #namhuong #namhuongrungchuan #namhuonghagiang #namhuongrungtaybac #namhuongtaybac #namhuongrungbackan</p><p>#nấm_hương_rừng #nấm_hương #nấm_hương_sạch_chân&nbsp;#nấm_hương_tây_bắc #nấm_hương_cao_bằng</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "NẤM HƯƠNG RỪNG 1KG",
+    "description": "<p>🍄NẤM HƯƠNG RỪNG - HƯƠNG VỊ KHÓ QUÊN CHO THỰC KHÁCH</p><p><br></p><p>❌ Nấm hương rừng một đặc sản Tây Bắc không thể bỏ qua khi tới vùng đất này. Nấm về hình thức cũng giống như các loại nấm hương khác nhưng về hương vị thì những ai đã thưởng thức một lần chắc sẽ không thể quên được mùi vị đặc biệt này.</p><p><br></p><p>💯 Nấm sau khi ngâm trong nước và sau khi xào nấu vẫn giữ được mùi thơm đặc trưng của núi rừng Tây Bắc.&nbsp;</p><p><br></p><p>Không chỉ có hương vị thơm ngon khó quên mà nấm hương rừng còn biết đến là “vua các loại rau” khi có tác dụng:</p><p>✅ Phòng ngừa ung thư</p><p>✅ Giảm cholesterol</p><p>✅ Tăng khả năng miễn dịch cho cơ thể</p><p>✅ Giải độc và bảo vệ gan&nbsp;</p><p>...</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/9a630a1e-4ce1-4286-850e-fe52b685720a.jpg\"></p><p><br></p><p>🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄</p><p><br></p><p>🍝Cách chế biến :</p><p>🔪 Trước khi sử dung ngâm trong nước chừng 15 – 30 phút, sau đó vớt ra cắt chân, rửa sạch.🐣</p><p>🔪 Thường nấm hương được chế biến trong các món ăn như : làm nhân nem, các món xào, Nấu, Lẩu.vv…🐣</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/c02b2cd3-0c7c-418f-9a8a-4ac39d47c1e8.jpg\"></p><p><br></p><p><br></p><p>🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄</p><p><br></p><p>🕌 192 Nguyễn Huy Tưởng, Thanh Xuân, Hà Nội</p><p>🕌Tổng kho tổ 2, Thị trấn Đồng Văn, Hà Giang</p><p><br></p><p>☎Sỉ, lẻ LH 0966311292</p><p><br></p><p>#namhuongrung #namhuong #namhuongrungchuan #namhuonghagiang #namhuongrungtaybac #namhuongtaybac #namhuongrungbackan</p><p>#nấm_hương_rừng #nấm_hương #nấm_hương_sạch_chân&nbsp;#nấm_hương_tây_bắc #nấm_hương_cao_bằng</p>",
+    "imageUrl": "https://images.f99.com.vn/images/8dc657f9-bf86-4327-a057-e56da130934c.jpg",
+    "price": 329000,
+    "oldPrice": 399000,
+    "discountPercent": 18,
+    "stock": 1521,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "NHR1",
+    "origin": "",
+    "sellerId": 216,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Để nhiệt độ bình thường, tránh ánh nắng trực tiếp</p>",
+    "category": {
+      "id": 125,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0d58bbde-f61d-4a75-be11-0d225ce722c9.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/8dc657f9-bf86-4327-a057-e56da130934c.jpg",
+      "https://images.f99.com.vn/images/5b328c39-f754-42f7-8f92-c3385a6bbd7a.jpg",
+      "https://images.f99.com.vn/images/bdd64243-f30b-42e4-8b86-b2a3b915586a.jpg",
+      "https://images.f99.com.vn/images/ce7cc749-c14c-4628-a6f0-64e7bf74b4bf.jpg",
+      "https://images.f99.com.vn/images/01a9fed0-713c-4b0b-9dff-08b2868d3c02.jpg",
+      "https://images.f99.com.vn/images/a3c92a5e-2c9d-4971-9710-485762fe2e81.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13733",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 216,
+      "sellerRate": 4.9,
+      "sellerName": "Về Bản",
+      "warehouseId": "2c09665c-515e-4f69-86a3-2156469f6e7e",
+      "warehouseAddress": "192 Nguyễn Huy Tưởng, Thanh Xuân Trung, Thanh Xuân, Hà Nội",
+      "distance": 4642,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 83.06101333333335,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13747,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "MỘC NHĨ RỪNG HÀ GIANG 1KG",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/5952d947-d6b6-43ee-85a6-83ac601cb2db.jpg\",\"https://images.f99.com.vn/images/32b2f47f-d4c7-46ee-a3a0-5f5fd506b59d.jpg\",\"https://images.f99.com.vn/images/cb598f93-e2b0-46db-ae7f-c8f45497f80a.jpg\",\"https://images.f99.com.vn/images/a0ba6888-4330-4524-8514-4abc991abd54.jpg\",\"https://images.f99.com.vn/images/2134e19f-90ba-40a4-8d91-f81a28c2e26c.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>#MỘC_NHĨ_RỪNG còn gọi là #nấm_mèo_đen hoặc là #nấm_tai_mèo 🍄</p><p><br></p><p>🥘Mộc nhĩ rừng là một trong những nguyên liệu không còn quá xa lạ trong các món ăn của người dân Việt Nam. không chỉ mang lại hương vị đặc biệt hơn cho món ăn hàng ngày 🥘mà nó còn có giá trị dinh dưỡng cao và là một vị thuốc quý, có giá trị bổ dưỡng rất cao, có nhiều hoạt chất có tác dụng tăng cường hệ miễn dịch, giúp giải độc và làm chậm sự lão hóa💪</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/9ae1e808-4cc1-40f4-ad04-efa9dc632292.jpg\"></p><p><br></p><p>🥘#Cách_dùng_mộc_nhĩ_rừng:</p><p>Trước khi sử dung ngâm trong nước chừng 15 – 30 phút, sau đó vớt ra cắt chân, rửa sạch.</p><p><br></p><p>🥘Mộc nhĩ rừng có thể dùng làm gia vị để chế biến các món ăn cực kì thơm ngon bổ dưỡng như: Mộc nhĩ xào thập cẩm, nấu canh, giò xào, thịt đông, nem rán ...</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/9d56ab18-2a0d-47d0-ba5b-a614f6663687.jpg\"></p><p><br></p><p>☎Liên hệ mua hàng: 0966311292</p><p><br></p><p>🏰192 Nguyễn Huy Tưởng, Thanh Xuân, HN</p><p>🏰103 tổ 2, TT Đồng Văn, Hà Giang</p><p><br></p><p>#mộc_nhĩ_đen #mocnhirung #mộcnhĩrừng</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "MỘC NHĨ RỪNG HÀ GIANG 1KG",
+    "description": "<p>#MỘC_NHĨ_RỪNG còn gọi là #nấm_mèo_đen hoặc là #nấm_tai_mèo 🍄</p><p><br></p><p>🥘Mộc nhĩ rừng là một trong những nguyên liệu không còn quá xa lạ trong các món ăn của người dân Việt Nam. không chỉ mang lại hương vị đặc biệt hơn cho món ăn hàng ngày 🥘mà nó còn có giá trị dinh dưỡng cao và là một vị thuốc quý, có giá trị bổ dưỡng rất cao, có nhiều hoạt chất có tác dụng tăng cường hệ miễn dịch, giúp giải độc và làm chậm sự lão hóa💪</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/9ae1e808-4cc1-40f4-ad04-efa9dc632292.jpg\"></p><p><br></p><p>🥘#Cách_dùng_mộc_nhĩ_rừng:</p><p>Trước khi sử dung ngâm trong nước chừng 15 – 30 phút, sau đó vớt ra cắt chân, rửa sạch.</p><p><br></p><p>🥘Mộc nhĩ rừng có thể dùng làm gia vị để chế biến các món ăn cực kì thơm ngon bổ dưỡng như: Mộc nhĩ xào thập cẩm, nấu canh, giò xào, thịt đông, nem rán ...</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/9d56ab18-2a0d-47d0-ba5b-a614f6663687.jpg\"></p><p><br></p><p>☎Liên hệ mua hàng: 0966311292</p><p><br></p><p>🏰192 Nguyễn Huy Tưởng, Thanh Xuân, HN</p><p>🏰103 tổ 2, TT Đồng Văn, Hà Giang</p><p><br></p><p>#mộc_nhĩ_đen #mocnhirung #mộcnhĩrừng</p>",
+    "imageUrl": "https://images.f99.com.vn/images/5952d947-d6b6-43ee-85a6-83ac601cb2db.jpg",
+    "price": 199000,
+    "oldPrice": 249000,
+    "discountPercent": 20,
+    "stock": 1251,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "MNR1",
+    "origin": "",
+    "sellerId": 216,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Để nơi khô ráo, thoáng mát, tránh ánh nắng mặt trời</p>",
+    "category": {
+      "id": 125,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0d58bbde-f61d-4a75-be11-0d225ce722c9.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/5952d947-d6b6-43ee-85a6-83ac601cb2db.jpg",
+      "https://images.f99.com.vn/images/32b2f47f-d4c7-46ee-a3a0-5f5fd506b59d.jpg",
+      "https://images.f99.com.vn/images/cb598f93-e2b0-46db-ae7f-c8f45497f80a.jpg",
+      "https://images.f99.com.vn/images/a0ba6888-4330-4524-8514-4abc991abd54.jpg",
+      "https://images.f99.com.vn/images/2134e19f-90ba-40a4-8d91-f81a28c2e26c.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13747",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 216,
+      "sellerRate": 4.9,
+      "sellerName": "Về Bản",
+      "warehouseId": "2c09665c-515e-4f69-86a3-2156469f6e7e",
+      "warehouseAddress": "192 Nguyễn Huy Tưởng, Thanh Xuân Trung, Thanh Xuân, Hà Nội",
+      "distance": 4642,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 83.06101333333335,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13751,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "MỘC NHĨ RỪNG HÀ GIANG 0.5KG",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/ac9c40c0-9cf5-4d3f-8e37-c07d65988723.jpg\",\"https://images.f99.com.vn/images/1b42d016-29b3-47f8-b1b2-d340ec89fd73.jpg\",\"https://images.f99.com.vn/images/52d3261a-3efa-4db6-ac93-90dcc92a007c.jpg\",\"https://images.f99.com.vn/images/ccaff0ea-1f9d-4a82-a87b-e7fdb31c2635.jpg\",\"https://images.f99.com.vn/images/918a9800-ea7b-43a0-b138-1b51ddc680d8.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>#MỘC_NHĨ_RỪNG còn gọi là #nấm_mèo_đen hoặc là #nấm_tai_mèo 🍄</p><p><br></p><p>🥘Mộc nhĩ rừng là một trong những nguyên liệu không còn quá xa lạ trong các món ăn của người dân Việt Nam. không chỉ mang lại hương vị đặc biệt hơn cho món ăn hàng ngày 🥘mà nó còn có giá trị dinh dưỡng cao và là một vị thuốc quý, có giá trị bổ dưỡng rất cao, có nhiều hoạt chất có tác dụng tăng cường hệ miễn dịch, giúp giải độc và làm chậm sự lão hóa💪</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/ee6ccf85-9d38-43d7-acbf-65f16a146b09.jpg\"></p><p><br></p><p>🥘#Cách_dùng_mộc_nhĩ_rừng:</p><p>Trước khi sử dung ngâm trong nước chừng 15 – 30 phút, sau đó vớt ra cắt chân, rửa sạch.</p><p><br></p><p>🥘Mộc nhĩ rừng có thể dùng làm gia vị để chế biến các món ăn cực kì thơm ngon bổ dưỡng như: Mộc nhĩ xào thập cẩm, nấu canh, giò xào, thịt đông, nem rán ...</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/e6865049-0d9b-43c6-821a-69f1923a61b9.jpg\"></p><p><br></p><p>☎Liên hệ mua hàng: 0966311292</p><p><br></p><p>🏰192 Nguyễn Huy Tưởng, Thanh Xuân, HN</p><p>🏰103 tổ 2, TT Đồng Văn, Hà Giang</p><p><br></p><p>#mộc_nhĩ_đen #mocnhirung #mộcnhĩrừng</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "MỘC NHĨ RỪNG HÀ GIANG 0.5KG",
+    "description": "<p>#MỘC_NHĨ_RỪNG còn gọi là #nấm_mèo_đen hoặc là #nấm_tai_mèo 🍄</p><p><br></p><p>🥘Mộc nhĩ rừng là một trong những nguyên liệu không còn quá xa lạ trong các món ăn của người dân Việt Nam. không chỉ mang lại hương vị đặc biệt hơn cho món ăn hàng ngày 🥘mà nó còn có giá trị dinh dưỡng cao và là một vị thuốc quý, có giá trị bổ dưỡng rất cao, có nhiều hoạt chất có tác dụng tăng cường hệ miễn dịch, giúp giải độc và làm chậm sự lão hóa💪</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/ee6ccf85-9d38-43d7-acbf-65f16a146b09.jpg\"></p><p><br></p><p>🥘#Cách_dùng_mộc_nhĩ_rừng:</p><p>Trước khi sử dung ngâm trong nước chừng 15 – 30 phút, sau đó vớt ra cắt chân, rửa sạch.</p><p><br></p><p>🥘Mộc nhĩ rừng có thể dùng làm gia vị để chế biến các món ăn cực kì thơm ngon bổ dưỡng như: Mộc nhĩ xào thập cẩm, nấu canh, giò xào, thịt đông, nem rán ...</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/e6865049-0d9b-43c6-821a-69f1923a61b9.jpg\"></p><p><br></p><p>☎Liên hệ mua hàng: 0966311292</p><p><br></p><p>🏰192 Nguyễn Huy Tưởng, Thanh Xuân, HN</p><p>🏰103 tổ 2, TT Đồng Văn, Hà Giang</p><p><br></p><p>#mộc_nhĩ_đen #mocnhirung #mộcnhĩrừng</p>",
+    "imageUrl": "https://images.f99.com.vn/images/ac9c40c0-9cf5-4d3f-8e37-c07d65988723.jpg",
+    "price": 105000,
+    "oldPrice": 125000,
+    "discountPercent": 16,
+    "stock": 1511,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "500gr",
+    "sku": "MNR500",
+    "origin": "",
+    "sellerId": 216,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Để nơi thoáng mát, tránh ánh nắng mặt trời</p>",
+    "category": {
+      "id": 125,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0d58bbde-f61d-4a75-be11-0d225ce722c9.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/ac9c40c0-9cf5-4d3f-8e37-c07d65988723.jpg",
+      "https://images.f99.com.vn/images/1b42d016-29b3-47f8-b1b2-d340ec89fd73.jpg",
+      "https://images.f99.com.vn/images/52d3261a-3efa-4db6-ac93-90dcc92a007c.jpg",
+      "https://images.f99.com.vn/images/ccaff0ea-1f9d-4a82-a87b-e7fdb31c2635.jpg",
+      "https://images.f99.com.vn/images/918a9800-ea7b-43a0-b138-1b51ddc680d8.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13751",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 216,
+      "sellerRate": 4.9,
+      "sellerName": "Về Bản",
+      "warehouseId": "2c09665c-515e-4f69-86a3-2156469f6e7e",
+      "warehouseAddress": "192 Nguyễn Huy Tưởng, Thanh Xuân Trung, Thanh Xuân, Hà Nội",
+      "distance": 4642,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 83.06101333333335,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13759,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "KỶ TỬ 1KG",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/6cb2dd96-13e7-440a-a9d9-26ccf6125dfa.jpg\",\"https://images.f99.com.vn/images/510940fd-61eb-4629-8f52-a52a0897e888.jpg\",\"https://images.f99.com.vn/images/9e306cb2-92e1-4404-9bcf-3ab4a87f8f05.jpg\",\"https://images.f99.com.vn/images/4b87a64e-c11f-4055-b6ed-98fa7c86f717.jpg\",\"https://images.f99.com.vn/images/1d224de9-9e1c-4972-9d61-bb9a72ff5aa3.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>✴#Câu_kỷ_tử là vị thuốc bồi bổ sức khỏe, tăng cường chức năng thận, làm sáng mắt. Vị thuốc nảy được dùng nhiều trong những bài thuốc bổ thận, cường dương, sinh tinh, điều trị hiếm muộn</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/56fbaa73-fab6-4942-8a9d-dc99c2afb756.jpg\"></p><p><br></p><p>🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀</p><p><br></p><p>✴#công_dụng_câu_kỷ_tử:</p><p><br></p><p>-Kéo dài tuổi thọ.</p><p>-Tăng cường năng lượng và sức khỏe.</p><p>-Nhìn thấy và cảm thấy trẻ hơn</p><p>-Làm hạ áp huyết</p><p>-Ngăn ngừa ung thư</p><p>-Duy trì mức cholesterol tốt cho sức khỏe</p><p>-Cân bằng lượng đường trong máu trong bệnh tiểu đường</p><p>-Tăng sinh lý</p><p>-Giảm cân</p><p>-Giảm đau đầu và chóng mặt</p><p>-Chữa bệnh mất ngủ, giúp ngủ ngon hơn</p><p>-Cải thiện thị lực</p><p>-Có lợi cho tim mạch</p><p>-Ngăn chặn sự peroxide hóa chất béo</p><p>-Chống lại bệnh tật</p><p>-Cải thiện hệ thống miễn nhiễm</p><p>-Khống chế được ung thư</p><p>-Bảo vệ DNA qúi cho cơ thể</p><p>-Ức chế sự phát triển khối u</p><p>-Làm giảm hậu qủa độc hại do hóa chất trị liệu và phóng xạ trị liệu</p><p>-Là chất sinh sản ra máu</p><p>- Điều Trị bệnh ho khan mãn tính</p><p>- Điều Trị bệnh sưng đau nhức viêm khớp</p><p>-Cải thiện tế bào bạch huyết</p><p>- Điều Trị triệu chứng tiền mãn kinh</p><p>-Ngăn ngừa chứng mệt mỏi về buổi sáng</p><p>-Cải thiện sinh lực</p><p>-Tăng cường bắp thịt và xương</p><p>-Làm mạnh chức năng thận</p><p>-Cải thiện trí nhớ</p><p>-Bổ gan</p><p>-Làm dịu sự lo lắng và căng thẳng thần kinh</p><p>-Làm tỉnh thần trí</p><p>-Cải thiện tiêu hóa</p><p>....</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/b689868e-9a34-4dae-b1ab-159c8d2716e6.jpg\"></p><p><br></p><p>✴#Cách_dùng_kỷ_tử:</p><p>- Dùng 500ml nước sôi và hãm cùng 30 gram quả kỷ tử khô trong khoảng 20 phút, có thể hãm vài lần nước sôi cho tới khi nước nhạt thì thôi</p><p>-Hầm gà, thịt, cá...</p><p>-Ngâm rượu</p><p><br></p><p>🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀</p><p><br></p><p>☎,Zalo: Liên hệ mua hàng: 0966311292</p><p><br></p><p>🏰103 tổ 2, TT Đồng Văn, Hà Giang</p><p>🏰192 Nguyễn Huy Tưởng, Thanh Xuân,HN</p><p><br></p><p>#kỷ_tử_khô #kytukho #caukytu #giakytu #kỷ_tử #kỷtử</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "KỶ TỬ 1KG",
+    "description": "<p>✴#Câu_kỷ_tử là vị thuốc bồi bổ sức khỏe, tăng cường chức năng thận, làm sáng mắt. Vị thuốc nảy được dùng nhiều trong những bài thuốc bổ thận, cường dương, sinh tinh, điều trị hiếm muộn</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/56fbaa73-fab6-4942-8a9d-dc99c2afb756.jpg\"></p><p><br></p><p>🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀</p><p><br></p><p>✴#công_dụng_câu_kỷ_tử:</p><p><br></p><p>-Kéo dài tuổi thọ.</p><p>-Tăng cường năng lượng và sức khỏe.</p><p>-Nhìn thấy và cảm thấy trẻ hơn</p><p>-Làm hạ áp huyết</p><p>-Ngăn ngừa ung thư</p><p>-Duy trì mức cholesterol tốt cho sức khỏe</p><p>-Cân bằng lượng đường trong máu trong bệnh tiểu đường</p><p>-Tăng sinh lý</p><p>-Giảm cân</p><p>-Giảm đau đầu và chóng mặt</p><p>-Chữa bệnh mất ngủ, giúp ngủ ngon hơn</p><p>-Cải thiện thị lực</p><p>-Có lợi cho tim mạch</p><p>-Ngăn chặn sự peroxide hóa chất béo</p><p>-Chống lại bệnh tật</p><p>-Cải thiện hệ thống miễn nhiễm</p><p>-Khống chế được ung thư</p><p>-Bảo vệ DNA qúi cho cơ thể</p><p>-Ức chế sự phát triển khối u</p><p>-Làm giảm hậu qủa độc hại do hóa chất trị liệu và phóng xạ trị liệu</p><p>-Là chất sinh sản ra máu</p><p>- Điều Trị bệnh ho khan mãn tính</p><p>- Điều Trị bệnh sưng đau nhức viêm khớp</p><p>-Cải thiện tế bào bạch huyết</p><p>- Điều Trị triệu chứng tiền mãn kinh</p><p>-Ngăn ngừa chứng mệt mỏi về buổi sáng</p><p>-Cải thiện sinh lực</p><p>-Tăng cường bắp thịt và xương</p><p>-Làm mạnh chức năng thận</p><p>-Cải thiện trí nhớ</p><p>-Bổ gan</p><p>-Làm dịu sự lo lắng và căng thẳng thần kinh</p><p>-Làm tỉnh thần trí</p><p>-Cải thiện tiêu hóa</p><p>....</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/b689868e-9a34-4dae-b1ab-159c8d2716e6.jpg\"></p><p><br></p><p>✴#Cách_dùng_kỷ_tử:</p><p>- Dùng 500ml nước sôi và hãm cùng 30 gram quả kỷ tử khô trong khoảng 20 phút, có thể hãm vài lần nước sôi cho tới khi nước nhạt thì thôi</p><p>-Hầm gà, thịt, cá...</p><p>-Ngâm rượu</p><p><br></p><p>🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀</p><p><br></p><p>☎,Zalo: Liên hệ mua hàng: 0966311292</p><p><br></p><p>🏰103 tổ 2, TT Đồng Văn, Hà Giang</p><p>🏰192 Nguyễn Huy Tưởng, Thanh Xuân,HN</p><p><br></p><p>#kỷ_tử_khô #kytukho #caukytu #giakytu #kỷ_tử #kỷtử</p>",
+    "imageUrl": "https://images.f99.com.vn/images/6cb2dd96-13e7-440a-a9d9-26ccf6125dfa.jpg",
+    "price": 299000,
+    "oldPrice": 349000,
+    "discountPercent": 14,
+    "stock": 1241,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "KT1",
+    "origin": "",
+    "sellerId": 216,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Để nơi khô ráo thoáng mát, tránh ánh nắng mặt trời</p>",
+    "category": {
+      "id": 125,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0d58bbde-f61d-4a75-be11-0d225ce722c9.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/6cb2dd96-13e7-440a-a9d9-26ccf6125dfa.jpg",
+      "https://images.f99.com.vn/images/510940fd-61eb-4629-8f52-a52a0897e888.jpg",
+      "https://images.f99.com.vn/images/9e306cb2-92e1-4404-9bcf-3ab4a87f8f05.jpg",
+      "https://images.f99.com.vn/images/4b87a64e-c11f-4055-b6ed-98fa7c86f717.jpg",
+      "https://images.f99.com.vn/images/1d224de9-9e1c-4972-9d61-bb9a72ff5aa3.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13759",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 216,
+      "sellerRate": 4.9,
+      "sellerName": "Về Bản",
+      "warehouseId": "2c09665c-515e-4f69-86a3-2156469f6e7e",
+      "warehouseAddress": "192 Nguyễn Huy Tưởng, Thanh Xuân Trung, Thanh Xuân, Hà Nội",
+      "distance": 4642,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 83.06101333333335,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13763,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "KỶ TỬ 500GR",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/33c83077-72e2-4704-b18b-f3a809375632.jpg\",\"https://images.f99.com.vn/images/36dbed0a-3cd1-4154-ac98-09ef666ac450.jpg\",\"https://images.f99.com.vn/images/f50f098f-3de8-40d8-a5de-efc085bb3229.jpg\",\"https://images.f99.com.vn/images/f57fd1f1-fb9d-4045-8cb5-18d76d01e1f4.jpg\",\"https://images.f99.com.vn/images/d44d8afa-cbb0-4fbf-9e2e-dcf1575f307f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>✴#Câu_kỷ_tử là vị thuốc bồi bổ sức khỏe, tăng cường chức năng thận, làm sáng mắt. Vị thuốc nảy được dùng nhiều trong những bài thuốc bổ thận, cường dương, sinh tinh, điều trị hiếm muộn</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/2fa01746-a90b-4243-92e4-673209a0db51.jpg\"></p><p><br></p><p>🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀</p><p><br></p><p>✴#công_dụng_câu_kỷ_tử:</p><p><br></p><p>-Kéo dài tuổi thọ.</p><p>-Tăng cường năng lượng và sức khỏe.</p><p>-Nhìn thấy và cảm thấy trẻ hơn</p><p>-Làm hạ áp huyết</p><p>-Ngăn ngừa ung thư</p><p>-Duy trì mức cholesterol tốt cho sức khỏe</p><p>-Cân bằng lượng đường trong máu trong bệnh tiểu đường</p><p>-Tăng sinh lý</p><p>-Giảm cân</p><p>-Giảm đau đầu và chóng mặt</p><p>-Chữa bệnh mất ngủ, giúp ngủ ngon hơn</p><p>-Cải thiện thị lực</p><p>-Có lợi cho tim mạch</p><p>-Ngăn chặn sự peroxide hóa chất béo</p><p>-Chống lại bệnh tật</p><p>-Cải thiện hệ thống miễn nhiễm</p><p>-Khống chế được ung thư</p><p>-Bảo vệ DNA qúi cho cơ thể</p><p>-Ức chế sự phát triển khối u</p><p>-Làm giảm hậu qủa độc hại do hóa chất trị liệu và phóng xạ trị liệu</p><p>-Là chất sinh sản ra máu</p><p>- Điều Trị bệnh ho khan mãn tính</p><p>- Điều Trị bệnh sưng đau nhức viêm khớp</p><p>-Cải thiện tế bào bạch huyết</p><p>- Điều Trị triệu chứng tiền mãn kinh</p><p>-Ngăn ngừa chứng mệt mỏi về buổi sáng</p><p>-Cải thiện sinh lực</p><p>-Tăng cường bắp thịt và xương</p><p>-Làm mạnh chức năng thận</p><p>-Cải thiện trí nhớ</p><p>-Bổ gan</p><p>-Làm dịu sự lo lắng và căng thẳng thần kinh</p><p>-Làm tỉnh thần trí</p><p>-Cải thiện tiêu hóa</p><p>....</p><p><br></p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/a7be138e-457a-49b9-959f-39d619c6dbcd.jpg\"></p><p><br></p><p>✴#Cách_dùng_kỷ_tử:</p><p>- Dùng 500ml nước sôi và hãm cùng 30 gram quả kỷ tử khô trong khoảng 20 phút, có thể hãm vài lần nước sôi cho tới khi nước nhạt thì thôi</p><p>-Hầm gà, thịt, cá...</p><p>-Ngâm rượu</p><p><br></p><p>🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀</p><p><br></p><p>☎,Zalo: Liên hệ mua hàng: 0966311292</p><p><br></p><p>🏰103 tổ 2, TT Đồng Văn, Hà Giang</p><p>🏰192 Nguyễn Huy Tưởng, Thanh Xuân,HN</p><p><br></p><p>#kỷ_tử_khô #kytukho #caukytu #giakytu #kỷ_tử #kỷtử</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "KỶ TỬ 500GR",
+    "description": "<p>✴#Câu_kỷ_tử là vị thuốc bồi bổ sức khỏe, tăng cường chức năng thận, làm sáng mắt. Vị thuốc nảy được dùng nhiều trong những bài thuốc bổ thận, cường dương, sinh tinh, điều trị hiếm muộn</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/2fa01746-a90b-4243-92e4-673209a0db51.jpg\"></p><p><br></p><p>🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀</p><p><br></p><p>✴#công_dụng_câu_kỷ_tử:</p><p><br></p><p>-Kéo dài tuổi thọ.</p><p>-Tăng cường năng lượng và sức khỏe.</p><p>-Nhìn thấy và cảm thấy trẻ hơn</p><p>-Làm hạ áp huyết</p><p>-Ngăn ngừa ung thư</p><p>-Duy trì mức cholesterol tốt cho sức khỏe</p><p>-Cân bằng lượng đường trong máu trong bệnh tiểu đường</p><p>-Tăng sinh lý</p><p>-Giảm cân</p><p>-Giảm đau đầu và chóng mặt</p><p>-Chữa bệnh mất ngủ, giúp ngủ ngon hơn</p><p>-Cải thiện thị lực</p><p>-Có lợi cho tim mạch</p><p>-Ngăn chặn sự peroxide hóa chất béo</p><p>-Chống lại bệnh tật</p><p>-Cải thiện hệ thống miễn nhiễm</p><p>-Khống chế được ung thư</p><p>-Bảo vệ DNA qúi cho cơ thể</p><p>-Ức chế sự phát triển khối u</p><p>-Làm giảm hậu qủa độc hại do hóa chất trị liệu và phóng xạ trị liệu</p><p>-Là chất sinh sản ra máu</p><p>- Điều Trị bệnh ho khan mãn tính</p><p>- Điều Trị bệnh sưng đau nhức viêm khớp</p><p>-Cải thiện tế bào bạch huyết</p><p>- Điều Trị triệu chứng tiền mãn kinh</p><p>-Ngăn ngừa chứng mệt mỏi về buổi sáng</p><p>-Cải thiện sinh lực</p><p>-Tăng cường bắp thịt và xương</p><p>-Làm mạnh chức năng thận</p><p>-Cải thiện trí nhớ</p><p>-Bổ gan</p><p>-Làm dịu sự lo lắng và căng thẳng thần kinh</p><p>-Làm tỉnh thần trí</p><p>-Cải thiện tiêu hóa</p><p>....</p><p><br></p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/a7be138e-457a-49b9-959f-39d619c6dbcd.jpg\"></p><p><br></p><p>✴#Cách_dùng_kỷ_tử:</p><p>- Dùng 500ml nước sôi và hãm cùng 30 gram quả kỷ tử khô trong khoảng 20 phút, có thể hãm vài lần nước sôi cho tới khi nước nhạt thì thôi</p><p>-Hầm gà, thịt, cá...</p><p>-Ngâm rượu</p><p><br></p><p>🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀</p><p><br></p><p>☎,Zalo: Liên hệ mua hàng: 0966311292</p><p><br></p><p>🏰103 tổ 2, TT Đồng Văn, Hà Giang</p><p>🏰192 Nguyễn Huy Tưởng, Thanh Xuân,HN</p><p><br></p><p>#kỷ_tử_khô #kytukho #caukytu #giakytu #kỷ_tử #kỷtử</p>",
+    "imageUrl": "https://images.f99.com.vn/images/33c83077-72e2-4704-b18b-f3a809375632.jpg",
+    "price": 159000,
+    "oldPrice": 179000,
+    "discountPercent": 11,
+    "stock": 1421,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "500gr",
+    "sku": "KT500",
+    "origin": "",
+    "sellerId": 216,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Để nơi khô ráo thoáng mát, tránh ánh nắng mặt trời</p>",
+    "category": {
+      "id": 125,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0d58bbde-f61d-4a75-be11-0d225ce722c9.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/33c83077-72e2-4704-b18b-f3a809375632.jpg",
+      "https://images.f99.com.vn/images/36dbed0a-3cd1-4154-ac98-09ef666ac450.jpg",
+      "https://images.f99.com.vn/images/f50f098f-3de8-40d8-a5de-efc085bb3229.jpg",
+      "https://images.f99.com.vn/images/f57fd1f1-fb9d-4045-8cb5-18d76d01e1f4.jpg",
+      "https://images.f99.com.vn/images/d44d8afa-cbb0-4fbf-9e2e-dcf1575f307f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13763",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 216,
+      "sellerRate": 4.9,
+      "sellerName": "Về Bản",
+      "warehouseId": "2c09665c-515e-4f69-86a3-2156469f6e7e",
+      "warehouseAddress": "192 Nguyễn Huy Tưởng, Thanh Xuân Trung, Thanh Xuân, Hà Nội",
+      "distance": 4642,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 83.06101333333335,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": 486,
+  "name": "FAMILYFOOD",
+  "logo": "https://cdn.f99.link/groupbuy-images/e96b837e-c7cf-47f1-b5af-5b75ec6d8223.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Farmer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "- Xin chào tất cả các bạn đã đến với Family shop\n-Shop chuyên cung cấp thực phẩm an toàn với giá cả cạnh tranh đem lại bữa ăn giàu dinh dưỡng cho gia đình Việt\n-Nếu cần giao hàng ngay, cũng như cần tư vấn các bạn có thể liên hệ qua: \n+Hotline: 0914175898 \n+Zalo: 0914175898 \n+Địa chỉ: N 197 Ngõ Quỳnh, HBT, HN \n+Từ 9h đến 21h",
+  "headQuarter": "12/613 Hồng Hà, quận Hoàn Kiếm, Hà Nội",
+  "email": "dinhhuyen8480@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.8,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 121
+}

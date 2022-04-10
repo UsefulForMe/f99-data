@@ -1,0 +1,35 @@
+{
+  "id": 836,
+  "name": "Bánh đa nem làng Chều Dung Nam",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/8dc1d4b7-01d6-4804-b607-f7325eec83e4.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp bánh đa nem ,bánh đa dừa tây ninh chất lượng cao",
+  "headQuarter": "Số nhà 19 ngách 22/53 Kim Quan, Việt Hưng, Long Biên, Hà Nội",
+  "email": "audung59@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "07:20",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

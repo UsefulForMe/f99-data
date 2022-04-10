@@ -1,0 +1,35 @@
+{
+  "id": 263,
+  "name": "NatuFood",
+  "logo": "https://cdn.f99.link/groupbuy-images/9b1f84dd-52a3-4c76-b6ad-3c1f7fd7aaaf.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Natufood là chuỗi cửa hàng chuyên cung cấp các sản phẩm về thủy hải sản sạch. Với nhiều năm kinh nghiệm trong lĩnh vực sản xuất, kinh doanh và phân phối. Chúng tôi tự hào đem đến những món ăn hải sản tươi ngon, dinh dưỡng",
+  "headQuarter": "361 Hoàng Công Chất , Phú Diễn, Bắc Từ Liêm, Hà Nội",
+  "email": "natufoodmarketing@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 7
+}

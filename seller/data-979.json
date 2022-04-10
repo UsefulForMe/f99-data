@@ -1,0 +1,35 @@
+{
+  "id": 979,
+  "name": "F5 – Trái Cây Sạch, Tươi, Ngon",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/c5e03e57-4605-4a08-bc91-ed02ba6cec47.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên nho, táo Ninh Thuận hàng VietGap, các loại trái cây Việt Nam, nước ép",
+  "headQuarter": "Số 29 tổ 32 ngõ 193 Trung Kính, P. Yên Hòa, Q. Cầu Giấy, Hà Nội, Yên Hòa, Cầu Giấy, Hà Nội",
+  "email": "keothom.tham@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

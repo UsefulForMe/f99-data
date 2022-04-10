@@ -1,0 +1,35 @@
+{
+  "id": 1033,
+  "name": "Chợ Huyện Online",
+  "logo": null,
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Mr Carot- Nấu ăn cho người bận rộn",
+  "headQuarter": "301/1A Phan Văn Trị Phường 11 Quận Gò Vấp, Hồ Chí Minh, 11, Gò Vấp, Hồ Chí Minh",
+  "email": "minhtuan1304@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

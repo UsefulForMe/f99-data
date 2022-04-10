@@ -1,0 +1,35 @@
+{
+  "id": 85,
+  "name": "Cam Vinh Kỳ Yến",
+  "logo": "https://cdn.f99.link/groupbuy-images/bc2c8d6c-6f87-4d6f-94cb-cc1bd81c624f.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cam Vinh Kỳ Yến là thương hiệu Cam Vinh đầu tiên canh tác cam theo quy trình VietGAP được chứng nhận và được đăng ký sở hữu trí tuệ. ",
+  "headQuarter": "489 Hoàng Quốc Việt, Cổ Nhuế 1 Bắc Từ Liêm Hà Nội",
+  "email": "ecovifarmshopecommerce@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": false,
+  "rating": 4.7,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "17:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 3
+}

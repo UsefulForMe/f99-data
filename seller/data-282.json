@@ -1,0 +1,35 @@
+{
+  "id": 282,
+  "name": "UCA Mart",
+  "logo": "https://cdn.f99.link/groupbuy-images/9a8c5b3a-efa4-4d72-bcb9-e492fbb0e0be.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Vì cuộc sống nhân dân _ Vì sức khỏe cộng đồng",
+  "headQuarter": "Số 6 Dương Đình Nghệ, Yên Hòa, Cầu Giấy, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "06:30",
+    "closeTime": "20:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

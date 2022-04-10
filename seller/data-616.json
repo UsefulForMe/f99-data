@@ -1,0 +1,35 @@
+{
+  "id": 616,
+  "name": "MinaFood",
+  "logo": "https://cdn.f99.link/groupbuy-images/6f4b4057-f43a-4f01-bde3-f9f3a2f33824.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "MinaFoof chuyên sỉ, lẻ thực phẩm sạch",
+  "headQuarter": "12 Ơ2 Bán Đảo Linh Đàm, Hoàng Liệt, Hoàng Mai, Hà Nội",
+  "email": "nvhien155@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.4,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "20:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 7
+}

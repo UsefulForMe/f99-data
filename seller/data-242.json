@@ -1,0 +1,35 @@
+{
+  "id": 242,
+  "name": "Tổng Kho Amy Fruit",
+  "logo": "https://cdn.f99.link/groupbuy-images/49f48c2a-8631-45f7-a157-e33fd01341e3.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Tổng Kho Amy Fruit chuyên Hoa Quả nội địa, Nước ép hoa quả uy tín, chất lượng",
+  "headQuarter": "3/10 Nguyễn Văn Huyên, Nghĩa Đô, Cầu Giấy, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.1,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 1400
+}

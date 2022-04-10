@@ -1,0 +1,35 @@
+{
+  "id": 946,
+  "name": "Thực Phẩm Ngân An",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/16b0948f-5861-41ab-a017-5ede9d1a80c2.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp rau củ, thực phẩm sạch, Nông sản Việt.",
+  "headQuarter": "46 Thành Công, , Thành Công, Ba Đình, Hà Nội",
+  "email": "nguyenkimngan90@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

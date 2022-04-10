@@ -1,0 +1,35 @@
+{
+  "id": 553,
+  "name": "GẠO NGON",
+  "logo": "https://cdn.f99.link/groupbuy-images/604ddd1b-ed3d-477e-b6d9-30380d57914e.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Gạo Séng Cù là đặc sản gạo, chỉ có ở vùng núi cao Tây Bắc Việt Nam, hiện tại chỉ có ở 3 tỉnh là Điện Biên, Lào Cai, Yên Bái.🇻🇳\n🌾Là loại gạo mà bạn có thể hoàn toàn yên tâm về độ SẠCH: Sạch từ lúc canh tác đến lúc ra thành phẩm. Gạo Séng Cù được trồng trên núi cao, được trồng theo phương thức canh tác truyền thống của bà con dân tộc",
+  "headQuarter": "P11A14 Ngõ 120 Hoàng Quốc Việt, Cổ Nhuế 1, Bắc Từ Liêm, Hà Nội",
+  "email": "huyenlt1005@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

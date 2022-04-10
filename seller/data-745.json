@@ -1,0 +1,35 @@
+{
+  "id": 745,
+  "name": "MÓN NGON BẠN THÍCH",
+  "logo": "https://cdn.f99.link/groupbuy-images/5756e6b8-4e3b-4ab1-b76f-dc0498f6725d.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Shop chuyên sỉ & lẻ các mặt hàng thực phẩm thông dụng hàng ngày (thịt, cá, khô, nem chả, lạp xưởng, ăn vặt...), với phương châm kinh doanh : uy tín, chất lượng, giá cạnh tranh và phục vụ tận tình.",
+  "headQuarter": "Căn 015 An Hoà 2 đường số 14, KDC Nam Long Trần Trọng Cung, Tân Thuận Đông, Quận 7, Hồ Chí Minh",
+  "email": "khoemanhthanhcong@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": false,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "06:00",
+    "closeTime": "23:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

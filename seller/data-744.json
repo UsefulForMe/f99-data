@@ -1,0 +1,35 @@
+{
+  "id": 744,
+  "name": "THỦY MỘC  FRUIT",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/f7d2cc67-3e06-445f-9b7c-ff3d49b4b5d8.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên về trái cây bốn mùa, đến với trái cây nhà Vũ quý khách sẽ an tâm về chất lượng phục vụ cũng như chất lượng sản phẩm ",
+  "headQuarter": "39 Đường số 2, Phước Bình, Thủ Đức, Hồ Chí Minh",
+  "email": "vu.vothanh0511@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.3,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 6
+}

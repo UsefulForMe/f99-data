@@ -1,0 +1,35 @@
+{
+  "id": 373,
+  "name": "Công ty TNHH Thực Phẩm Tư Thao",
+  "logo": "https://cdn.f99.link/groupbuy-images/c809598f-6633-4749-a3fc-324c601a7347.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Thực phẩm tươi hằng ngày, thực phẩm đông lạnh, rau củ hữu cơ, gia vị",
+  "headQuarter": "Số 1 Ngõ 129 Nguyễn Xiển, Hạ Đình, Thanh Xuân, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.6,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 40
+}

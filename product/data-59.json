@@ -1,0 +1,2550 @@
+[
+  {
+    "id": 17479,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Quả Na Đồng Bành",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">THÔNG TIN SẢN PHẨM:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span>Quả Na rất ngọt và thơm.</p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span>Những quả na được hái khi đã “mở mắt” (già quả nếu để trên cây 1,2 ngày sẽ chín tụt lõ và rụng) , na được hái từ khi mặt trời mới mọc đến gần 7h sáng là dừng vì khi nắng lên cao phân biệt na mở mắt hay chớm mở mắt sẽ khó hơn.&nbsp;</p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">GIÁ TRỊ DINH DƯỠNG:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Na Đài Loan có rất ít chất béo và không chứa cholesterol.&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Cung cấp kali, magie, canxi và vitamin C tuyệt vời</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Loại na này có rất nhiều tác dụng đối với sức khỏe con người như bổ mắt, chữa bệnh hen, ổn định nhịp tim, huyết áp, cải thiện hệ tiêu hóa, ngăn ngừa lão hóa, chống ung thư da.&nbsp;</span></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">HƯỚNG DẪN SỬ DỤNG:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓ Dùng ăn trực tiếp.</span></p><p><strong style=\"color: rgb(0, 0, 0);\">HƯỚNG DẪN BẢO QUẢN:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓ Bảo quản tốt nhất trong ngăn mát tủ lạnh.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/dd1335bd-770f-4c42-9eca-ca23c47ccfd4.jpg\",\"https://images.f99.com.vn/images/58700139-89a0-432f-9c78-358c1358c70e.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Quả Na Đồng Bành",
+    "description": "<p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">THÔNG TIN SẢN PHẨM:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span>Quả Na rất ngọt và thơm.</p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span>Những quả na được hái khi đã “mở mắt” (già quả nếu để trên cây 1,2 ngày sẽ chín tụt lõ và rụng) , na được hái từ khi mặt trời mới mọc đến gần 7h sáng là dừng vì khi nắng lên cao phân biệt na mở mắt hay chớm mở mắt sẽ khó hơn.&nbsp;</p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">GIÁ TRỊ DINH DƯỠNG:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Na Đài Loan có rất ít chất béo và không chứa cholesterol.&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Cung cấp kali, magie, canxi và vitamin C tuyệt vời</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Loại na này có rất nhiều tác dụng đối với sức khỏe con người như bổ mắt, chữa bệnh hen, ổn định nhịp tim, huyết áp, cải thiện hệ tiêu hóa, ngăn ngừa lão hóa, chống ung thư da.&nbsp;</span></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">HƯỚNG DẪN SỬ DỤNG:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓ Dùng ăn trực tiếp.</span></p><p><strong style=\"color: rgb(0, 0, 0);\">HƯỚNG DẪN BẢO QUẢN:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓ Bảo quản tốt nhất trong ngăn mát tủ lạnh.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/dd1335bd-770f-4c42-9eca-ca23c47ccfd4.jpg",
+    "price": 45000,
+    "oldPrice": 70000,
+    "discountPercent": 36,
+    "stock": 79,
+    "totalSold": 2456,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 59,
+      "name": "Na",
+      "imageUrl": "https://imgur.com/7BKChN4.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/dd1335bd-770f-4c42-9eca-ca23c47ccfd4.jpg",
+      "https://images.f99.com.vn/images/58700139-89a0-432f-9c78-358c1358c70e.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/17479",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg",
+          "Combo 3kg",
+          "Combo 5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 17480,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 59900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 52,
+        "totalSold": 1129,
+        "unit": "Kg",
+        "sku": "20001887",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 17481,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "42,9k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 175900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 17,
+        "totalSold": 715,
+        "unit": "Kg",
+        "sku": "20001888",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "42,9k/kg",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 17482,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "38,9k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 279900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 612,
+        "unit": "Kg",
+        "sku": "20001889",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "38,9k/kg",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 19277,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Na giống Thái",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Na thái là giống cây nhập ngoại thích nghi khá tốt với khí hậu Việt Nam. Na Thái có vị ngọt hương thơm như hương hoa hồng.</p><p><br></p><p><strong>GIÁ TRỊ DINH DƯỠNG:</strong></p><p>✓ Na có rất ít chất béo và không chứa cholesterol.&nbsp;</p><p>✓ Cung cấp kali, magie, canxi và vitamin C tuyệt vời</p><p>✓ Loại na này có rất nhiều tác dụng đối với sức khỏe con người như bổ mắt, chữa bệnh hen, ổn định nhịp tim, huyết áp, cải thiện hệ tiêu hóa, ngăn ngừa lão hóa, chống ung thư da.&nbsp;</p><p><br></p><p><strong>HƯỚNG DẪN SỬ DỤNG</strong>:</p><p>✓ Khi ăn Na sẽ phải dùng dao sắc nhọn để gọt vỏ do lớp vỏ khá mỏng.&nbsp;</p><p>✓ Nên cắt thành các miếng nhỏ để trong tủ lạnh từ 15-20 trước khi ăn để tăng thêm hương vị của trái Na.</p><p>✓ Dùng ăn trực tiếp.</p><p><br></p><p><strong>HƯỚNG DẪN BẢO QUẢN:</strong></p><p>✓ Bảo quản tốt nhất trong ngăn mát tủ lạnh.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/97e8daa8-f98c-4f7c-b343-9b0e47c90aa0.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Na giống Thái",
+    "description": "<p>Na thái là giống cây nhập ngoại thích nghi khá tốt với khí hậu Việt Nam. Na Thái có vị ngọt hương thơm như hương hoa hồng.</p><p><br></p><p><strong>GIÁ TRỊ DINH DƯỠNG:</strong></p><p>✓ Na có rất ít chất béo và không chứa cholesterol.&nbsp;</p><p>✓ Cung cấp kali, magie, canxi và vitamin C tuyệt vời</p><p>✓ Loại na này có rất nhiều tác dụng đối với sức khỏe con người như bổ mắt, chữa bệnh hen, ổn định nhịp tim, huyết áp, cải thiện hệ tiêu hóa, ngăn ngừa lão hóa, chống ung thư da.&nbsp;</p><p><br></p><p><strong>HƯỚNG DẪN SỬ DỤNG</strong>:</p><p>✓ Khi ăn Na sẽ phải dùng dao sắc nhọn để gọt vỏ do lớp vỏ khá mỏng.&nbsp;</p><p>✓ Nên cắt thành các miếng nhỏ để trong tủ lạnh từ 15-20 trước khi ăn để tăng thêm hương vị của trái Na.</p><p>✓ Dùng ăn trực tiếp.</p><p><br></p><p><strong>HƯỚNG DẪN BẢO QUẢN:</strong></p><p>✓ Bảo quản tốt nhất trong ngăn mát tủ lạnh.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/97e8daa8-f98c-4f7c-b343-9b0e47c90aa0.jpg",
+    "price": 84900,
+    "oldPrice": 130000,
+    "discountPercent": 35,
+    "stock": 8,
+    "totalSold": 343,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "20001092",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 59,
+      "name": "Na",
+      "imageUrl": "https://imgur.com/7BKChN4.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/97e8daa8-f98c-4f7c-b343-9b0e47c90aa0.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/19277",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg",
+          "Combo 3kg",
+          "Combo 5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 19278,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 84900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 6,
+        "totalSold": 114,
+        "unit": "Kg",
+        "sku": "20001092",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 19279,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "79,9k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 239700,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 2,
+        "totalSold": 115,
+        "unit": "Kg",
+        "sku": "20001906",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "79,9k/kg",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 19280,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "70,9k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 354500,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 0,
+        "totalSold": 114,
+        "unit": "Kg",
+        "sku": "20001907",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "70,9k/kg",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 29622,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Na Thái",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Na Thái là loại trái cây rất nhiều người ưa chuộng và thích ăn vì vỏ mỏng, ngọt lịm</p><p>Na Thái có nhiều vitamin A, C giúp cải thiện thị lực và chống lão hoá.Hàm lượng magie và kali có trong quả na còn giúp bảo vệ hệ tim mạch, chống mệt mỏi, đặc biệt tốt cho phụ nữ mang thai.</p><p>Na Thái chứa nhiều chất sơ giúp cải thiện hệ tiêu hoá</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/6bf80803-f39c-4c5c-aaf1-d58f9b565e1a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"na thái\",\"na thái lan\",\"na\",\"na thai lan\",\"na thai\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Na Thái",
+    "description": "<p>Na Thái là loại trái cây rất nhiều người ưa chuộng và thích ăn vì vỏ mỏng, ngọt lịm</p><p>Na Thái có nhiều vitamin A, C giúp cải thiện thị lực và chống lão hoá.Hàm lượng magie và kali có trong quả na còn giúp bảo vệ hệ tim mạch, chống mệt mỏi, đặc biệt tốt cho phụ nữ mang thai.</p><p>Na Thái chứa nhiều chất sơ giúp cải thiện hệ tiêu hoá</p>",
+    "imageUrl": "https://images.f99.com.vn/images/6bf80803-f39c-4c5c-aaf1-d58f9b565e1a.jpg",
+    "price": 70000,
+    "oldPrice": 100000,
+    "discountPercent": 30,
+    "stock": 0,
+    "totalSold": 88,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 484,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>bảo quản thoáng mát</p>",
+    "category": {
+      "id": 59,
+      "name": "Na",
+      "imageUrl": "https://imgur.com/7BKChN4.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "na thái",
+      "na thái lan",
+      "na",
+      "na thai lan",
+      "na thai"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/6bf80803-f39c-4c5c-aaf1-d58f9b565e1a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/29622",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg",
+          "2kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 35589,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 70000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 0,
+        "totalSold": 44,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>bảo quản thoáng mát</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 35588,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 130000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 0,
+        "totalSold": 44,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>bảo quản thoáng mát</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "2kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 484,
+      "sellerRate": 4.6,
+      "sellerName": "HOME FRUITS",
+      "warehouseId": "c9100430-cbd7-4e59-a914-9ce7a7071cbc",
+      "warehouseAddress": "Số 172 Trần Bình, phường Mỹ Đình, Quận Nam Từ Liêm, Hà Nội",
+      "distance": 6740,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 80.48249894439043,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 29636,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Na Đồng Bành Size Nhỏ (5,6 Quả/Kg)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"background-color: transparent;\">THÔNG TIN SẢN PHẨM:</strong></p><p>✓&nbsp;Quả Na rất ngọt và thơm.</p><p>✓&nbsp;Những quả na được hái khi đã “mở mắt” (già quả nếu để trên cây 1,2 ngày sẽ chín tụt lõ và rụng) , na được hái từ khi mặt trời mới mọc đến gần 7h sáng là dừng vì khi nắng lên cao phân biệt na mở mắt hay chớm mở mắt sẽ khó hơn.&nbsp;</p><p><br></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent;\">GIÁ TRỊ DINH DƯỠNG:</strong></p><p class=\"ql-align-justify\">✓&nbsp;<span style=\"background-color: transparent;\">Na Đài Loan có rất ít chất béo và không chứa cholesterol.&nbsp;</span></p><p class=\"ql-align-justify\">✓&nbsp;<span style=\"background-color: transparent;\">Cung cấp kali, magie, canxi và vitamin C tuyệt vời</span></p><p class=\"ql-align-justify\">✓&nbsp;<span style=\"background-color: transparent;\">Loại na này có rất nhiều tác dụng đối với sức khỏe con người như bổ mắt, chữa bệnh hen, ổn định nhịp tim, huyết áp, cải thiện hệ tiêu hóa, ngăn ngừa lão hóa, chống ung thư da.&nbsp;</span></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent;\">HƯỚNG DẪN SỬ DỤNG:</strong></p><p>✓ Dùng ăn trực tiếp.</p><p><strong>HƯỚNG DẪN BẢO QUẢN:</strong></p><p>✓ Bảo quản tốt nhất trong ngăn mát tủ lạnh.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/9220efb0-930f-4471-bda6-122abf1b24da.jpg\",\"https://images.f99.com.vn/images/a8efbef9-198f-46fe-b274-bf1728de6188.jpg\",\"https://images.f99.com.vn/images/07496887-a5a1-4ed9-a1ba-558cd69b486f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"na đồng bành size nhỏ\",\"na\",\"na dong banh nho\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Na Đồng Bành Size Nhỏ (5,6 Quả/Kg)",
+    "description": "<p><strong style=\"background-color: transparent;\">THÔNG TIN SẢN PHẨM:</strong></p><p>✓&nbsp;Quả Na rất ngọt và thơm.</p><p>✓&nbsp;Những quả na được hái khi đã “mở mắt” (già quả nếu để trên cây 1,2 ngày sẽ chín tụt lõ và rụng) , na được hái từ khi mặt trời mới mọc đến gần 7h sáng là dừng vì khi nắng lên cao phân biệt na mở mắt hay chớm mở mắt sẽ khó hơn.&nbsp;</p><p><br></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent;\">GIÁ TRỊ DINH DƯỠNG:</strong></p><p class=\"ql-align-justify\">✓&nbsp;<span style=\"background-color: transparent;\">Na Đài Loan có rất ít chất béo và không chứa cholesterol.&nbsp;</span></p><p class=\"ql-align-justify\">✓&nbsp;<span style=\"background-color: transparent;\">Cung cấp kali, magie, canxi và vitamin C tuyệt vời</span></p><p class=\"ql-align-justify\">✓&nbsp;<span style=\"background-color: transparent;\">Loại na này có rất nhiều tác dụng đối với sức khỏe con người như bổ mắt, chữa bệnh hen, ổn định nhịp tim, huyết áp, cải thiện hệ tiêu hóa, ngăn ngừa lão hóa, chống ung thư da.&nbsp;</span></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent;\">HƯỚNG DẪN SỬ DỤNG:</strong></p><p>✓ Dùng ăn trực tiếp.</p><p><strong>HƯỚNG DẪN BẢO QUẢN:</strong></p><p>✓ Bảo quản tốt nhất trong ngăn mát tủ lạnh.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/9220efb0-930f-4471-bda6-122abf1b24da.jpg",
+    "price": 55000,
+    "oldPrice": 65000,
+    "discountPercent": 15,
+    "stock": 0,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 484,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 59,
+      "name": "Na",
+      "imageUrl": "https://imgur.com/7BKChN4.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "na đồng bành size nhỏ",
+      "na",
+      "na dong banh nho"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/9220efb0-930f-4471-bda6-122abf1b24da.jpg",
+      "https://images.f99.com.vn/images/a8efbef9-198f-46fe-b274-bf1728de6188.jpg",
+      "https://images.f99.com.vn/images/07496887-a5a1-4ed9-a1ba-558cd69b486f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/29636",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 95704,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 55000,
+        "oldPrice": 65000,
+        "discountPercent": 15,
+        "stock": 0,
+        "totalSold": 0,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 484,
+      "sellerRate": 4.6,
+      "sellerName": "HOME FRUITS",
+      "warehouseId": "c9100430-cbd7-4e59-a914-9ce7a7071cbc",
+      "warehouseAddress": "Số 172 Trần Bình, phường Mỹ Đình, Quận Nam Từ Liêm, Hà Nội",
+      "distance": 6740,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 80.48249894439043,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 29657,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Na Đồng Bành Size To (2,3 Quả/Kg)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"background-color: transparent;\">THÔNG TIN SẢN PHẨM:</strong></p><p>✓&nbsp;Quả Na rất ngọt và thơm.</p><p>✓&nbsp;Những quả na được hái khi đã “mở mắt” (già quả nếu để trên cây 1,2 ngày sẽ chín tụt lõ và rụng) , na được hái từ khi mặt trời mới mọc đến gần 7h sáng là dừng vì khi nắng lên cao phân biệt na mở mắt hay chớm mở mắt sẽ khó hơn.&nbsp;</p><p><br></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent;\">GIÁ TRỊ DINH DƯỠNG:</strong></p><p class=\"ql-align-justify\">✓&nbsp;<span style=\"background-color: transparent;\">Na Đài Loan có rất ít chất béo và không chứa cholesterol.&nbsp;</span></p><p class=\"ql-align-justify\">✓&nbsp;<span style=\"background-color: transparent;\">Cung cấp kali, magie, canxi và vitamin C tuyệt vời</span></p><p class=\"ql-align-justify\">✓&nbsp;<span style=\"background-color: transparent;\">Loại na này có rất nhiều tác dụng đối với sức khỏe con người như bổ mắt, chữa bệnh hen, ổn định nhịp tim, huyết áp, cải thiện hệ tiêu hóa, ngăn ngừa lão hóa, chống ung thư da.&nbsp;</span></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent;\">HƯỚNG DẪN SỬ DỤNG:</strong></p><p>✓ Dùng ăn trực tiếp.</p><p><strong>HƯỚNG DẪN BẢO QUẢN:</strong></p><p>✓ Bảo quản tốt nhất trong ngăn mát tủ lạnh.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/7f8a8fa7-2a41-4314-9ff2-a27b2809faca.jpg\",\"https://images.f99.com.vn/images/39698b83-cb67-4ce1-8fbf-a4638c05bf9f.jpg\",\"https://images.f99.com.vn/images/bbd1faef-71b4-4cd3-9f4c-8afecb2dd1ce.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"na đồng bành size to\",\"na to\",\"na đồng bành\",\"nna\",\"na dong banh\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Na Đồng Bành Size To (2,3 Quả/Kg)",
+    "description": "<p><strong style=\"background-color: transparent;\">THÔNG TIN SẢN PHẨM:</strong></p><p>✓&nbsp;Quả Na rất ngọt và thơm.</p><p>✓&nbsp;Những quả na được hái khi đã “mở mắt” (già quả nếu để trên cây 1,2 ngày sẽ chín tụt lõ và rụng) , na được hái từ khi mặt trời mới mọc đến gần 7h sáng là dừng vì khi nắng lên cao phân biệt na mở mắt hay chớm mở mắt sẽ khó hơn.&nbsp;</p><p><br></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent;\">GIÁ TRỊ DINH DƯỠNG:</strong></p><p class=\"ql-align-justify\">✓&nbsp;<span style=\"background-color: transparent;\">Na Đài Loan có rất ít chất béo và không chứa cholesterol.&nbsp;</span></p><p class=\"ql-align-justify\">✓&nbsp;<span style=\"background-color: transparent;\">Cung cấp kali, magie, canxi và vitamin C tuyệt vời</span></p><p class=\"ql-align-justify\">✓&nbsp;<span style=\"background-color: transparent;\">Loại na này có rất nhiều tác dụng đối với sức khỏe con người như bổ mắt, chữa bệnh hen, ổn định nhịp tim, huyết áp, cải thiện hệ tiêu hóa, ngăn ngừa lão hóa, chống ung thư da.&nbsp;</span></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent;\">HƯỚNG DẪN SỬ DỤNG:</strong></p><p>✓ Dùng ăn trực tiếp.</p><p><strong>HƯỚNG DẪN BẢO QUẢN:</strong></p><p>✓ Bảo quản tốt nhất trong ngăn mát tủ lạnh.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/7f8a8fa7-2a41-4314-9ff2-a27b2809faca.jpg",
+    "price": 85000,
+    "oldPrice": 90000,
+    "discountPercent": 6,
+    "stock": 500,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 484,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 59,
+      "name": "Na",
+      "imageUrl": "https://imgur.com/7BKChN4.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "na đồng bành size to",
+      "na to",
+      "na đồng bành",
+      "nna",
+      "na dong banh"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/7f8a8fa7-2a41-4314-9ff2-a27b2809faca.jpg",
+      "https://images.f99.com.vn/images/39698b83-cb67-4ce1-8fbf-a4638c05bf9f.jpg",
+      "https://images.f99.com.vn/images/bbd1faef-71b4-4cd3-9f4c-8afecb2dd1ce.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/29657",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 95705,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 85000,
+        "oldPrice": 90000,
+        "discountPercent": 6,
+        "stock": 500,
+        "totalSold": 0,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 484,
+      "sellerRate": 4.6,
+      "sellerName": "HOME FRUITS",
+      "warehouseId": "c9100430-cbd7-4e59-a914-9ce7a7071cbc",
+      "warehouseAddress": "Số 172 Trần Bình, phường Mỹ Đình, Quận Nam Từ Liêm, Hà Nội",
+      "distance": 6740,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 80.48249894439043,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 35690,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Na Đồng Bành Size Vừa 4 Quả/KG",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>na vừa ăn rất ngon</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/3866a945-9878-40fa-920a-1ebbd982268f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"na\",\"na đồng bành\",\"na thái\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Na Đồng Bành Size Vừa 4 Quả/KG",
+    "description": "<p>na vừa ăn rất ngon</p>",
+    "imageUrl": "https://images.f99.com.vn/images/3866a945-9878-40fa-920a-1ebbd982268f.jpg",
+    "price": 55000,
+    "oldPrice": 75000,
+    "discountPercent": 27,
+    "stock": 0,
+    "totalSold": 134,
+    "maxQuantityPerUser": null,
+    "unit": "1 kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 484,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 59,
+      "name": "Na",
+      "imageUrl": "https://imgur.com/7BKChN4.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "na",
+      "na đồng bành",
+      "na thái"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/3866a945-9878-40fa-920a-1ebbd982268f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/35690",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1 kg",
+          "2 kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 44820,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 55000,
+        "oldPrice": 75000,
+        "discountPercent": 27,
+        "stock": 0,
+        "totalSold": 67,
+        "unit": "1 kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1 kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 44819,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "2 kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 105000,
+        "oldPrice": 75000,
+        "discountPercent": -40,
+        "stock": 0,
+        "totalSold": 67,
+        "unit": "1 kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "2 kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 484,
+      "sellerRate": 4.6,
+      "sellerName": "HOME FRUITS",
+      "warehouseId": "c9100430-cbd7-4e59-a914-9ce7a7071cbc",
+      "warehouseAddress": "Số 172 Trần Bình, phường Mỹ Đình, Quận Nam Từ Liêm, Hà Nội",
+      "distance": 6740,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 80.48249894439043,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 37677,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "NA THÁI SƠN LA ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/504b39a6-b44a-4c00-896c-b37d807129b5.jpg\",\"https://images.f99.com.vn/images/b3f86ebd-62d0-4d96-b883-a5d738174587.jpg\",\"https://images.f99.com.vn/images/338e1c92-458c-44e6-ba9a-9c943b507e1e.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "NA THÁI SƠN LA ",
+    "description": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/504b39a6-b44a-4c00-896c-b37d807129b5.jpg",
+    "price": 95000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1000,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "1 kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 555,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 59,
+      "name": "Na",
+      "imageUrl": "https://imgur.com/7BKChN4.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/504b39a6-b44a-4c00-896c-b37d807129b5.jpg",
+      "https://images.f99.com.vn/images/b3f86ebd-62d0-4d96-b883-a5d738174587.jpg",
+      "https://images.f99.com.vn/images/338e1c92-458c-44e6-ba9a-9c943b507e1e.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/37677",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 78831,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 95000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 1000,
+        "totalSold": 2,
+        "unit": "1 kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 555,
+      "sellerRate": 4.2,
+      "sellerName": "LYD-THỰC PHẨM BẢN ĐỊA",
+      "warehouseId": "142d7402-ee61-4928-99d8-6f9713667779",
+      "warehouseAddress": " Hà Nội,  Cầu Giấy,  Nghĩa Đô, Số 17 ngõ 123 Hoàng quốc Việt",
+      "distance": 4041,
+      "warehouseDistrict": "cau giay",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 92818,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Na Thái Tây Ninh",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>NA Thái Tây Ninh </p><p>-Na thái ngọt , thơm , vỏ mỏng nhiều thịt và ít hạt. thích hợp cho mọi lứa tuổi, người lớn , trẻ nhỏ đều dung được</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/f0b33687-4cb1-46af-9754-e267ae2c610c.jpg\",\"https://images.f99.com.vn/images/7fea5e00-805d-49f0-a469-a220b12347cf.jpg\",\"https://images.f99.com.vn/images/732c2e0f-132c-4bc2-ae63-742bd93fa488.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Na Thái Tây Ninh",
+    "description": "<p>NA Thái Tây Ninh </p><p>-Na thái ngọt , thơm , vỏ mỏng nhiều thịt và ít hạt. thích hợp cho mọi lứa tuổi, người lớn , trẻ nhỏ đều dung được</p>",
+    "imageUrl": "https://images.f99.com.vn/images/f0b33687-4cb1-46af-9754-e267ae2c610c.jpg",
+    "price": 99000,
+    "oldPrice": 150000,
+    "discountPercent": 34,
+    "stock": 50,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 118,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ở nhiệt độ thường</p>",
+    "category": {
+      "id": 59,
+      "name": "Na",
+      "imageUrl": "https://imgur.com/7BKChN4.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/f0b33687-4cb1-46af-9754-e267ae2c610c.jpg",
+      "https://images.f99.com.vn/images/7fea5e00-805d-49f0-a469-a220b12347cf.jpg",
+      "https://images.f99.com.vn/images/732c2e0f-132c-4bc2-ae63-742bd93fa488.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/92818",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 92819,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 99000,
+        "oldPrice": 150000,
+        "discountPercent": 34,
+        "stock": 50,
+        "totalSold": 0,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ở nhiệt độ thường</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 118,
+      "sellerRate": 3.9,
+      "sellerName": "Đinh Hương Fruit",
+      "warehouseId": "7d5007b2-5563-4d11-a461-2b659e39fcf0",
+      "warehouseAddress": "64 Khương Đình, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",
+      "distance": 3572,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 55.8364615384624,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 95538,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Na Đài Loan",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgb(32, 33, 36);\">Na Đài Loan</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;hay còn gọi là mãng cầu có nhiều&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">tác dụng</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;như rất tốt cho mắt, giúp chữa bệnh hen, điều khiển nhịp tim và huyết áp, cải thiện tiêu hoá, ngăn ngừa mệt mỏi, cải thiện sức khoẻ của&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">não</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;bộ, giảm tình trạng mất ngủ, ngăn ngừa lão hoá, đặc biệt ngăn ngừa nguy cơ ung thư da</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/cbbed2cf-8232-43e9-a647-37de8aeb0aa2.jpg\",\"https://images.f99.com.vn/images/db95a5f9-db7e-43bf-81f3-89024db0b778.jpg\",\"https://images.f99.com.vn/images/5818e278-c77f-4f2a-9609-543c8bbb3c2b.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Na Đài Loan",
+    "description": "<p><strong style=\"color: rgb(32, 33, 36);\">Na Đài Loan</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;hay còn gọi là mãng cầu có nhiều&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">tác dụng</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;như rất tốt cho mắt, giúp chữa bệnh hen, điều khiển nhịp tim và huyết áp, cải thiện tiêu hoá, ngăn ngừa mệt mỏi, cải thiện sức khoẻ của&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">não</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;bộ, giảm tình trạng mất ngủ, ngăn ngừa lão hoá, đặc biệt ngăn ngừa nguy cơ ung thư da</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/cbbed2cf-8232-43e9-a647-37de8aeb0aa2.jpg",
+    "price": 280000,
+    "oldPrice": 323000,
+    "discountPercent": 13,
+    "stock": 5,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "15",
+    "sku": "",
+    "origin": "",
+    "sellerId": 277,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>tủ lạnh hoặc để ở nhiệt độ thường</p>",
+    "category": {
+      "id": 59,
+      "name": "Na",
+      "imageUrl": "https://imgur.com/7BKChN4.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/cbbed2cf-8232-43e9-a647-37de8aeb0aa2.jpg",
+      "https://images.f99.com.vn/images/db95a5f9-db7e-43bf-81f3-89024db0b778.jpg",
+      "https://images.f99.com.vn/images/5818e278-c77f-4f2a-9609-543c8bbb3c2b.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/95538",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "15"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 95539,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "15",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "15",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "15",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 280000,
+        "oldPrice": 323000,
+        "discountPercent": 13,
+        "stock": 5,
+        "totalSold": 0,
+        "unit": "15",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>tủ lạnh hoặc để ở nhiệt độ thường</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "15"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 277,
+      "sellerRate": 4.4,
+      "sellerName": "Cửa hàng trái cây nhập khẩu Fresh Safe Fruits ",
+      "warehouseId": "3e83d44f-ec12-4b20-91a8-4e64e47bf46f",
+      "warehouseAddress": "Số ML6-23 đường Mộc Lan, Khu đô thị Vinhomes Green Bay, Mễ Trì, Nam Từ Liêm, Hà Nội",
+      "distance": 5793,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 71.89346119658168,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 96024,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Na",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<ul><li class=\"ql-align-justify\">Dựa vào vỏ na: Những&nbsp;quả na&nbsp;vỏ cứng là na bở, vỏ mềm đó là na dai nên bạn cần biết để chọn được loại na thích hợp.</li><li class=\"ql-align-justify\">Dựa vào mắt na: Na chín vừa là na có mắt mở to, núm nhỏ không thâm đen hay nứt nẻ. Không nên chọn những quả có vết nứt bởi na chín quá vừa không ngon vừa mất một số chất dinh dưỡng thiết yếu.</li><li class=\"ql-align-justify\">Những quả na dai, ngon thường có cuống. Nếu là na chín cây thì cuống vẫn còn gắn ở quả, ăn rất ngọt và thơm. Do đó, khi chọn mua na các bạn nên lựa chọn những quả còn cuống nhé.</li><li class=\"ql-align-justify\">Quả na&nbsp;ngon là quả có mắt to đều, núm nhỏ, vỏ có màu trắng ngà không thâm đen nứt nẻ. Với những quả na có nhiều vết nứt nẻ, va chạm và ở các vết đó có dấu hiệu chảy nước, tuyệt đối không chọn bởi na ăn sẽ không ngon, vị ủng hoặc sẽ có giòi.</li></ul><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/7b213451-a447-490c-a22d-5471e96bf275.jpg\",\"https://images.f99.com.vn/images/230e9b33-57bd-47ff-9c7c-c4fc9d456f6e.jpg\",\"https://images.f99.com.vn/images/cb1ef780-5a72-41f8-a875-45eb32461e50.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"na\",\"na\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Na",
+    "description": "<ul><li class=\"ql-align-justify\">Dựa vào vỏ na: Những&nbsp;quả na&nbsp;vỏ cứng là na bở, vỏ mềm đó là na dai nên bạn cần biết để chọn được loại na thích hợp.</li><li class=\"ql-align-justify\">Dựa vào mắt na: Na chín vừa là na có mắt mở to, núm nhỏ không thâm đen hay nứt nẻ. Không nên chọn những quả có vết nứt bởi na chín quá vừa không ngon vừa mất một số chất dinh dưỡng thiết yếu.</li><li class=\"ql-align-justify\">Những quả na dai, ngon thường có cuống. Nếu là na chín cây thì cuống vẫn còn gắn ở quả, ăn rất ngọt và thơm. Do đó, khi chọn mua na các bạn nên lựa chọn những quả còn cuống nhé.</li><li class=\"ql-align-justify\">Quả na&nbsp;ngon là quả có mắt to đều, núm nhỏ, vỏ có màu trắng ngà không thâm đen nứt nẻ. Với những quả na có nhiều vết nứt nẻ, va chạm và ở các vết đó có dấu hiệu chảy nước, tuyệt đối không chọn bởi na ăn sẽ không ngon, vị ủng hoặc sẽ có giòi.</li></ul><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/7b213451-a447-490c-a22d-5471e96bf275.jpg",
+    "price": 100000,
+    "oldPrice": 110000,
+    "discountPercent": 9,
+    "stock": 0,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "4 quả ( ~1 kg)",
+    "sku": "",
+    "origin": "",
+    "sellerId": 1027,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 59,
+      "name": "Na",
+      "imageUrl": "https://imgur.com/7BKChN4.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "na",
+      "na"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/7b213451-a447-490c-a22d-5471e96bf275.jpg",
+      "https://images.f99.com.vn/images/230e9b33-57bd-47ff-9c7c-c4fc9d456f6e.jpg",
+      "https://images.f99.com.vn/images/cb1ef780-5a72-41f8-a875-45eb32461e50.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/96024",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "4 quả ( ~1 kg)"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 96025,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "4 quả ( ~1 kg)",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "4 quả ( ~1 kg)",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "4 quả ( ~1 kg)",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 100000,
+        "oldPrice": 110000,
+        "discountPercent": 9,
+        "stock": 0,
+        "totalSold": 0,
+        "unit": "4 quả ( ~1 kg)",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "4 quả ( ~1 kg)"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1027,
+      "sellerRate": 4.2,
+      "sellerName": "Dương Đào Fruits",
+      "warehouseId": "bade7cf5-3509-400f-85da-a5a1e953f35b",
+      "warehouseAddress": "118 Lương Yên, Phường Bạch Đằng, Quận Hai Bà Trưng, Hà Nội,  Bạch Đằng,  Hai Bà Trưng,  Hà Nội",
+      "distance": 3655,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 0,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

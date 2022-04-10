@@ -1,0 +1,4473 @@
+[
+  {
+    "id": 8057,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Măng Trúc Nhỏ Tây Bắc 200gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Măng Trúc Nhỏ Tây Bắc 200gr</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/853e8c80eab6449586b297e725f722bb.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Măng Trúc Nhỏ Tây Bắc 200gr",
+    "description": "<p>Măng Trúc Nhỏ Tây Bắc 200gr</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/853e8c80eab6449586b297e725f722bb.jpg",
+    "price": 22000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 7,
+    "maxQuantityPerUser": null,
+    "unit": "Gói",
+    "sku": "8938519980211",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 97,
+      "name": "Củ ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/e70500b4-6fb9-4275-85f1-cba07f33720b.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/853e8c80eab6449586b297e725f722bb.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8057",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8058,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Măng Khô Nấu Liền Tây Bắc 300gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Măng Khô Nấu Liền Tây Bắc 300gr</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/2fb6ff79045744edb0557a72884b537d.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Măng Khô Nấu Liền Tây Bắc 300gr",
+    "description": "<p>Măng Khô Nấu Liền Tây Bắc 300gr</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/2fb6ff79045744edb0557a72884b537d.jpg",
+    "price": 20000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 6,
+    "maxQuantityPerUser": null,
+    "unit": "Gói",
+    "sku": "8938519980204",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 97,
+      "name": "Củ ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/e70500b4-6fb9-4275-85f1-cba07f33720b.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/2fb6ff79045744edb0557a72884b537d.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8058",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8059,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Măng Lá Tươi 500gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Măng Lá Tươi 500gr</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/97794ed9f630468fb5a8ec63ed5e6cfc.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Măng Lá Tươi 500gr",
+    "description": "<p>Măng Lá Tươi 500gr</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/97794ed9f630468fb5a8ec63ed5e6cfc.jpg",
+    "price": 22000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 8,
+    "maxQuantityPerUser": null,
+    "unit": "Gói",
+    "sku": "8938519980112",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 97,
+      "name": "Củ ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/e70500b4-6fb9-4275-85f1-cba07f33720b.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/97794ed9f630468fb5a8ec63ed5e6cfc.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8059",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14306,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Củ Đậu",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Hoa Quả Rau củ Tươi Ngon. Nhập mới hàng ngày.</p><p><br></p><p>Kho hàng: số 52 ngõ 365 đường Bưởi, Ba Đình</p><p><br></p><p>Đặt hàng rau củ quả thực phẩm tươi sống sạch chất lượng tại: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fhomeyfood.net%2F%3Ffbclid%3DIwAR2JSxaf4GfQlgE8nUH0__xHpH8v6NF_BMppYMwjdVoca6iDDHe6lN7uhpA&amp;h=AT1N_fAYZiYWuKq_b3RsKWHHIUCahTIGKOMbJ0fsSzdp9NMquXMl87dsM3BUkmXxyRilEIJ-NySoeY0GmS30O6Quh2y-BvQ3zaB1ECscOtQWuEVU0OSuNsXKS0nuJe5-gWi4nw\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--always-white);\">https://homeyfood.net</a></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/00c37b72-91f6-4f58-8cf5-7d2a9f83ed18.jpg\",\"https://images.f99.com.vn/images/f264ded6-3940-4752-80d5-de835ac5c4d4.jpg\",\"https://images.f99.com.vn/images/912fb1d1-2dc6-4077-801f-340bb3bf85b2.jpg\",\"https://images.f99.com.vn/images/5a0f051d-48bc-4034-9433-c00c37eb7ed0.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Củ Đậu",
+    "description": "<p>Hoa Quả Rau củ Tươi Ngon. Nhập mới hàng ngày.</p><p><br></p><p>Kho hàng: số 52 ngõ 365 đường Bưởi, Ba Đình</p><p><br></p><p>Đặt hàng rau củ quả thực phẩm tươi sống sạch chất lượng tại: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fhomeyfood.net%2F%3Ffbclid%3DIwAR2JSxaf4GfQlgE8nUH0__xHpH8v6NF_BMppYMwjdVoca6iDDHe6lN7uhpA&amp;h=AT1N_fAYZiYWuKq_b3RsKWHHIUCahTIGKOMbJ0fsSzdp9NMquXMl87dsM3BUkmXxyRilEIJ-NySoeY0GmS30O6Quh2y-BvQ3zaB1ECscOtQWuEVU0OSuNsXKS0nuJe5-gWi4nw\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--always-white);\">https://homeyfood.net</a></p>",
+    "imageUrl": "https://images.f99.com.vn/images/00c37b72-91f6-4f58-8cf5-7d2a9f83ed18.jpg",
+    "price": 8000,
+    "oldPrice": 12000,
+    "discountPercent": 33,
+    "stock": 999,
+    "totalSold": 11,
+    "maxQuantityPerUser": null,
+    "unit": "500 gram",
+    "sku": "",
+    "origin": "",
+    "sellerId": 240,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.9,
+    "instructions": "",
+    "category": {
+      "id": 97,
+      "name": "Củ ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/e70500b4-6fb9-4275-85f1-cba07f33720b.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/00c37b72-91f6-4f58-8cf5-7d2a9f83ed18.jpg",
+      "https://images.f99.com.vn/images/f264ded6-3940-4752-80d5-de835ac5c4d4.jpg",
+      "https://images.f99.com.vn/images/912fb1d1-2dc6-4077-801f-340bb3bf85b2.jpg",
+      "https://images.f99.com.vn/images/5a0f051d-48bc-4034-9433-c00c37eb7ed0.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14306",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "500 gram"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 82944,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500 gram",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "500 gram",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500 gram",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 8000,
+        "oldPrice": 12000,
+        "discountPercent": 33,
+        "stock": 999,
+        "totalSold": 11,
+        "unit": "500 gram",
+        "sku": "",
+        "rating": 4.9,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "500 gram"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 240,
+      "sellerRate": 4.5,
+      "sellerName": "Homey Fruit & Veg ",
+      "warehouseId": "ccb00cae-e276-4a1b-af4a-ae822ab5c570",
+      "warehouseAddress": "số 52 ngõ 376 Bưởi, Vĩnh Phúc, Ba Đình, Hà Nội",
+      "distance": 3021,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 77.89029707147643,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14316,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Khoai Lang Mật",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgba(0, 0, 0, 0.8);\">👍Cách bảo quản:</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Bọc kín trong hộp hoặc túi nilon bảo quản trong ngăn mát đối với rau củ quả/ ngăn đá đối với thịt/ cá</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">👍Cam kết của HOMEYFOOD đối với khách hàng:</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Sản phẩm có xuất xứ rõ ràng</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Quá trình chăn nuôi, trồng trọt không sử dụng hóa chất có hại cho sức khỏe</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Quy trình sơ chế và đóng gói đảm bảo vệ sinh an toàn thực phẩm</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Cam kết hoàn trả nếu phát hiện sản phẩm thiếu, hỏng</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Với tâm huyết mang đến sản phẩm chất lượng hơn mỗi ngày, chúng mình luôn sẵn sàng lắng nghe phản hồi của các bạn qua:</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hotline: 082.3232374</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Fanpage: Homeyfood.net</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Website: https://www.homeyfood.net</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/711b23e5-63f5-4786-8c8d-cacff2231b7c.jpg\",\"https://images.f99.com.vn/images/bac853ec-3e8d-4eb6-9b6c-4d48f7ea3356.jpg\",\"https://images.f99.com.vn/images/7e76d9e1-0097-4c33-917f-6bf499ce2a99.jpeg\",\"https://images.f99.com.vn/images/a7e4c6b6-c470-4cf7-92b1-1c6453107a01.jpeg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Khoai Lang Mật",
+    "description": "<p><span style=\"color: rgba(0, 0, 0, 0.8);\">👍Cách bảo quản:</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Bọc kín trong hộp hoặc túi nilon bảo quản trong ngăn mát đối với rau củ quả/ ngăn đá đối với thịt/ cá</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">👍Cam kết của HOMEYFOOD đối với khách hàng:</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Sản phẩm có xuất xứ rõ ràng</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Quá trình chăn nuôi, trồng trọt không sử dụng hóa chất có hại cho sức khỏe</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Quy trình sơ chế và đóng gói đảm bảo vệ sinh an toàn thực phẩm</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Cam kết hoàn trả nếu phát hiện sản phẩm thiếu, hỏng</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Với tâm huyết mang đến sản phẩm chất lượng hơn mỗi ngày, chúng mình luôn sẵn sàng lắng nghe phản hồi của các bạn qua:</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hotline: 082.3232374</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Fanpage: Homeyfood.net</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Website: https://www.homeyfood.net</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/711b23e5-63f5-4786-8c8d-cacff2231b7c.jpg",
+    "price": 16000,
+    "oldPrice": 30000,
+    "discountPercent": 47,
+    "stock": 999,
+    "totalSold": 5532,
+    "maxQuantityPerUser": null,
+    "unit": "500gr",
+    "sku": "",
+    "origin": "",
+    "sellerId": 240,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 97,
+      "name": "Củ ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/e70500b4-6fb9-4275-85f1-cba07f33720b.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/711b23e5-63f5-4786-8c8d-cacff2231b7c.jpg",
+      "https://images.f99.com.vn/images/bac853ec-3e8d-4eb6-9b6c-4d48f7ea3356.jpg",
+      "https://images.f99.com.vn/images/7e76d9e1-0097-4c33-917f-6bf499ce2a99.jpeg",
+      "https://images.f99.com.vn/images/a7e4c6b6-c470-4cf7-92b1-1c6453107a01.jpeg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14316",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "500gr"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 63343,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500gr",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "500gr",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500gr",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 16000,
+        "oldPrice": 30000,
+        "discountPercent": 47,
+        "stock": 999,
+        "totalSold": 5532,
+        "unit": "500gr",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "500gr"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 240,
+      "sellerRate": 4.5,
+      "sellerName": "Homey Fruit & Veg ",
+      "warehouseId": "ccb00cae-e276-4a1b-af4a-ae822ab5c570",
+      "warehouseAddress": "số 52 ngõ 376 Bưởi, Vĩnh Phúc, Ba Đình, Hà Nội",
+      "distance": 3021,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 77.89029707147643,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 30436,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Su su",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p class=\"ql-align-justify\"><strong>Su su là loại quả có vị ngọt, mát được chế biến thành nhiều món ăn ngon trong bữa cơm hàng ngày, có nhiều lợi ích đối với sức khỏe như:</strong></p><p class=\"ql-align-justify\">Ăn su su giảm cân: trong 100 gam su su chỉ chứa 0,1 gam chất béo nên không làm tăng lượng mỡ dư thừa trong cơ thể. Đồng thời với hàm lượng chất xơ, mangan cao giúp tăng cường chuyển hóa protein thành năng lượng, cũng như tạo ra cảm giác no lâu từ đó giảm thèm ăn, giảm béo hiệu quả</p><p class=\"ql-align-justify\">Ăn su su đẹp da: Su su là một thực phẩm hoàn hảo để cung cấp kẽm, một khoáng chất có công dụng kiểm soát lượng bã nhờn trên da mặt, trị mụn và làm sáng da</p><p class=\"ql-align-justify\">Ăn su su tốt cho tim: nhờ chứa nhiều folate, vitamin B; ăn su su là một cách giúp ngăn ngừa sản sinh homocystein- loại chất gây hại cho tim.</p><p class=\"ql-align-justify\">Ăn su su giúp phòng chống ung thư: với hàm lượng vitamin C rất cao, cùng nhiều chất chống oxy hóa khác, giúp ngăn ngừa sự phát triển của các gốc tự do, giúp giảm nguy cơ mắc các bệnh ung thư</p><p class=\"ql-align-justify\">Phòng chống loãng xương: trong su su có chứa một lượng lớn vitamin K, một loại vitamin có tác dụng ngăn ngừa chứng bệnh loãng xương, đặc biệt cần thiết với phụ nữ trong giai đoạn tiền mãn kinh</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/1c84eb78-f122-44ef-b51e-6233340e293d.png\",\"https://images.f99.com.vn/images/a2db963e-7a14-431e-b797-25e16c039308.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Su su",
+    "description": "<p class=\"ql-align-justify\"><strong>Su su là loại quả có vị ngọt, mát được chế biến thành nhiều món ăn ngon trong bữa cơm hàng ngày, có nhiều lợi ích đối với sức khỏe như:</strong></p><p class=\"ql-align-justify\">Ăn su su giảm cân: trong 100 gam su su chỉ chứa 0,1 gam chất béo nên không làm tăng lượng mỡ dư thừa trong cơ thể. Đồng thời với hàm lượng chất xơ, mangan cao giúp tăng cường chuyển hóa protein thành năng lượng, cũng như tạo ra cảm giác no lâu từ đó giảm thèm ăn, giảm béo hiệu quả</p><p class=\"ql-align-justify\">Ăn su su đẹp da: Su su là một thực phẩm hoàn hảo để cung cấp kẽm, một khoáng chất có công dụng kiểm soát lượng bã nhờn trên da mặt, trị mụn và làm sáng da</p><p class=\"ql-align-justify\">Ăn su su tốt cho tim: nhờ chứa nhiều folate, vitamin B; ăn su su là một cách giúp ngăn ngừa sản sinh homocystein- loại chất gây hại cho tim.</p><p class=\"ql-align-justify\">Ăn su su giúp phòng chống ung thư: với hàm lượng vitamin C rất cao, cùng nhiều chất chống oxy hóa khác, giúp ngăn ngừa sự phát triển của các gốc tự do, giúp giảm nguy cơ mắc các bệnh ung thư</p><p class=\"ql-align-justify\">Phòng chống loãng xương: trong su su có chứa một lượng lớn vitamin K, một loại vitamin có tác dụng ngăn ngừa chứng bệnh loãng xương, đặc biệt cần thiết với phụ nữ trong giai đoạn tiền mãn kinh</p>",
+    "imageUrl": "https://images.f99.com.vn/images/1c84eb78-f122-44ef-b51e-6233340e293d.png",
+    "price": 27900,
+    "oldPrice": 34000,
+    "discountPercent": 18,
+    "stock": 300,
+    "totalSold": 104,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 97,
+      "name": "Củ ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/e70500b4-6fb9-4275-85f1-cba07f33720b.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/1c84eb78-f122-44ef-b51e-6233340e293d.png",
+      "https://images.f99.com.vn/images/a2db963e-7a14-431e-b797-25e16c039308.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/30436",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg",
+          "Combo 3kg",
+          "Combo 5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 30437,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 18750,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 46,
+        "unit": "Kg",
+        "sku": "20002303",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 30438,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "25.9k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 64700,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 29,
+        "unit": "Kg",
+        "sku": "20002304",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "25.9k/kg",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 30439,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "23.8k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 99000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 29,
+        "unit": "Kg",
+        "sku": "20002305",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "23.8k/kg",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 30440,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cà Tím tròn",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(51, 51, 51);\">Cây cà tím được trồng để lấy quả và là một trong những loại nông sản được trồng nhiều trên thế giới. Thậm chí ở Ấn Độ, cà tím được xếp trong danh sánh Vua của các loại rau củ về giá trị dinh dưỡng và mức độ ưa chuộng của nó.</span></p><p><span style=\"color: rgb(51, 51, 51);\"> </span></p><p><strong style=\"color: rgb(51, 51, 51);\">GIÁ TRỊ DINH DƯỠNG&nbsp;</strong></p><h4><span style=\"color: rgb(51, 51, 51);\">✔ </span>Giảm nguy cơ mắc bệnh tim mạch</h4><h4><span style=\"color: rgb(51, 51, 51);\">✔ </span>Giúp kiểm soát lượng đường trong máu</h4><h4><span style=\"color: rgb(51, 51, 51);\">✔ </span>Giúp kiểm soát cân nặng</h4><h4><span style=\"color: rgb(51, 51, 51);\">✔ </span>Giúp cơ thể chống ung thư</h4><h4><span style=\"color: rgb(51, 51, 51);\">✔ </span>Tăng cường chức năng trí não</h4><p><br></p><h3><strong>Cách chọn mua cà tím ngon</strong></h3><h4><span style=\"color: rgb(51, 51, 51);\">✔ </span>Lớp vỏ sáng bóng, mịn màng và đều màu, không bị nhăn cũng như xuất hiện các vết thâm, sạm.</h4><h4><span style=\"color: rgb(51, 51, 51);\">✔ </span>Phần núm cà còn tươi, dính chặt với thân quả, sẽ cho vị tươi ngon hơn và chứng tỏ cà tím còn non.</h4><h4><span style=\"color: rgb(51, 51, 51);\">✔ </span>Cầm trên tay, cảm thấy chắc tay, không bị nhũn.</h4>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/beb07020-77cb-4ed1-a9e5-a9110a4bfb61.png\",\"https://images.f99.com.vn/images/33a92be4-0573-4229-a283-0a44735d5a64.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cà Tím tròn",
+    "description": "<p><span style=\"color: rgb(51, 51, 51);\">Cây cà tím được trồng để lấy quả và là một trong những loại nông sản được trồng nhiều trên thế giới. Thậm chí ở Ấn Độ, cà tím được xếp trong danh sánh Vua của các loại rau củ về giá trị dinh dưỡng và mức độ ưa chuộng của nó.</span></p><p><span style=\"color: rgb(51, 51, 51);\"> </span></p><p><strong style=\"color: rgb(51, 51, 51);\">GIÁ TRỊ DINH DƯỠNG&nbsp;</strong></p><h4><span style=\"color: rgb(51, 51, 51);\">✔ </span>Giảm nguy cơ mắc bệnh tim mạch</h4><h4><span style=\"color: rgb(51, 51, 51);\">✔ </span>Giúp kiểm soát lượng đường trong máu</h4><h4><span style=\"color: rgb(51, 51, 51);\">✔ </span>Giúp kiểm soát cân nặng</h4><h4><span style=\"color: rgb(51, 51, 51);\">✔ </span>Giúp cơ thể chống ung thư</h4><h4><span style=\"color: rgb(51, 51, 51);\">✔ </span>Tăng cường chức năng trí não</h4><p><br></p><h3><strong>Cách chọn mua cà tím ngon</strong></h3><h4><span style=\"color: rgb(51, 51, 51);\">✔ </span>Lớp vỏ sáng bóng, mịn màng và đều màu, không bị nhăn cũng như xuất hiện các vết thâm, sạm.</h4><h4><span style=\"color: rgb(51, 51, 51);\">✔ </span>Phần núm cà còn tươi, dính chặt với thân quả, sẽ cho vị tươi ngon hơn và chứng tỏ cà tím còn non.</h4><h4><span style=\"color: rgb(51, 51, 51);\">✔ </span>Cầm trên tay, cảm thấy chắc tay, không bị nhũn.</h4>",
+    "imageUrl": "https://images.f99.com.vn/images/beb07020-77cb-4ed1-a9e5-a9110a4bfb61.png",
+    "price": 28900,
+    "oldPrice": 32000,
+    "discountPercent": 10,
+    "stock": 300,
+    "totalSold": 28,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 97,
+      "name": "Củ ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/e70500b4-6fb9-4275-85f1-cba07f33720b.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/beb07020-77cb-4ed1-a9e5-a9110a4bfb61.png",
+      "https://images.f99.com.vn/images/33a92be4-0573-4229-a283-0a44735d5a64.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/30440",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg",
+          "Combo 3kg",
+          "Combo 5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 30441,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 28900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 10,
+        "unit": "Kg",
+        "sku": "20002306",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 30442,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "27k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 81000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 9,
+        "unit": "Kg",
+        "sku": "20002307",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "27k/kg",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 30443,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "24.8k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 124000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 9,
+        "unit": "Kg",
+        "sku": "20002308",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "24.8k/kg",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 30749,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cà rốt ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Cà rốt được trồng đầu tiên ở Afghanistan vào khoảng năm 900 sau Công nguyên. Nhiều người biết đến cà rốt với màu cam rực rỡ đặc trưng, nhưng thực tế thì loại củ này cũng có các màu sắc khác, chẳng hạn như tím hoặc vàng, đỏ và trắng.</p><p>Loại củ phổ biến và đa năng này có thể mang hương vị hơi khác nhau tùy thuộc vào màu sắc, kích thước và nơi trồng. Đường trong cà rốt tạo ra vị ngọt nhẹ, nhưng đôi khi cũng có thể mang mùi đất hoặc hơi đắng.</p><p><strong>GIÁ TRỊ DINH DƯỠNG </strong></p><ul><li>Rất tốt cho đôi mắt</li><li>Giảm nguy cơ ung thư</li><li>Hỗ trợ sức khỏe trái tim</li><li>Tăng cường hệ thống miễn dịch</li><li>Điều trị táo bón</li><li>Kiểm soát bệnh tiểu đường</li><li>Giúp xương chắc khỏe</li></ul>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/eb887fb5-11d9-452d-86ca-0adb8920826d.png\",\"https://images.f99.com.vn/images/8a8bac01-778d-4f80-a54a-656739c428a4.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cà rốt ",
+    "description": "<p>Cà rốt được trồng đầu tiên ở Afghanistan vào khoảng năm 900 sau Công nguyên. Nhiều người biết đến cà rốt với màu cam rực rỡ đặc trưng, nhưng thực tế thì loại củ này cũng có các màu sắc khác, chẳng hạn như tím hoặc vàng, đỏ và trắng.</p><p>Loại củ phổ biến và đa năng này có thể mang hương vị hơi khác nhau tùy thuộc vào màu sắc, kích thước và nơi trồng. Đường trong cà rốt tạo ra vị ngọt nhẹ, nhưng đôi khi cũng có thể mang mùi đất hoặc hơi đắng.</p><p><strong>GIÁ TRỊ DINH DƯỠNG </strong></p><ul><li>Rất tốt cho đôi mắt</li><li>Giảm nguy cơ ung thư</li><li>Hỗ trợ sức khỏe trái tim</li><li>Tăng cường hệ thống miễn dịch</li><li>Điều trị táo bón</li><li>Kiểm soát bệnh tiểu đường</li><li>Giúp xương chắc khỏe</li></ul>",
+    "imageUrl": "https://images.f99.com.vn/images/eb887fb5-11d9-452d-86ca-0adb8920826d.png",
+    "price": 27900,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 300,
+    "totalSold": 66,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 97,
+      "name": "Củ ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/e70500b4-6fb9-4275-85f1-cba07f33720b.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/eb887fb5-11d9-452d-86ca-0adb8920826d.png",
+      "https://images.f99.com.vn/images/8a8bac01-778d-4f80-a54a-656739c428a4.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/30749",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg",
+          "Combo 3kg",
+          "Combo 5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 30750,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 19900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 30,
+        "unit": "Kg",
+        "sku": "20002312",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 30751,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "25.9k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 85700,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 19,
+        "unit": "Kg",
+        "sku": "20002313",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "25.9k/kg",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 30752,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "23.8k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 129000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 17,
+        "unit": "Kg",
+        "sku": "20002314",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "23.8k/kg",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 30766,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Khoai sọ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Khoai sọ thuộc họ Ráy, có củ cái và củ con. Khác với&nbsp;khoai môn&nbsp;hay&nbsp;khoai lang, củ khoai sọ nhỏ hơn, có nhiều củ con và nhiều tinh bột hơn. Ở nước ta phổ biến một số giống khoai sọ là khoai sọ núi, khoai sọ trắng, khoai sọ dọc trắng,...</p><p>Trong khoai sọ có nhiều chất dinh dưỡng thiết yếu như: Protein, chất béo, chất xơ, tinh bột, fructose, canxi, photpho, magie, natri, kali, sắt, kẽm, đồng, vitamin C, thiamine, riboflavin và niacin,... Dễ thấy khoai sọ nhiều&nbsp;chất xơ, giúp tăng cường hấp thụ chất dinh dưỡng và hỗ trợ tiêu hóa tốt hơn, ngăn ngừa tình trạng táo bón. Ngoài ra, khoai sọ còn là nguồn cung cấp&nbsp;vitamin và khoáng chất&nbsp;dồi dào cho cơ thể với nhiều công dụng đối với sức khỏe.</p><p>GIÁ TRỊ DINH DƯỠNG</p><ul><li>Tốt cho tim mạch: Khoai sọ có chứa nhiều khoáng chất tốt cho sức khỏe như kali, kẽm, đồng, sắt, mangan và magie. Kali là một thành phần quan trọng của tế bào và chất dịch của cơ thể, góp phần điều hòa nhịp tim. Đối với người có&nbsp;<span style=\"color: rgb(0, 102, 166);\">huyết áp cao</span>, kali còn có tác dụng ổn định và làm giảm huyết áp;</li><li>Hỗ trợ tiêu hóa: Khoai sọ là một trong những nguồn cung cấp chất xơ rất dồi dào. 100g khoai sọ cung cấp 4,1g chất xơ, tương đương 11% nhu cầu chất xơ của cơ thể hằng ngày. Ngoài ra, trong khoai sọ còn có carbohydrate phức hợp, làm chậm quá trình tiêu hóa. Nó có tác dụng giúp nhuận tràng, phòng ngừa&nbsp;<span style=\"color: rgb(0, 102, 166);\">táo bón</span>&nbsp;hữu hiệu;</li><li>Cải thiện hệ thống miễn dịch: Khoai sọ rất giàu&nbsp;<span style=\"color: rgb(0, 102, 166);\">vitamin C</span>&nbsp;và các&nbsp;<span style=\"color: rgb(0, 102, 166);\">chất chống oxy hóa</span>&nbsp;khác, giúp cải thiện hệ thống miễn dịch của cơ thể, phòng chống được nhiều bệnh lý nguy hiểm;</li><li>Hỗ trợ điều trị viêm thận: Khoai sọ có hàm lượng lớn vitamin và photpho, tốt cho người bị viêm thận. Những người mắc bệnh này có thể thêm khoai sọ vào chế độ ăn uống hằng ngày của mình (nấu canh khoai sọ rau muống, canh khoai sọ nấu thịt) nhưng nêm gia vị nhạt hơn so với bình thường. Ngoài ra, bệnh nhân còn có thể&nbsp;ăn khoai sọ&nbsp;nấu cháo với một chút đường để hỗ trợ điều trị bệnh viêm thận mãn tính;</li><li>Ngăn ngừa suy nhược cơ thể: Nhu cầu năng lượng từ gluxit cần chiếm 60 - 70% tổng năng lượng đưa vào cơ thể. Khoai sọ là loại thực phẩm chứa nhiều gluxit, cung cấp nhiều năng lượng để nuôi dưỡng tế bào thần kinh và phòng chống&nbsp;<span style=\"color: rgb(0, 102, 166);\">suy nhược cơ thể</span>. Những người mới ốm dậy, người gầy yếu, cơ thể suy nhược nên ăn canh khoai sọ móng giò hoặc canh khoai sọ nấu thịt để cơ thể mau chóng phục hồi.</li></ul>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/7db8ed6b-ef75-4914-ab7b-ac9a8e900403.png\",\"https://images.f99.com.vn/images/b46fe97f-0d50-4676-845a-ef81739f416c.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Khoai sọ",
+    "description": "<p>Khoai sọ thuộc họ Ráy, có củ cái và củ con. Khác với&nbsp;khoai môn&nbsp;hay&nbsp;khoai lang, củ khoai sọ nhỏ hơn, có nhiều củ con và nhiều tinh bột hơn. Ở nước ta phổ biến một số giống khoai sọ là khoai sọ núi, khoai sọ trắng, khoai sọ dọc trắng,...</p><p>Trong khoai sọ có nhiều chất dinh dưỡng thiết yếu như: Protein, chất béo, chất xơ, tinh bột, fructose, canxi, photpho, magie, natri, kali, sắt, kẽm, đồng, vitamin C, thiamine, riboflavin và niacin,... Dễ thấy khoai sọ nhiều&nbsp;chất xơ, giúp tăng cường hấp thụ chất dinh dưỡng và hỗ trợ tiêu hóa tốt hơn, ngăn ngừa tình trạng táo bón. Ngoài ra, khoai sọ còn là nguồn cung cấp&nbsp;vitamin và khoáng chất&nbsp;dồi dào cho cơ thể với nhiều công dụng đối với sức khỏe.</p><p>GIÁ TRỊ DINH DƯỠNG</p><ul><li>Tốt cho tim mạch: Khoai sọ có chứa nhiều khoáng chất tốt cho sức khỏe như kali, kẽm, đồng, sắt, mangan và magie. Kali là một thành phần quan trọng của tế bào và chất dịch của cơ thể, góp phần điều hòa nhịp tim. Đối với người có&nbsp;<span style=\"color: rgb(0, 102, 166);\">huyết áp cao</span>, kali còn có tác dụng ổn định và làm giảm huyết áp;</li><li>Hỗ trợ tiêu hóa: Khoai sọ là một trong những nguồn cung cấp chất xơ rất dồi dào. 100g khoai sọ cung cấp 4,1g chất xơ, tương đương 11% nhu cầu chất xơ của cơ thể hằng ngày. Ngoài ra, trong khoai sọ còn có carbohydrate phức hợp, làm chậm quá trình tiêu hóa. Nó có tác dụng giúp nhuận tràng, phòng ngừa&nbsp;<span style=\"color: rgb(0, 102, 166);\">táo bón</span>&nbsp;hữu hiệu;</li><li>Cải thiện hệ thống miễn dịch: Khoai sọ rất giàu&nbsp;<span style=\"color: rgb(0, 102, 166);\">vitamin C</span>&nbsp;và các&nbsp;<span style=\"color: rgb(0, 102, 166);\">chất chống oxy hóa</span>&nbsp;khác, giúp cải thiện hệ thống miễn dịch của cơ thể, phòng chống được nhiều bệnh lý nguy hiểm;</li><li>Hỗ trợ điều trị viêm thận: Khoai sọ có hàm lượng lớn vitamin và photpho, tốt cho người bị viêm thận. Những người mắc bệnh này có thể thêm khoai sọ vào chế độ ăn uống hằng ngày của mình (nấu canh khoai sọ rau muống, canh khoai sọ nấu thịt) nhưng nêm gia vị nhạt hơn so với bình thường. Ngoài ra, bệnh nhân còn có thể&nbsp;ăn khoai sọ&nbsp;nấu cháo với một chút đường để hỗ trợ điều trị bệnh viêm thận mãn tính;</li><li>Ngăn ngừa suy nhược cơ thể: Nhu cầu năng lượng từ gluxit cần chiếm 60 - 70% tổng năng lượng đưa vào cơ thể. Khoai sọ là loại thực phẩm chứa nhiều gluxit, cung cấp nhiều năng lượng để nuôi dưỡng tế bào thần kinh và phòng chống&nbsp;<span style=\"color: rgb(0, 102, 166);\">suy nhược cơ thể</span>. Những người mới ốm dậy, người gầy yếu, cơ thể suy nhược nên ăn canh khoai sọ móng giò hoặc canh khoai sọ nấu thịt để cơ thể mau chóng phục hồi.</li></ul>",
+    "imageUrl": "https://images.f99.com.vn/images/7db8ed6b-ef75-4914-ab7b-ac9a8e900403.png",
+    "price": 27500,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 300,
+    "totalSold": 90,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "20002318",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 97,
+      "name": "Củ ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/e70500b4-6fb9-4275-85f1-cba07f33720b.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/7db8ed6b-ef75-4914-ab7b-ac9a8e900403.png",
+      "https://images.f99.com.vn/images/b46fe97f-0d50-4676-845a-ef81739f416c.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/30766",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 kg",
+          "Combo 3 kg",
+          "Combo 5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 30767,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 27500,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 38,
+        "unit": "Kg",
+        "sku": "20002318",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 30768,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 3 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "29k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 3 kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 3 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 99000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 26,
+        "unit": "Kg",
+        "sku": "20002319",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "29k/kg",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 3 kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 30769,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "26k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 159000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 26,
+        "unit": "Kg",
+        "sku": "20002320",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "26k/kg",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 30907,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Củ dền đỏ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Củ dền thường có 2 màu: đỏ thẫm và tím than cùng với lớp vỏ đen bên ngoài xù xì. Khi cắt ngang củ, bạn sẽ thấy có nhiều khoanh vòng tròn đồng tâm với màu đậm - nhạt khác nhau.</p><p>Màu sắc bên trong củ dền có màu đỏ là do hợp chất tự nhiên được tạo ra từ hóa tính thực vật: betaxanthins (bao gồm các sắc tố có màu vàng đến da cam) và betacyanin (bao gồm các sắc tố từ đỏ đến tím).</p><h4><br></h4><h4>GIÁ TRỊ DINH DƯỠNG</h4><h4><span style=\"color: rgb(51, 51, 51);\">✔ </span>Củ dền giúp giảm và điều hòa huyết áp</h4><h4><span style=\"color: rgb(51, 51, 51);\">✔ </span>Củ dền tốt cho hệ tuần hoàn và tim mạch</h4><h4><span style=\"color: rgb(51, 51, 51);\">✔ </span>Củ dền ngăn ngừa nhiễm độc và giúp cơ thể thải độc</h4><h4><span style=\"color: rgb(51, 51, 51);\">✔ </span>Củ dền giúp chữa bệnh về đường tiêu hóa</h4><h4><span style=\"color: rgb(51, 51, 51);\">✔ </span>Củ dền giúp tinh thần thoải mái và tươi trẻ hơn</h4>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/2bb2db00-6468-401d-856e-15149429ef9a.png\",\"https://images.f99.com.vn/images/b80f69c2-1964-45b8-a5f4-63414ef1b810.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Củ dền đỏ",
+    "description": "<p>Củ dền thường có 2 màu: đỏ thẫm và tím than cùng với lớp vỏ đen bên ngoài xù xì. Khi cắt ngang củ, bạn sẽ thấy có nhiều khoanh vòng tròn đồng tâm với màu đậm - nhạt khác nhau.</p><p>Màu sắc bên trong củ dền có màu đỏ là do hợp chất tự nhiên được tạo ra từ hóa tính thực vật: betaxanthins (bao gồm các sắc tố có màu vàng đến da cam) và betacyanin (bao gồm các sắc tố từ đỏ đến tím).</p><h4><br></h4><h4>GIÁ TRỊ DINH DƯỠNG</h4><h4><span style=\"color: rgb(51, 51, 51);\">✔ </span>Củ dền giúp giảm và điều hòa huyết áp</h4><h4><span style=\"color: rgb(51, 51, 51);\">✔ </span>Củ dền tốt cho hệ tuần hoàn và tim mạch</h4><h4><span style=\"color: rgb(51, 51, 51);\">✔ </span>Củ dền ngăn ngừa nhiễm độc và giúp cơ thể thải độc</h4><h4><span style=\"color: rgb(51, 51, 51);\">✔ </span>Củ dền giúp chữa bệnh về đường tiêu hóa</h4><h4><span style=\"color: rgb(51, 51, 51);\">✔ </span>Củ dền giúp tinh thần thoải mái và tươi trẻ hơn</h4>",
+    "imageUrl": "https://images.f99.com.vn/images/2bb2db00-6468-401d-856e-15149429ef9a.png",
+    "price": 40000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 300,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 97,
+      "name": "Củ ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/e70500b4-6fb9-4275-85f1-cba07f33720b.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/2bb2db00-6468-401d-856e-15149429ef9a.png",
+      "https://images.f99.com.vn/images/b80f69c2-1964-45b8-a5f4-63414ef1b810.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/30907",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg",
+          "Combo 3kg",
+          "Combo 5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 30908,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 31500,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 1,
+        "unit": "Kg",
+        "sku": "20002360",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 30909,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "38k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 144000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "Kg",
+        "sku": "20002361",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "38k/kg",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 30910,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "34k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 229000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "Kg",
+        "sku": "20002362",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "34k/kg",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 31432,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Củ cải trắng hữu cơ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong><em>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</em></strong></p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM <strong>RAU HỮU CƠ</strong></p><ol><li><strong>Nguồn gốc:</strong> Sóc Sơn, Hà Nội.</li><li>Đã được <strong><em>kiểm định</em></strong> chứng nhận rau củ hữu cơ.</li></ol>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/c61c9757-e899-4c6c-a66c-89b1718fd620.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"củ cải\",\"hữu cơ\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Củ cải trắng hữu cơ",
+    "description": "<p><strong><em>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</em></strong></p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM <strong>RAU HỮU CƠ</strong></p><ol><li><strong>Nguồn gốc:</strong> Sóc Sơn, Hà Nội.</li><li>Đã được <strong><em>kiểm định</em></strong> chứng nhận rau củ hữu cơ.</li></ol>",
+    "imageUrl": "https://images.f99.com.vn/images/c61c9757-e899-4c6c-a66c-89b1718fd620.jpg",
+    "price": 7000,
+    "oldPrice": 9000,
+    "discountPercent": 22,
+    "stock": 500,
+    "totalSold": 99,
+    "maxQuantityPerUser": null,
+    "unit": "củ 200g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 222,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản trong <em>tủ mát</em></p>",
+    "category": {
+      "id": 97,
+      "name": "Củ ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/e70500b4-6fb9-4275-85f1-cba07f33720b.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "củ cải",
+      "hữu cơ"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/c61c9757-e899-4c6c-a66c-89b1718fd620.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/31432",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 222,
+      "sellerRate": 4.9,
+      "sellerName": "Thực phẩm tự nhiên VipinFood",
+      "warehouseId": "7d69625a-67e9-41f3-97f0-e37c8e9e6f49",
+      "warehouseAddress": "Tầng 1 tòa N03T7 Khu Ngoại Giao Đoàn, phường Xuân Tảo, Bắc Từ Liêm, Hà Nội",
+      "distance": 5394,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 67.6222736151496,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 31793,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Măng khô phơi thủ công của bà con dân tộc 200g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h2>CÁCH DÙNG:</h2><ul><li class=\"ql-indent-1\">Trước khi chế biết món ăn nên ngâm nước lạnh khoảng 2-10 tiếng. Xong luộc lại bằng nước khác để khử độc</li><li class=\"ql-indent-1\">Nếu ngâm với nước sôi khoảng 5-10 phút, ngâm vài lần 3 càng tốt.</li><li class=\"ql-indent-1\">Sau đó rửa sạch dùng chế biến món ăn.</li></ul><h2 class=\"ql-align-center\"><br></h2><h2>ĐẶC TÍNH CỦA MĂNG KHÔ TRONG ẨM THỰC</h2><p>Bạn biết rồi đó có rất nhiều người thích ăn các món từ<a href=\"https://sites.google.com/site/shopdacsanhaiyen/mang-kho-ngon?authuser=0\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: inherit;\"> <strong>măng khô</strong></a>, chúng ta hãy tìm hiểu một số đặc tính của nó nhé!</p><ul><li class=\"ql-indent-1\"><a href=\"https://sites.google.com/site/shopdacsanhaiyen/mang-kho-ngon?authuser=0\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: inherit;\"><strong>Măng</strong></a><strong> là một lại thực phẩm xanh</strong> sạch tuyệt đối, được hái lượm từ trong rừng sâu.</li><li class=\"ql-indent-1\"><strong>Măng có nhiều chất xơ, hàm lượng dinh dưỡng ít</strong>, nên nó rất hợp nấu với các món có chất béo và dinh dưỡng cao, mục đích là để trung hòa lại hàm lượng. Ví dụ như măng nấu với lòng gà, lòng vịt, thịt chim, thịt heo...</li><li class=\"ql-indent-1\"><strong>Măng có tính độc</strong> bởi vậy người ta thường hay nấu với miến hoặc các loại thực phẩm có tính giải độc. Trong đông y, khi bào chế để bỏ độc tính được liệu, các dược sĩ thường dùng nước gạo để ngâm.</li><li><strong>Măng không chỉ bổ dưỡng mà còn giúp giảm mỡ và giảm lượng đường</strong>. Chất xơ trong măng có thể được kết hợp với axit mật và bài tiết qua phân, có lợi cho việc giảm cholesterol trong cơ thể và giảm mỡ máu.</li><li>Do đó, <strong>măng phù hợp với người có lipit máu cao</strong>, hàm lượng đường và chất béo trong măng rất nhỏ, và lượng chất xơ dồi dào sẽ rất cơ lợi cho hệ tiêu hóa.</li><li><strong>Ăn măng rất tốt cho người thừa cân béo phì</strong>, bởi măng có thể kéo dài thời gian lưu trú của thức ăn trong dạ dày, làm giảm tốc độ hấp thụ glucose của hệ tiêu hóa. Do đó rất có lợi cho những người mong muốn giảm cân nặng.</li><li><strong>Tốt cho người tiểu đường</strong>: Do măng làm giảm quá trình tăng lượng đường trong máu sau khi ăn. Do vậy măng có tác dụng hỗ trợ nhất định đối với bệnh nhân tiểu đường.</li><li><img src=\"https://images.f99.com.vn/images/3488ed36-7c21-46b6-a10a-bef0797c040f.jpg\"></li><li><br></li><li><img src=\"https://images.f99.com.vn/images/4bdd842b-4c52-46ce-bfb7-8bcf8f77d34d.jpg\"><img src=\"https://images.f99.com.vn/images/0e109f27-016b-4cb2-af0f-b904fec1136f.jpg\"></li></ul><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/c682b278-ee28-4034-9f28-c3d1cb8a69e8.jpg\",\"https://images.f99.com.vn/images/b125110f-9bbd-4ad8-a706-986427aba89f.jpg\",\"https://images.f99.com.vn/images/31112ce4-733e-484f-80a6-96c14cdd08d8.jpg\",\"https://images.f99.com.vn/images/175740b9-d4f6-4c80-afb2-4e704d7fa23c.jpg\",\"https://images.f99.com.vn/images/405aee37-7bb8-4a31-a7bb-406c92472325.jpg\",\"https://images.f99.com.vn/images/4778cf49-a03c-4adf-998f-24c24bd1f13a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Măng khô phơi thủ công của bà con dân tộc 200g",
+    "description": "<h2>CÁCH DÙNG:</h2><ul><li class=\"ql-indent-1\">Trước khi chế biết món ăn nên ngâm nước lạnh khoảng 2-10 tiếng. Xong luộc lại bằng nước khác để khử độc</li><li class=\"ql-indent-1\">Nếu ngâm với nước sôi khoảng 5-10 phút, ngâm vài lần 3 càng tốt.</li><li class=\"ql-indent-1\">Sau đó rửa sạch dùng chế biến món ăn.</li></ul><h2 class=\"ql-align-center\"><br></h2><h2>ĐẶC TÍNH CỦA MĂNG KHÔ TRONG ẨM THỰC</h2><p>Bạn biết rồi đó có rất nhiều người thích ăn các món từ<a href=\"https://sites.google.com/site/shopdacsanhaiyen/mang-kho-ngon?authuser=0\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: inherit;\"> <strong>măng khô</strong></a>, chúng ta hãy tìm hiểu một số đặc tính của nó nhé!</p><ul><li class=\"ql-indent-1\"><a href=\"https://sites.google.com/site/shopdacsanhaiyen/mang-kho-ngon?authuser=0\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: inherit;\"><strong>Măng</strong></a><strong> là một lại thực phẩm xanh</strong> sạch tuyệt đối, được hái lượm từ trong rừng sâu.</li><li class=\"ql-indent-1\"><strong>Măng có nhiều chất xơ, hàm lượng dinh dưỡng ít</strong>, nên nó rất hợp nấu với các món có chất béo và dinh dưỡng cao, mục đích là để trung hòa lại hàm lượng. Ví dụ như măng nấu với lòng gà, lòng vịt, thịt chim, thịt heo...</li><li class=\"ql-indent-1\"><strong>Măng có tính độc</strong> bởi vậy người ta thường hay nấu với miến hoặc các loại thực phẩm có tính giải độc. Trong đông y, khi bào chế để bỏ độc tính được liệu, các dược sĩ thường dùng nước gạo để ngâm.</li><li><strong>Măng không chỉ bổ dưỡng mà còn giúp giảm mỡ và giảm lượng đường</strong>. Chất xơ trong măng có thể được kết hợp với axit mật và bài tiết qua phân, có lợi cho việc giảm cholesterol trong cơ thể và giảm mỡ máu.</li><li>Do đó, <strong>măng phù hợp với người có lipit máu cao</strong>, hàm lượng đường và chất béo trong măng rất nhỏ, và lượng chất xơ dồi dào sẽ rất cơ lợi cho hệ tiêu hóa.</li><li><strong>Ăn măng rất tốt cho người thừa cân béo phì</strong>, bởi măng có thể kéo dài thời gian lưu trú của thức ăn trong dạ dày, làm giảm tốc độ hấp thụ glucose của hệ tiêu hóa. Do đó rất có lợi cho những người mong muốn giảm cân nặng.</li><li><strong>Tốt cho người tiểu đường</strong>: Do măng làm giảm quá trình tăng lượng đường trong máu sau khi ăn. Do vậy măng có tác dụng hỗ trợ nhất định đối với bệnh nhân tiểu đường.</li><li><img src=\"https://images.f99.com.vn/images/3488ed36-7c21-46b6-a10a-bef0797c040f.jpg\"></li><li><br></li><li><img src=\"https://images.f99.com.vn/images/4bdd842b-4c52-46ce-bfb7-8bcf8f77d34d.jpg\"><img src=\"https://images.f99.com.vn/images/0e109f27-016b-4cb2-af0f-b904fec1136f.jpg\"></li></ul><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/c682b278-ee28-4034-9f28-c3d1cb8a69e8.jpg",
+    "price": 80000,
+    "oldPrice": 100000,
+    "discountPercent": 20,
+    "stock": 10000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "g",
+    "sku": "mang 200g",
+    "origin": "",
+    "sellerId": 492,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 97,
+      "name": "Củ ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/e70500b4-6fb9-4275-85f1-cba07f33720b.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/c682b278-ee28-4034-9f28-c3d1cb8a69e8.jpg",
+      "https://images.f99.com.vn/images/b125110f-9bbd-4ad8-a706-986427aba89f.jpg",
+      "https://images.f99.com.vn/images/31112ce4-733e-484f-80a6-96c14cdd08d8.jpg",
+      "https://images.f99.com.vn/images/175740b9-d4f6-4c80-afb2-4e704d7fa23c.jpg",
+      "https://images.f99.com.vn/images/405aee37-7bb8-4a31-a7bb-406c92472325.jpg",
+      "https://images.f99.com.vn/images/4778cf49-a03c-4adf-998f-24c24bd1f13a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/31793",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 492,
+      "sellerRate": 4.2,
+      "sellerName": "THỰC PHẨM SẠCH ĐỒNG QUÊ",
+      "warehouseId": "69c15dd6-b965-4d32-9e6c-7ac19b0a2794",
+      "warehouseAddress": " Hà Nội,  Hoàng Mai,  Lĩnh Nam, 4b ngõ 20 Nam Dư",
+      "distance": 7103,
+      "warehouseDistrict": "hoang mai",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 31819,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bí Đỏ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>👍Cách bảo quản:</p><p>- Bọc kín trong hộp hoặc túi nilon bảo quản trong ngăn mát đối với rau củ quả/ ngăn đá đối với thịt/ cá</p><p>👍Cam kết của HOMEYFOOD đối với khách hàng:</p><p>- Sản phẩm có xuất xứ rõ ràng</p><p>- Quá trình chăn nuôi, trồng trọt không sử dụng hóa chất có hại cho sức khỏe</p><p>- Quy trình sơ chế và đóng gói đảm bảo vệ sinh an toàn thực phẩm</p><p>- Cam kết hoàn trả nếu phát hiện sản phẩm thiếu, hỏng</p><p><br></p><p>Với tâm huyết mang đến sản phẩm chất lượng hơn mỗi ngày, chúng mình luôn sẵn sàng lắng nghe phản hồi của các bạn qua:</p><p>Hotline: 082.3232374</p><p>Fanpage: Homeyfood.net</p><p>Website: https://www.homeyfood.net</p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/d5c79d56-3dc4-472d-9c98-9dc776dbac3d.jpg\",\"https://images.f99.com.vn/images/dd11a5e1-f696-4fa8-ac4d-acee93db2c6a.jpg\",\"https://images.f99.com.vn/images/cee022fd-e942-4b85-bb59-dee1c8a7e7ac.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bí Đỏ",
+    "description": "<p>👍Cách bảo quản:</p><p>- Bọc kín trong hộp hoặc túi nilon bảo quản trong ngăn mát đối với rau củ quả/ ngăn đá đối với thịt/ cá</p><p>👍Cam kết của HOMEYFOOD đối với khách hàng:</p><p>- Sản phẩm có xuất xứ rõ ràng</p><p>- Quá trình chăn nuôi, trồng trọt không sử dụng hóa chất có hại cho sức khỏe</p><p>- Quy trình sơ chế và đóng gói đảm bảo vệ sinh an toàn thực phẩm</p><p>- Cam kết hoàn trả nếu phát hiện sản phẩm thiếu, hỏng</p><p><br></p><p>Với tâm huyết mang đến sản phẩm chất lượng hơn mỗi ngày, chúng mình luôn sẵn sàng lắng nghe phản hồi của các bạn qua:</p><p>Hotline: 082.3232374</p><p>Fanpage: Homeyfood.net</p><p>Website: https://www.homeyfood.net</p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/d5c79d56-3dc4-472d-9c98-9dc776dbac3d.jpg",
+    "price": 10000,
+    "oldPrice": 19000,
+    "discountPercent": 47,
+    "stock": 99999,
+    "totalSold": 1134,
+    "maxQuantityPerUser": null,
+    "unit": "500 gram",
+    "sku": "",
+    "origin": "",
+    "sellerId": 240,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 97,
+      "name": "Củ ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/e70500b4-6fb9-4275-85f1-cba07f33720b.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/d5c79d56-3dc4-472d-9c98-9dc776dbac3d.jpg",
+      "https://images.f99.com.vn/images/dd11a5e1-f696-4fa8-ac4d-acee93db2c6a.jpg",
+      "https://images.f99.com.vn/images/cee022fd-e942-4b85-bb59-dee1c8a7e7ac.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/31819",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "500 gram"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 65146,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500 gram",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "500 gram",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500 gram",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 10000,
+        "oldPrice": 19000,
+        "discountPercent": 47,
+        "stock": 99999,
+        "totalSold": 1134,
+        "unit": "500 gram",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "500 gram"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 240,
+      "sellerRate": 4.5,
+      "sellerName": "Homey Fruit & Veg ",
+      "warehouseId": "ccb00cae-e276-4a1b-af4a-ae822ab5c570",
+      "warehouseAddress": "số 52 ngõ 376 Bưởi, Vĩnh Phúc, Ba Đình, Hà Nội",
+      "distance": 3021,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 77.89029707147643,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 37575,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Khoai Tây Chiên Cọng Nhập Khẩu Bỉ (Tặng Phomai Lắc)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Khoai Tây Chiên Cọng Nhập Khẩu Bỉ thái sợi, thơm ngon, giòn</p><p>HDSD: Bạn chỉ việc cho dầu nóng lên, chiên qua 1 lát là có thành phẩm ăn luôn ạ. Không phải chiên lâu như khoai tây mình mua về cắt sợi vì khoai tây Bỉ đã được chế biến chín bằng hệ thống hiện đại, đóng gói sạch sẽ, vệ sinh an toàn.</p><p>Xuất xứ: Bỉ</p><p>Hsd: 6 tháng</p><p>Bảo quản: Nếu chưa sử dụng vui lòng để ở tủ đông</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/633cf53a-ef47-4a45-ab0f-a7608c09fa6f.jpg\",\"https://images.f99.com.vn/images/5458cf78-32e6-4777-91fd-05203ca37457.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Khoai Tây Chiên Cọng Nhập Khẩu Bỉ (Tặng Phomai Lắc)",
+    "description": "<p>Khoai Tây Chiên Cọng Nhập Khẩu Bỉ thái sợi, thơm ngon, giòn</p><p>HDSD: Bạn chỉ việc cho dầu nóng lên, chiên qua 1 lát là có thành phẩm ăn luôn ạ. Không phải chiên lâu như khoai tây mình mua về cắt sợi vì khoai tây Bỉ đã được chế biến chín bằng hệ thống hiện đại, đóng gói sạch sẽ, vệ sinh an toàn.</p><p>Xuất xứ: Bỉ</p><p>Hsd: 6 tháng</p><p>Bảo quản: Nếu chưa sử dụng vui lòng để ở tủ đông</p>",
+    "imageUrl": "https://images.f99.com.vn/images/633cf53a-ef47-4a45-ab0f-a7608c09fa6f.jpg",
+    "price": 20000,
+    "oldPrice": 22000,
+    "discountPercent": 9,
+    "stock": 400,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "túi",
+    "sku": "KTC",
+    "origin": "",
+    "sellerId": 578,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 97,
+      "name": "Củ ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/e70500b4-6fb9-4275-85f1-cba07f33720b.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/633cf53a-ef47-4a45-ab0f-a7608c09fa6f.jpg",
+      "https://images.f99.com.vn/images/5458cf78-32e6-4777-91fd-05203ca37457.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/37575",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1KG",
+          "200G",
+          "300G",
+          "500G"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 37576,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "200G",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "200G",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "200G",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 20000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "túi",
+        "sku": "KTC2",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "200G"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 37577,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "300G",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "300G",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "300G",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 29000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "túi",
+        "sku": "KTC3",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "300G"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 37578,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500G",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "500G",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500G",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 48000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "túi",
+        "sku": "KTC5",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "500G"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 37579,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1KG",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1KG",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1KG",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 90000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "túi",
+        "sku": "KTC10",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1KG"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 578,
+      "sellerRate": 4.2,
+      "sellerName": "PIZZA AMI",
+      "warehouseId": "3eb69a03-24f7-4ab0-a4bd-b7d995044cfa",
+      "warehouseAddress": " Hà Nội,  Ba Đình,  Liễu Giai, Số 37/281 Đội Cấn",
+      "distance": 1747,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 37582,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Khoai Lang Kén - 250g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Món khoai lang kén được làm từ những nguyên liệu đơn giản, dễ mua, dễ tìm lại không tốn nhiều chi phí. Chỉ mất khoảng vài phút đồng hồ, bạn sẽ có ngay món khoai kén ngon để chiêu đãi cả nhà, nhâm nhi khi rảnh rỗi.</p><p>Ăn kèm tương cà, tương ớt làm món ăn trở nên rất hấp dẫn hơn.</p><p>Xuất xứ: Việt Nam</p><p>Hsd: 6 tháng</p><p>Bảo quản: nếu chưa sử dụng vui lòng để ở tủ đông</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/77576c1d-debd-4ff7-9bf1-f151868fa884.jpg\",\"https://images.f99.com.vn/images/4c035565-12b8-4f5e-902f-42cf6063f1f2.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Khoai Lang Kén - 250g",
+    "description": "<p>Món khoai lang kén được làm từ những nguyên liệu đơn giản, dễ mua, dễ tìm lại không tốn nhiều chi phí. Chỉ mất khoảng vài phút đồng hồ, bạn sẽ có ngay món khoai kén ngon để chiêu đãi cả nhà, nhâm nhi khi rảnh rỗi.</p><p>Ăn kèm tương cà, tương ớt làm món ăn trở nên rất hấp dẫn hơn.</p><p>Xuất xứ: Việt Nam</p><p>Hsd: 6 tháng</p><p>Bảo quản: nếu chưa sử dụng vui lòng để ở tủ đông</p>",
+    "imageUrl": "https://images.f99.com.vn/images/77576c1d-debd-4ff7-9bf1-f151868fa884.jpg",
+    "price": 25000,
+    "oldPrice": 35000,
+    "discountPercent": 29,
+    "stock": 100,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "túi",
+    "sku": "KLK",
+    "origin": "",
+    "sellerId": 578,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 97,
+      "name": "Củ ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/e70500b4-6fb9-4275-85f1-cba07f33720b.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/77576c1d-debd-4ff7-9bf1-f151868fa884.jpg",
+      "https://images.f99.com.vn/images/4c035565-12b8-4f5e-902f-42cf6063f1f2.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/37582",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 578,
+      "sellerRate": 4.2,
+      "sellerName": "PIZZA AMI",
+      "warehouseId": "3eb69a03-24f7-4ab0-a4bd-b7d995044cfa",
+      "warehouseAddress": " Hà Nội,  Ba Đình,  Liễu Giai, Số 37/281 Đội Cấn",
+      "distance": 1747,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 38929,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Khoai tây chiên MONDELLE hoặc khoai tây  POMMES FRITES gói 1kg",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>💛💚💛KHOAI TÂY CHIÊN - GIÒN - NGON - KHÓ CƯỠNG 💙💚💙</p><p><br></p><p>👏 Khoai tây nhà em nay lại về hàng SLL, dòng khoai này ăn thơm ngon giòn lâu chuẩn ngon như KFC luôn ạ.</p><p><br></p><p>👉 Chỉ #39k/1 túi 1kg vừa bán vừa cho. Bao ngon bao giòn. Ngoài ra, em vẫn còn nhiều món ngon lắm nhé mọi ng</p><p><br></p><p>Cách chế biến : Chiên qua dầu nóng hoặc bỏ nồi chiên không dầu mấy phút là ra ngay món ngon</p><p><br></p><p>sdt : 0352458055</p><p>sỉ lẻ tất cả thực phẩm</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/90de1069-e3fd-45b1-bdbf-3d7be9c27c98.jpg\",\"https://images.f99.com.vn/images/0b8c1f0a-4a8e-4356-ab31-39a698944956.jpg\",\"https://images.f99.com.vn/images/cece18ea-71e7-421a-a29c-24212174be5c.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Khoai tây chiên MONDELLE hoặc khoai tây  POMMES FRITES gói 1kg",
+    "description": "<p>💛💚💛KHOAI TÂY CHIÊN - GIÒN - NGON - KHÓ CƯỠNG 💙💚💙</p><p><br></p><p>👏 Khoai tây nhà em nay lại về hàng SLL, dòng khoai này ăn thơm ngon giòn lâu chuẩn ngon như KFC luôn ạ.</p><p><br></p><p>👉 Chỉ #39k/1 túi 1kg vừa bán vừa cho. Bao ngon bao giòn. Ngoài ra, em vẫn còn nhiều món ngon lắm nhé mọi ng</p><p><br></p><p>Cách chế biến : Chiên qua dầu nóng hoặc bỏ nồi chiên không dầu mấy phút là ra ngay món ngon</p><p><br></p><p>sdt : 0352458055</p><p>sỉ lẻ tất cả thực phẩm</p>",
+    "imageUrl": "https://images.f99.com.vn/images/90de1069-e3fd-45b1-bdbf-3d7be9c27c98.jpg",
+    "price": 42000,
+    "oldPrice": 60000,
+    "discountPercent": 30,
+    "stock": 1000,
+    "totalSold": 6,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 568,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ngăn đá tủ lạnh</p>",
+    "category": {
+      "id": 97,
+      "name": "Củ ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/e70500b4-6fb9-4275-85f1-cba07f33720b.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/90de1069-e3fd-45b1-bdbf-3d7be9c27c98.jpg",
+      "https://images.f99.com.vn/images/0b8c1f0a-4a8e-4356-ab31-39a698944956.jpg",
+      "https://images.f99.com.vn/images/cece18ea-71e7-421a-a29c-24212174be5c.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/38929",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 568,
+      "sellerRate": 4.8,
+      "sellerName": "Bếp Mẹ Chíp",
+      "warehouseId": "855094c4-b507-423e-8731-158e8f595f1f",
+      "warehouseAddress": " Hà Nội,  Hai Bà Trưng,  Thanh Nhàn, Số 68 ngõ 84 Võ Thị Sáu",
+      "distance": 3073,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 70.20355555555628,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 44719,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://i.imgur.com/N8ic693.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Sở dĩ dền có màu đỏ là nhờ hợp chất hỗn hợp tự nhiên betacyanin (đỏ) và betasanthin (tím) cấu thành từ hóa tính thực vật Củ dền và cả lá của cây chứa nhiều vitamin A, B1, B2, B6 và C. Lá và thân rau dền có chứa nhiều chất sắt hơn so với rau bina (spinach).</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Củ dền - 500gram",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Củ dền - 500gram",
+    "description": "<p>Sở dĩ dền có màu đỏ là nhờ hợp chất hỗn hợp tự nhiên betacyanin (đỏ) và betasanthin (tím) cấu thành từ hóa tính thực vật Củ dền và cả lá của cây chứa nhiều vitamin A, B1, B2, B6 và C. Lá và thân rau dền có chứa nhiều chất sắt hơn so với rau bina (spinach).</p>",
+    "imageUrl": "https://i.imgur.com/N8ic693.png",
+    "price": 25000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 100,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Gói",
+    "sku": "",
+    "origin": "",
+    "sellerId": 548,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.2,
+    "instructions": "",
+    "category": {
+      "id": 97,
+      "name": "Củ ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/e70500b4-6fb9-4275-85f1-cba07f33720b.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://i.imgur.com/N8ic693.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/44719",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Gói"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 86252,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Gói",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Gói",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Gói",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 25000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "Gói",
+        "sku": "",
+        "rating": 4.2,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Gói"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 548,
+      "sellerRate": 4.4,
+      "sellerName": "DELI MART",
+      "warehouseId": "602391b3-9831-42e9-80a5-2e8333671a3e",
+      "warehouseAddress": "Sàn Thương Mại Tầng 1 - Riverside Garden, số 349 Vũ Tông Phan, Khương Đình, Thanh Xuân, Hà Nội",
+      "distance": 4620,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 61.13986206896673,
+      "others": [
+        {
+          "sellerId": 548,
+          "sellerRate": 4.4,
+          "sellerName": "DELI MART",
+          "warehouseId": "602391b3-9831-42e9-80a5-2e8333671a3e",
+          "warehouseAddress": "Sàn Thương Mại Tầng 1 - Riverside Garden, số 349 Vũ Tông Phan, Khương Đình, Thanh Xuân, Hà Nội",
+          "distance": 4620,
+          "warehouseDistrict": "thanh xuan",
+          "reputation": 61.13986206896673,
+          "others": []
+        },
+        {
+          "sellerId": 548,
+          "sellerRate": 4.4,
+          "sellerName": "DELI MART",
+          "warehouseId": "05aed57f-e0a2-44c7-bed4-f754f25a5900",
+          "warehouseAddress": "Căn 103, Tòa CT4, Vimeco, Nguyễn Chánh, Trung Hòa, Cầu Giấy, Hà Nội",
+          "distance": 4718,
+          "warehouseDistrict": "cau giay",
+          "reputation": 61.13986206896673,
+          "others": []
+        },
+        {
+          "sellerId": 548,
+          "sellerRate": 4.4,
+          "sellerName": "DELI MART",
+          "warehouseId": "f31e5e1a-e677-4d15-80db-214131370d1c",
+          "warehouseAddress": "Sảnh căn hộ T03 - Times City, 458 Minh Khai, Hai Bà Trưng, Hà Nội.",
+          "distance": 5140,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 61.13986206896673,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 45249,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "200gram hành khô",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dùng để xào, nấu</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/19a5265d-5036-431f-a0e5-dc3855c57b39.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "200gram hành khô",
+    "description": "<p>Dùng để xào, nấu</p>",
+    "imageUrl": "https://images.f99.com.vn/images/19a5265d-5036-431f-a0e5-dc3855c57b39.jpg",
+    "price": 12000,
+    "oldPrice": 15000,
+    "discountPercent": 20,
+    "stock": 100,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "200gram",
+    "sku": "",
+    "origin": "",
+    "sellerId": 359,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Để ngoài thoải mái</p>",
+    "category": {
+      "id": 97,
+      "name": "Củ ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/e70500b4-6fb9-4275-85f1-cba07f33720b.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/19a5265d-5036-431f-a0e5-dc3855c57b39.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/45249",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 359,
+      "sellerRate": 4.4,
+      "sellerName": "Quang Anh- Hoa quả tươi theo mùa",
+      "warehouseId": "b29cda85-3ce5-4127-9c6b-1eb1a04399dc",
+      "warehouseAddress": " Hà Nội,  Hai Bà Trưng,  Vĩnh Tuy, NT9, Ngõ 124 Vĩnh Tuy",
+      "distance": 5482,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 70.9110772740987,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 45250,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "200gram tỏi khô",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dùng để xào, nấu...</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/26e3a595-ab44-44eb-9399-8b972ce5cebb.jpeg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "200gram tỏi khô",
+    "description": "<p>Dùng để xào, nấu...</p>",
+    "imageUrl": "https://images.f99.com.vn/images/26e3a595-ab44-44eb-9399-8b972ce5cebb.jpeg",
+    "price": 12000,
+    "oldPrice": 15000,
+    "discountPercent": 20,
+    "stock": 100,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "200gram",
+    "sku": "",
+    "origin": "",
+    "sellerId": 359,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Để ngoài thoai mái</p>",
+    "category": {
+      "id": 97,
+      "name": "Củ ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/e70500b4-6fb9-4275-85f1-cba07f33720b.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/26e3a595-ab44-44eb-9399-8b972ce5cebb.jpeg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/45250",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 359,
+      "sellerRate": 4.4,
+      "sellerName": "Quang Anh- Hoa quả tươi theo mùa",
+      "warehouseId": "b29cda85-3ce5-4127-9c6b-1eb1a04399dc",
+      "warehouseAddress": " Hà Nội,  Hai Bà Trưng,  Vĩnh Tuy, NT9, Ngõ 124 Vĩnh Tuy",
+      "distance": 5482,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 70.9110772740987,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 45411,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Khoai Tây",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Củ to, bở</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/582fa6c2-8868-49e2-993e-97d63c02f2b0.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Khoai Tây",
+    "description": "<p>Củ to, bở</p>",
+    "imageUrl": "https://images.f99.com.vn/images/582fa6c2-8868-49e2-993e-97d63c02f2b0.jpg",
+    "price": 22000,
+    "oldPrice": 30000,
+    "discountPercent": 27,
+    "stock": 100,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 644,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 97,
+      "name": "Củ ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/e70500b4-6fb9-4275-85f1-cba07f33720b.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/582fa6c2-8868-49e2-993e-97d63c02f2b0.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/45411",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 644,
+      "sellerRate": 4.3,
+      "sellerName": "Shop Mẹ Bắp",
+      "warehouseId": "36f22d27-baf5-4b59-8aad-67fd9828c973",
+      "warehouseAddress": " Hà Nội,  Nam Từ Liêm,  Mễ Trì, Toà G3- Vinhomes Green Bay",
+      "distance": 5801,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

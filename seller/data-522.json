@@ -1,0 +1,35 @@
+{
+  "id": 522,
+  "name": "SURI FARM – ĐẶC SẢN 3 MIỀN",
+  "logo": "https://cdn.f99.link/groupbuy-images/3830e4dd-3da5-4b61-97c4-01e049528feb.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Trái sạch tại nguồn - Bốn mùa khỏe đẹp",
+  "headQuarter": "46D/7 Gò Cát, Phú Hữu, Quận 9, Hồ Chí Minh",
+  "email": "nguyenloanld@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.6,
+  "availableTime": {
+    "openTime": "05:00",
+    "closeTime": "23:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 19
+}

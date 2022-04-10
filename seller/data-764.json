@@ -1,0 +1,35 @@
+{
+  "id": 764,
+  "name": "BÌNH THUẬN FOOD",
+  "logo": "https://cdn.f99.link/groupbuy-images/aefee3ae-326b-4c64-9860-8c0e6a245db2.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "BÌNH THUẬN FOOD chuyên sỉ và lẻ hải sản tươi sống - rau củ tươi sạch. Bảo đảm an toàn chất lượng cho người tiêu dùng",
+  "headQuarter": "40/15c Hoàng Bật Đạt, 15, Tân Bình, Hồ Chí Minh",
+  "email": "otosaigoncattien@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "23:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

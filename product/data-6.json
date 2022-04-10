@@ -1,0 +1,4330 @@
+[
+  {
+    "id": 927,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Kiwi vàng New Zealand ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/06e131e4-d83e-4f22-be4a-5babb4571b59.png\"><img src=\"https://images.f99.com.vn/images/13099202-f55d-40ef-9b43-c1e505ee0d62.jpg\"><img src=\"https://images.f99.com.vn/images/481f8e9e-9d1b-43c9-af4c-aaf606c5a569.png\"><img src=\"https://images.f99.com.vn/images/5d0a54d7-3d8c-49db-91c3-8929b6359090.png\"><img src=\"https://images.f99.com.vn/images/9f60a980-ca12-4f0c-addb-e9ed9ab98b53.jpg\"><img src=\"https://images.f99.com.vn/images/4bef2860-3322-49a4-9162-996e8761286e.png\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/edcb488d-a3e1-40c4-83fc-4700af73e813.jpg\",\"https://images.f99.com.vn/images/1e9754dd-c103-4bcd-ab1d-52f5fe1cc8df.jpg\",\"https://images.f99.com.vn/images/2bed4663-bc39-4882-b9ed-eac50f5efea9.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Kiwi vàng New Zealand ",
+    "description": "<p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/06e131e4-d83e-4f22-be4a-5babb4571b59.png\"><img src=\"https://images.f99.com.vn/images/13099202-f55d-40ef-9b43-c1e505ee0d62.jpg\"><img src=\"https://images.f99.com.vn/images/481f8e9e-9d1b-43c9-af4c-aaf606c5a569.png\"><img src=\"https://images.f99.com.vn/images/5d0a54d7-3d8c-49db-91c3-8929b6359090.png\"><img src=\"https://images.f99.com.vn/images/9f60a980-ca12-4f0c-addb-e9ed9ab98b53.jpg\"><img src=\"https://images.f99.com.vn/images/4bef2860-3322-49a4-9162-996e8761286e.png\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/edcb488d-a3e1-40c4-83fc-4700af73e813.jpg",
+    "price": 239000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 13,
+    "totalSold": 154,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": null,
+    "category": {
+      "id": 6,
+      "name": "Kiwi",
+      "imageUrl": "https://imgur.com/9d2vSbm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/edcb488d-a3e1-40c4-83fc-4700af73e813.jpg",
+      "https://images.f99.com.vn/images/1e9754dd-c103-4bcd-ab1d-52f5fe1cc8df.jpg",
+      "https://images.f99.com.vn/images/2bed4663-bc39-4882-b9ed-eac50f5efea9.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/927",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 2876,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": " ",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 179900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 13,
+        "totalSold": 154,
+        "unit": "Kg",
+        "sku": "20000993",
+        "rating": 0,
+        "instructions": null,
+        "sellerId": 0,
+        "note": " ",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7447,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Kiwi Vàng New Zealand",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h3 class=\"ql-align-justify\"><strong style=\"color: rgb(230, 0, 0);\"><img src=\"https://images.f99.com.vn/images/222da7a2-4125-4e03-b7d2-2923d6196c6f.jpg\">Shop sẽ cân lại và thông báo cho khách hàng khối lượng và giá tiền theo thực tế sản phẩm.</strong></h3><p><br></p><p><br></p><p><strong>GIÁ TRỊ DINH DƯỠNG: </strong></p><p class=\"ql-align-justify\">✔️ Hỗ trợ điều trị chứng rối loạn giấc ngủ.</p><p class=\"ql-align-justify\">✔️ Tốt cho phụ nữ mang thai, giúp thai nhi khỏe mạnh.</p><p class=\"ql-align-justify\">✔️ Tốt cho da, giúp bạn có làn da luôn tươi trẻ.</p><p class=\"ql-align-justify\">✔️ Giúp giảm cân.</p><p class=\"ql-align-justify\">✔️ Kiwi giúp thải độc tố.</p><p class=\"ql-align-justify\">✔️Giảm đông máu</p><p class=\"ql-align-justify\">✔️ Hỗ trợ điều trị bệnh tiểu đường</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/8a972acd-abad-484e-80d1-7c63de8c2a41.jpg\",\"https://images.f99.com.vn/images/6df55b63-30ff-4673-90ed-a805bb03da62.jpg\",\"https://images.f99.com.vn/images/71f33ae1-98d4-4bf8-9205-33d14c8b05bd.jpeg\",\"https://images.f99.com.vn/images/978de848-418f-4f15-9f96-118440f045d0.jpg\",\"https://images.f99.com.vn/images/cf849d2d-7cb0-4947-8387-90ed28773cfa.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"kiwi\",\"kiwi vàng\",\"quả kiwi\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Kiwi Vàng New Zealand",
+    "description": "<h3 class=\"ql-align-justify\"><strong style=\"color: rgb(230, 0, 0);\"><img src=\"https://images.f99.com.vn/images/222da7a2-4125-4e03-b7d2-2923d6196c6f.jpg\">Shop sẽ cân lại và thông báo cho khách hàng khối lượng và giá tiền theo thực tế sản phẩm.</strong></h3><p><br></p><p><br></p><p><strong>GIÁ TRỊ DINH DƯỠNG: </strong></p><p class=\"ql-align-justify\">✔️ Hỗ trợ điều trị chứng rối loạn giấc ngủ.</p><p class=\"ql-align-justify\">✔️ Tốt cho phụ nữ mang thai, giúp thai nhi khỏe mạnh.</p><p class=\"ql-align-justify\">✔️ Tốt cho da, giúp bạn có làn da luôn tươi trẻ.</p><p class=\"ql-align-justify\">✔️ Giúp giảm cân.</p><p class=\"ql-align-justify\">✔️ Kiwi giúp thải độc tố.</p><p class=\"ql-align-justify\">✔️Giảm đông máu</p><p class=\"ql-align-justify\">✔️ Hỗ trợ điều trị bệnh tiểu đường</p>",
+    "imageUrl": "https://images.f99.com.vn/images/8a972acd-abad-484e-80d1-7c63de8c2a41.jpg",
+    "price": 219000,
+    "oldPrice": 269000,
+    "discountPercent": 19,
+    "stock": 30,
+    "totalSold": 264,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 96,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 118,
+    "instructions": "<p><strong>HƯỚNG DẪN BẢO QUẢN:</strong></p><p>✔️ <span style=\"color: rgb(51, 51, 51);\">Đối với những quả kiwi đã chín bạn có thể để ở nhiệt độ phòng và dùng chúng trong vòng 2 - 3 ngày. Khi cho kiwi đã chín vào tủ lạnh, bạn có thể bảo quản được tối đa 7 ngày mà hương vị của chúng không hề thay đổi.</span></p><p>✔️ Nếu muốn sử dụng lâu hơn thì bạn có thể đặt kiwi vào ngăn đông của tủ lạnh. Nếu để nguyên quả thì thời gian sử dụng có thể lên đến vài tháng.</p><p>✔️ Nếu đã cắt nhỏ thì có thể bảo quản tối đa 1 tháng. Một khi đã rã đông để sử dụng thì bạn nên sử dụng cho hết, nếu sử dụng không hết cũng không nên cấp đông lại một lần nữa nhé!</p>",
+    "category": {
+      "id": 6,
+      "name": "Kiwi",
+      "imageUrl": "https://imgur.com/9d2vSbm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "kiwi",
+      "kiwi vàng",
+      "quả kiwi"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/8a972acd-abad-484e-80d1-7c63de8c2a41.jpg",
+      "https://images.f99.com.vn/images/6df55b63-30ff-4673-90ed-a805bb03da62.jpg",
+      "https://images.f99.com.vn/images/71f33ae1-98d4-4bf8-9205-33d14c8b05bd.jpeg",
+      "https://images.f99.com.vn/images/978de848-418f-4f15-9f96-118440f045d0.jpg",
+      "https://images.f99.com.vn/images/cf849d2d-7cb0-4947-8387-90ed28773cfa.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7447",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1KG",
+          "combo 2kg",
+          "combo 3kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 7448,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1KG",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "flash sale",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1KG",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1KG",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 219000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 89,
+        "unit": "KG",
+        "sku": "",
+        "rating": 118,
+        "instructions": "<p><strong>HƯỚNG DẪN BẢO QUẢN:</strong></p><p>✔️ <span style=\"color: rgb(51, 51, 51);\">Đối với những quả kiwi đã chín bạn có thể để ở nhiệt độ phòng và dùng chúng trong vòng 2 - 3 ngày. Khi cho kiwi đã chín vào tủ lạnh, bạn có thể bảo quản được tối đa 7 ngày mà hương vị của chúng không hề thay đổi.</span></p><p>✔️ Nếu muốn sử dụng lâu hơn thì bạn có thể đặt kiwi vào ngăn đông của tủ lạnh. Nếu để nguyên quả thì thời gian sử dụng có thể lên đến vài tháng.</p><p>✔️ Nếu đã cắt nhỏ thì có thể bảo quản tối đa 1 tháng. Một khi đã rã đông để sử dụng thì bạn nên sử dụng cho hết, nếu sử dụng không hết cũng không nên cấp đông lại một lần nữa nhé!</p>",
+        "sellerId": 0,
+        "note": "flash sale",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1KG"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 7449,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 2kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "combo 2kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 2kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 429000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 88,
+        "unit": "KG",
+        "sku": "",
+        "rating": 118,
+        "instructions": "<p><strong>HƯỚNG DẪN BẢO QUẢN:</strong></p><p>✔️ <span style=\"color: rgb(51, 51, 51);\">Đối với những quả kiwi đã chín bạn có thể để ở nhiệt độ phòng và dùng chúng trong vòng 2 - 3 ngày. Khi cho kiwi đã chín vào tủ lạnh, bạn có thể bảo quản được tối đa 7 ngày mà hương vị của chúng không hề thay đổi.</span></p><p>✔️ Nếu muốn sử dụng lâu hơn thì bạn có thể đặt kiwi vào ngăn đông của tủ lạnh. Nếu để nguyên quả thì thời gian sử dụng có thể lên đến vài tháng.</p><p>✔️ Nếu đã cắt nhỏ thì có thể bảo quản tối đa 1 tháng. Một khi đã rã đông để sử dụng thì bạn nên sử dụng cho hết, nếu sử dụng không hết cũng không nên cấp đông lại một lần nữa nhé!</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "combo 2kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 7450,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "combo 3kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 649000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 87,
+        "unit": "KG",
+        "sku": "",
+        "rating": 118,
+        "instructions": "<p><strong>HƯỚNG DẪN BẢO QUẢN:</strong></p><p>✔️ <span style=\"color: rgb(51, 51, 51);\">Đối với những quả kiwi đã chín bạn có thể để ở nhiệt độ phòng và dùng chúng trong vòng 2 - 3 ngày. Khi cho kiwi đã chín vào tủ lạnh, bạn có thể bảo quản được tối đa 7 ngày mà hương vị của chúng không hề thay đổi.</span></p><p>✔️ Nếu muốn sử dụng lâu hơn thì bạn có thể đặt kiwi vào ngăn đông của tủ lạnh. Nếu để nguyên quả thì thời gian sử dụng có thể lên đến vài tháng.</p><p>✔️ Nếu đã cắt nhỏ thì có thể bảo quản tối đa 1 tháng. Một khi đã rã đông để sử dụng thì bạn nên sử dụng cho hết, nếu sử dụng không hết cũng không nên cấp đông lại một lần nữa nhé!</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "combo 3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 96,
+      "sellerRate": 4.4,
+      "sellerName": "Ánh Vy Fruit",
+      "warehouseId": "4ead612c-994e-4201-ab8c-583f2ba5437c",
+      "warehouseAddress": "10 Nguyễn Khánh Toàn, phường Quan Hoa, quận Cầu Giấy, Hà Nội ",
+      "distance": 3233,
+      "warehouseDistrict": "cau giay",
+      "reputation": 76.48368498960507,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7451,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Kiwi Xanh New Zealand",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h3 class=\"ql-align-justify\"><strong style=\"color: rgb(230, 0, 0);\">Shop sẽ cân lại và thông báo cho khách hàng khối lượng và giá tiền theo thực tế sản phẩm.</strong></h3><h3 class=\"ql-align-justify\"><br></h3><p><br></p><p><img src=\"https://images.f99.com.vn/images/4f917269-655c-45cb-9ab9-a685dae656f2.jpg\"></p><p><br></p><p><br></p><p><strong>GIÁ TRỊ DINH DƯỠNG: </strong></p><p class=\"ql-align-justify\">✔️ Hỗ trợ điều trị chứng rối loạn giấc ngủ.</p><p class=\"ql-align-justify\">✔️ Tốt cho phụ nữ mang thai, giúp thai nhi khỏe mạnh.</p><p class=\"ql-align-justify\">✔️ Tốt cho da, giúp bạn có làn da luôn tươi trẻ.</p><p class=\"ql-align-justify\">✔️ Giúp giảm cân.</p><p class=\"ql-align-justify\">✔️ Kiwi giúp thải độc tố.</p><p class=\"ql-align-justify\">✔️Giảm đông máu</p><p class=\"ql-align-justify\">✔️ Hỗ trợ điều trị bệnh tiểu đường</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/da190bcd-4590-4265-a83b-ae906811910d.jpg\",\"https://images.f99.com.vn/images/d6d1247f-d78c-428d-a210-430eedbab1b3.jpg\",\"https://images.f99.com.vn/images/dc0f8d8d-a5a9-4d1b-94ba-ede242e9ecfd.jpg\",\"https://images.f99.com.vn/images/895a4a12-7664-4c96-b09a-45113af5b517.jfif\",\"https://images.f99.com.vn/images/2cbafead-f9a9-4322-b7e0-a6d32c877aad.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"kiwi xanh\",\"trái kiwi\",\"quả kiwi\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Kiwi Xanh New Zealand",
+    "description": "<h3 class=\"ql-align-justify\"><strong style=\"color: rgb(230, 0, 0);\">Shop sẽ cân lại và thông báo cho khách hàng khối lượng và giá tiền theo thực tế sản phẩm.</strong></h3><h3 class=\"ql-align-justify\"><br></h3><p><br></p><p><img src=\"https://images.f99.com.vn/images/4f917269-655c-45cb-9ab9-a685dae656f2.jpg\"></p><p><br></p><p><br></p><p><strong>GIÁ TRỊ DINH DƯỠNG: </strong></p><p class=\"ql-align-justify\">✔️ Hỗ trợ điều trị chứng rối loạn giấc ngủ.</p><p class=\"ql-align-justify\">✔️ Tốt cho phụ nữ mang thai, giúp thai nhi khỏe mạnh.</p><p class=\"ql-align-justify\">✔️ Tốt cho da, giúp bạn có làn da luôn tươi trẻ.</p><p class=\"ql-align-justify\">✔️ Giúp giảm cân.</p><p class=\"ql-align-justify\">✔️ Kiwi giúp thải độc tố.</p><p class=\"ql-align-justify\">✔️Giảm đông máu</p><p class=\"ql-align-justify\">✔️ Hỗ trợ điều trị bệnh tiểu đường</p>",
+    "imageUrl": "https://images.f99.com.vn/images/da190bcd-4590-4265-a83b-ae906811910d.jpg",
+    "price": 109000,
+    "oldPrice": 169000,
+    "discountPercent": 36,
+    "stock": 30,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 96,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 29,
+    "instructions": "<p><strong>HƯỚNG DẪN BẢO QUẢN:</strong></p><p><br></p><p>✔️ <span style=\"color: rgb(51, 51, 51);\">Đối với những quả kiwi đã chín bạn có thể để ở nhiệt độ phòng và dùng chúng trong vòng 2 - 3 ngày. Khi cho kiwi đã chín vào tủ lạnh, bạn có thể bảo quản được tối đa 7 ngày mà hương vị của chúng không hề thay đổi.</span></p><p>✔️ Nếu muốn sử dụng lâu hơn thì bạn có thể đặt kiwi vào ngăn đông của tủ lạnh. Nếu để nguyên quả thì thời gian sử dụng có thể lên đến vài tháng.</p><p>✔️ Nếu đã cắt nhỏ thì có thể bảo quản tối đa 1 tháng. Một khi đã rã đông để sử dụng thì bạn nên sử dụng cho hết, nếu sử dụng không hết cũng không nên cấp đông lại một lần nữa nhé!</p>",
+    "category": {
+      "id": 6,
+      "name": "Kiwi",
+      "imageUrl": "https://imgur.com/9d2vSbm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "kiwi xanh",
+      "trái kiwi",
+      "quả kiwi"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/da190bcd-4590-4265-a83b-ae906811910d.jpg",
+      "https://images.f99.com.vn/images/d6d1247f-d78c-428d-a210-430eedbab1b3.jpg",
+      "https://images.f99.com.vn/images/dc0f8d8d-a5a9-4d1b-94ba-ede242e9ecfd.jpg",
+      "https://images.f99.com.vn/images/895a4a12-7664-4c96-b09a-45113af5b517.jfif",
+      "https://images.f99.com.vn/images/2cbafead-f9a9-4322-b7e0-a6d32c877aad.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7451",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1KG",
+          "combo 2kg",
+          "combo 3kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 7452,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1KG",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "sale",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1KG",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1KG",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 109000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 0,
+        "unit": "KG",
+        "sku": "",
+        "rating": 29,
+        "instructions": "<p><strong>HƯỚNG DẪN BẢO QUẢN:</strong></p><p><br></p><p>✔️ <span style=\"color: rgb(51, 51, 51);\">Đối với những quả kiwi đã chín bạn có thể để ở nhiệt độ phòng và dùng chúng trong vòng 2 - 3 ngày. Khi cho kiwi đã chín vào tủ lạnh, bạn có thể bảo quản được tối đa 7 ngày mà hương vị của chúng không hề thay đổi.</span></p><p>✔️ Nếu muốn sử dụng lâu hơn thì bạn có thể đặt kiwi vào ngăn đông của tủ lạnh. Nếu để nguyên quả thì thời gian sử dụng có thể lên đến vài tháng.</p><p>✔️ Nếu đã cắt nhỏ thì có thể bảo quản tối đa 1 tháng. Một khi đã rã đông để sử dụng thì bạn nên sử dụng cho hết, nếu sử dụng không hết cũng không nên cấp đông lại một lần nữa nhé!</p>",
+        "sellerId": 0,
+        "note": "sale",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1KG"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 7453,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 2kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "combo 2kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 2kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 209000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 1,
+        "unit": "KG",
+        "sku": "",
+        "rating": 29,
+        "instructions": "<p><strong>HƯỚNG DẪN BẢO QUẢN:</strong></p><p><br></p><p>✔️ <span style=\"color: rgb(51, 51, 51);\">Đối với những quả kiwi đã chín bạn có thể để ở nhiệt độ phòng và dùng chúng trong vòng 2 - 3 ngày. Khi cho kiwi đã chín vào tủ lạnh, bạn có thể bảo quản được tối đa 7 ngày mà hương vị của chúng không hề thay đổi.</span></p><p>✔️ Nếu muốn sử dụng lâu hơn thì bạn có thể đặt kiwi vào ngăn đông của tủ lạnh. Nếu để nguyên quả thì thời gian sử dụng có thể lên đến vài tháng.</p><p>✔️ Nếu đã cắt nhỏ thì có thể bảo quản tối đa 1 tháng. Một khi đã rã đông để sử dụng thì bạn nên sử dụng cho hết, nếu sử dụng không hết cũng không nên cấp đông lại một lần nữa nhé!</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "combo 2kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 7454,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "combo 3kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 299000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 0,
+        "unit": "KG",
+        "sku": "",
+        "rating": 29,
+        "instructions": "<p><strong>HƯỚNG DẪN BẢO QUẢN:</strong></p><p><br></p><p>✔️ <span style=\"color: rgb(51, 51, 51);\">Đối với những quả kiwi đã chín bạn có thể để ở nhiệt độ phòng và dùng chúng trong vòng 2 - 3 ngày. Khi cho kiwi đã chín vào tủ lạnh, bạn có thể bảo quản được tối đa 7 ngày mà hương vị của chúng không hề thay đổi.</span></p><p>✔️ Nếu muốn sử dụng lâu hơn thì bạn có thể đặt kiwi vào ngăn đông của tủ lạnh. Nếu để nguyên quả thì thời gian sử dụng có thể lên đến vài tháng.</p><p>✔️ Nếu đã cắt nhỏ thì có thể bảo quản tối đa 1 tháng. Một khi đã rã đông để sử dụng thì bạn nên sử dụng cho hết, nếu sử dụng không hết cũng không nên cấp đông lại một lần nữa nhé!</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "combo 3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 96,
+      "sellerRate": 4.4,
+      "sellerName": "Ánh Vy Fruit",
+      "warehouseId": "4ead612c-994e-4201-ab8c-583f2ba5437c",
+      "warehouseAddress": "10 Nguyễn Khánh Toàn, phường Quan Hoa, quận Cầu Giấy, Hà Nội ",
+      "distance": 3233,
+      "warehouseDistrict": "cau giay",
+      "reputation": 76.48368498960507,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7875,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hộp Kiwi Vàng New zealand",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><br></p><p><strong>HỘP KIWI VÀNG 2KG </strong></p><p><strong>SANG TRỌNG , LỊCH SỰ PHÙ HỢP BIẾU, TẶNG LÀM QUÀ !</strong></p><p><br></p><p><br></p><p><img src=\"https://images.f99.com.vn/images/8c041214-a75e-4574-9ae9-e76a52333d9e.jpg\"></p><p><br></p><p><br></p><p><strong>GIÁ TRỊ DINH DƯỠNG: </strong></p><p class=\"ql-align-justify\">✔️ Hỗ trợ điều trị chứng rối loạn giấc ngủ.</p><p class=\"ql-align-justify\">✔️ Tốt cho phụ nữ mang thai, giúp thai nhi khỏe mạnh.</p><p class=\"ql-align-justify\">✔️ Tốt cho da, giúp bạn có làn da luôn tươi trẻ.</p><p class=\"ql-align-justify\">✔️ Giúp giảm cân.</p><p class=\"ql-align-justify\">✔️ Kiwi giúp thải độc tố.</p><p class=\"ql-align-justify\">✔️Giảm đông máu</p><p class=\"ql-align-justify\">✔️ Hỗ trợ điều trị bệnh tiểu đường</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/c1761fe4-c452-467f-bf2a-0e4dbf8ecb5d.jpg\",\"https://images.f99.com.vn/images/be5f6270-e18c-4a1a-bfbc-8ea71a274107.jpg\",\"https://images.f99.com.vn/images/cb5fb25f-acc9-42b3-9709-cb6d408e2ffc.jpg\",\"https://images.f99.com.vn/images/f5bbdebf-0302-4957-881b-378ba4ce6a66.jfif\",\"https://images.f99.com.vn/images/7f92cb44-efad-42ef-b9a8-5fbf2489d32b.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"kiwi\",\"kiwi vàng\",\"hộp kiwi\",\"hộp quả\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hộp Kiwi Vàng New zealand",
+    "description": "<p><br></p><p><strong>HỘP KIWI VÀNG 2KG </strong></p><p><strong>SANG TRỌNG , LỊCH SỰ PHÙ HỢP BIẾU, TẶNG LÀM QUÀ !</strong></p><p><br></p><p><br></p><p><img src=\"https://images.f99.com.vn/images/8c041214-a75e-4574-9ae9-e76a52333d9e.jpg\"></p><p><br></p><p><br></p><p><strong>GIÁ TRỊ DINH DƯỠNG: </strong></p><p class=\"ql-align-justify\">✔️ Hỗ trợ điều trị chứng rối loạn giấc ngủ.</p><p class=\"ql-align-justify\">✔️ Tốt cho phụ nữ mang thai, giúp thai nhi khỏe mạnh.</p><p class=\"ql-align-justify\">✔️ Tốt cho da, giúp bạn có làn da luôn tươi trẻ.</p><p class=\"ql-align-justify\">✔️ Giúp giảm cân.</p><p class=\"ql-align-justify\">✔️ Kiwi giúp thải độc tố.</p><p class=\"ql-align-justify\">✔️Giảm đông máu</p><p class=\"ql-align-justify\">✔️ Hỗ trợ điều trị bệnh tiểu đường</p>",
+    "imageUrl": "https://images.f99.com.vn/images/c1761fe4-c452-467f-bf2a-0e4dbf8ecb5d.jpg",
+    "price": 439000,
+    "oldPrice": 510000,
+    "discountPercent": 14,
+    "stock": 58,
+    "totalSold": 56,
+    "maxQuantityPerUser": null,
+    "unit": "hộp",
+    "sku": "",
+    "origin": "",
+    "sellerId": 96,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 39,
+    "instructions": "<p><img src=\"https://images.f99.com.vn/images/8ceaa47e-d9b2-41ba-8ea6-8de57f528ef3.jpg\"></p><p><strong>HƯỚNG DẪN BẢO QUẢN:</strong></p><p><br></p><p>✔️ <span style=\"color: rgb(51, 51, 51);\">Đối với những quả kiwi đã chín bạn có thể để ở nhiệt độ phòng và dùng chúng trong vòng 2 - 3 ngày. Khi cho kiwi đã chín vào tủ lạnh, bạn có thể bảo quản được tối đa 7 ngày mà hương vị của chúng không hề thay đổi.</span></p><p><br></p><p>✔️ Nếu muốn sử dụng lâu hơn thì bạn có thể đặt kiwi vào ngăn đông của tủ lạnh. Nếu để nguyên quả thì thời gian sử dụng có thể lên đến vài tháng.</p><p><br></p><p>✔️ Nếu đã cắt nhỏ thì có thể bảo quản tối đa 1 tháng. Một khi đã rã đông để sử dụng thì bạn nên sử dụng cho hết, nếu sử dụng không hết cũng không nên cấp đông lại một lần nữa nhé!</p>",
+    "category": {
+      "id": 6,
+      "name": "Kiwi",
+      "imageUrl": "https://imgur.com/9d2vSbm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "kiwi",
+      "kiwi vàng",
+      "hộp kiwi",
+      "hộp quả"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/c1761fe4-c452-467f-bf2a-0e4dbf8ecb5d.jpg",
+      "https://images.f99.com.vn/images/be5f6270-e18c-4a1a-bfbc-8ea71a274107.jpg",
+      "https://images.f99.com.vn/images/cb5fb25f-acc9-42b3-9709-cb6d408e2ffc.jpg",
+      "https://images.f99.com.vn/images/f5bbdebf-0302-4957-881b-378ba4ce6a66.jfif",
+      "https://images.f99.com.vn/images/7f92cb44-efad-42ef-b9a8-5fbf2489d32b.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7875",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1 hộp",
+          "combo 2 hộp"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 8650,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 hộp",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1 hộp",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 hộp",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 439000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 29,
+        "totalSold": 28,
+        "unit": "hộp",
+        "sku": "",
+        "rating": 39,
+        "instructions": "<p><img src=\"https://images.f99.com.vn/images/8ceaa47e-d9b2-41ba-8ea6-8de57f528ef3.jpg\"></p><p><strong>HƯỚNG DẪN BẢO QUẢN:</strong></p><p><br></p><p>✔️ <span style=\"color: rgb(51, 51, 51);\">Đối với những quả kiwi đã chín bạn có thể để ở nhiệt độ phòng và dùng chúng trong vòng 2 - 3 ngày. Khi cho kiwi đã chín vào tủ lạnh, bạn có thể bảo quản được tối đa 7 ngày mà hương vị của chúng không hề thay đổi.</span></p><p><br></p><p>✔️ Nếu muốn sử dụng lâu hơn thì bạn có thể đặt kiwi vào ngăn đông của tủ lạnh. Nếu để nguyên quả thì thời gian sử dụng có thể lên đến vài tháng.</p><p><br></p><p>✔️ Nếu đã cắt nhỏ thì có thể bảo quản tối đa 1 tháng. Một khi đã rã đông để sử dụng thì bạn nên sử dụng cho hết, nếu sử dụng không hết cũng không nên cấp đông lại một lần nữa nhé!</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1 hộp"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 8651,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 2 hộp",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "combo 2 hộp",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 2 hộp",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 849000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 29,
+        "totalSold": 28,
+        "unit": "hộp",
+        "sku": "",
+        "rating": 39,
+        "instructions": "<p><img src=\"https://images.f99.com.vn/images/8ceaa47e-d9b2-41ba-8ea6-8de57f528ef3.jpg\"></p><p><strong>HƯỚNG DẪN BẢO QUẢN:</strong></p><p><br></p><p>✔️ <span style=\"color: rgb(51, 51, 51);\">Đối với những quả kiwi đã chín bạn có thể để ở nhiệt độ phòng và dùng chúng trong vòng 2 - 3 ngày. Khi cho kiwi đã chín vào tủ lạnh, bạn có thể bảo quản được tối đa 7 ngày mà hương vị của chúng không hề thay đổi.</span></p><p><br></p><p>✔️ Nếu muốn sử dụng lâu hơn thì bạn có thể đặt kiwi vào ngăn đông của tủ lạnh. Nếu để nguyên quả thì thời gian sử dụng có thể lên đến vài tháng.</p><p><br></p><p>✔️ Nếu đã cắt nhỏ thì có thể bảo quản tối đa 1 tháng. Một khi đã rã đông để sử dụng thì bạn nên sử dụng cho hết, nếu sử dụng không hết cũng không nên cấp đông lại một lần nữa nhé!</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "combo 2 hộp"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 96,
+      "sellerRate": 4.4,
+      "sellerName": "Ánh Vy Fruit",
+      "warehouseId": "4ead612c-994e-4201-ab8c-583f2ba5437c",
+      "warehouseAddress": "10 Nguyễn Khánh Toàn, phường Quan Hoa, quận Cầu Giấy, Hà Nội ",
+      "distance": 3233,
+      "warehouseDistrict": "cau giay",
+      "reputation": 76.48368498960507,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7888,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hộp Kiwi xanh New Zealand",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong>HỘP KIWI VÀNG 2KG </strong></p><p><strong>SANG TRỌNG , LỊCH SỰ PHÙ HỢP BIẾU, TẶNG LÀM QUÀ !</strong></p><p><br></p><p><img src=\"https://images.f99.com.vn/images/7cf65dbd-1f50-4f39-a6e7-3a165d623bc7.jpg\"></p><p><br></p><p><br></p><p><strong>GIÁ TRỊ DINH DƯỠNG: </strong></p><p class=\"ql-align-justify\">✔️ Hỗ trợ điều trị chứng rối loạn giấc ngủ.</p><p class=\"ql-align-justify\">✔️ Tốt cho phụ nữ mang thai, giúp thai nhi khỏe mạnh.</p><p class=\"ql-align-justify\">✔️ Tốt cho da, giúp bạn có làn da luôn tươi trẻ.</p><p class=\"ql-align-justify\">✔️ Giúp giảm cân.</p><p class=\"ql-align-justify\">✔️ Kiwi giúp thải độc tố.</p><p class=\"ql-align-justify\">✔️Giảm đông máu</p><p class=\"ql-align-justify\">✔️ Hỗ trợ điều trị bệnh tiểu đường</p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/ef422022-bd29-4960-8f16-4b84ee74d7ff.jpg\",\"https://images.f99.com.vn/images/35bd32c6-3af9-48ce-9052-f4aae229b24a.jfif\",\"https://images.f99.com.vn/images/4f4c6efb-bdd2-4da3-8a42-813a74dc1660.jpg\",\"https://images.f99.com.vn/images/c444f8d5-e0ab-4833-9633-ab53749398ac.jfif\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"kiwi xanh\",\"hộp quả\",\"hộp kiwi\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hộp Kiwi xanh New Zealand",
+    "description": "<p><strong>HỘP KIWI VÀNG 2KG </strong></p><p><strong>SANG TRỌNG , LỊCH SỰ PHÙ HỢP BIẾU, TẶNG LÀM QUÀ !</strong></p><p><br></p><p><img src=\"https://images.f99.com.vn/images/7cf65dbd-1f50-4f39-a6e7-3a165d623bc7.jpg\"></p><p><br></p><p><br></p><p><strong>GIÁ TRỊ DINH DƯỠNG: </strong></p><p class=\"ql-align-justify\">✔️ Hỗ trợ điều trị chứng rối loạn giấc ngủ.</p><p class=\"ql-align-justify\">✔️ Tốt cho phụ nữ mang thai, giúp thai nhi khỏe mạnh.</p><p class=\"ql-align-justify\">✔️ Tốt cho da, giúp bạn có làn da luôn tươi trẻ.</p><p class=\"ql-align-justify\">✔️ Giúp giảm cân.</p><p class=\"ql-align-justify\">✔️ Kiwi giúp thải độc tố.</p><p class=\"ql-align-justify\">✔️Giảm đông máu</p><p class=\"ql-align-justify\">✔️ Hỗ trợ điều trị bệnh tiểu đường</p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/ef422022-bd29-4960-8f16-4b84ee74d7ff.jpg",
+    "price": 261000,
+    "oldPrice": 290000,
+    "discountPercent": 10,
+    "stock": 20,
+    "totalSold": 34,
+    "maxQuantityPerUser": null,
+    "unit": "hộp",
+    "sku": "",
+    "origin": "",
+    "sellerId": 96,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 20,
+    "instructions": "<p><img src=\"https://images.f99.com.vn/images/180cd91e-1838-4404-a5ee-a6d0c26259ea.jpg\"></p><p><br></p><p><strong>HƯỚNG DẪN BẢO QUẢN:</strong></p><p><br></p><p>✔️ <span style=\"color: rgb(51, 51, 51);\">Đối với những quả kiwi đã chín bạn có thể để ở nhiệt độ phòng và dùng chúng trong vòng 2 - 3 ngày. Khi cho kiwi đã chín vào tủ lạnh, bạn có thể bảo quản được tối đa 7 ngày mà hương vị của chúng không hề thay đổi.</span></p><p><br></p><p>✔️ Nếu muốn sử dụng lâu hơn thì bạn có thể đặt kiwi vào ngăn đông của tủ lạnh. Nếu để nguyên quả thì thời gian sử dụng có thể lên đến vài tháng.</p><p><br></p><p>✔️ Nếu đã cắt nhỏ thì có thể bảo quản tối đa 1 tháng. Một khi đã rã đông để sử dụng thì bạn nên sử dụng cho hết, nếu sử dụng không hết cũng không nên cấp đông lại một lần nữa nhé!</p>",
+    "category": {
+      "id": 6,
+      "name": "Kiwi",
+      "imageUrl": "https://imgur.com/9d2vSbm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "kiwi xanh",
+      "hộp quả",
+      "hộp kiwi"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/ef422022-bd29-4960-8f16-4b84ee74d7ff.jpg",
+      "https://images.f99.com.vn/images/35bd32c6-3af9-48ce-9052-f4aae229b24a.jfif",
+      "https://images.f99.com.vn/images/4f4c6efb-bdd2-4da3-8a42-813a74dc1660.jpg",
+      "https://images.f99.com.vn/images/c444f8d5-e0ab-4833-9633-ab53749398ac.jfif"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7888",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1 hộp/ 2kg",
+          "combo 2 hộp"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 7889,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 hộp/ 2kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1 hộp/ 2kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 hộp/ 2kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 261000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 17,
+        "unit": "hộp",
+        "sku": "",
+        "rating": 20,
+        "instructions": "<p><img src=\"https://images.f99.com.vn/images/180cd91e-1838-4404-a5ee-a6d0c26259ea.jpg\"></p><p><br></p><p><strong>HƯỚNG DẪN BẢO QUẢN:</strong></p><p><br></p><p>✔️ <span style=\"color: rgb(51, 51, 51);\">Đối với những quả kiwi đã chín bạn có thể để ở nhiệt độ phòng và dùng chúng trong vòng 2 - 3 ngày. Khi cho kiwi đã chín vào tủ lạnh, bạn có thể bảo quản được tối đa 7 ngày mà hương vị của chúng không hề thay đổi.</span></p><p><br></p><p>✔️ Nếu muốn sử dụng lâu hơn thì bạn có thể đặt kiwi vào ngăn đông của tủ lạnh. Nếu để nguyên quả thì thời gian sử dụng có thể lên đến vài tháng.</p><p><br></p><p>✔️ Nếu đã cắt nhỏ thì có thể bảo quản tối đa 1 tháng. Một khi đã rã đông để sử dụng thì bạn nên sử dụng cho hết, nếu sử dụng không hết cũng không nên cấp đông lại một lần nữa nhé!</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1 hộp/ 2kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 7890,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 2 hộp",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "combo 2 hộp",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 2 hộp",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 505000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 17,
+        "unit": "hộp",
+        "sku": "",
+        "rating": 20,
+        "instructions": "<p><img src=\"https://images.f99.com.vn/images/180cd91e-1838-4404-a5ee-a6d0c26259ea.jpg\"></p><p><br></p><p><strong>HƯỚNG DẪN BẢO QUẢN:</strong></p><p><br></p><p>✔️ <span style=\"color: rgb(51, 51, 51);\">Đối với những quả kiwi đã chín bạn có thể để ở nhiệt độ phòng và dùng chúng trong vòng 2 - 3 ngày. Khi cho kiwi đã chín vào tủ lạnh, bạn có thể bảo quản được tối đa 7 ngày mà hương vị của chúng không hề thay đổi.</span></p><p><br></p><p>✔️ Nếu muốn sử dụng lâu hơn thì bạn có thể đặt kiwi vào ngăn đông của tủ lạnh. Nếu để nguyên quả thì thời gian sử dụng có thể lên đến vài tháng.</p><p><br></p><p>✔️ Nếu đã cắt nhỏ thì có thể bảo quản tối đa 1 tháng. Một khi đã rã đông để sử dụng thì bạn nên sử dụng cho hết, nếu sử dụng không hết cũng không nên cấp đông lại một lần nữa nhé!</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "combo 2 hộp"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 96,
+      "sellerRate": 4.4,
+      "sellerName": "Ánh Vy Fruit",
+      "warehouseId": "4ead612c-994e-4201-ab8c-583f2ba5437c",
+      "warehouseAddress": "10 Nguyễn Khánh Toàn, phường Quan Hoa, quận Cầu Giấy, Hà Nội ",
+      "distance": 3233,
+      "warehouseDistrict": "cau giay",
+      "reputation": 76.48368498960507,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 10211,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "KIWI ZÉPRIS NEWZELAND",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Kiwi vàng New Zealand là loại quả ngon số 1 thế giới, với quy trình từ trồng, chăm bón đến thu hái, vận chuyển được chính phủ New Zealand kiểm soát rất chặt chẽ để đảm bảo quả kiwi luôn đồng đều và đủ tiêu chuẩn.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tf4/1/16/2728.png\" alt=\"✨\" height=\"16\" width=\"16\"> Với một lượng Vitamin C và chất xơ dồi dào, Kiwi Zespri SunGold là món tráng miệng ngon lành và tuyệt vời , giúp bạn hỗ trợ tiêu hoá, tăng cường cho hệ miễn dịch của cả gia đình luôn luôn khoẻ mạnh <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/1f4aa.png\" alt=\"💪\" height=\"16\" width=\"16\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/11c7e052-13fb-4e22-88f2-a41abebcb65d.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "KIWI ZÉPRIS NEWZELAND",
+    "description": "<p>Kiwi vàng New Zealand là loại quả ngon số 1 thế giới, với quy trình từ trồng, chăm bón đến thu hái, vận chuyển được chính phủ New Zealand kiểm soát rất chặt chẽ để đảm bảo quả kiwi luôn đồng đều và đủ tiêu chuẩn.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tf4/1/16/2728.png\" alt=\"✨\" height=\"16\" width=\"16\"> Với một lượng Vitamin C và chất xơ dồi dào, Kiwi Zespri SunGold là món tráng miệng ngon lành và tuyệt vời , giúp bạn hỗ trợ tiêu hoá, tăng cường cho hệ miễn dịch của cả gia đình luôn luôn khoẻ mạnh <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/1f4aa.png\" alt=\"💪\" height=\"16\" width=\"16\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/11c7e052-13fb-4e22-88f2-a41abebcb65d.jpg",
+    "price": 195000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 5,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "SP06",
+    "origin": "",
+    "sellerId": 192,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 6,
+      "name": "Kiwi",
+      "imageUrl": "https://imgur.com/9d2vSbm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/11c7e052-13fb-4e22-88f2-a41abebcb65d.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/10211",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 77937,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 195000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 5,
+        "totalSold": 1,
+        "unit": "Kg",
+        "sku": "SP06",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 192,
+      "sellerRate": 4.5,
+      "sellerName": "Trái Cây Cát Tường",
+      "warehouseId": "466ca774-9ed9-4a7c-9250-8490c8d0b8bf",
+      "warehouseAddress": "Shop House A11 Sảnh A Toà Imperia 423 Minh Khai, Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "distance": 4733,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 12879,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "kiwi vàng",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>quả kiwi là loại trái cây nhiệt đới được trồng phổ biến tại nhiều nơi trên thế giới như New zealand ,pháp ,mỹ ,úc ,nhật.</p><p><br></p><p>KIWI chứa môt lượng lớn polyphenol ,axit folic ,vitamin c ,k và e .folate ,kali , chất sơ ,choline ,đồng ,magie và phốt pho.ngoài ra loại quả này không có cholesterol, ít đường và chất béo.</p><p><br></p><p>các chất khoáng như Mg ,cu,k,Zn trong quả kiwi có vai trò rất lớn giữ trái tim luôn khẻo mạnh ,và Ca ,Cr ,Cu giúp hệ sương cứng chắc , các khớp nối hoạt động trơn tru .chất sơ phong phú trong kiwi hỗ trợ tiêu hoá rất tốt.ngăn ngừa táo bón ,trĩ , ung thư ruột , đại tràng ,đồng thời hỗ trợ giãm cân.</p><p>kiwi vàng chứa chất serotonin tốt cho não bộ ,kích thích khả năng ghi nhớ của trẻ và giúp trẻ ngủ ngon ,ngủ sâu hơn .</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/8ed60c92-895c-4009-bfb4-2b1b3766fae8.jpg\",\"https://images.f99.com.vn/images/c836e3c3-aed4-4631-9ceb-007dad2fdba6.jpg\",\"https://images.f99.com.vn/images/f8dcaf32-101d-4b32-9bd8-28eda533450e.jpg\",\"https://images.f99.com.vn/images/0faf1e9b-acc8-4dd1-97c0-89f9ee6788a4.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "kiwi vàng",
+    "description": "<p>quả kiwi là loại trái cây nhiệt đới được trồng phổ biến tại nhiều nơi trên thế giới như New zealand ,pháp ,mỹ ,úc ,nhật.</p><p><br></p><p>KIWI chứa môt lượng lớn polyphenol ,axit folic ,vitamin c ,k và e .folate ,kali , chất sơ ,choline ,đồng ,magie và phốt pho.ngoài ra loại quả này không có cholesterol, ít đường và chất béo.</p><p><br></p><p>các chất khoáng như Mg ,cu,k,Zn trong quả kiwi có vai trò rất lớn giữ trái tim luôn khẻo mạnh ,và Ca ,Cr ,Cu giúp hệ sương cứng chắc , các khớp nối hoạt động trơn tru .chất sơ phong phú trong kiwi hỗ trợ tiêu hoá rất tốt.ngăn ngừa táo bón ,trĩ , ung thư ruột , đại tràng ,đồng thời hỗ trợ giãm cân.</p><p>kiwi vàng chứa chất serotonin tốt cho não bộ ,kích thích khả năng ghi nhớ của trẻ và giúp trẻ ngủ ngon ,ngủ sâu hơn .</p>",
+    "imageUrl": "https://images.f99.com.vn/images/8ed60c92-895c-4009-bfb4-2b1b3766fae8.jpg",
+    "price": 200000,
+    "oldPrice": 130000,
+    "discountPercent": -54,
+    "stock": 10,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 220,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>bảo quản trong tủ mát</p>",
+    "category": {
+      "id": 6,
+      "name": "Kiwi",
+      "imageUrl": "https://imgur.com/9d2vSbm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/8ed60c92-895c-4009-bfb4-2b1b3766fae8.jpg",
+      "https://images.f99.com.vn/images/c836e3c3-aed4-4631-9ceb-007dad2fdba6.jpg",
+      "https://images.f99.com.vn/images/f8dcaf32-101d-4b32-9bd8-28eda533450e.jpg",
+      "https://images.f99.com.vn/images/0faf1e9b-acc8-4dd1-97c0-89f9ee6788a4.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12879",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 220,
+      "sellerRate": 4.5,
+      "sellerName": "Mai Hoa Fruit",
+      "warehouseId": "318b6254-bdee-408b-91a1-df079579dc6d",
+      "warehouseAddress": "Số 19 ngõ 10 Nguyễn Thị Định, Trung Hoà, Cầu Giấy, Hà Nội",
+      "distance": 3649,
+      "warehouseDistrict": "cau giay",
+      "reputation": 65.73371431372549,
+      "others": [
+        {
+          "sellerId": 220,
+          "sellerRate": 4.5,
+          "sellerName": "Mai Hoa Fruit",
+          "warehouseId": "318b6254-bdee-408b-91a1-df079579dc6d",
+          "warehouseAddress": "Số 19 ngõ 10 Nguyễn Thị Định, Trung Hoà, Cầu Giấy, Hà Nội",
+          "distance": 3649,
+          "warehouseDistrict": "cau giay",
+          "reputation": 65.73371431372549,
+          "others": []
+        },
+        {
+          "sellerId": 220,
+          "sellerRate": 4.5,
+          "sellerName": "Mai Hoa Fruit",
+          "warehouseId": "c802dd36-8dd8-48f8-8fb5-62e3b6471417",
+          "warehouseAddress": "195 Quang Trung, Quang Trung, Hà Đông​, Hà Nội",
+          "distance": 9097,
+          "warehouseDistrict": "ha dong",
+          "reputation": 65.73371431372549,
+          "others": []
+        },
+        {
+          "sellerId": 220,
+          "sellerRate": 4.5,
+          "sellerName": "Mai Hoa Fruit",
+          "warehouseId": "c3d1fd66-42a4-4a2d-a215-47c3185e5f08",
+          "warehouseAddress": "Số 140 Tô Hiệu, Hà Cầu, Hà Đông, Hà Nội",
+          "distance": 9098,
+          "warehouseDistrict": "ha dong",
+          "reputation": 65.73371431372549,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14209,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "KIWI VÀNG NEWZEALAND",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t39/1.5/16/1f95d.png\" alt=\"🥝\" height=\"16\" width=\"16\">3 DƯỠNG CHẤT TỪ HẠT KIWI \"ÍT AI NGỜ TỚI\"</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/taa/1.5/16/1f449.png\" alt=\"👉\" height=\"16\" width=\"16\">Chất béo Omega-3.</p><p>Hạt Kiwi có chứa một lượng nhỏ chất béo Omega-3. Chất béo này rất quan trọng cho não bộ và sức khỏe tim mạch.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/taa/1.5/16/1f449.png\" alt=\"👉\" height=\"16\" width=\"16\">Chất xơ</p><p>Khẩu phần hai quả Kiwi Vàng Zespri chứa khoảng 8% hàm lượng chất xơ được khuyến nghị hàng ngày. Kiwi Xanh Zespri 16%. Một phần nhỏ chất xơ này đến từ hạt.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/taa/1.5/16/1f449.png\" alt=\"👉\" height=\"16\" width=\"16\">Protein và chất chống oxy hóa - Vitamin E</p><p>Hạt Kiwi cũng chứa một hàm lượng nhỏ protein, dưỡng chất quan trọng cho sức khỏe.</p><p>Hạt kiwi giúp hệ tiêu hóa hấp thu thức ăn tốt hơn với sự trợ giúp của enzyme actinidin. Cùng với hàm lượng chất xơ, actinidin ngăn ngừa cảm giác đầy hơi có thể gặp phải sau khi ăn.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/05dd637c-2e6f-4add-968b-fee5b5fa9af3.jpg\",\"https://images.f99.com.vn/images/e5ad6b83-651c-49c5-a301-20713c7ab4d4.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "KIWI VÀNG NEWZEALAND",
+    "description": "<p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t39/1.5/16/1f95d.png\" alt=\"🥝\" height=\"16\" width=\"16\">3 DƯỠNG CHẤT TỪ HẠT KIWI \"ÍT AI NGỜ TỚI\"</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/taa/1.5/16/1f449.png\" alt=\"👉\" height=\"16\" width=\"16\">Chất béo Omega-3.</p><p>Hạt Kiwi có chứa một lượng nhỏ chất béo Omega-3. Chất béo này rất quan trọng cho não bộ và sức khỏe tim mạch.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/taa/1.5/16/1f449.png\" alt=\"👉\" height=\"16\" width=\"16\">Chất xơ</p><p>Khẩu phần hai quả Kiwi Vàng Zespri chứa khoảng 8% hàm lượng chất xơ được khuyến nghị hàng ngày. Kiwi Xanh Zespri 16%. Một phần nhỏ chất xơ này đến từ hạt.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/taa/1.5/16/1f449.png\" alt=\"👉\" height=\"16\" width=\"16\">Protein và chất chống oxy hóa - Vitamin E</p><p>Hạt Kiwi cũng chứa một hàm lượng nhỏ protein, dưỡng chất quan trọng cho sức khỏe.</p><p>Hạt kiwi giúp hệ tiêu hóa hấp thu thức ăn tốt hơn với sự trợ giúp của enzyme actinidin. Cùng với hàm lượng chất xơ, actinidin ngăn ngừa cảm giác đầy hơi có thể gặp phải sau khi ăn.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/05dd637c-2e6f-4add-968b-fee5b5fa9af3.jpg",
+    "price": 169000,
+    "oldPrice": 210000,
+    "discountPercent": 20,
+    "stock": 50,
+    "totalSold": 852,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 194,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 6,
+      "name": "Kiwi",
+      "imageUrl": "https://imgur.com/9d2vSbm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/05dd637c-2e6f-4add-968b-fee5b5fa9af3.jpg",
+      "https://images.f99.com.vn/images/e5ad6b83-651c-49c5-a301-20713c7ab4d4.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14209",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 194,
+      "sellerRate": 4.4,
+      "sellerName": "EUS Fruit 482 Minh Khai",
+      "warehouseId": "bd652138-f1d1-48df-9992-f5be14f3ae95",
+      "warehouseAddress": "482 Minh Khai, Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "distance": 4774,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 76.79195497267878,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14651,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "kiwi Vàng newzealand",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Kiwi 𝗡𝗲𝘄 𝗭𝗲𝗮𝗹𝗮𝗻𝗱</p><p>Kiwi vàng to ngọt già quả</p><p>Em xứng đáng 10 điểm về chất lượng và chất dinh dưỡng vitamin</p><p>-----------</p><p>𝐇𝐎𝐀 𝐐𝐔𝐀̉ 𝐒𝐀̣𝐂𝐇 𝐅𝐑𝐔𝐈𝐓</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t77/1/16/1f3e1.png\" alt=\"🏡\" height=\"16\" width=\"16\">CS : 84 Bà Triệu - Hoàn Kiếm - Hà nội</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/54b5072d-e05b-4275-84e1-149bc082bdda.jpg\",\"https://images.f99.com.vn/images/46959a84-a682-44d6-8743-9e63895488c5.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "kiwi Vàng newzealand",
+    "description": "<p>Kiwi 𝗡𝗲𝘄 𝗭𝗲𝗮𝗹𝗮𝗻𝗱</p><p>Kiwi vàng to ngọt già quả</p><p>Em xứng đáng 10 điểm về chất lượng và chất dinh dưỡng vitamin</p><p>-----------</p><p>𝐇𝐎𝐀 𝐐𝐔𝐀̉ 𝐒𝐀̣𝐂𝐇 𝐅𝐑𝐔𝐈𝐓</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t77/1/16/1f3e1.png\" alt=\"🏡\" height=\"16\" width=\"16\">CS : 84 Bà Triệu - Hoàn Kiếm - Hà nội</p>",
+    "imageUrl": "https://images.f99.com.vn/images/54b5072d-e05b-4275-84e1-149bc082bdda.jpg",
+    "price": 165000,
+    "oldPrice": 220000,
+    "discountPercent": 25,
+    "stock": 20000,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "05",
+    "origin": "",
+    "sellerId": 236,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>...</p>",
+    "category": {
+      "id": 6,
+      "name": "Kiwi",
+      "imageUrl": "https://imgur.com/9d2vSbm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/54b5072d-e05b-4275-84e1-149bc082bdda.jpg",
+      "https://images.f99.com.vn/images/46959a84-a682-44d6-8743-9e63895488c5.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14651",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 236,
+      "sellerRate": 3.3,
+      "sellerName": "Tonkin Fruits",
+      "warehouseId": "89ed028b-b678-42d8-b5f1-e7243035ce2d",
+      "warehouseAddress": "hoan kiem, Số 84 Bà Triệu, Hàng Bài, Hoàn Kiếm, Hà Nội",
+      "distance": 1826,
+      "warehouseDistrict": "hoan kiem",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14898,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Kiwi vàng New Zealand khay 5 quả",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Kiwi vàng New Zealand - Zepri</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/7676549e-6b8f-48ac-aff7-73d3d9c808dd.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Kiwi vàng New Zealand khay 5 quả",
+    "description": "<p>Kiwi vàng New Zealand - Zepri</p>",
+    "imageUrl": "https://images.f99.com.vn/images/7676549e-6b8f-48ac-aff7-73d3d9c808dd.jpg",
+    "price": 150000,
+    "oldPrice": 190000,
+    "discountPercent": 21,
+    "stock": 30,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Khay",
+    "sku": "",
+    "origin": "",
+    "sellerId": 260,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Để tủ mát</p>",
+    "category": {
+      "id": 6,
+      "name": "Kiwi",
+      "imageUrl": "https://imgur.com/9d2vSbm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/7676549e-6b8f-48ac-aff7-73d3d9c808dd.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14898",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Khay"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 70414,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Khay",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Khay",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Khay",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 150000,
+        "oldPrice": 190000,
+        "discountPercent": 21,
+        "stock": 30,
+        "totalSold": 0,
+        "unit": "Khay",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Để tủ mát</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Khay"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 260,
+      "sellerRate": 4.4,
+      "sellerName": "Hoa quả 24 Fruit",
+      "warehouseId": "108f4ee0-3cbf-4604-95f9-63370d77dd1e",
+      "warehouseAddress": "24 Quán Thánh, Ba Đình, Hà Nội",
+      "distance": 1901,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 61.327787439614994,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14907,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Kiwi vàng khay 11 quả( Từ 1.7-1.8kg/khay)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>kiwi</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/7bfd6e43-49e7-49a8-a896-09bc98c220f7.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Kiwi vàng khay 11 quả( Từ 1.7-1.8kg/khay)",
+    "description": "<p>kiwi</p>",
+    "imageUrl": "https://images.f99.com.vn/images/7bfd6e43-49e7-49a8-a896-09bc98c220f7.jpg",
+    "price": 279000,
+    "oldPrice": 390000,
+    "discountPercent": 28,
+    "stock": 29,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Khay 11 quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 260,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>tử mát</p>",
+    "category": {
+      "id": 6,
+      "name": "Kiwi",
+      "imageUrl": "https://imgur.com/9d2vSbm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/7bfd6e43-49e7-49a8-a896-09bc98c220f7.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14907",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Khay 11 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 70418,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Khay 11 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Khay 11 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Khay 11 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 279000,
+        "oldPrice": 390000,
+        "discountPercent": 28,
+        "stock": 29,
+        "totalSold": 1,
+        "unit": "Khay 11 quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>tử mát</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Khay 11 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 260,
+      "sellerRate": 4.4,
+      "sellerName": "Hoa quả 24 Fruit",
+      "warehouseId": "108f4ee0-3cbf-4604-95f9-63370d77dd1e",
+      "warehouseAddress": "24 Quán Thánh, Ba Đình, Hà Nội",
+      "distance": 1901,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 61.327787439614994,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15430,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Kiwi vàng Đài Loan  - VIHAFOOD",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p Class=\"ql-align-justify\">Kiwi là loại&nbsp;<a href=\"https://hoaquafuji.com/post/lua-chon-trai-cay-cho-be-7-thang-tuoi-nhu-the-nao\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(38, 147, 0);\">trái cây</a>&nbsp;nhiệt đới được trồng phổ biến tại nhiều nơi trên thế giới như New Zealand, Pháp, Mỹ, Úc, Nhật...</p><p class=\"ql-align-justify\">Nhiều nghiên cứu chỉ ra, trong cả&nbsp;<a href=\"https://hoaquafuji.com/product/kiwi-xanh-new-zealand\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(38, 147, 0);\">kiwi xanh</a>&nbsp;lẫn kiwi vàng đều chứa một hàm lượng lớn polyphenol (các dưỡng chất cần thiết cho con người), axit folic, vitamin C, K và E, folate, kali, chất xơ, choline, đồng, magiê và phốt pho. Ngoài ra, loại quả này không có cholesterol,&nbsp;ít đường và chất béo.</p><p class=\"ql-align-justify\">Các khoáng chất như Mg, Cu, K, Zn trong quả kiwi có vai trò rất lớn giữ trái tim luôn khỏe mạnh, và Ca, Cr, Cu giúp hệ xương cứng chắc, các khớp nối hoạt động trơn chu. Chất xơ phong phú trong kiwi hỗ trợ tiêu hóa rất tốt, ngăn ngừa táo bón, trĩ, ung thư ruột, đại tràng, đồng thời hỗ trợ giảm cân.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/6a41469b-284d-4a46-bde5-3b0c4432a6f0.jpg\",\"https://images.f99.com.vn/images/b5b735d7-6f23-453a-b552-c9901c4245a8.jpg\",\"https://images.f99.com.vn/images/519758a7-6059-42c6-8451-9420f1448cf8.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Kiwi vàng Đài Loan  - VIHAFOOD",
+    "description": "<p Class=\"ql-align-justify\">Kiwi là loại&nbsp;<a href=\"https://hoaquafuji.com/post/lua-chon-trai-cay-cho-be-7-thang-tuoi-nhu-the-nao\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(38, 147, 0);\">trái cây</a>&nbsp;nhiệt đới được trồng phổ biến tại nhiều nơi trên thế giới như New Zealand, Pháp, Mỹ, Úc, Nhật...</p><p class=\"ql-align-justify\">Nhiều nghiên cứu chỉ ra, trong cả&nbsp;<a href=\"https://hoaquafuji.com/product/kiwi-xanh-new-zealand\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(38, 147, 0);\">kiwi xanh</a>&nbsp;lẫn kiwi vàng đều chứa một hàm lượng lớn polyphenol (các dưỡng chất cần thiết cho con người), axit folic, vitamin C, K và E, folate, kali, chất xơ, choline, đồng, magiê và phốt pho. Ngoài ra, loại quả này không có cholesterol,&nbsp;ít đường và chất béo.</p><p class=\"ql-align-justify\">Các khoáng chất như Mg, Cu, K, Zn trong quả kiwi có vai trò rất lớn giữ trái tim luôn khỏe mạnh, và Ca, Cr, Cu giúp hệ xương cứng chắc, các khớp nối hoạt động trơn chu. Chất xơ phong phú trong kiwi hỗ trợ tiêu hóa rất tốt, ngăn ngừa táo bón, trĩ, ung thư ruột, đại tràng, đồng thời hỗ trợ giảm cân.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/6a41469b-284d-4a46-bde5-3b0c4432a6f0.jpg",
+    "price": 120000,
+    "oldPrice": 170000,
+    "discountPercent": 29,
+    "stock": 0,
+    "totalSold": 10,
+    "maxQuantityPerUser": null,
+    "unit": "~1kg",
+    "sku": "Kw1",
+    "origin": "",
+    "sellerId": 244,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ở nhiệt độ 4 đến 8 độ C</p>",
+    "category": {
+      "id": 6,
+      "name": "Kiwi",
+      "imageUrl": "https://imgur.com/9d2vSbm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/6a41469b-284d-4a46-bde5-3b0c4432a6f0.jpg",
+      "https://images.f99.com.vn/images/b5b735d7-6f23-453a-b552-c9901c4245a8.jpg",
+      "https://images.f99.com.vn/images/519758a7-6059-42c6-8451-9420f1448cf8.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15430",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "~1kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 63375,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "~1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "~1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "~1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 120000,
+        "oldPrice": 170000,
+        "discountPercent": 29,
+        "stock": 0,
+        "totalSold": 10,
+        "unit": "~1kg",
+        "sku": "Kw1",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ở nhiệt độ 4 đến 8 độ C</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "~1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 244,
+      "sellerRate": 4.7,
+      "sellerName": "VIHAFOOD - Đặc sản vùng miền",
+      "warehouseId": "cf85b1b1-6f2a-49b3-b125-e261f6bfc30a",
+      "warehouseAddress": "111 Phố Đội Cấn, Ba Đình, Hà Nội",
+      "distance": 1098,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 80.86123101095345,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 17072,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Kiwi Vàng ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgb(128, 0, 128);\" _msthash=\"18284500\" _msttexthash=\"5646199\">1.&nbsp;&nbsp;&nbsp;Giống và chủng loại</strong></p><p><span style=\"color: rgb(51, 51, 51);\" _msthash=\"20559123\" _msttexthash=\"82630535\">Quảng Kiwi - vua của các loại cây - trồng thương mại ở New Zealand, Ý, Nhật Bản, Pháp, Úc, Hy Lạp và Hoa Kỳ. Tại New Zealand, Kiwi và Nelson trên đảo Nam.</span></p><p class=\"ql-align-justify\" _msthash=\"21415069\" _msttexthash=\"67147769\">Có 2 loại kiwi chính: Kiwi xanh và kiwi vàng. Kiwi xanh là kiwi thuần chủng. Kiwi Vàng là kiwi lai tạo. Chúng ta có thể là một người đàn ông. 200m2 (dài 8cm).</p><p class=\"ql-align-justify\" _msthash=\"22286615\" _msttexthash=\"461953505\">Kiwi vàng New Zealand có đài quảng cáo và quảng thuôn dài xanh kiwi. Có vỏ nâu vàng, trơn nhẵn, có lông xù xù như kiwi xanh. Kiwi vàng có vàng vàng trong nước, thành phố 1 xung xung xung trục quảng cáo. Kiwi vàng có ngọt mát đặc trưng. Trọng có 1 thế giới giới giới, trọng là quy trình từ trồng trồng, chăm bón thu, hái, vận chuyển chính phủ New Zealand.</p><p class=\"ql-align-justify\" _msthash=\"23173761\" _msttexthash=\"7975279\">Có Kiwi Đỏ, tuy nhiên, sản phẩm kiwi.</p><p><strong style=\"color: rgb(128, 0, 128);\" _msthash=\"24076507\" _msttexthash=\"3346109\">2. Thông báo tin đinh dưỡng </strong></p><p><span style=\"color: rgb(51, 51, 51);\" _msthash=\"26654576\" _msttexthash=\"170707017\">Kiwi Vàng: 4% và 15% vitamin E, 13% axit folate. Kiwi vàng kali, axit folic và chất xơ, và phụ nữ sau khi sinh. Đặc biệt, vitamin C của kiwi vàng đạt 270% nên 270% là vi khuẩn và vi khuẩn vi khuẩn, tăng cao chất độc.</span></p><p class=\"ql-align-justify\" _msthash=\"27620866\" _msttexthash=\"238052048\">Ăn Kiwi vàng ngăn chặn tạo ra thành chất gelatin (chất keo) hoặc đông cục khi tiêu thụ bài hát thực hiện các tác phẩm từ sữa và thành phần actindin. Kiwi và tim mạch, có lợi cho tiêu hóa, các bệnh hô hấp (nhất là cô em), kiểm soát huyết áp...</p><p class=\"ql-align-justify\" _msthash=\"28602756\" _msttexthash=\"429505648\">Kiwi vàng và vitamin E. Làm như vậy, cần hải quảng kiwi có thể cung cấp cung cấp cung cấp 1/3 thời gian khổng lồ cần cho một ngày. Trọng kiwi có chất lượng tốt nhất là tẩy trắng răng, trị tàn nhang và ức ức oxy hóa da, đào thải của cô gái da sáng trắng, hồng hào và mịn màng. Các cô gái bầu kiwi khi mang thai và làn da đẹp.</p><p class=\"ql-align-justify\" _msthash=\"29600246\" _msttexthash=\"50081980\">Đặc biệt, Kiwi vàng có tác dụng hỗ trợ cho người dân, bảo vệ ADN, cung cấp sự cố.</p><p class=\"ql-align-justify\">&nbsp;<strong style=\"color: rgb(128, 0, 128);\" _msthash=\"30613336\" _msttexthash=\"8674965\">3.&nbsp;&nbsp;&nbsp;Lưu ý bảo quản và sử dụng</strong></p><p class=\"ql-align-justify\" _msthash=\"33494851\" _msttexthash=\"37434423\">- Quảng cáo Kiwi vàng da căng, quảng cáo lớn và sáng màu, chắc tây. Kiwi vàng ăn ngon và ngọt khi chín mềm tay.</p><p class=\"ql-align-justify\" _msthash=\"34571485\" _msttexthash=\"7769502\">- Kiwi vàng bảo quản và có nhiệt cao.</p><p class=\"ql-align-justify\" _msthash=\"35663719\" _msttexthash=\"39973557\">- Bảo vệ Kiwi vàng trong tủ lạnh từ 0 – 4 độ C và kiwi 2 tuần. Quảng cáo ăn ngon khi lạnh.</p><p class=\"ql-align-justify\" _msthash=\"36771553\" _msttexthash=\"82675164\">- Khi sử dụng, Kiwi vàng thường xuyên xuyên cắt đôi và xúc, g và cắt lát, salad trộn, thường xuyên xuyên sử dụng bữa ăn tráng hoặc ăn các món ăn.</p><p class=\"ql-align-justify\" _msthash=\"37894987\" _msttexthash=\"91167362\">- Quảng cáo kiwi vàng có thể sử dụng như: sinh tố, nước trái cây, đồ uống có sữa; hay còn gọi là sữa chua, kem, các món tráng miệng, kem trái cây đông lạnh.</p><p class=\"ql-align-justify\" _msthash=\"39034021\" _msttexthash=\"47208239\">- Ra, bánh mì có thể làm salad, chế biến nước sốt, các món xiên nướng, bánh bánh gatô, bánh mứt, kem, trộn...</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/82a21676-e1d7-4d64-8cd8-95ffaf2403c9.jpg\",\"https://images.f99.com.vn/images/ec62229f-5161-44a7-85ea-4db99d01b78e.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Kiwi Vàng ",
+    "description": "<p><strong style=\"color: rgb(128, 0, 128);\" _msthash=\"18284500\" _msttexthash=\"5646199\">1.&nbsp;&nbsp;&nbsp;Giống và chủng loại</strong></p><p><span style=\"color: rgb(51, 51, 51);\" _msthash=\"20559123\" _msttexthash=\"82630535\">Quảng Kiwi - vua của các loại cây - trồng thương mại ở New Zealand, Ý, Nhật Bản, Pháp, Úc, Hy Lạp và Hoa Kỳ. Tại New Zealand, Kiwi và Nelson trên đảo Nam.</span></p><p class=\"ql-align-justify\" _msthash=\"21415069\" _msttexthash=\"67147769\">Có 2 loại kiwi chính: Kiwi xanh và kiwi vàng. Kiwi xanh là kiwi thuần chủng. Kiwi Vàng là kiwi lai tạo. Chúng ta có thể là một người đàn ông. 200m2 (dài 8cm).</p><p class=\"ql-align-justify\" _msthash=\"22286615\" _msttexthash=\"461953505\">Kiwi vàng New Zealand có đài quảng cáo và quảng thuôn dài xanh kiwi. Có vỏ nâu vàng, trơn nhẵn, có lông xù xù như kiwi xanh. Kiwi vàng có vàng vàng trong nước, thành phố 1 xung xung xung trục quảng cáo. Kiwi vàng có ngọt mát đặc trưng. Trọng có 1 thế giới giới giới, trọng là quy trình từ trồng trồng, chăm bón thu, hái, vận chuyển chính phủ New Zealand.</p><p class=\"ql-align-justify\" _msthash=\"23173761\" _msttexthash=\"7975279\">Có Kiwi Đỏ, tuy nhiên, sản phẩm kiwi.</p><p><strong style=\"color: rgb(128, 0, 128);\" _msthash=\"24076507\" _msttexthash=\"3346109\">2. Thông báo tin đinh dưỡng </strong></p><p><span style=\"color: rgb(51, 51, 51);\" _msthash=\"26654576\" _msttexthash=\"170707017\">Kiwi Vàng: 4% và 15% vitamin E, 13% axit folate. Kiwi vàng kali, axit folic và chất xơ, và phụ nữ sau khi sinh. Đặc biệt, vitamin C của kiwi vàng đạt 270% nên 270% là vi khuẩn và vi khuẩn vi khuẩn, tăng cao chất độc.</span></p><p class=\"ql-align-justify\" _msthash=\"27620866\" _msttexthash=\"238052048\">Ăn Kiwi vàng ngăn chặn tạo ra thành chất gelatin (chất keo) hoặc đông cục khi tiêu thụ bài hát thực hiện các tác phẩm từ sữa và thành phần actindin. Kiwi và tim mạch, có lợi cho tiêu hóa, các bệnh hô hấp (nhất là cô em), kiểm soát huyết áp...</p><p class=\"ql-align-justify\" _msthash=\"28602756\" _msttexthash=\"429505648\">Kiwi vàng và vitamin E. Làm như vậy, cần hải quảng kiwi có thể cung cấp cung cấp cung cấp 1/3 thời gian khổng lồ cần cho một ngày. Trọng kiwi có chất lượng tốt nhất là tẩy trắng răng, trị tàn nhang và ức ức oxy hóa da, đào thải của cô gái da sáng trắng, hồng hào và mịn màng. Các cô gái bầu kiwi khi mang thai và làn da đẹp.</p><p class=\"ql-align-justify\" _msthash=\"29600246\" _msttexthash=\"50081980\">Đặc biệt, Kiwi vàng có tác dụng hỗ trợ cho người dân, bảo vệ ADN, cung cấp sự cố.</p><p class=\"ql-align-justify\">&nbsp;<strong style=\"color: rgb(128, 0, 128);\" _msthash=\"30613336\" _msttexthash=\"8674965\">3.&nbsp;&nbsp;&nbsp;Lưu ý bảo quản và sử dụng</strong></p><p class=\"ql-align-justify\" _msthash=\"33494851\" _msttexthash=\"37434423\">- Quảng cáo Kiwi vàng da căng, quảng cáo lớn và sáng màu, chắc tây. Kiwi vàng ăn ngon và ngọt khi chín mềm tay.</p><p class=\"ql-align-justify\" _msthash=\"34571485\" _msttexthash=\"7769502\">- Kiwi vàng bảo quản và có nhiệt cao.</p><p class=\"ql-align-justify\" _msthash=\"35663719\" _msttexthash=\"39973557\">- Bảo vệ Kiwi vàng trong tủ lạnh từ 0 – 4 độ C và kiwi 2 tuần. Quảng cáo ăn ngon khi lạnh.</p><p class=\"ql-align-justify\" _msthash=\"36771553\" _msttexthash=\"82675164\">- Khi sử dụng, Kiwi vàng thường xuyên xuyên cắt đôi và xúc, g và cắt lát, salad trộn, thường xuyên xuyên sử dụng bữa ăn tráng hoặc ăn các món ăn.</p><p class=\"ql-align-justify\" _msthash=\"37894987\" _msttexthash=\"91167362\">- Quảng cáo kiwi vàng có thể sử dụng như: sinh tố, nước trái cây, đồ uống có sữa; hay còn gọi là sữa chua, kem, các món tráng miệng, kem trái cây đông lạnh.</p><p class=\"ql-align-justify\" _msthash=\"39034021\" _msttexthash=\"47208239\">- Ra, bánh mì có thể làm salad, chế biến nước sốt, các món xiên nướng, bánh bánh gatô, bánh mứt, kem, trộn...</p>",
+    "imageUrl": "https://images.f99.com.vn/images/82a21676-e1d7-4d64-8cd8-95ffaf2403c9.jpg",
+    "price": 219000,
+    "oldPrice": 229000,
+    "discountPercent": 4,
+    "stock": 1350,
+    "totalSold": 7,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 286,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 6,
+      "name": "Kiwi",
+      "imageUrl": "https://imgur.com/9d2vSbm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/82a21676-e1d7-4d64-8cd8-95ffaf2403c9.jpg",
+      "https://images.f99.com.vn/images/ec62229f-5161-44a7-85ea-4db99d01b78e.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/17072",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg",
+          "2kg",
+          "3kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 19508,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 219000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 450,
+        "totalSold": 2,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 19509,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 438000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 450,
+        "totalSold": 3,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "2kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 19510,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "3kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 657000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 450,
+        "totalSold": 2,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 286,
+      "sellerRate": 4.8,
+      "sellerName": "Anh Châu Fruits ",
+      "warehouseId": "90d03d1d-fd20-41cb-a98e-29d57c1ae2cb",
+      "warehouseAddress": "110D11 Thái Thịnh, Thịnh Quang, Đống Đa, Hà Nội",
+      "distance": 2524,
+      "warehouseDistrict": "dong da",
+      "reputation": 78.82694902298906,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 17076,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Kiwi Xanh ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(128, 0, 128);\" _msthash=\"14605760\" _msttexthash=\"5646199\">1.&nbsp;&nbsp;&nbsp;Giống và chủng loại</strong></p><p _msthash=\"16654443\" _msttexthash=\"169377026\"><strong>Quảng Kiwi xanh</strong> có hình bầu dục, kích thước tương đương 1 quảng trứng gà lớn , từ 5 – 8 cm chiều dài và 4,5 – 5,5 cm đường kính. Trọng trung bình của một quả Kiwi xanh New Zealand là từ 100g đến 150g.</p><p _msthash=\"17428229\" _msttexthash=\"47955141\">Kiwi Green có thể là màu xanh lá cây khi là kiwi vàng, có màu xanh lam ngọc đẹp mắt, hạt nhỏ màu đen và có lông và có lông và kiwi sungold.</p><p _msthash=\"18217615\" _msttexthash=\"147375423\"><strong _istranslated=\"1\">Kiwi Green Zespri</strong> khi chín có vị ngọt và có là chua khi xanh, hương vị tuyệt vời giá trị dinh dưỡng, Chúng tôi đứng đầu top 10 thực hiện một toàn bộ thế giới.</p><p><strong style=\"color: rgb(128, 0, 128);\" _msthash=\"22460789\" _msttexthash=\"3346109\">2. Thông báo tin đinh dưỡng </strong></p><p _msthash=\"28924324\" _msttexthash=\"54899182\">- Vitamin C: 1 quả kiwi có 02 quả cam, không cần ăn kiwi xanh có chứa vitamin C cần thiết cho cơ thể, hàm lượng 92,7mg/100g</p><p _msthash=\"29946670\" _msttexthash=\"12573041\">- Vitamin K: Theo Zespri, 1 <strong>quả kiwi xanh</strong> có kali nên có 1 quảng cáo, 100g calo, 40,3 mg/100g.</p><p _msthash=\"30984616\" _msttexthash=\"870090\">- Kiwi xanh và Vitamin E là 1,46 mg/100g.</p><p _msthash=\"32038162\" _msttexthash=\"61920443\">- Ăn 2 – 3 <strong>quả kiwi xanh</strong> trong vòng 28 ngày, có khả năng làm việc với nguy cơ bị ảnh hưởng bởi tình trạng này.</p><p class=\"ql-align-justify\"><strong style=\"color: rgb(128, 0, 128);\" _msthash=\"37602136\" _msttexthash=\"8674965\">3.&nbsp;&nbsp;&nbsp;Lưu ý bảo quản và sử dụng</strong></p><p _msthash=\"45848751\" _msttexthash=\"12024103\">- Bảo vệ kiwi trong thời gian từ 0 – 4oC.</p><p _msthash=\"47135257\" _msttexthash=\"9328306\">- Kiwi lúc 2 tuần và hương vị ngon nhất.</p><p _msthash=\"48437363\" _msttexthash=\"38651769\">- Khi ăn kiwi, người ta thường xuyên cắt ngang quảng cáo không phải là những người thích cây.</p><p class=\"ql-align-justify\" _msthash=\"49755069\" _msttexthash=\"6202027\">- Quảng cáo kiwi xanh da căng, quảng cáo và sáng màu.</p><p class=\"ql-align-justify\" _msthash=\"51088375\" _msttexthash=\"30239859\">- Kiwi xanh ăn ngon và ngọt khi quảng cáo chín. Khi nắn quảng kiwi, tay là lúc kiwi chín, có thể ăn ngay.</p><p class=\"ql-align-justify\" _msthash=\"52437281\" _msttexthash=\"209343784\">- Quảng cáo Kiwi xanh, từ 3 - 5 giờ. Hay còn có bao bọc quảng cáo trong túi giấy, túi nilong chung với táo (hay) quảng cáo nhanh chóng. Kiwi xanh bảo vệ thường xuyên cần ánh nắng mặt trời hoặc có nhiệt độ cao.</p><p class=\"ql-align-justify\" _msthash=\"53801787\" _msttexthash=\"51926979\">- Khi chín, bảo vệ Kiwi xanh trong tủ lạnh từ 0 – 4oC và kiwi khoảng 2 tuần. Quảng cáo ăn ngon khi lạnh.</p><p class=\"ql-align-justify\" _msthash=\"55181893\" _msttexthash=\"64246182\">- Quảng kiwi xanh càng xanh càng ngọt. Đó là quá lâu, chúng tôi có thể là những người đàn ông. Làm như vậy, tốt nhất là khi quá trình chín.</p><p class=\"ql-align-justify\" _msthash=\"56577599\" _msttexthash=\"87728771\">- Khi sử dụng kiwi xanh thường xuyên cắt đôi và xúc xúc, g và cắt lát, trộn salad, thường xuyên sử dụng bữa ăn tráng hoặc ăn các món nướng.</p><p class=\"ql-align-justify\" _msthash=\"57988905\" _msttexthash=\"99742240\">- Quảng cáo kiwi xanh có thể được sử dụng như: sinh tố, nước trái cây, đồ uống có sữa; hay còn gọi là sữa chua, kem, các món tráng miệng, kem trái cây đông lạnh.</p><p class=\"ql-align-justify\" _msthash=\"59415811\" _msttexthash=\"47208239\">- Ra, bánh mì có thể làm salad, chế biến nước sốt, các món xiên nướng, bánh bánh gatô, bánh mứt, kem, trộn...</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/62abb31b-37c4-4fe3-b5ba-5c5a574c17fa.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Kiwi Xanh ",
+    "description": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(128, 0, 128);\" _msthash=\"14605760\" _msttexthash=\"5646199\">1.&nbsp;&nbsp;&nbsp;Giống và chủng loại</strong></p><p _msthash=\"16654443\" _msttexthash=\"169377026\"><strong>Quảng Kiwi xanh</strong> có hình bầu dục, kích thước tương đương 1 quảng trứng gà lớn , từ 5 – 8 cm chiều dài và 4,5 – 5,5 cm đường kính. Trọng trung bình của một quả Kiwi xanh New Zealand là từ 100g đến 150g.</p><p _msthash=\"17428229\" _msttexthash=\"47955141\">Kiwi Green có thể là màu xanh lá cây khi là kiwi vàng, có màu xanh lam ngọc đẹp mắt, hạt nhỏ màu đen và có lông và có lông và kiwi sungold.</p><p _msthash=\"18217615\" _msttexthash=\"147375423\"><strong _istranslated=\"1\">Kiwi Green Zespri</strong> khi chín có vị ngọt và có là chua khi xanh, hương vị tuyệt vời giá trị dinh dưỡng, Chúng tôi đứng đầu top 10 thực hiện một toàn bộ thế giới.</p><p><strong style=\"color: rgb(128, 0, 128);\" _msthash=\"22460789\" _msttexthash=\"3346109\">2. Thông báo tin đinh dưỡng </strong></p><p _msthash=\"28924324\" _msttexthash=\"54899182\">- Vitamin C: 1 quả kiwi có 02 quả cam, không cần ăn kiwi xanh có chứa vitamin C cần thiết cho cơ thể, hàm lượng 92,7mg/100g</p><p _msthash=\"29946670\" _msttexthash=\"12573041\">- Vitamin K: Theo Zespri, 1 <strong>quả kiwi xanh</strong> có kali nên có 1 quảng cáo, 100g calo, 40,3 mg/100g.</p><p _msthash=\"30984616\" _msttexthash=\"870090\">- Kiwi xanh và Vitamin E là 1,46 mg/100g.</p><p _msthash=\"32038162\" _msttexthash=\"61920443\">- Ăn 2 – 3 <strong>quả kiwi xanh</strong> trong vòng 28 ngày, có khả năng làm việc với nguy cơ bị ảnh hưởng bởi tình trạng này.</p><p class=\"ql-align-justify\"><strong style=\"color: rgb(128, 0, 128);\" _msthash=\"37602136\" _msttexthash=\"8674965\">3.&nbsp;&nbsp;&nbsp;Lưu ý bảo quản và sử dụng</strong></p><p _msthash=\"45848751\" _msttexthash=\"12024103\">- Bảo vệ kiwi trong thời gian từ 0 – 4oC.</p><p _msthash=\"47135257\" _msttexthash=\"9328306\">- Kiwi lúc 2 tuần và hương vị ngon nhất.</p><p _msthash=\"48437363\" _msttexthash=\"38651769\">- Khi ăn kiwi, người ta thường xuyên cắt ngang quảng cáo không phải là những người thích cây.</p><p class=\"ql-align-justify\" _msthash=\"49755069\" _msttexthash=\"6202027\">- Quảng cáo kiwi xanh da căng, quảng cáo và sáng màu.</p><p class=\"ql-align-justify\" _msthash=\"51088375\" _msttexthash=\"30239859\">- Kiwi xanh ăn ngon và ngọt khi quảng cáo chín. Khi nắn quảng kiwi, tay là lúc kiwi chín, có thể ăn ngay.</p><p class=\"ql-align-justify\" _msthash=\"52437281\" _msttexthash=\"209343784\">- Quảng cáo Kiwi xanh, từ 3 - 5 giờ. Hay còn có bao bọc quảng cáo trong túi giấy, túi nilong chung với táo (hay) quảng cáo nhanh chóng. Kiwi xanh bảo vệ thường xuyên cần ánh nắng mặt trời hoặc có nhiệt độ cao.</p><p class=\"ql-align-justify\" _msthash=\"53801787\" _msttexthash=\"51926979\">- Khi chín, bảo vệ Kiwi xanh trong tủ lạnh từ 0 – 4oC và kiwi khoảng 2 tuần. Quảng cáo ăn ngon khi lạnh.</p><p class=\"ql-align-justify\" _msthash=\"55181893\" _msttexthash=\"64246182\">- Quảng kiwi xanh càng xanh càng ngọt. Đó là quá lâu, chúng tôi có thể là những người đàn ông. Làm như vậy, tốt nhất là khi quá trình chín.</p><p class=\"ql-align-justify\" _msthash=\"56577599\" _msttexthash=\"87728771\">- Khi sử dụng kiwi xanh thường xuyên cắt đôi và xúc xúc, g và cắt lát, trộn salad, thường xuyên sử dụng bữa ăn tráng hoặc ăn các món nướng.</p><p class=\"ql-align-justify\" _msthash=\"57988905\" _msttexthash=\"99742240\">- Quảng cáo kiwi xanh có thể được sử dụng như: sinh tố, nước trái cây, đồ uống có sữa; hay còn gọi là sữa chua, kem, các món tráng miệng, kem trái cây đông lạnh.</p><p class=\"ql-align-justify\" _msthash=\"59415811\" _msttexthash=\"47208239\">- Ra, bánh mì có thể làm salad, chế biến nước sốt, các món xiên nướng, bánh bánh gatô, bánh mứt, kem, trộn...</p>",
+    "imageUrl": "https://images.f99.com.vn/images/62abb31b-37c4-4fe3-b5ba-5c5a574c17fa.jpg",
+    "price": 149000,
+    "oldPrice": 159000,
+    "discountPercent": 6,
+    "stock": 450,
+    "totalSold": 6,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 286,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 6,
+      "name": "Kiwi",
+      "imageUrl": "https://imgur.com/9d2vSbm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/62abb31b-37c4-4fe3-b5ba-5c5a574c17fa.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/17076",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1KG",
+          "2KG",
+          "3KG"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 19312,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1KG",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1KG",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1KG",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 149000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 150,
+        "totalSold": 1,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1KG"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 19313,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2KG",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "139k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "2KG",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2KG",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 278000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 150,
+        "totalSold": 3,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "139k/kg",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "2KG"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 19314,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "3KG",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "129k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "3KG",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "3KG",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 387000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 150,
+        "totalSold": 2,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "129k/kg",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "3KG"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 286,
+      "sellerRate": 4.8,
+      "sellerName": "Anh Châu Fruits ",
+      "warehouseId": "90d03d1d-fd20-41cb-a98e-29d57c1ae2cb",
+      "warehouseAddress": "110D11 Thái Thịnh, Thịnh Quang, Đống Đa, Hà Nội",
+      "distance": 2524,
+      "warehouseDistrict": "dong da",
+      "reputation": 78.82694902298906,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 21514,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Kiwi Vàng Khay 4 quả",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Nhập khẩu Newzeland</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/d34c081e-7c84-4986-9f5f-a356c679fde6.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Kiwi Vàng Khay 4 quả",
+    "description": "<p>Nhập khẩu Newzeland</p>",
+    "imageUrl": "https://images.f99.com.vn/images/d34c081e-7c84-4986-9f5f-a356c679fde6.jpg",
+    "price": 99000,
+    "oldPrice": 150000,
+    "discountPercent": 34,
+    "stock": 50,
+    "totalSold": 10,
+    "maxQuantityPerUser": null,
+    "unit": "khay",
+    "sku": "",
+    "origin": "",
+    "sellerId": 260,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản Lạnh</p>",
+    "category": {
+      "id": 6,
+      "name": "Kiwi",
+      "imageUrl": "https://imgur.com/9d2vSbm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/d34c081e-7c84-4986-9f5f-a356c679fde6.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/21514",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 260,
+      "sellerRate": 4.4,
+      "sellerName": "Hoa quả 24 Fruit",
+      "warehouseId": "108f4ee0-3cbf-4604-95f9-63370d77dd1e",
+      "warehouseAddress": "24 Quán Thánh, Ba Đình, Hà Nội",
+      "distance": 1901,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 61.327787439614994,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 37610,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "kiwi vàng khay 8 quả (1.2-1.3 kg)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>kiwi vàng newzeland</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/40007860-30fe-4e7d-bd78-1caf8eb67f65.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "kiwi vàng khay 8 quả (1.2-1.3 kg)",
+    "description": "<p>kiwi vàng newzeland</p>",
+    "imageUrl": "https://images.f99.com.vn/images/40007860-30fe-4e7d-bd78-1caf8eb67f65.jpg",
+    "price": 199000,
+    "oldPrice": 260000,
+    "discountPercent": 23,
+    "stock": 50,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "khay",
+    "sku": "",
+    "origin": "",
+    "sellerId": 260,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản tủ mát</p>",
+    "category": {
+      "id": 6,
+      "name": "Kiwi",
+      "imageUrl": "https://imgur.com/9d2vSbm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/40007860-30fe-4e7d-bd78-1caf8eb67f65.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/37610",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 260,
+      "sellerRate": 4.4,
+      "sellerName": "Hoa quả 24 Fruit",
+      "warehouseId": "108f4ee0-3cbf-4604-95f9-63370d77dd1e",
+      "warehouseAddress": "24 Quán Thánh, Ba Đình, Hà Nội",
+      "distance": 1901,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 61.327787439614994,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 52027,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Kiwi đỏ xuất xứ chile",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Mô tả sản phẩm: Là giống kiwi mới dc lai tạo thương phẩm vài năm trở lại đây vs màu đỏ rực rỡ khác biệt. Ko chỉ ngon mà còn là nguồn bổ sung vitaminC dồi dào cho cơ thể</p><p>09:49</p><p><span style=\"color: transparent; background-color: initial;\">/-strong</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/7c2a1648-2f18-4394-ad3f-d0df568f1a11.jpg\",\"https://images.f99.com.vn/images/5062fea4-728a-4140-a479-1b203bacca92.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Kiwi đỏ xuất xứ chile",
+    "description": "<p>Mô tả sản phẩm: Là giống kiwi mới dc lai tạo thương phẩm vài năm trở lại đây vs màu đỏ rực rỡ khác biệt. Ko chỉ ngon mà còn là nguồn bổ sung vitaminC dồi dào cho cơ thể</p><p>09:49</p><p><span style=\"color: transparent; background-color: initial;\">/-strong</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/7c2a1648-2f18-4394-ad3f-d0df568f1a11.jpg",
+    "price": 165000,
+    "oldPrice": 185000,
+    "discountPercent": 11,
+    "stock": 100,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 817,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 6,
+      "name": "Kiwi",
+      "imageUrl": "https://imgur.com/9d2vSbm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/7c2a1648-2f18-4394-ad3f-d0df568f1a11.jpg",
+      "https://images.f99.com.vn/images/5062fea4-728a-4140-a479-1b203bacca92.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/52027",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 817,
+      "sellerRate": 4.2,
+      "sellerName": "Airline Fruits",
+      "warehouseId": "cb6a3b73-8a7d-4396-98da-f11a88cbfb53",
+      "warehouseAddress": "124 Tổ 16 ngõ 169 Doãn Kế Thiện, Mai Dịch, Cầu giấy, Hà Nội",
+      "distance": 6387,
+      "warehouseDistrict": "cau giay",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 58877,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Kiwi Xanh NewZealand ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Kiwi xanh nhập khẩu NewZealand</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/4ac01b88-d266-4d16-a63d-129d06dd4fa6.jpeg\",\"https://images.f99.com.vn/images/b2952cf2-a151-44d9-8c8b-2fec95fe5b95.jpeg\",\"https://images.f99.com.vn/images/5a6e8acb-c0de-41e2-a9c3-cc8a643713d5.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Kiwi Xanh NewZealand ",
+    "description": "<p>Kiwi xanh nhập khẩu NewZealand</p>",
+    "imageUrl": "https://images.f99.com.vn/images/4ac01b88-d266-4d16-a63d-129d06dd4fa6.jpeg",
+    "price": 179000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 100,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "20000997",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản trong ngăn mát tủ lạnh</p>",
+    "category": {
+      "id": 6,
+      "name": "Kiwi",
+      "imageUrl": "https://imgur.com/9d2vSbm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/4ac01b88-d266-4d16-a63d-129d06dd4fa6.jpeg",
+      "https://images.f99.com.vn/images/b2952cf2-a151-44d9-8c8b-2fec95fe5b95.jpeg",
+      "https://images.f99.com.vn/images/5a6e8acb-c0de-41e2-a9c3-cc8a643713d5.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/58877",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 58878,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 179000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "Kg",
+        "sku": "20000997",
+        "rating": 0,
+        "instructions": "<p>Bảo quản trong ngăn mát tủ lạnh</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 70421,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Kiwi vàng 1 quả",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>kiwi </p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/491a1d3f-1d19-4d25-94f5-ffeea90ca9f0.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Kiwi vàng 1 quả",
+    "description": "<p>kiwi </p>",
+    "imageUrl": "https://images.f99.com.vn/images/491a1d3f-1d19-4d25-94f5-ffeea90ca9f0.jpg",
+    "price": 25000,
+    "oldPrice": 30000,
+    "discountPercent": 17,
+    "stock": 1,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 260,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>kiwi</p>",
+    "category": {
+      "id": 6,
+      "name": "Kiwi",
+      "imageUrl": "https://imgur.com/9d2vSbm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/491a1d3f-1d19-4d25-94f5-ffeea90ca9f0.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/70421",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 70422,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 25000,
+        "oldPrice": 30000,
+        "discountPercent": 17,
+        "stock": 1,
+        "totalSold": 0,
+        "unit": "quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>kiwi</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 260,
+      "sellerRate": 4.4,
+      "sellerName": "Hoa quả 24 Fruit",
+      "warehouseId": "108f4ee0-3cbf-4604-95f9-63370d77dd1e",
+      "warehouseAddress": "24 Quán Thánh, Ba Đình, Hà Nội",
+      "distance": 1901,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 61.327787439614994,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 83366,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "KIWI VÀNG NEWZEALAND",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>🥝🥝🥝&nbsp;KIWI VÀNG Newzealand - cuối vụ rồi các bác tranh thủ ăn kẻo hết ạ 😍 😍&nbsp;</p><p><br></p><p>&nbsp;🎋🎋🎋Kiwi có rất nhiều tác dụng:&nbsp;</p><p><br></p><p>👉👉 Nhà VÔ ĐỊCH VITAMIN C ( gấp 3 lần CAM, QUÝT)</p><p>👉👉 GIẢM NGUY CƠ TIM MẠCH&nbsp;</p><p>👉👉 TĂNG SỨC ĐỀ KHÁNG cho MẸ BẦU_THAI NHI</p><p>👉👉 LÀM ĐẸP DA_NGĂN NGỪA LÃO HÓA&nbsp;</p><p>👉👉 PHÒNG NGỪA CHỨNG VIÊM GAN</p><p>..........</p><p><br></p><p>❌❌HÀNG&nbsp;CỨNG RẮN VẪN ĐỂ TỦ ĂN DẦN THOẢI MÁI CÁC BÁC NHÉ GIÁ QUÁ ƯU ĐÃI 🥰🥰🥰🥰</p><p><br></p><p>🏠🏠🏠JULY FRUITS _TRAO CHẤT LƯỢNG - NHẬN NIỀM TIN</p><p><br></p><p>👉👉👉 Chuyên SỈ &amp; LẺ trái cây nhập khẩu tươi _ cao cấp&nbsp;</p><p>👉👉👉Cam kết luôn có chứng từ, giấy tờ nhập khẩu rõ ràng</p><p><br></p><p>👉👉👉Trái cây luôn đảm bảo TƯƠI - NGON - SẠCH, Không chất lượng hoàn trả</p><p><br></p><p>☎️ Hotline: 0962.29.28.19</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/0a18f50b-8a73-43de-8d77-aaa8140d6360.jpg\",\"https://images.f99.com.vn/images/1949b762-0e09-4e16-957b-cadeb3b5a11c.jpg\",\"https://images.f99.com.vn/images/49346397-146e-40a2-9f9b-17b5d4e615b3.jpg\",\"https://images.f99.com.vn/images/4555fc51-947f-42fc-8311-e9f3dec8970c.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "KIWI VÀNG NEWZEALAND",
+    "description": "<p>🥝🥝🥝&nbsp;KIWI VÀNG Newzealand - cuối vụ rồi các bác tranh thủ ăn kẻo hết ạ 😍 😍&nbsp;</p><p><br></p><p>&nbsp;🎋🎋🎋Kiwi có rất nhiều tác dụng:&nbsp;</p><p><br></p><p>👉👉 Nhà VÔ ĐỊCH VITAMIN C ( gấp 3 lần CAM, QUÝT)</p><p>👉👉 GIẢM NGUY CƠ TIM MẠCH&nbsp;</p><p>👉👉 TĂNG SỨC ĐỀ KHÁNG cho MẸ BẦU_THAI NHI</p><p>👉👉 LÀM ĐẸP DA_NGĂN NGỪA LÃO HÓA&nbsp;</p><p>👉👉 PHÒNG NGỪA CHỨNG VIÊM GAN</p><p>..........</p><p><br></p><p>❌❌HÀNG&nbsp;CỨNG RẮN VẪN ĐỂ TỦ ĂN DẦN THOẢI MÁI CÁC BÁC NHÉ GIÁ QUÁ ƯU ĐÃI 🥰🥰🥰🥰</p><p><br></p><p>🏠🏠🏠JULY FRUITS _TRAO CHẤT LƯỢNG - NHẬN NIỀM TIN</p><p><br></p><p>👉👉👉 Chuyên SỈ &amp; LẺ trái cây nhập khẩu tươi _ cao cấp&nbsp;</p><p>👉👉👉Cam kết luôn có chứng từ, giấy tờ nhập khẩu rõ ràng</p><p><br></p><p>👉👉👉Trái cây luôn đảm bảo TƯƠI - NGON - SẠCH, Không chất lượng hoàn trả</p><p><br></p><p>☎️ Hotline: 0962.29.28.19</p>",
+    "imageUrl": "https://images.f99.com.vn/images/0a18f50b-8a73-43de-8d77-aaa8140d6360.jpg",
+    "price": 189000,
+    "oldPrice": 249000,
+    "discountPercent": 24,
+    "stock": 0,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 1016,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 6,
+      "name": "Kiwi",
+      "imageUrl": "https://imgur.com/9d2vSbm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/0a18f50b-8a73-43de-8d77-aaa8140d6360.jpg",
+      "https://images.f99.com.vn/images/1949b762-0e09-4e16-957b-cadeb3b5a11c.jpg",
+      "https://images.f99.com.vn/images/49346397-146e-40a2-9f9b-17b5d4e615b3.jpg",
+      "https://images.f99.com.vn/images/4555fc51-947f-42fc-8311-e9f3dec8970c.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/83366",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 83367,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 189000,
+        "oldPrice": 249000,
+        "discountPercent": 24,
+        "stock": 0,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1016,
+      "sellerRate": 3.7,
+      "sellerName": "JULY FRUITS ",
+      "warehouseId": "ed20bc51-5b98-4a51-9961-f6a70455be3a",
+      "warehouseAddress": "Số 56 đường 19/5 Văn Quán Hà Đông Hà Nội, Văn Quán, Hà Đông, Hà Nội",
+      "distance": 6777,
+      "warehouseDistrict": "ha dong",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

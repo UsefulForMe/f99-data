@@ -1,0 +1,35 @@
+{
+  "id": 248,
+  "name": "Nhà Đậu",
+  "logo": "https://cdn.f99.link/groupbuy-images/099c0df4-73a0-494f-a06a-538591e466f1.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Nhà Đậu Official Với mục tiêu đồng hành cũng mẹ trong thai kỳ, Nhà Đậu không ngừng sáng tạo để cho ra đời các sản phẩm với chất lượng dịch vụ tốt nhất. Các sản phẩm Nhà Đậu gồm có: - Hạt dinh dưỡng nhập khẩu cao cấp - Quả mọng sấy không tẩm ướp an toàn, bổ dưỡng - Bột ngũ cốc 14 loại hạt - Bộ sách Activity độc quyền Nhà Đậu - Ăn vặt dinh dưỡng...",
+  "headQuarter": "Khu 1, Giã Bàng, Tề Lỗ, Yên Lạc, Vĩnh Phúc",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 0,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 0
+}

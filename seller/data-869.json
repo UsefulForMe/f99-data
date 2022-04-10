@@ -1,0 +1,35 @@
+{
+  "id": 869,
+  "name": "Chợ Miền Tây",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/5e117f72-6918-44a1-9fdd-2ba7d9c4d244.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Rau củ quả, trái cây các loại",
+  "headQuarter": "Số 204 Cao Đạt, 1, Quận 5, Hồ Chí Minh",
+  "email": "Mymy140192@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "17:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

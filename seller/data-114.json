@@ -1,0 +1,35 @@
+{
+  "id": 114,
+  "name": "Hoa Quả Sơn",
+  "logo": "https://cdn.f99.link/groupbuy-images/983d3dfb-95f3-4f9d-87cf-c2c00280e69d.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Hoa Quả Sơn - Ngõ 34 Âu Cơ chuyên cung cấp các dòng trái cây theo yêu cầu có chất lượng cao, an toàn cho gia đình bạn, giá cả hợp lý.",
+  "headQuarter": "số 9 ngõ 34/4 Âu Cơ - Quảng An - Tây Hồ - Hà Nội, Quảng An, Tây Hồ, Hà Nội",
+  "email": "tranthanhtung2401@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.6,
+  "availableTime": {
+    "openTime": "08:30",
+    "closeTime": "19:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 70
+}

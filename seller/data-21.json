@@ -1,0 +1,35 @@
+{
+  "id": 21,
+  "name": "Home Farm ",
+  "logo": "https://cdn.f99.link/groupbuy-images/b88e1bcd-7bcc-4615-83cb-f0c4c7b7a358.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "HOMEFARM là hệ thống bán lẻ thực phẩm nhập khẩu với các sản phẩm như thịt bò Mỹ - Úc, cá hồi tươi nhập khẩu, thủy hải sản xuất nhập khẩu và luôn đặt chất lượng sản phẩm lên hàng đầu.",
+  "headQuarter": " Số 282 Phố Hoàng Văn Thái, Phường Khương Trung, Quận Thanh Xuân, Thành phố Hà Nội, Khương Trung, Thanh Xuân, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": false,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 39
+}

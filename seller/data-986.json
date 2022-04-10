@@ -1,0 +1,35 @@
+{
+  "id": 986,
+  "name": "Sài Gòn 360 Fruit – Chi Nhánh Hà Nội",
+  "logo": "https://images.f99.com.vn/groupbuy-images/5230c3cb-42e5-4342-8240-e3ea70488d8d.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên kinh doanh các mặt hàng trái cây nông sản sạch, và các đồ chế phẩm từ hoa quả , bánh kẹo, nước ép đóng chai, đồ nhập khẩu ....",
+  "headQuarter": "Số nhà 3, ngõ 603 đường Lạc Long Quân, tổ 28, cụm 4, Phường Xuân La, Quận Tây Hồ, Thành Phố Hà Nội, Việt Nam, Xuân La, Tây Hồ, Hà Nội",
+  "email": "saigon360hn@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 3.9,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 7
+}

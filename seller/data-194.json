@@ -1,0 +1,35 @@
+{
+  "id": 194,
+  "name": "EUS Fruit 482 Minh Khai",
+  "logo": "https://cdn.f99.link/groupbuy-images/39d302bf-48a5-455f-ad3a-ca89bd144edc.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "EUS fruit tươi sạch mỗi ngày",
+  "headQuarter": "482 Minh Khai, Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.4,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 11
+}

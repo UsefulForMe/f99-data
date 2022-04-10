@@ -1,0 +1,35 @@
+{
+  "id": 206,
+  "name": "SAFE FRUITS",
+  "logo": "https://cdn.f99.link/groupbuy-images/5b244e6a-caf5-4699-9683-73841dcfcb93.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Mang thương hiệu SafeFruits trở thành biểu tượng về chất lượng và uy tín của nông sản hàng đầu vì sự an toàn sức khỏe của người tiêu dùng.\nPhát triển vùng nguyên liệu đa dạng, góp phần thúc đẩy xuất khẩu nông sản Việt Nam sang các thị trường quốc tế.\nHotline: 0968611418/ 0901538899/ 02439929001",
+  "headQuarter": "9A2 Đền Lừ, Hoàng Văn Thụ, Hoàng Mai, Hà Nội",
+  "email": "Info.safefruits@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.6,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 40
+}

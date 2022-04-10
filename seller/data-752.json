@@ -1,0 +1,35 @@
+{
+  "id": 752,
+  "name": "T&V food",
+  "logo": "https://cdn.f99.link/groupbuy-images/5068a702-23e9-4668-9834-4622e1f8a4ed.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "T&V food\nMô hình Nông trại sạch và Cửa hàng online, nhằm đưa nhưng sản phẩm chất lượng nhất từ nơi Nông trại tới tay khách hàng không qua các bước trung gian.\n- 3 Mục tiêu cốt lõi\n+ Sản phẩm chất lượng là ưu tiên hàng đầu \n+ Sức khỏe của khách hàng là nguồn sống của chúng tôi\n+ 100% sản phẩm từ nông trại sạch \nTừ 3 mục tiêu trên chúng tôi muốn gửi tới Quý khách hàng nhưng sản phẩm chất lượng nhất.\nSản phẩm bao gồm:\n- Sầu Riêng R6\n- Sầu Riêng Dona\n- Bơ Boot\n- Mít Tố nữ\n- Hạt Mắc Ca sấy\n….",
+  "headQuarter": "96/108 Đặng Thùy Trâm, 13, Bình Thạnh, Hồ Chí Minh",
+  "email": "Thanvanduk1996@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

@@ -1,0 +1,35 @@
+{
+  "id": 646,
+  "name": "Thực Phẩm Sạch Kim Ngọc",
+  "logo": "https://cdn.f99.link/groupbuy-images/7f28092c-06f2-4dd6-8d02-9a56bb354471.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Thực phẩm sạch Kim Ngọc chuyên cung cấp hàng đông lạnh hoa quả tươi theo mùa",
+  "headQuarter": "Kiot Số 22, HH2A Khu đô thị Linh Đàm, Hoàng Liệt, Hoàng Mai, Hà Nội",
+  "email": "langochuong1983@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

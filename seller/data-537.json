@@ -1,0 +1,35 @@
+{
+  "id": 537,
+  "name": "Thuận Phát",
+  "logo": "https://cdn.f99.link/groupbuy-images/ce78b3cc-6c23-4925-ae91-9e147ab70498.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp gạp đặc sản Sóc Trăng ST",
+  "headQuarter": "383 Kinh Dương Vương, An Lạc, Bình Tân, Hồ Chí Minh",
+  "email": "tranmieudung0903354898@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "07:00",
+    "closeTime": "17:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

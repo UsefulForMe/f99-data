@@ -1,0 +1,35 @@
+{
+  "id": 531,
+  "name": "Tạp hoá Thuỷ Tiên – Thuy Tien Mart",
+  "logo": "https://cdn.f99.link/groupbuy-images/37de8545-7b90-4ce4-9608-fc516cac04cc.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Vui lòng khách đến, vừa lòng khách đi",
+  "headQuarter": "Kiot số 2, Tầng 1, Nhà B4, đường Hàm Nghi, KĐT Mĩ Đình 1, Mỹ Đình 1, Nam Từ Liêm, Hà Nội",
+  "email": "taphoathuytien.f99@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 5,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "22:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 148
+}

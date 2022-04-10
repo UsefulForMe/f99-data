@@ -1,0 +1,35 @@
+{
+  "id": 330,
+  "name": "Cyber Green",
+  "logo": "https://cdn.f99.link/groupbuy-images/5a72c9dd-c14b-4757-9682-6c449b2e99b2.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Tự hào là đối tác chiến lược với các vùng liên kết sản xuất được thiên nhiên ưu đãi như : Mộc Châu, Sơn La, Mù Cang Chải - Yên Bái và áp dụng các công nghệ đóng gói, sản xuất tiên tiến của các nước phát triển như Hàn Quốc, Nhật Bản, Mỹ.., Cyber Green VN luôn nỗ lực không ngừng để đưa nông sản Việt Nam đi xa hơn, nâng cao giá trị hơn với một quy mô và chất lượng sản phẩm ổn định, giá thành tốt nhất.",
+  "headQuarter": "Tầng 4 số 134 Nguyễn Khánh Toàn, Quan Hoa, Cầu Giấy, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.3,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 6
+}

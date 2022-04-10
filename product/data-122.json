@@ -1,0 +1,2992 @@
+[
+  {
+    "id": 10968,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Ba chỉ bò Mỹ cuộn",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>💢 Ba chỉ bò mỹ hay còn gọi ba rọi bò Mỹ (American Short Plate), đây là phần thịt của bò được lấy ra từ phần bụng của con bò gồm có 3 thớ thịt.</p><p><br></p><p>💯 Loại thịt ba chỉ bò Mỹ này thường là nguyên liệu lựa chọn số một để chế biến các món như: nấu lẩu, nướng BBQ, cuộn nấm, cuộn phomai, nhúng mẻ. Ba chỉ bò Mỹ có những phần mỡ và nạc xếp xen kẽ nhau nên không làm cho người ăn cảm thấy quá khô (khi ăn thịt toàn nạc) cũng không cảm thấy quá ngán (khi ăn chỉ toàn mỡ). Có thể nói đây là một trong những phần thịt được nhiều người ưa thích nhất bởi sự thơm ngon và béo ngậy.</p><p><br></p><p>📌 Cách chế biến: Thịt ba chỉ bò Mỹ thích hợp với các món như: Lẩu, nướng, cuộn nấm, cuộn phomai, nhúng giấm …vv hoặc theo sở thích của từng thực khách</p><p>---------------------</p><p>❣️ THỰC PHẨM SẠCH - FAMILY FOOD ❣️</p><p>👉 Địa chỉ:41bt1 khu đô thị Pháp Vân _Hoàng Liệt - Hoàng Mai -HN</p><p>☎ Hotline:&nbsp;</p><p>0343.98.1988&nbsp;</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/c418b643-74ec-47b0-98e1-66cef2f7a444.jpg\",\"https://images.f99.com.vn/images/bbb91078-c070-431d-a761-d1dff24caa2e.jpg\",\"https://images.f99.com.vn/images/e1c00759-6274-4c5b-923f-ce3dc20a8efb.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Ba chỉ bò Mỹ cuộn",
+    "description": "<p>💢 Ba chỉ bò mỹ hay còn gọi ba rọi bò Mỹ (American Short Plate), đây là phần thịt của bò được lấy ra từ phần bụng của con bò gồm có 3 thớ thịt.</p><p><br></p><p>💯 Loại thịt ba chỉ bò Mỹ này thường là nguyên liệu lựa chọn số một để chế biến các món như: nấu lẩu, nướng BBQ, cuộn nấm, cuộn phomai, nhúng mẻ. Ba chỉ bò Mỹ có những phần mỡ và nạc xếp xen kẽ nhau nên không làm cho người ăn cảm thấy quá khô (khi ăn thịt toàn nạc) cũng không cảm thấy quá ngán (khi ăn chỉ toàn mỡ). Có thể nói đây là một trong những phần thịt được nhiều người ưa thích nhất bởi sự thơm ngon và béo ngậy.</p><p><br></p><p>📌 Cách chế biến: Thịt ba chỉ bò Mỹ thích hợp với các món như: Lẩu, nướng, cuộn nấm, cuộn phomai, nhúng giấm …vv hoặc theo sở thích của từng thực khách</p><p>---------------------</p><p>❣️ THỰC PHẨM SẠCH - FAMILY FOOD ❣️</p><p>👉 Địa chỉ:41bt1 khu đô thị Pháp Vân _Hoàng Liệt - Hoàng Mai -HN</p><p>☎ Hotline:&nbsp;</p><p>0343.98.1988&nbsp;</p>",
+    "imageUrl": "https://images.f99.com.vn/images/c418b643-74ec-47b0-98e1-66cef2f7a444.jpg",
+    "price": 220000,
+    "oldPrice": 240000,
+    "discountPercent": 8,
+    "stock": 20,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "500/gam",
+    "sku": "",
+    "origin": "",
+    "sellerId": 201,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>🥀 Nhiệt độ bảo quản: -18°C bảo quản tủ đông</p>",
+    "category": {
+      "id": 122,
+      "name": "Trứng",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ea890f62-5847-463a-bc5a-897bb60f86a7.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/c418b643-74ec-47b0-98e1-66cef2f7a444.jpg",
+      "https://images.f99.com.vn/images/bbb91078-c070-431d-a761-d1dff24caa2e.jpg",
+      "https://images.f99.com.vn/images/e1c00759-6274-4c5b-923f-ce3dc20a8efb.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/10968",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "500/gam"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 95832,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500/gam",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "500/gam",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500/gam",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 220000,
+        "oldPrice": 240000,
+        "discountPercent": 8,
+        "stock": 20,
+        "totalSold": 0,
+        "unit": "500/gam",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>🥀 Nhiệt độ bảo quản: -18°C bảo quản tủ đông</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "500/gam"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 201,
+      "sellerRate": 4.6,
+      "sellerName": "Family Food",
+      "warehouseId": "f7b22978-b766-403a-8b16-3047c307249a",
+      "warehouseAddress": "Số 41 BT1 Khu đô thị Pháp Vân – Tứ Hiệp, Hoàng Liệt, Hoàng Mai, Hà Nội",
+      "distance": 8228,
+      "warehouseDistrict": "hoang mai",
+      "reputation": 59.840895053764946,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 10969,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Sườn bò có xương mỹ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>〽️ Sườn bò Mỹ có xương hấp dẫn và đậm đà đầy dinh dưỡng cho những món ăn của các nà nội trợ thêm hấp dẫn và phong phú đậm đà 😍. Với những phần sườn bò Mỹ trong rất đẹp mắt và tinh tế với những vân mỡ xen kẻ với lớp thịt nạc khi được chế biến sẽ toát ra vị béo ngậy khi thưởng thức sẽ khiến bạn phải hồi hợp 🤤 và xao xuyến với độ thơm ngon tuyệt vời này đấy 😘.&nbsp;</p><p>——————————————————-</p><p>🔥 Hãy nhanh tay nhấc máy và đặt hàng để cùng thưởng thức sản phẩm chất lượng này nhé ❤️ !!!</p><p>📞📞 0343981988</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/9e422cbf-513e-4724-b32d-62fee11b39bf.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Sườn bò có xương mỹ",
+    "description": "<p>〽️ Sườn bò Mỹ có xương hấp dẫn và đậm đà đầy dinh dưỡng cho những món ăn của các nà nội trợ thêm hấp dẫn và phong phú đậm đà 😍. Với những phần sườn bò Mỹ trong rất đẹp mắt và tinh tế với những vân mỡ xen kẻ với lớp thịt nạc khi được chế biến sẽ toát ra vị béo ngậy khi thưởng thức sẽ khiến bạn phải hồi hợp 🤤 và xao xuyến với độ thơm ngon tuyệt vời này đấy 😘.&nbsp;</p><p>——————————————————-</p><p>🔥 Hãy nhanh tay nhấc máy và đặt hàng để cùng thưởng thức sản phẩm chất lượng này nhé ❤️ !!!</p><p>📞📞 0343981988</p>",
+    "imageUrl": "https://images.f99.com.vn/images/9e422cbf-513e-4724-b32d-62fee11b39bf.jpg",
+    "price": 160356,
+    "oldPrice": 193200,
+    "discountPercent": 17,
+    "stock": 20,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "khay 500gam",
+    "sku": "",
+    "origin": "",
+    "sellerId": 201,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>🥀 Nhiệt độ bảo quản: -18°C bảo quản tủ đông</p>",
+    "category": {
+      "id": 122,
+      "name": "Trứng",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ea890f62-5847-463a-bc5a-897bb60f86a7.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/9e422cbf-513e-4724-b32d-62fee11b39bf.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/10969",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 201,
+      "sellerRate": 4.6,
+      "sellerName": "Family Food",
+      "warehouseId": "f7b22978-b766-403a-8b16-3047c307249a",
+      "warehouseAddress": "Số 41 BT1 Khu đô thị Pháp Vân – Tứ Hiệp, Hoàng Liệt, Hoàng Mai, Hà Nội",
+      "distance": 8228,
+      "warehouseDistrict": "hoang mai",
+      "reputation": 59.840895053764946,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 10970,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lõi vai bò mỹ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>&nbsp;LÕI VAI BÒ MỸ NGON - TRÒN HƯƠNG VỊ 🥩</p><p><br></p><p>Một trong những phần thịt bò được các khách hàng nhận xét là: \"Ăn nướng - lẩu - steak đều ngon\" chính là Lõi thăn vai bò Mỹ.</p><p><br></p><p>Lõi thăn vai bò Mỹ rất được lòng các chị em bởi độ ngon mềm đặc trưng của bò Mỹ cao cấp với đường gân mềm tuyệt đẹp chạy dọc cây thăn, khi ăn có độ giòn, ngon đầy bất ngờ cộng thêm lớp mỡ béo ngậy, thịt lõi vai rất thích hợp sử dụng cho các món bít tết, lẩu bò, bò nướng bò nhúng.</p><p><br></p><p><br></p><p><br></p><p>🥩 LÕI VAI BÒ MỸ LÀM MÓN GÌ NGON?</p><p><br></p><p>👉 Ngon nhất từ thăn vai bò vẫn là món Beef steak (Bò bít tết) “mềm như bơ”, ăn với sốt rượu vang đỏ, sốt nấm hay sốt tiêu..., thêm một chút pate, khoai chiên và salad thì quả thật là ngon khó cưỡng nổi.</p><p><br></p><p>👉 Nếu thích ăn món nướng mà ngại lớp mỡ béo của ba chỉ, phần lõi&nbsp;vai bò Mỹ này nguyên liệu tuyệt vời. Nhúng lẩu, xào, nấu phở... cũng đều \"ngon ngây ngất\" luôn nhé!</p><p><br></p><p>☎️ Call:&nbsp;</p><p>0343.981.988</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/5a2aa7bc-967c-49fa-9ada-b8693ac21de5.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lõi vai bò mỹ",
+    "description": "<p>&nbsp;LÕI VAI BÒ MỸ NGON - TRÒN HƯƠNG VỊ 🥩</p><p><br></p><p>Một trong những phần thịt bò được các khách hàng nhận xét là: \"Ăn nướng - lẩu - steak đều ngon\" chính là Lõi thăn vai bò Mỹ.</p><p><br></p><p>Lõi thăn vai bò Mỹ rất được lòng các chị em bởi độ ngon mềm đặc trưng của bò Mỹ cao cấp với đường gân mềm tuyệt đẹp chạy dọc cây thăn, khi ăn có độ giòn, ngon đầy bất ngờ cộng thêm lớp mỡ béo ngậy, thịt lõi vai rất thích hợp sử dụng cho các món bít tết, lẩu bò, bò nướng bò nhúng.</p><p><br></p><p><br></p><p><br></p><p>🥩 LÕI VAI BÒ MỸ LÀM MÓN GÌ NGON?</p><p><br></p><p>👉 Ngon nhất từ thăn vai bò vẫn là món Beef steak (Bò bít tết) “mềm như bơ”, ăn với sốt rượu vang đỏ, sốt nấm hay sốt tiêu..., thêm một chút pate, khoai chiên và salad thì quả thật là ngon khó cưỡng nổi.</p><p><br></p><p>👉 Nếu thích ăn món nướng mà ngại lớp mỡ béo của ba chỉ, phần lõi&nbsp;vai bò Mỹ này nguyên liệu tuyệt vời. Nhúng lẩu, xào, nấu phở... cũng đều \"ngon ngây ngất\" luôn nhé!</p><p><br></p><p>☎️ Call:&nbsp;</p><p>0343.981.988</p>",
+    "imageUrl": "https://images.f99.com.vn/images/5a2aa7bc-967c-49fa-9ada-b8693ac21de5.jpg",
+    "price": 350364,
+    "oldPrice": 374000,
+    "discountPercent": 6,
+    "stock": 10,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "khay 1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 201,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>🥀 Nhiệt độ bảo quản: -18°C bảo quản tủ đông</p>",
+    "category": {
+      "id": 122,
+      "name": "Trứng",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ea890f62-5847-463a-bc5a-897bb60f86a7.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/5a2aa7bc-967c-49fa-9ada-b8693ac21de5.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/10970",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 201,
+      "sellerRate": 4.6,
+      "sellerName": "Family Food",
+      "warehouseId": "f7b22978-b766-403a-8b16-3047c307249a",
+      "warehouseAddress": "Số 41 BT1 Khu đô thị Pháp Vân – Tứ Hiệp, Hoàng Liệt, Hoàng Mai, Hà Nội",
+      "distance": 8228,
+      "warehouseDistrict": "hoang mai",
+      "reputation": 59.840895053764946,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 10971,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Đuôi bò cắt khúc",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>❌❌ĐUÔI BÒ CẮT KHÚC&nbsp;❌❌</p><p><br></p><p>✅ Đuôi bò da dẻo, mềm, ít mỡ, ngọt thịt .&nbsp;</p><p><br></p><p>✅ Về chỉ việc rửa lại và nấu: có thể nấu lẩu, đuôi bò om thuốc bắc, nấu giả cầy, nấu canh, luộc chấm tương gừng, đuôi bò hầm bí, đuôi bò hầm đậu hạt sen…</p><p>&nbsp;➡️ Mưa gió lành lạnh làm nồi đuôi bò nhâm nhi thì lê tê phê luôn các bác ạ. Chữ pheeeeeeeeee kéo dàiiiii luôn ạ 😍😍😍😍</p><p><br></p><p>&nbsp;☎️ Hotline:0343981988</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/109e6227-f0b4-471e-87d7-0fcd5fa92504.jpg\",\"https://images.f99.com.vn/images/0ce43cd1-b9d5-43eb-8107-4ac9de8b8c0d.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Đuôi bò cắt khúc",
+    "description": "<p>❌❌ĐUÔI BÒ CẮT KHÚC&nbsp;❌❌</p><p><br></p><p>✅ Đuôi bò da dẻo, mềm, ít mỡ, ngọt thịt .&nbsp;</p><p><br></p><p>✅ Về chỉ việc rửa lại và nấu: có thể nấu lẩu, đuôi bò om thuốc bắc, nấu giả cầy, nấu canh, luộc chấm tương gừng, đuôi bò hầm bí, đuôi bò hầm đậu hạt sen…</p><p>&nbsp;➡️ Mưa gió lành lạnh làm nồi đuôi bò nhâm nhi thì lê tê phê luôn các bác ạ. Chữ pheeeeeeeeee kéo dàiiiii luôn ạ 😍😍😍😍</p><p><br></p><p>&nbsp;☎️ Hotline:0343981988</p>",
+    "imageUrl": "https://images.f99.com.vn/images/109e6227-f0b4-471e-87d7-0fcd5fa92504.jpg",
+    "price": 269000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 10,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 201,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>🥀 Nhiệt độ bảo quản: -18°C bảo quản tủ động</p><p><br></p>",
+    "category": {
+      "id": 122,
+      "name": "Trứng",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ea890f62-5847-463a-bc5a-897bb60f86a7.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/109e6227-f0b4-471e-87d7-0fcd5fa92504.jpg",
+      "https://images.f99.com.vn/images/0ce43cd1-b9d5-43eb-8107-4ac9de8b8c0d.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/10971",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 201,
+      "sellerRate": 4.6,
+      "sellerName": "Family Food",
+      "warehouseId": "f7b22978-b766-403a-8b16-3047c307249a",
+      "warehouseAddress": "Số 41 BT1 Khu đô thị Pháp Vân – Tứ Hiệp, Hoàng Liệt, Hoàng Mai, Hà Nội",
+      "distance": 8228,
+      "warehouseDistrict": "hoang mai",
+      "reputation": 59.840895053764946,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 10972,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dẻ sườn bò mỹ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>✨✨✨#Dẻ_sườn_bò #Canada với cọng dẻ sườn to, mỡ ít và dãy mỡ phân bố đều đặn, thịt #mềm ngon là nguyên liệu tuyệt vời cho món #nướng vỉ, đút lò hoặc các món nấu như cà ri bò, bò om vang, bò kho, canh ...🌟🌟🌟</p><p><br></p><p>🥓🥓🥓Đóng gói: Nguyên gói từ nhà sản xuất 900gram đến 1200gram</p><p><br></p><p><br></p><p>👉 HÀNG GIAO ĐẾN KHÁCH NHƯ HÌNH THỰC TẾ SHOP CHỤP Ạ!</p><p><br></p><p>🌸🌸🌸 Mách nhỏ:</p><p>🌾 Dẻ sườn bò hay còn gọi là thịt dải sườn bò ( tên tiếng Anh #Rib #Finger) là phần thịt được lóc ra giữa hai thanh xương sườn trước, với chất lượng thịt có vị ngon, ngọt đậm đà, mỡ phân bố đều tạo nên món ăn cân bằng, hài hoà.</p><p><br></p><p>🌾 Thịt bò 🐂 Canada thức ăn chủ yếu của bò là ngũ cốc, đặc biệt là đại mạch. Thực phẩm này giúp thịt bò Canada đặc biệt thơm và mềm.</p><p><br></p><p>🌾Vì thịt bò Canada còn mới so với thị trường Việt Nam nên dù với chất lượng thịt không thua bò Mỹ nhưng giá lại mềm hơn.</p><p>--------</p><p>☎️ Call: 0343981988</p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/0246a292-9757-4e3f-909a-9fcaaebab49e.jpg\",\"https://images.f99.com.vn/images/b64b17d4-f0ac-48b2-9994-5915d49fe417.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dẻ sườn bò mỹ",
+    "description": "<p>✨✨✨#Dẻ_sườn_bò #Canada với cọng dẻ sườn to, mỡ ít và dãy mỡ phân bố đều đặn, thịt #mềm ngon là nguyên liệu tuyệt vời cho món #nướng vỉ, đút lò hoặc các món nấu như cà ri bò, bò om vang, bò kho, canh ...🌟🌟🌟</p><p><br></p><p>🥓🥓🥓Đóng gói: Nguyên gói từ nhà sản xuất 900gram đến 1200gram</p><p><br></p><p><br></p><p>👉 HÀNG GIAO ĐẾN KHÁCH NHƯ HÌNH THỰC TẾ SHOP CHỤP Ạ!</p><p><br></p><p>🌸🌸🌸 Mách nhỏ:</p><p>🌾 Dẻ sườn bò hay còn gọi là thịt dải sườn bò ( tên tiếng Anh #Rib #Finger) là phần thịt được lóc ra giữa hai thanh xương sườn trước, với chất lượng thịt có vị ngon, ngọt đậm đà, mỡ phân bố đều tạo nên món ăn cân bằng, hài hoà.</p><p><br></p><p>🌾 Thịt bò 🐂 Canada thức ăn chủ yếu của bò là ngũ cốc, đặc biệt là đại mạch. Thực phẩm này giúp thịt bò Canada đặc biệt thơm và mềm.</p><p><br></p><p>🌾Vì thịt bò Canada còn mới so với thị trường Việt Nam nên dù với chất lượng thịt không thua bò Mỹ nhưng giá lại mềm hơn.</p><p>--------</p><p>☎️ Call: 0343981988</p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/0246a292-9757-4e3f-909a-9fcaaebab49e.jpg",
+    "price": 351000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 10,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 201,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><br></p><p>BẢO QUẢN: -18 ĐỘ C BẢO QUẢN TỦ ĐÔNG</p>",
+    "category": {
+      "id": 122,
+      "name": "Trứng",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ea890f62-5847-463a-bc5a-897bb60f86a7.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/0246a292-9757-4e3f-909a-9fcaaebab49e.jpg",
+      "https://images.f99.com.vn/images/b64b17d4-f0ac-48b2-9994-5915d49fe417.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/10972",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 201,
+      "sellerRate": 4.6,
+      "sellerName": "Family Food",
+      "warehouseId": "f7b22978-b766-403a-8b16-3047c307249a",
+      "warehouseAddress": "Số 41 BT1 Khu đô thị Pháp Vân – Tứ Hiệp, Hoàng Liệt, Hoàng Mai, Hà Nội",
+      "distance": 8228,
+      "warehouseDistrict": "hoang mai",
+      "reputation": 59.840895053764946,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 10978,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Gầu bò hoa",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>GẦU BÒ MỸ - THƠM NGON TUYỆT VỜI</p><p>--------</p><p>❣️Vị trí của Gầu bò và tính chất thịt:</p><p>Gầu bò Mỹ là phần thịt từ ngực đến cổ dưới, là phần cơ hoạt động chính của con bò, nên có nhiều gân và dai hơn các phần thịt khác</p><p>Gầu bò Mỹ hay còn gọi là nạm bò, ức bò (Brisket) là sản phẩm nhập khẩu trực tiếp từ các thương hiệu thịt bò hàng đầu của Mỹ như Excel Cargill, St.Helen,…với đầy đủ tem nhãn của nhà sản xuất và dấu kiểm định của Bộ Nông Nghiệp Hoa Kỳ.</p><p>❣️Quá trình sơ chế, hút chân không, đóng khay, cấp đông gầu bò Mỹ vệ sinh sạch sẽ, đảm bảo chất lượng, an toàn cho sức khỏe người tiêu dùng. Gầu bò Mỹ được pha cắt bằng máy bào công nghiệp, bào lẩu theo tiêu chuẩn độ dày 1,5mm hoặc bào lát 4mm – 5mm phù hợp cho món nướng, bbq, áp chảo.</p><p>Các món ăn từ Gầu bò:</p><p>Gầu bò Mỹ là thực phẩm quen thuộc giàu dinh dưỡng có thể chế biến được nhiều món trong bữa ăn hàng ngày như: lẩu bò, phở bò, bò nhúng dấm, bò hầm, bò kho, bò sốt, bò nướng, bò chiên, bò áp chảo, bò xào, bò luộc, bò muối…rất ngon miệng.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/8ea3a9d8-5a8f-4f10-b875-71ea8f16de29.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Gầu bò hoa",
+    "description": "<p>GẦU BÒ MỸ - THƠM NGON TUYỆT VỜI</p><p>--------</p><p>❣️Vị trí của Gầu bò và tính chất thịt:</p><p>Gầu bò Mỹ là phần thịt từ ngực đến cổ dưới, là phần cơ hoạt động chính của con bò, nên có nhiều gân và dai hơn các phần thịt khác</p><p>Gầu bò Mỹ hay còn gọi là nạm bò, ức bò (Brisket) là sản phẩm nhập khẩu trực tiếp từ các thương hiệu thịt bò hàng đầu của Mỹ như Excel Cargill, St.Helen,…với đầy đủ tem nhãn của nhà sản xuất và dấu kiểm định của Bộ Nông Nghiệp Hoa Kỳ.</p><p>❣️Quá trình sơ chế, hút chân không, đóng khay, cấp đông gầu bò Mỹ vệ sinh sạch sẽ, đảm bảo chất lượng, an toàn cho sức khỏe người tiêu dùng. Gầu bò Mỹ được pha cắt bằng máy bào công nghiệp, bào lẩu theo tiêu chuẩn độ dày 1,5mm hoặc bào lát 4mm – 5mm phù hợp cho món nướng, bbq, áp chảo.</p><p>Các món ăn từ Gầu bò:</p><p>Gầu bò Mỹ là thực phẩm quen thuộc giàu dinh dưỡng có thể chế biến được nhiều món trong bữa ăn hàng ngày như: lẩu bò, phở bò, bò nhúng dấm, bò hầm, bò kho, bò sốt, bò nướng, bò chiên, bò áp chảo, bò xào, bò luộc, bò muối…rất ngon miệng.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/8ea3a9d8-5a8f-4f10-b875-71ea8f16de29.jpg",
+    "price": 118520,
+    "oldPrice": 142800,
+    "discountPercent": 17,
+    "stock": 10,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "khay 500g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 201,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>BẢO QUẢN: -18 ĐỘ C BẢO QUẢN TỦ ĐÔNG</p>",
+    "category": {
+      "id": 122,
+      "name": "Trứng",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ea890f62-5847-463a-bc5a-897bb60f86a7.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/8ea3a9d8-5a8f-4f10-b875-71ea8f16de29.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/10978",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 201,
+      "sellerRate": 4.6,
+      "sellerName": "Family Food",
+      "warehouseId": "f7b22978-b766-403a-8b16-3047c307249a",
+      "warehouseAddress": "Số 41 BT1 Khu đô thị Pháp Vân – Tứ Hiệp, Hoàng Liệt, Hoàng Mai, Hà Nội",
+      "distance": 8228,
+      "warehouseDistrict": "hoang mai",
+      "reputation": 59.840895053764946,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 11003,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Sườn bò không xương",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>𝑺𝒖̛𝒐̛̀𝒏 𝒃𝒐̀ 𝒌𝒉𝒐̂𝒏𝒈 𝒙𝒖̛𝒐̛𝒏𝒈 - 𝒗𝒊̣ 𝒏𝒈𝒐𝒏 𝒉𝒐𝒂̀𝒏 𝒉𝒂̉𝒐 </p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/td4/1/16/1f969.png\" alt=\"🥩\" height=\"16\" width=\"16\"> Sườn bò không xương là một trong hai phần thịt bò ngon nhất. Với sự kết hợp hoàn hảo của phần thịt và phần mỡ, nên phần sườn bò rất mềm, ngọt thịt, mọng nước mà không hề bị ngấy. </p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/td4/1/16/1f969.png\" alt=\"🥩\" height=\"16\" width=\"16\"> Sườn bò là phần mà được rất nhiều người yêu thích khi làm món nướng hoạc beefsteak vì có thể giữu được độ ẩm của thịt. Khi ăn miếng thịt như được tan chảy trong miệng. </p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/td4/1/16/1f969.png\" alt=\"🥩\" height=\"16\" width=\"16\"> Với công nghệ hiện đại của Mỹ, ngay sau khi cắt thịt sườn đã rút phần xương bằng máy móc hiện đại nên không làm thớ thịt bị mất mô liên kết. Vì vậy thịt sườn rút xương vẫn luôn giữ được độ đậm đà đặc trưng của thịt bò trong bất kỳ món ăn nào.</p><p>----------</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t33/1/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\"> 𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 cam kết mọi sản phẩm đều có xuất xứ rõ ràng, chất lượng hàng đầu và giá cả phải chăng nhất thị trường!</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tc0/1/16/1f4e9.png\" alt=\"📩\" height=\"16\" width=\"16\"> Liên hệ ngay với 𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 để được tư vấn và mua hàng nhanh nhất nhé!</p><p>----------</p><p>𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 - 𝘾𝙝𝙪𝙮𝙚̂𝙣 𝙘𝙪𝙣𝙜 𝙘𝙖̂́𝙥 𝙏𝙝𝙪̛̣𝙘 𝙋𝙝𝙖̂̉𝙢 𝙎𝙖̣𝙘𝙝</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/td8/1/16/1f4f2.png\" alt=\"📲\" height=\"16\" width=\"16\">𝑯𝒐𝒕𝒍𝒊𝒏𝒆: 0343.981.988</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tf6/1/16/1f3e0.png\" alt=\"🏠\" height=\"16\" width=\"16\">𝑨𝒅𝒅𝒓𝒆𝒔𝒔: 41BT1 - KĐT Pháp Vân - Hoàng Liệt - Hoàng Mai - HN</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/taa/1/16/1f310.png\" alt=\"🌐\" height=\"16\" width=\"16\">𝑾𝒆𝒃𝒔𝒊𝒕𝒆: <a href=\"https://familyfood.com.vn/?fbclid=IwAR3HgnVFV-Eltb_koxFIQLVLBYcTLglc9U9DH0XuUopmbNg33GGpscLrQww\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--blue-link);\">https://familyfood.com.vn/</a></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/5ffa4e68-d39b-40ac-8b7f-59241bed8ce7.jpg\",\"https://images.f99.com.vn/images/ca2de833-8974-4fd4-9037-78802e8f491e.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Sườn bò không xương",
+    "description": "<p>𝑺𝒖̛𝒐̛̀𝒏 𝒃𝒐̀ 𝒌𝒉𝒐̂𝒏𝒈 𝒙𝒖̛𝒐̛𝒏𝒈 - 𝒗𝒊̣ 𝒏𝒈𝒐𝒏 𝒉𝒐𝒂̀𝒏 𝒉𝒂̉𝒐 </p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/td4/1/16/1f969.png\" alt=\"🥩\" height=\"16\" width=\"16\"> Sườn bò không xương là một trong hai phần thịt bò ngon nhất. Với sự kết hợp hoàn hảo của phần thịt và phần mỡ, nên phần sườn bò rất mềm, ngọt thịt, mọng nước mà không hề bị ngấy. </p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/td4/1/16/1f969.png\" alt=\"🥩\" height=\"16\" width=\"16\"> Sườn bò là phần mà được rất nhiều người yêu thích khi làm món nướng hoạc beefsteak vì có thể giữu được độ ẩm của thịt. Khi ăn miếng thịt như được tan chảy trong miệng. </p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/td4/1/16/1f969.png\" alt=\"🥩\" height=\"16\" width=\"16\"> Với công nghệ hiện đại của Mỹ, ngay sau khi cắt thịt sườn đã rút phần xương bằng máy móc hiện đại nên không làm thớ thịt bị mất mô liên kết. Vì vậy thịt sườn rút xương vẫn luôn giữ được độ đậm đà đặc trưng của thịt bò trong bất kỳ món ăn nào.</p><p>----------</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t33/1/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\"> 𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 cam kết mọi sản phẩm đều có xuất xứ rõ ràng, chất lượng hàng đầu và giá cả phải chăng nhất thị trường!</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tc0/1/16/1f4e9.png\" alt=\"📩\" height=\"16\" width=\"16\"> Liên hệ ngay với 𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 để được tư vấn và mua hàng nhanh nhất nhé!</p><p>----------</p><p>𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 - 𝘾𝙝𝙪𝙮𝙚̂𝙣 𝙘𝙪𝙣𝙜 𝙘𝙖̂́𝙥 𝙏𝙝𝙪̛̣𝙘 𝙋𝙝𝙖̂̉𝙢 𝙎𝙖̣𝙘𝙝</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/td8/1/16/1f4f2.png\" alt=\"📲\" height=\"16\" width=\"16\">𝑯𝒐𝒕𝒍𝒊𝒏𝒆: 0343.981.988</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tf6/1/16/1f3e0.png\" alt=\"🏠\" height=\"16\" width=\"16\">𝑨𝒅𝒅𝒓𝒆𝒔𝒔: 41BT1 - KĐT Pháp Vân - Hoàng Liệt - Hoàng Mai - HN</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/taa/1/16/1f310.png\" alt=\"🌐\" height=\"16\" width=\"16\">𝑾𝒆𝒃𝒔𝒊𝒕𝒆: <a href=\"https://familyfood.com.vn/?fbclid=IwAR3HgnVFV-Eltb_koxFIQLVLBYcTLglc9U9DH0XuUopmbNg33GGpscLrQww\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--blue-link);\">https://familyfood.com.vn/</a></p>",
+    "imageUrl": "https://images.f99.com.vn/images/5ffa4e68-d39b-40ac-8b7f-59241bed8ce7.jpg",
+    "price": 871000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 10,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 201,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>BẢO QUẢN: -18 ĐỘ C BẢO QUẢN TỦ ĐÔNG</p>",
+    "category": {
+      "id": 122,
+      "name": "Trứng",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ea890f62-5847-463a-bc5a-897bb60f86a7.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/5ffa4e68-d39b-40ac-8b7f-59241bed8ce7.jpg",
+      "https://images.f99.com.vn/images/ca2de833-8974-4fd4-9037-78802e8f491e.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/11003",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 201,
+      "sellerRate": 4.6,
+      "sellerName": "Family Food",
+      "warehouseId": "f7b22978-b766-403a-8b16-3047c307249a",
+      "warehouseAddress": "Số 41 BT1 Khu đô thị Pháp Vân – Tứ Hiệp, Hoàng Liệt, Hoàng Mai, Hà Nội",
+      "distance": 8228,
+      "warehouseDistrict": "hoang mai",
+      "reputation": 59.840895053764946,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 11005,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cánh gà khúc giữa",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>𝑪𝒂́𝒏𝒉 𝒈𝒂̀ 𝒈𝒊𝒖̛̃𝒂 - 𝑴𝒐́𝒏 𝒂̆𝒏 𝒌𝒉𝒐𝒂́𝒊 𝒌𝒉𝒂̂̉𝒖 𝒄𝒖̉𝒂 𝒄𝒂̉ 𝒏𝒉𝒂̀!</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tad/1/16/1f357.png\" alt=\"🍗\" height=\"16\" width=\"16\"> Cánh gà chiên giòn, cánh gà rim mắm là món khoái khẩu cho cả gia đình, đặc biệt là các bạn nhỏ. Và phần cánh giữa là phần mà ai cũng yêu thích vì thịt mọng nước và rất mềm.</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tad/1/16/1f357.png\" alt=\"🍗\" height=\"16\" width=\"16\"> Phần cánh gà này được sơ chế và cấp đông theo công nghệ hiện đại nên chắc chắn sẽ giữ được độ tươi ngon cũng như các chất dinh dưỡng của phần thịt.</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tad/1/16/1f357.png\" alt=\"🍗\" height=\"16\" width=\"16\"> Các bố mẹ có thể làm rất nhiều món ăn ngon cho cả nhà và các bạn nhỏ với phần cánh vô cùng chất lượng này như: chiên xù, rim mắm, om coca,...vô cùng hấp dẫn đó.</p><p>----------</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t33/1/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\"> 𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 cam kết mọi sản phẩm đều có xuất xứ rõ ràng, chất lượng hàng đầu và giá cả phải chăng nhất thị trường!</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tc0/1/16/1f4e9.png\" alt=\"📩\" height=\"16\" width=\"16\"> Liên hệ ngay với 𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 để được tư vấn và mua hàng nhanh nhất nhé!</p><p>----------</p><p>𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 - 𝘾𝙝𝙪𝙮𝙚̂𝙣 𝙘𝙪𝙣𝙜 𝙘𝙖̂́𝙥 𝙏𝙝𝙪̛̣𝙘 𝙋𝙝𝙖̂̉𝙢 𝙎𝙖̣𝙘𝙝</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/td8/1/16/1f4f2.png\" alt=\"📲\" height=\"16\" width=\"16\">𝑯𝒐𝒕𝒍𝒊𝒏𝒆: 0343.981.988</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tf6/1/16/1f3e0.png\" alt=\"🏠\" height=\"16\" width=\"16\">𝑨𝒅𝒅𝒓𝒆𝒔𝒔: 41BT1 - KĐT Pháp Vân - Hoàng Liệt - Hoàng Mai - HN</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/taa/1/16/1f310.png\" alt=\"🌐\" height=\"16\" width=\"16\">𝑾𝒆𝒃𝒔𝒊𝒕𝒆: <a href=\"https://familyfood.com.vn/?fbclid=IwAR0f0DT4PtCrxzvfPohWl83uwxO8B80LrH5t2uC7I34l55FnHam57MSR7AM\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--blue-link);\">https://familyfood.com.vn/</a></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/952a1db6-c376-4154-8044-77f74d153aea.jpg\",\"https://images.f99.com.vn/images/7b3fa775-06be-492a-a15b-1f424494c08d.jpg\",\"https://images.f99.com.vn/images/71bf975b-a266-4cb6-b7f3-e7dd6a882754.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cánh gà khúc giữa",
+    "description": "<p>𝑪𝒂́𝒏𝒉 𝒈𝒂̀ 𝒈𝒊𝒖̛̃𝒂 - 𝑴𝒐́𝒏 𝒂̆𝒏 𝒌𝒉𝒐𝒂́𝒊 𝒌𝒉𝒂̂̉𝒖 𝒄𝒖̉𝒂 𝒄𝒂̉ 𝒏𝒉𝒂̀!</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tad/1/16/1f357.png\" alt=\"🍗\" height=\"16\" width=\"16\"> Cánh gà chiên giòn, cánh gà rim mắm là món khoái khẩu cho cả gia đình, đặc biệt là các bạn nhỏ. Và phần cánh giữa là phần mà ai cũng yêu thích vì thịt mọng nước và rất mềm.</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tad/1/16/1f357.png\" alt=\"🍗\" height=\"16\" width=\"16\"> Phần cánh gà này được sơ chế và cấp đông theo công nghệ hiện đại nên chắc chắn sẽ giữ được độ tươi ngon cũng như các chất dinh dưỡng của phần thịt.</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tad/1/16/1f357.png\" alt=\"🍗\" height=\"16\" width=\"16\"> Các bố mẹ có thể làm rất nhiều món ăn ngon cho cả nhà và các bạn nhỏ với phần cánh vô cùng chất lượng này như: chiên xù, rim mắm, om coca,...vô cùng hấp dẫn đó.</p><p>----------</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t33/1/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\"> 𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 cam kết mọi sản phẩm đều có xuất xứ rõ ràng, chất lượng hàng đầu và giá cả phải chăng nhất thị trường!</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tc0/1/16/1f4e9.png\" alt=\"📩\" height=\"16\" width=\"16\"> Liên hệ ngay với 𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 để được tư vấn và mua hàng nhanh nhất nhé!</p><p>----------</p><p>𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 - 𝘾𝙝𝙪𝙮𝙚̂𝙣 𝙘𝙪𝙣𝙜 𝙘𝙖̂́𝙥 𝙏𝙝𝙪̛̣𝙘 𝙋𝙝𝙖̂̉𝙢 𝙎𝙖̣𝙘𝙝</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/td8/1/16/1f4f2.png\" alt=\"📲\" height=\"16\" width=\"16\">𝑯𝒐𝒕𝒍𝒊𝒏𝒆: 0343.981.988</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tf6/1/16/1f3e0.png\" alt=\"🏠\" height=\"16\" width=\"16\">𝑨𝒅𝒅𝒓𝒆𝒔𝒔: 41BT1 - KĐT Pháp Vân - Hoàng Liệt - Hoàng Mai - HN</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/taa/1/16/1f310.png\" alt=\"🌐\" height=\"16\" width=\"16\">𝑾𝒆𝒃𝒔𝒊𝒕𝒆: <a href=\"https://familyfood.com.vn/?fbclid=IwAR0f0DT4PtCrxzvfPohWl83uwxO8B80LrH5t2uC7I34l55FnHam57MSR7AM\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--blue-link);\">https://familyfood.com.vn/</a></p>",
+    "imageUrl": "https://images.f99.com.vn/images/952a1db6-c376-4154-8044-77f74d153aea.jpg",
+    "price": 120000,
+    "oldPrice": 130000,
+    "discountPercent": 8,
+    "stock": 20,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Khay 500g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 201,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>BẢO QUẢN: -18 ĐỘ C BẢO QUẢN TỦ ĐÔNG</p>",
+    "category": {
+      "id": 122,
+      "name": "Trứng",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ea890f62-5847-463a-bc5a-897bb60f86a7.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/952a1db6-c376-4154-8044-77f74d153aea.jpg",
+      "https://images.f99.com.vn/images/7b3fa775-06be-492a-a15b-1f424494c08d.jpg",
+      "https://images.f99.com.vn/images/71bf975b-a266-4cb6-b7f3-e7dd6a882754.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/11005",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Khay 500g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 95834,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Khay 500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Khay 500g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Khay 500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 120000,
+        "oldPrice": 130000,
+        "discountPercent": 8,
+        "stock": 20,
+        "totalSold": 0,
+        "unit": "Khay 500g",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>BẢO QUẢN: -18 ĐỘ C BẢO QUẢN TỦ ĐÔNG</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Khay 500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 201,
+      "sellerRate": 4.6,
+      "sellerName": "Family Food",
+      "warehouseId": "f7b22978-b766-403a-8b16-3047c307249a",
+      "warehouseAddress": "Số 41 BT1 Khu đô thị Pháp Vân – Tứ Hiệp, Hoàng Liệt, Hoàng Mai, Hà Nội",
+      "distance": 8228,
+      "warehouseDistrict": "hoang mai",
+      "reputation": 59.840895053764946,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 11013,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Ba chỉ heo ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>BA CHỈ HEO - THỊT TƯƠI NGON HÀNG NGÀY TẠI FAMILY FOOD</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t72/1/16/1f538.png\" alt=\"🔸\" height=\"16\" width=\"16\"> Ba chỉ heo - là phần thịt này được lấy từ sườn bụng của heo vì phần thịt này có cả phần nạc và mỡ đan xen với nhau rất vừa phải. Đây là phần thịt ngon nhất và đắt nhất của heo và được rất nhiều người ưa thích.</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t72/1/16/1f538.png\" alt=\"🔸\" height=\"16\" width=\"16\"> Thịt ba chỉ thì chắc chẳn bạn không còn lạ gì nữa vì nó vô cùng quen thuộc trong bữa cơm hàng ngày với rất nhiều món ăn ngon được chế biến từ ba chỉ heo như thịt kho tàu, ba chỉ luộc,....</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t72/1/16/1f538.png\" alt=\"🔸\" height=\"16\" width=\"16\"> Thịt ba chỉ heo tại 𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 đảm bảo rõ nguồn gốc, thịt tươi, đạt chuẩn vệ sinh an toàn thực phẩm và chắc chắn sẽ làm bản hài lòng.</p><p>----------</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t33/1/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\"> 𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 cam kết mọi sản phẩm đều có xuất xứ rõ ràng, chất lượng hàng đầu và giá cả phải chăng nhất thị trường!</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tc0/1/16/1f4e9.png\" alt=\"📩\" height=\"16\" width=\"16\"> Liên hệ ngay với 𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 để được tư vấn và mua hàng nhanh nhất nhé!</p><p>----------</p><p>𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 - 𝘾𝙝𝙪𝙮𝙚̂𝙣 𝙘𝙪𝙣𝙜 𝙘𝙖̂́𝙥 𝙏𝙝𝙪̛̣𝙘 𝙋𝙝𝙖̂̉𝙢 𝙎𝙖̣𝙘𝙝</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/td8/1/16/1f4f2.png\" alt=\"📲\" height=\"16\" width=\"16\">𝑯𝒐𝒕𝒍𝒊𝒏𝒆: 0343.981.988</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tf6/1/16/1f3e0.png\" alt=\"🏠\" height=\"16\" width=\"16\">𝑨𝒅𝒅𝒓𝒆𝒔𝒔: 41BT1 - KĐT Pháp Vân - Tứ Hiệp - Hoàng Mai - HN</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/taa/1/16/1f310.png\" alt=\"🌐\" height=\"16\" width=\"16\">𝑾𝒆𝒃𝒔𝒊𝒕𝒆: <a href=\"https://haisan-hanoi.vn/?fbclid=IwAR0hvmCU_LOIsP7LOEgyMFvTANbNCA8_O27IuFfLWLeNe6rj3SwiunLNmy8\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--blue-link);\">https://haisan-hanoi.vn/</a></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/c3000676-7ffd-44de-8ec7-3a6e799b146f.png\",\"https://images.f99.com.vn/images/6c35805c-3c5f-47ba-ae06-d94f0332e4be.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Ba chỉ heo ",
+    "description": "<p>BA CHỈ HEO - THỊT TƯƠI NGON HÀNG NGÀY TẠI FAMILY FOOD</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t72/1/16/1f538.png\" alt=\"🔸\" height=\"16\" width=\"16\"> Ba chỉ heo - là phần thịt này được lấy từ sườn bụng của heo vì phần thịt này có cả phần nạc và mỡ đan xen với nhau rất vừa phải. Đây là phần thịt ngon nhất và đắt nhất của heo và được rất nhiều người ưa thích.</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t72/1/16/1f538.png\" alt=\"🔸\" height=\"16\" width=\"16\"> Thịt ba chỉ thì chắc chẳn bạn không còn lạ gì nữa vì nó vô cùng quen thuộc trong bữa cơm hàng ngày với rất nhiều món ăn ngon được chế biến từ ba chỉ heo như thịt kho tàu, ba chỉ luộc,....</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t72/1/16/1f538.png\" alt=\"🔸\" height=\"16\" width=\"16\"> Thịt ba chỉ heo tại 𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 đảm bảo rõ nguồn gốc, thịt tươi, đạt chuẩn vệ sinh an toàn thực phẩm và chắc chắn sẽ làm bản hài lòng.</p><p>----------</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t33/1/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\"> 𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 cam kết mọi sản phẩm đều có xuất xứ rõ ràng, chất lượng hàng đầu và giá cả phải chăng nhất thị trường!</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tc0/1/16/1f4e9.png\" alt=\"📩\" height=\"16\" width=\"16\"> Liên hệ ngay với 𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 để được tư vấn và mua hàng nhanh nhất nhé!</p><p>----------</p><p>𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 - 𝘾𝙝𝙪𝙮𝙚̂𝙣 𝙘𝙪𝙣𝙜 𝙘𝙖̂́𝙥 𝙏𝙝𝙪̛̣𝙘 𝙋𝙝𝙖̂̉𝙢 𝙎𝙖̣𝙘𝙝</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/td8/1/16/1f4f2.png\" alt=\"📲\" height=\"16\" width=\"16\">𝑯𝒐𝒕𝒍𝒊𝒏𝒆: 0343.981.988</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tf6/1/16/1f3e0.png\" alt=\"🏠\" height=\"16\" width=\"16\">𝑨𝒅𝒅𝒓𝒆𝒔𝒔: 41BT1 - KĐT Pháp Vân - Tứ Hiệp - Hoàng Mai - HN</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/taa/1/16/1f310.png\" alt=\"🌐\" height=\"16\" width=\"16\">𝑾𝒆𝒃𝒔𝒊𝒕𝒆: <a href=\"https://haisan-hanoi.vn/?fbclid=IwAR0hvmCU_LOIsP7LOEgyMFvTANbNCA8_O27IuFfLWLeNe6rj3SwiunLNmy8\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--blue-link);\">https://haisan-hanoi.vn/</a></p>",
+    "imageUrl": "https://images.f99.com.vn/images/c3000676-7ffd-44de-8ec7-3a6e799b146f.png",
+    "price": 124950,
+    "oldPrice": 178500,
+    "discountPercent": 30,
+    "stock": 20,
+    "totalSold": 9,
+    "maxQuantityPerUser": null,
+    "unit": "khay 1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 201,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>🥀 Nhiệt độ bảo quản: -18°C bảo quản tủ đông</p>",
+    "category": {
+      "id": 122,
+      "name": "Trứng",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ea890f62-5847-463a-bc5a-897bb60f86a7.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/c3000676-7ffd-44de-8ec7-3a6e799b146f.png",
+      "https://images.f99.com.vn/images/6c35805c-3c5f-47ba-ae06-d94f0332e4be.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/11013",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 201,
+      "sellerRate": 4.6,
+      "sellerName": "Family Food",
+      "warehouseId": "f7b22978-b766-403a-8b16-3047c307249a",
+      "warehouseAddress": "Số 41 BT1 Khu đô thị Pháp Vân – Tứ Hiệp, Hoàng Liệt, Hoàng Mai, Hà Nội",
+      "distance": 8228,
+      "warehouseDistrict": "hoang mai",
+      "reputation": 59.840895053764946,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 11017,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bắp lõi rùa mỹ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>BẮP LÕI RÙA BÒ MỸ - NẤU MÓN GÌ CŨNG MÊ LY</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t33/1/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\"> Bạn không thích ăn phần thịt có quá nhiều mỡ và thích thịt có độ giòn và ngọt thì sẽ không thể bỏ qua phần bắp lõi rùa bò Mỹ được. Phần thịt mà làm món gì cũng chỉ có mê mà thôi!</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t72/1/16/1f538.png\" alt=\"🔸\" height=\"16\" width=\"16\"> Bắp lõi rùa là phần bắp nhỏ nằm giữa bắp trước và bắp sau của bò, phần bắp lõi rùa này bên trong có nhiều đường gân chạy dọc hình dạng như vân trên mai rùa lên được gọi là bắp lõi rùa.</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t72/1/16/1f538.png\" alt=\"🔸\" height=\"16\" width=\"16\">Thịt bắp có màng gân bao quanh, màu đỏ sẫm, có lớp gân mỏng nên khi ăn khá giòn. Vì đây là phần cơ vận động nhiều nhất của con bò nên thớ thịt nhỏ, săn.</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t72/1/16/1f538.png\" alt=\"🔸\" height=\"16\" width=\"16\"> Lõi rùa có thể dùng để chế biến các món ăn như luộc, nhúng dẩm, ăn lẩu, tái chanh, xào,nấu phở, bắp bò kho mật mía... đều rất ngon.</p><p>----------</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t33/1/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\"> 𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 cam kết mọi sản phẩm đều có xuất xứ rõ ràng, chất lượng hàng đầu và giá cả phải chăng nhất thị trường!</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tc0/1/16/1f4e9.png\" alt=\"📩\" height=\"16\" width=\"16\"> Liên hệ ngay với Family Food để được tư vấn và mua hàng nhanh nhất nhé!</p><p>----------</p><p>𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 - 𝘾𝙝𝙪𝙮𝙚̂𝙣 𝙘𝙪𝙣𝙜 𝙘𝙖̂́𝙥 𝙏𝙝𝙪̛̣𝙘 𝙋𝙝𝙖̂̉𝙢 𝙎𝙖̣𝙘𝙝</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/td8/1/16/1f4f2.png\" alt=\"📲\" height=\"16\" width=\"16\">𝑯𝒐𝒕𝒍𝒊𝒏𝒆: 0343.981.988</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tf6/1/16/1f3e0.png\" alt=\"🏠\" height=\"16\" width=\"16\">𝑨𝒅𝒅𝒓𝒆𝒔𝒔: 41BT1 - KĐT Pháp Vân - Tứ Hiệp - Hoàng Mai - HN</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/taa/1/16/1f310.png\" alt=\"🌐\" height=\"16\" width=\"16\">𝑾𝒆𝒃𝒔𝒊𝒕𝒆: <a href=\"https://familyfood.com.vn/?fbclid=IwAR0QmD8vIDLB2-PUefZRGOpyUBsY7dE93Brn8j3m4c1gMVTeCWKqpNppVVg\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--blue-link);\">https://familyfood.com.vn/</a></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/f6c90cab-69c1-4b42-8e9a-390827d2534c.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bắp lõi rùa mỹ",
+    "description": "<p>BẮP LÕI RÙA BÒ MỸ - NẤU MÓN GÌ CŨNG MÊ LY</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t33/1/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\"> Bạn không thích ăn phần thịt có quá nhiều mỡ và thích thịt có độ giòn và ngọt thì sẽ không thể bỏ qua phần bắp lõi rùa bò Mỹ được. Phần thịt mà làm món gì cũng chỉ có mê mà thôi!</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t72/1/16/1f538.png\" alt=\"🔸\" height=\"16\" width=\"16\"> Bắp lõi rùa là phần bắp nhỏ nằm giữa bắp trước và bắp sau của bò, phần bắp lõi rùa này bên trong có nhiều đường gân chạy dọc hình dạng như vân trên mai rùa lên được gọi là bắp lõi rùa.</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t72/1/16/1f538.png\" alt=\"🔸\" height=\"16\" width=\"16\">Thịt bắp có màng gân bao quanh, màu đỏ sẫm, có lớp gân mỏng nên khi ăn khá giòn. Vì đây là phần cơ vận động nhiều nhất của con bò nên thớ thịt nhỏ, săn.</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t72/1/16/1f538.png\" alt=\"🔸\" height=\"16\" width=\"16\"> Lõi rùa có thể dùng để chế biến các món ăn như luộc, nhúng dẩm, ăn lẩu, tái chanh, xào,nấu phở, bắp bò kho mật mía... đều rất ngon.</p><p>----------</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t33/1/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\"> 𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 cam kết mọi sản phẩm đều có xuất xứ rõ ràng, chất lượng hàng đầu và giá cả phải chăng nhất thị trường!</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tc0/1/16/1f4e9.png\" alt=\"📩\" height=\"16\" width=\"16\"> Liên hệ ngay với Family Food để được tư vấn và mua hàng nhanh nhất nhé!</p><p>----------</p><p>𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 - 𝘾𝙝𝙪𝙮𝙚̂𝙣 𝙘𝙪𝙣𝙜 𝙘𝙖̂́𝙥 𝙏𝙝𝙪̛̣𝙘 𝙋𝙝𝙖̂̉𝙢 𝙎𝙖̣𝙘𝙝</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/td8/1/16/1f4f2.png\" alt=\"📲\" height=\"16\" width=\"16\">𝑯𝒐𝒕𝒍𝒊𝒏𝒆: 0343.981.988</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tf6/1/16/1f3e0.png\" alt=\"🏠\" height=\"16\" width=\"16\">𝑨𝒅𝒅𝒓𝒆𝒔𝒔: 41BT1 - KĐT Pháp Vân - Tứ Hiệp - Hoàng Mai - HN</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/taa/1/16/1f310.png\" alt=\"🌐\" height=\"16\" width=\"16\">𝑾𝒆𝒃𝒔𝒊𝒕𝒆: <a href=\"https://familyfood.com.vn/?fbclid=IwAR0QmD8vIDLB2-PUefZRGOpyUBsY7dE93Brn8j3m4c1gMVTeCWKqpNppVVg\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--blue-link);\">https://familyfood.com.vn/</a></p>",
+    "imageUrl": "https://images.f99.com.vn/images/f6c90cab-69c1-4b42-8e9a-390827d2534c.jpg",
+    "price": 114540,
+    "oldPrice": 224400,
+    "discountPercent": 49,
+    "stock": 5,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "500g/khay",
+    "sku": "",
+    "origin": "",
+    "sellerId": 201,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>🥀 Nhiệt độ bảo quản: -18°C bảo quản tủ đông</p>",
+    "category": {
+      "id": 122,
+      "name": "Trứng",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ea890f62-5847-463a-bc5a-897bb60f86a7.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/f6c90cab-69c1-4b42-8e9a-390827d2534c.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/11017",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 201,
+      "sellerRate": 4.6,
+      "sellerName": "Family Food",
+      "warehouseId": "f7b22978-b766-403a-8b16-3047c307249a",
+      "warehouseAddress": "Số 41 BT1 Khu đô thị Pháp Vân – Tứ Hiệp, Hoàng Liệt, Hoàng Mai, Hà Nội",
+      "distance": 8228,
+      "warehouseDistrict": "hoang mai",
+      "reputation": 59.840895053764946,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 11018,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Sườn heo",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>ƯỜN NGON KHÓ CHỌN - CÓ FAMILY FOOD CÒN NGẠI CHI</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t2c/1/16/1f356.png\" alt=\"🍖\" height=\"16\" width=\"16\"> Sườn heo được rất nhiều chị em nội chợ lựa chọn vì có thể chế biến được rất nhiều món ăn lại vừa hợp khẩu vị với đủ mọi lứa tuổi.</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tf4/1/16/2728.png\" alt=\"✨\" height=\"16\" width=\"16\"> Sườn heo được lựa chọn nhiều vì vừa có thể lấy độ ngọt của xương khi hầm canh, lại vừa có thể lấy vị beo béo của thịt làm cho nước dùng thêm đậm đà và ngon hơn.</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tf4/1/16/2728.png\" alt=\"✨\" height=\"16\" width=\"16\"> Sườn nướng hay sườn xào chua ngọt cùng là một món ăn đỉnh cao được chế biến từ sườn heo và nhận được rất nhiều sự yêu thích nhất là các bạn nhỏ. Vì món ăn vừa đậm vị hạy vừa có phần thịt mềm, ngọt nhờ sự kết hợp hoàn hảo giữa phần thịt mà mỡ.</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tf4/1/16/2728.png\" alt=\"✨\" height=\"16\" width=\"16\"> Nếu muốn chọn một phần thịt có thể làm đủ món từ nấu canh đến món mặn thì sườn heo chính là một sự lựa chọn chính xác.</p><p>----------</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t33/1/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\">𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 cam kết mọi sản phẩm đều có xuất xứ rõ ràng, chất lượng hàng đầu và giá cả phải chăng nhất thị trường!</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tc0/1/16/1f4e9.png\" alt=\"📩\" height=\"16\" width=\"16\"> Liên hệ ngay với Family Food để được tư vấn và mua hàng nhanh nhất nhé!</p><p>----------</p><p>𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 - 𝘾𝙝𝙪𝙮𝙚̂𝙣 𝙘𝙪𝙣𝙜 𝙘𝙖̂́𝙥 𝙏𝙝𝙪̛̣𝙘 𝙋𝙝𝙖̂̉𝙢 𝙎𝙖̣𝙘𝙝</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/td8/1/16/1f4f2.png\" alt=\"📲\" height=\"16\" width=\"16\">𝑯𝒐𝒕𝒍𝒊𝒏𝒆: 0343.981.988</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tf6/1/16/1f3e0.png\" alt=\"🏠\" height=\"16\" width=\"16\">𝑨𝒅𝒅𝒓𝒆𝒔𝒔: 41BT1 - KĐT Pháp Vân - Tứ Hiệp - Hoàng Mai - HN</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/taa/1/16/1f310.png\" alt=\"🌐\" height=\"16\" width=\"16\">𝑾𝒆𝒃𝒔𝒊𝒕𝒆: <a href=\"https://familyfood.com.vn/?fbclid=IwAR1BEPtdL4s8YLfRBtmaGonIiZf0d7QJxS9SsfA50MKUhyOyIcF_7XUhI2g\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--blue-link);\">https://familyfood.com.vn/</a></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/c9cb229e-9dad-4c42-b6dd-93caffb84c03.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Sườn heo",
+    "description": "<p>ƯỜN NGON KHÓ CHỌN - CÓ FAMILY FOOD CÒN NGẠI CHI</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t2c/1/16/1f356.png\" alt=\"🍖\" height=\"16\" width=\"16\"> Sườn heo được rất nhiều chị em nội chợ lựa chọn vì có thể chế biến được rất nhiều món ăn lại vừa hợp khẩu vị với đủ mọi lứa tuổi.</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tf4/1/16/2728.png\" alt=\"✨\" height=\"16\" width=\"16\"> Sườn heo được lựa chọn nhiều vì vừa có thể lấy độ ngọt của xương khi hầm canh, lại vừa có thể lấy vị beo béo của thịt làm cho nước dùng thêm đậm đà và ngon hơn.</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tf4/1/16/2728.png\" alt=\"✨\" height=\"16\" width=\"16\"> Sườn nướng hay sườn xào chua ngọt cùng là một món ăn đỉnh cao được chế biến từ sườn heo và nhận được rất nhiều sự yêu thích nhất là các bạn nhỏ. Vì món ăn vừa đậm vị hạy vừa có phần thịt mềm, ngọt nhờ sự kết hợp hoàn hảo giữa phần thịt mà mỡ.</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tf4/1/16/2728.png\" alt=\"✨\" height=\"16\" width=\"16\"> Nếu muốn chọn một phần thịt có thể làm đủ món từ nấu canh đến món mặn thì sườn heo chính là một sự lựa chọn chính xác.</p><p>----------</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t33/1/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\">𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 cam kết mọi sản phẩm đều có xuất xứ rõ ràng, chất lượng hàng đầu và giá cả phải chăng nhất thị trường!</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tc0/1/16/1f4e9.png\" alt=\"📩\" height=\"16\" width=\"16\"> Liên hệ ngay với Family Food để được tư vấn và mua hàng nhanh nhất nhé!</p><p>----------</p><p>𝙁𝙖𝙢𝙞𝙡𝙮 𝙁𝙤𝙤𝙙 - 𝘾𝙝𝙪𝙮𝙚̂𝙣 𝙘𝙪𝙣𝙜 𝙘𝙖̂́𝙥 𝙏𝙝𝙪̛̣𝙘 𝙋𝙝𝙖̂̉𝙢 𝙎𝙖̣𝙘𝙝</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/td8/1/16/1f4f2.png\" alt=\"📲\" height=\"16\" width=\"16\">𝑯𝒐𝒕𝒍𝒊𝒏𝒆: 0343.981.988</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/tf6/1/16/1f3e0.png\" alt=\"🏠\" height=\"16\" width=\"16\">𝑨𝒅𝒅𝒓𝒆𝒔𝒔: 41BT1 - KĐT Pháp Vân - Tứ Hiệp - Hoàng Mai - HN</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/taa/1/16/1f310.png\" alt=\"🌐\" height=\"16\" width=\"16\">𝑾𝒆𝒃𝒔𝒊𝒕𝒆: <a href=\"https://familyfood.com.vn/?fbclid=IwAR1BEPtdL4s8YLfRBtmaGonIiZf0d7QJxS9SsfA50MKUhyOyIcF_7XUhI2g\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--blue-link);\">https://familyfood.com.vn/</a></p>",
+    "imageUrl": "https://images.f99.com.vn/images/c9cb229e-9dad-4c42-b6dd-93caffb84c03.jpg",
+    "price": 124950,
+    "oldPrice": 178500,
+    "discountPercent": 30,
+    "stock": 5,
+    "totalSold": 4,
+    "maxQuantityPerUser": null,
+    "unit": "khay 500g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 201,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>🥀 Nhiệt độ bảo quản: -18°C bảo quản tủ đông</p>",
+    "category": {
+      "id": 122,
+      "name": "Trứng",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ea890f62-5847-463a-bc5a-897bb60f86a7.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/c9cb229e-9dad-4c42-b6dd-93caffb84c03.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/11018",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 201,
+      "sellerRate": 4.6,
+      "sellerName": "Family Food",
+      "warehouseId": "f7b22978-b766-403a-8b16-3047c307249a",
+      "warehouseAddress": "Số 41 BT1 Khu đô thị Pháp Vân – Tứ Hiệp, Hoàng Liệt, Hoàng Mai, Hà Nội",
+      "distance": 8228,
+      "warehouseDistrict": "hoang mai",
+      "reputation": 59.840895053764946,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 12098,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Thăn ngoại bò  Hukobe ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Xuất xứ: Australia</p><p>Đóng gói: 250g/ túi hút chân không</p><p>Tặng kèm lá hương thảo</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/b09b3e02-3879-4e05-a0a5-9189d331e28e.jpeg\",\"https://images.f99.com.vn/images/1bbb4cd9-b5bf-4504-80fb-e2e5d3b204c5.jpeg\",\"https://images.f99.com.vn/images/80f0834b-5b91-4360-8d5f-9aa41abe08c8.jpeg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Thăn ngoại bò  Hukobe ",
+    "description": "<p>Xuất xứ: Australia</p><p>Đóng gói: 250g/ túi hút chân không</p><p>Tặng kèm lá hương thảo</p>",
+    "imageUrl": "https://images.f99.com.vn/images/b09b3e02-3879-4e05-a0a5-9189d331e28e.jpeg",
+    "price": 799000,
+    "oldPrice": 999000,
+    "discountPercent": 20,
+    "stock": 100,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 212,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Đặc điểm</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tcc/2/16/2796.png\" alt=\"➖\" height=\"16\" width=\"16\"> Vân mỡ xen lẫn các thớ thịt. Tuy nhiên không có vân hình cẩm thạch như thịt bò Kobe</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tcc/2/16/2796.png\" alt=\"➖\" height=\"16\" width=\"16\"> Chất lượng so sánh với thịt bò Wagyu : Bằng 90%</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tcc/2/16/2796.png\" alt=\"➖\" height=\"16\" width=\"16\"> Hình dạng :Thịt được cắt ở 2 dạng, Miếng dài và miếng tròn</p><p>Hướng dẫn sử dụng:</p><p>Rã đông tự nhiên trong ngăn mát tủ lạnh hoặc nhiệt độ phòng bếp.</p><p>Chế biến các món:</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tcc/2/16/2796.png\" alt=\"➖\" height=\"16\" width=\"16\"> Steak</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tcc/2/16/2796.png\" alt=\"➖\" height=\"16\" width=\"16\"> Nướng BBQ</p>",
+    "category": {
+      "id": 122,
+      "name": "Trứng",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ea890f62-5847-463a-bc5a-897bb60f86a7.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/b09b3e02-3879-4e05-a0a5-9189d331e28e.jpeg",
+      "https://images.f99.com.vn/images/1bbb4cd9-b5bf-4504-80fb-e2e5d3b204c5.jpeg",
+      "https://images.f99.com.vn/images/80f0834b-5b91-4360-8d5f-9aa41abe08c8.jpeg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12098",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 63028,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 799000,
+        "oldPrice": 999000,
+        "discountPercent": 20,
+        "stock": 100,
+        "totalSold": 1,
+        "unit": "Kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Đặc điểm</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tcc/2/16/2796.png\" alt=\"➖\" height=\"16\" width=\"16\"> Vân mỡ xen lẫn các thớ thịt. Tuy nhiên không có vân hình cẩm thạch như thịt bò Kobe</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tcc/2/16/2796.png\" alt=\"➖\" height=\"16\" width=\"16\"> Chất lượng so sánh với thịt bò Wagyu : Bằng 90%</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tcc/2/16/2796.png\" alt=\"➖\" height=\"16\" width=\"16\"> Hình dạng :Thịt được cắt ở 2 dạng, Miếng dài và miếng tròn</p><p>Hướng dẫn sử dụng:</p><p>Rã đông tự nhiên trong ngăn mát tủ lạnh hoặc nhiệt độ phòng bếp.</p><p>Chế biến các món:</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tcc/2/16/2796.png\" alt=\"➖\" height=\"16\" width=\"16\"> Steak</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tcc/2/16/2796.png\" alt=\"➖\" height=\"16\" width=\"16\"> Nướng BBQ</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 212,
+      "sellerRate": 3.7,
+      "sellerName": "Vietworld Food",
+      "warehouseId": "85a9e9ff-539f-4ee5-afd5-c2a8e4a81f08",
+      "warehouseAddress": "119 Yên Lãng, Thịnh Quang, Đống Đa, Hà Nội",
+      "distance": 2673,
+      "warehouseDistrict": "dong da",
+      "reputation": 50.357603174603405,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 12204,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Xương Đuôi Heo SĐ 1 Kg",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Xương đuôi tươi ngon, sạch sẽ, đảm bảo VSATTP</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/bac3f732-b133-4e4d-8bdd-c42a60accb28.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Xương Đuôi Heo SĐ 1 Kg",
+    "description": "<p>Xương đuôi tươi ngon, sạch sẽ, đảm bảo VSATTP</p>",
+    "imageUrl": "https://images.f99.com.vn/images/bac3f732-b133-4e4d-8bdd-c42a60accb28.png",
+    "price": 45000,
+    "oldPrice": 55000,
+    "discountPercent": 18,
+    "stock": 20,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "1 kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 211,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Xương đuôi tươi ngon, sạch sẽ, đảm bảo VSATTP</p>",
+    "category": {
+      "id": 122,
+      "name": "Trứng",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ea890f62-5847-463a-bc5a-897bb60f86a7.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/bac3f732-b133-4e4d-8bdd-c42a60accb28.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12204",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 82554,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 45000,
+        "oldPrice": 55000,
+        "discountPercent": 18,
+        "stock": 20,
+        "totalSold": 0,
+        "unit": "1 kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Xương đuôi tươi ngon, sạch sẽ, đảm bảo VSATTP</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 211,
+      "sellerRate": 4.8,
+      "sellerName": "SONG ĐẠT FOOD",
+      "warehouseId": "548628ed-3795-4904-8d03-49872a76ced7",
+      "warehouseAddress": "19B Thanh Nhàn, Thanh Nhàn, Hai Bà Trưng, Hà Nội",
+      "distance": 3844,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 61.003368421053985,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 12207,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Thịt Heo Xay SĐ 1 KG",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Thịt xay SĐ</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/3fde1991-bbee-4fa3-93a1-d29c8e852cd0.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Thịt Heo Xay SĐ 1 KG",
+    "description": "<p>Thịt xay SĐ</p>",
+    "imageUrl": "https://images.f99.com.vn/images/3fde1991-bbee-4fa3-93a1-d29c8e852cd0.png",
+    "price": 95000,
+    "oldPrice": 150000,
+    "discountPercent": 37,
+    "stock": 100000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "1 kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 211,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Thịt xay SĐ</p>",
+    "category": {
+      "id": 122,
+      "name": "Trứng",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ea890f62-5847-463a-bc5a-897bb60f86a7.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/3fde1991-bbee-4fa3-93a1-d29c8e852cd0.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12207",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 82562,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 95000,
+        "oldPrice": 150000,
+        "discountPercent": 37,
+        "stock": 100000,
+        "totalSold": 0,
+        "unit": "1 kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Thịt xay SĐ</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 211,
+      "sellerRate": 4.8,
+      "sellerName": "SONG ĐẠT FOOD",
+      "warehouseId": "548628ed-3795-4904-8d03-49872a76ced7",
+      "warehouseAddress": "19B Thanh Nhàn, Thanh Nhàn, Hai Bà Trưng, Hà Nội",
+      "distance": 3844,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 61.003368421053985,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 12214,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Thăn Heo SĐ 300gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: var(--primary-text);\">Thăn Heo SĐ</strong></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/be85922f-7008-4e8e-9b9a-8d53c046d426.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Thăn Heo SĐ 300gr",
+    "description": "<p><strong style=\"color: var(--primary-text);\">Thăn Heo SĐ</strong></p>",
+    "imageUrl": "https://images.f99.com.vn/images/be85922f-7008-4e8e-9b9a-8d53c046d426.jpg",
+    "price": 57000,
+    "oldPrice": 65000,
+    "discountPercent": 12,
+    "stock": 100000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "300 gram",
+    "sku": "",
+    "origin": "",
+    "sellerId": 211,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><strong style=\"color: var(--primary-text);\">Thăn Heo SĐ</strong></p>",
+    "category": {
+      "id": 122,
+      "name": "Trứng",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ea890f62-5847-463a-bc5a-897bb60f86a7.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/be85922f-7008-4e8e-9b9a-8d53c046d426.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12214",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 211,
+      "sellerRate": 4.8,
+      "sellerName": "SONG ĐẠT FOOD",
+      "warehouseId": "548628ed-3795-4904-8d03-49872a76ced7",
+      "warehouseAddress": "19B Thanh Nhàn, Thanh Nhàn, Hai Bà Trưng, Hà Nội",
+      "distance": 3844,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 61.003368421053985,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 12216,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Sấn Vai Heo SĐ 500gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: var(--primary-text);\">Sấn Vai Heo SĐ</strong></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/8a166f70-44ab-471d-b845-d6b0a9f7ff63.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Sấn Vai Heo SĐ 500gr",
+    "description": "<p><strong style=\"color: var(--primary-text);\">Sấn Vai Heo SĐ</strong></p>",
+    "imageUrl": "https://images.f99.com.vn/images/8a166f70-44ab-471d-b845-d6b0a9f7ff63.png",
+    "price": 70000,
+    "oldPrice": 80000,
+    "discountPercent": 12,
+    "stock": 100000,
+    "totalSold": 14,
+    "maxQuantityPerUser": null,
+    "unit": "500 gram",
+    "sku": "",
+    "origin": "",
+    "sellerId": 211,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><strong style=\"color: var(--primary-text);\">Sấn Vai Heo SĐ</strong></p>",
+    "category": {
+      "id": 122,
+      "name": "Trứng",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ea890f62-5847-463a-bc5a-897bb60f86a7.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/8a166f70-44ab-471d-b845-d6b0a9f7ff63.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12216",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 211,
+      "sellerRate": 4.8,
+      "sellerName": "SONG ĐẠT FOOD",
+      "warehouseId": "548628ed-3795-4904-8d03-49872a76ced7",
+      "warehouseAddress": "19B Thanh Nhàn, Thanh Nhàn, Hai Bà Trưng, Hà Nội",
+      "distance": 3844,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 61.003368421053985,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 12217,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "300gr Nạc Vai Heo SĐ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: var(--primary-text);\">Nạc Vai Heo SĐ</strong></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/a5a43e72-bcd6-4ce1-b4a3-c14c2a2f0edd.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "300gr Nạc Vai Heo SĐ",
+    "description": "<p><strong style=\"color: var(--primary-text);\">Nạc Vai Heo SĐ</strong></p>",
+    "imageUrl": "https://images.f99.com.vn/images/a5a43e72-bcd6-4ce1-b4a3-c14c2a2f0edd.jpg",
+    "price": 57000,
+    "oldPrice": 66000,
+    "discountPercent": 14,
+    "stock": 100000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "300 gram",
+    "sku": "",
+    "origin": "",
+    "sellerId": 211,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><strong style=\"color: var(--primary-text);\">Nạc Vai Heo SĐ</strong></p>",
+    "category": {
+      "id": 122,
+      "name": "Trứng",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ea890f62-5847-463a-bc5a-897bb60f86a7.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/a5a43e72-bcd6-4ce1-b4a3-c14c2a2f0edd.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12217",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 211,
+      "sellerRate": 4.8,
+      "sellerName": "SONG ĐẠT FOOD",
+      "warehouseId": "548628ed-3795-4904-8d03-49872a76ced7",
+      "warehouseAddress": "19B Thanh Nhàn, Thanh Nhàn, Hai Bà Trưng, Hà Nội",
+      "distance": 3844,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 61.003368421053985,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 12218,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "300gr Nạc Dăm Heo SĐ (Thịt Vai Heo Đầu Giòn)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgb(5, 5, 5);\">Nạc Dăm Heo SĐ (Thịt Vai Heo Đầu Giòn)</strong></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/843c25a1-c531-4033-a941-b5fb26c958ba.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "300gr Nạc Dăm Heo SĐ (Thịt Vai Heo Đầu Giòn)",
+    "description": "<p><strong style=\"color: rgb(5, 5, 5);\">Nạc Dăm Heo SĐ (Thịt Vai Heo Đầu Giòn)</strong></p>",
+    "imageUrl": "https://images.f99.com.vn/images/843c25a1-c531-4033-a941-b5fb26c958ba.png",
+    "price": 60000,
+    "oldPrice": 70000,
+    "discountPercent": 14,
+    "stock": 100000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "300 gram",
+    "sku": "",
+    "origin": "",
+    "sellerId": 211,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><strong style=\"color: rgb(5, 5, 5);\">Nạc Dăm Heo SĐ (Thịt Vai Heo Đầu Giòn)</strong></p>",
+    "category": {
+      "id": 122,
+      "name": "Trứng",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ea890f62-5847-463a-bc5a-897bb60f86a7.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/843c25a1-c531-4033-a941-b5fb26c958ba.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12218",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 211,
+      "sellerRate": 4.8,
+      "sellerName": "SONG ĐẠT FOOD",
+      "warehouseId": "548628ed-3795-4904-8d03-49872a76ced7",
+      "warehouseAddress": "19B Thanh Nhàn, Thanh Nhàn, Hai Bà Trưng, Hà Nội",
+      "distance": 3844,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 61.003368421053985,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 12267,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "CÁNH GÀ KHÚC GIỮA",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgb(0, 0, 0);\">Cánh gà</strong><span style=\"color: rgb(0, 0, 0);\">&nbsp;chiên giòn có lẽ là món khoái khẩu của không ít bạn trẻ, đặc biệt phần khúc giữa của&nbsp;cánh gà&nbsp;được đánh giá là phần ngon nhất. Với độ nạc, mỡ, độ béo vừa phải không quá xương và không quá khô, hiện nay rất nhiều</span><a href=\"http://zinfood.com/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\"><strong><em>&nbsp;</em></strong></a>nhà cung cấp tp<strong><em> </em></strong><span style=\"color: rgb(0, 0, 0);\">đã cung cấp sản phẩm cánh khúc giữa được sơ chế riêng biệt giúp người tiêu dùng không cần phải băn khoăn khi lựa chọn thực phẩm. </span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/2e59a98b-9639-4873-9a96-4c83d108ec8b.jpg\",\"https://images.f99.com.vn/images/d224ce1e-ad33-4c0e-bea1-61c53f59d33c.jpg\",\"https://images.f99.com.vn/images/079d4830-c338-42cf-84de-c1e57666cc83.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "CÁNH GÀ KHÚC GIỮA",
+    "description": "<p><strong style=\"color: rgb(0, 0, 0);\">Cánh gà</strong><span style=\"color: rgb(0, 0, 0);\">&nbsp;chiên giòn có lẽ là món khoái khẩu của không ít bạn trẻ, đặc biệt phần khúc giữa của&nbsp;cánh gà&nbsp;được đánh giá là phần ngon nhất. Với độ nạc, mỡ, độ béo vừa phải không quá xương và không quá khô, hiện nay rất nhiều</span><a href=\"http://zinfood.com/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\"><strong><em>&nbsp;</em></strong></a>nhà cung cấp tp<strong><em> </em></strong><span style=\"color: rgb(0, 0, 0);\">đã cung cấp sản phẩm cánh khúc giữa được sơ chế riêng biệt giúp người tiêu dùng không cần phải băn khoăn khi lựa chọn thực phẩm. </span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/2e59a98b-9639-4873-9a96-4c83d108ec8b.jpg",
+    "price": 119000,
+    "oldPrice": 130000,
+    "discountPercent": 8,
+    "stock": 800,
+    "totalSold": 53,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "16",
+    "origin": "",
+    "sellerId": 199,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Đóng gói : 500gr/ khay</p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bảo Quản ở tủ đông, nhiệt độ -18 độ C trở lên và sử dụng 06 tháng kể từ ngày đóng gói</span></p>",
+    "category": {
+      "id": 122,
+      "name": "Trứng",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ea890f62-5847-463a-bc5a-897bb60f86a7.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/2e59a98b-9639-4873-9a96-4c83d108ec8b.jpg",
+      "https://images.f99.com.vn/images/d224ce1e-ad33-4c0e-bea1-61c53f59d33c.jpg",
+      "https://images.f99.com.vn/images/079d4830-c338-42cf-84de-c1e57666cc83.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12267",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg",
+          "500g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 13577,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 60000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 400,
+        "totalSold": 29,
+        "unit": "kg",
+        "sku": "16",
+        "rating": 0,
+        "instructions": "<p>Đóng gói : 500gr/ khay</p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bảo Quản ở tủ đông, nhiệt độ -18 độ C trở lên và sử dụng 06 tháng kể từ ngày đóng gói</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 13578,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 119000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 400,
+        "totalSold": 24,
+        "unit": "kg",
+        "sku": "16",
+        "rating": 0,
+        "instructions": "<p>Đóng gói : 500gr/ khay</p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bảo Quản ở tủ đông, nhiệt độ -18 độ C trở lên và sử dụng 06 tháng kể từ ngày đóng gói</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 199,
+      "sellerRate": 4.8,
+      "sellerName": "Gia Ngọc Food",
+      "warehouseId": "9c609183-75f3-4519-820d-7294582e0824",
+      "warehouseAddress": "cau giay, cau giay, Số 26 ngõ 115 nguyễn khang -cầu giấy -hà nội ",
+      "distance": 3625,
+      "warehouseDistrict": "cau giay",
+      "reputation": 79.89783769773578,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 12268,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "TỎI GÀ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Tỏi gà </span><em style=\"color: rgb(0, 0, 0);\">(Hay còn gọi là đùi gà non)</em><span style=\"color: rgb(0, 0, 0);\">&nbsp;là một trong những phần ngon nhất của con gà và có thể chế biến thành nhiều món ngon khác nhau. Với sự hoành hành của thực phẩm bẩn hiện nay&nbsp;lựa chọn được một nơi&nbsp;bán tỏi gà</span><strong style=\"color: rgb(0, 0, 0);\"><em>&nbsp;</em></strong><em style=\"color: rgb(0, 0, 0);\">ngon</em><span style=\"color: rgb(0, 0, 0);\">, chất lượng không phải là đơn giản.</span></p><p class=\"ql-align-justify\">Tỏi gà&nbsp;của chúng tôi với xuất xứ rõ ràng từ các thị trường xuất khẩu lớn trên thế giới như Brazil, Mỹ sẽ là sự lựa chọn thông minh của khách hàng.</p><p class=\"ql-align-justify\">- Thực phẩm của chúng tôi không có chất bảo bản, không phẩm màu hay bơm nước để làm tăng trọng lượng. Ngoài ra quá trình sản xuất và bảo quản đông lạnh theo tiêu chuẩn quốc tế nên sẽ giữ được mùi vị thơm ngon không khác gì gà tươi.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/7f67084c-4a9c-46ea-b537-6e66b552fb04.jpg\",\"https://images.f99.com.vn/images/5380127b-0ee2-4bb1-ab59-ff371030bee9.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "TỎI GÀ",
+    "description": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Tỏi gà </span><em style=\"color: rgb(0, 0, 0);\">(Hay còn gọi là đùi gà non)</em><span style=\"color: rgb(0, 0, 0);\">&nbsp;là một trong những phần ngon nhất của con gà và có thể chế biến thành nhiều món ngon khác nhau. Với sự hoành hành của thực phẩm bẩn hiện nay&nbsp;lựa chọn được một nơi&nbsp;bán tỏi gà</span><strong style=\"color: rgb(0, 0, 0);\"><em>&nbsp;</em></strong><em style=\"color: rgb(0, 0, 0);\">ngon</em><span style=\"color: rgb(0, 0, 0);\">, chất lượng không phải là đơn giản.</span></p><p class=\"ql-align-justify\">Tỏi gà&nbsp;của chúng tôi với xuất xứ rõ ràng từ các thị trường xuất khẩu lớn trên thế giới như Brazil, Mỹ sẽ là sự lựa chọn thông minh của khách hàng.</p><p class=\"ql-align-justify\">- Thực phẩm của chúng tôi không có chất bảo bản, không phẩm màu hay bơm nước để làm tăng trọng lượng. Ngoài ra quá trình sản xuất và bảo quản đông lạnh theo tiêu chuẩn quốc tế nên sẽ giữ được mùi vị thơm ngon không khác gì gà tươi.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/7f67084c-4a9c-46ea-b537-6e66b552fb04.jpg",
+    "price": 69000,
+    "oldPrice": 80000,
+    "discountPercent": 14,
+    "stock": 800,
+    "totalSold": 73,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "17",
+    "origin": "",
+    "sellerId": 199,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>ĐÓng gói : 500gr / khay</p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo Quản ở tủ đông, nhiệt độ -18 độ C trở lên và sử dụng 06 tháng kể từ ngày đóng gói</span></p>",
+    "category": {
+      "id": 122,
+      "name": "Trứng",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ea890f62-5847-463a-bc5a-897bb60f86a7.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/7f67084c-4a9c-46ea-b537-6e66b552fb04.jpg",
+      "https://images.f99.com.vn/images/5380127b-0ee2-4bb1-ab59-ff371030bee9.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12268",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg",
+          "500g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 13579,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 35000,
+        "oldPrice": 80000,
+        "discountPercent": 56,
+        "stock": 400,
+        "totalSold": 36,
+        "unit": "kg",
+        "sku": "17",
+        "rating": 0,
+        "instructions": "<p>ĐÓng gói : 500gr / khay</p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo Quản ở tủ đông, nhiệt độ -18 độ C trở lên và sử dụng 06 tháng kể từ ngày đóng gói</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 13580,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 69000,
+        "oldPrice": 80000,
+        "discountPercent": 14,
+        "stock": 400,
+        "totalSold": 37,
+        "unit": "kg",
+        "sku": "17",
+        "rating": 0,
+        "instructions": "<p>ĐÓng gói : 500gr / khay</p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo Quản ở tủ đông, nhiệt độ -18 độ C trở lên và sử dụng 06 tháng kể từ ngày đóng gói</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 199,
+      "sellerRate": 4.8,
+      "sellerName": "Gia Ngọc Food",
+      "warehouseId": "9c609183-75f3-4519-820d-7294582e0824",
+      "warehouseAddress": "cau giay, cau giay, Số 26 ngõ 115 nguyễn khang -cầu giấy -hà nội ",
+      "distance": 3625,
+      "warehouseDistrict": "cau giay",
+      "reputation": 79.89783769773578,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

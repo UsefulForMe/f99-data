@@ -1,0 +1,35 @@
+{
+  "id": 901,
+  "name": "Đức Nguyên Mart",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/625d90d2-cf55-47df-b20e-88ce69c5f2a7.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Bán mật ong, sữa bột thực vật, sữa hạt, nước mắm",
+  "headQuarter": "157/31 Bùi Minh Trực, 5, Quận 8, Hồ Chí Minh",
+  "email": "ducnguyenmarket@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

@@ -1,0 +1,795 @@
+[
+  {
+    "id": 21344,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Ruột ốc móng tay làm sạch",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>#RUỘT_ỐC_MÓNG_TAY LÀM SẠCH.</p><p>&nbsp;👉👉👉 #130k/kg _ Hàng đủ cân ko mạ đá .</p><p><br></p><p>Món ngon đây cả nhà ơi, lâu lắm mới có mẻ ruột to ngon như này phục vụ khách hàng 😆</p><p><br></p><p>Ruột ốc móng tay xào với cọng rau muống giòn tan _ thịt ốc thì dai ngọt 😋 hoặc nấu canh chua , xào bơ tỏi và rất nhiều món khác ...</p><p>👉👉👉Nguyên liệu chỉ cần : 1 mớ rau muống bỏ lá lấy cọng, 500gr ruột ốc, tỏi, lạc vừa đủ, thêm ít hành khô là có món ăn lạ miệng ngon chất lượng !</p><p><br></p><p>☎️ 0968634515 _ 0384724485</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/e595a333-b003-4a24-8db2-96b0eebbcce8.jpg\",\"https://images.f99.com.vn/images/bdb624f2-1c6d-43fd-8d12-537ae20f7d0d.jpg\",\"https://images.f99.com.vn/images/492aca02-d88a-4928-b981-3eb479ec765c.jpg\",\"https://images.f99.com.vn/images/afc9ff99-7cff-4773-829e-22d159c3b026.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Ruột ốc móng tay làm sạch",
+    "description": "<p>#RUỘT_ỐC_MÓNG_TAY LÀM SẠCH.</p><p>&nbsp;👉👉👉 #130k/kg _ Hàng đủ cân ko mạ đá .</p><p><br></p><p>Món ngon đây cả nhà ơi, lâu lắm mới có mẻ ruột to ngon như này phục vụ khách hàng 😆</p><p><br></p><p>Ruột ốc móng tay xào với cọng rau muống giòn tan _ thịt ốc thì dai ngọt 😋 hoặc nấu canh chua , xào bơ tỏi và rất nhiều món khác ...</p><p>👉👉👉Nguyên liệu chỉ cần : 1 mớ rau muống bỏ lá lấy cọng, 500gr ruột ốc, tỏi, lạc vừa đủ, thêm ít hành khô là có món ăn lạ miệng ngon chất lượng !</p><p><br></p><p>☎️ 0968634515 _ 0384724485</p>",
+    "imageUrl": "https://images.f99.com.vn/images/e595a333-b003-4a24-8db2-96b0eebbcce8.jpg",
+    "price": 130000,
+    "oldPrice": 160000,
+    "discountPercent": 19,
+    "stock": 50,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "199",
+    "origin": "",
+    "sellerId": 338,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>ngawn mát hoặc đông</p>",
+    "category": {
+      "id": 144,
+      "name": "Ốc ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/91bc9174-64ae-4cac-b57a-4afbea7dcfa5.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/e595a333-b003-4a24-8db2-96b0eebbcce8.jpg",
+      "https://images.f99.com.vn/images/bdb624f2-1c6d-43fd-8d12-537ae20f7d0d.jpg",
+      "https://images.f99.com.vn/images/492aca02-d88a-4928-b981-3eb479ec765c.jpg",
+      "https://images.f99.com.vn/images/afc9ff99-7cff-4773-829e-22d159c3b026.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/21344",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 70219,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 130000,
+        "oldPrice": 160000,
+        "discountPercent": 19,
+        "stock": 50,
+        "totalSold": 1,
+        "unit": "1kg",
+        "sku": "199",
+        "rating": 0,
+        "instructions": "<p>ngawn mát hoặc đông</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 338,
+      "sellerRate": 3.9,
+      "sellerName": "TRANG BEOBEO",
+      "warehouseId": "2b2702aa-e1a6-4009-9099-0413b1647dfa",
+      "warehouseAddress": "60 ngõ 521 Cổ Nhuế 2, Cổ Nhuế 2, Bắc Từ Liêm , Hà Nội",
+      "distance": 7506,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 54.3679865319866,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 58567,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "[Hải sản] Ốc Bulot Pháp ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h2>Loài ốc hiếm của vùng&nbsp;biển Normandy</h2><p>Ở Normandy, ốc bulot được xếp vào danh sách các loại hải sản phát triển bền vững và phải tuân thủ quy định nghiêm ngặt về đánh bắt. Một tàu đánh bắt không được quá 3 ngư dân và mỗi ngư dân không được đánh bắt quá 300kg/ngày. Chính vì chính sách ngặt nghèo này mà lượng cung ốc bulot Pháp rất ít nhưng loài ốc ngon có tiếng ở đây được bảo tồn và khai thác bền vững.</p><p><strong>Vị ngon không thể so sánh</strong></p><p>Ốc bulot có cơ thịt rất nhiều, vị ngọt đậm kết hợp vị mặn đặc trưng của vùng biển Normandy khác hẳn với những loại ốc khác. Ăn thử một con ốc là có thể cảm nhận được vị giòn, dai, ngọt, mặn mà bạn biết ngay chỉ có thể có được ở ốc bulot từ Châu Âu, Sống ở vùng biển rất sạch, chỉ ăn tảo sạch nên ốc bulot sạch từ vỏ (không hề bám rong rêu) đến ruột (gan nhẵn mịn). Vì thế khêu một chú ốc bulot, cần thật sự kiên nhẫn xoay vòng từng chút một sao cho lấy được toàn bộ, không để phí một chút nào của loài ốc tuyệt ngon này.</p><p><strong>Công nghệ chế biến tiên tiến của Châu Âu</strong></p><p>Đi cùng với chính sách phát triển bền vững, ốc bulot còn may mắn được áp dụng quy trình chế biến tiên tiến của châu Âu. Sau khi đánh bắt, ốc được xử lý sạch cát và ngay lập tức được sốc nhiệt ở nhiệt độ -10 độ C. Sau đó ngư dân tiến hành hấp trong môi trường vô trùng rồi lại cấp đông nhanh vào tâm sản phẩm ở nhiệt độ -40 độ C. Quy trình này giúp cho thịt ốc vẫn giữ được độ dai giòn, tươi ngon gần như không đổi. Khi ăn ốc bulot, thực khách vẫn cảm nhận được vị mặn mòi, sạch sẽ và trong lành của vùng biển Châu Âu.</p><p><strong>Món ăn của gia đình, đơn giản ngay từ lần nấu đầu tiên</strong></p><p>Ốc bulot có cách chế biến và sử dụng còn dễ dàng hơn so với các loại ốc khác. Do ốc đã được làm sạch và hấp, sau khi rã đông thực khách hoàn toàn có thể ăn ngay để cảm nhận vị tươi ngon trọn vẹn của hải sản nổi tiếng nhất tại Pháp. Nếu muốn ăn nóng, ốc bulot có thể được hấp cách thủy, trộn gỏi, xào bơ tỏi hay xào với nui đều rất ngon và thể hiện vị đặc trưng.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/469fe227-a5df-470b-bc5b-2b595a824b64.jpeg\",\"https://images.f99.com.vn/images/3f6f0a46-4ee1-453e-a1e2-e90908b3eb98.jpeg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Ốc\",\"Ốc hương\",\"Ốc bulot\",\"Ốc Bulot Pháp\",\"Hải sản ăn liền\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "[Hải sản] Ốc Bulot Pháp ",
+    "description": "<h2>Loài ốc hiếm của vùng&nbsp;biển Normandy</h2><p>Ở Normandy, ốc bulot được xếp vào danh sách các loại hải sản phát triển bền vững và phải tuân thủ quy định nghiêm ngặt về đánh bắt. Một tàu đánh bắt không được quá 3 ngư dân và mỗi ngư dân không được đánh bắt quá 300kg/ngày. Chính vì chính sách ngặt nghèo này mà lượng cung ốc bulot Pháp rất ít nhưng loài ốc ngon có tiếng ở đây được bảo tồn và khai thác bền vững.</p><p><strong>Vị ngon không thể so sánh</strong></p><p>Ốc bulot có cơ thịt rất nhiều, vị ngọt đậm kết hợp vị mặn đặc trưng của vùng biển Normandy khác hẳn với những loại ốc khác. Ăn thử một con ốc là có thể cảm nhận được vị giòn, dai, ngọt, mặn mà bạn biết ngay chỉ có thể có được ở ốc bulot từ Châu Âu, Sống ở vùng biển rất sạch, chỉ ăn tảo sạch nên ốc bulot sạch từ vỏ (không hề bám rong rêu) đến ruột (gan nhẵn mịn). Vì thế khêu một chú ốc bulot, cần thật sự kiên nhẫn xoay vòng từng chút một sao cho lấy được toàn bộ, không để phí một chút nào của loài ốc tuyệt ngon này.</p><p><strong>Công nghệ chế biến tiên tiến của Châu Âu</strong></p><p>Đi cùng với chính sách phát triển bền vững, ốc bulot còn may mắn được áp dụng quy trình chế biến tiên tiến của châu Âu. Sau khi đánh bắt, ốc được xử lý sạch cát và ngay lập tức được sốc nhiệt ở nhiệt độ -10 độ C. Sau đó ngư dân tiến hành hấp trong môi trường vô trùng rồi lại cấp đông nhanh vào tâm sản phẩm ở nhiệt độ -40 độ C. Quy trình này giúp cho thịt ốc vẫn giữ được độ dai giòn, tươi ngon gần như không đổi. Khi ăn ốc bulot, thực khách vẫn cảm nhận được vị mặn mòi, sạch sẽ và trong lành của vùng biển Châu Âu.</p><p><strong>Món ăn của gia đình, đơn giản ngay từ lần nấu đầu tiên</strong></p><p>Ốc bulot có cách chế biến và sử dụng còn dễ dàng hơn so với các loại ốc khác. Do ốc đã được làm sạch và hấp, sau khi rã đông thực khách hoàn toàn có thể ăn ngay để cảm nhận vị tươi ngon trọn vẹn của hải sản nổi tiếng nhất tại Pháp. Nếu muốn ăn nóng, ốc bulot có thể được hấp cách thủy, trộn gỏi, xào bơ tỏi hay xào với nui đều rất ngon và thể hiện vị đặc trưng.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/469fe227-a5df-470b-bc5b-2b595a824b64.jpeg",
+    "price": 330000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 4000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 875,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ở ngăn đá -18 độ C</p>",
+    "category": {
+      "id": 144,
+      "name": "Ốc ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/91bc9174-64ae-4cac-b57a-4afbea7dcfa5.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Ốc",
+      "Ốc hương",
+      "Ốc bulot",
+      "Ốc Bulot Pháp",
+      "Hải sản ăn liền"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/469fe227-a5df-470b-bc5b-2b595a824b64.jpeg",
+      "https://images.f99.com.vn/images/3f6f0a46-4ee1-453e-a1e2-e90908b3eb98.jpeg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/58567",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg",
+          "250g",
+          "500g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 87119,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "250g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "250g",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "250g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 90000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 1000,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ở ngăn đá -18 độ C</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "250g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 87120,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 175000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 1000,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ở ngăn đá -18 độ C</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 88665,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 330000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 1000,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ở ngăn đá -18 độ C</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": true,
+        "id": 88666,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg - xuống mã",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 330000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 1000,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "XM-",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ở ngăn đá -18 độ C</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 875,
+      "sellerRate": 4.3,
+      "sellerName": "Ben Food",
+      "warehouseId": "fa28f88c-b82e-4bf0-9a43-d865f449c9e5",
+      "warehouseAddress": " Hà Nội,  Cầu Giấy,  Yên Hòa, Số 8 Hạ Yên",
+      "distance": 3811,
+      "warehouseDistrict": "cau giay",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 87597,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Ốc hương biển size to 50c/kg",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>ốc hương biển hấp rất thơm ngon, chuẩn 100% bắt từ biển mình to sẫm</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/f4c52ea3-ca52-4bad-b9bf-1ba5084794aa.jpg\",\"https://images.f99.com.vn/images/4f3abd0f-5549-4a01-b19d-089d727081bd.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Ốc hương biển size to 50c/kg",
+    "description": "<p>ốc hương biển hấp rất thơm ngon, chuẩn 100% bắt từ biển mình to sẫm</p>",
+    "imageUrl": "https://images.f99.com.vn/images/f4c52ea3-ca52-4bad-b9bf-1ba5084794aa.jpg",
+    "price": 500000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 20,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 685,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 144,
+      "name": "Ốc ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/91bc9174-64ae-4cac-b57a-4afbea7dcfa5.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/f4c52ea3-ca52-4bad-b9bf-1ba5084794aa.jpg",
+      "https://images.f99.com.vn/images/4f3abd0f-5549-4a01-b19d-089d727081bd.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/87597",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 87598,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 500000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 20,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 685,
+      "sellerRate": 4.2,
+      "sellerName": "Huyền Xù Hải Sản Trà Cổ - Quảng Ninh",
+      "warehouseId": "765af680-839f-4d79-a1a8-8a387a4a66ae",
+      "warehouseAddress": " Hà Nội,  Thanh Xuân,  Thượng Đình, 54 Khương Đình",
+      "distance": 3949,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": 407,
+  "name": "Trang trại quê - Long Phượng",
+  "logo": "https://cdn.f99.link/groupbuy-images/7e4400d4-5d4e-4ad3-97b3-0cc2f2b01388.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Farmer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Trang Trại Long Phượng - Chuyên cung cấp các thực phẩm từ chim, bổ dưỡng sức khỏe cho người tiêu dùng",
+  "headQuarter": "Ngọc Lũ, Bình Lục, Hà Nam",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.8,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 23
+}

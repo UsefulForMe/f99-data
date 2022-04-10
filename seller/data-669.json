@@ -1,0 +1,35 @@
+{
+  "id": 669,
+  "name": "TRÀ SỮA CHUẨN VỊ",
+  "logo": "https://cdn.f99.link/groupbuy-images/a11adc3b-7b5d-4fda-8e57-d207c04462f3.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên các loại trà sữa – trà sữa chuẩn vị - đảm bảo ngon – an toàn vệ sinh",
+  "headQuarter": "46/1 Huỳnh Khương An, 5, Gò Vấp, Hồ Chí Minh",
+  "email": "ngocnga0684@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

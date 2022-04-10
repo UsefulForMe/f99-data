@@ -1,0 +1,35 @@
+{
+  "id": 623,
+  "name": "THANH NHÀN FOOD - Giò Chả, Bún Tươi",
+  "logo": "https://cdn.f99.link/groupbuy-images/33e25b20-8bdf-40bf-ae42-1367694a2fe6.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cơ sở sản xuất thực phẩm Thanh Nhàn với hơn 20 năm kinh nghiệm, chuyên sản xuất và phân phối các sản phẩm chất lượng, đảm bảo ATVSTP.\nChúng tôi phân phối đến các tỉnh trên toàn quốc với chính sách ưu đãi hấp dẫn.",
+  "headQuarter": "69/39 Trương Đình Hội, 16, Quận 8, Hồ Chí Minh",
+  "email": "vuminhchimar@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.4,
+  "availableTime": {
+    "openTime": "06:00",
+    "closeTime": "22:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 7
+}

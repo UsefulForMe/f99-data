@@ -1,0 +1,2918 @@
+[
+  {
+    "id": 7857,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Nước Gạo Hàn Quốc",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgb(230, 0, 0);\">Shop sẽ cân lại và thông báo cho khách hàng khối lượng và giá tiền theo thực tế sản phẩm.</strong></p><p><br></p><p><img src=\"https://images.f99.com.vn/images/d7d79f0e-6ab7-4e7d-811c-e385a6f460eb.jpg\"></p><p><br></p><p><strong>GIÁ TRỊ DINH DƯỠNG:</strong></p><p><br></p><p><strong style=\"color: rgb(17, 17, 17);\"> </strong>✔️ <span style=\"color: rgb(17, 17, 17);\">Cung cấp dinh dưỡng ,</span><span style=\"color: rgb(61, 61, 61);\">Nước gạo Hàn Quốc có chứa rất nhiều vitamin cùng khoáng chất giúp bồi bổ cơ thể cho người ốm, mệt mỏi hay giúp cho bạn có nhiều năng lượng hơn cho một ngày làm việc căng thẳng.</span></p><p><br></p><p>✔️ <span style=\"color: rgb(17, 17, 17);\">Giảm stress, chống mất ngủ, </span><span style=\"color: rgb(61, 61, 61);\">giúp định tâm an thần, ngăn ngừa tình trạng mất ngủ kéo dài.</span></p><p><br></p><p>✔️ <span style=\"color: rgb(17, 17, 17);\">&nbsp;Làm đẹp và chống lão hóa da, </span><span style=\"color: rgb(61, 61, 61);\">cung cấp đầy đủ vitamin và khoáng chất giúp làn da luôn khỏe mạnh căng tràn sức sống.</span></p><p><br></p><p>✔️<span style=\"color: rgb(17, 17, 17);\">&nbsp;Giảm béo hiệu quả ,</span><span style=\"color: rgb(61, 61, 61);\">đáp ứng đủ nhu cầu dinh dưỡng của bạn mà lại không hề khiến bạn tăng cân.</span></p><p><span style=\"color: rgb(17, 17, 17);\">&nbsp;</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/4b93355d-7f3a-4a46-af84-fb09bc3bb4bb.jpg\",\"https://images.f99.com.vn/images/72e53a6a-3524-4297-bd98-b4fc3539b9be.jpg\",\"https://images.f99.com.vn/images/cd42b286-1463-4b34-923c-c0b3ac0bded3.jpg\",\"https://images.f99.com.vn/images/a470b14b-6693-481f-9269-9c4177a68bcc.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"nước gạo\",\"nước gạo hàn quốc\",\"sữa gạo\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Nước Gạo Hàn Quốc",
+    "description": "<p><strong style=\"color: rgb(230, 0, 0);\">Shop sẽ cân lại và thông báo cho khách hàng khối lượng và giá tiền theo thực tế sản phẩm.</strong></p><p><br></p><p><img src=\"https://images.f99.com.vn/images/d7d79f0e-6ab7-4e7d-811c-e385a6f460eb.jpg\"></p><p><br></p><p><strong>GIÁ TRỊ DINH DƯỠNG:</strong></p><p><br></p><p><strong style=\"color: rgb(17, 17, 17);\"> </strong>✔️ <span style=\"color: rgb(17, 17, 17);\">Cung cấp dinh dưỡng ,</span><span style=\"color: rgb(61, 61, 61);\">Nước gạo Hàn Quốc có chứa rất nhiều vitamin cùng khoáng chất giúp bồi bổ cơ thể cho người ốm, mệt mỏi hay giúp cho bạn có nhiều năng lượng hơn cho một ngày làm việc căng thẳng.</span></p><p><br></p><p>✔️ <span style=\"color: rgb(17, 17, 17);\">Giảm stress, chống mất ngủ, </span><span style=\"color: rgb(61, 61, 61);\">giúp định tâm an thần, ngăn ngừa tình trạng mất ngủ kéo dài.</span></p><p><br></p><p>✔️ <span style=\"color: rgb(17, 17, 17);\">&nbsp;Làm đẹp và chống lão hóa da, </span><span style=\"color: rgb(61, 61, 61);\">cung cấp đầy đủ vitamin và khoáng chất giúp làn da luôn khỏe mạnh căng tràn sức sống.</span></p><p><br></p><p>✔️<span style=\"color: rgb(17, 17, 17);\">&nbsp;Giảm béo hiệu quả ,</span><span style=\"color: rgb(61, 61, 61);\">đáp ứng đủ nhu cầu dinh dưỡng của bạn mà lại không hề khiến bạn tăng cân.</span></p><p><span style=\"color: rgb(17, 17, 17);\">&nbsp;</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/4b93355d-7f3a-4a46-af84-fb09bc3bb4bb.jpg",
+    "price": 29000,
+    "oldPrice": 45000,
+    "discountPercent": 36,
+    "stock": 60,
+    "totalSold": 540,
+    "maxQuantityPerUser": null,
+    "unit": "chai",
+    "sku": "",
+    "origin": "",
+    "sellerId": 96,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 425,
+    "instructions": "<p>HƯỚNG DẪN SỬ DỤNG :</p><p><br></p><p>✔️ Nếu bạn sử dụng nước gạo để giảm cân : 200-500ml/ ngày thay thế cho các bữa ăn nhẹ.</p><p><br></p><p>✔️ Nếu bạn sử dụng nước gạo để điều trị chứng mất ngủ kéo dài thì nên uống 1 cốc trước khi ngủ 1h.</p><p><br></p><p>✔️ Bảo quản trong ngăn mát tủ lạnh sẽ tăng vị ngon, sau khi mở nắp dùng trong 48h.</p>",
+    "category": {
+      "id": 118,
+      "name": "Đồ uống BS",
+      "imageUrl": "https://images.f99.com.vn/notification-images/600aff1e-054f-4644-bd94-1f4332330723.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "nước gạo",
+      "nước gạo hàn quốc",
+      "sữa gạo"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/4b93355d-7f3a-4a46-af84-fb09bc3bb4bb.jpg",
+      "https://images.f99.com.vn/images/72e53a6a-3524-4297-bd98-b4fc3539b9be.jpg",
+      "https://images.f99.com.vn/images/cd42b286-1463-4b34-923c-c0b3ac0bded3.jpg",
+      "https://images.f99.com.vn/images/a470b14b-6693-481f-9269-9c4177a68bcc.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7857",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1chai",
+          "3 chai",
+          "5chai"
+        ]
+      },
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "0,5 lít",
+          "1.5l"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 7858,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "0,5 lít / 1chai",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1chai",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "0,5 lít",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "0,5 lít / 1chai",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 29000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 90,
+        "unit": "chai",
+        "sku": "",
+        "rating": 425,
+        "instructions": "<p>HƯỚNG DẪN SỬ DỤNG :</p><p><br></p><p>✔️ Nếu bạn sử dụng nước gạo để giảm cân : 200-500ml/ ngày thay thế cho các bữa ăn nhẹ.</p><p><br></p><p>✔️ Nếu bạn sử dụng nước gạo để điều trị chứng mất ngủ kéo dài thì nên uống 1 cốc trước khi ngủ 1h.</p><p><br></p><p>✔️ Bảo quản trong ngăn mát tủ lạnh sẽ tăng vị ngon, sau khi mở nắp dùng trong 48h.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1chai"
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "0,5 lít"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 7859,
+        "attributeTextValues": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1chai",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1.5l",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1.5l / 1chai",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1.5l / 1chai",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 59000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 90,
+        "unit": "chai",
+        "sku": "",
+        "rating": 425,
+        "instructions": "<p>HƯỚNG DẪN SỬ DỤNG :</p><p><br></p><p>✔️ Nếu bạn sử dụng nước gạo để giảm cân : 200-500ml/ ngày thay thế cho các bữa ăn nhẹ.</p><p><br></p><p>✔️ Nếu bạn sử dụng nước gạo để điều trị chứng mất ngủ kéo dài thì nên uống 1 cốc trước khi ngủ 1h.</p><p><br></p><p>✔️ Bảo quản trong ngăn mát tủ lạnh sẽ tăng vị ngon, sau khi mở nắp dùng trong 48h.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1chai"
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1.5l"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 7860,
+        "attributeTextValues": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "3 chai",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "0,5 lít",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "0,5 lít / 3 chai",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "0,5 lít / 3 chai",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 83000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 90,
+        "unit": "chai",
+        "sku": "",
+        "rating": 425,
+        "instructions": "<p>HƯỚNG DẪN SỬ DỤNG :</p><p><br></p><p>✔️ Nếu bạn sử dụng nước gạo để giảm cân : 200-500ml/ ngày thay thế cho các bữa ăn nhẹ.</p><p><br></p><p>✔️ Nếu bạn sử dụng nước gạo để điều trị chứng mất ngủ kéo dài thì nên uống 1 cốc trước khi ngủ 1h.</p><p><br></p><p>✔️ Bảo quản trong ngăn mát tủ lạnh sẽ tăng vị ngon, sau khi mở nắp dùng trong 48h.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "3 chai"
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "0,5 lít"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 7861,
+        "attributeTextValues": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "3 chai",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1.5l",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1.5l / 3 chai",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1.5l / 3 chai",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 169000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 90,
+        "unit": "chai",
+        "sku": "",
+        "rating": 425,
+        "instructions": "<p>HƯỚNG DẪN SỬ DỤNG :</p><p><br></p><p>✔️ Nếu bạn sử dụng nước gạo để giảm cân : 200-500ml/ ngày thay thế cho các bữa ăn nhẹ.</p><p><br></p><p>✔️ Nếu bạn sử dụng nước gạo để điều trị chứng mất ngủ kéo dài thì nên uống 1 cốc trước khi ngủ 1h.</p><p><br></p><p>✔️ Bảo quản trong ngăn mát tủ lạnh sẽ tăng vị ngon, sau khi mở nắp dùng trong 48h.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "3 chai"
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1.5l"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 7862,
+        "attributeTextValues": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "5chai",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "0,5 lít",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "0,5 lít / 5chai",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "0,5 lít / 5chai",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 135000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 90,
+        "unit": "chai",
+        "sku": "",
+        "rating": 425,
+        "instructions": "<p>HƯỚNG DẪN SỬ DỤNG :</p><p><br></p><p>✔️ Nếu bạn sử dụng nước gạo để giảm cân : 200-500ml/ ngày thay thế cho các bữa ăn nhẹ.</p><p><br></p><p>✔️ Nếu bạn sử dụng nước gạo để điều trị chứng mất ngủ kéo dài thì nên uống 1 cốc trước khi ngủ 1h.</p><p><br></p><p>✔️ Bảo quản trong ngăn mát tủ lạnh sẽ tăng vị ngon, sau khi mở nắp dùng trong 48h.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "5chai"
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "0,5 lít"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 7863,
+        "attributeTextValues": [
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1.5l / 5chai",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1.5l",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "5chai",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1.5l / 5chai",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 283000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 90,
+        "unit": "chai",
+        "sku": "",
+        "rating": 425,
+        "instructions": "<p>HƯỚNG DẪN SỬ DỤNG :</p><p><br></p><p>✔️ Nếu bạn sử dụng nước gạo để giảm cân : 200-500ml/ ngày thay thế cho các bữa ăn nhẹ.</p><p><br></p><p>✔️ Nếu bạn sử dụng nước gạo để điều trị chứng mất ngủ kéo dài thì nên uống 1 cốc trước khi ngủ 1h.</p><p><br></p><p>✔️ Bảo quản trong ngăn mát tủ lạnh sẽ tăng vị ngon, sau khi mở nắp dùng trong 48h.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1.5l"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "5chai"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 96,
+      "sellerRate": 4.4,
+      "sellerName": "Ánh Vy Fruit",
+      "warehouseId": "4ead612c-994e-4201-ab8c-583f2ba5437c",
+      "warehouseAddress": "10 Nguyễn Khánh Toàn, phường Quan Hoa, quận Cầu Giấy, Hà Nội ",
+      "distance": 3233,
+      "warehouseDistrict": "cau giay",
+      "reputation": 76.48368498960507,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7927,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Nước tăng lực RedBull 250ml",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/a58d79422bf441f9864e3770f3b40ab9.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Nước tăng lực RedBull 250ml",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/a58d79422bf441f9864e3770f3b40ab9.jpg",
+    "price": 12000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 33,
+    "maxQuantityPerUser": null,
+    "unit": "Lon",
+    "sku": "8935112200005",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 118,
+      "name": "Đồ uống BS",
+      "imageUrl": "https://images.f99.com.vn/notification-images/600aff1e-054f-4644-bd94-1f4332330723.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/a58d79422bf441f9864e3770f3b40ab9.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7927",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7933,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Nước uống Good Mood 455ml",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/2eb2ebf290454a649b5c3f60100eb61d.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Nước uống Good Mood 455ml",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/2eb2ebf290454a649b5c3f60100eb61d.png",
+    "price": 8000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 24,
+    "maxQuantityPerUser": null,
+    "unit": "Chai",
+    "sku": "8934588503054",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 118,
+      "name": "Đồ uống BS",
+      "imageUrl": "https://images.f99.com.vn/notification-images/600aff1e-054f-4644-bd94-1f4332330723.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/2eb2ebf290454a649b5c3f60100eb61d.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7933",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7935,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Nước ngọt 1.5 lít",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/575f91aaec134280a17bd1171674590e.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Nước ngọt 1.5 lít",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/575f91aaec134280a17bd1171674590e.png",
+    "price": 20000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 7,
+    "maxQuantityPerUser": null,
+    "unit": "Chai",
+    "sku": "8934588013065",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 118,
+      "name": "Đồ uống BS",
+      "imageUrl": "https://images.f99.com.vn/notification-images/600aff1e-054f-4644-bd94-1f4332330723.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/575f91aaec134280a17bd1171674590e.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7935",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7936,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Nước ngọt 7 up 1.5lít",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Nước ngọt 7 up 1.5lítNước ngọt 7 up 1.5lít</p><p>Nước ngọt 7 up 1.5lítNước ngọt 7 up 1.5lít</p><p>Nước ngọt 7 up 1.5lítNước ngọt 7 up 1.5lít</p><p>Nước ngọt 7 up 1.5lítNước ngọt 7 up 1.5lít</p><p>Nước ngọt 7 up 1.5lítNước ngọt 7 up 1.5lít</p><p>Nước ngọt 7 up 1.5lítNước ngọt 7 up 1.5lít</p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/8933c6e4ae584c97bccb061029a948c4.jpg\",\"https://images.f99.com.vn/images/724a4721-5c74-446d-9130-663f0ec4ce78.jpg\",\"https://images.f99.com.vn/images/559dce38-a10f-45eb-82e3-7755cbdac94f.jpg\",\"https://images.f99.com.vn/images/027fdf48-af57-43ac-ba2c-dbb4bca9e86a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Nước ngọt 7 up 1.5lít",
+    "description": "<p>Nước ngọt 7 up 1.5lítNước ngọt 7 up 1.5lít</p><p>Nước ngọt 7 up 1.5lítNước ngọt 7 up 1.5lít</p><p>Nước ngọt 7 up 1.5lítNước ngọt 7 up 1.5lít</p><p>Nước ngọt 7 up 1.5lítNước ngọt 7 up 1.5lít</p><p>Nước ngọt 7 up 1.5lítNước ngọt 7 up 1.5lít</p><p>Nước ngọt 7 up 1.5lítNước ngọt 7 up 1.5lít</p><p><br></p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/8933c6e4ae584c97bccb061029a948c4.jpg",
+    "price": 20000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Chai",
+    "sku": "8934588023064",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 118,
+      "name": "Đồ uống BS",
+      "imageUrl": "https://images.f99.com.vn/notification-images/600aff1e-054f-4644-bd94-1f4332330723.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/8933c6e4ae584c97bccb061029a948c4.jpg",
+      "https://images.f99.com.vn/images/724a4721-5c74-446d-9130-663f0ec4ce78.jpg",
+      "https://images.f99.com.vn/images/559dce38-a10f-45eb-82e3-7755cbdac94f.jpg",
+      "https://images.f99.com.vn/images/027fdf48-af57-43ac-ba2c-dbb4bca9e86a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7936",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Chai"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 96926,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Chai",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Chai",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Chai",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 20000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 200,
+        "totalSold": 0,
+        "unit": "Chai",
+        "sku": "8934588023064",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Chai"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7937,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Nước Gạo Rang TH 300ml",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>s</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/f9744735dc164f2a9f37fb849f9c1fe3.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Nước Gạo Rang TH 300ml",
+    "description": "<p>s</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/f9744735dc164f2a9f37fb849f9c1fe3.png",
+    "price": 13000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 5,
+    "maxQuantityPerUser": null,
+    "unit": "Chai",
+    "sku": "8936127790147",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p>s</p>",
+    "category": {
+      "id": 118,
+      "name": "Đồ uống BS",
+      "imageUrl": "https://images.f99.com.vn/notification-images/600aff1e-054f-4644-bd94-1f4332330723.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/f9744735dc164f2a9f37fb849f9c1fe3.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7937",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7938,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Nước Gạo Lứt Đỏ TH 300ml",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/9a0321815cbf42569a74efcb4579d8ef.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Nước Gạo Lứt Đỏ TH 300ml",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/9a0321815cbf42569a74efcb4579d8ef.png",
+    "price": 13000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Chai",
+    "sku": "8936127790246",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 118,
+      "name": "Đồ uống BS",
+      "imageUrl": "https://images.f99.com.vn/notification-images/600aff1e-054f-4644-bd94-1f4332330723.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/9a0321815cbf42569a74efcb4579d8ef.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7938",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7939,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Nước uống Goodmood 455ml",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/19497a6d7154400897d81682f3bf9cbe.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Nước uống Goodmood 455ml",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/19497a6d7154400897d81682f3bf9cbe.jpg",
+    "price": 8000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 9,
+    "maxQuantityPerUser": null,
+    "unit": "Chai",
+    "sku": "8934588603051",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 118,
+      "name": "Đồ uống BS",
+      "imageUrl": "https://images.f99.com.vn/notification-images/600aff1e-054f-4644-bd94-1f4332330723.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/19497a6d7154400897d81682f3bf9cbe.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7939",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8305,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Phấn hoa Tam Đảo 300gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/911df7bea891459293d656e4d8b731e8.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Phấn hoa Tam Đảo 300gr",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/911df7bea891459293d656e4d8b731e8.jpg",
+    "price": 165000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Lọ",
+    "sku": "8935120905299",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 118,
+      "name": "Đồ uống BS",
+      "imageUrl": "https://images.f99.com.vn/notification-images/600aff1e-054f-4644-bd94-1f4332330723.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/911df7bea891459293d656e4d8b731e8.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8305",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8311,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Honeco Curcumin 35g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/9f2474ef53914e6fa6064e4ef42ba67f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Honeco Curcumin 35g",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/9f2474ef53914e6fa6064e4ef42ba67f.jpg",
+    "price": 298000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "hũ",
+    "sku": "8935120906159",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 118,
+      "name": "Đồ uống BS",
+      "imageUrl": "https://images.f99.com.vn/notification-images/600aff1e-054f-4644-bd94-1f4332330723.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/9f2474ef53914e6fa6064e4ef42ba67f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8311",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8312,
+    "attributeTextValues": [
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/c090d8bff8b2422abbd3375dbd5fd29d.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Honeco Mật ong Bạc Hà 500 g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Honeco Mật ong Bạc Hà 500 g",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/c090d8bff8b2422abbd3375dbd5fd29d.jpg",
+    "price": 275000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "hũ",
+    "sku": "8935120906470",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 118,
+      "name": "Đồ uống BS",
+      "imageUrl": "https://images.f99.com.vn/notification-images/600aff1e-054f-4644-bd94-1f4332330723.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/c090d8bff8b2422abbd3375dbd5fd29d.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8312",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8313,
+    "attributeTextValues": [
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/67698e2db4d1412796637ccf194b1dce.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mật ong hoa nhãn 860 g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mật ong hoa nhãn 860 g",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/67698e2db4d1412796637ccf194b1dce.jpg",
+    "price": 176000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "chai",
+    "sku": "8935120912518",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 118,
+      "name": "Đồ uống BS",
+      "imageUrl": "https://images.f99.com.vn/notification-images/600aff1e-054f-4644-bd94-1f4332330723.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/67698e2db4d1412796637ccf194b1dce.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8313",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8314,
+    "attributeTextValues": [
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mật ong coffee 360g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/dba297eb42034f3298922b97ba411494.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mật ong coffee 360g",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/dba297eb42034f3298922b97ba411494.jpg",
+    "price": 60500,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Chai",
+    "sku": "8935120906319",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 118,
+      "name": "Đồ uống BS",
+      "imageUrl": "https://images.f99.com.vn/notification-images/600aff1e-054f-4644-bd94-1f4332330723.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/dba297eb42034f3298922b97ba411494.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8314",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8315,
+    "attributeTextValues": [
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mật ong hoa rừng 360 g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/230ab894ad1a4bdc96d365ed4892a713.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mật ong hoa rừng 360 g",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/230ab894ad1a4bdc96d365ed4892a713.jpg",
+    "price": 60500,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Chai",
+    "sku": "8935120906302",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 118,
+      "name": "Đồ uống BS",
+      "imageUrl": "https://images.f99.com.vn/notification-images/600aff1e-054f-4644-bd94-1f4332330723.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/230ab894ad1a4bdc96d365ed4892a713.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8315",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8316,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/355dd14177134a42a47a94443de31719.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Phấn hoa Tam Đảo 120g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Phấn hoa Tam Đảo 120g",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/355dd14177134a42a47a94443de31719.jpg",
+    "price": 65000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "hũ",
+    "sku": "8935120905282",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 118,
+      "name": "Đồ uống BS",
+      "imageUrl": "https://images.f99.com.vn/notification-images/600aff1e-054f-4644-bd94-1f4332330723.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/355dd14177134a42a47a94443de31719.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8316",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8317,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/851fb3bcd31f47638e8d6ffe0369f8df.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Nước Uống Mật Hoa Dừa",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Nước Uống Mật Hoa Dừa",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/851fb3bcd31f47638e8d6ffe0369f8df.jpg",
+    "price": 35000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "chai",
+    "sku": "8938529062099",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 118,
+      "name": "Đồ uống BS",
+      "imageUrl": "https://images.f99.com.vn/notification-images/600aff1e-054f-4644-bd94-1f4332330723.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/851fb3bcd31f47638e8d6ffe0369f8df.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8317",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8320,
+    "attributeTextValues": [
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/c83b26c457d740ac99a7520779d5cffb.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mật Ong Hoa Dừa 250g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mật Ong Hoa Dừa 250g",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/c83b26c457d740ac99a7520779d5cffb.jpg",
+    "price": 132000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "chai",
+    "sku": "8938529062006",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 118,
+      "name": "Đồ uống BS",
+      "imageUrl": "https://images.f99.com.vn/notification-images/600aff1e-054f-4644-bd94-1f4332330723.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/c83b26c457d740ac99a7520779d5cffb.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8320",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8323,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Tacumin Honeco 500g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/927674041e1e426f8a763bc765817fb6.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Tacumin Honeco 500g",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/927674041e1e426f8a763bc765817fb6.jpg",
+    "price": 620000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Lọ",
+    "sku": "8935120906449",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 118,
+      "name": "Đồ uống BS",
+      "imageUrl": "https://images.f99.com.vn/notification-images/600aff1e-054f-4644-bd94-1f4332330723.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/927674041e1e426f8a763bc765817fb6.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8323",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8337,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Tỏi Đen Kochi Cô Đơn hộp 250g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/291aa0cafcdf4a7691d822693f5ae6bf.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Tỏi Đen Kochi Cô Đơn hộp 250g",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/291aa0cafcdf4a7691d822693f5ae6bf.jpg",
+    "price": 340000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "hộp",
+    "sku": "8938517291081",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 118,
+      "name": "Đồ uống BS",
+      "imageUrl": "https://images.f99.com.vn/notification-images/600aff1e-054f-4644-bd94-1f4332330723.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/291aa0cafcdf4a7691d822693f5ae6bf.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8337",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8338,
+    "attributeTextValues": [
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/740af029fd4a4055a183dcd111f7c8dc.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Trà Tỏi Đen KoChi 150g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Trà Tỏi Đen KoChi 150g",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/740af029fd4a4055a183dcd111f7c8dc.jpg",
+    "price": 230000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "hộp",
+    "sku": "8938517291128",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 118,
+      "name": "Đồ uống BS",
+      "imageUrl": "https://images.f99.com.vn/notification-images/600aff1e-054f-4644-bd94-1f4332330723.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/740af029fd4a4055a183dcd111f7c8dc.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8338",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

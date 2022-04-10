@@ -1,0 +1,35 @@
+{
+  "id": 507,
+  "name": "Sức Sống Xanh",
+  "logo": "https://cdn.f99.link/groupbuy-images/abb085b2-3397-44af-98b3-cf1837b05b9c.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Trái Cây Nhập Khẩu – Nước Ép Cao Cấp ",
+  "headQuarter": "Số 15, ngách 64/63 Nguyễn Lương Bằng, Ô Chợ Dừa, Đống Đa, Hà Nội",
+  "email": "Honghanhnhtt@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "07:30",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

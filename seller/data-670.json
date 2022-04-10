@@ -1,0 +1,35 @@
+{
+  "id": 670,
+  "name": "Thực Phẩm Sạch Bup Thỏ",
+  "logo": "https://cdn.f99.link/groupbuy-images/865ae9cd-dbe2-4cdd-a114-70f3c46ab904.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp thực phẩm đông lạnh sạch.",
+  "headQuarter": "Số 11A Ngõ 230/96 Định Công Thượng, Định Công, Hoàng Mai, Hà Nội",
+  "email": "Maido015533@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.3,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 6
+}

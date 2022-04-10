@@ -1,0 +1,3107 @@
+[
+  {
+    "id": 8046,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Chả cá trích đặc biệt 250gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Chả cá trích đặc biệt 250gr</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/f8c9dd10ec384195bc4d768c38ce1759.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Chả cá trích đặc biệt 250gr",
+    "description": "<p>Chả cá trích đặc biệt 250gr</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/f8c9dd10ec384195bc4d768c38ce1759.jpg",
+    "price": 50000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "8938528212402",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 137,
+      "name": "Cá ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ff3ed7d5-23d5-401f-9001-09712d0a261d.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/f8c9dd10ec384195bc4d768c38ce1759.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8046",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8072,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Chả cá dưa 250gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Chả cá dưa 250gr</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/0c610de044e64798beb4fd5dccd226d3.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Chả cá dưa 250gr",
+    "description": "<p>Chả cá dưa 250gr</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/0c610de044e64798beb4fd5dccd226d3.jpg",
+    "price": 50000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "8938528212426",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 137,
+      "name": "Cá ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ff3ed7d5-23d5-401f-9001-09712d0a261d.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/0c610de044e64798beb4fd5dccd226d3.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8072",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8073,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cá mối 1 nắng 500gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Cá mối 1 nắng 500gr</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/cec48380e406444e8e28d449b05346b9.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cá mối 1 nắng 500gr",
+    "description": "<p>Cá mối 1 nắng 500gr</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/cec48380e406444e8e28d449b05346b9.jpg",
+    "price": 55000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "8938528212327",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 137,
+      "name": "Cá ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ff3ed7d5-23d5-401f-9001-09712d0a261d.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/cec48380e406444e8e28d449b05346b9.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8073",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8074,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cá mờm sữa 500gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Cá cơm sữa</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/b31d0dbb5a5d4d24b203a35f8f2c3643.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cá mờm sữa 500gr",
+    "description": "<p>Cá cơm sữa</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/b31d0dbb5a5d4d24b203a35f8f2c3643.jpg",
+    "price": 55000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "8938528212730",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 137,
+      "name": "Cá ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ff3ed7d5-23d5-401f-9001-09712d0a261d.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/b31d0dbb5a5d4d24b203a35f8f2c3643.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8074",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8075,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cá nục nướng 500gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Cá nục nướng 500gr</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/1b2c4d5367fc48f6a974d5a497cee3e2.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cá nục nướng 500gr",
+    "description": "<p>Cá nục nướng 500gr</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/1b2c4d5367fc48f6a974d5a497cee3e2.jpg",
+    "price": 70000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "8938528212297",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 137,
+      "name": "Cá ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ff3ed7d5-23d5-401f-9001-09712d0a261d.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/1b2c4d5367fc48f6a974d5a497cee3e2.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8075",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8076,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/bda13ba2a4d543ac87531fb730186825.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Cá nục 1 nắng 500gr</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cá nục 1 nắng 500gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cá nục 1 nắng 500gr",
+    "description": "<p>Cá nục 1 nắng 500gr</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/bda13ba2a4d543ac87531fb730186825.jpg",
+    "price": 50000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 9,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "8938528212280",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 137,
+      "name": "Cá ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ff3ed7d5-23d5-401f-9001-09712d0a261d.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/bda13ba2a4d543ac87531fb730186825.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8076",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8077,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cá đùi gà 1 nắng 500gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Cá đùi gà 1 nắng 500gr</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/d6aad43e60d447e6b49b5ec8d3ffad8f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cá đùi gà 1 nắng 500gr",
+    "description": "<p>Cá đùi gà 1 nắng 500gr</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/d6aad43e60d447e6b49b5ec8d3ffad8f.jpg",
+    "price": 100000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "8938528212273",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 137,
+      "name": "Cá ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ff3ed7d5-23d5-401f-9001-09712d0a261d.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/d6aad43e60d447e6b49b5ec8d3ffad8f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8077",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8078,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cá đù 1 nắng 500gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Cá đù 1 nắng 500gr</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/270873392e6843ef91ed17151ecd8e4e.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cá đù 1 nắng 500gr",
+    "description": "<p>Cá đù 1 nắng 500gr</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/270873392e6843ef91ed17151ecd8e4e.jpg",
+    "price": 60000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "8938528212310",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 137,
+      "name": "Cá ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ff3ed7d5-23d5-401f-9001-09712d0a261d.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/270873392e6843ef91ed17151ecd8e4e.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8078",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8079,
+    "attributeTextValues": [
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Cá bạc má làm sạch 500gr</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/f93b42a9084348ffabdec842fc6428c9.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cá bạc má làm sạch 500gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cá bạc má làm sạch 500gr",
+    "description": "<p>Cá bạc má làm sạch 500gr</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/f93b42a9084348ffabdec842fc6428c9.jpg",
+    "price": 72000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 8,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "8938528212785",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 137,
+      "name": "Cá ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ff3ed7d5-23d5-401f-9001-09712d0a261d.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/f93b42a9084348ffabdec842fc6428c9.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8079",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8080,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cá phèn hồng nướng 500gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Cá phèn hồng nướng 500gr</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/8645d76066624dcb8fa3ee8786b5d156.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cá phèn hồng nướng 500gr",
+    "description": "<p>Cá phèn hồng nướng 500gr</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/8645d76066624dcb8fa3ee8786b5d156.jpg",
+    "price": 70000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "8938528212853",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 137,
+      "name": "Cá ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ff3ed7d5-23d5-401f-9001-09712d0a261d.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/8645d76066624dcb8fa3ee8786b5d156.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8080",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8081,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cá phèn 1 nắng loại vừa 500gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Cá phèn 1 nắng loại vừa 500gr</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/5bafc53cd1a64931a65f47121839f180.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cá phèn 1 nắng loại vừa 500gr",
+    "description": "<p>Cá phèn 1 nắng loại vừa 500gr</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/5bafc53cd1a64931a65f47121839f180.jpg",
+    "price": 50000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "8938528212334",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 137,
+      "name": "Cá ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ff3ed7d5-23d5-401f-9001-09712d0a261d.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/5bafc53cd1a64931a65f47121839f180.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8081",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8083,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cá lượng rìu phi lê 1 nắng 250gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Cá lượng rìu phi lê 1 nắng 250gr</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/c1f8b17b5ff8405085ddc5e0dbf749c1.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cá lượng rìu phi lê 1 nắng 250gr",
+    "description": "<p>Cá lượng rìu phi lê 1 nắng 250gr</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/c1f8b17b5ff8405085ddc5e0dbf749c1.jpg",
+    "price": 65000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "8938528212396",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 137,
+      "name": "Cá ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ff3ed7d5-23d5-401f-9001-09712d0a261d.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/c1f8b17b5ff8405085ddc5e0dbf749c1.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8083",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8084,
+    "attributeTextValues": [
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/f6877fa053264354bb99f847e5cab111.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cá trích làm sạch 500gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Cá trích làm sạch 500gr</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cá trích làm sạch 500gr",
+    "description": "<p>Cá trích làm sạch 500gr</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/f6877fa053264354bb99f847e5cab111.jpg",
+    "price": 45000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "8938528212365",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 137,
+      "name": "Cá ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ff3ed7d5-23d5-401f-9001-09712d0a261d.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/f6877fa053264354bb99f847e5cab111.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8084",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8877,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cá Lăng Sông Đà ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong>Thông tin sản phẩm: </strong></p><p><strong>Cá lăng </strong>xuất xứ từ Sông Đà, đã chúng tôi làm sạch,cắt khúc sẵn và hút chân không, đảm bảo an toàn vệ sinh thực phẩm cho khách hàng.Và khi giao là Khách hàng nhận được túi 1kg thành phẩm sau mổ.</p><ul><li><strong>Phân loại: </strong></li><li class=\"ql-indent-1\">Cá lăng Đen,Vàng</li><li><strong><em>Trọng lượng</em></strong>: 01 kg</li><li><strong style=\"color: rgb(32, 33, 36);\"><em>Xuất xứ</em></strong><span style=\"color: rgb(32, 33, 36);\">: Sông Đà</span></li><li><strong><em>Chứng nhận vệ sinh ATTP</em></strong>: 490/2019 NNPTNT-HB</li><li><strong>Mô tả sản phẩm:</strong> Cá Lăng là một loài cá da trơn, không có xương dăm. Thịt trắng, nhiều nạc và rắn chắc, khi ăn rất giòn.</li></ul><p><br></p><p><strong>Hướng dấn sử dụng: </strong></p><ul><li><strong>Chế biến:</strong> Trước khi sử dụng, rã đông sản phẩm bằng lò vi sóng; chuyển sản phẩm xuống ngăn mát tủ lạnh cho rã đông từ từ hoặc để sản phẩm nguyên trong bao gói rồi ngâm vào nước lạnh.</li><li><strong>Gợi ý món ngon: </strong>Lẩu cá măng chua, Chả cả Lăng, Cá lăng om chuối đậu, Cá lăng nướng, Ruốc cá lăng, v..v...</li></ul><p><br></p><p><strong>Thông tin cửa hàng:</strong></p><p><strong style=\"color: rgb(230, 0, 0);\">Cá Sông Đà TH</strong> là đối tác cung cấp thân thiết của công ty TNHH thủy hải sản Hải Đăng HB, với sự dày dặn trong kinh doanh ngành hàng cá Lăng, chúng tôi cam kết đem đến cho KH cá chuẩn nguồn nước sạch, với chất lượng cá chắc thịt thơm ngon và mức giá cạnh tranh nhất thị trường.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/71c7f054-4609-43e8-a0c8-edc41c0de7db.jpg\",\"https://images.f99.com.vn/images/05cf95cd-3f4a-4115-b341-e7ee002ddbc1.jpg\",\"https://images.f99.com.vn/images/3971ea51-1e18-452f-ba40-cefd1bc7f1bd.jpg\",\"https://images.f99.com.vn/images/7ea4b4d9-759e-49fd-958a-70e308733b7f.jpg\",\"https://images.f99.com.vn/images/2b6ca742-9f92-4d23-9e1d-70b4bcfa4f9e.jpg\",\"https://images.f99.com.vn/images/98dcfab9-e60c-43fa-a028-d7ebcb11d701.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Cá lăng\",\"Cá sông đà\",\"Cá ngon\",\"Cá fillet sẵn\",\"Cá fillet\",\"Cá tươi\",\"Cá lăng sông đà\",\"cá lăng đen\",\"cá lăng vàng\",\"cá lăng ngon\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cá Lăng Sông Đà ",
+    "description": "<p><strong>Thông tin sản phẩm: </strong></p><p><strong>Cá lăng </strong>xuất xứ từ Sông Đà, đã chúng tôi làm sạch,cắt khúc sẵn và hút chân không, đảm bảo an toàn vệ sinh thực phẩm cho khách hàng.Và khi giao là Khách hàng nhận được túi 1kg thành phẩm sau mổ.</p><ul><li><strong>Phân loại: </strong></li><li class=\"ql-indent-1\">Cá lăng Đen,Vàng</li><li><strong><em>Trọng lượng</em></strong>: 01 kg</li><li><strong style=\"color: rgb(32, 33, 36);\"><em>Xuất xứ</em></strong><span style=\"color: rgb(32, 33, 36);\">: Sông Đà</span></li><li><strong><em>Chứng nhận vệ sinh ATTP</em></strong>: 490/2019 NNPTNT-HB</li><li><strong>Mô tả sản phẩm:</strong> Cá Lăng là một loài cá da trơn, không có xương dăm. Thịt trắng, nhiều nạc và rắn chắc, khi ăn rất giòn.</li></ul><p><br></p><p><strong>Hướng dấn sử dụng: </strong></p><ul><li><strong>Chế biến:</strong> Trước khi sử dụng, rã đông sản phẩm bằng lò vi sóng; chuyển sản phẩm xuống ngăn mát tủ lạnh cho rã đông từ từ hoặc để sản phẩm nguyên trong bao gói rồi ngâm vào nước lạnh.</li><li><strong>Gợi ý món ngon: </strong>Lẩu cá măng chua, Chả cả Lăng, Cá lăng om chuối đậu, Cá lăng nướng, Ruốc cá lăng, v..v...</li></ul><p><br></p><p><strong>Thông tin cửa hàng:</strong></p><p><strong style=\"color: rgb(230, 0, 0);\">Cá Sông Đà TH</strong> là đối tác cung cấp thân thiết của công ty TNHH thủy hải sản Hải Đăng HB, với sự dày dặn trong kinh doanh ngành hàng cá Lăng, chúng tôi cam kết đem đến cho KH cá chuẩn nguồn nước sạch, với chất lượng cá chắc thịt thơm ngon và mức giá cạnh tranh nhất thị trường.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/71c7f054-4609-43e8-a0c8-edc41c0de7db.jpg",
+    "price": 79000,
+    "oldPrice": 185000,
+    "discountPercent": 57,
+    "stock": 600,
+    "totalSold": 10,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 121,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><strong>Bảo quản: </strong>Bảo quản ngăn đông tủ lạnh</p><p><strong>Thời hạn sử dụng: </strong>Sử dụng trong vòng 4 tháng với điều kiện bảo quản -18 độ C</p>",
+    "category": {
+      "id": 137,
+      "name": "Cá ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ff3ed7d5-23d5-401f-9001-09712d0a261d.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Cá lăng",
+      "Cá sông đà",
+      "Cá ngon",
+      "Cá fillet sẵn",
+      "Cá fillet",
+      "Cá tươi",
+      "Cá lăng sông đà",
+      "cá lăng đen",
+      "cá lăng vàng",
+      "cá lăng ngon"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/71c7f054-4609-43e8-a0c8-edc41c0de7db.jpg",
+      "https://images.f99.com.vn/images/05cf95cd-3f4a-4115-b341-e7ee002ddbc1.jpg",
+      "https://images.f99.com.vn/images/3971ea51-1e18-452f-ba40-cefd1bc7f1bd.jpg",
+      "https://images.f99.com.vn/images/7ea4b4d9-759e-49fd-958a-70e308733b7f.jpg",
+      "https://images.f99.com.vn/images/2b6ca742-9f92-4d23-9e1d-70b4bcfa4f9e.jpg",
+      "https://images.f99.com.vn/images/98dcfab9-e60c-43fa-a028-d7ebcb11d701.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8877",
+    "attributes": [
+      {
+        "id": 106,
+        "name": "Phân loại",
+        "values": [
+          "Combo 5kg cá lăng đen",
+          "Combo 5kg cá lăng Vàng",
+          "Đen",
+          "Vàng"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 15151,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Vàng",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 106,
+            "name": "Phân loại",
+            "type": "text    ",
+            "value": "Vàng",
+            "attribute": {
+              "id": 106,
+              "name": "Phân loại",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Vàng",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 109000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 3,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p><strong>Bảo quản: </strong>Bảo quản ngăn đông tủ lạnh</p><p><strong>Thời hạn sử dụng: </strong>Sử dụng trong vòng 4 tháng với điều kiện bảo quản -18 độ C</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 106,
+            "name": "Phân loại",
+            "value": "Vàng"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 15152,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Đen",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 106,
+            "name": "Phân loại",
+            "type": "text    ",
+            "value": "Đen",
+            "attribute": {
+              "id": 106,
+              "name": "Phân loại",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Đen",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 109000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 3,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p><strong>Bảo quản: </strong>Bảo quản ngăn đông tủ lạnh</p><p><strong>Thời hạn sử dụng: </strong>Sử dụng trong vòng 4 tháng với điều kiện bảo quản -18 độ C</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 106,
+            "name": "Phân loại",
+            "value": "Đen"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 15571,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 5kg cá lăng Vàng",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "Tặng set dao lúa mạch",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 106,
+            "name": "Phân loại",
+            "type": "text    ",
+            "value": "Combo 5kg cá lăng Vàng",
+            "attribute": {
+              "id": 106,
+              "name": "Phân loại",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 5kg cá lăng Vàng",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 525000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 200,
+        "totalSold": 2,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p><strong>Bảo quản: </strong>Bảo quản ngăn đông tủ lạnh</p><p><strong>Thời hạn sử dụng: </strong>Sử dụng trong vòng 4 tháng với điều kiện bảo quản -18 độ C</p>",
+        "sellerId": 0,
+        "note": "Tặng set dao lúa mạch",
+        "attributes": [
+          {
+            "id": 106,
+            "name": "Phân loại",
+            "value": "Combo 5kg cá lăng Vàng"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 15570,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 5kg cá lăng đen",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "Tặng set dao lúa mạch",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 106,
+            "name": "Phân loại",
+            "type": "text    ",
+            "value": "Combo 5kg cá lăng đen",
+            "attribute": {
+              "id": 106,
+              "name": "Phân loại",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 5kg cá lăng đen",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 525000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 200,
+        "totalSold": 2,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p><strong>Bảo quản: </strong>Bảo quản ngăn đông tủ lạnh</p><p><strong>Thời hạn sử dụng: </strong>Sử dụng trong vòng 4 tháng với điều kiện bảo quản -18 độ C</p>",
+        "sellerId": 0,
+        "note": "Tặng set dao lúa mạch",
+        "attributes": [
+          {
+            "id": 106,
+            "name": "Phân loại",
+            "value": "Combo 5kg cá lăng đen"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 121,
+      "sellerRate": 4.7,
+      "sellerName": "Cá Sông Đà TH",
+      "warehouseId": "4fb68383-b77a-4daa-b8e0-da91612458c1",
+      "warehouseAddress": "116 Ngõ 1 Khuất Duy Tiến,Thanh Xuân,Hà Nội.",
+      "distance": 5268,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 66.19333333333334,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 10494,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cá Nục KHông đầu Làm Sạch ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h2><span style=\"color: rgb(0, 100, 194);\">Cá nục</span>&nbsp;là loại cá thường xuyên được chị em chọn mua bởi có thể dễ dàng chế biến thành nhiều&nbsp;<span style=\"color: rgb(0, 100, 194);\">món ăn</span>. Nhưng ngày nay các loại cá biển thường được ngâm hóa chất để qua mắt chị em nội trợ, vậy làm sao để có thể phân biệt chọn mua cá nục không chứa hóa chất.</h2><p class=\"ql-align-justify\">Cá nục chuối còn có tên khác là nục suôn, nục thuôn hoặc nục hoa. Loài cá này phân bố ở khá nhiều vùng biển trên thế giới bao gồm: Thái Bình Dương, Ấn Độ Dương, các vùng biển giáp ranh Việt Nam, Indo, Trung Quốc, Nhật, Philipine.</p><p class=\"ql-align-justify\">Tại Việt Nam cá nục suôn thường được khai thác chính ở huyện đảo Lý Sơn, Bình Sơn (Quảng Ngãi) và nhiều vùng biển Trung, Đông và Tây Nam Bộ</p><p><img src=\"https://tindongvat.com/wp-content/uploads/2020/11/ca-nuc-chuoi.jpg\" alt=\"cá nục chuối\" height=\"281\" width=\"500\"></p><p class=\"ql-align-justify\">Cá nục thuôn thường sống ở độ sâu từ 20 – 120 mét quanh các rạn san hô. Chúng chủ yếu ăn các loài phù du bé hoặc các loài không xương nhỏ khác.</p><p class=\"ql-align-justify\">Gọi là cá nục chuối hay suôn là bởi cá có ngoại&nbsp;hình tương đối thon, dài ( 18 – 35 cm). Khoảng gần 30 đốt sống và khá ít xương. Phần da vảy gần vây có màu xanh xám, da vảy phần bụng là màu trắng.</p><p class=\"ql-align-justify\">Cá nục hoa thường được ngư dân khai thác đơn giản bằng cách kéo vó, kéo mành. Sau khi thu hoạch cá thường mang đi chế biến thành cá nục đóng hộp hoặc làm mắm.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/53d0d0c0-329a-4c27-b696-ea06d5a4bbd1.jpg\",\"https://images.f99.com.vn/images/493d1087-8e5c-4242-a953-94465e3a23f9.jpg\",\"https://images.f99.com.vn/images/325e4f57-b9aa-455f-8057-d1dbda5349f5.jpg\",\"https://images.f99.com.vn/images/69816c4b-e7ef-4115-8b77-3d9566f019c8.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cá Nục KHông đầu Làm Sạch ",
+    "description": "<h2><span style=\"color: rgb(0, 100, 194);\">Cá nục</span>&nbsp;là loại cá thường xuyên được chị em chọn mua bởi có thể dễ dàng chế biến thành nhiều&nbsp;<span style=\"color: rgb(0, 100, 194);\">món ăn</span>. Nhưng ngày nay các loại cá biển thường được ngâm hóa chất để qua mắt chị em nội trợ, vậy làm sao để có thể phân biệt chọn mua cá nục không chứa hóa chất.</h2><p class=\"ql-align-justify\">Cá nục chuối còn có tên khác là nục suôn, nục thuôn hoặc nục hoa. Loài cá này phân bố ở khá nhiều vùng biển trên thế giới bao gồm: Thái Bình Dương, Ấn Độ Dương, các vùng biển giáp ranh Việt Nam, Indo, Trung Quốc, Nhật, Philipine.</p><p class=\"ql-align-justify\">Tại Việt Nam cá nục suôn thường được khai thác chính ở huyện đảo Lý Sơn, Bình Sơn (Quảng Ngãi) và nhiều vùng biển Trung, Đông và Tây Nam Bộ</p><p><img src=\"https://tindongvat.com/wp-content/uploads/2020/11/ca-nuc-chuoi.jpg\" alt=\"cá nục chuối\" height=\"281\" width=\"500\"></p><p class=\"ql-align-justify\">Cá nục thuôn thường sống ở độ sâu từ 20 – 120 mét quanh các rạn san hô. Chúng chủ yếu ăn các loài phù du bé hoặc các loài không xương nhỏ khác.</p><p class=\"ql-align-justify\">Gọi là cá nục chuối hay suôn là bởi cá có ngoại&nbsp;hình tương đối thon, dài ( 18 – 35 cm). Khoảng gần 30 đốt sống và khá ít xương. Phần da vảy gần vây có màu xanh xám, da vảy phần bụng là màu trắng.</p><p class=\"ql-align-justify\">Cá nục hoa thường được ngư dân khai thác đơn giản bằng cách kéo vó, kéo mành. Sau khi thu hoạch cá thường mang đi chế biến thành cá nục đóng hộp hoặc làm mắm.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/53d0d0c0-329a-4c27-b696-ea06d5a4bbd1.jpg",
+    "price": 69000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 4000,
+    "totalSold": 503,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "00051",
+    "origin": "",
+    "sellerId": 140,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p>Bảo Quản 0 đến -18 độ C</p>",
+    "category": {
+      "id": 137,
+      "name": "Cá ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ff3ed7d5-23d5-401f-9001-09712d0a261d.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/53d0d0c0-329a-4c27-b696-ea06d5a4bbd1.jpg",
+      "https://images.f99.com.vn/images/493d1087-8e5c-4242-a953-94465e3a23f9.jpg",
+      "https://images.f99.com.vn/images/325e4f57-b9aa-455f-8057-d1dbda5349f5.jpg",
+      "https://images.f99.com.vn/images/69816c4b-e7ef-4115-8b77-3d9566f019c8.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/10494",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg",
+          "500g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 25939,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 35000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 2000,
+        "totalSold": 251,
+        "unit": "1kg",
+        "sku": "00051",
+        "rating": 5,
+        "instructions": "<p>Bảo Quản 0 đến -18 độ C</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 25940,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 69000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 2000,
+        "totalSold": 252,
+        "unit": "1kg",
+        "sku": "00051",
+        "rating": 5,
+        "instructions": "<p>Bảo Quản 0 đến -18 độ C</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 140,
+      "sellerRate": 4.8,
+      "sellerName": "BaChiFood",
+      "warehouseId": "17824dd8-dd03-4a29-b2e8-19f8daae3bef",
+      "warehouseAddress": "số 71 Ngô Đình Mẫn, La Khê, Hà Đông, Hà Nội",
+      "distance": 10149,
+      "warehouseDistrict": "ha dong",
+      "reputation": 67.34490572643182,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 10495,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cá Ba Sa Cắt Khúc Làm Sạch",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgb(51, 51, 51);\">Basa cắt khúc Đ</strong><span style=\"color: rgb(51, 51, 51);\">ược chế biến từ cá basa tươi ngon, theo quy trình khép kín, an toàn cho sức khỏe người tiêu dùng. Sản phẩm được sơ chế giúp bạn tiết kiệm tối đa thời gian nấu nướng. Tùy theo khẩu vị mỗi người, bạn có thể chế biến Cá basa thành các món ăn khác nhau như các món kho truyền thống, cá basa hấp xì dầu, cá basa sốt cà… mang lại nhiều món ăn ngon, hấp dẫn.</span></p><h2><img src=\"https://images.f99.com.vn/images/3d3c84f6-4025-4c08-8bcc-2d64694e7e1e.jpg\"></h2><p class=\"ql-align-center\"><br></p><h2><strong>Bạn đã biết gì về cá Basa?</strong></h2><p><strong style=\"color: rgb(51, 51, 51);\">Cá Basa</strong>&nbsp;hay còn có tên khoa học là Pangasius bocourti, còn có thể được gọi là cá giáo, cá sát bụng, là loại cá da trơn trong họ Pangasiidae với giá trị kinh tế cao, được nuôi tập trung tại nhiều nước trên thế giới trong đó có Việt Nam. Chúng được xuất khẩu đi nhiều nước trên thế giới trong đó có cả Bắc Mỹ và Úc với giá trị cao.</p><p>Về đặc điểm hình dáng của loài cá này:&nbsp;<strong><em>Cá Basa</em></strong>&nbsp;có thân dẹp vừa phải, đầu dẹp bằng, trán rộng. Răng nhỏ mịn, râu mép kép dài tới hoặc quá gốc vây ngực, râu hàm dưới nhỏ mịn và kéo dài đến khoảng giữa mắt và điểm cuối nắp mang. Mắt to nằm trên một đường thẳng ngang kẻ từ góc miệng gần chót mõm. Bụng&nbsp;<strong><em>cá Basa</em></strong>&nbsp;to tròn, phần sau thân dẹp bên, cuống đuôi thon dài.</p><p>&nbsp;</p><p class=\"ql-align-center\"><br></p><h2><strong>Giá trị dinh dưỡng của cá Basa</strong></h2><p>Được biết đến là một loài có giá trị kinh tế cao, hiện nay&nbsp;<strong><em>cá Basa</em></strong>&nbsp;của nước ta được xuất khẩu tới hơn 40 thị trường quốc tế, trong đó có cả những thị trường khá khó tính như Bắc Mỹ… Sản phẩm xuất khẩu khá đa dạng từ nguyên con, cắt khúc, cá tươi đông lạnh, cá đã qua chế biến, cá đóng hộp…&nbsp;<strong><em>Cá Basa</em></strong>&nbsp;ở nước ta chủ yếu được nuôi theo hình thức thả lồng hoặc bè, ao. Cá rất thích hợp với môi trường và khí hậu ở nước ta nên có chất lượng khá cao kể cả dinh dưỡng lẫn hình thức cá.</p><p>Theo các chuyên gia về dinh dưỡng,&nbsp;<strong>cá Basa</strong>&nbsp;có hàm lượng chất đạm cao, nhưng lại dễ tiêu hóa hơn các loại thịt khác. Lượng mỡ trong cá da trơn nói chung và&nbsp;<strong><em>cá Basa&nbsp;</em></strong>nói riêng ít hơn thịt nhưng lại có chất lượng tốt hơn nhiều vì chứa các axit béo không no chiếm đến khoảng 80% trong tổng số lipid, gồm arachidonic, oleic, linolenic, clupanodonic… Các axit béo này cực kỳ cần thiết cho hệ thần kinh, hệ tuần hoàn và hệ tiêu hóa của con người.</p><p>&nbsp;</p><p class=\"ql-align-center\"><br></p><h2><strong>Giá trị dinh dưỡng của cá Basa</strong></h2><p>Nhiều nghiên cứu khoa học còn tìm thấy trong chất béo chưa bão hòa của loài cá basa có nhiều Omega 3 (EPA, DHA), đây là những dưỡng chất quan trọng mà cơ thể con người không thể tự tổng hợp được nên cần được cung cấp từ thức ăn.</p><p>Riêng đối với phụ nữ khi ăn&nbsp;<strong>cá Basa</strong>, nguyên tố sắt trong loài thủy sản này rất dễ được đồng hóa và hấp thụ ít chất béo, giúp phụ nữ có thân hình thon thả hơn.</p><p>&nbsp;</p><p class=\"ql-align-center\"><br></p><h2><strong>Cá Basa nấu món gì thì ngon?</strong></h2><p><a href=\"http://zinfood.com/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 51, 51);\"><strong><em>Cá Basa&nbsp;</em></strong></a>có giá trị kinh tế rất cao vì chất dinh dưỡng có trong thịt cá, bên cạnh đó, loại cá này còn rất thích hợp để làm thành những món ăn ngon, hợp khẩu vị người Việt. Có thể điểm danh những món ăn ngon, dễ nấu từ cá Basa nhé:</p><ul><li>Cá Basa nấu canh chua</li><li>Cá Basa viên chiên</li><li>Da cá Basa tẩm bột chiên giòn</li><li>Chạo Basa</li><li>Cá Basa kho tộ</li><li>Lẩu cá Basa</li><li>Cá Basa sốt</li><li>Cá Basa nướng muối ớt</li></ul><p>Tùy theo khẩu vị của từng gia đình, những bà nội trợ có thể mua cá Basa về chế biến theo công thức riêng của mình.</p><p>&nbsp;</p><p><img src=\"https://images.f99.com.vn/images/8a997378-0009-4a31-80ee-d697894e3a79.jpg\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/3d3c84f6-4025-4c08-8bcc-2d64694e7e1e.jpg\",\"https://images.f99.com.vn/images/b8f5aafb-9b44-4867-9466-4cd81edfb4bd.jpg\",\"https://images.f99.com.vn/images/d69f5f94-002b-4f7d-9ca3-4d566863cf2f.jpg\",\"https://images.f99.com.vn/images/8a997378-0009-4a31-80ee-d697894e3a79.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cá Ba Sa Cắt Khúc Làm Sạch",
+    "description": "<p><strong style=\"color: rgb(51, 51, 51);\">Basa cắt khúc Đ</strong><span style=\"color: rgb(51, 51, 51);\">ược chế biến từ cá basa tươi ngon, theo quy trình khép kín, an toàn cho sức khỏe người tiêu dùng. Sản phẩm được sơ chế giúp bạn tiết kiệm tối đa thời gian nấu nướng. Tùy theo khẩu vị mỗi người, bạn có thể chế biến Cá basa thành các món ăn khác nhau như các món kho truyền thống, cá basa hấp xì dầu, cá basa sốt cà… mang lại nhiều món ăn ngon, hấp dẫn.</span></p><h2><img src=\"https://images.f99.com.vn/images/3d3c84f6-4025-4c08-8bcc-2d64694e7e1e.jpg\"></h2><p class=\"ql-align-center\"><br></p><h2><strong>Bạn đã biết gì về cá Basa?</strong></h2><p><strong style=\"color: rgb(51, 51, 51);\">Cá Basa</strong>&nbsp;hay còn có tên khoa học là Pangasius bocourti, còn có thể được gọi là cá giáo, cá sát bụng, là loại cá da trơn trong họ Pangasiidae với giá trị kinh tế cao, được nuôi tập trung tại nhiều nước trên thế giới trong đó có Việt Nam. Chúng được xuất khẩu đi nhiều nước trên thế giới trong đó có cả Bắc Mỹ và Úc với giá trị cao.</p><p>Về đặc điểm hình dáng của loài cá này:&nbsp;<strong><em>Cá Basa</em></strong>&nbsp;có thân dẹp vừa phải, đầu dẹp bằng, trán rộng. Răng nhỏ mịn, râu mép kép dài tới hoặc quá gốc vây ngực, râu hàm dưới nhỏ mịn và kéo dài đến khoảng giữa mắt và điểm cuối nắp mang. Mắt to nằm trên một đường thẳng ngang kẻ từ góc miệng gần chót mõm. Bụng&nbsp;<strong><em>cá Basa</em></strong>&nbsp;to tròn, phần sau thân dẹp bên, cuống đuôi thon dài.</p><p>&nbsp;</p><p class=\"ql-align-center\"><br></p><h2><strong>Giá trị dinh dưỡng của cá Basa</strong></h2><p>Được biết đến là một loài có giá trị kinh tế cao, hiện nay&nbsp;<strong><em>cá Basa</em></strong>&nbsp;của nước ta được xuất khẩu tới hơn 40 thị trường quốc tế, trong đó có cả những thị trường khá khó tính như Bắc Mỹ… Sản phẩm xuất khẩu khá đa dạng từ nguyên con, cắt khúc, cá tươi đông lạnh, cá đã qua chế biến, cá đóng hộp…&nbsp;<strong><em>Cá Basa</em></strong>&nbsp;ở nước ta chủ yếu được nuôi theo hình thức thả lồng hoặc bè, ao. Cá rất thích hợp với môi trường và khí hậu ở nước ta nên có chất lượng khá cao kể cả dinh dưỡng lẫn hình thức cá.</p><p>Theo các chuyên gia về dinh dưỡng,&nbsp;<strong>cá Basa</strong>&nbsp;có hàm lượng chất đạm cao, nhưng lại dễ tiêu hóa hơn các loại thịt khác. Lượng mỡ trong cá da trơn nói chung và&nbsp;<strong><em>cá Basa&nbsp;</em></strong>nói riêng ít hơn thịt nhưng lại có chất lượng tốt hơn nhiều vì chứa các axit béo không no chiếm đến khoảng 80% trong tổng số lipid, gồm arachidonic, oleic, linolenic, clupanodonic… Các axit béo này cực kỳ cần thiết cho hệ thần kinh, hệ tuần hoàn và hệ tiêu hóa của con người.</p><p>&nbsp;</p><p class=\"ql-align-center\"><br></p><h2><strong>Giá trị dinh dưỡng của cá Basa</strong></h2><p>Nhiều nghiên cứu khoa học còn tìm thấy trong chất béo chưa bão hòa của loài cá basa có nhiều Omega 3 (EPA, DHA), đây là những dưỡng chất quan trọng mà cơ thể con người không thể tự tổng hợp được nên cần được cung cấp từ thức ăn.</p><p>Riêng đối với phụ nữ khi ăn&nbsp;<strong>cá Basa</strong>, nguyên tố sắt trong loài thủy sản này rất dễ được đồng hóa và hấp thụ ít chất béo, giúp phụ nữ có thân hình thon thả hơn.</p><p>&nbsp;</p><p class=\"ql-align-center\"><br></p><h2><strong>Cá Basa nấu món gì thì ngon?</strong></h2><p><a href=\"http://zinfood.com/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 51, 51);\"><strong><em>Cá Basa&nbsp;</em></strong></a>có giá trị kinh tế rất cao vì chất dinh dưỡng có trong thịt cá, bên cạnh đó, loại cá này còn rất thích hợp để làm thành những món ăn ngon, hợp khẩu vị người Việt. Có thể điểm danh những món ăn ngon, dễ nấu từ cá Basa nhé:</p><ul><li>Cá Basa nấu canh chua</li><li>Cá Basa viên chiên</li><li>Da cá Basa tẩm bột chiên giòn</li><li>Chạo Basa</li><li>Cá Basa kho tộ</li><li>Lẩu cá Basa</li><li>Cá Basa sốt</li><li>Cá Basa nướng muối ớt</li></ul><p>Tùy theo khẩu vị của từng gia đình, những bà nội trợ có thể mua cá Basa về chế biến theo công thức riêng của mình.</p><p>&nbsp;</p><p><img src=\"https://images.f99.com.vn/images/8a997378-0009-4a31-80ee-d697894e3a79.jpg\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/3d3c84f6-4025-4c08-8bcc-2d64694e7e1e.jpg",
+    "price": 60000,
+    "oldPrice": 80000,
+    "discountPercent": 25,
+    "stock": 4000,
+    "totalSold": 1014,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "00052",
+    "origin": "",
+    "sellerId": 140,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p>Bảo Quản 0 đến -18 độ C</p>",
+    "category": {
+      "id": 137,
+      "name": "Cá ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ff3ed7d5-23d5-401f-9001-09712d0a261d.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/3d3c84f6-4025-4c08-8bcc-2d64694e7e1e.jpg",
+      "https://images.f99.com.vn/images/b8f5aafb-9b44-4867-9466-4cd81edfb4bd.jpg",
+      "https://images.f99.com.vn/images/d69f5f94-002b-4f7d-9ca3-4d566863cf2f.jpg",
+      "https://images.f99.com.vn/images/8a997378-0009-4a31-80ee-d697894e3a79.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/10495",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 140,
+      "sellerRate": 4.8,
+      "sellerName": "BaChiFood",
+      "warehouseId": "17824dd8-dd03-4a29-b2e8-19f8daae3bef",
+      "warehouseAddress": "số 71 Ngô Đình Mẫn, La Khê, Hà Đông, Hà Nội",
+      "distance": 10149,
+      "warehouseDistrict": "ha dong",
+      "reputation": 67.34490572643182,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 12815,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "VITOT FOOD - CÁ DỨA 1 NẮNG QUẢNG CANH (1 con từ 500-700g)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgb(0, 26, 51);\">1. CÁ DỨA 1 NẮNG LÀ GÌ?</strong></p><p><span style=\"color: rgb(0, 26, 51);\">Cá dứa 1 nắng là một loại đặc sản ngon nổi tiếng không chỉ ở mùi vị mà cá dứa còn chứa nhiều chất dinh dưỡng (DHA, Omega3,…) rất tốt cho sức khoẻ.</span></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/26769c0d-0f36-4664-85e6-f77e09880e50.jpg\"></p><p><span style=\"color: rgb(0, 26, 51);\">Cá dứa còn là mồi nhậu hấp dẫn cho các đấng mày râu, thích hợp cho các bữa tiệc, làm quà biếu tặng bạn bè,…</span></p><p><span style=\"color: rgb(0, 26, 51);\">Cá có vị đậm đà, nạc thịt, thơm béo, không xương chính, xương dăm nên trẻ em người lớn đều có thể ăn được cả.</span></p><p><span style=\"color: rgb(0, 26, 51);\">- Quy cách đóng gói: 1- 2 con/kg/ túi</span></p><p><span style=\"color: rgb(0, 26, 51);\">- Các món ăn chế biến từ cá dứa:</span></p><ul><li><span style=\"color: rgb(0, 26, 51);\">Cá dứa 1 nắng chiên vàng</span></li><li><span style=\"color: rgb(0, 26, 51);\">Cá dứa sốt chua ngọt</span></li><li><span style=\"color: rgb(0, 26, 51);\">Cá dứa kho thơm</span></li><li><span style=\"color: rgb(0, 26, 51);\">Gỏi xoài cá dứa</span></li><li><span style=\"color: rgb(0, 26, 51);\">Cá dứa xào chua ngọt...</span></li></ul><p class=\"ql-align-center\"><span style=\"color: rgb(0, 26, 51);\">﻿</span><img src=\"https://images.f99.com.vn/images/5d58fcf0-8bde-4e5e-96e7-1cb1b299a3ce.jpg\"></p><p><span style=\"color: rgb(0, 26, 51);\">﻿</span></p><p><strong style=\"color: rgb(0, 26, 51);\">2. CAM KẾT CỦA VITOT FOOD</strong></p><p><span style=\"color: rgb(0, 26, 51);\">- Hàng ngon - giá tốt</span></p><p><span style=\"color: rgb(0, 26, 51);\">- 1 đổi 1 nếu sản phẩm bị lỗi.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/bcaa7716-ac34-4c53-9247-e7b945499439.png\",\"https://images.f99.com.vn/images/f903628a-dade-4798-9237-cee8d2b01658.jpg\",\"https://images.f99.com.vn/images/4c517364-2d60-4dde-804f-ce88a37d1723.jpg\",\"https://images.f99.com.vn/images/66505794-ce13-4fbe-8741-f1d88318c4eb.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Cá dứa\",\"Cá dứa 1 nắng\",\"Cá dứa Vũng Tàu\",\"Cá dứa Cần Giờ\",\"Cá dứa nuôi\",\"Cá dứa quảng canh\",\"Cá basa\",\"Cá dứa bao nhiêu 1kg\",\"Giá cá dứa\",\"Khô cá dứa\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "VITOT FOOD - CÁ DỨA 1 NẮNG QUẢNG CANH (1 con từ 500-700g)",
+    "description": "<p><strong style=\"color: rgb(0, 26, 51);\">1. CÁ DỨA 1 NẮNG LÀ GÌ?</strong></p><p><span style=\"color: rgb(0, 26, 51);\">Cá dứa 1 nắng là một loại đặc sản ngon nổi tiếng không chỉ ở mùi vị mà cá dứa còn chứa nhiều chất dinh dưỡng (DHA, Omega3,…) rất tốt cho sức khoẻ.</span></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/26769c0d-0f36-4664-85e6-f77e09880e50.jpg\"></p><p><span style=\"color: rgb(0, 26, 51);\">Cá dứa còn là mồi nhậu hấp dẫn cho các đấng mày râu, thích hợp cho các bữa tiệc, làm quà biếu tặng bạn bè,…</span></p><p><span style=\"color: rgb(0, 26, 51);\">Cá có vị đậm đà, nạc thịt, thơm béo, không xương chính, xương dăm nên trẻ em người lớn đều có thể ăn được cả.</span></p><p><span style=\"color: rgb(0, 26, 51);\">- Quy cách đóng gói: 1- 2 con/kg/ túi</span></p><p><span style=\"color: rgb(0, 26, 51);\">- Các món ăn chế biến từ cá dứa:</span></p><ul><li><span style=\"color: rgb(0, 26, 51);\">Cá dứa 1 nắng chiên vàng</span></li><li><span style=\"color: rgb(0, 26, 51);\">Cá dứa sốt chua ngọt</span></li><li><span style=\"color: rgb(0, 26, 51);\">Cá dứa kho thơm</span></li><li><span style=\"color: rgb(0, 26, 51);\">Gỏi xoài cá dứa</span></li><li><span style=\"color: rgb(0, 26, 51);\">Cá dứa xào chua ngọt...</span></li></ul><p class=\"ql-align-center\"><span style=\"color: rgb(0, 26, 51);\">﻿</span><img src=\"https://images.f99.com.vn/images/5d58fcf0-8bde-4e5e-96e7-1cb1b299a3ce.jpg\"></p><p><span style=\"color: rgb(0, 26, 51);\">﻿</span></p><p><strong style=\"color: rgb(0, 26, 51);\">2. CAM KẾT CỦA VITOT FOOD</strong></p><p><span style=\"color: rgb(0, 26, 51);\">- Hàng ngon - giá tốt</span></p><p><span style=\"color: rgb(0, 26, 51);\">- 1 đổi 1 nếu sản phẩm bị lỗi.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/bcaa7716-ac34-4c53-9247-e7b945499439.png",
+    "price": 263000,
+    "oldPrice": 400000,
+    "discountPercent": 34,
+    "stock": 50,
+    "totalSold": 12,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 218,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<ul><li class=\"ql-align-justify\">Cá không có chất bảo quản nên bảo quản ngăn đá để đảm bảo chất lượng</li><li class=\"ql-align-justify\">Khi nào chế biến bỏ ra ngoài tầm 5-10 phút rồi chế biến, không rã đông thông thường hay bỏ ngăn mát.</li></ul>",
+    "category": {
+      "id": 137,
+      "name": "Cá ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ff3ed7d5-23d5-401f-9001-09712d0a261d.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Cá dứa",
+      "Cá dứa 1 nắng",
+      "Cá dứa Vũng Tàu",
+      "Cá dứa Cần Giờ",
+      "Cá dứa nuôi",
+      "Cá dứa quảng canh",
+      "Cá basa",
+      "Cá dứa bao nhiêu 1kg",
+      "Giá cá dứa",
+      "Khô cá dứa"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/bcaa7716-ac34-4c53-9247-e7b945499439.png",
+      "https://images.f99.com.vn/images/f903628a-dade-4798-9237-cee8d2b01658.jpg",
+      "https://images.f99.com.vn/images/4c517364-2d60-4dde-804f-ce88a37d1723.jpg",
+      "https://images.f99.com.vn/images/66505794-ce13-4fbe-8741-f1d88318c4eb.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12815",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 66574,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 263000,
+        "oldPrice": 400000,
+        "discountPercent": 34,
+        "stock": 50,
+        "totalSold": 12,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<ul><li class=\"ql-align-justify\">Cá không có chất bảo quản nên bảo quản ngăn đá để đảm bảo chất lượng</li><li class=\"ql-align-justify\">Khi nào chế biến bỏ ra ngoài tầm 5-10 phút rồi chế biến, không rã đông thông thường hay bỏ ngăn mát.</li></ul>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 218,
+      "sellerRate": 4.6,
+      "sellerName": "VITOT FOOD - MÓN NGON NỔI TIẾNG",
+      "warehouseId": "5a5ccfcb-761e-4fc7-be85-dbc87b66387f",
+      "warehouseAddress": "thanh xuan, 263 Hoàng Văn Thái, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3549,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 80.99133393939447,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 12819,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "VITOT FOOD - CÁ DỨA 1 NẮNG TỰ NHIÊN (1-1,5kg/con)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong>1. CÁ DỨA 1 NẮNG LÀ GÌ?</strong></p><p class=\"ql-align-justify\"><strong>Cá dứa 1 nắng tự nhiên</strong> là cá được nuôi tự nhiên tại biển khác biệt hoàn toàn so với cá dứa nuôi bè. Thịt cá săn chắc và nạc hơn. Cá chứa nhiều chất dinh dưỡng như Omega 3 và DHA rất tốt cho sức khỏe.&nbsp;</p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/c327f6ff-3f42-46da-958e-557561f030a7.jpg\"></p><p class=\"ql-align-justify\">Cá không có xương chính, xương dăm, vị ăn đậm đà nên già trẻ lớn bé đều ăn được. Chỉ cần chiên lên thôi là tốn cơm hết biết.</p><p>- Quy cách đóng gói: 1 con từ 800-1500g/túi</p><p>- Các món ăn chế biến từ cá dứa:</p><ul><li>Cá dứa 1 nắng chiên vàng</li><li>Cá dứa sốt chua ngọt</li><li>Cá dứa nấu canh chua</li><li>Cá dứa làm nộm,...</li></ul><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/4a53575b-992e-4f30-b979-f8e2e647e0fc.jpg\"></p><p><br></p><p><strong>2. CAM KẾT CỦA VITOT FOOD</strong></p><p>- Hàng ngon - giá tốt</p><p>- 1 đổi 1 nếu sản phẩm bị lỗi.</p><p><br></p><p><br></p><p><br></p><p class=\"ql-align-justify\"><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/32c267be-edda-4d82-b469-2da1a7ea65a7.png\",\"https://images.f99.com.vn/images/45dca731-95d1-4fe2-b0ae-d768ade9b013.jpg\",\"https://images.f99.com.vn/images/01849198-2f76-4fad-be93-af98ab281408.jpg\",\"https://images.f99.com.vn/images/7aa1b93d-b8d6-490e-a678-ad130993e224.jpg\",\"https://images.f99.com.vn/images/c54e2ef7-4692-41a1-960c-7c2318b060fe.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Cá dứa 1 nắng\",\"Cá dứa tự nhiên\",\"Cá dứa biển\",\"Khô cá dứa\",\"giá cá dứa\",\"cá dứa mua ở đâu\",\"Cá dứa Vũng Tàu\",\"Cá dứa Cần Giờ\",\"cá dứa bán giá bao nhiêu\",\"cá dứa\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "VITOT FOOD - CÁ DỨA 1 NẮNG TỰ NHIÊN (1-1,5kg/con)",
+    "description": "<p><strong>1. CÁ DỨA 1 NẮNG LÀ GÌ?</strong></p><p class=\"ql-align-justify\"><strong>Cá dứa 1 nắng tự nhiên</strong> là cá được nuôi tự nhiên tại biển khác biệt hoàn toàn so với cá dứa nuôi bè. Thịt cá săn chắc và nạc hơn. Cá chứa nhiều chất dinh dưỡng như Omega 3 và DHA rất tốt cho sức khỏe.&nbsp;</p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/c327f6ff-3f42-46da-958e-557561f030a7.jpg\"></p><p class=\"ql-align-justify\">Cá không có xương chính, xương dăm, vị ăn đậm đà nên già trẻ lớn bé đều ăn được. Chỉ cần chiên lên thôi là tốn cơm hết biết.</p><p>- Quy cách đóng gói: 1 con từ 800-1500g/túi</p><p>- Các món ăn chế biến từ cá dứa:</p><ul><li>Cá dứa 1 nắng chiên vàng</li><li>Cá dứa sốt chua ngọt</li><li>Cá dứa nấu canh chua</li><li>Cá dứa làm nộm,...</li></ul><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/4a53575b-992e-4f30-b979-f8e2e647e0fc.jpg\"></p><p><br></p><p><strong>2. CAM KẾT CỦA VITOT FOOD</strong></p><p>- Hàng ngon - giá tốt</p><p>- 1 đổi 1 nếu sản phẩm bị lỗi.</p><p><br></p><p><br></p><p><br></p><p class=\"ql-align-justify\"><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/32c267be-edda-4d82-b469-2da1a7ea65a7.png",
+    "price": 350000,
+    "oldPrice": 550000,
+    "discountPercent": 36,
+    "stock": 50,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 218,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<ul><li class=\"ql-align-justify\">Cá không có chất bảo quản nên bảo quản ngăn đá để đảm bảo chất lượng</li><li class=\"ql-align-justify\">Khi nào chế biến bỏ ra ngoài tầm 5-10 phút rồi chế biến, không rã đông thông thường hay bỏ ngăn mát.</li></ul>",
+    "category": {
+      "id": 137,
+      "name": "Cá ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ff3ed7d5-23d5-401f-9001-09712d0a261d.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Cá dứa 1 nắng",
+      "Cá dứa tự nhiên",
+      "Cá dứa biển",
+      "Khô cá dứa",
+      "giá cá dứa",
+      "cá dứa mua ở đâu",
+      "Cá dứa Vũng Tàu",
+      "Cá dứa Cần Giờ",
+      "cá dứa bán giá bao nhiêu",
+      "cá dứa"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/32c267be-edda-4d82-b469-2da1a7ea65a7.png",
+      "https://images.f99.com.vn/images/45dca731-95d1-4fe2-b0ae-d768ade9b013.jpg",
+      "https://images.f99.com.vn/images/01849198-2f76-4fad-be93-af98ab281408.jpg",
+      "https://images.f99.com.vn/images/7aa1b93d-b8d6-490e-a678-ad130993e224.jpg",
+      "https://images.f99.com.vn/images/c54e2ef7-4692-41a1-960c-7c2318b060fe.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12819",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 54394,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 350000,
+        "oldPrice": 550000,
+        "discountPercent": 36,
+        "stock": 50,
+        "totalSold": 0,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<ul><li class=\"ql-align-justify\">Cá không có chất bảo quản nên bảo quản ngăn đá để đảm bảo chất lượng</li><li class=\"ql-align-justify\">Khi nào chế biến bỏ ra ngoài tầm 5-10 phút rồi chế biến, không rã đông thông thường hay bỏ ngăn mát.</li></ul>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 218,
+      "sellerRate": 4.6,
+      "sellerName": "VITOT FOOD - MÓN NGON NỔI TIẾNG",
+      "warehouseId": "5a5ccfcb-761e-4fc7-be85-dbc87b66387f",
+      "warehouseAddress": "thanh xuan, 263 Hoàng Văn Thái, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3549,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 80.99133393939447,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 12820,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "VITOT FOOD - CÁ SẶC TRỨNG 1 NẮNG CÀ MAU (500g/khay)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong>1. CÁ SẶC TRỨNG LÀ GÌ?</strong></p><p><strong>Cá sặc</strong> là loài đặc sản của vùng sông nước miền Tây. Cá này có thịt chắc, vị bùi, đặc biệt bên trong cá ôm túi trứng rất to, béo. Nếu bạn là người thích ăn trứng cá chắc chắn nên thử loại cá này.</p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/20f14b02-b375-47df-9652-3eee4dd347a2.jpg\"></p><p>Tại Vitot Food, cá sặc trứng được tuyển chọn kỹ càng, bụng con nào con nấy đầy tràn trứng vàng ươm. Hàng đã được sơ chế sạch sẽ, khách có thể chế biến luôn mà không mất nhiều công chuẩn bị.</p><p>- Quy cách đóng gói: 500g/khay</p><p>- Các món chế biến từ <strong>cá sặc trứng 1 nắng</strong>:</p><ul><li>Gỏi cá sặc trứng</li><li>Cá sặc trứng chiên</li><li>Cá sặc trứng kho.</li></ul><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/4720ecb8-be28-4d0d-925e-38a31a039fd3.jpg\"></p><p><br></p><p><strong>2. CAM KẾT CỦA VITOT FOOD</strong></p><p>- Hàng ngon - giá tốt.</p><p class=\"ql-align-justify\">- 1 đổi 1 nếu sản phẩm bị lỗi.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/8295a652-417f-4991-88ec-6ab4caf2675c.png\",\"https://images.f99.com.vn/images/308c879b-23c0-4028-891b-ebac2299a5a0.jpg\",\"https://images.f99.com.vn/images/d9fe1a78-6218-4b6f-84c6-c19ef3cce118.jpg\",\"https://images.f99.com.vn/images/f9a5f60e-fc8b-4720-a3f4-26ab3ae021f7.jpg\",\"https://images.f99.com.vn/images/1aff0d30-213a-4f6c-a3bd-0c9e654dcc67.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Cá sặc trứng\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "VITOT FOOD - CÁ SẶC TRỨNG 1 NẮNG CÀ MAU (500g/khay)",
+    "description": "<p><strong>1. CÁ SẶC TRỨNG LÀ GÌ?</strong></p><p><strong>Cá sặc</strong> là loài đặc sản của vùng sông nước miền Tây. Cá này có thịt chắc, vị bùi, đặc biệt bên trong cá ôm túi trứng rất to, béo. Nếu bạn là người thích ăn trứng cá chắc chắn nên thử loại cá này.</p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/20f14b02-b375-47df-9652-3eee4dd347a2.jpg\"></p><p>Tại Vitot Food, cá sặc trứng được tuyển chọn kỹ càng, bụng con nào con nấy đầy tràn trứng vàng ươm. Hàng đã được sơ chế sạch sẽ, khách có thể chế biến luôn mà không mất nhiều công chuẩn bị.</p><p>- Quy cách đóng gói: 500g/khay</p><p>- Các món chế biến từ <strong>cá sặc trứng 1 nắng</strong>:</p><ul><li>Gỏi cá sặc trứng</li><li>Cá sặc trứng chiên</li><li>Cá sặc trứng kho.</li></ul><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/4720ecb8-be28-4d0d-925e-38a31a039fd3.jpg\"></p><p><br></p><p><strong>2. CAM KẾT CỦA VITOT FOOD</strong></p><p>- Hàng ngon - giá tốt.</p><p class=\"ql-align-justify\">- 1 đổi 1 nếu sản phẩm bị lỗi.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/8295a652-417f-4991-88ec-6ab4caf2675c.png",
+    "price": 130000,
+    "oldPrice": 250000,
+    "discountPercent": 48,
+    "stock": 50,
+    "totalSold": 12,
+    "maxQuantityPerUser": null,
+    "unit": "500g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 218,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<ul><li class=\"ql-align-justify\">Cá không có chất bảo quản nên bảo quản ngăn đá để đảm bảo chất lượng.</li><li class=\"ql-align-justify\">Khi nào chế biến bỏ ra ngoài tầm 5-10 phút rồi chế biến, không rã đông thông thường hay bỏ ngăn mát.</li></ul>",
+    "category": {
+      "id": 137,
+      "name": "Cá ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ff3ed7d5-23d5-401f-9001-09712d0a261d.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Cá sặc trứng"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/8295a652-417f-4991-88ec-6ab4caf2675c.png",
+      "https://images.f99.com.vn/images/308c879b-23c0-4028-891b-ebac2299a5a0.jpg",
+      "https://images.f99.com.vn/images/d9fe1a78-6218-4b6f-84c6-c19ef3cce118.jpg",
+      "https://images.f99.com.vn/images/f9a5f60e-fc8b-4720-a3f4-26ab3ae021f7.jpg",
+      "https://images.f99.com.vn/images/1aff0d30-213a-4f6c-a3bd-0c9e654dcc67.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12820",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "500g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 54371,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 130000,
+        "oldPrice": 250000,
+        "discountPercent": 48,
+        "stock": 50,
+        "totalSold": 12,
+        "unit": "500g",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<ul><li class=\"ql-align-justify\">Cá không có chất bảo quản nên bảo quản ngăn đá để đảm bảo chất lượng.</li><li class=\"ql-align-justify\">Khi nào chế biến bỏ ra ngoài tầm 5-10 phút rồi chế biến, không rã đông thông thường hay bỏ ngăn mát.</li></ul>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 218,
+      "sellerRate": 4.6,
+      "sellerName": "VITOT FOOD - MÓN NGON NỔI TIẾNG",
+      "warehouseId": "5a5ccfcb-761e-4fc7-be85-dbc87b66387f",
+      "warehouseAddress": "thanh xuan, 263 Hoàng Văn Thái, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3549,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 80.99133393939447,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 12840,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "VITOT FOOD - CÁ MỐI PHILE ĐẶC BIỆT (500g/khay)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgb(0, 26, 51);\">1. CÁ MỐI DẺO PHILE LÀ GÌ?</strong></p><p class=\"ql-align-justify\"><strong>Cá mối</strong> đặc biệt là cá mối biển tươi sau đó được làm sạch loại bỏ đầu, loại bỏ ruột bằng dao, loại bỏ mang, loại bỏ mang và loại bỏ ruột và rửa sạch, loại bỏ các mạch máu ở phía sau cá để cá không bị tanh và rửa qua nhiều nước, Ở phần cạo, lấy cá và đặt cá lên thớt, dùng dao cắt cá làm đôi, sau đó dùng muỗng để cạo ra từ phía sau cột sống.</p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/a3dc8982-a886-4910-acd1-6a0ec63f9a6d.jpg\"></p><p class=\"ql-align-justify\">Sau đó mang cá ra phơi 2 nắng đủ thời gian cho cá vẫn còn đủ độ ẩm thích hợp để cá giữ mùi vị thơm ngon, cá đã được phile đã được phanh đôi, phile loại bỏ xương chính của nó. Rồi cho vào túi hút chân không cấp đông.</p><p><span style=\"color: rgb(0, 26, 51);\">- Quy cách đóng gói: 1- 2 con/kg/ túi</span></p><p><span style=\"color: rgb(0, 26, 51);\">- Các món ăn chế biến từ </span><strong style=\"color: rgb(0, 26, 51);\">cá mối dẻo 2 nắng</strong><span style=\"color: rgb(0, 26, 51);\">:</span></p><ul><li><span style=\"color: rgb(0, 26, 51);\">Cá mối chiên vàng</span></li><li><span style=\"color: rgb(0, 26, 51);\">Cá mối sốt chua ngọt,...</span></li></ul><p class=\"ql-align-center\"><span style=\"color: rgb(0, 26, 51);\">﻿</span><img src=\"https://images.f99.com.vn/images/c4121eee-9217-4149-b892-9eb2e8143fdd.jpg\"></p><p><span style=\"color: rgb(0, 26, 51);\">﻿</span></p><p><strong style=\"color: rgb(0, 26, 51);\">2. CAM KẾT CỦA VITOT FOOD</strong></p><p><span style=\"color: rgb(0, 26, 51);\">- Hàng ngon - giá tốt</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 26, 51);\">- 1 đổi 1 nếu sản phẩm bị lỗi.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/f60bf4ab-ef17-455e-9b55-56465a91f933.png\",\"https://images.f99.com.vn/images/dd3b9a33-277d-45c2-9057-d2015f017cd6.jpg\",\"https://images.f99.com.vn/images/b2cfbbe6-7278-4283-93b6-921489b08e27.jpg\",\"https://images.f99.com.vn/images/c1d8ee0a-ab27-4a0e-a260-94232d8c7353.jpg\",\"https://images.f99.com.vn/images/e5b43d19-6b88-4b5b-85e3-96887a22289f.jpg\",\"https://images.f99.com.vn/images/6963d1e8-6ecb-41bb-88ac-a5de1a56b2e7.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Cá Mối\",\"Cá mối 1 nắng\",\"Cá mối phile\",\"Cá mối biển\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "VITOT FOOD - CÁ MỐI PHILE ĐẶC BIỆT (500g/khay)",
+    "description": "<p><strong style=\"color: rgb(0, 26, 51);\">1. CÁ MỐI DẺO PHILE LÀ GÌ?</strong></p><p class=\"ql-align-justify\"><strong>Cá mối</strong> đặc biệt là cá mối biển tươi sau đó được làm sạch loại bỏ đầu, loại bỏ ruột bằng dao, loại bỏ mang, loại bỏ mang và loại bỏ ruột và rửa sạch, loại bỏ các mạch máu ở phía sau cá để cá không bị tanh và rửa qua nhiều nước, Ở phần cạo, lấy cá và đặt cá lên thớt, dùng dao cắt cá làm đôi, sau đó dùng muỗng để cạo ra từ phía sau cột sống.</p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/a3dc8982-a886-4910-acd1-6a0ec63f9a6d.jpg\"></p><p class=\"ql-align-justify\">Sau đó mang cá ra phơi 2 nắng đủ thời gian cho cá vẫn còn đủ độ ẩm thích hợp để cá giữ mùi vị thơm ngon, cá đã được phile đã được phanh đôi, phile loại bỏ xương chính của nó. Rồi cho vào túi hút chân không cấp đông.</p><p><span style=\"color: rgb(0, 26, 51);\">- Quy cách đóng gói: 1- 2 con/kg/ túi</span></p><p><span style=\"color: rgb(0, 26, 51);\">- Các món ăn chế biến từ </span><strong style=\"color: rgb(0, 26, 51);\">cá mối dẻo 2 nắng</strong><span style=\"color: rgb(0, 26, 51);\">:</span></p><ul><li><span style=\"color: rgb(0, 26, 51);\">Cá mối chiên vàng</span></li><li><span style=\"color: rgb(0, 26, 51);\">Cá mối sốt chua ngọt,...</span></li></ul><p class=\"ql-align-center\"><span style=\"color: rgb(0, 26, 51);\">﻿</span><img src=\"https://images.f99.com.vn/images/c4121eee-9217-4149-b892-9eb2e8143fdd.jpg\"></p><p><span style=\"color: rgb(0, 26, 51);\">﻿</span></p><p><strong style=\"color: rgb(0, 26, 51);\">2. CAM KẾT CỦA VITOT FOOD</strong></p><p><span style=\"color: rgb(0, 26, 51);\">- Hàng ngon - giá tốt</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 26, 51);\">- 1 đổi 1 nếu sản phẩm bị lỗi.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/f60bf4ab-ef17-455e-9b55-56465a91f933.png",
+    "price": 105000,
+    "oldPrice": 200000,
+    "discountPercent": 48,
+    "stock": 50,
+    "totalSold": 25,
+    "maxQuantityPerUser": null,
+    "unit": "500g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 218,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<ul><li class=\"ql-align-justify\">Cá không có chất bảo quản nên bảo quản ngăn đá để đảm bảo chất lượng</li><li class=\"ql-align-justify\">Khi nào chế biến bỏ ra ngoài tầm 5-10 phút rồi chế biến, không rã đông thông thường hay bỏ ngăn mát.</li></ul>",
+    "category": {
+      "id": 137,
+      "name": "Cá ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/ff3ed7d5-23d5-401f-9001-09712d0a261d.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Cá Mối",
+      "Cá mối 1 nắng",
+      "Cá mối phile",
+      "Cá mối biển"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/f60bf4ab-ef17-455e-9b55-56465a91f933.png",
+      "https://images.f99.com.vn/images/dd3b9a33-277d-45c2-9057-d2015f017cd6.jpg",
+      "https://images.f99.com.vn/images/b2cfbbe6-7278-4283-93b6-921489b08e27.jpg",
+      "https://images.f99.com.vn/images/c1d8ee0a-ab27-4a0e-a260-94232d8c7353.jpg",
+      "https://images.f99.com.vn/images/e5b43d19-6b88-4b5b-85e3-96887a22289f.jpg",
+      "https://images.f99.com.vn/images/6963d1e8-6ecb-41bb-88ac-a5de1a56b2e7.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12840",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "500g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 66597,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 105000,
+        "oldPrice": 200000,
+        "discountPercent": 48,
+        "stock": 50,
+        "totalSold": 25,
+        "unit": "500g",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<ul><li class=\"ql-align-justify\">Cá không có chất bảo quản nên bảo quản ngăn đá để đảm bảo chất lượng</li><li class=\"ql-align-justify\">Khi nào chế biến bỏ ra ngoài tầm 5-10 phút rồi chế biến, không rã đông thông thường hay bỏ ngăn mát.</li></ul>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 218,
+      "sellerRate": 4.6,
+      "sellerName": "VITOT FOOD - MÓN NGON NỔI TIẾNG",
+      "warehouseId": "5a5ccfcb-761e-4fc7-be85-dbc87b66387f",
+      "warehouseAddress": "thanh xuan, 263 Hoàng Văn Thái, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3549,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 80.99133393939447,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

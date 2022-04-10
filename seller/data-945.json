@@ -1,0 +1,35 @@
+{
+  "id": 945,
+  "name": "Tổ Yến Sạch",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/3bfd6e62-56f6-44f2-9c1b-b05c91ba69ee.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên yến sào chưng sẵn, thực phẩm sạch, nước ép",
+  "headQuarter": "Kiot 12 ngõ 124 Vĩnh Tuy, , Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+  "email": "tranthixuan2051984@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

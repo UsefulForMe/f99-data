@@ -1,0 +1,35 @@
+{
+  "id": 1016,
+  "name": "JULY FRUITS ",
+  "logo": "https://images.f99.com.vn/groupbuy-images/49534928-616c-436d-b142-fcf5d39c400a.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp sỉ - lẻ trái cây nhập khẩu sạch: Mỹ, Úc, Newzealand,…..",
+  "headQuarter": "Số 56 đường 19/5 Văn Quán Hà Đông Hà Nội, Văn Quán, Hà Đông, Hà Nội",
+  "email": "nguyenhoikt5k6@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 3.7,
+  "availableTime": {
+    "openTime": "07:30",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 6
+}

@@ -1,0 +1,35 @@
+{
+  "id": 529,
+  "name": "Milana Food",
+  "logo": "https://cdn.f99.link/groupbuy-images/cc6cb374-4457-40ed-a8ca-17ffdbaaddbf.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Milana Food - Chuyên cung cấp thực phẩm ĐÔNG LẠNH, ĐỒ ĂN VẶT ",
+  "headQuarter": "Cụm 5 thôn Ích Vịnh, Vĩnh Quỳnh, Thanh Trì, Hà Nội",
+  "email": "nguyenchinh481995@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.3,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 6
+}

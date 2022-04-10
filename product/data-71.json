@@ -1,0 +1,985 @@
+[
+  {
+    "id": 2848,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Đu đủ ruột đỏ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"background-color: transparent;\">Đủ đủ ruột đỏ là cây quả có xuất sứ từ Đài Loan, trọng lượng trung bình 1 - 2kg, thịt dày màu đỏ cam, ăn rất ngọt và thơm.&nbsp;</span></p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Thông tin dinh dưỡng:</strong></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Đu đủ ruột đỏ là loại trái cây giàu chất dinh dưỡng khá tốt</span><span style=\"color: rgb(0, 128, 0);\">. </span><span style=\"color: rgb(0, 0, 0);\">Hàm lượng beta caroten trong quả có nhiều hơn những trái cây khác, có thể cung cấp đầy đủ các loại vitamin A, B, C, E protid, chất xơ, nước, axit lên men và nhiều nguyên tố vi lượng thiết yếu Fe, Ca, Mg, Zn, K rất cần cho cơ thể, ngoài ra còn có thêm enzym papain một chất protease có tác dụng làm mềm các protein.</span></p><ul><li>Làm đẹp da, ngăn quá trình oxy hóa hiệu quả</li><li>Thanh nhiệt , giải mát</li><li>Bảo vệ tốt cho hệ tim mạch, làm giảm mỡ máu hạn chế nguy cơ hồi máu cơ tim, tai biến mạch máu não</li><li>Đu đủ có nhiều chất xơ nên rất tốt cho hệ tiêu hóa, trị chứng táo bón</li><li>Ngăn ngừa ung thư đường ruột hiệu quả</li><li>Thích hợp với chế độ giảm cân</li><li>Tăng cường sức đề kháng cho cơ thể</li></ul><p><strong style=\"color: rgb(0, 0, 0);\">Hướng dẫn bảo quản</strong><span style=\"color: rgb(0, 0, 0);\">: Bảo quản ở nhiệt độ thường hoặc trong ngăn mát tủ lạnh.</span></p><p><strong style=\"color: rgb(0, 0, 0);\">Hướng dẫn sử dụng</strong><span style=\"color: rgb(0, 0, 0);\">: Ăn ngay hoặc chế biến cháo; xay sinh tố.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/15b3b400-4838-4e64-95cf-43cdf2fdec33.jpg\",\"https://images.f99.com.vn/images/a399649f-61f9-4dfa-aa4e-17d7b581f5ad.jpg\",\"https://images.f99.com.vn/images/942a88ad-88c9-4cbf-9cca-11f8367f535d.jpg\",\"https://images.f99.com.vn/images/5ec533f5-6679-4ddb-b7cf-f0f9052d38ce.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Đu đủ ruột đỏ",
+    "description": "<p><span style=\"background-color: transparent;\">Đủ đủ ruột đỏ là cây quả có xuất sứ từ Đài Loan, trọng lượng trung bình 1 - 2kg, thịt dày màu đỏ cam, ăn rất ngọt và thơm.&nbsp;</span></p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Thông tin dinh dưỡng:</strong></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Đu đủ ruột đỏ là loại trái cây giàu chất dinh dưỡng khá tốt</span><span style=\"color: rgb(0, 128, 0);\">. </span><span style=\"color: rgb(0, 0, 0);\">Hàm lượng beta caroten trong quả có nhiều hơn những trái cây khác, có thể cung cấp đầy đủ các loại vitamin A, B, C, E protid, chất xơ, nước, axit lên men và nhiều nguyên tố vi lượng thiết yếu Fe, Ca, Mg, Zn, K rất cần cho cơ thể, ngoài ra còn có thêm enzym papain một chất protease có tác dụng làm mềm các protein.</span></p><ul><li>Làm đẹp da, ngăn quá trình oxy hóa hiệu quả</li><li>Thanh nhiệt , giải mát</li><li>Bảo vệ tốt cho hệ tim mạch, làm giảm mỡ máu hạn chế nguy cơ hồi máu cơ tim, tai biến mạch máu não</li><li>Đu đủ có nhiều chất xơ nên rất tốt cho hệ tiêu hóa, trị chứng táo bón</li><li>Ngăn ngừa ung thư đường ruột hiệu quả</li><li>Thích hợp với chế độ giảm cân</li><li>Tăng cường sức đề kháng cho cơ thể</li></ul><p><strong style=\"color: rgb(0, 0, 0);\">Hướng dẫn bảo quản</strong><span style=\"color: rgb(0, 0, 0);\">: Bảo quản ở nhiệt độ thường hoặc trong ngăn mát tủ lạnh.</span></p><p><strong style=\"color: rgb(0, 0, 0);\">Hướng dẫn sử dụng</strong><span style=\"color: rgb(0, 0, 0);\">: Ăn ngay hoặc chế biến cháo; xay sinh tố.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/15b3b400-4838-4e64-95cf-43cdf2fdec33.jpg",
+    "price": 22900,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 30,
+    "totalSold": 473,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": null,
+    "category": {
+      "id": 71,
+      "name": "Đu đủ",
+      "imageUrl": "https://imgur.com/73f4TLW.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/15b3b400-4838-4e64-95cf-43cdf2fdec33.jpg",
+      "https://images.f99.com.vn/images/a399649f-61f9-4dfa-aa4e-17d7b581f5ad.jpg",
+      "https://images.f99.com.vn/images/942a88ad-88c9-4cbf-9cca-11f8367f535d.jpg",
+      "https://images.f99.com.vn/images/5ec533f5-6679-4ddb-b7cf-f0f9052d38ce.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/2848",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg",
+          "Combo 3kg",
+          "Combo 5kg"
+        ]
+      },
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg",
+          "Combo 3kg",
+          "Combo 5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 4934,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 22900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 273,
+        "unit": "Kg",
+        "sku": "20001439",
+        "rating": 0,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 4930,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "21,3k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 63900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 118,
+        "unit": "Kg",
+        "sku": "20000618",
+        "rating": 0,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "21,3k/kg",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 3kg"
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 4932,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "19,7k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 98500,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 82,
+        "unit": "Kg",
+        "sku": "20000767",
+        "rating": 0,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "19,7k/kg",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 5kg"
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 38996,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Đu Đủ Ruột Đỏ Sài Gòn Rất Ngon",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>25.000n 1 quả tầm khoảng 1kg</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/30600c49-e9dd-4abf-9836-f66064282cf1.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Đu Đủ Ruột Đỏ Sài Gòn Rất Ngon",
+    "description": "<p>25.000n 1 quả tầm khoảng 1kg</p>",
+    "imageUrl": "https://images.f99.com.vn/images/30600c49-e9dd-4abf-9836-f66064282cf1.jpg",
+    "price": 35000,
+    "oldPrice": 40000,
+    "discountPercent": 12,
+    "stock": 20,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 333,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 71,
+      "name": "Đu đủ",
+      "imageUrl": "https://imgur.com/73f4TLW.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/30600c49-e9dd-4abf-9836-f66064282cf1.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/38996",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 55559,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 35000,
+        "oldPrice": 40000,
+        "discountPercent": 12,
+        "stock": 20,
+        "totalSold": 1,
+        "unit": "Kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 333,
+      "sellerRate": 4.5,
+      "sellerName": "HOA QUẢ TƯƠI UK",
+      "warehouseId": "00a32823-8ca3-40ea-9b90-7602ba7a142d",
+      "warehouseAddress": " Hà Nội,  Nam Từ Liêm,  Mễ Trì, Số 111 ngõ 14 Mễ Trì Hạ",
+      "distance": 5655,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 73.88293932300736,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 40040,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "5kg đu đủ ngọt",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Đu đủ ruột đỏ ba vì hàng đảm bảo 100% sạch </p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tba/1.5/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\"> Để tự chín không dùng thuốc giấm, không  thuốc sâu chỉ phun rượu tỏi, khu dùng phân hoá học chỉ chăm bằng phân gà!</p><p>Giá chỉ : #100k/5kg</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/57b93b34-8150-4dbe-9bd3-a8810311e74b.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "5kg đu đủ ngọt",
+    "description": "<p>Đu đủ ruột đỏ ba vì hàng đảm bảo 100% sạch </p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tba/1.5/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\"> Để tự chín không dùng thuốc giấm, không  thuốc sâu chỉ phun rượu tỏi, khu dùng phân hoá học chỉ chăm bằng phân gà!</p><p>Giá chỉ : #100k/5kg</p>",
+    "imageUrl": "https://images.f99.com.vn/images/57b93b34-8150-4dbe-9bd3-a8810311e74b.jpg",
+    "price": 100000,
+    "oldPrice": 150000,
+    "discountPercent": 33,
+    "stock": 100,
+    "totalSold": 4,
+    "maxQuantityPerUser": null,
+    "unit": "5kg",
+    "sku": "A047",
+    "origin": "",
+    "sellerId": 414,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 71,
+      "name": "Đu đủ",
+      "imageUrl": "https://imgur.com/73f4TLW.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/57b93b34-8150-4dbe-9bd3-a8810311e74b.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/40040",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 414,
+      "sellerRate": 4.2,
+      "sellerName": "PHƯƠNG ANH FRESH FRUIT",
+      "warehouseId": "2b3872f1-7f0f-492f-8e42-66d70a659bfc",
+      "warehouseAddress": "Số 81,tổ 4 Phú Đô Nam Từ Liêm Hà Nội",
+      "distance": 7371,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 56.65681345565877,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 96923,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "ĐU ĐỦ RUỘT VÀNG TIỀN GIANG",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(5, 5, 5);\">Đu đủ vàng Tiền Giang, thơm vổ mỏng thịt mềm mịn ngọt lịm con tim hàng loại 1 từ 1kg </span></p><p><span style=\"color: rgb(5, 5, 5);\"><span class=\"ql-cursor\">﻿</span>Đu đủ vàng Tiền Giang, thơm vổ mỏng thịt mềm mịn ngọt lịm con tim hàng loại 1 từ 1kg </span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/71cdb197-88ea-4d2b-94df-a9615283aff8.jpg\",\"https://images.f99.com.vn/images/6d913c88-d581-4f22-a0cb-75895ebaab93.jpg\",\"https://images.f99.com.vn/images/256d3dca-e6a8-42b9-aa6c-1e6a2740abda.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "ĐU ĐỦ RUỘT VÀNG TIỀN GIANG",
+    "description": "<p><span style=\"color: rgb(5, 5, 5);\">Đu đủ vàng Tiền Giang, thơm vổ mỏng thịt mềm mịn ngọt lịm con tim hàng loại 1 từ 1kg </span></p><p><span style=\"color: rgb(5, 5, 5);\"><span class=\"ql-cursor\">﻿</span>Đu đủ vàng Tiền Giang, thơm vổ mỏng thịt mềm mịn ngọt lịm con tim hàng loại 1 từ 1kg </span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/71cdb197-88ea-4d2b-94df-a9615283aff8.jpg",
+    "price": 30000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 100,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "DU0002",
+    "origin": "",
+    "sellerId": 777,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 71,
+      "name": "Đu đủ",
+      "imageUrl": "https://imgur.com/73f4TLW.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/71cdb197-88ea-4d2b-94df-a9615283aff8.jpg",
+      "https://images.f99.com.vn/images/6d913c88-d581-4f22-a0cb-75895ebaab93.jpg",
+      "https://images.f99.com.vn/images/256d3dca-e6a8-42b9-aa6c-1e6a2740abda.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/96923",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 96924,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 30000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 1,
+        "unit": "kg",
+        "sku": "DU0002",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 777,
+      "sellerRate": 4.6,
+      "sellerName": "Atle Fruit",
+      "warehouseId": "d6269ee8-8fe9-415d-9a81-846c9a6341ac",
+      "warehouseAddress": "Số 23 Ngách 8/191/3, Tổ 1, P. Phú Đô, Nam Từ Liêm, Hà Nội",
+      "distance": 7240,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 79.43133142857279,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

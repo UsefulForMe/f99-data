@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="width: 100vw; height: 100vh;background: rgb(80,170,0);
+background: linear-gradient(360deg, rgba(80,170,0,1) 0%, rgba(0,163,65,1) 35%, rgba(0,154,105,1) 100%);">
+   <form  enctype="multipart/form-data">
+        <input type="file" multiple name="files" />
+        <button type="button"  onclick="upload()">submit</button>
+   </form>
+</body>
+<script>
+    function upload(){
+        const form = document.querySelector('form');
+        const files = document.querySelector('input[type=file]').files;
+        const formData = new FormData();
+        for (let i = 0; i < files.length; i++) {
+            formData.append('files', files[i]);
+        }
+        fetch('http://localhost:3000/v1/upload/files', {
+            headers: {
+                'Content-Type': 'multipart/form-data; charset=utf-8; boundary="another cool boundary"',
+                "Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7fSwiZXhwIjoxNjQ4NDQ0MzMxLCJpc3MiOiJiZTRlNDBmYy04NzYyLTRhYTctOWU2My03MjY1NWMxZmEzMTIifQ.AI8wapQyeQeqTNLeHaQOuyv8Z0g3Mf9Ee-svk_qtiXM"
+            },
+            method: 'POST',
+            body: formData
+        }).then(response => response.json())
+            .then(data => console.log(data))
+            .catch(error => console.error(error));
+
+    }
+
+
+</script>
+</html>

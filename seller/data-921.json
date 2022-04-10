@@ -1,0 +1,35 @@
+{
+  "id": 921,
+  "name": "LOANTHANH FOOD",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/b37b8eb2-8b8d-4c37-b5d4-356befb4e97b.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "LOANTHANH FOOD được thành lập với mục tiêu cung cấp thực phẩm nhập khẩu chất lượng cao nhất và mang đến cho người tiêu dùng những lựa chọn mới với giá cả phải chăng. Các sản phẩm thực phẩm của chúng tôi phải đảm bảo nghiêm ngặt có nguồn gốc rõ ràng, chất lượng cao, không có chất thay thế nguyên liệu tự nhiên, không biến đổi Gen, nguyên liệu thô được chọn lọc kỹ càng và luôn tươi mới.",
+  "headQuarter": "No16 LK587 Khu Giếng Sen, La Khê, Hà Đông, Hà Nội",
+  "email": "Loanthanhcom.vn@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": false,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:30",
+    "closeTime": "17:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

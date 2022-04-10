@@ -1,0 +1,35 @@
+{
+  "id": 579,
+  "name": "Hải Sản Sạch SANOLA",
+  "logo": "https://cdn.f99.link/groupbuy-images/f486ce1a-fb87-4d69-b5ce-0c611e3dc5ec.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Hải sản Sanola đúng với tiêu chỉ sạch ngon lành. Chuyên kinh doanh mặt hàng hải sản tươi ngon và quan trọng nhất giá cả vô cùng ưu đãi.Đến với hải sản sanola mọi người có vô vàn lựa chọn với rất nhiều sản phẩm đa dạng. Mọi khâu đều được bảo đảm an toàn vệ sinh . Sanola Luôn là điểm đến tin cậy của mọi người",
+  "headQuarter": "31 ngõ Đình Đông, Cầu Dền, Hai Bà Trưng, Hà Nội",
+  "email": "Lananhpt204@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.4,
+  "availableTime": {
+    "openTime": "06:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 7
+}

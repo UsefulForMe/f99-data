@@ -1,0 +1,35 @@
+{
+  "id": 557,
+  "name": "True Food – Thực phẩm sạch Minh Bạch",
+  "logo": "https://cdn.f99.link/groupbuy-images/b430b22a-2550-4b4c-80f7-0da3b81ebfae.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chúng tôi là nhà nhập khẩu trực tiếp thực phẩm từ Châu Âu – Mỹ - Braxin – Úc. Với Công nghệ và tiêu chuẩn nghiêm ngặt của các nước phát triển về ATTP. Chúng tôi hoạt động theo Chương trình ATTP của Quốc tế HACCP đảm bảo chất lượng và ATTP.",
+  "headQuarter": "Đối diện số 12BT2 khu đô thị trung văn (vinaconex3), Số 17 BT 4-1 Khu đô thị Trung Văn, Trung Văn, Nam Từ Liêm, Hà Nội",
+  "email": "nguyennghia@trf.vn",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": false,
+  "rating": 4.7,
+  "availableTime": {
+    "openTime": "08:15",
+    "closeTime": "17:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 13
+}

@@ -1,0 +1,35 @@
+{
+  "id": 177,
+  "name": "Vương Quốc Hạt Khô Hà Nội",
+  "logo": "https://cdn.f99.link/groupbuy-images/6c4ea7ce-61bc-478e-8815-60bec7ac74cc.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Vương Quốc Hạt Khô chuyên hạt dinh dưỡng nhập khẩu, Nguyên liệu làm sữa hạt.",
+  "headQuarter": "31C Nguyễn Huy Tưởng, Thanh Xuân Trung, Thanh Xuân, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 2
+}

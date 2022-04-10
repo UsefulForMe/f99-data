@@ -1,0 +1,35 @@
+{
+  "id": 198,
+  "name": "Fine Fruits",
+  "logo": "https://cdn.f99.link/groupbuy-images/96bb1a37-7a64-499e-8245-072adb3629dd.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên phân phối bán buôn bán lẻ các mặt hàng hoa quả nhập khẩu chính ngạch từ các nước",
+  "headQuarter": "Số 37 ngõ 61 phố Bằng Liệt , Hoàng Liệt, Hoàng Mai, Hà Nội",
+  "email": "lethingoc841@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 2
+}

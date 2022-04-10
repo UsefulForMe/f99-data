@@ -1,0 +1,35 @@
+{
+  "id": 967,
+  "name": "King Fruit",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/8a713d4f-9714-4bc7-9c30-78b226e716d7.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp bán buôn, bán lẻ các loại hoa quả nhập khẩu Úc, Mỹ, Canada, Newzeland và các loại hoa quả đặc sản vùng miền",
+  "headQuarter": "Số 38 ngõ 116 Miếu Đầm, Mễ Trì, Nam Từ Liêm, Hà Nội",
+  "email": "nguyenthithanhdhkt@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "18:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

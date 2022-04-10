@@ -1,0 +1,35 @@
+{
+  "id": 612,
+  "name": "Gold food",
+  "logo": "https://cdn.f99.link/groupbuy-images/7302c8e3-7562-42d7-9dba-18193df33f3d.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cung cấp và phân phối thực phẩm nhập khẩu, hải sản",
+  "headQuarter": "Số nhà 31 ngách 248 ngõ 192 Lê Trọng Tấn, Định Công, Hoàng Mai, Hà Nội",
+  "email": "hoangthuhoasen@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "07:30",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

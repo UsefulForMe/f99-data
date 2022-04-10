@@ -1,0 +1,35 @@
+{
+  "id": 562,
+  "name": "Tạp Hóa Thu Thủy",
+  "logo": "https://cdn.f99.link/groupbuy-images/1ea1d3fd-88e3-4f9a-a008-47acce3cfda3.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Tạp hóa Thu Thủy chuyên cung cấp các loại gạo ngon, sạch, đảm bảo chất lượng – thực phẩm đông lạnh, đóng gói",
+  "headQuarter": "Số 11B Đông Quan, Quan Hoa, Cầu Giấy, Hà Nội",
+  "email": "nguyenthithuytn045@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "07:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

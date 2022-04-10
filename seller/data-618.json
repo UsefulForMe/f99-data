@@ -1,0 +1,35 @@
+{
+  "id": 618,
+  "name": "1983food- Thực phẩm sạch Hà Nội",
+  "logo": "https://cdn.f99.link/groupbuy-images/73aa8432-d483-49cb-9216-0b7639861cb7.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Các sản phẩm hoa quả vùng miền, thực phẩm nhập khẩu, thực phẩm đặc sản vùng miền. \nUy tín- chất lượng luôn đc #1983food đặt lên hàng đầu.",
+  "headQuarter": "C1- Nghĩa Tân, Nghĩa Tân, Cầu Giấy, Hà Nội",
+  "email": "trangtk.3101@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

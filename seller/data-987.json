@@ -1,0 +1,35 @@
+{
+  "id": 987,
+  "name": "Bếp Mẹ Mỳ",
+  "logo": "https://images.f99.com.vn/groupbuy-images/587e51c5-514d-4d33-9a99-5175a00ddf80.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Bếp mẹ Mỳ - Nấu ăn từ tâm, chuyên bán các loại thức ăn chế biến sẵn phục vụ cho bữa ăn gia đình",
+  "headQuarter": "Số 2 ngõ 24 Nguyễn Phúc Lai, Phường Ô Chợ Dừa, Quận Đống Đa, TP Hà Nội, Ô Chợ Dừa, Đống Đa, Hà Nội",
+  "email": "thuynguyen.skids@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "10:00",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

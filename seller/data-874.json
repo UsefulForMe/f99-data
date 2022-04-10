@@ -1,0 +1,35 @@
+{
+  "id": 874,
+  "name": "Trái cây Thanh Xuân",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/6434e7f0-cb77-4f7e-ab19-7fbb9b4386aa.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên mặt hàng trái cây theo mùa ",
+  "headQuarter": "291 Vũ Hữu, Thanh Xuân Bắc, Thanh Xuân, Hà Nội",
+  "email": "Hoangngannguyen09@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.3,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 6
+}

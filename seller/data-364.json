@@ -1,0 +1,35 @@
+{
+  "id": 364,
+  "name": "MQ Fresh Mart",
+  "logo": "https://cdn.f99.link/groupbuy-images/fe7e07b4-0370-4eb6-828b-d7336c1e4f7f.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên thực phẩm tươi sống, thịt heo, thịt bò, thịt gà, chuyên Phô mai, sữa tươi(chuyên về mặt hàng...)",
+  "headQuarter": "Số 9 ngõ 44 Thái Thịnh, Ngã Tư Sở, Đống Đa, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 3.8,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 9
+}

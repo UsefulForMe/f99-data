@@ -1,0 +1,35 @@
+{
+  "id": 378,
+  "name": "BỮA ĂN AN TOÀN ",
+  "logo": "https://cdn.f99.link/groupbuy-images/d8d42721-8e79-4d58-8cbc-9a9c7f0c67e8.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Là đơn vị đồng hành cùng Sở NN & PTT Hà Nội trong các hoạt động quảng bá, giới thiệu tiêu thụ Nông sản thực phẩm an toàn có kiểm soát của TP Hà Nội và các tỉnh.",
+  "headQuarter": "Số 91/55 Trần Phú, Văn Quán, Hà Đông, Hà Nội",
+  "email": "Safemeals.baat@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.3,
+  "availableTime": {
+    "openTime": "06:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 6
+}

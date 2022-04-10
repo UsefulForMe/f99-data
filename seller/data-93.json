@@ -1,0 +1,35 @@
+{
+  "id": 93,
+  "name": "KAMI SHOP",
+  "logo": "https://cdn.f99.link/groupbuy-images/647a2360-71a9-4f48-a418-ba0cdad22a09.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Kami Shop chuyên cung cấp các sản phẩm ăn vặt chất lượng cao, mang đến cho khách hàng những sản phẩm chất lượng và tiện dụng.",
+  "headQuarter": "Số 6/40/71 Đường Phương Canh, Phường Xuân Phương, Quận Nam Từ Liêm, TP. Hà Nội, Phương Canh, Nam Từ Liêm, Hà Nội",
+  "email": "tlkhangminh.pat@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.8,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

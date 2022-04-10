@@ -1,0 +1,35 @@
+{
+  "id": 785,
+  "name": "Thượng Đỉnh Food",
+  "logo": "https://cdn.f99.link/groupbuy-images/eb29278e-ff6c-4902-aed8-935a563add6b.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Thượng Đỉnh food chuyên cung cấp thực phẩm nhập khẩu",
+  "headQuarter": "14 ngách 81 ngõ 147B Tân Mai, Hoàng Mai, Hà Nội",
+  "email": "thuongdinhfood@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.3,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "19:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 6
+}

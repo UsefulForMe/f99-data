@@ -1,0 +1,35 @@
+{
+  "id": 620,
+  "name": "Thực Phẩm an toàn HaiNo",
+  "logo": "https://cdn.f99.link/groupbuy-images/21b7a027-5b76-461a-a2c8-9f83985a89da.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cung cấp thực phẩm an toàn, tươi ngon đảm bảo chất lượng",
+  "headQuarter": "53 ngõ 103 Cổ Nhuế 2, Cổ Nhuế 2, Bắc Từ Liêm, Hà Nội",
+  "email": "hai85.thinhvuong.thienkhoi@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "07:00",
+    "closeTime": "20:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

@@ -1,0 +1,3272 @@
+[
+  {
+    "id": 7971,
+    "attributeTextValues": [
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Giấm mơ mật ong</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/3d7a184322bb4ce9b540f16d7dbb3747.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Giấm mơ mật ong",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Giấm mơ mật ong",
+    "description": "<p>Giấm mơ mật ong</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/3d7a184322bb4ce9b540f16d7dbb3747.jpg",
+    "price": 35000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Chai",
+    "sku": "8938511787095",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 112,
+      "name": "Đồ ăn nhanh ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/25e50049-ff6c-43b5-80fe-a874c2e8ebd8.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/3d7a184322bb4ce9b540f16d7dbb3747.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7971",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8094,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Ớt bột Hàn Quốc vảy 500gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/ae8ebdfc45da47ba96c33b2974312895.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Ớt bột Hàn Quốc vảy 500gr",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/ae8ebdfc45da47ba96c33b2974312895.jpg",
+    "price": 85000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Gói",
+    "sku": "8809258458968",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 112,
+      "name": "Đồ ăn nhanh ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/25e50049-ff6c-43b5-80fe-a874c2e8ebd8.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/ae8ebdfc45da47ba96c33b2974312895.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8094",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8160,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Sốt chấm Hải Sản Dasavi 260gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Sốt chấm Hải Sản Dasavi 260gr</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/a8140b7c925e4d38b6acee7200b03fd4.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Sốt chấm Hải Sản Dasavi 260gr",
+    "description": "<p>Sốt chấm Hải Sản Dasavi 260gr</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/a8140b7c925e4d38b6acee7200b03fd4.png",
+    "price": 21000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 11,
+    "maxQuantityPerUser": null,
+    "unit": "Chai",
+    "sku": "8936046120049",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p>s</p>",
+    "category": {
+      "id": 112,
+      "name": "Đồ ăn nhanh ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/25e50049-ff6c-43b5-80fe-a874c2e8ebd8.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/a8140b7c925e4d38b6acee7200b03fd4.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8160",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8238,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dầu Ô liu hạt cải 1L",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dầu Ô liu hạt cải 1L</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/0967a0b62ac74daab36ab0a5e4b3fcc9.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dầu Ô liu hạt cải 1L",
+    "description": "<p>Dầu Ô liu hạt cải 1L</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/0967a0b62ac74daab36ab0a5e4b3fcc9.jpg",
+    "price": 140000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 4,
+    "maxQuantityPerUser": null,
+    "unit": "Chai",
+    "sku": "9356178000009",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 112,
+      "name": "Đồ ăn nhanh ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/25e50049-ff6c-43b5-80fe-a874c2e8ebd8.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/0967a0b62ac74daab36ab0a5e4b3fcc9.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8238",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8273,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Neptune Light 1L",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Neptune Light 1L</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/f04b54b49f7a402587f9e7de28404c1a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Neptune Light 1L",
+    "description": "<p>Neptune Light 1L</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/f04b54b49f7a402587f9e7de28404c1a.jpg",
+    "price": 60000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 7,
+    "maxQuantityPerUser": null,
+    "unit": "Chai",
+    "sku": "8934988012026",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p>s</p>",
+    "category": {
+      "id": 112,
+      "name": "Đồ ăn nhanh ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/25e50049-ff6c-43b5-80fe-a874c2e8ebd8.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/f04b54b49f7a402587f9e7de28404c1a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8273",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Chai"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 57122,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Chai",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Chai",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Chai",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 60000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 200,
+        "totalSold": 7,
+        "unit": "Chai",
+        "sku": "8934988012026",
+        "rating": 5,
+        "instructions": "<p>s</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Chai"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8275,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Simply Đậu Nành 1L",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Simply Đậu Nành 1L</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/5c8096a48f734f72a16a53ed63f99fc0.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Simply Đậu Nành 1L",
+    "description": "<p>Simply Đậu Nành 1L</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/5c8096a48f734f72a16a53ed63f99fc0.jpg",
+    "price": 63000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "Chai",
+    "sku": "8934988020021",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 112,
+      "name": "Đồ ăn nhanh ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/25e50049-ff6c-43b5-80fe-a874c2e8ebd8.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/5c8096a48f734f72a16a53ed63f99fc0.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8275",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Chai"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 57116,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Chai",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Chai",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Chai",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 63000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 200,
+        "totalSold": 2,
+        "unit": "Chai",
+        "sku": "8934988020021",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Chai"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8277,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Simply Đậu Nành 2L",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Simply Đậu Nành 2L</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/8237a4aa88df4f1886ec1dfb1a6f261d.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Simply Đậu Nành 2L",
+    "description": "<p>Simply Đậu Nành 2L</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/8237a4aa88df4f1886ec1dfb1a6f261d.jpg",
+    "price": 125000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 16,
+    "maxQuantityPerUser": null,
+    "unit": "Can",
+    "sku": "8934988020038",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p>s</p>",
+    "category": {
+      "id": 112,
+      "name": "Đồ ăn nhanh ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/25e50049-ff6c-43b5-80fe-a874c2e8ebd8.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/8237a4aa88df4f1886ec1dfb1a6f261d.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8277",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Can"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 57118,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Can",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Can",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Can",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 125000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 200,
+        "totalSold": 16,
+        "unit": "Can",
+        "sku": "8934988020038",
+        "rating": 5,
+        "instructions": "<p>s</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Can"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8278,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Simply Hạt Cải 1L",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Simply Hạt Cải 1L</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/ff4f82a31b964fcfa8e02d361ebc2a6e.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Simply Hạt Cải 1L",
+    "description": "<p>Simply Hạt Cải 1L</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/ff4f82a31b964fcfa8e02d361ebc2a6e.jpg",
+    "price": 65000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 7,
+    "maxQuantityPerUser": null,
+    "unit": "Chai",
+    "sku": "8934988022025",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 112,
+      "name": "Đồ ăn nhanh ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/25e50049-ff6c-43b5-80fe-a874c2e8ebd8.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/ff4f82a31b964fcfa8e02d361ebc2a6e.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8278",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Chai"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 57111,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Chai",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Chai",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Chai",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 65000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 200,
+        "totalSold": 7,
+        "unit": "Chai",
+        "sku": "8934988022025",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Chai"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8279,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Simply Hướng Dương 1L",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Simply Hướng Dương 1L</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/16c7b3353b764925a1c0cf18a878e4e2.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Simply Hướng Dương 1L",
+    "description": "<p>Simply Hướng Dương 1L</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/16c7b3353b764925a1c0cf18a878e4e2.jpg",
+    "price": 65000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "Chai",
+    "sku": "8934988023022",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 112,
+      "name": "Đồ ăn nhanh ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/25e50049-ff6c-43b5-80fe-a874c2e8ebd8.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/16c7b3353b764925a1c0cf18a878e4e2.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8279",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8280,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/eb5c95e353374ddbbc262db69121c7e4.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Simply Gạo Lứt 1L</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Simply Gạo Lứt 1L",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Simply Gạo Lứt 1L",
+    "description": "<p>Simply Gạo Lứt 1L</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/eb5c95e353374ddbbc262db69121c7e4.jpg",
+    "price": 65000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 9,
+    "maxQuantityPerUser": null,
+    "unit": "Chai",
+    "sku": "8934988021028",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 112,
+      "name": "Đồ ăn nhanh ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/25e50049-ff6c-43b5-80fe-a874c2e8ebd8.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/eb5c95e353374ddbbc262db69121c7e4.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8280",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8282,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cái Lân Cooking oil 1L",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Cái Lân Cooking oil 1L</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/0cc2874e2d9049b5963bc4bdb82ec130.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cái Lân Cooking oil 1L",
+    "description": "<p>Cái Lân Cooking oil 1L</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/0cc2874e2d9049b5963bc4bdb82ec130.jpg",
+    "price": 45000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 8,
+    "maxQuantityPerUser": null,
+    "unit": "Chai",
+    "sku": "8934988030020",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 112,
+      "name": "Đồ ăn nhanh ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/25e50049-ff6c-43b5-80fe-a874c2e8ebd8.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/0cc2874e2d9049b5963bc4bdb82ec130.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8282",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8283,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dầu Oliu Olivoilà 250ML",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dầu Oliu Olivoilà 250ML</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/1d019a7a4a59491485db8a6fe1cc088b.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dầu Oliu Olivoilà 250ML",
+    "description": "<p>Dầu Oliu Olivoilà 250ML</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/1d019a7a4a59491485db8a6fe1cc088b.jpg",
+    "price": 90000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 5,
+    "maxQuantityPerUser": null,
+    "unit": "Chai",
+    "sku": "8032927112643",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 112,
+      "name": "Đồ ăn nhanh ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/25e50049-ff6c-43b5-80fe-a874c2e8ebd8.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/1d019a7a4a59491485db8a6fe1cc088b.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8283",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Chai"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 57109,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Chai",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Chai",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Chai",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 90000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 200,
+        "totalSold": 5,
+        "unit": "Chai",
+        "sku": "8032927112643",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Chai"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8284,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bơ thực vật Meizan 80g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Bơ thực vật Meizan 80g</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/b7ef7c9819e44e67ad892f84e3177b94.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bơ thực vật Meizan 80g",
+    "description": "<p>Bơ thực vật Meizan 80g</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/b7ef7c9819e44e67ad892f84e3177b94.jpg",
+    "price": 9000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 13,
+    "maxQuantityPerUser": null,
+    "unit": "hộp",
+    "sku": "8934988070101",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 112,
+      "name": "Đồ ăn nhanh ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/25e50049-ff6c-43b5-80fe-a874c2e8ebd8.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/b7ef7c9819e44e67ad892f84e3177b94.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8284",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8286,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bơ thực vật Meizan Oval 200g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Bơ thực vật Meizan Oval 200g</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/e3ca18546b2242a29bf4e321bd52c91f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bơ thực vật Meizan Oval 200g",
+    "description": "<p>Bơ thực vật Meizan Oval 200g</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/e3ca18546b2242a29bf4e321bd52c91f.jpg",
+    "price": 18000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 13,
+    "maxQuantityPerUser": null,
+    "unit": "hộp",
+    "sku": "8934988070118",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p>s</p>",
+    "category": {
+      "id": 112,
+      "name": "Đồ ăn nhanh ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/25e50049-ff6c-43b5-80fe-a874c2e8ebd8.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/e3ca18546b2242a29bf4e321bd52c91f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8286",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8822,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dấm gạo lứt 250ml",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: black;\">Thành phần</strong></p><p><span style=\"color: black;\">Gạo Ngỗng - gạo sạch từ&nbsp;</span><a href=\"https://ngong.vn/blogs/chuyen-ngong/ruong-ruoi-mo-hinh-canh-tac-lua-khong-hoa-chat-biet-du\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: blue;\">ruộng rươi</a><span style=\"color: black;\">, mật ong rừng, đường thô.</span></p><p><strong style=\"color: black;\">Quy trình sản xuất</strong></p><ul><li class=\"ql-align-justify\"><span style=\"color: black;\">Gạo Lứt Việt =&gt; Nấu chín =&gt; Để nguội =&gt; Ủ và lên men tự nhiên cùng với mật ong, đường, nước =&gt; Dấm Gạo Lứt.</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">Thông thường sau thời gian 2 – 2,5 tháng thì Dấm bắt đầu ngon và đúng độ.</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">Người sản xuất bắt đầu tách, chiết Dấm theo qui trình.</span></li></ul><p><strong style=\"color: black;\">Công dụng</strong></p><ul><li><strong style=\"color: black;\">Gia vị</strong></li></ul><p><span style=\"color: black;\">Dấm được sử dụng để làm nước chấm, salad, nấu nước lẩu, muối dưa chua, muối kim chi, khử mùi tanh của cá, thịt…</span></p><ul><li><strong style=\"color: black;\">Làm đẹp</strong></li></ul><p><span style=\"color: black;\">Dấm rất giàu Vitamin B1, B2, C … sử dụng thường xuyên tốt cho da, làm đẹp da mượt, hỗ trợ điều trị da cháy nắng, làm sạch da – tẩy da chết, khử mùi hôi của da, hỗ trợ điều trị tàn nhang, nám má, viêm da, mụn trứng cá…</span></p><ul><li><strong style=\"color: black;\">Chữa bệnh</strong></li></ul><p><span style=\"color: black;\">Dấm gạo lứt còn giúp ức chế hiệu quả bệnh ung thư đại trực tràng, giảm cholesterol, chống loãng xương, chống oxy hóa.</span></p><p><strong style=\"color: black;\">Đối tượng sử dụng</strong></p><ul><li>Mọi người đều có thể sử dụng.</li><li>Tuy nhiên,<strong>&nbsp;</strong><span style=\"color: black;\">những người khi đang uống một số loại thuốc tây như: nhóm sunlfatthiazole, thuốc có tính kiềm, thuốc dãn cơ dạ dày thì không nên ăn dấm. Người bị thương ở xương không nên ăn vì làm cho chỗ đau tăng thêm. Những người đau dạ dày thừa toan không nên ăn, theo Bác sĩ Đông Y Nguyễn Mạnh Hùng.</span></li></ul><p><strong>Hướng dẫn sử dụng</strong></p><p>Dùng để pha nước chấm, trộn gỏi, trộn salad...</p><p><strong style=\"color: black;\">Bảo quản</strong></p><ul><li><span style=\"color: black;\">Bảo quản ở nhiệt độ thường khi chưa mở nắp. Sau khi mở nắp nên bảo quản trong ngăn mát tủ lạnh.</span></li><li><span style=\"color: black;\">Trong quá trình sử dụng chai dấm sẽ có vẩn đục, do men dấm tươi, không ảnh hưởng đến chất lượng của sản phẩm.</span></li></ul><p><strong style=\"color: black;\">Hạn sử dụng</strong></p><p class=\"ql-align-justify\"><span style=\"color: black;\">36 tháng. Nên sử dụng 1 tháng sau khi mở nắp.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/cbf27c95-e17f-4df2-be49-f19afc487305.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Dấm gạo\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dấm gạo lứt 250ml",
+    "description": "<p><strong style=\"color: black;\">Thành phần</strong></p><p><span style=\"color: black;\">Gạo Ngỗng - gạo sạch từ&nbsp;</span><a href=\"https://ngong.vn/blogs/chuyen-ngong/ruong-ruoi-mo-hinh-canh-tac-lua-khong-hoa-chat-biet-du\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: blue;\">ruộng rươi</a><span style=\"color: black;\">, mật ong rừng, đường thô.</span></p><p><strong style=\"color: black;\">Quy trình sản xuất</strong></p><ul><li class=\"ql-align-justify\"><span style=\"color: black;\">Gạo Lứt Việt =&gt; Nấu chín =&gt; Để nguội =&gt; Ủ và lên men tự nhiên cùng với mật ong, đường, nước =&gt; Dấm Gạo Lứt.</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">Thông thường sau thời gian 2 – 2,5 tháng thì Dấm bắt đầu ngon và đúng độ.</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">Người sản xuất bắt đầu tách, chiết Dấm theo qui trình.</span></li></ul><p><strong style=\"color: black;\">Công dụng</strong></p><ul><li><strong style=\"color: black;\">Gia vị</strong></li></ul><p><span style=\"color: black;\">Dấm được sử dụng để làm nước chấm, salad, nấu nước lẩu, muối dưa chua, muối kim chi, khử mùi tanh của cá, thịt…</span></p><ul><li><strong style=\"color: black;\">Làm đẹp</strong></li></ul><p><span style=\"color: black;\">Dấm rất giàu Vitamin B1, B2, C … sử dụng thường xuyên tốt cho da, làm đẹp da mượt, hỗ trợ điều trị da cháy nắng, làm sạch da – tẩy da chết, khử mùi hôi của da, hỗ trợ điều trị tàn nhang, nám má, viêm da, mụn trứng cá…</span></p><ul><li><strong style=\"color: black;\">Chữa bệnh</strong></li></ul><p><span style=\"color: black;\">Dấm gạo lứt còn giúp ức chế hiệu quả bệnh ung thư đại trực tràng, giảm cholesterol, chống loãng xương, chống oxy hóa.</span></p><p><strong style=\"color: black;\">Đối tượng sử dụng</strong></p><ul><li>Mọi người đều có thể sử dụng.</li><li>Tuy nhiên,<strong>&nbsp;</strong><span style=\"color: black;\">những người khi đang uống một số loại thuốc tây như: nhóm sunlfatthiazole, thuốc có tính kiềm, thuốc dãn cơ dạ dày thì không nên ăn dấm. Người bị thương ở xương không nên ăn vì làm cho chỗ đau tăng thêm. Những người đau dạ dày thừa toan không nên ăn, theo Bác sĩ Đông Y Nguyễn Mạnh Hùng.</span></li></ul><p><strong>Hướng dẫn sử dụng</strong></p><p>Dùng để pha nước chấm, trộn gỏi, trộn salad...</p><p><strong style=\"color: black;\">Bảo quản</strong></p><ul><li><span style=\"color: black;\">Bảo quản ở nhiệt độ thường khi chưa mở nắp. Sau khi mở nắp nên bảo quản trong ngăn mát tủ lạnh.</span></li><li><span style=\"color: black;\">Trong quá trình sử dụng chai dấm sẽ có vẩn đục, do men dấm tươi, không ảnh hưởng đến chất lượng của sản phẩm.</span></li></ul><p><strong style=\"color: black;\">Hạn sử dụng</strong></p><p class=\"ql-align-justify\"><span style=\"color: black;\">36 tháng. Nên sử dụng 1 tháng sau khi mở nắp.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/cbf27c95-e17f-4df2-be49-f19afc487305.png",
+    "price": 30000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 50,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "ml",
+    "sku": "",
+    "origin": "",
+    "sellerId": 95,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 112,
+      "name": "Đồ ăn nhanh ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/25e50049-ff6c-43b5-80fe-a874c2e8ebd8.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Dấm gạo"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/cbf27c95-e17f-4df2-be49-f19afc487305.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8822",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "ml"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 78873,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 ml",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "ml",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 ml",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 30000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 50,
+        "totalSold": 0,
+        "unit": "ml",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "ml"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 95,
+      "sellerRate": 4.7,
+      "sellerName": "Ngong.vn",
+      "warehouseId": "a0b137ab-b5e2-4ee0-9757-8ef139813901",
+      "warehouseAddress": "489 Hoàng Quốc Việt, Quận Bắc Từ Liêm, Hà Nội",
+      "distance": 6060,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8823,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dầu mè sinh thái 250ml",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: black;\">Công dụng</strong></p><p><span style=\"color: black;\">Dầu mè Ngỗng là loại dầu ăn tốt cho sức khỏe được sản xuất 100% từ mè của nông dân sinh thái. Hoàn toàn không chứa cholesterol, rất tốt cho tim mạch, người ăn chay...</span></p><p><strong style=\"color: black;\">Hướng dẫn sử dụng</strong></p><p><span style=\"color: black;\">Thích hợp cho việc chế biến các loại món ăn rán, xào, đặc biệt là&nbsp;làm nước sốt, salat.</span></p><p><strong style=\"color: black;\">Bảo quản</strong></p><p><span style=\"color: black;\">Để nơi khô ráo , thoáng mát, tránh ánh nắng trực tiếp.&nbsp;</span></p><p><strong style=\"color: black;\"><u>Lưu ý</u></strong></p><p><span style=\"color: black;\">Sản phẩm không sử dụng hóa chất nên có thể xảy ra hiện tượng lắng cặn tự nhiên, không ảnh hưởng đến chất lượng.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/f5a5d72f-bfb8-4be1-b928-1678dbc077f6.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Dầu mè\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dầu mè sinh thái 250ml",
+    "description": "<p><strong style=\"color: black;\">Công dụng</strong></p><p><span style=\"color: black;\">Dầu mè Ngỗng là loại dầu ăn tốt cho sức khỏe được sản xuất 100% từ mè của nông dân sinh thái. Hoàn toàn không chứa cholesterol, rất tốt cho tim mạch, người ăn chay...</span></p><p><strong style=\"color: black;\">Hướng dẫn sử dụng</strong></p><p><span style=\"color: black;\">Thích hợp cho việc chế biến các loại món ăn rán, xào, đặc biệt là&nbsp;làm nước sốt, salat.</span></p><p><strong style=\"color: black;\">Bảo quản</strong></p><p><span style=\"color: black;\">Để nơi khô ráo , thoáng mát, tránh ánh nắng trực tiếp.&nbsp;</span></p><p><strong style=\"color: black;\"><u>Lưu ý</u></strong></p><p><span style=\"color: black;\">Sản phẩm không sử dụng hóa chất nên có thể xảy ra hiện tượng lắng cặn tự nhiên, không ảnh hưởng đến chất lượng.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/f5a5d72f-bfb8-4be1-b928-1678dbc077f6.png",
+    "price": 160000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 50,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "ml",
+    "sku": "",
+    "origin": "",
+    "sellerId": 95,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 112,
+      "name": "Đồ ăn nhanh ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/25e50049-ff6c-43b5-80fe-a874c2e8ebd8.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Dầu mè"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/f5a5d72f-bfb8-4be1-b928-1678dbc077f6.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8823",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "ml"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 78871,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 ml",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "ml",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 ml",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 160000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 50,
+        "totalSold": 0,
+        "unit": "ml",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "ml"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 95,
+      "sellerRate": 4.7,
+      "sellerName": "Ngong.vn",
+      "warehouseId": "a0b137ab-b5e2-4ee0-9757-8ef139813901",
+      "warehouseAddress": "489 Hoàng Quốc Việt, Quận Bắc Từ Liêm, Hà Nội",
+      "distance": 6060,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 9679,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Muối sấy Ngọc Yến",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong>Muối Sấy Ngọc Yến</strong></p><p>- Xuất Xứ: Việt Nam</p><p>- Trọng lượng: 100g</p><p>* Thông tin sản phẩm:</p><p>- Muối Sấy Ngọc Yến với hương vị đậm đà, Dùng 100% ớt tươi. Loại ớt chỉ thiên</p><p>+ Công dụng: Muối dùng để ăn với trái cây.Muối ướp thịt, ướp đồ ăn thay nước mắm.Muối chấm thịt gà, thịt luộc.Muối dùng ăn cơm, ăn cháo.</p><p>- Bảo quản: nơi khô ráo, đậy kín sau khi dùng<img src=\"https://images.f99.com.vn/images/0aaf9b2d-d3ce-4b21-b401-d40386151d12.jpg\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/933878e9-2a38-4b11-8899-8355ffebdf9b.jpg\",\"https://images.f99.com.vn/images/305d456e-f626-4f5b-88d2-dd00bdf7ec3a.jpg\",\"https://images.f99.com.vn/images/460be997-02f1-4f54-810f-c08d03e0b4f5.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Muối sấy Ngọc Yến",
+    "description": "<p><strong>Muối Sấy Ngọc Yến</strong></p><p>- Xuất Xứ: Việt Nam</p><p>- Trọng lượng: 100g</p><p>* Thông tin sản phẩm:</p><p>- Muối Sấy Ngọc Yến với hương vị đậm đà, Dùng 100% ớt tươi. Loại ớt chỉ thiên</p><p>+ Công dụng: Muối dùng để ăn với trái cây.Muối ướp thịt, ướp đồ ăn thay nước mắm.Muối chấm thịt gà, thịt luộc.Muối dùng ăn cơm, ăn cháo.</p><p>- Bảo quản: nơi khô ráo, đậy kín sau khi dùng<img src=\"https://images.f99.com.vn/images/0aaf9b2d-d3ce-4b21-b401-d40386151d12.jpg\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/933878e9-2a38-4b11-8899-8355ffebdf9b.jpg",
+    "price": 8900,
+    "oldPrice": 13000,
+    "discountPercent": 32,
+    "stock": 3000,
+    "totalSold": 73,
+    "maxQuantityPerUser": null,
+    "unit": "1 gói",
+    "sku": "MUOI",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p><strong>Muối Sấy Ngọc Yến</strong></p><p>- Xuất Xứ: Việt Nam</p><p>- Trọng lượng: 100g</p><p>* Thông tin sản phẩm:</p><p>- Muối Sấy Ngọc Yến với hương vị đậm đà, Dùng 100% ớt tươi. Loại ớt chỉ thiên</p><p>+ Công dụng: Muối dùng để ăn với trái cây.Muối ướp thịt, ướp đồ ăn thay nước mắm.Muối chấm thịt gà, thịt luộc.Muối dùng ăn cơm, ăn cháo.</p><p>- Bảo quản: nơi khô ráo, đậy kín sau khi dùng</p>",
+    "category": {
+      "id": 112,
+      "name": "Đồ ăn nhanh ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/25e50049-ff6c-43b5-80fe-a874c2e8ebd8.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/933878e9-2a38-4b11-8899-8355ffebdf9b.jpg",
+      "https://images.f99.com.vn/images/305d456e-f626-4f5b-88d2-dd00bdf7ec3a.jpg",
+      "https://images.f99.com.vn/images/460be997-02f1-4f54-810f-c08d03e0b4f5.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/9679",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 gói"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 63400,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 gói",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 gói",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 gói",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 8900,
+        "oldPrice": 13000,
+        "discountPercent": 32,
+        "stock": 3000,
+        "totalSold": 73,
+        "unit": "1 gói",
+        "sku": "MUOI",
+        "rating": 5,
+        "instructions": "<p><strong>Muối Sấy Ngọc Yến</strong></p><p>- Xuất Xứ: Việt Nam</p><p>- Trọng lượng: 100g</p><p>* Thông tin sản phẩm:</p><p>- Muối Sấy Ngọc Yến với hương vị đậm đà, Dùng 100% ớt tươi. Loại ớt chỉ thiên</p><p>+ Công dụng: Muối dùng để ăn với trái cây.Muối ướp thịt, ướp đồ ăn thay nước mắm.Muối chấm thịt gà, thịt luộc.Muối dùng ăn cơm, ăn cháo.</p><p>- Bảo quản: nơi khô ráo, đậy kín sau khi dùng</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 gói"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 10534,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bột nghệ nguyên chất Quảng Nam",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgba(0, 0, 0, 0.8);\">1. Xuất xứ:</strong><span style=\"color: rgba(0, 0, 0, 0.8);\"> Quảng Nam, Việt Nam</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">2. Đặc điểm nổi bật</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Bột nghệ nguyên chất và sạch.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Bột nghệ Quảng Nam được canh tác theo hướng tự nhiên giảm thiểu hóa chất.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- 100% nguyên chất, không pha trộn.</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">3. HSD:</strong><span style=\"color: rgba(0, 0, 0, 0.8);\"> 6 tháng kể từ ngày sản xuất (in trên bao bì)</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bảo quản: chứa hạt trong chum, lọ sành sứ hoặc thủy tinh, tránh tiếp xúc trực tiếp với ánh sáng hoặc không khí bên ngoài.</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">4. Thành phần dinh dưỡng và công dụng:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">✅ Tránh hậu sản: khả năng phá ứ huyết, kích thích tử cung co bóp, đẩy khí âm, huyết độc ra ngoài, tránh băng huyết.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">✅Bổ máu, hồi phục sức khỏe: Chất curcumin trong nghệ kích thích gia tăng hồng cầu, giúp bổ máu, nhanh khỏe mạnh, tránh hoa mắt, chóng mặt…</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">✅Đẹp da: uống tinh bột nghệ kết hợp đắp mặt nạ sẽ giúp các mẹ nhanh chóng loại bỏ nám da sa và làm mờ vết rạn do bầu bì.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">✅Nhanh lấy lại vóc dáng: Hoạt chất curcumin có khả năng tiêu mỡ, tăng chuyển hóa mỡ thừa, ngăn ngừa hình thành các mô mỡ mới.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">✅Làm lành vết mổ/vết rạch: Trong tinh bột nghệ chứa curcumin giúp kích thích ra da non, làm cho vết sinh mổ nhanh lành miệng và hạn chế sẹo.</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">5. Cam kết sản phẩm:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Được trồng theo hướng thự nhiên.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- 100% bột sạch, nguyên chất.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Bột được đóng gói cẩn thận. Không chất bảo quản.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Đã được XL khảo sát tìm hiểu vùng trồng trọt, cam kết về chất lượng.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/3258bc1c-1413-461c-ad56-ca08c7f30e3c.jpg\",\"https://images.f99.com.vn/images/9db12941-dfb3-47f9-9bfc-b708c9af4e10.jpg\",\"https://images.f99.com.vn/images/8dd696f0-a4a1-41fb-9b1a-4db9de78e1c8.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"bột nghệ\",\"bot nghe\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bột nghệ nguyên chất Quảng Nam",
+    "description": "<p><strong style=\"color: rgba(0, 0, 0, 0.8);\">1. Xuất xứ:</strong><span style=\"color: rgba(0, 0, 0, 0.8);\"> Quảng Nam, Việt Nam</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">2. Đặc điểm nổi bật</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Bột nghệ nguyên chất và sạch.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Bột nghệ Quảng Nam được canh tác theo hướng tự nhiên giảm thiểu hóa chất.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- 100% nguyên chất, không pha trộn.</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">3. HSD:</strong><span style=\"color: rgba(0, 0, 0, 0.8);\"> 6 tháng kể từ ngày sản xuất (in trên bao bì)</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bảo quản: chứa hạt trong chum, lọ sành sứ hoặc thủy tinh, tránh tiếp xúc trực tiếp với ánh sáng hoặc không khí bên ngoài.</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">4. Thành phần dinh dưỡng và công dụng:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">✅ Tránh hậu sản: khả năng phá ứ huyết, kích thích tử cung co bóp, đẩy khí âm, huyết độc ra ngoài, tránh băng huyết.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">✅Bổ máu, hồi phục sức khỏe: Chất curcumin trong nghệ kích thích gia tăng hồng cầu, giúp bổ máu, nhanh khỏe mạnh, tránh hoa mắt, chóng mặt…</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">✅Đẹp da: uống tinh bột nghệ kết hợp đắp mặt nạ sẽ giúp các mẹ nhanh chóng loại bỏ nám da sa và làm mờ vết rạn do bầu bì.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">✅Nhanh lấy lại vóc dáng: Hoạt chất curcumin có khả năng tiêu mỡ, tăng chuyển hóa mỡ thừa, ngăn ngừa hình thành các mô mỡ mới.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">✅Làm lành vết mổ/vết rạch: Trong tinh bột nghệ chứa curcumin giúp kích thích ra da non, làm cho vết sinh mổ nhanh lành miệng và hạn chế sẹo.</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">5. Cam kết sản phẩm:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Được trồng theo hướng thự nhiên.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- 100% bột sạch, nguyên chất.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Bột được đóng gói cẩn thận. Không chất bảo quản.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Đã được XL khảo sát tìm hiểu vùng trồng trọt, cam kết về chất lượng.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/3258bc1c-1413-461c-ad56-ca08c7f30e3c.jpg",
+    "price": 60000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 90,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "Túi",
+    "sku": "BOTNGHE",
+    "origin": "",
+    "sellerId": 174,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bảo quản: chứa hạt trong chum, lọ sành sứ hoặc thủy tinh, tránh tiếp xúc trực tiếp với ánh sáng hoặc không khí bên ngoài. </span></p>",
+    "category": {
+      "id": 112,
+      "name": "Đồ ăn nhanh ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/25e50049-ff6c-43b5-80fe-a874c2e8ebd8.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "bột nghệ",
+      "bot nghe"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/3258bc1c-1413-461c-ad56-ca08c7f30e3c.jpg",
+      "https://images.f99.com.vn/images/9db12941-dfb3-47f9-9bfc-b708c9af4e10.jpg",
+      "https://images.f99.com.vn/images/8dd696f0-a4a1-41fb-9b1a-4db9de78e1c8.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/10534",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "150gr",
+          "1kg",
+          "500gr"
+        ]
+      },
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "150gr",
+          "1kg",
+          "500gr"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 24617,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "150gr",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "150gr",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "150gr",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "150gr",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 60000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 30,
+        "totalSold": 3,
+        "unit": "Túi",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bảo quản: chứa hạt trong chum, lọ sành sứ hoặc thủy tinh, tránh tiếp xúc trực tiếp với ánh sáng hoặc không khí bên ngoài. </span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "150gr"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "150gr"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 24616,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500gr",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "500gr",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "500gr",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500gr",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 155000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 30,
+        "totalSold": 0,
+        "unit": "Túi",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bảo quản: chứa hạt trong chum, lọ sành sứ hoặc thủy tinh, tránh tiếp xúc trực tiếp với ánh sáng hoặc không khí bên ngoài. </span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "500gr"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "500gr"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 24615,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 300000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 30,
+        "totalSold": 0,
+        "unit": "Túi",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bảo quản: chứa hạt trong chum, lọ sành sứ hoặc thủy tinh, tránh tiếp xúc trực tiếp với ánh sáng hoặc không khí bên ngoài. </span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 174,
+      "sellerRate": 5,
+      "sellerName": "Xanh Lá",
+      "warehouseId": "986ff743-f897-48e9-b25d-94f98fd9bf56",
+      "warehouseAddress": "dong da, ĐẦU NGÕ 53 YÊN LÃNG, Số 6 Nguyễn Văn Tuyết, Trung Liệt, Đống Đa, Hà Nội",
+      "distance": 2430,
+      "warehouseDistrict": "dong da",
+      "reputation": 72.04971962616852,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 11647,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Nước cốt lẩu Cà Chua Haidilao",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Nước cốt lẩu cà chua Haidilao</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/d0cd4102-6f0f-46e6-b152-883f2b558bf9.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Nước cốt lẩu Cà Chua Haidilao",
+    "description": "<p>Nước cốt lẩu cà chua Haidilao</p>",
+    "imageUrl": "https://images.f99.com.vn/images/d0cd4102-6f0f-46e6-b152-883f2b558bf9.jpg",
+    "price": 89000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 20,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Gói",
+    "sku": "",
+    "origin": "",
+    "sellerId": 141,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Nhiệt độ thường</p>",
+    "category": {
+      "id": 112,
+      "name": "Đồ ăn nhanh ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/25e50049-ff6c-43b5-80fe-a874c2e8ebd8.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/d0cd4102-6f0f-46e6-b152-883f2b558bf9.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/11647",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 141,
+      "sellerRate": 4.8,
+      "sellerName": "Ha Noi The Butcher & Homefood",
+      "warehouseId": "23c08ab0-fb1c-4cd3-8e62-391f30838d87",
+      "warehouseAddress": "số 104 Thuỵ Khuê,Phường Bưởi , Quận Tây Hồ,Thành Phố  Hà Nội",
+      "distance": 3366,
+      "warehouseDistrict": "tay ho",
+      "reputation": 65.73371431372549,
+      "others": [
+        {
+          "sellerId": 141,
+          "sellerRate": 4.8,
+          "sellerName": "Ha Noi The Butcher & Homefood",
+          "warehouseId": "23c08ab0-fb1c-4cd3-8e62-391f30838d87",
+          "warehouseAddress": "số 104 Thuỵ Khuê,Phường Bưởi , Quận Tây Hồ,Thành Phố  Hà Nội",
+          "distance": 3366,
+          "warehouseDistrict": "tay ho",
+          "reputation": 65.73371431372549,
+          "others": []
+        },
+        {
+          "sellerId": 141,
+          "sellerRate": 4.8,
+          "sellerName": "Ha Noi The Butcher & Homefood",
+          "warehouseId": "62af376f-7eaa-4095-b43d-3b955498827e",
+          "warehouseAddress": "số 4 đường Hồng Tiến,Phường Bồ Đề , Quận  Long Biên, Thành Phố Hà Nội",
+          "distance": 4358,
+          "warehouseDistrict": "long bien",
+          "reputation": 65.73371431372549,
+          "others": []
+        },
+        {
+          "sellerId": 141,
+          "sellerRate": 4.8,
+          "sellerName": "Ha Noi The Butcher & Homefood",
+          "warehouseId": "bec33bec-6fd1-4bd4-a8fb-70e149705c17",
+          "warehouseAddress": "Tầng 1, D40 - TT18, Khu đô thị mới Văn Quán, Đường Yên Phúc, Phường Phú La, Quận Hà Đông, Hà Nội ",
+          "distance": 10674,
+          "warehouseDistrict": "ha dong",
+          "reputation": 65.73371431372549,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 11648,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Nước cốt lẩu Bò Cay Haidilao",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Nước cốt lẩu Bò Cay</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/846bded6-2602-4a11-ae96-fa88f9646435.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Nước cốt lẩu Bò Cay Haidilao",
+    "description": "<p>Nước cốt lẩu Bò Cay</p>",
+    "imageUrl": "https://images.f99.com.vn/images/846bded6-2602-4a11-ae96-fa88f9646435.jpg",
+    "price": 89000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 20,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Gói",
+    "sku": "",
+    "origin": "",
+    "sellerId": 141,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Nhiệt độ thường</p>",
+    "category": {
+      "id": 112,
+      "name": "Đồ ăn nhanh ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/25e50049-ff6c-43b5-80fe-a874c2e8ebd8.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/846bded6-2602-4a11-ae96-fa88f9646435.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/11648",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 141,
+      "sellerRate": 4.8,
+      "sellerName": "Ha Noi The Butcher & Homefood",
+      "warehouseId": "23c08ab0-fb1c-4cd3-8e62-391f30838d87",
+      "warehouseAddress": "số 104 Thuỵ Khuê,Phường Bưởi , Quận Tây Hồ,Thành Phố  Hà Nội",
+      "distance": 3366,
+      "warehouseDistrict": "tay ho",
+      "reputation": 65.73371431372549,
+      "others": [
+        {
+          "sellerId": 141,
+          "sellerRate": 4.8,
+          "sellerName": "Ha Noi The Butcher & Homefood",
+          "warehouseId": "23c08ab0-fb1c-4cd3-8e62-391f30838d87",
+          "warehouseAddress": "số 104 Thuỵ Khuê,Phường Bưởi , Quận Tây Hồ,Thành Phố  Hà Nội",
+          "distance": 3366,
+          "warehouseDistrict": "tay ho",
+          "reputation": 65.73371431372549,
+          "others": []
+        },
+        {
+          "sellerId": 141,
+          "sellerRate": 4.8,
+          "sellerName": "Ha Noi The Butcher & Homefood",
+          "warehouseId": "62af376f-7eaa-4095-b43d-3b955498827e",
+          "warehouseAddress": "số 4 đường Hồng Tiến,Phường Bồ Đề , Quận  Long Biên, Thành Phố Hà Nội",
+          "distance": 4358,
+          "warehouseDistrict": "long bien",
+          "reputation": 65.73371431372549,
+          "others": []
+        },
+        {
+          "sellerId": 141,
+          "sellerRate": 4.8,
+          "sellerName": "Ha Noi The Butcher & Homefood",
+          "warehouseId": "bec33bec-6fd1-4bd4-a8fb-70e149705c17",
+          "warehouseAddress": "Tầng 1, D40 - TT18, Khu đô thị mới Văn Quán, Đường Yên Phúc, Phường Phú La, Quận Hà Đông, Hà Nội ",
+          "distance": 10674,
+          "warehouseDistrict": "ha dong",
+          "reputation": 65.73371431372549,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

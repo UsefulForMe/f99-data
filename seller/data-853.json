@@ -1,0 +1,35 @@
+{
+  "id": 853,
+  "name": "An Gourmet –Trái Cây Nhập Khẩu",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/24cac5e8-c8ff-4adc-82e9-2c8e9c65608c.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp sỉ, lẻ các mặt hàng trái cây nhập khẩu. Uy tín, chất lượng",
+  "headQuarter": "Vinhomes Central Park 1, 22, Bình Thạnh, Hồ Chí Minh",
+  "email": "phanphuongan@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

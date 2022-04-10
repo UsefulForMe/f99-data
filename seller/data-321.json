@@ -1,0 +1,35 @@
+{
+  "id": 321,
+  "name": "OCOPMART",
+  "logo": "https://cdn.f99.link/groupbuy-images/d8ee6ffa-8c43-44b7-b96c-8583491eafca.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Tại Ocopmart, chúng tôi muốn lan toả những đặc sản Ocop tinh túy của từng địa phương tới bạn bè trong nước và Quốc tế",
+  "headQuarter": "Số 3 A14, KĐT Đầm Trấu, Bạch Đằng, Hai Bà Trưng, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

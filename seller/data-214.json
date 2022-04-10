@@ -1,0 +1,35 @@
+{
+  "id": 214,
+  "name": "Vmart",
+  "logo": "https://cdn.f99.link/groupbuy-images/2e64fc32-e706-4b10-a632-45b45cc620d7.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Vmart chuyên cung cấp hoa quả, thực phẩm sạch, uy tín, chất lượng.",
+  "headQuarter": "BT3-5 Khu Đô Thị Pháp Vân, Hoàng Liệt, Hoàng Mai, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 2
+}

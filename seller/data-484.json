@@ -1,0 +1,35 @@
+{
+  "id": 484,
+  "name": "HOME FRUITS",
+  "logo": "https://cdn.f99.link/groupbuy-images/34ab4bd2-7d10-4341-a9f6-f9ba40550c4d.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Home Fruits – Chuyên cung cấp trái cây tươi mỗi ngày.",
+  "headQuarter": "P234, VP6 Linh Đàm, Hoàng Liệt, Hoàng Mai, Hà Nội",
+  "email": "Ngocanh7997.ak@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.6,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 90
+}

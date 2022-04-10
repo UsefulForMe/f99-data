@@ -1,0 +1,35 @@
+{
+  "id": 375,
+  "name": "HOA QUẢ 4 MÙA - TIỆM A BÉO",
+  "logo": "https://cdn.f99.link/groupbuy-images/074e34a6-260e-4c7e-a853-620f879a8651.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Hoa quả tươi ngon 4 mùa - Thực phẩm tươi sạch",
+  "headQuarter": "Số 3, ngõ 122/34/14 Vĩnh Tuy, Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 5,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 332
+}

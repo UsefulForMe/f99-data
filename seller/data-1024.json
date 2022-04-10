@@ -1,0 +1,35 @@
+{
+  "id": 1024,
+  "name": "Ăn Vặt Zi.on",
+  "logo": "https://images.f99.com.vn/groupbuy-images/f73518df-d8b4-4cf1-943c-f27c1d37329c.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Sỉ lẻ đồ ăn vặt, đồ khô...",
+  "headQuarter": "Số 26 ngách 575/10 Kim Mã - Ngọc Khánh - Ba Đình - HN, Ngọc Khánh, Ba Đình, Hà Nội",
+  "email": "thanhnga.nguyen.1612@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.4,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 7
+}

@@ -1,0 +1,4407 @@
+[
+  {
+    "id": 1321,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dưa lưới Đài Loan ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dưa lưới Đài Loan là sản phẩm được nhiều khách hàng quan tâm và đặt hàng, bởi chất lượng dưa cực ngọt, vỏ bắt mắt, thịt quả màu vàng cam hoặc nghiêng vàng đỏ trông rất hấp dẫn.</p><p>Dưa lưới Đài Loan thuộc họ bầu bí, có hình tròn hoặc dài, da màu xanh, khi chín thì ngả vàng và có các đường gân trắng đan xen. Thịt quả dưa lưới màu vàng cam hoặc nghiêng vàng đỏ như đu đủ trông rất hấp dẫn, ăn giòn, mát và thơm ngọt.</p><p><strong>Dinh dưỡng và sức khỏe</strong>:</p><p>Quỹ Y tế Thế giới cũng liệt kê dưa lưới vào danh sách các loại quả mang lại lợi ích cho phổi vì nó chứa nhiều vitamin A (250mg dưa lưới chứa tới 40% lượng vitamin A cơ thể cần mỗi ngày). Ngoài ra, nhờ có hàm lượng chất beta carotene phong phú mà loại dưa này cũng có thể giúp kiểm soát sự thoái hóa điểm vàng, một bệnh làm suy giảm thị lực ở người trung niên.</p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/af8d8575-723d-473f-8bfa-11316f037965.jpg\"></p><p>Dưa lưới chứa lượng lớn chất dinh dưỡng có khả năng chống oxy hóa như beta-carotene, lutein, zeaxanthin, vitamin C và cryptoxanthin giúp bảo vệ các tế bào và cấu trúc khác trong cơ thể khỏi sự tấn công của gốc tự do, ngăn ngừa ung thư đại tràng, tuyến tiền liệt, vú, nội mạc tử cung, ung thư phổi và ung thư tuyến tụy.</p><p class=\"ql-align-justify\">Các chất xơ, kali, vitamin C và chất điện phân dồi dào trong dưa lưới rất tốt cho tim mạch. Bổ sung đầy đủ kali và các chất điện phân có tác dụng điều chỉnh huyết áp, nhịp tim, từ đó ngăn ngừa đột quỵ và bệnh mạch vành.</p><p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">Hướng dẫn bảo quản:</strong></p><ul><li><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Đối với những quả dưa chưa chín bạn không nên cho ngay vào tủ lạnh mà nên để ở vị trí thoáng mát vài ngày để dưa chín, như vậy khi ăn mới ngọt</span></li><li><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Trường hợp bạn mua dưa lưới đã chín thì bạn nên lấy túi bọc thực phẩm bọc quanh quả dưa rồi đặt trong ngăn mát.</span></li><li><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Nếu để dưa lưới trong điều kiện thời tiết nóng ẩm thì dưa lưới rất nhanh chín, hư hỏng do tác động của các yếu tố: thời tiết, vi khuẩn…</span></li><li><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Thời gian để chỉ nên 4 – 5 ngày, việc để quá lâu cũng sẽ ảnh hưởng đến giá trị dinh dưỡng cũng như mùi vị của loại trái cây này.</span></li></ul><p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">Hướng dẫn sử dụng:&nbsp;</strong></p><ul><li><span style=\"background-color: transparent;\">Bổ ra ướp lạnh và ăn trực tiếp</span></li><li><span style=\"background-color: transparent;\">Có thể ép lấy nước, thêm đường, sữa, đá xay để làm sinh tố</span></li></ul>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/e99b7a27-6f6a-48a1-8b8e-0796729f5a0c.png\",\"https://images.f99.com.vn/images/b885a96a-098b-4d82-b79a-f8a0c96494b6.jpg\",\"https://images.f99.com.vn/images/f5535ea4-973f-4b2a-a2e8-efc8a334fd46.jpg\",\"https://images.f99.com.vn/images/a7e725e5-2d9c-4389-aa34-291e1e62cc6f.jpg\",\"https://images.f99.com.vn/images/11796912-98fd-4c77-8c30-ba80ccfd8135.png\",\"https://images.f99.com.vn/images/be486225-088f-46e8-a0cb-7848db77a3fa.jpg\",\"https://images.f99.com.vn/images/9e47f5e1-0842-4b93-ac98-dd9427621723.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"dưa lưới Đài Loan\",\"hoa quả sạch nhập khẩu\",\"hoa quả tươi nhập khẩu\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dưa lưới Đài Loan ",
+    "description": "<p>Dưa lưới Đài Loan là sản phẩm được nhiều khách hàng quan tâm và đặt hàng, bởi chất lượng dưa cực ngọt, vỏ bắt mắt, thịt quả màu vàng cam hoặc nghiêng vàng đỏ trông rất hấp dẫn.</p><p>Dưa lưới Đài Loan thuộc họ bầu bí, có hình tròn hoặc dài, da màu xanh, khi chín thì ngả vàng và có các đường gân trắng đan xen. Thịt quả dưa lưới màu vàng cam hoặc nghiêng vàng đỏ như đu đủ trông rất hấp dẫn, ăn giòn, mát và thơm ngọt.</p><p><strong>Dinh dưỡng và sức khỏe</strong>:</p><p>Quỹ Y tế Thế giới cũng liệt kê dưa lưới vào danh sách các loại quả mang lại lợi ích cho phổi vì nó chứa nhiều vitamin A (250mg dưa lưới chứa tới 40% lượng vitamin A cơ thể cần mỗi ngày). Ngoài ra, nhờ có hàm lượng chất beta carotene phong phú mà loại dưa này cũng có thể giúp kiểm soát sự thoái hóa điểm vàng, một bệnh làm suy giảm thị lực ở người trung niên.</p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/af8d8575-723d-473f-8bfa-11316f037965.jpg\"></p><p>Dưa lưới chứa lượng lớn chất dinh dưỡng có khả năng chống oxy hóa như beta-carotene, lutein, zeaxanthin, vitamin C và cryptoxanthin giúp bảo vệ các tế bào và cấu trúc khác trong cơ thể khỏi sự tấn công của gốc tự do, ngăn ngừa ung thư đại tràng, tuyến tiền liệt, vú, nội mạc tử cung, ung thư phổi và ung thư tuyến tụy.</p><p class=\"ql-align-justify\">Các chất xơ, kali, vitamin C và chất điện phân dồi dào trong dưa lưới rất tốt cho tim mạch. Bổ sung đầy đủ kali và các chất điện phân có tác dụng điều chỉnh huyết áp, nhịp tim, từ đó ngăn ngừa đột quỵ và bệnh mạch vành.</p><p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">Hướng dẫn bảo quản:</strong></p><ul><li><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Đối với những quả dưa chưa chín bạn không nên cho ngay vào tủ lạnh mà nên để ở vị trí thoáng mát vài ngày để dưa chín, như vậy khi ăn mới ngọt</span></li><li><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Trường hợp bạn mua dưa lưới đã chín thì bạn nên lấy túi bọc thực phẩm bọc quanh quả dưa rồi đặt trong ngăn mát.</span></li><li><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Nếu để dưa lưới trong điều kiện thời tiết nóng ẩm thì dưa lưới rất nhanh chín, hư hỏng do tác động của các yếu tố: thời tiết, vi khuẩn…</span></li><li><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Thời gian để chỉ nên 4 – 5 ngày, việc để quá lâu cũng sẽ ảnh hưởng đến giá trị dinh dưỡng cũng như mùi vị của loại trái cây này.</span></li></ul><p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">Hướng dẫn sử dụng:&nbsp;</strong></p><ul><li><span style=\"background-color: transparent;\">Bổ ra ướp lạnh và ăn trực tiếp</span></li><li><span style=\"background-color: transparent;\">Có thể ép lấy nước, thêm đường, sữa, đá xay để làm sinh tố</span></li></ul>",
+    "imageUrl": "https://images.f99.com.vn/images/e99b7a27-6f6a-48a1-8b8e-0796729f5a0c.png",
+    "price": 99000,
+    "oldPrice": 99000,
+    "discountPercent": 0,
+    "stock": 0,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "20000858",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": null,
+    "category": {
+      "id": 60,
+      "name": "Dưa lưới",
+      "imageUrl": "https://imgur.com/3UCCQBE.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "dưa lưới Đài Loan",
+      "hoa quả sạch nhập khẩu",
+      "hoa quả tươi nhập khẩu"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/e99b7a27-6f6a-48a1-8b8e-0796729f5a0c.png",
+      "https://images.f99.com.vn/images/b885a96a-098b-4d82-b79a-f8a0c96494b6.jpg",
+      "https://images.f99.com.vn/images/f5535ea4-973f-4b2a-a2e8-efc8a334fd46.jpg",
+      "https://images.f99.com.vn/images/a7e725e5-2d9c-4389-aa34-291e1e62cc6f.jpg",
+      "https://images.f99.com.vn/images/11796912-98fd-4c77-8c30-ba80ccfd8135.png",
+      "https://images.f99.com.vn/images/be486225-088f-46e8-a0cb-7848db77a3fa.jpg",
+      "https://images.f99.com.vn/images/9e47f5e1-0842-4b93-ac98-dd9427621723.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/1321",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 89553,
+        "attributeTextValues": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 99000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 0,
+        "totalSold": 0,
+        "unit": "Kg",
+        "sku": "20000858",
+        "rating": 0,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 4967,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dưa lưới vỏ vàng ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><img src=\"https://images.f99.com.vn/images/66117231-68c2-4e15-9ac6-182b16523dda.png\"><img src=\"https://images.f99.com.vn/images/2f4eea32-caa5-4640-8470-937b30f5729d.png\"><img src=\"https://images.f99.com.vn/images/643d1558-8f54-46ea-92ae-2c27cca65c8a.png\"><img src=\"https://images.f99.com.vn/images/bcc00dae-6d30-4f88-bbae-0e7f6d3dc364.png\"><img src=\"https://images.f99.com.vn/images/7041ad5d-6af2-41ea-95d3-60cbbd607953.png\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/9105268f-d703-45c6-8220-c56fb90cc808.png\",\"https://images.f99.com.vn/images/d7003f1b-7e0d-4f0f-b8d9-2979b459a7a2.png\",\"https://images.f99.com.vn/images/1004fec1-6613-4f8f-a3f8-c399b6864d0b.png\",\"https://images.f99.com.vn/images/77e0ad78-fe87-406d-ada4-e68341964a94.png\",\"https://images.f99.com.vn/images/35081302-369c-4e15-9ebd-1c01b084c9e2.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dưa lưới vỏ vàng ",
+    "description": "<p><img src=\"https://images.f99.com.vn/images/66117231-68c2-4e15-9ac6-182b16523dda.png\"><img src=\"https://images.f99.com.vn/images/2f4eea32-caa5-4640-8470-937b30f5729d.png\"><img src=\"https://images.f99.com.vn/images/643d1558-8f54-46ea-92ae-2c27cca65c8a.png\"><img src=\"https://images.f99.com.vn/images/bcc00dae-6d30-4f88-bbae-0e7f6d3dc364.png\"><img src=\"https://images.f99.com.vn/images/7041ad5d-6af2-41ea-95d3-60cbbd607953.png\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/9105268f-d703-45c6-8220-c56fb90cc808.png",
+    "price": 41000,
+    "oldPrice": 80000,
+    "discountPercent": 49,
+    "stock": 4,
+    "totalSold": 106,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 60,
+      "name": "Dưa lưới",
+      "imageUrl": "https://imgur.com/3UCCQBE.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/9105268f-d703-45c6-8220-c56fb90cc808.png",
+      "https://images.f99.com.vn/images/d7003f1b-7e0d-4f0f-b8d9-2979b459a7a2.png",
+      "https://images.f99.com.vn/images/1004fec1-6613-4f8f-a3f8-c399b6864d0b.png",
+      "https://images.f99.com.vn/images/77e0ad78-fe87-406d-ada4-e68341964a94.png",
+      "https://images.f99.com.vn/images/35081302-369c-4e15-9ebd-1c01b084c9e2.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/4967",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "Size XL (1.8-2kg)"
+        ]
+      },
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 quả",
+          "3 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 5009,
+        "attributeTextValues": [
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Size XL (1.8-2kg)",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Size XL (1.8-2kg) / 1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Size XL (1.8-2kg) / 1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 59900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 3,
+        "totalSold": 71,
+        "unit": "Kg",
+        "sku": "20000851",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Size XL (1.8-2kg)"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 5000,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Size XL (1.8-2kg) / 3 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "57k/quả",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Size XL (1.8-2kg)",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "3 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Size XL (1.8-2kg) / 3 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 171000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 1,
+        "totalSold": 35,
+        "unit": "Kg",
+        "sku": "20000422",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "57k/quả",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Size XL (1.8-2kg)"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "3 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 5638,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dưa Lưới Đài Loan",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h2>Đặc điểm</h2><p><br></p><p>Dưa có vị giòn, ngọt và thanh mát rất đặc biệt. Dù có chín kĩ dưa vẫn giữ được độ giòn đặc trưng.</p><p>Dưa Lưới Đài Loan ruột vàng là những trái dưa ngon nhất, an toàn nhất cho người sử dụng!</p><p>Hiện nay dưa lưới đã trồng được quanh năm.</p><p><br></p><h2>Giá trị dinh dưỡng</h2><p><br></p><p>– Nước ép dưa lưới có tác dụng chống mệt mỏi, stress – trong dưa lưới có chứa chất oxy hoá phòng chống ung thư và tăng cường miễn dịch</p><p>Nếu bạn muốn mua Dưa lưới Đài Loan ruột vàng nên tới&nbsp;TKHQ, Uy tín tại Hà Nội để tránh mua phải hàng kém chất lượng, không đảm bảo vệ sinh và an toàn.</p><p>Ngoài ra trong dưa lưới còn chứa lượng enzyme tiêu hoá lớn nhất trong số các loại trái cây, nhiều hơn cả đu đủ và&nbsp;<a href=\"https://thuyanhfruits.com/san-pham/xoai-cat-hoa-loc/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 72, 98);\">xoài.</a></p><p><br></p><h2>Hệ thống cửa hàng hoa quả nhập khẩu TKHQ</h2><p><br></p><p>TKHQ là một trong những cửa hàng&nbsp;<strong><em>hoa quả nhập khẩu</em></strong>&nbsp;uy tín tại Hà Nội. Khách hàng đến với TKHQ sẽ được nhân viên tư vấn và chăm sóc nhiệt tình, với mỗi trường hợp khách hàng không hài lòng về chất lượng sản phẩm khách hàng gọi điện đến số hotline của hệ thống&nbsp;để được hệ thống hỗ trợ đổi trả sản phẩm.</p><p><br></p><h2><strong>Lý do khách hàng nên mua hàng tại hệ thống&nbsp;H<em>oa Quả Nhập Khẩu&nbsp;</em>TKHQ:</strong></h2><ul><li>Giao hàng tận nơi theo yêu cầu của khách hàng.</li><li>Trái cây luôn được đảm bảo nguồn gốc xuất xứ.</li><li>Trái cây không hóa chất, trái cây đảm bảo vệ sinh an toàn thực phẩm</li><li>Đa dạng các sản phẩm cũng như dịch vụ cung cấp</li><li>Thái độ phục vụ của nhân viên thân thiện,</li><li>TKHQ có hệ thống kho lạnh đạt chuẩn để bảo quản hoa quả giữ được độ tươi ngon nhất.</li></ul>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/45923fd2-a87e-451d-b5e0-9d87e46b4af3.jpg\",\"https://images.f99.com.vn/images/1fd3b7e1-b589-436d-9cec-3a02db775613.jpg\",\"https://images.f99.com.vn/images/eb01fe42-71f6-4fdb-82e1-b9f27b2cdca9.jpg\",\"https://images.f99.com.vn/images/66a7707b-5d60-4c72-a576-299a6f2d3b79.jpg\",\"https://images.f99.com.vn/images/ad4746ad-f7e0-4295-87cf-c050c5cd70de.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Dưa Lưới\",\"Dưa\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dưa Lưới Đài Loan",
+    "description": "<h2>Đặc điểm</h2><p><br></p><p>Dưa có vị giòn, ngọt và thanh mát rất đặc biệt. Dù có chín kĩ dưa vẫn giữ được độ giòn đặc trưng.</p><p>Dưa Lưới Đài Loan ruột vàng là những trái dưa ngon nhất, an toàn nhất cho người sử dụng!</p><p>Hiện nay dưa lưới đã trồng được quanh năm.</p><p><br></p><h2>Giá trị dinh dưỡng</h2><p><br></p><p>– Nước ép dưa lưới có tác dụng chống mệt mỏi, stress – trong dưa lưới có chứa chất oxy hoá phòng chống ung thư và tăng cường miễn dịch</p><p>Nếu bạn muốn mua Dưa lưới Đài Loan ruột vàng nên tới&nbsp;TKHQ, Uy tín tại Hà Nội để tránh mua phải hàng kém chất lượng, không đảm bảo vệ sinh và an toàn.</p><p>Ngoài ra trong dưa lưới còn chứa lượng enzyme tiêu hoá lớn nhất trong số các loại trái cây, nhiều hơn cả đu đủ và&nbsp;<a href=\"https://thuyanhfruits.com/san-pham/xoai-cat-hoa-loc/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 72, 98);\">xoài.</a></p><p><br></p><h2>Hệ thống cửa hàng hoa quả nhập khẩu TKHQ</h2><p><br></p><p>TKHQ là một trong những cửa hàng&nbsp;<strong><em>hoa quả nhập khẩu</em></strong>&nbsp;uy tín tại Hà Nội. Khách hàng đến với TKHQ sẽ được nhân viên tư vấn và chăm sóc nhiệt tình, với mỗi trường hợp khách hàng không hài lòng về chất lượng sản phẩm khách hàng gọi điện đến số hotline của hệ thống&nbsp;để được hệ thống hỗ trợ đổi trả sản phẩm.</p><p><br></p><h2><strong>Lý do khách hàng nên mua hàng tại hệ thống&nbsp;H<em>oa Quả Nhập Khẩu&nbsp;</em>TKHQ:</strong></h2><ul><li>Giao hàng tận nơi theo yêu cầu của khách hàng.</li><li>Trái cây luôn được đảm bảo nguồn gốc xuất xứ.</li><li>Trái cây không hóa chất, trái cây đảm bảo vệ sinh an toàn thực phẩm</li><li>Đa dạng các sản phẩm cũng như dịch vụ cung cấp</li><li>Thái độ phục vụ của nhân viên thân thiện,</li><li>TKHQ có hệ thống kho lạnh đạt chuẩn để bảo quản hoa quả giữ được độ tươi ngon nhất.</li></ul>",
+    "imageUrl": "https://images.f99.com.vn/images/45923fd2-a87e-451d-b5e0-9d87e46b4af3.jpg",
+    "price": 89000,
+    "oldPrice": 129000,
+    "discountPercent": 31,
+    "stock": 330,
+    "totalSold": 125,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 6,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 60,
+      "name": "Dưa lưới",
+      "imageUrl": "https://imgur.com/3UCCQBE.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Dưa Lưới",
+      "Dưa"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/45923fd2-a87e-451d-b5e0-9d87e46b4af3.jpg",
+      "https://images.f99.com.vn/images/1fd3b7e1-b589-436d-9cec-3a02db775613.jpg",
+      "https://images.f99.com.vn/images/eb01fe42-71f6-4fdb-82e1-b9f27b2cdca9.jpg",
+      "https://images.f99.com.vn/images/66a7707b-5d60-4c72-a576-299a6f2d3b79.jpg",
+      "https://images.f99.com.vn/images/ad4746ad-f7e0-4295-87cf-c050c5cd70de.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/5638",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1 KG"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 49313,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 KG",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1 KG",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 KG",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 89000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 330,
+        "totalSold": 125,
+        "unit": "KG",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1 KG"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 6,
+      "sellerRate": 4.2,
+      "sellerName": "Tổng Kho Hoa Quả - Trái Cây Nhập Khẩu",
+      "warehouseId": "b3e0335e-ade4-48ba-b652-5a67e132d5a4",
+      "warehouseAddress": "Số nhà 24 Ngõ 788 Kim Giang Xã Thanh Liệt, Huyện Thanh Trì Thành Phố Hà Nội",
+      "distance": 4457,
+      "warehouseDistrict": "thanh tri",
+      "reputation": 58.11138047138062,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 6511,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dưa Lưới Đài Loan nặng cân",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong>Dưa Lưới Đài Loan </strong>được nhập khẩu trực tiếp từ Đài Loan, vận chuyển theo đường hàng không nên giữ được độ tươi ngon, với hương vị ngọt thanh mát đủ sức làm hài lòng các thực khách.</p><p><br></p><p>Đặc điểm</p><ul><li>Vỏ ngoài có màu xanh vừa, không quá đậm hoặc nhạt. Có các đường gân đặc trưng của dòng dưa lưới.</li><li>2 đầu quả dưa thon hình bầu dục. Khi bổ ruột có màu vàng nhạt, chín thì màu vàng đậm hơn.</li><li>Dưa lưới ngọt vừa phải, ăn giòn và thanh mát. Dù có chín kĩ dưa vẫn giữ được độ giòn đặc trưng.</li></ul><p><br></p><p>Dinh Dưỡng</p><ul><li>Dưa lưới chứa lượng lớn chất dinh dưỡng có khả năng chống oxy hóa như lutein, zeaxanthin, vitamin C và cryptoxanthin giúp bảo vệ các tế bào và cấu trúc khác trong cơ thể. Giúp ngăn ngừa ung thư đại tràng, tuyến tiền liệt,…</li><li>Ngoài ra trong dưa lưới còn có rất nhiều chất bao gồm: chất xơ, kali, muối khoáng. Đây là các chất tốt cho tim mạch, giúp tăng cường sức đề kháng, từ đó ngăn ngừa nguy cơ đột quỵ và bệnh mạch vành.</li><li>Dưa lưới có hàm lượng calo thấp, ít đường nhưng lại đầy đủ chất dinh dưỡng như vitamin&nbsp;và khoáng chất cần thiết cho cơ thể. Ăn dưa lưới vào buổi sáng giúp cơ thể giải độc, điều tiết tốt hơn</li></ul>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/2e718fc3-30ac-42d8-9d70-feb3403fcb71.jpg\",\"https://images.f99.com.vn/images/c3e264c1-4d12-4e30-a8c9-b034bf4229ab.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dưa Lưới Đài Loan nặng cân",
+    "description": "<p><strong>Dưa Lưới Đài Loan </strong>được nhập khẩu trực tiếp từ Đài Loan, vận chuyển theo đường hàng không nên giữ được độ tươi ngon, với hương vị ngọt thanh mát đủ sức làm hài lòng các thực khách.</p><p><br></p><p>Đặc điểm</p><ul><li>Vỏ ngoài có màu xanh vừa, không quá đậm hoặc nhạt. Có các đường gân đặc trưng của dòng dưa lưới.</li><li>2 đầu quả dưa thon hình bầu dục. Khi bổ ruột có màu vàng nhạt, chín thì màu vàng đậm hơn.</li><li>Dưa lưới ngọt vừa phải, ăn giòn và thanh mát. Dù có chín kĩ dưa vẫn giữ được độ giòn đặc trưng.</li></ul><p><br></p><p>Dinh Dưỡng</p><ul><li>Dưa lưới chứa lượng lớn chất dinh dưỡng có khả năng chống oxy hóa như lutein, zeaxanthin, vitamin C và cryptoxanthin giúp bảo vệ các tế bào và cấu trúc khác trong cơ thể. Giúp ngăn ngừa ung thư đại tràng, tuyến tiền liệt,…</li><li>Ngoài ra trong dưa lưới còn có rất nhiều chất bao gồm: chất xơ, kali, muối khoáng. Đây là các chất tốt cho tim mạch, giúp tăng cường sức đề kháng, từ đó ngăn ngừa nguy cơ đột quỵ và bệnh mạch vành.</li><li>Dưa lưới có hàm lượng calo thấp, ít đường nhưng lại đầy đủ chất dinh dưỡng như vitamin&nbsp;và khoáng chất cần thiết cho cơ thể. Ăn dưa lưới vào buổi sáng giúp cơ thể giải độc, điều tiết tốt hơn</li></ul>",
+    "imageUrl": "https://images.f99.com.vn/images/2e718fc3-30ac-42d8-9d70-feb3403fcb71.jpg",
+    "price": 99000,
+    "oldPrice": 99000,
+    "discountPercent": 0,
+    "stock": 1000,
+    "totalSold": 37,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 79,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 60,
+      "name": "Dưa lưới",
+      "imageUrl": "https://imgur.com/3UCCQBE.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/2e718fc3-30ac-42d8-9d70-feb3403fcb71.jpg",
+      "https://images.f99.com.vn/images/c3e264c1-4d12-4e30-a8c9-b034bf4229ab.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/6511",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 Quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 6512,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 Quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 199000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 1000,
+        "totalSold": 37,
+        "unit": "KG",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 Quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 79,
+      "sellerRate": 4.6,
+      "sellerName": "Bee Fruits - Trái Cây Nhập Khẩu",
+      "warehouseId": "93099fc8-cde8-46ed-b203-44dfddc85c45",
+      "warehouseAddress": "số 210K, Đội Cấn, Ba Đình, Hà Nội",
+      "distance": 1554,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 78.75352863930483,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7804,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dưa Lưới Đài Loan ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgb(230, 0, 0);\">Shop sẽ cân lại và thông báo cho khách hàng khối lượng và giá tiền theo thực tế sản phẩm.</strong></p><p><br></p><p><img src=\"https://images.f99.com.vn/images/f8c2d482-9496-442e-8411-657262f5e471.jfif\"></p><p><br></p><p><strong> XUẤT XỨ </strong>: Đài Loan</p><p><br></p><p>✔️ Bên ngoài dưa lưới khi chín quả sẽ&nbsp;có màu trắng ngà hoặc màu vàng, vỏ mỏng, gân lưới xuất hiện rõ hơn và có mùi thơm đặc trưng.</p><p>✔️ Phần thịt bên trong với sắc vàng cam và hương vị chuẩn không cần chỉnh. Độ giòn, ngọt thanh không gắt thích hợp sử dụng giải nhiệt trong những ngày hè oi bức.</p><p>✔️Sản phẩm thường được bảo quản ở nhiệt độ từ 20 – 22 độ brix</p><p>✔️Dưa lưới thường không kén mùa vụ nên luôn được trồng quanh năm. Đây được xem là loại trái cây thích hợp để thưởng thức cùng gia đình, bạn bè trong những ngày nghỉ ngơi, thư giãn.</p><p><br></p><p><strong>GIÁ TRỊ DINH DƯỠNG</strong>:</p><p><br></p><p>Dưa lưới cũng được xem là một trong những loại trái cây có lợi, mang đến nhiều dưỡng chất bảo vệ sức khỏe của người tiêu dùng. Thành phần có trong dưa lưới phải kể đến như:</p><p><br></p><p>✔️ Các chất chống oxy hóa giúp bảo vệ các tế bào và cấu trúc khác trong cơ thể khỏi sự tấn công của gốc tự do, giúp ngăn ngừa ung thư đại tràng, tuyến tiền liệt, vú, nội mạc tử cung, ung thư phổi và ung thư tuyến tụy.</p><p><br></p><p>✔️ Các thành phần có nhiều trong dưa lưới bao gồm: chất xơ, kali, vitamin C và&nbsp;muối khoáng là các chất&nbsp;rất tốt cho tim mạch, giúp tăng cường sức đề kháng. Bổ sung đầy đủ kali và các chất điện phân có tác dụng điều chỉnh huyết áp, nhịp tim, từ đó ngăn ngừa đột quỵ và bệnh mạch vành.</p><p><br></p><p>✔️Dưa lưới còn có các chất xơ, ngăn ngừa&nbsp;táo bón, thúc đẩy và duy trì hệ tiêu hóa khỏe mạnh. Hàm lượng nước cao và nhiều chất điện phân trong dưa lưới có tác dụng chống mất nước rất hiệu quả.</p><p>✔️Zeaxanthin trong dưa lưới còn có tác dụng bảo vệ da khỏi tia UV. Các chị em yêu thích làm đẹp hãy chọn ngay dưa lưới vào danh sách thực phẩm giảm cân, giữ dáng đẹp da của mình ngay nhé.</p><p><br></p><p>✔️ Dưa lưới còn có hàm lượng calo thấp, ít đường nhưng lại đầy đủ chất dinh dưỡng như vitamin và khoáng chất cần thiết cho cơ thể. Ăn dưa lưới vào buổi sáng giúp cơ thể giải độc, điều tiết tốt hơn.</p><p>Vào một ngày đẹp trời với thời tiết có chút nắng, thưởng thức một vài miếng dưa dưới hoặc một ly sinh tốt/nước ép dưa lưới chính là sự lựa chọn hoàn hảo của bạn.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/a74a1439-760d-4b9a-b7b4-eebc1dde8383.jpg\",\"https://images.f99.com.vn/images/04f11024-b84d-4804-9cdb-334b15e40163.jpeg\",\"https://images.f99.com.vn/images/04c671b9-a73e-47ee-b4cd-c99c789d884e.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"dưa lưới\",\"dưa vàng\",\"dưa đài loan\",\"lưới đài loan\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dưa Lưới Đài Loan ",
+    "description": "<p><strong style=\"color: rgb(230, 0, 0);\">Shop sẽ cân lại và thông báo cho khách hàng khối lượng và giá tiền theo thực tế sản phẩm.</strong></p><p><br></p><p><img src=\"https://images.f99.com.vn/images/f8c2d482-9496-442e-8411-657262f5e471.jfif\"></p><p><br></p><p><strong> XUẤT XỨ </strong>: Đài Loan</p><p><br></p><p>✔️ Bên ngoài dưa lưới khi chín quả sẽ&nbsp;có màu trắng ngà hoặc màu vàng, vỏ mỏng, gân lưới xuất hiện rõ hơn và có mùi thơm đặc trưng.</p><p>✔️ Phần thịt bên trong với sắc vàng cam và hương vị chuẩn không cần chỉnh. Độ giòn, ngọt thanh không gắt thích hợp sử dụng giải nhiệt trong những ngày hè oi bức.</p><p>✔️Sản phẩm thường được bảo quản ở nhiệt độ từ 20 – 22 độ brix</p><p>✔️Dưa lưới thường không kén mùa vụ nên luôn được trồng quanh năm. Đây được xem là loại trái cây thích hợp để thưởng thức cùng gia đình, bạn bè trong những ngày nghỉ ngơi, thư giãn.</p><p><br></p><p><strong>GIÁ TRỊ DINH DƯỠNG</strong>:</p><p><br></p><p>Dưa lưới cũng được xem là một trong những loại trái cây có lợi, mang đến nhiều dưỡng chất bảo vệ sức khỏe của người tiêu dùng. Thành phần có trong dưa lưới phải kể đến như:</p><p><br></p><p>✔️ Các chất chống oxy hóa giúp bảo vệ các tế bào và cấu trúc khác trong cơ thể khỏi sự tấn công của gốc tự do, giúp ngăn ngừa ung thư đại tràng, tuyến tiền liệt, vú, nội mạc tử cung, ung thư phổi và ung thư tuyến tụy.</p><p><br></p><p>✔️ Các thành phần có nhiều trong dưa lưới bao gồm: chất xơ, kali, vitamin C và&nbsp;muối khoáng là các chất&nbsp;rất tốt cho tim mạch, giúp tăng cường sức đề kháng. Bổ sung đầy đủ kali và các chất điện phân có tác dụng điều chỉnh huyết áp, nhịp tim, từ đó ngăn ngừa đột quỵ và bệnh mạch vành.</p><p><br></p><p>✔️Dưa lưới còn có các chất xơ, ngăn ngừa&nbsp;táo bón, thúc đẩy và duy trì hệ tiêu hóa khỏe mạnh. Hàm lượng nước cao và nhiều chất điện phân trong dưa lưới có tác dụng chống mất nước rất hiệu quả.</p><p>✔️Zeaxanthin trong dưa lưới còn có tác dụng bảo vệ da khỏi tia UV. Các chị em yêu thích làm đẹp hãy chọn ngay dưa lưới vào danh sách thực phẩm giảm cân, giữ dáng đẹp da của mình ngay nhé.</p><p><br></p><p>✔️ Dưa lưới còn có hàm lượng calo thấp, ít đường nhưng lại đầy đủ chất dinh dưỡng như vitamin và khoáng chất cần thiết cho cơ thể. Ăn dưa lưới vào buổi sáng giúp cơ thể giải độc, điều tiết tốt hơn.</p><p>Vào một ngày đẹp trời với thời tiết có chút nắng, thưởng thức một vài miếng dưa dưới hoặc một ly sinh tốt/nước ép dưa lưới chính là sự lựa chọn hoàn hảo của bạn.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/a74a1439-760d-4b9a-b7b4-eebc1dde8383.jpg",
+    "price": 149000,
+    "oldPrice": 250000,
+    "discountPercent": 40,
+    "stock": 1280,
+    "totalSold": 142,
+    "maxQuantityPerUser": null,
+    "unit": "quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 96,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 124,
+    "instructions": "<p>HƯỚNG DẪN BẢO QUẢN:</p><p><br></p><p>✔️Bổ ra ướp lạnh và ăn trực tiếp.</p><p><br></p><p>✔️ Có thể ép lấy nước , thêm đường sữa đá xay để làm sinh tố.</p><p><br></p><p>✔️ Thời gian để chỉ nên 4-5 ngày , để quá lâu ảnh hưởng đến giá trị dinh dưỡng cũng như mùi vị .</p>",
+    "category": {
+      "id": 60,
+      "name": "Dưa lưới",
+      "imageUrl": "https://imgur.com/3UCCQBE.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "dưa lưới",
+      "dưa vàng",
+      "dưa đài loan",
+      "lưới đài loan"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/a74a1439-760d-4b9a-b7b4-eebc1dde8383.jpg",
+      "https://images.f99.com.vn/images/04f11024-b84d-4804-9cdb-334b15e40163.jpeg",
+      "https://images.f99.com.vn/images/04c671b9-a73e-47ee-b4cd-c99c789d884e.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7804",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1 quả",
+          "combo 2 quả"
+        ]
+      },
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "size 1.55-1.6kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 66478,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 quả / size 1.55-1.6kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "size 1.55-1.6kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 quả / size 1.55-1.6kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 149000,
+        "oldPrice": 250000,
+        "discountPercent": 40,
+        "stock": 640,
+        "totalSold": 71,
+        "unit": "quả",
+        "sku": "",
+        "rating": 124,
+        "instructions": "<p>HƯỚNG DẪN BẢO QUẢN:</p><p><br></p><p>✔️Bổ ra ướp lạnh và ăn trực tiếp.</p><p><br></p><p>✔️ Có thể ép lấy nước , thêm đường sữa đá xay để làm sinh tố.</p><p><br></p><p>✔️ Thời gian để chỉ nên 4-5 ngày , để quá lâu ảnh hưởng đến giá trị dinh dưỡng cũng như mùi vị .</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1 quả"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "size 1.55-1.6kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 66479,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 2 quả / size 1.55-1.6kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "combo 2 quả",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "size 1.55-1.6kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 2 quả / size 1.55-1.6kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 279000,
+        "oldPrice": 250000,
+        "discountPercent": -12,
+        "stock": 640,
+        "totalSold": 71,
+        "unit": "quả",
+        "sku": "",
+        "rating": 124,
+        "instructions": "<p>HƯỚNG DẪN BẢO QUẢN:</p><p><br></p><p>✔️Bổ ra ướp lạnh và ăn trực tiếp.</p><p><br></p><p>✔️ Có thể ép lấy nước , thêm đường sữa đá xay để làm sinh tố.</p><p><br></p><p>✔️ Thời gian để chỉ nên 4-5 ngày , để quá lâu ảnh hưởng đến giá trị dinh dưỡng cũng như mùi vị .</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "combo 2 quả"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "size 1.55-1.6kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 96,
+      "sellerRate": 4.4,
+      "sellerName": "Ánh Vy Fruit",
+      "warehouseId": "4ead612c-994e-4201-ab8c-583f2ba5437c",
+      "warehouseAddress": "10 Nguyễn Khánh Toàn, phường Quan Hoa, quận Cầu Giấy, Hà Nội ",
+      "distance": 3233,
+      "warehouseDistrict": "cau giay",
+      "reputation": 76.48368498960507,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7893,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dưa lưới ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"background-color: rgb(250, 249, 249); color: rgb(85, 85, 85);\">Taiwan Melon là dưa lưới ruột vàng Đài Loan, cực giòn và có vị ngọt vừa phải. Dưa được nhập khẩu trực tiếp từ Đài Loan với công nghệ trồng trong nhà kính theo tiêu chuẩn khép kín hàng đầu trên thế giới.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/779fb922-de13-4441-a23c-2e9502bce729.jpg\",\"https://images.f99.com.vn/images/adeaccf6-549c-470f-b75d-5dec8890ccf2.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dưa lưới ",
+    "description": "<p><span style=\"background-color: rgb(250, 249, 249); color: rgb(85, 85, 85);\">Taiwan Melon là dưa lưới ruột vàng Đài Loan, cực giòn và có vị ngọt vừa phải. Dưa được nhập khẩu trực tiếp từ Đài Loan với công nghệ trồng trong nhà kính theo tiêu chuẩn khép kín hàng đầu trên thế giới.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/779fb922-de13-4441-a23c-2e9502bce729.jpg",
+    "price": 170000,
+    "oldPrice": 170000,
+    "discountPercent": 0,
+    "stock": 1,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 97,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 60,
+      "name": "Dưa lưới",
+      "imageUrl": "https://imgur.com/3UCCQBE.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/779fb922-de13-4441-a23c-2e9502bce729.jpg",
+      "https://images.f99.com.vn/images/adeaccf6-549c-470f-b75d-5dec8890ccf2.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7893",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 92452,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 170000,
+        "oldPrice": 170000,
+        "discountPercent": 0,
+        "stock": 1,
+        "totalSold": 0,
+        "unit": "quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 97,
+      "sellerRate": 4.4,
+      "sellerName": "Pink Fruit",
+      "warehouseId": "ba672d2d-91c5-41ab-927f-3880a4c4d57a",
+      "warehouseAddress": "92G Ô Chợ Dừa, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",
+      "distance": 1147,
+      "warehouseDistrict": "dong da",
+      "reputation": 74.93568838196391,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 11696,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dưa Lưới Nhật",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><img src=\"https://images.f99.com.vn/images/c1e058f7-3df7-4f29-a46e-dd38225e05c4.jpeg\"></p><p><br></p><p><strong> XUẤT XỨ </strong>: Nhật Bản</p><p><br></p><p>✔️ Bên ngoài dưa lưới khi chín quả sẽ&nbsp;có màu trắng ngà hoặc màu vàng, vỏ mỏng, gân lưới xuất hiện rõ hơn và có mùi thơm đặc trưng.</p><p>✔️ Phần thịt bên trong với sắc vàng cam và hương vị chuẩn không cần chỉnh. Độ giòn, ngọt thanh không gắt thích hợp sử dụng giải nhiệt trong những ngày hè oi bức.</p><p>✔️Sản phẩm thường được bảo quản ở nhiệt độ từ 20 – 22 độ brix</p><p>✔️Dưa lưới thường không kén mùa vụ nên luôn được trồng quanh năm. Đây được xem là loại trái cây thích hợp để thưởng thức cùng gia đình, bạn bè trong những ngày nghỉ ngơi, thư giãn.</p><p><br></p><p><strong>GIÁ TRỊ DINH DƯỠNG</strong>:</p><p><br></p><p>Dưa lưới cũng được xem là một trong những loại trái cây có lợi, mang đến nhiều dưỡng chất bảo vệ sức khỏe của người tiêu dùng. Thành phần có trong dưa lưới phải kể đến như:</p><p><br></p><p>✔️ Các chất chống oxy hóa giúp bảo vệ các tế bào và cấu trúc khác trong cơ thể khỏi sự tấn công của gốc tự do, giúp ngăn ngừa ung thư đại tràng, tuyến tiền liệt, vú, nội mạc tử cung, ung thư phổi và ung thư tuyến tụy.</p><p><br></p><p>✔️ Các thành phần có nhiều trong dưa lưới bao gồm: chất xơ, kali, vitamin C và&nbsp;muối khoáng là các chất&nbsp;rất tốt cho tim mạch, giúp tăng cường sức đề kháng. Bổ sung đầy đủ kali và các chất điện phân có tác dụng điều chỉnh huyết áp, nhịp tim, từ đó ngăn ngừa đột quỵ và bệnh mạch vành.</p><p><br></p><p>✔️Dưa lưới còn có các chất xơ, ngăn ngừa&nbsp;táo bón, thúc đẩy và duy trì hệ tiêu hóa khỏe mạnh. Hàm lượng nước cao và nhiều chất điện phân trong dưa lưới có tác dụng chống mất nước rất hiệu quả.</p><p>✔️Zeaxanthin trong dưa lưới còn có tác dụng bảo vệ da khỏi tia UV. Các chị em yêu thích làm đẹp hãy chọn ngay dưa lưới vào danh sách thực phẩm giảm cân, giữ dáng đẹp da của mình ngay nhé.</p><p><br></p><p>✔️ Dưa lưới còn có hàm lượng calo thấp, ít đường nhưng lại đầy đủ chất dinh dưỡng như vitamin và khoáng chất cần thiết cho cơ thể. Ăn dưa lưới vào buổi sáng giúp cơ thể giải độc, điều tiết tốt hơn.</p><p>Vào một ngày đẹp trời với thời tiết có chút nắng, thưởng thức một vài miếng dưa dưới hoặc một ly sinh tốt/nước ép dưa lưới chính là sự lựa chọn hoàn hảo của bạn.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/8339c4f1-6e3f-4ee8-8133-fbe31d4fe4f4.jpeg\",\"https://images.f99.com.vn/images/f3e5b813-bad2-4ebc-a7df-98c986af6e59.jpg\",\"https://images.f99.com.vn/images/3762bad0-0d49-431a-b7e6-3ecb1f4ab3c7.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"dưa lưới\",\"dưa nhật\",\"dưa vàng\",\"dưa lưới ngọt\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dưa Lưới Nhật",
+    "description": "<p><img src=\"https://images.f99.com.vn/images/c1e058f7-3df7-4f29-a46e-dd38225e05c4.jpeg\"></p><p><br></p><p><strong> XUẤT XỨ </strong>: Nhật Bản</p><p><br></p><p>✔️ Bên ngoài dưa lưới khi chín quả sẽ&nbsp;có màu trắng ngà hoặc màu vàng, vỏ mỏng, gân lưới xuất hiện rõ hơn và có mùi thơm đặc trưng.</p><p>✔️ Phần thịt bên trong với sắc vàng cam và hương vị chuẩn không cần chỉnh. Độ giòn, ngọt thanh không gắt thích hợp sử dụng giải nhiệt trong những ngày hè oi bức.</p><p>✔️Sản phẩm thường được bảo quản ở nhiệt độ từ 20 – 22 độ brix</p><p>✔️Dưa lưới thường không kén mùa vụ nên luôn được trồng quanh năm. Đây được xem là loại trái cây thích hợp để thưởng thức cùng gia đình, bạn bè trong những ngày nghỉ ngơi, thư giãn.</p><p><br></p><p><strong>GIÁ TRỊ DINH DƯỠNG</strong>:</p><p><br></p><p>Dưa lưới cũng được xem là một trong những loại trái cây có lợi, mang đến nhiều dưỡng chất bảo vệ sức khỏe của người tiêu dùng. Thành phần có trong dưa lưới phải kể đến như:</p><p><br></p><p>✔️ Các chất chống oxy hóa giúp bảo vệ các tế bào và cấu trúc khác trong cơ thể khỏi sự tấn công của gốc tự do, giúp ngăn ngừa ung thư đại tràng, tuyến tiền liệt, vú, nội mạc tử cung, ung thư phổi và ung thư tuyến tụy.</p><p><br></p><p>✔️ Các thành phần có nhiều trong dưa lưới bao gồm: chất xơ, kali, vitamin C và&nbsp;muối khoáng là các chất&nbsp;rất tốt cho tim mạch, giúp tăng cường sức đề kháng. Bổ sung đầy đủ kali và các chất điện phân có tác dụng điều chỉnh huyết áp, nhịp tim, từ đó ngăn ngừa đột quỵ và bệnh mạch vành.</p><p><br></p><p>✔️Dưa lưới còn có các chất xơ, ngăn ngừa&nbsp;táo bón, thúc đẩy và duy trì hệ tiêu hóa khỏe mạnh. Hàm lượng nước cao và nhiều chất điện phân trong dưa lưới có tác dụng chống mất nước rất hiệu quả.</p><p>✔️Zeaxanthin trong dưa lưới còn có tác dụng bảo vệ da khỏi tia UV. Các chị em yêu thích làm đẹp hãy chọn ngay dưa lưới vào danh sách thực phẩm giảm cân, giữ dáng đẹp da của mình ngay nhé.</p><p><br></p><p>✔️ Dưa lưới còn có hàm lượng calo thấp, ít đường nhưng lại đầy đủ chất dinh dưỡng như vitamin và khoáng chất cần thiết cho cơ thể. Ăn dưa lưới vào buổi sáng giúp cơ thể giải độc, điều tiết tốt hơn.</p><p>Vào một ngày đẹp trời với thời tiết có chút nắng, thưởng thức một vài miếng dưa dưới hoặc một ly sinh tốt/nước ép dưa lưới chính là sự lựa chọn hoàn hảo của bạn.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/8339c4f1-6e3f-4ee8-8133-fbe31d4fe4f4.jpeg",
+    "price": 129000,
+    "oldPrice": 180000,
+    "discountPercent": 28,
+    "stock": 160,
+    "totalSold": 80,
+    "maxQuantityPerUser": null,
+    "unit": "quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 96,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p><img src=\"https://images.f99.com.vn/images/c9249b45-df5d-4a6f-8de8-3007dee15685.jpg\"></p><p><br></p><p>HƯỚNG DẪN BẢO QUẢN:</p><p><br></p><p>✔️Bổ ra ướp lạnh và ăn trực tiếp.</p><p><br></p><p>✔️ Có thể ép lấy nước , thêm đường sữa đá xay để làm sinh tố.</p><p><br></p><p>✔️ Thời gian để chỉ nên 4-5 ngày , để quá lâu ảnh hưởng đến giá trị dinh dưỡng cũng như mùi vị .</p>",
+    "category": {
+      "id": 60,
+      "name": "Dưa lưới",
+      "imageUrl": "https://imgur.com/3UCCQBE.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "dưa lưới",
+      "dưa nhật",
+      "dưa vàng",
+      "dưa lưới ngọt"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/8339c4f1-6e3f-4ee8-8133-fbe31d4fe4f4.jpeg",
+      "https://images.f99.com.vn/images/f3e5b813-bad2-4ebc-a7df-98c986af6e59.jpg",
+      "https://images.f99.com.vn/images/3762bad0-0d49-431a-b7e6-3ecb1f4ab3c7.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/11696",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "size 1.2-1.3kg",
+          "size 1.3-1.4kg"
+        ]
+      },
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 quả",
+          "combo 2 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 19185,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "size 1.2-1.3kg / 1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "size 1.2-1.3kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "size 1.2-1.3kg / 1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 129000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 40,
+        "totalSold": 20,
+        "unit": "quả",
+        "sku": "",
+        "rating": 5,
+        "instructions": "<p><img src=\"https://images.f99.com.vn/images/c9249b45-df5d-4a6f-8de8-3007dee15685.jpg\"></p><p><br></p><p>HƯỚNG DẪN BẢO QUẢN:</p><p><br></p><p>✔️Bổ ra ướp lạnh và ăn trực tiếp.</p><p><br></p><p>✔️ Có thể ép lấy nước , thêm đường sữa đá xay để làm sinh tố.</p><p><br></p><p>✔️ Thời gian để chỉ nên 4-5 ngày , để quá lâu ảnh hưởng đến giá trị dinh dưỡng cũng như mùi vị .</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "size 1.2-1.3kg"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 19186,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "size 1.2-1.3kg / combo 2 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "size 1.2-1.3kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "combo 2 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "size 1.2-1.3kg / combo 2 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 249000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 40,
+        "totalSold": 20,
+        "unit": "quả",
+        "sku": "",
+        "rating": 5,
+        "instructions": "<p><img src=\"https://images.f99.com.vn/images/c9249b45-df5d-4a6f-8de8-3007dee15685.jpg\"></p><p><br></p><p>HƯỚNG DẪN BẢO QUẢN:</p><p><br></p><p>✔️Bổ ra ướp lạnh và ăn trực tiếp.</p><p><br></p><p>✔️ Có thể ép lấy nước , thêm đường sữa đá xay để làm sinh tố.</p><p><br></p><p>✔️ Thời gian để chỉ nên 4-5 ngày , để quá lâu ảnh hưởng đến giá trị dinh dưỡng cũng như mùi vị .</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "size 1.2-1.3kg"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "combo 2 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 19187,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "size 1.3-1.4kg / 1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "size 1.3-1.4kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "size 1.3-1.4kg / 1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 131000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 40,
+        "totalSold": 20,
+        "unit": "quả",
+        "sku": "",
+        "rating": 5,
+        "instructions": "<p><img src=\"https://images.f99.com.vn/images/c9249b45-df5d-4a6f-8de8-3007dee15685.jpg\"></p><p><br></p><p>HƯỚNG DẪN BẢO QUẢN:</p><p><br></p><p>✔️Bổ ra ướp lạnh và ăn trực tiếp.</p><p><br></p><p>✔️ Có thể ép lấy nước , thêm đường sữa đá xay để làm sinh tố.</p><p><br></p><p>✔️ Thời gian để chỉ nên 4-5 ngày , để quá lâu ảnh hưởng đến giá trị dinh dưỡng cũng như mùi vị .</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "size 1.3-1.4kg"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 19188,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "size 1.3-1.4kg / combo 2 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "size 1.3-1.4kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "combo 2 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "size 1.3-1.4kg / combo 2 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 259000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 40,
+        "totalSold": 20,
+        "unit": "quả",
+        "sku": "",
+        "rating": 5,
+        "instructions": "<p><img src=\"https://images.f99.com.vn/images/c9249b45-df5d-4a6f-8de8-3007dee15685.jpg\"></p><p><br></p><p>HƯỚNG DẪN BẢO QUẢN:</p><p><br></p><p>✔️Bổ ra ướp lạnh và ăn trực tiếp.</p><p><br></p><p>✔️ Có thể ép lấy nước , thêm đường sữa đá xay để làm sinh tố.</p><p><br></p><p>✔️ Thời gian để chỉ nên 4-5 ngày , để quá lâu ảnh hưởng đến giá trị dinh dưỡng cũng như mùi vị .</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "size 1.3-1.4kg"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "combo 2 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 96,
+      "sellerRate": 4.4,
+      "sellerName": "Ánh Vy Fruit",
+      "warehouseId": "4ead612c-994e-4201-ab8c-583f2ba5437c",
+      "warehouseAddress": "10 Nguyễn Khánh Toàn, phường Quan Hoa, quận Cầu Giấy, Hà Nội ",
+      "distance": 3233,
+      "warehouseDistrict": "cau giay",
+      "reputation": 76.48368498960507,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 12128,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dưa Lưới TaKi",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dưa lưới taki giống Nhật trồng tại Đồng Tháp                                                                        </p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/4c9c2cf5-7135-4dbb-a291-23ae17650feb.jpg\",\"https://images.f99.com.vn/images/91530e0e-7cd2-472c-aad6-8aebd8220677.jpg\",\"https://images.f99.com.vn/images/f6ed22d1-8711-49f9-9bc3-b76ae54bce48.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dưa Lưới TaKi",
+    "description": "<p>Dưa lưới taki giống Nhật trồng tại Đồng Tháp                                                                        </p>",
+    "imageUrl": "https://images.f99.com.vn/images/4c9c2cf5-7135-4dbb-a291-23ae17650feb.jpg",
+    "price": 79000,
+    "oldPrice": 150000,
+    "discountPercent": 47,
+    "stock": 0,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 118,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản tủ mát sẽ được lâu hơn</p>",
+    "category": {
+      "id": 60,
+      "name": "Dưa lưới",
+      "imageUrl": "https://imgur.com/3UCCQBE.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/4c9c2cf5-7135-4dbb-a291-23ae17650feb.jpg",
+      "https://images.f99.com.vn/images/91530e0e-7cd2-472c-aad6-8aebd8220677.jpg",
+      "https://images.f99.com.vn/images/f6ed22d1-8711-49f9-9bc3-b76ae54bce48.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12128",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 96762,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 79000,
+        "oldPrice": 150000,
+        "discountPercent": 47,
+        "stock": 0,
+        "totalSold": 0,
+        "unit": "Quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản tủ mát sẽ được lâu hơn</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 118,
+      "sellerRate": 3.9,
+      "sellerName": "Đinh Hương Fruit",
+      "warehouseId": "7d5007b2-5563-4d11-a461-2b659e39fcf0",
+      "warehouseAddress": "64 Khương Đình, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",
+      "distance": 3572,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 55.8364615384624,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14014,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "dưa lưới ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>dưa lưới ruột vàng ,vỏ quả màu xanh nhạt và các dường vân trắng đan xen nhau nên rất dễ nhận biết .</p><p>khi ăn dưa lưới ta cảm nhận được hương thơm và vị ngọt mát đặc trưng .nên dưa lưới rất được ưa chuộm vào mùa hè, thời tiết nóng bức ăn giải nhiệt cho cơ thể.</p><p><br></p><p>dưa lưới rất giàu folate và vitamin nhóm B ,rất cần thiết cho sự phát truyển của thai nhi .</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/41166b65-fcca-46ee-8327-8dfd5abcba55.jpg\",\"https://images.f99.com.vn/images/a4e4a9e4-8e44-4c9c-b481-94530b981fe2.jpg\",\"https://images.f99.com.vn/images/dd8972e7-ac24-42fb-9808-04931482b8ac.jpg\",\"https://images.f99.com.vn/images/9bb88819-bab8-498d-953b-7692766e121d.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "dưa lưới ",
+    "description": "<p>dưa lưới ruột vàng ,vỏ quả màu xanh nhạt và các dường vân trắng đan xen nhau nên rất dễ nhận biết .</p><p>khi ăn dưa lưới ta cảm nhận được hương thơm và vị ngọt mát đặc trưng .nên dưa lưới rất được ưa chuộm vào mùa hè, thời tiết nóng bức ăn giải nhiệt cho cơ thể.</p><p><br></p><p>dưa lưới rất giàu folate và vitamin nhóm B ,rất cần thiết cho sự phát truyển của thai nhi .</p>",
+    "imageUrl": "https://images.f99.com.vn/images/41166b65-fcca-46ee-8327-8dfd5abcba55.jpg",
+    "price": 100000,
+    "oldPrice": 60000,
+    "discountPercent": -67,
+    "stock": 10,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 220,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 60,
+      "name": "Dưa lưới",
+      "imageUrl": "https://imgur.com/3UCCQBE.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/41166b65-fcca-46ee-8327-8dfd5abcba55.jpg",
+      "https://images.f99.com.vn/images/a4e4a9e4-8e44-4c9c-b481-94530b981fe2.jpg",
+      "https://images.f99.com.vn/images/dd8972e7-ac24-42fb-9808-04931482b8ac.jpg",
+      "https://images.f99.com.vn/images/9bb88819-bab8-498d-953b-7692766e121d.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14014",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 220,
+      "sellerRate": 4.5,
+      "sellerName": "Mai Hoa Fruit",
+      "warehouseId": "318b6254-bdee-408b-91a1-df079579dc6d",
+      "warehouseAddress": "Số 19 ngõ 10 Nguyễn Thị Định, Trung Hoà, Cầu Giấy, Hà Nội",
+      "distance": 3649,
+      "warehouseDistrict": "cau giay",
+      "reputation": 65.73371431372549,
+      "others": [
+        {
+          "sellerId": 220,
+          "sellerRate": 4.5,
+          "sellerName": "Mai Hoa Fruit",
+          "warehouseId": "318b6254-bdee-408b-91a1-df079579dc6d",
+          "warehouseAddress": "Số 19 ngõ 10 Nguyễn Thị Định, Trung Hoà, Cầu Giấy, Hà Nội",
+          "distance": 3649,
+          "warehouseDistrict": "cau giay",
+          "reputation": 65.73371431372549,
+          "others": []
+        },
+        {
+          "sellerId": 220,
+          "sellerRate": 4.5,
+          "sellerName": "Mai Hoa Fruit",
+          "warehouseId": "c802dd36-8dd8-48f8-8fb5-62e3b6471417",
+          "warehouseAddress": "195 Quang Trung, Quang Trung, Hà Đông​, Hà Nội",
+          "distance": 9097,
+          "warehouseDistrict": "ha dong",
+          "reputation": 65.73371431372549,
+          "others": []
+        },
+        {
+          "sellerId": 220,
+          "sellerRate": 4.5,
+          "sellerName": "Mai Hoa Fruit",
+          "warehouseId": "c3d1fd66-42a4-4a2d-a215-47c3185e5f08",
+          "warehouseAddress": "Số 140 Tô Hiệu, Hà Cầu, Hà Đông, Hà Nội",
+          "distance": 9098,
+          "warehouseDistrict": "ha dong",
+          "reputation": 65.73371431372549,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14228,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "DƯA LƯỚI ĐÀI LOAN",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>DƯA LƯỚI ĐÀI LOAN - NGỌT MÁT NGÀY HÈ</p><p><br></p><p><br></p><p><br></p><p><br></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/taa/1.5/16/1f449.png\"></p><p><br></p><p><br></p><p><br></p><p>Dưa lưới Đài Loan là thức quả đặc biệt được ưa chuộng trong thời tiết nắng nóng vì hương vị thanh mát, cấp nước giải nhiệt và nhiều vitamin.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tc2/1.5/16/1f331.png\"></p><p><br></p><p><br></p><p><br></p><p>Dưa lưới rất giàu vitamin C giúp tăng cường khả năng miễn dịch của cơ thể, chống cảm nắng và bệnh tật mùa nóng.</p><p><br></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tc2/1.5/16/1f331.png\"></p><p><br></p><p><br></p><p><br></p><p>Dưa lưới còn đặc biệt tốt cho làn da trong mùa hè, giúp thanh lọc cơ thể và bổ sung độ ẩm cho da.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tc2/1.5/16/1f331.png\"></p><p><br></p><p><br></p><p><br></p><p>Dưa lưới giàu nước và chất xơ (1g/100g) giúp lợi tiểu nhuận tràng, ngăn ngừa táo bón, thúc đẩy và duy trì hệ tiêu hóa khỏe mạnh</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/63796909-3f61-4f9c-ad15-433df780dd25.jpg\",\"https://images.f99.com.vn/images/7bafaae7-cdb5-4f11-a9c2-3731f52df626.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "DƯA LƯỚI ĐÀI LOAN",
+    "description": "<p>DƯA LƯỚI ĐÀI LOAN - NGỌT MÁT NGÀY HÈ</p><p><br></p><p><br></p><p><br></p><p><br></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/taa/1.5/16/1f449.png\"></p><p><br></p><p><br></p><p><br></p><p>Dưa lưới Đài Loan là thức quả đặc biệt được ưa chuộng trong thời tiết nắng nóng vì hương vị thanh mát, cấp nước giải nhiệt và nhiều vitamin.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tc2/1.5/16/1f331.png\"></p><p><br></p><p><br></p><p><br></p><p>Dưa lưới rất giàu vitamin C giúp tăng cường khả năng miễn dịch của cơ thể, chống cảm nắng và bệnh tật mùa nóng.</p><p><br></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tc2/1.5/16/1f331.png\"></p><p><br></p><p><br></p><p><br></p><p>Dưa lưới còn đặc biệt tốt cho làn da trong mùa hè, giúp thanh lọc cơ thể và bổ sung độ ẩm cho da.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tc2/1.5/16/1f331.png\"></p><p><br></p><p><br></p><p><br></p><p>Dưa lưới giàu nước và chất xơ (1g/100g) giúp lợi tiểu nhuận tràng, ngăn ngừa táo bón, thúc đẩy và duy trì hệ tiêu hóa khỏe mạnh</p>",
+    "imageUrl": "https://images.f99.com.vn/images/63796909-3f61-4f9c-ad15-433df780dd25.jpg",
+    "price": 89000,
+    "oldPrice": 150000,
+    "discountPercent": 41,
+    "stock": 100,
+    "totalSold": 531,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 194,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 60,
+      "name": "Dưa lưới",
+      "imageUrl": "https://imgur.com/3UCCQBE.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/63796909-3f61-4f9c-ad15-433df780dd25.jpg",
+      "https://images.f99.com.vn/images/7bafaae7-cdb5-4f11-a9c2-3731f52df626.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14228",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1.5-1.7kg",
+          "1.7-1.9kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 14645,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1.5-1.7kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1.5-1.7kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1.5-1.7kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 145000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 50,
+        "totalSold": 266,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1.5-1.7kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 14646,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1.7-1.9kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1.7-1.9kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1.7-1.9kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 165000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 50,
+        "totalSold": 265,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1.7-1.9kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 194,
+      "sellerRate": 4.4,
+      "sellerName": "EUS Fruit 482 Minh Khai",
+      "warehouseId": "bd652138-f1d1-48df-9992-f5be14f3ae95",
+      "warehouseAddress": "482 Minh Khai, Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "distance": 4774,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 76.79195497267878,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14604,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "dưa lưới Đài Loan",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>dưa lưới đài loan </p><p>--------</p><p>𝐇𝐎𝐀 𝐐𝐔𝐀̉ 𝐒𝐀̣𝐂𝐇 𝐅𝐑𝐔𝐈𝐓</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t77/1/16/1f3e1.png\">CS : 84 Bà Triệu - Hoàn Kiếm - Hà nội</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/7562537b-d62a-4a9c-ae8e-e0232a55dc30.jpg\",\"https://images.f99.com.vn/images/c69ca248-31cc-47fa-8a53-352dbb0b5bf5.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "dưa lưới Đài Loan",
+    "description": "<p>dưa lưới đài loan </p><p>--------</p><p>𝐇𝐎𝐀 𝐐𝐔𝐀̉ 𝐒𝐀̣𝐂𝐇 𝐅𝐑𝐔𝐈𝐓</p><p><img src=\"https://www.facebook.com/images/emoji.php/v9/t77/1/16/1f3e1.png\">CS : 84 Bà Triệu - Hoàn Kiếm - Hà nội</p>",
+    "imageUrl": "https://images.f99.com.vn/images/7562537b-d62a-4a9c-ae8e-e0232a55dc30.jpg",
+    "price": 99000,
+    "oldPrice": 99000,
+    "discountPercent": 0,
+    "stock": 15000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "06",
+    "origin": "",
+    "sellerId": 236,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>nhiệt độ &gt;10đ</p>",
+    "category": {
+      "id": 60,
+      "name": "Dưa lưới",
+      "imageUrl": "https://imgur.com/3UCCQBE.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/7562537b-d62a-4a9c-ae8e-e0232a55dc30.jpg",
+      "https://images.f99.com.vn/images/c69ca248-31cc-47fa-8a53-352dbb0b5bf5.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14604",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 236,
+      "sellerRate": 3.3,
+      "sellerName": "Tonkin Fruits",
+      "warehouseId": "89ed028b-b678-42d8-b5f1-e7243035ce2d",
+      "warehouseAddress": "hoan kiem, Số 84 Bà Triệu, Hàng Bài, Hoàn Kiếm, Hà Nội",
+      "distance": 1826,
+      "warehouseDistrict": "hoan kiem",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14948,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dưa  lưới Đài Loan quả từ 1.6 -2kg/ quả",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dưa lưới</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/ba4e06dd-24fa-414f-9d4f-22340982ae58.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dưa  lưới Đài Loan quả từ 1.6 -2kg/ quả",
+    "description": "<p>Dưa lưới</p>",
+    "imageUrl": "https://images.f99.com.vn/images/ba4e06dd-24fa-414f-9d4f-22340982ae58.jpg",
+    "price": 190000,
+    "oldPrice": 290000,
+    "discountPercent": 34,
+    "stock": 29,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": " 1 Quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 260,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 60,
+      "name": "Dưa lưới",
+      "imageUrl": "https://imgur.com/3UCCQBE.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/ba4e06dd-24fa-414f-9d4f-22340982ae58.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14948",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          " 1 Quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 63548,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": " 1 Quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": " 1 Quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": " 1 Quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 190000,
+        "oldPrice": 290000,
+        "discountPercent": 34,
+        "stock": 29,
+        "totalSold": 2,
+        "unit": " 1 Quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": " 1 Quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 260,
+      "sellerRate": 4.4,
+      "sellerName": "Hoa quả 24 Fruit",
+      "warehouseId": "108f4ee0-3cbf-4604-95f9-63370d77dd1e",
+      "warehouseAddress": "24 Quán Thánh, Ba Đình, Hà Nội",
+      "distance": 1901,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 61.327787439614994,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15153,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dưa Lưới Taki Nhật Bản",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgb(34, 34, 34);\">Dưa lưới Taki Nhật Bản</strong><span style=\"color: rgb(34, 34, 34);\">&nbsp;hay còn gọi là dưa vàng thuộc họ bầu bí, có hình tròn hoặc dài, da màu xanh, khi chín thì ngả vàng và có các đường gân trắng đan xen. Thịt quả dưa lưới màu vàng cam hoặc vàng đỏ như đu đủ trông rất hấp dẫn, ăn giòn, mát và thơm ngọt.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/0907eee1-95ef-4c93-8a7d-8b067e3c5167.jpg\",\"https://images.f99.com.vn/images/4398d346-c35f-4212-b391-8fc29c776397.jpg\",\"https://images.f99.com.vn/images/1e3d1145-f935-456f-aba4-fffafeca10c7.jpg\",\"https://images.f99.com.vn/images/64ae4b3b-0bc3-457b-84c2-ad33272795e1.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dưa Lưới Taki Nhật Bản",
+    "description": "<p><strong style=\"color: rgb(34, 34, 34);\">Dưa lưới Taki Nhật Bản</strong><span style=\"color: rgb(34, 34, 34);\">&nbsp;hay còn gọi là dưa vàng thuộc họ bầu bí, có hình tròn hoặc dài, da màu xanh, khi chín thì ngả vàng và có các đường gân trắng đan xen. Thịt quả dưa lưới màu vàng cam hoặc vàng đỏ như đu đủ trông rất hấp dẫn, ăn giòn, mát và thơm ngọt.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/0907eee1-95ef-4c93-8a7d-8b067e3c5167.jpg",
+    "price": 120000,
+    "oldPrice": 150000,
+    "discountPercent": 20,
+    "stock": 26,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 90,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<ul><li>Sau khi mua về, không nên cất trữ quá 5 ngày.Trường hợp thời tiết mát mẻ (nhiệt độ phòng 20 – 24 độ C), khi chưa dùng tới dưa lưới, hãy để ở nơi thông thoáng, khô ráo, không cần cho vào tủ lạnh vì mùi của dưa dễ khuấy tán và bám lên các thực phẩm khác.Trong điều kiện thời tiết nắng nóng (trên 30 độ C), nếu muốn bảo quản dứa lưới trong tủ lạnh thì có thể dùng giấy bọc thực phẩm quấn quanh trái dưa lưới, đặt vào ngăn rau quả riêng.&nbsp;Nếu đã gọt vỏ và cắt dưa thành từng miếng thì hãy bảo quản trong ngăn mát tủ lạnh, tranh thủ dùng hết trong thời gian từ 1 – 2 ngày, bởi càng để lâu dưa càng chảy nước nhiều và rất nhanh hỏng.</li></ul>",
+    "category": {
+      "id": 60,
+      "name": "Dưa lưới",
+      "imageUrl": "https://imgur.com/3UCCQBE.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/0907eee1-95ef-4c93-8a7d-8b067e3c5167.jpg",
+      "https://images.f99.com.vn/images/4398d346-c35f-4212-b391-8fc29c776397.jpg",
+      "https://images.f99.com.vn/images/1e3d1145-f935-456f-aba4-fffafeca10c7.jpg",
+      "https://images.f99.com.vn/images/64ae4b3b-0bc3-457b-84c2-ad33272795e1.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15153",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 90,
+      "sellerRate": 3.8,
+      "sellerName": "Olika Fruits",
+      "warehouseId": "68b095bb-f093-4314-be68-2fd424e6edb0",
+      "warehouseAddress": "115 Nguyễn Hoàng, Mỹ Đình 2, Từ Liêm, Hà Nội, Việt Nam",
+      "distance": 6642,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 44.164000000000534,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 16815,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dưa lưới Đài Loan ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dưa lưới Đài Loan</p><ul><li>Mọng nước - thịt giòn</li><li>Thơm ngon - ngọt mát</li><li>quả to cầm nặng tay</li><li>1 quả nặng từ 2-2.6kg</li></ul>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/f2faff7f-d0c4-4021-b1f3-0ae15f089dee.jpg\",\"https://images.f99.com.vn/images/1587d68e-7516-4dea-a417-f35efa0ebfec.jpg\",\"https://images.f99.com.vn/images/cb2532c6-5bb8-4834-bc23-758e65a0cce6.jpg\",\"https://images.f99.com.vn/images/bca7f11f-3a49-4a9c-93b6-5126f5fe00d0.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Dưa\",\"Dưa đài\",\"dưa lưới\",\"dưa lưới đài loan\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dưa lưới Đài Loan ",
+    "description": "<p>Dưa lưới Đài Loan</p><ul><li>Mọng nước - thịt giòn</li><li>Thơm ngon - ngọt mát</li><li>quả to cầm nặng tay</li><li>1 quả nặng từ 2-2.6kg</li></ul>",
+    "imageUrl": "https://images.f99.com.vn/images/f2faff7f-d0c4-4021-b1f3-0ae15f089dee.jpg",
+    "price": 100000,
+    "oldPrice": 111000,
+    "discountPercent": 10,
+    "stock": 10,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "DL",
+    "origin": "",
+    "sellerId": 277,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 60,
+      "name": "Dưa lưới",
+      "imageUrl": "https://imgur.com/3UCCQBE.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Dưa",
+      "Dưa đài",
+      "dưa lưới",
+      "dưa lưới đài loan"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/f2faff7f-d0c4-4021-b1f3-0ae15f089dee.jpg",
+      "https://images.f99.com.vn/images/1587d68e-7516-4dea-a417-f35efa0ebfec.jpg",
+      "https://images.f99.com.vn/images/cb2532c6-5bb8-4834-bc23-758e65a0cce6.jpg",
+      "https://images.f99.com.vn/images/bca7f11f-3a49-4a9c-93b6-5126f5fe00d0.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/16815",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 30236,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 125000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 3,
+        "unit": "kg",
+        "sku": "DL",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 277,
+      "sellerRate": 4.4,
+      "sellerName": "Cửa hàng trái cây nhập khẩu Fresh Safe Fruits ",
+      "warehouseId": "3e83d44f-ec12-4b20-91a8-4e64e47bf46f",
+      "warehouseAddress": "Số ML6-23 đường Mộc Lan, Khu đô thị Vinhomes Green Bay, Mễ Trì, Nam Từ Liêm, Hà Nội",
+      "distance": 5793,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 71.89346119658168,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 17098,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dưa Lưới Đài Loan (Quả 1,7 ~ 2kg)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h2>Đặc điểm</h2><p>Dưa có vị giòn, ngọt và thanh mát đặc biệt. Dù có chín kĩ dưa giữ giòn đặc trưng.</p><p>Dưa Lưới Đài Loan là vàng trái dưa ngon nhất, an toàn nhất cho người sử dụng!</p><p>Bây giờ dưa lưới trồng cây.</p><h2>Giá trị đinh dưỡng</h2><p>Nước ép dưa lưới có tác dụng chống mệt mỏi, căng thẳng – trọng dưa lưới có chứa oxy hoá phòng ung thư và tăng cường miễn dịch</p><p>Ra Ra, ra trọng dưa lưới và <a href=\"https://thuyanhfruits.com/san-pham/xoai-cat-hoa-loc/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 72, 98);\">xoài.</a></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/eff644ba-047a-4b7c-a7ed-f3d082622c6c.jpg\",\"https://images.f99.com.vn/images/1b75b06c-2f38-4a62-a307-fc194f7f0dd0.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dưa Lưới Đài Loan (Quả 1,7 ~ 2kg)",
+    "description": "<h2>Đặc điểm</h2><p>Dưa có vị giòn, ngọt và thanh mát đặc biệt. Dù có chín kĩ dưa giữ giòn đặc trưng.</p><p>Dưa Lưới Đài Loan là vàng trái dưa ngon nhất, an toàn nhất cho người sử dụng!</p><p>Bây giờ dưa lưới trồng cây.</p><h2>Giá trị đinh dưỡng</h2><p>Nước ép dưa lưới có tác dụng chống mệt mỏi, căng thẳng – trọng dưa lưới có chứa oxy hoá phòng ung thư và tăng cường miễn dịch</p><p>Ra Ra, ra trọng dưa lưới và <a href=\"https://thuyanhfruits.com/san-pham/xoai-cat-hoa-loc/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 72, 98);\">xoài.</a></p>",
+    "imageUrl": "https://images.f99.com.vn/images/eff644ba-047a-4b7c-a7ed-f3d082622c6c.jpg",
+    "price": 189000,
+    "oldPrice": 249000,
+    "discountPercent": 24,
+    "stock": 990,
+    "totalSold": 6,
+    "maxQuantityPerUser": null,
+    "unit": "QUẢ",
+    "sku": "",
+    "origin": "",
+    "sellerId": 286,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 60,
+      "name": "Dưa lưới",
+      "imageUrl": "https://imgur.com/3UCCQBE.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/eff644ba-047a-4b7c-a7ed-f3d082622c6c.jpg",
+      "https://images.f99.com.vn/images/1b75b06c-2f38-4a62-a307-fc194f7f0dd0.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/17098",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 QUẢ"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 20753,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 QUẢ",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 QUẢ",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 QUẢ",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 189000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 990,
+        "totalSold": 6,
+        "unit": "QUẢ",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 QUẢ"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 286,
+      "sellerRate": 4.8,
+      "sellerName": "Anh Châu Fruits ",
+      "warehouseId": "90d03d1d-fd20-41cb-a98e-29d57c1ae2cb",
+      "warehouseAddress": "110D11 Thái Thịnh, Thịnh Quang, Đống Đa, Hà Nội",
+      "distance": 2524,
+      "warehouseDistrict": "dong da",
+      "reputation": 78.82694902298906,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 22211,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "DƯA LƯỚI VỎ XANH RUỘT CAM -Len Mart",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>DƯA LƯỚI VỎ XANH RUỘT CAM</p><p>Bên mình sản xuất theo tiêu chuẩn tối thiểu VIETGAP</p><p>Dưa cắt tại vườn không qua trung gian</p><p>Quy cách: từ 1,2 đến 2 kg</p><p>Hàng tươi ngon</p><p>Dưa lưới bạn biết rồi đó ,nhiều công dụng vô cùng luôn ấy</p><p>Hãy tìm hiểu để cảm nhận nha</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/4eaaf87d-f656-4450-9357-cacb84417277.jpg\",\"https://images.f99.com.vn/images/32947707-7324-4d99-9cac-dbf6296a0989.jpg\",\"https://images.f99.com.vn/images/6a2fa4e8-ffdf-4b55-af35-46c26479b5fa.jpg\",\"https://images.f99.com.vn/images/24eb7c47-f403-4357-ad7d-3ab7d1945328.jpg\",\"https://images.f99.com.vn/images/e2d8cad7-e2c0-46fe-bf83-b8bce4d143c2.jpg\",\"https://images.f99.com.vn/images/9fa87c20-a10b-40cf-8873-9172fb1041b2.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"DƯA LƯỚI\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "DƯA LƯỚI VỎ XANH RUỘT CAM -Len Mart",
+    "description": "<p>DƯA LƯỚI VỎ XANH RUỘT CAM</p><p>Bên mình sản xuất theo tiêu chuẩn tối thiểu VIETGAP</p><p>Dưa cắt tại vườn không qua trung gian</p><p>Quy cách: từ 1,2 đến 2 kg</p><p>Hàng tươi ngon</p><p>Dưa lưới bạn biết rồi đó ,nhiều công dụng vô cùng luôn ấy</p><p>Hãy tìm hiểu để cảm nhận nha</p>",
+    "imageUrl": "https://images.f99.com.vn/images/4eaaf87d-f656-4450-9357-cacb84417277.jpg",
+    "price": 89000,
+    "oldPrice": 125000,
+    "discountPercent": 29,
+    "stock": 1000,
+    "totalSold": 35,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 363,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p>Để nơi thoáng mát,ăn luôn khi cắt</p>",
+    "category": {
+      "id": 60,
+      "name": "Dưa lưới",
+      "imageUrl": "https://imgur.com/3UCCQBE.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "DƯA LƯỚI"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/4eaaf87d-f656-4450-9357-cacb84417277.jpg",
+      "https://images.f99.com.vn/images/32947707-7324-4d99-9cac-dbf6296a0989.jpg",
+      "https://images.f99.com.vn/images/6a2fa4e8-ffdf-4b55-af35-46c26479b5fa.jpg",
+      "https://images.f99.com.vn/images/24eb7c47-f403-4357-ad7d-3ab7d1945328.jpg",
+      "https://images.f99.com.vn/images/e2d8cad7-e2c0-46fe-bf83-b8bce4d143c2.jpg",
+      "https://images.f99.com.vn/images/9fa87c20-a10b-40cf-8873-9172fb1041b2.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/22211",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 363,
+      "sellerRate": 4.2,
+      "sellerName": "LenMart",
+      "warehouseId": "b004be86-db4f-41f0-b834-200e49e4eae2",
+      "warehouseAddress": "Số nhà 29 ngõ 20 dường Mỹ Đình Phường Mỹ Đình",
+      "distance": 4743,
+      "warehouseDistrict": null,
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 28696,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dưa lưới",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dưa lưới Đài Loan hiệu Aladin - Lô nay về ưng cái bụng quá!!!</p><p>Giá giảm nhiệt mà chất lượng thì quá tuyệt vời <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tf3/1.5/16/2764.png\" alt=\"❤\" height=\"16\" width=\"16\"> <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tf3/1.5/16/2764.png\" alt=\"❤\" height=\"16\" width=\"16\"> <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tf3/1.5/16/2764.png\" alt=\"❤\" height=\"16\" width=\"16\"> </p><p>Hàng này em bao các chị một đổi một luôn <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tce/1.5/16/1f618.png\" alt=\"😘\" height=\"16\" width=\"16\"></p><p>--------------------------------</p><p>Giá chỉ: <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t4d/1.5/16/37_20e3.png\" alt=\"7️⃣\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tf/1.5/16/35_20e3.png\" alt=\"5️⃣\" height=\"16\" width=\"16\">K/kg </p><p>Quả nay về to, nặng cân, già quả nên ngọt đậm, thịt dày giòn, tươi mát. </p><p>Các chị cứ mua cả quả về ăn đến đâu thì ăn, còn đâu để tủ lạnh ăn dần, nắng nóng làm miếng dưa mát ăn nó khác lắm ạ <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/td9/1.5/16/1f92a.png\" alt=\"🤪\" height=\"16\" width=\"16\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/5749302c-9ab6-43dd-a942-6c1f187e1f97.jfif\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dưa lưới",
+    "description": "<p>Dưa lưới Đài Loan hiệu Aladin - Lô nay về ưng cái bụng quá!!!</p><p>Giá giảm nhiệt mà chất lượng thì quá tuyệt vời <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tf3/1.5/16/2764.png\" alt=\"❤\" height=\"16\" width=\"16\"> <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tf3/1.5/16/2764.png\" alt=\"❤\" height=\"16\" width=\"16\"> <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tf3/1.5/16/2764.png\" alt=\"❤\" height=\"16\" width=\"16\"> </p><p>Hàng này em bao các chị một đổi một luôn <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tce/1.5/16/1f618.png\" alt=\"😘\" height=\"16\" width=\"16\"></p><p>--------------------------------</p><p>Giá chỉ: <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t4d/1.5/16/37_20e3.png\" alt=\"7️⃣\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tf/1.5/16/35_20e3.png\" alt=\"5️⃣\" height=\"16\" width=\"16\">K/kg </p><p>Quả nay về to, nặng cân, già quả nên ngọt đậm, thịt dày giòn, tươi mát. </p><p>Các chị cứ mua cả quả về ăn đến đâu thì ăn, còn đâu để tủ lạnh ăn dần, nắng nóng làm miếng dưa mát ăn nó khác lắm ạ <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/td9/1.5/16/1f92a.png\" alt=\"🤪\" height=\"16\" width=\"16\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/5749302c-9ab6-43dd-a942-6c1f187e1f97.jfif",
+    "price": 72000,
+    "oldPrice": 85000,
+    "discountPercent": 15,
+    "stock": 10000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "DUA LU?I",
+    "origin": "",
+    "sellerId": 288,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 60,
+      "name": "Dưa lưới",
+      "imageUrl": "https://imgur.com/3UCCQBE.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/5749302c-9ab6-43dd-a942-6c1f187e1f97.jfif"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/28696",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 288,
+      "sellerRate": 4.5,
+      "sellerName": "Hoa Quả Sạch Fruits 247 Hà Nội",
+      "warehouseId": "c1f53e90-6f0b-48c8-bbff-58d72e918052",
+      "warehouseAddress": " Hà Nội,  Nam Từ Liêm,  Mễ Trì, Số 20, ngõ 14 phố Mễ Trì Hạ",
+      "distance": 5671,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 60.003555555556446,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 29710,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dưa Lưới Vàng",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>dưa lưới ruột vàng ,vỏ quả màu xanh nhạt và các dường vân trắng đan xen nhau nên rất dễ nhận biết .</p><p>khi ăn dưa lưới ta cảm nhận được hương thơm và vị ngọt mát đặc trưng .nên dưa lưới rất được ưa chuộm vào mùa hè, thời tiết nóng bức ăn giải nhiệt cho cơ thể.</p><p><br></p><p>dưa lưới rất giàu folate và vitamin nhóm B ,rất cần thiết cho sự phát truyển của thai nhi .</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/46a86cb6-6af1-48ea-8a87-bcf3e65d0801.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"dưa lưới vàng\",\"dưa lưới\",\"dưa vàng\",\"dua luoi vang\",\"dua vang\",\"dua luoi\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dưa Lưới Vàng",
+    "description": "<p>dưa lưới ruột vàng ,vỏ quả màu xanh nhạt và các dường vân trắng đan xen nhau nên rất dễ nhận biết .</p><p>khi ăn dưa lưới ta cảm nhận được hương thơm và vị ngọt mát đặc trưng .nên dưa lưới rất được ưa chuộm vào mùa hè, thời tiết nóng bức ăn giải nhiệt cho cơ thể.</p><p><br></p><p>dưa lưới rất giàu folate và vitamin nhóm B ,rất cần thiết cho sự phát truyển của thai nhi .</p>",
+    "imageUrl": "https://images.f99.com.vn/images/46a86cb6-6af1-48ea-8a87-bcf3e65d0801.jpg",
+    "price": 86000,
+    "oldPrice": 120000,
+    "discountPercent": 28,
+    "stock": 500,
+    "totalSold": 17,
+    "maxQuantityPerUser": null,
+    "unit": "1 quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 484,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 60,
+      "name": "Dưa lưới",
+      "imageUrl": "https://imgur.com/3UCCQBE.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "dưa lưới vàng",
+      "dưa lưới",
+      "dưa vàng",
+      "dua luoi vang",
+      "dua vang",
+      "dua luoi"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/46a86cb6-6af1-48ea-8a87-bcf3e65d0801.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/29710",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 60623,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 86000,
+        "oldPrice": 120000,
+        "discountPercent": 28,
+        "stock": 500,
+        "totalSold": 17,
+        "unit": "1 quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 484,
+      "sellerRate": 4.6,
+      "sellerName": "HOME FRUITS",
+      "warehouseId": "c9100430-cbd7-4e59-a914-9ce7a7071cbc",
+      "warehouseAddress": "Số 172 Trần Bình, phường Mỹ Đình, Quận Nam Từ Liêm, Hà Nội",
+      "distance": 6740,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 80.48249894439043,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 36989,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "DƯA LƯỚI FUJI",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong>Đặc điểm :</strong></p><ul><li>Dưa lưới có ruột màu xanh lá, ngọt đậm, hương thơm dịu nhẹ và mọng nước.&nbsp;</li><li>Là nguồn cung cấp nhiều vitamin và khoáng chất.&nbsp;</li><li>Ăn dưa lưới có tác dụng phòng chống ung thư, tốt cho tim mạch, hỗ trợ hệ tiêu hóa và giảm căng thẳng…&nbsp;</li></ul><p><strong>Thông tin dinh dưỡng:&nbsp;</strong></p><ul><li>Dưa lưới Fuji là giống Dưa lưới cao cấp được nhập giống từ Nhật do chính các kỹ sư Nhật giám sát và thực hiện các quy trình chăm sóc kỹ càng, nuôi dưỡng nghiêm ngặt để cho ra những trái dưa hoàn hảo nhất.&nbsp;</li><li>Đây là loại trái cây sạch có tính giải khát cao và hương vị ngọt, thơm theo tiêu chuẩn chất lượng Nhật Bản. Để có được những trái Dưa lưới Fuji chất lượng thì công việc phối hợp phân bón hữu cơ, độ ẩm, thời gian sinh trưởng, thu hoạch, đóng gói và vận chuyển đều được cân nhắc cẩn trọng.&nbsp;</li><li>Bên cạnh đó, Dưa lưới Fuji là trái cây dinh dưỡng với nhiều công dụng tốt cho sức khỏe như: Phòng chống ung thư, tốt cho tim mạch, hỗ trợ hệ tiêu hóa và giảm căng thẳng…&nbsp;</li><li>Dưa lưới Fuji không những ngon miệng mà còn đẹp mắt xứng đáng là một trong những loại trái cây thường xuyên xuất hiện trong giỏ quà trái cây gửi tặng những người thân, đối tác trong các dịp đặc biệt.&nbsp;</li><li><br></li></ul>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/19ed37c5-701d-490c-876d-5ed23f86c62b.jpg\",\"https://images.f99.com.vn/images/3a320ebb-5a51-4f0c-9eb8-a40bb00c6277.jpg\",\"https://images.f99.com.vn/images/bd4a20d9-c15b-4aff-a6f5-3038f1964e07.jpg\",\"https://images.f99.com.vn/images/48d9b5fd-ff9c-4f45-a9ef-b0ae0938a877.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "DƯA LƯỚI FUJI",
+    "description": "<p><strong>Đặc điểm :</strong></p><ul><li>Dưa lưới có ruột màu xanh lá, ngọt đậm, hương thơm dịu nhẹ và mọng nước.&nbsp;</li><li>Là nguồn cung cấp nhiều vitamin và khoáng chất.&nbsp;</li><li>Ăn dưa lưới có tác dụng phòng chống ung thư, tốt cho tim mạch, hỗ trợ hệ tiêu hóa và giảm căng thẳng…&nbsp;</li></ul><p><strong>Thông tin dinh dưỡng:&nbsp;</strong></p><ul><li>Dưa lưới Fuji là giống Dưa lưới cao cấp được nhập giống từ Nhật do chính các kỹ sư Nhật giám sát và thực hiện các quy trình chăm sóc kỹ càng, nuôi dưỡng nghiêm ngặt để cho ra những trái dưa hoàn hảo nhất.&nbsp;</li><li>Đây là loại trái cây sạch có tính giải khát cao và hương vị ngọt, thơm theo tiêu chuẩn chất lượng Nhật Bản. Để có được những trái Dưa lưới Fuji chất lượng thì công việc phối hợp phân bón hữu cơ, độ ẩm, thời gian sinh trưởng, thu hoạch, đóng gói và vận chuyển đều được cân nhắc cẩn trọng.&nbsp;</li><li>Bên cạnh đó, Dưa lưới Fuji là trái cây dinh dưỡng với nhiều công dụng tốt cho sức khỏe như: Phòng chống ung thư, tốt cho tim mạch, hỗ trợ hệ tiêu hóa và giảm căng thẳng…&nbsp;</li><li>Dưa lưới Fuji không những ngon miệng mà còn đẹp mắt xứng đáng là một trong những loại trái cây thường xuyên xuất hiện trong giỏ quà trái cây gửi tặng những người thân, đối tác trong các dịp đặc biệt.&nbsp;</li><li><br></li></ul>",
+    "imageUrl": "https://images.f99.com.vn/images/19ed37c5-701d-490c-876d-5ed23f86c62b.jpg",
+    "price": 576000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 450,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "QUẢ",
+    "sku": "",
+    "origin": "",
+    "sellerId": 193,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản lạnh trong tủ lạnh nhiệt độ từ 3-7oC</p>",
+    "category": {
+      "id": 60,
+      "name": "Dưa lưới",
+      "imageUrl": "https://imgur.com/3UCCQBE.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/19ed37c5-701d-490c-876d-5ed23f86c62b.jpg",
+      "https://images.f99.com.vn/images/3a320ebb-5a51-4f0c-9eb8-a40bb00c6277.jpg",
+      "https://images.f99.com.vn/images/bd4a20d9-c15b-4aff-a6f5-3038f1964e07.jpg",
+      "https://images.f99.com.vn/images/48d9b5fd-ff9c-4f45-a9ef-b0ae0938a877.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/36989",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1 QUẢ",
+          "3 QUẢ",
+          "5 QUẢ"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 66141,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 QUẢ",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1 QUẢ",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 QUẢ",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 576000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 150,
+        "totalSold": 0,
+        "unit": "QUẢ",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản lạnh trong tủ lạnh nhiệt độ từ 3-7oC</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1 QUẢ"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 66142,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "3 QUẢ",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "3 QUẢ",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "3 QUẢ",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 1559000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 150,
+        "totalSold": 0,
+        "unit": "QUẢ",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản lạnh trong tủ lạnh nhiệt độ từ 3-7oC</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "3 QUẢ"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 66143,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "5 QUẢ",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "5 QUẢ",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "5 QUẢ",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 2539000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 150,
+        "totalSold": 0,
+        "unit": "QUẢ",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản lạnh trong tủ lạnh nhiệt độ từ 3-7oC</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "5 QUẢ"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 193,
+      "sellerRate": 4.9,
+      "sellerName": "Royal Green Fruits",
+      "warehouseId": "54ea5d5f-edb9-4db9-9279-5db65d728ab8",
+      "warehouseAddress": "Shophouse D1 Mandarin Garden, Hoàng Minh Giám, Trung Hòa, Cầu Giấy, Hà Nội",
+      "distance": 4511,
+      "warehouseDistrict": "cau giay",
+      "reputation": 64.03561290322591,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 44690,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://i.imgur.com/t4kJXBl.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "Dưa lưới chứa hàm lượng dinh dưỡng cao, chứa nhiều nước tác dụng giải nhiệt. Gọt vỏ ăn trực tiếp hoặc có thể say thêm sữa và đường làm sinh tố hay làm các món trộn hoặc salad.",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dưa lưới - 1 kg",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dưa lưới - 1 kg",
+    "description": "Dưa lưới chứa hàm lượng dinh dưỡng cao, chứa nhiều nước tác dụng giải nhiệt. Gọt vỏ ăn trực tiếp hoặc có thể say thêm sữa và đường làm sinh tố hay làm các món trộn hoặc salad.",
+    "imageUrl": "https://i.imgur.com/t4kJXBl.png",
+    "price": 88000,
+    "oldPrice": null,
+    "discountPercent": null,
+    "stock": 100,
+    "totalSold": 5,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 548,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.2,
+    "instructions": "",
+    "category": {
+      "id": 60,
+      "name": "Dưa lưới",
+      "imageUrl": "https://imgur.com/3UCCQBE.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://i.imgur.com/t4kJXBl.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/44690",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 548,
+      "sellerRate": 4.4,
+      "sellerName": "DELI MART",
+      "warehouseId": "602391b3-9831-42e9-80a5-2e8333671a3e",
+      "warehouseAddress": "Sàn Thương Mại Tầng 1 - Riverside Garden, số 349 Vũ Tông Phan, Khương Đình, Thanh Xuân, Hà Nội",
+      "distance": 4620,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 61.13986206896673,
+      "others": [
+        {
+          "sellerId": 548,
+          "sellerRate": 4.4,
+          "sellerName": "DELI MART",
+          "warehouseId": "602391b3-9831-42e9-80a5-2e8333671a3e",
+          "warehouseAddress": "Sàn Thương Mại Tầng 1 - Riverside Garden, số 349 Vũ Tông Phan, Khương Đình, Thanh Xuân, Hà Nội",
+          "distance": 4620,
+          "warehouseDistrict": "thanh xuan",
+          "reputation": 61.13986206896673,
+          "others": []
+        },
+        {
+          "sellerId": 548,
+          "sellerRate": 4.4,
+          "sellerName": "DELI MART",
+          "warehouseId": "05aed57f-e0a2-44c7-bed4-f754f25a5900",
+          "warehouseAddress": "Căn 103, Tòa CT4, Vimeco, Nguyễn Chánh, Trung Hòa, Cầu Giấy, Hà Nội",
+          "distance": 4718,
+          "warehouseDistrict": "cau giay",
+          "reputation": 61.13986206896673,
+          "others": []
+        },
+        {
+          "sellerId": 548,
+          "sellerRate": 4.4,
+          "sellerName": "DELI MART",
+          "warehouseId": "f31e5e1a-e677-4d15-80db-214131370d1c",
+          "warehouseAddress": "Sảnh căn hộ T03 - Times City, 458 Minh Khai, Hai Bà Trưng, Hà Nội.",
+          "distance": 5140,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 61.13986206896673,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

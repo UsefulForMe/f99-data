@@ -1,0 +1,35 @@
+{
+  "id": 241,
+  "name": "BAVABI SEAFOOD",
+  "logo": "https://cdn.f99.link/groupbuy-images/f901a7f5-b705-4fd0-8a76-6b083c2bc275.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "BAVABI là công ty hàng đầu chế biến sâu về hải sản bao gồm nhiều lĩnh vực sản xuất khác nhau dựa trên nền tảng của ngành công nghiệp hàu như BAVAFarm (trại giống, hạ tầng nuôi và công nghệ nuôi trên nền tảng công nghệ 4.0), BAVAFood với các sản phẩm chế biến sâu từ hàu và các nông sản khác, BAVAGift với hệ thống Kiosk cung cấp các sản vật địa phương cho khách du lịch, BAVAFarmStay với các dịch vụ du lịch trải nghiệm đặc biệt tại các vùng nuôi của Công ty. Với hơn 40 nhân viên, trong đó trên 15 thành viên là kỹ sư chuyên nghiệp, thạc sĩ khoa học, kỹ sư thực phẩm, kỹ sư sinh hóa, cử nhân kinh tế, các kỹ thuật viên, các sản phẩm và dịch của BAVABI hoàn toàn có thể đáp ứng nhu cầu cạnh tranh của thị trường trong và ngoài nước.",
+  "headQuarter": "Thôn Đông Trung, Đông Xá, Vân Đồn, Quảng Ninh",
+  "email": "Bavabi.kdhn4@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 0,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 0
+}

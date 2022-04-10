@@ -1,0 +1,35 @@
+{
+  "id": 113,
+  "name": "Verygood Minimart",
+  "logo": "https://cdn.f99.link/groupbuy-images/48a96a39-03fc-4346-884e-7ed25d7928ae.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Very Good  Siêu thị hoa quả nhập khẩu, hoa quả Việt, đồ ăn vặt. Khách hàng ăn trái cây, đồ ăn vặt, nước ép ở Very good thì khách hàng hãy cứ yên tâm vì tất cả những sản phẩm của chúng tôi đã được chọn lọc kĩ lưỡng, đảm bảo chất lượng đến tay người tiêu dùng. Vì vậy, chúng tôi tin rằng Very Good là lựa chọn hàng đầu để khách yêu chăm sóc gia đình mình. \nVery Good mang trái cây từ vườn về nhà bạn!\n",
+  "headQuarter": "103 đường 19/5, Phường Văn Quán, Quận Hà Đông, Hà Nội, Văn Quán, Hà Đông, Hà Nội",
+  "email": "huy1012@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.6,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

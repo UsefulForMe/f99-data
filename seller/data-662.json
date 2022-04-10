@@ -1,0 +1,35 @@
+{
+  "id": 662,
+  "name": "RAU CỦ 16",
+  "logo": "https://cdn.f99.link/groupbuy-images/a2178e36-02aa-4720-a44c-f142c09eaf13.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Rau - Củ - Đồ khô",
+  "headQuarter": "243A Nguyễn Thượng Hiền, P. 6, Bình Thạnh, Hồ Chí Minh",
+  "email": "hellen.thaohien@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

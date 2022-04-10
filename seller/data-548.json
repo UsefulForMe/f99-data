@@ -1,0 +1,35 @@
+{
+  "id": 548,
+  "name": "DELI MART",
+  "logo": "https://cdn.f99.link/groupbuy-images/1200eee5-69e0-41e2-a690-af851f65fd20.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Hệ thống chuỗi siêu thị thực phẩm sạch cao cấp Delimart\n- Miễn phí sơ chế và chế biến theo yêu cầu khách hàng\n- Miễn phí giao hàng tận bàn ăn\n- HOTLINE: 0987 946 166",
+  "headQuarter": "Số 2 ngõ 116/55 Nguyễn Xiển, Hạ Đình, Thanh Xuân, Hà Nội",
+  "email": "marketing01.deli@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.4,
+  "availableTime": {
+    "openTime": "06:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 9
+}

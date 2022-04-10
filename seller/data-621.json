@@ -1,0 +1,35 @@
+{
+  "id": 621,
+  "name": "Rau củ hải sản Duy béo",
+  "logo": "https://cdn.f99.link/groupbuy-images/e0f55a88-ef66-4528-b178-dd979daa95d0.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp các mặt hàng thực phẩm: Rau củ quả, hải sản cấp đông...đảm bảo chất lượng",
+  "headQuarter": "83 Ung Văn Khiêm, 25, Bình Thạnh, Hồ Chí Minh",
+  "email": "vaiguisher4@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "07:00",
+    "closeTime": "23:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

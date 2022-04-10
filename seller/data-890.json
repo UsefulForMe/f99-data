@@ -1,0 +1,35 @@
+{
+  "id": 890,
+  "name": "Laa Boorin",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/49f7e1ac-8a61-422b-a67e-b4d3bed3ad5c.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên bán lẻ trái cây nhập khẩu tươi ngon, thực phẩm khô ( cá ngừ hộp, măng khô, …) và các loại hạt dinh dưỡng (Macca, hạnh nhân, …)",
+  "headQuarter": "Số 93/3 Tôn Đản, Phường 14, Quận 4, Hồ Chí Minh",
+  "email": "Lathao1114@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": false,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "07:30",
+    "closeTime": "19:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

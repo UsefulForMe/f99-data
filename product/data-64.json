@@ -1,0 +1,1214 @@
+[
+  {
+    "id": 2830,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hồng Xiêm",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Hồng xiêm nguyên cám Tiền Giang rất già quả, ăn ngon, ngọt lịm mà không bị sạn, bị cát. Vỏ hồng xiêm có màu nâu-vàng nhạt. Bên trong là lớp cùi thịt có màu nâu ánh đỏ với kết cấu hạt mịn. Nhờ hương thơm tự nhiên và vị ngọt bùi, hồng xiêm Vip được nhiều người yêu thích và lựa chọn.</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Thông tin dinh dưỡng:</strong></p><p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Hồng xiêm khi ăn sẽ tốt cho mắt và ngăn ngừa ung thư. Ăn hồng xiêm thường xuyên giúp cải thiện mắt và làm sáng mắt nhờ hàm lượng vitamin A có trong quả. Các dưỡng chất có trong quả giúp ngăn ngừa và đẩy lùi các tế bào ung thư.</span></p><p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Một điểm đặc biệt là mặc dù hồng xiêm chín ăn ngọt nhưng là vị ngọt tự nhiên nên những người bị huyết áp, tim mạch hay bệnh thận vẫn có thể ăn thoải mái theo ý muốn. Hồng xiêm cũng đặc biệt tốt cho mẹ bầu và trẻ nhỏ.</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Hướng dẫn sử dụng:</strong></p><p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Để phân biệt hồng xiêm chín cũng khá dễ dàng. Chỉ cần nắn thấy hơi mềm tay và ngửi có mùi thơm dịu thì hồng xiêm đã chín. Khi chín, quả chín mềm có thể lấy ra bổ ăn ngay được. Nếu chưa chín, hãy đợi thêm 1-2 ngày để tránh bị chát và nhiều nhựa khi ăn.</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Hướng dẫn bảo quản:</strong></p><p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Nên bảo quản hồng xiêm ở nơi khô ráo thoáng mát cho đến khi chín hoàn toàn. Sau đó có thể cho vào tủ lạnh để tiếp tục bảo quản với thời gian lâu hơn. Bởi hồng xiêm đã chín khi gặp lạnh sẽ không thể tiếp tục chín được nữa. </span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/90afb4b4-8502-4b3c-a2d5-03b33de4b25e.png\",\"https://images.f99.com.vn/images/1c319f06-b758-4318-8f72-2493a54a3b74.png\",\"https://images.f99.com.vn/images/034ac4d6-d16a-45ca-88c3-b42c8a6a525c.png\",\"https://images.f99.com.vn/images/4fd6e202-5309-46c9-b91a-bebb478f2f2b.png\",\"https://images.f99.com.vn/images/a7fea8c5-be4a-41ef-ae36-9f6cd0f845ac.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hồng Xiêm",
+    "description": "<p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Hồng xiêm nguyên cám Tiền Giang rất già quả, ăn ngon, ngọt lịm mà không bị sạn, bị cát. Vỏ hồng xiêm có màu nâu-vàng nhạt. Bên trong là lớp cùi thịt có màu nâu ánh đỏ với kết cấu hạt mịn. Nhờ hương thơm tự nhiên và vị ngọt bùi, hồng xiêm Vip được nhiều người yêu thích và lựa chọn.</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Thông tin dinh dưỡng:</strong></p><p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Hồng xiêm khi ăn sẽ tốt cho mắt và ngăn ngừa ung thư. Ăn hồng xiêm thường xuyên giúp cải thiện mắt và làm sáng mắt nhờ hàm lượng vitamin A có trong quả. Các dưỡng chất có trong quả giúp ngăn ngừa và đẩy lùi các tế bào ung thư.</span></p><p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Một điểm đặc biệt là mặc dù hồng xiêm chín ăn ngọt nhưng là vị ngọt tự nhiên nên những người bị huyết áp, tim mạch hay bệnh thận vẫn có thể ăn thoải mái theo ý muốn. Hồng xiêm cũng đặc biệt tốt cho mẹ bầu và trẻ nhỏ.</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Hướng dẫn sử dụng:</strong></p><p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Để phân biệt hồng xiêm chín cũng khá dễ dàng. Chỉ cần nắn thấy hơi mềm tay và ngửi có mùi thơm dịu thì hồng xiêm đã chín. Khi chín, quả chín mềm có thể lấy ra bổ ăn ngay được. Nếu chưa chín, hãy đợi thêm 1-2 ngày để tránh bị chát và nhiều nhựa khi ăn.</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Hướng dẫn bảo quản:</strong></p><p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Nên bảo quản hồng xiêm ở nơi khô ráo thoáng mát cho đến khi chín hoàn toàn. Sau đó có thể cho vào tủ lạnh để tiếp tục bảo quản với thời gian lâu hơn. Bởi hồng xiêm đã chín khi gặp lạnh sẽ không thể tiếp tục chín được nữa. </span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/90afb4b4-8502-4b3c-a2d5-03b33de4b25e.png",
+    "price": 56000,
+    "oldPrice": 60000,
+    "discountPercent": 7,
+    "stock": 300,
+    "totalSold": 99,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "20000955",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.6,
+    "instructions": null,
+    "category": {
+      "id": 64,
+      "name": "Hồng",
+      "imageUrl": "https://imgur.com/2Z7bzQc.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/90afb4b4-8502-4b3c-a2d5-03b33de4b25e.png",
+      "https://images.f99.com.vn/images/1c319f06-b758-4318-8f72-2493a54a3b74.png",
+      "https://images.f99.com.vn/images/034ac4d6-d16a-45ca-88c3-b42c8a6a525c.png",
+      "https://images.f99.com.vn/images/4fd6e202-5309-46c9-b91a-bebb478f2f2b.png",
+      "https://images.f99.com.vn/images/a7fea8c5-be4a-41ef-ae36-9f6cd0f845ac.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/2830",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg",
+          "Combo 3kg",
+          "Combo 5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 83188,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 56000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 91,
+        "unit": "Kg",
+        "sku": "20000955",
+        "rating": 4.6,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 83189,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 160500,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 8,
+        "unit": "Kg",
+        "sku": "20004903",
+        "rating": 4.6,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 83190,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 255500,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "Kg",
+        "sku": "20004904",
+        "rating": 4.6,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 33269,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hồng đỏ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Mùa này Hồng vào vụ chín nhiều. Tiện rằm nên e bán luôn, hồng đã ủ sẵn có quả ăn ngay có quả 1-2 hôm ăn. Bao ngon <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t5b/1.5/16/1f60d.png\" alt=\"😍\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t5b/1.5/16/1f60d.png\" alt=\"😍\" height=\"16\" width=\"16\">.</p><p><a href=\"https://www.facebook.com/hashtag/59k?__eep__=6&amp;__gid__=487240764816120&amp;__cft__[0]=AZXFEQ7eSKyAip8lMzE4o0Xbqycp7tPVlYLXebVSqb29-h8cKi4Od3PUl5QZDOiGE7dhu4702m_f4CQgY72GUsjYdO5jCN-otDDyoGeg_Dr63wYoixOMIiKBQjAokVQcZDMrciN9K6g9YlHbhmv9UWKe&amp;__tn__=*NK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">#85k</a>/3kg</p><p>Mải mê ngô với nghê mà hồng về 2-3 hôm r chả nhớ đến. Nay bỏ ra rất nhiều quả chín nhự đỏ chót ăn ngon đỉnh luôn. Ai thích ăn chín ngay nhiều bảo e nhé <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t5b/1.5/16/1f60d.png\" alt=\"😍\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t5b/1.5/16/1f60d.png\" alt=\"😍\" height=\"16\" width=\"16\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/2262121d-450a-4969-9506-bea5c7930b15.jpg\",\"https://images.f99.com.vn/images/3cdada41-b071-405e-9e70-d41806f49373.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hồng đỏ",
+    "description": "<p>Mùa này Hồng vào vụ chín nhiều. Tiện rằm nên e bán luôn, hồng đã ủ sẵn có quả ăn ngay có quả 1-2 hôm ăn. Bao ngon <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t5b/1.5/16/1f60d.png\" alt=\"😍\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t5b/1.5/16/1f60d.png\" alt=\"😍\" height=\"16\" width=\"16\">.</p><p><a href=\"https://www.facebook.com/hashtag/59k?__eep__=6&amp;__gid__=487240764816120&amp;__cft__[0]=AZXFEQ7eSKyAip8lMzE4o0Xbqycp7tPVlYLXebVSqb29-h8cKi4Od3PUl5QZDOiGE7dhu4702m_f4CQgY72GUsjYdO5jCN-otDDyoGeg_Dr63wYoixOMIiKBQjAokVQcZDMrciN9K6g9YlHbhmv9UWKe&amp;__tn__=*NK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">#85k</a>/3kg</p><p>Mải mê ngô với nghê mà hồng về 2-3 hôm r chả nhớ đến. Nay bỏ ra rất nhiều quả chín nhự đỏ chót ăn ngon đỉnh luôn. Ai thích ăn chín ngay nhiều bảo e nhé <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t5b/1.5/16/1f60d.png\" alt=\"😍\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t5b/1.5/16/1f60d.png\" alt=\"😍\" height=\"16\" width=\"16\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/2262121d-450a-4969-9506-bea5c7930b15.jpg",
+    "price": 30000,
+    "oldPrice": 40000,
+    "discountPercent": 25,
+    "stock": 300,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "A031",
+    "origin": "",
+    "sellerId": 414,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 64,
+      "name": "Hồng",
+      "imageUrl": "https://imgur.com/2Z7bzQc.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/2262121d-450a-4969-9506-bea5c7930b15.jpg",
+      "https://images.f99.com.vn/images/3cdada41-b071-405e-9e70-d41806f49373.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/33269",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg",
+          "2kg",
+          "3kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 33270,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 30000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 2,
+        "unit": "Kg",
+        "sku": "A031",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 33271,
+        "attributeTextValues": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 60000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "Kg",
+        "sku": "A031",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "2kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 33272,
+        "attributeTextValues": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "3kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 85000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "Kg",
+        "sku": "A031",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 414,
+      "sellerRate": 4.2,
+      "sellerName": "PHƯƠNG ANH FRESH FRUIT",
+      "warehouseId": "2b3872f1-7f0f-492f-8e42-66d70a659bfc",
+      "warehouseAddress": "Số 81,tổ 4 Phú Đô Nam Từ Liêm Hà Nội",
+      "distance": 7371,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 56.65681345565877,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 35738,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hồng Trứng",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Hồng trứng ăn ngon ngọt</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/f96f85fe-be08-4004-9244-cd34a22794a4.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"hồng\",\"hồng trứng\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hồng Trứng",
+    "description": "<p>Hồng trứng ăn ngon ngọt</p>",
+    "imageUrl": "https://images.f99.com.vn/images/f96f85fe-be08-4004-9244-cd34a22794a4.jpg",
+    "price": 49000,
+    "oldPrice": 55000,
+    "discountPercent": 11,
+    "stock": 1000,
+    "totalSold": 21,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 484,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 64,
+      "name": "Hồng",
+      "imageUrl": "https://imgur.com/2Z7bzQc.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "hồng",
+      "hồng trứng"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/f96f85fe-be08-4004-9244-cd34a22794a4.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/35738",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg",
+          "2kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 43573,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 49000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 500,
+        "totalSold": 10,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 43572,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 95000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 500,
+        "totalSold": 11,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "2kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 484,
+      "sellerRate": 4.6,
+      "sellerName": "HOME FRUITS",
+      "warehouseId": "c9100430-cbd7-4e59-a914-9ce7a7071cbc",
+      "warehouseAddress": "Số 172 Trần Bình, phường Mỹ Đình, Quận Nam Từ Liêm, Hà Nội",
+      "distance": 6740,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 80.48249894439043,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 81232,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hồng xiêm SIZE L - VIP",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Hồng xiêm (Sapoche) là loại trái cây có hương vị thơm ngon và giàu dinh dưỡng. Ngoài ra, vỏ, lá và quả xanh của cây còn được dân gian sử dụng để chữa bệnh tiêu chảy, rối loạn tiêu hóa, cầm máu, ngừa sâu răng và thông tiểu tiện.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/4fb69926-7624-480b-9c72-73ac0a5726f8.jpg\",\"https://images.f99.com.vn/images/d927145f-374e-4b02-84a7-80ea42bcdbd9.jpg\",\"https://images.f99.com.vn/images/e29a4418-c564-40fd-b310-659e2652c388.jpeg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hồng xiêm SIZE L - VIP",
+    "description": "<p>Hồng xiêm (Sapoche) là loại trái cây có hương vị thơm ngon và giàu dinh dưỡng. Ngoài ra, vỏ, lá và quả xanh của cây còn được dân gian sử dụng để chữa bệnh tiêu chảy, rối loạn tiêu hóa, cầm máu, ngừa sâu răng và thông tiểu tiện.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/4fb69926-7624-480b-9c72-73ac0a5726f8.jpg",
+    "price": 35000,
+    "oldPrice": 58000,
+    "discountPercent": 40,
+    "stock": 100,
+    "totalSold": 5,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 986,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 64,
+      "name": "Hồng",
+      "imageUrl": "https://imgur.com/2Z7bzQc.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/4fb69926-7624-480b-9c72-73ac0a5726f8.jpg",
+      "https://images.f99.com.vn/images/d927145f-374e-4b02-84a7-80ea42bcdbd9.jpg",
+      "https://images.f99.com.vn/images/e29a4418-c564-40fd-b310-659e2652c388.jpeg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/81232",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 81233,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 35000,
+        "oldPrice": 58000,
+        "discountPercent": 40,
+        "stock": 100,
+        "totalSold": 5,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 986,
+      "sellerRate": 3.9,
+      "sellerName": "Sài Gòn 360 Fruit – Chi Nhánh Hà Nội",
+      "warehouseId": "75790ae8-72b3-4209-92cf-9c6b54fd691d",
+      "warehouseAddress": "38 Xuân La, Phường Xuân La, Quận Tây Hồ, Hà Nội",
+      "distance": 5326,
+      "warehouseDistrict": "tay ho",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

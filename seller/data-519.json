@@ -1,0 +1,35 @@
+{
+  "id": 519,
+  "name": "Thực Phẩm TM MART",
+  "logo": "https://cdn.f99.link/groupbuy-images/1ff88950-afc6-4e2a-beec-c4c4a816d9e0.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Thực Phẩm TM MART\nĐịa chỉ: 105 B12B Tân Mai - Hoàng Mai - Hà Nội\nHotline: 0915161690\nCHUYÊN CUNG CẤP CÁC THỰC PHẨM NHẬP KHẨU\nHEO - BÒ - GÀ - TRÂU - HẢI SẢN \n- Giá tận kho luôn nha, mua số lượng nhiều thì giá siêu bất ngờ.\n- Với phương châm chất lượng là trên hết, có nguồn gốc xuất xứ rõ ràng, có đầy đủ giấy tờ đảm bảo vệ sinh an toàn thực phẩm.\n- Bên em giao hàng toàn quốc luôn nha.",
+  "headQuarter": "105 B12B Tân Mai, Tân Mai, Hoàng Mai, Hà Nội",
+  "email": "hoangtung11122018@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.4,
+  "availableTime": {
+    "openTime": "07:00",
+    "closeTime": "17:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 9
+}

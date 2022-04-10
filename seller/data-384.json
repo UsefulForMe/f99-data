@@ -1,0 +1,35 @@
+{
+  "id": 384,
+  "name": "Papa Chicken - Thịt Gà Tươi & Thịt Gà Chế Biến Sẵn",
+  "logo": "https://cdn.f99.link/groupbuy-images/6ef8eca3-6c0a-4c3c-867e-a1d1eee8649c.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Papa Chicken - Thịt Gà Tươi & Thịt Gà Chế Biến Sẵn chuyên cung cấp phân phối thịt gà sạch uy tín, chất lượng.",
+  "headQuarter": "Số 3 Tam Khương, Trung Tự, Đống Đa, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 15
+}

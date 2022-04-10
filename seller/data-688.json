@@ -1,0 +1,35 @@
+{
+  "id": 688,
+  "name": "Thịt heo Ba Hưng",
+  "logo": "https://cdn.f99.link/groupbuy-images/14412617-e7f0-4a70-a305-07c24ec775c4.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Thịt Heo Ba Hưng chuyên cung cấp thịt heo nóng nhà mổ tươi ngon, giá bình ổn",
+  "headQuarter": "50/20 ttn11, Tân Thới Nhất, Quận 12, Hồ Chí Minh",
+  "email": "Nguyenthihaihung12345@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "06:00",
+    "closeTime": "17:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

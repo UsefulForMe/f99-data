@@ -1,0 +1,35 @@
+{
+  "id": 727,
+  "name": "Nông Sản Mi A",
+  "logo": "https://cdn.f99.link/groupbuy-images/f332e84c-167f-4ecd-a315-69ce610fb5d2.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp sỉ lẻ các mặt hàng nông sản, thực phẩm tươi sống",
+  "headQuarter": "28/31 Lương Thế Vinh, Tân Thới Hòa, Tân Phú, Hồ Chí Minh",
+  "email": "Tinhvantinh.koto@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "06:00",
+    "closeTime": "22:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

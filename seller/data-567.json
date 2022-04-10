@@ -1,0 +1,35 @@
+{
+  "id": 567,
+  "name": "VITALITY FRUITS - Sinh Tố & Trái cây",
+  "logo": "https://cdn.f99.link/groupbuy-images/8ad2a69f-5660-4177-b7f3-54da41c7794d.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Trái cây 100% tươi - sinh tố - nước ép nguyên chất",
+  "headQuarter": "73 Đường Số , 9, Gò Vấp, Hồ Chí Minh",
+  "email": "dhlmedia92@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "07:30",
+    "closeTime": "22:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

@@ -1,0 +1,35 @@
+{
+  "id": 601,
+  "name": "THỰC PHẨM ONLINE HÀ NỘI BÌNH ỔN GIÁ",
+  "logo": "https://cdn.f99.link/groupbuy-images/b2cec26f-8fd0-4752-9e65-074e46d7d20e.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Các loại rau củ, thực phẩm bình ổn giá",
+  "headQuarter": "Số nhà 29 ngõ 102 Phú Mỹ, Biên Giang, Hà Đông, Hà Nội",
+  "email": "phamtuanduong88@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

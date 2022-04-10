@@ -1,0 +1,35 @@
+{
+  "id": 516,
+  "name": "NÔNG NGHIỆP MIỀN QUÊ",
+  "logo": "https://cdn.f99.link/groupbuy-images/1f83275a-ee23-4748-a142-d6df153a69a7.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp các loaị hải sản tươi sạch từ biển Cà Mau ( cá,tôm mực,bạch tuộc...) . Hàng được thu mua từ tàu biển,hút chân không và cấp đông ngay sau khi sơ chế. Không chất bảo quản, hàng thiên nhiên 100%",
+  "headQuarter": "29/9 Nguyễn Hới, An Lạc, Bình Tân, Hồ Chí Minh",
+  "email": "phucthaovt@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

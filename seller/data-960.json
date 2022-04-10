@@ -1,0 +1,35 @@
+{
+  "id": 960,
+  "name": "Hoa Quả Bến Tre",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/304081e1-6c21-4ffd-9d95-8fae21090c99.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp hoa quả bến tre : dừa xiêm trọc, quả dừa xiêm , cam sành . Bưởi da xanh",
+  "headQuarter": "Số 17/300 ngõ 143 Nguyễn Chính, , Thịnh Liệt, Hoàng Mai, Hà Nội",
+  "email": "Tuyennhi030915@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 3,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "22:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 8
+}

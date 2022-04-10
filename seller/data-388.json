@@ -1,0 +1,35 @@
+{
+  "id": 388,
+  "name": "SỮA HANOIMILK",
+  "logo": "https://cdn.f99.link/groupbuy-images/4aa01399-ff58-4b22-9d79-ef72b01c77d5.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Hanoimilk là một trong các Công ty sữa hàng đầu Việt Nam. Từ khi thành lập năm 2001 đến nay,\nHanoimilk đã dành được sự tin yêu của người tiêu dùng, sự ủng hộ của Chính phủ và sự tôn trọng trong ngành.",
+  "headQuarter": "Số 5 ngách 224/72 Quyết Thắng, Yên Nghĩa, Hà Đông, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

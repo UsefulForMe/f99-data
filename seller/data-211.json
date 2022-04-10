@@ -1,0 +1,35 @@
+{
+  "id": 211,
+  "name": "SONG ĐẠT FOOD",
+  "logo": "https://cdn.f99.link/groupbuy-images/b5ecf154-5cab-49d0-bfb6-91e94aa9798e.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Công ty Cổ phần Thực phẩm Song Đạt là đơn vị sản xuất thịt heo lâu đời tại Hà Nội và có mạng lưới phân phối rộng rãi trên toàn miền Bắc nói riêng và Việt Nam nói chung. Với hơn 30 năm kinh nghiệm trong ngành thực phẩm, đội ngũ lãnh đạo và cán bộ nhân viên công ty luôn cam kết đưa ra những sản phẩm đạt chất lượng cao và đảm bảo an toàn vệ sinh thực phẩm.",
+  "headQuarter": "19B Thanh Nhàn, Thanh Nhàn, Hai Bà Trưng, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.8,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 4
+}

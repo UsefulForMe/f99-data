@@ -1,0 +1,35 @@
+{
+  "id": 90,
+  "name": "Olika Fruits",
+  "logo": "https://cdn.f99.link/groupbuy-images/d86f1985-cf15-43d1-a579-ae1d2ef7c265.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Olika Fruits chuyên cung cấp: Hoa quả nhập khẩu và Giỏ quà tặng cao cấp.\n",
+  "headQuarter": "120 trung kính, cầu giấy, hà nội, Yên Hòa, Cầu Giấy, Hà Nội",
+  "email": "hoangnghiep255@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 3.8,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 4
+}

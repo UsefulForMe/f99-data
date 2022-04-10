@@ -1,0 +1,35 @@
+{
+  "id": 243,
+  "name": "Nông sản sạch Vinh Hà",
+  "logo": "https://cdn.f99.link/groupbuy-images/b0dd4386-f358-42c9-8daa-d35b2ef7880d.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "* Sản xuất rau củ quả an toàn theo tiêu chuyển VietGAP\n* Cung cấp thực phẩm an toàn tới các trường học, bếp ăn tập thể\n* Cung cấp dịch vụ farmtour\n* Tổ chức đào tạo khóa học sản xuất ",
+  "headQuarter": "Sn 14 đường Nhất Duyên Yết, Hồng Thái, Phú Xuyên, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 5,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 1
+}

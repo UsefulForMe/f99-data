@@ -1,0 +1,35 @@
+{
+  "id": 702,
+  "name": "Ăn Vặt Sữa House",
+  "logo": "https://cdn.f99.link/groupbuy-images/fb52b045-bb78-4b52-970e-b51f9129dbc9.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Kinh doanh sản phẩm đông lạnh",
+  "headQuarter": "2A đường số 06 khu phố 2, Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh",
+  "email": "Phuongnguyen02031994@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "17:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

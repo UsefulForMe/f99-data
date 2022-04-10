@@ -1,0 +1,35 @@
+{
+  "id": 1027,
+  "name": "Dương Đào Fruits",
+  "logo": "https://images.f99.com.vn/groupbuy-images/84d9d80b-4a28-44fc-8dee-fcf8158a751e.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên hoa quả tươi nhập khẩu",
+  "headQuarter": "118 Lương Yên, Phường Bạch Đằng, Quận Hai Bà Trưng, Hà Nội, Bạch Đằng, Hai Bà Trưng, Hà Nội",
+  "email": "",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

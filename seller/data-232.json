@@ -1,0 +1,35 @@
+{
+  "id": 232,
+  "name": "D&D SỮA HẠT ORGANIC",
+  "logo": "https://cdn.f99.link/groupbuy-images/0716cad2-6004-48e2-96b9-318b82002d48.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cung cấp các sản phẩm đồ uống chăm sóc sức khỏe, phát triển chiều cao và trí tuệ cho trẻ em, chăm sóc làn da cho phụ nữ\nSản phẩm 100% từ thiên nhiên\nCam kết không chất bảo quản, không phẩm màu",
+  "headQuarter": "16 An Trạch,p Cát Linh, Q. Đống Đa , Hà Nội",
+  "email": "bearmum1410@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 2
+}

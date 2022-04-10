@@ -1,0 +1,35 @@
+{
+  "id": 513,
+  "name": "Rau củ quả tươi sạch",
+  "logo": "https://cdn.f99.link/groupbuy-images/b49273f1-5639-4cff-b729-8a9b95721a63.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên bán rau, củ , quả  tươi sạch",
+  "headQuarter": "45b Nguyễn Khoái, Bạch Đằng, Hai Bà Trưng, Hà Nội",
+  "email": "dnguyenduyen289@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "06:00",
+    "closeTime": "19:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

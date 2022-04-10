@@ -1,0 +1,35 @@
+{
+  "id": 17,
+  "name": "Bách hóa ANFOOD",
+  "logo": "https://cdn.f99.link/groupbuy-images/5ad1807a-fb78-4df9-a77a-31d5b6c48e97.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "VOUCHER: ANFOOD15K: Giảm giá 15.000đ cho đơn từ 150.000đ trở lên\n\nANFOOD tự hào là Nhà cung cấp chính thức các sản phẩm đồ khô chính hãng chất lượng cao với giá cả cạnh tranh vào hệ thống Nhà hàng, khách sạn 5*. \n\nCác bạn có thể tìm mua các Combo cùng nhiều Ưu đãi hấp dẫn trong gian hàng của ANFOOD:\n1. Combo Xúc Xích Hotdog Đức Việt + Ba chỉ xông khói Đức Việt\n2. Combo TỐN CƠM: Mắm tôm chua + Mắm cà pháo Sông Hương\n3. Combo Bánh Kẹo NGỌT NGÀO: Bánh Custas 276g + Bánh Chocopie 396 + Kẹo Dynamite Bạc Hà\n4. Combo Đồ Sấy: Mít sấy Vinamit 100g + Chuối sấy Vinamit 100g",
+  "headQuarter": "Số nhà 50 ngõ 232 Trần Điền, Định Công, Hoàng Mai, Hà Nội",
+  "email": "anfoodluontuoingon@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.8,
+  "availableTime": {
+    "openTime": "09:30",
+    "closeTime": "19:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 933
+}

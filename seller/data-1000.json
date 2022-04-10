@@ -1,0 +1,35 @@
+{
+  "id": 1000,
+  "name": "B' Mập Food",
+  "logo": "https://images.f99.com.vn/groupbuy-images/b53d96d5-5764-4caf-98b9-7c8f864c64fe.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên thực phẩm nhập khẩu bò - heo - gà - đồ ăn vặt...",
+  "headQuarter": "Ngõ 37 Đại Đồng, Phường Thanh Trì, Quận Hoàng Mai, TP Hà Nội, Thanh Trì, Hoàng Mai, Hà Nội",
+  "email": "nguyetnguyen138@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.3,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "22:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 6
+}

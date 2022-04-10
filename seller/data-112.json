@@ -1,0 +1,35 @@
+{
+  "id": 112,
+  "name": "Sakuko Store",
+  "logo": "https://cdn.f99.link/groupbuy-images/6fa07c9c-e97a-4a42-a8d7-9991fd9f2198.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Hệ thống siêu thị hàng Nhật nội địa Sakuko Japanese Store. \nGian hàng cung cấp phô mai QBB chính hãng, đa dạng hương vị, bổ dưỡng, thơm ngon.\nQBB là thương hiệu phô mai nổi tiếng tại Nhật Bản thuộc quyền sở hữu của công ty Rokko Butter.",
+  "headQuarter": "Số 1 Trung Hòa, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội, Trung Hòa, Cầu Giấy, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.8,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 4
+}

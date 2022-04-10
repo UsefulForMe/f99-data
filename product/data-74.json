@@ -1,0 +1,2398 @@
+[
+  {
+    "id": 4533,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dưa lê",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgb(5, 5, 5);\">CHUNG TAY ỦNG HỘ ĐỒNG BÀO BẮC GIANG MÙA DỊCH</strong></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dưa lê Bắc Giang siêu ngọt, thơm lừng vốn là hoa quả được ưa chuộng và đem lại lợi nhuận cao cho nông dân Bắc Giang trong nhiều năm qua.</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Nhưng năm nay, nằm trong tâm dịch Covid-19, người trồng dưa Bắc Giang như ngồi trên đống lửa khi loại quả này đã vào vụ thu hoạch mà việc tiêu thụ chậm lại, ứ đọng nhiều, chi phí đội lên cao.</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Với tinh thần tương thân tương ái, nỗ lực chiến đấu hết mình vì người nông dân,</span><span style=\"color: rgb(5, 5, 5);\"> F99 kêu gọi chung tay hỗ trợ tiêu thụ 10 tấn dưa lê Bắc Giang.</span></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">GIÁ TRỊ DINH DƯỠNG</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(52, 58, 64);\">Hỗ trợ giảm cân: Dưa này cũng có một lượng chất xơ tốt. Chất xơ rất cần thiết trong việc giữ bạn lâu đói hơn và kiềm hãm cảm giác thèm ăn của bạn.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(52, 58, 64);\">Ngăn ngừa tăng huyết áp: Là một thực phẩm giàu kali, dưa lê được khuyên dùng cho những người bị tăng huyết áp và huyết áp cao.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(52, 58, 64);\">Nhiều Canxi, vitamin C và protein</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(52, 58, 64);\">Cải thiện làn da: Dưa lê là một nguồn vitamin C tuyệt vời. Với một khẩu phần, dưa sẽ cung cấp gần một nửa lượng vitamin khuyến nghị hàng ngày của bạn.&nbsp;</span></p><p><span style=\"color: rgb(52, 58, 64);\">Hướng dẫn bảo quản:</span></p><p><span style=\"color: rgb(52, 58, 64);\">✔ Bảo quản ở nhiệt độ thường hoặc trong ngăn mát tủ lạnh.</span></p><p><br></p><p><strong>LƯU Ý ĐÔI TRẢ</strong></p><ul><li>Kiểm tra kỹ lưỡng sản phẩm trước khi nhận hàng.</li><li>Nếu Dưa bị hư hỏng… hãy chụp ảnh lại và gửi tới mục Chat Support trên Ứng dụng F99.</li><li>F99 hỗ trợ đổi trả với lỗi của Nhà cung cấp trong vòng 24h kể từ lúc nhận hàng.</li></ul><p><br></p><p><strong style=\"color: rgb(5, 5, 5);\">CẢM ƠN BẠN ĐÃ ĐỒNG HÀNH CÙNG F99 TIÊU THỤ DƯA LÊ</strong></p><p><em style=\"color: rgb(5, 5, 5);\">Mỗi đơn hàng của bạn trên ứng dụng F99 sẽ vơi bớt nhọc nhằn trên đôi vai người nông dân tại tâm dịch Bắc Giang.</em></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/de44a0bf-b0ef-471f-b47f-095cfca02bf6.png\",\"https://images.f99.com.vn/images/a89d5ed2-ee40-48f6-abfe-bcbb73b587d0.png\",\"https://images.f99.com.vn/images/c7ff3247-28da-402a-b301-89c4aa82745f.png\",\"https://images.f99.com.vn/images/f6d5d4d3-0286-4b6f-89c7-a08824bd8655.png\",\"https://images.f99.com.vn/images/4d7bf71e-103e-4a43-9a03-797ac0387463.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dưa lê",
+    "description": "<p><strong style=\"color: rgb(5, 5, 5);\">CHUNG TAY ỦNG HỘ ĐỒNG BÀO BẮC GIANG MÙA DỊCH</strong></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dưa lê Bắc Giang siêu ngọt, thơm lừng vốn là hoa quả được ưa chuộng và đem lại lợi nhuận cao cho nông dân Bắc Giang trong nhiều năm qua.</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Nhưng năm nay, nằm trong tâm dịch Covid-19, người trồng dưa Bắc Giang như ngồi trên đống lửa khi loại quả này đã vào vụ thu hoạch mà việc tiêu thụ chậm lại, ứ đọng nhiều, chi phí đội lên cao.</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Với tinh thần tương thân tương ái, nỗ lực chiến đấu hết mình vì người nông dân,</span><span style=\"color: rgb(5, 5, 5);\"> F99 kêu gọi chung tay hỗ trợ tiêu thụ 10 tấn dưa lê Bắc Giang.</span></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">GIÁ TRỊ DINH DƯỠNG</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(52, 58, 64);\">Hỗ trợ giảm cân: Dưa này cũng có một lượng chất xơ tốt. Chất xơ rất cần thiết trong việc giữ bạn lâu đói hơn và kiềm hãm cảm giác thèm ăn của bạn.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(52, 58, 64);\">Ngăn ngừa tăng huyết áp: Là một thực phẩm giàu kali, dưa lê được khuyên dùng cho những người bị tăng huyết áp và huyết áp cao.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(52, 58, 64);\">Nhiều Canxi, vitamin C và protein</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(52, 58, 64);\">Cải thiện làn da: Dưa lê là một nguồn vitamin C tuyệt vời. Với một khẩu phần, dưa sẽ cung cấp gần một nửa lượng vitamin khuyến nghị hàng ngày của bạn.&nbsp;</span></p><p><span style=\"color: rgb(52, 58, 64);\">Hướng dẫn bảo quản:</span></p><p><span style=\"color: rgb(52, 58, 64);\">✔ Bảo quản ở nhiệt độ thường hoặc trong ngăn mát tủ lạnh.</span></p><p><br></p><p><strong>LƯU Ý ĐÔI TRẢ</strong></p><ul><li>Kiểm tra kỹ lưỡng sản phẩm trước khi nhận hàng.</li><li>Nếu Dưa bị hư hỏng… hãy chụp ảnh lại và gửi tới mục Chat Support trên Ứng dụng F99.</li><li>F99 hỗ trợ đổi trả với lỗi của Nhà cung cấp trong vòng 24h kể từ lúc nhận hàng.</li></ul><p><br></p><p><strong style=\"color: rgb(5, 5, 5);\">CẢM ƠN BẠN ĐÃ ĐỒNG HÀNH CÙNG F99 TIÊU THỤ DƯA LÊ</strong></p><p><em style=\"color: rgb(5, 5, 5);\">Mỗi đơn hàng của bạn trên ứng dụng F99 sẽ vơi bớt nhọc nhằn trên đôi vai người nông dân tại tâm dịch Bắc Giang.</em></p>",
+    "imageUrl": "https://images.f99.com.vn/images/de44a0bf-b0ef-471f-b47f-095cfca02bf6.png",
+    "price": 42900,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 58,
+    "totalSold": 854,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "20000833",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><span style=\"color: rgb(0, 0, 0);\">Bảo quản tốt nhất trong ngăn mát tủ lạnh.</span></p>",
+    "category": {
+      "id": 74,
+      "name": "Dưa lê",
+      "imageUrl": "https://imgur.com/xO2dm5Z.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/de44a0bf-b0ef-471f-b47f-095cfca02bf6.png",
+      "https://images.f99.com.vn/images/a89d5ed2-ee40-48f6-abfe-bcbb73b587d0.png",
+      "https://images.f99.com.vn/images/c7ff3247-28da-402a-b301-89c4aa82745f.png",
+      "https://images.f99.com.vn/images/f6d5d4d3-0286-4b6f-89c7-a08824bd8655.png",
+      "https://images.f99.com.vn/images/4d7bf71e-103e-4a43-9a03-797ac0387463.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/4533",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 4897,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 42900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 58,
+        "totalSold": 854,
+        "unit": "KG",
+        "sku": "20000833",
+        "rating": 0,
+        "instructions": "<p><span style=\"color: rgb(0, 0, 0);\">Bảo quản tốt nhất trong ngăn mát tủ lạnh.</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 5296,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dưa Kim Hoàng Hậu",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><img src=\"https://images.f99.com.vn/images/950dd2d0-378e-4f55-b492-3546c2b78940.png\"><img src=\"https://images.f99.com.vn/images/90c88c0f-d1da-42c8-8dd8-f77203f55a78.jpg\"><img src=\"https://images.f99.com.vn/images/1fa28339-aa9b-4880-a26a-0171d0145510.png\"><img src=\"https://images.f99.com.vn/images/897b91c3-a366-49a2-9d93-df6fa1887c82.jpg\"><img src=\"https://images.f99.com.vn/images/c6489ec4-0d65-4149-8f8b-076e8f6026c0.jpg\"><img src=\"https://images.f99.com.vn/images/58fd21e6-72f2-452e-a518-987746cf6354.png\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/042f528a-5a29-4e3f-9e7c-b75944e7b5e7.jpg\",\"https://images.f99.com.vn/images/7cdef4c8-c12d-48af-a37c-adc70f1a4671.jpg\",\"https://images.f99.com.vn/images/79cfda9a-a3e7-49ad-a532-6658d39a2737.jpg\",\"https://images.f99.com.vn/images/dc87d205-1c92-4f24-be9e-6d25c03329af.jpg\",\"https://images.f99.com.vn/images/880bcd1b-0728-4c67-b871-60d21e26c91f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dưa Kim Hoàng Hậu",
+    "description": "<p><img src=\"https://images.f99.com.vn/images/950dd2d0-378e-4f55-b492-3546c2b78940.png\"><img src=\"https://images.f99.com.vn/images/90c88c0f-d1da-42c8-8dd8-f77203f55a78.jpg\"><img src=\"https://images.f99.com.vn/images/1fa28339-aa9b-4880-a26a-0171d0145510.png\"><img src=\"https://images.f99.com.vn/images/897b91c3-a366-49a2-9d93-df6fa1887c82.jpg\"><img src=\"https://images.f99.com.vn/images/c6489ec4-0d65-4149-8f8b-076e8f6026c0.jpg\"><img src=\"https://images.f99.com.vn/images/58fd21e6-72f2-452e-a518-987746cf6354.png\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/042f528a-5a29-4e3f-9e7c-b75944e7b5e7.jpg",
+    "price": 76700,
+    "oldPrice": 80000,
+    "discountPercent": 4,
+    "stock": 95,
+    "totalSold": 235,
+    "maxQuantityPerUser": null,
+    "unit": "Quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 74,
+      "name": "Dưa lê",
+      "imageUrl": "https://imgur.com/xO2dm5Z.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/042f528a-5a29-4e3f-9e7c-b75944e7b5e7.jpg",
+      "https://images.f99.com.vn/images/7cdef4c8-c12d-48af-a37c-adc70f1a4671.jpg",
+      "https://images.f99.com.vn/images/79cfda9a-a3e7-49ad-a532-6658d39a2737.jpg",
+      "https://images.f99.com.vn/images/dc87d205-1c92-4f24-be9e-6d25c03329af.jpg",
+      "https://images.f99.com.vn/images/880bcd1b-0728-4c67-b871-60d21e26c91f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/5296",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "Size L (1.8-2.0)",
+          "Size M (1.5-1.7)",
+          "Size S (1.2-1.4)"
+        ]
+      },
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 quả",
+          "3 quả",
+          "5 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 5297,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Size S (1.2-1.4) / 1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Size S (1.2-1.4)",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Size S (1.2-1.4) / 1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 76700,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 42,
+        "unit": "Quả",
+        "sku": "20001919",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Size S (1.2-1.4)"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 5298,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Size M (1.5-1.7) / 1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Size M (1.5-1.7)",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Size M (1.5-1.7) / 1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 92800,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 15,
+        "totalSold": 44,
+        "unit": "Quả",
+        "sku": "20001922",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Size M (1.5-1.7)"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 5299,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Size L (1.8-2.0) / 1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Size L (1.8-2.0)",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Size L (1.8-2.0) / 1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 109000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 21,
+        "unit": "Quả",
+        "sku": "20001925",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Size L (1.8-2.0)"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 5300,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Size S (1.2-1.4) / 3 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "72,8k/quả",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Size S (1.2-1.4)",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "3 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Size S (1.2-1.4) / 3 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 218400,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 23,
+        "unit": "Quả",
+        "sku": "20001920",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "72,8k/quả",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Size S (1.2-1.4)"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "3 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 5301,
+        "attributeTextValues": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "3 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Size M (1.5-1.7)",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "88k/quả",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Size M (1.5-1.7) / 3 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Size M (1.5-1.7) / 3 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 264000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 21,
+        "unit": "Quả",
+        "sku": "20001923",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "88k/quả",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "3 quả"
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Size M (1.5-1.7)"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 5302,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Size L (1.8-2.0) / 3 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "102,6k/quả",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Size L (1.8-2.0)",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "3 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Size L (1.8-2.0) / 3 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 307800,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 21,
+        "unit": "Quả",
+        "sku": "20001926",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "102,6k/quả",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Size L (1.8-2.0)"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "3 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 5303,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Size S (1.2-1.4) / 5 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "68,9k/quả",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Size S (1.2-1.4)",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "5 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Size S (1.2-1.4) / 5 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 344500,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 21,
+        "unit": "Quả",
+        "sku": "20001921",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "68,9k/quả",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Size S (1.2-1.4)"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "5 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 5304,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Size M (1.5-1.7) / 5 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "83,2k/quả",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Size M (1.5-1.7)",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "5 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Size M (1.5-1.7) / 5 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 416000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 21,
+        "unit": "Quả",
+        "sku": "20001924",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "83,2k/quả",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Size M (1.5-1.7)"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "5 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 5305,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Size L (1.8-2.0) / 5 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "96,9k/quả",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Size L (1.8-2.0)",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "5 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Size L (1.8-2.0) / 5 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 484500,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 21,
+        "unit": "Quả",
+        "sku": "20001927",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "96,9k/quả",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Size L (1.8-2.0)"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "5 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 22193,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "DƯA LÊ HÀN QUỐC CAO CẤP - Len Mart",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>DƯA LÊ HÀN QUỐC CAO CẤP NHÀ LEN MART</p><p><span style=\"background-color: initial; color: transparent;\">🍋</span><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">🍋DƯA LÊ HÀN QUỐC- TRỒNG VÀ CANH TÁC THEO NÔNG NGHIỆP BỀN VỮNG - NÔNG NGHIỆP SẠCH( CÓ GIẤY CHÚNG NHẬN ĐẦY ĐỦ) </span><span style=\"background-color: initial; color: transparent;\">🍋🍋</span></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">🍂NÔNG NGHIỆP BỀN VỮNG – là hình thức nông nghiệp mang lại giá trị cho người dùng, không ảnh hưởng đến thế hệ tương lai, đó là một xu hướng của nông nghiệp thuận tự nhiên. Tôn trọng hệ sinh thái của đất , không sử dụng các loại phân hoá học, thuốc trừ sâu ....nhưng vẫn mang lại những sản phẩm chất lượng thân thiện với thiên nhiên, thân thiện với người sản xuất. </span></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Nhà em cung cấp Dưa Lê Hàn Quốc được trồng và sản xuất theo phương pháp nông nghiệp sạch với tiêu chí </span></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Dưa lê Hàn Quốc không những rất đẹp vỏ màu vàng dọc trắng, thắp hương hay quà biếu tặng mà ruột trắng, giòn giòn nhưng không cứng, ngọt lịm, ăn được cả vỏ.</span></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Trọng lượng trung bình mỗi quả từ 400 -600gram/ 1 quả . Dưa lê Hàn còn có rất nhiều tác dụng và rất thích hợp cho mùa hè trẻ còn người lớn đều ưa thích</span></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Ưu tiên cho ngày nay 30/04 âm lịch.</span></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bán lẻ và bán sỉ:</span><span style=\"background-color: rgb(229, 239, 255);\">0867778825</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/a3a177d2-1a08-4271-9526-58a4ad9ee20f.jpg\",\"https://images.f99.com.vn/images/19e7adb1-bcd8-45b3-a1c8-a0ff1e9f5b81.jpg\",\"https://images.f99.com.vn/images/7aad9c7f-8f73-4a2e-92ba-2de622e5d879.jpg\",\"https://images.f99.com.vn/images/a11ce334-a38e-4196-a2c7-8fc598508b19.jpg\",\"https://images.f99.com.vn/images/0676733a-3983-4a2a-8f26-3198905a8aa0.jpg\",\"https://images.f99.com.vn/images/c691eac6-5b15-44b4-81df-fb56f9cacbf4.jpg\",\"https://images.f99.com.vn/images/86bb264e-794f-45d6-9244-b251ab13bdcd.jpg\",\"https://images.f99.com.vn/images/54b34c5f-10a6-4ba5-8c8d-f2949c5ae30a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"DƯA LÊ HÀN\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "DƯA LÊ HÀN QUỐC CAO CẤP - Len Mart",
+    "description": "<p>DƯA LÊ HÀN QUỐC CAO CẤP NHÀ LEN MART</p><p><span style=\"background-color: initial; color: transparent;\">🍋</span><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">🍋DƯA LÊ HÀN QUỐC- TRỒNG VÀ CANH TÁC THEO NÔNG NGHIỆP BỀN VỮNG - NÔNG NGHIỆP SẠCH( CÓ GIẤY CHÚNG NHẬN ĐẦY ĐỦ) </span><span style=\"background-color: initial; color: transparent;\">🍋🍋</span></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">🍂NÔNG NGHIỆP BỀN VỮNG – là hình thức nông nghiệp mang lại giá trị cho người dùng, không ảnh hưởng đến thế hệ tương lai, đó là một xu hướng của nông nghiệp thuận tự nhiên. Tôn trọng hệ sinh thái của đất , không sử dụng các loại phân hoá học, thuốc trừ sâu ....nhưng vẫn mang lại những sản phẩm chất lượng thân thiện với thiên nhiên, thân thiện với người sản xuất. </span></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Nhà em cung cấp Dưa Lê Hàn Quốc được trồng và sản xuất theo phương pháp nông nghiệp sạch với tiêu chí </span></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Dưa lê Hàn Quốc không những rất đẹp vỏ màu vàng dọc trắng, thắp hương hay quà biếu tặng mà ruột trắng, giòn giòn nhưng không cứng, ngọt lịm, ăn được cả vỏ.</span></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Trọng lượng trung bình mỗi quả từ 400 -600gram/ 1 quả . Dưa lê Hàn còn có rất nhiều tác dụng và rất thích hợp cho mùa hè trẻ còn người lớn đều ưa thích</span></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Ưu tiên cho ngày nay 30/04 âm lịch.</span></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bán lẻ và bán sỉ:</span><span style=\"background-color: rgb(229, 239, 255);\">0867778825</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/a3a177d2-1a08-4271-9526-58a4ad9ee20f.jpg",
+    "price": 85000,
+    "oldPrice": 99000,
+    "discountPercent": 14,
+    "stock": 1000,
+    "totalSold": 17,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 363,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p>nơi khô ráo thoáng mát là được rồi nhé</p>",
+    "category": {
+      "id": 74,
+      "name": "Dưa lê",
+      "imageUrl": "https://imgur.com/xO2dm5Z.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "DƯA LÊ HÀN"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/a3a177d2-1a08-4271-9526-58a4ad9ee20f.jpg",
+      "https://images.f99.com.vn/images/19e7adb1-bcd8-45b3-a1c8-a0ff1e9f5b81.jpg",
+      "https://images.f99.com.vn/images/7aad9c7f-8f73-4a2e-92ba-2de622e5d879.jpg",
+      "https://images.f99.com.vn/images/a11ce334-a38e-4196-a2c7-8fc598508b19.jpg",
+      "https://images.f99.com.vn/images/0676733a-3983-4a2a-8f26-3198905a8aa0.jpg",
+      "https://images.f99.com.vn/images/c691eac6-5b15-44b4-81df-fb56f9cacbf4.jpg",
+      "https://images.f99.com.vn/images/86bb264e-794f-45d6-9244-b251ab13bdcd.jpg",
+      "https://images.f99.com.vn/images/54b34c5f-10a6-4ba5-8c8d-f2949c5ae30a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/22193",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 363,
+      "sellerRate": 4.2,
+      "sellerName": "LenMart",
+      "warehouseId": "b004be86-db4f-41f0-b834-200e49e4eae2",
+      "warehouseAddress": "Số nhà 29 ngõ 20 dường Mỹ Đình Phường Mỹ Đình",
+      "distance": 4743,
+      "warehouseDistrict": null,
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 22563,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "[Trái cây nhập khẩu]Dưa lê giống Hàn Quốc ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong>THÔNG TIN SẢN PHẨM :</strong></p><p>Dưa Hàn Quốc là một loại dưa chủ yếu được trồng ở Hàn Quốc , Nhật Bản và Bắc Trung Quốc.&nbsp;</p><p>Quả là dài khoảng 10 cm và thường có trọng lượng khoảng 0,45 kg.</p><p>Vỏ ngoài mịn màng, màu vàng, và hình chữ nhật với các sọc trắng chạy dài theo chiều dọc quả. Quả có thịt trắng là ngon ngọt, hạt nhỏ màu trắng.&nbsp;</p><p>Hương vị đã được mô tả như là một sự pha trộn giữa dưa ngọt và dưa chuột.</p><p><br></p><p><strong>GIÁ TRỊ DINH DƯỠNG</strong></p><p>Dưa lê cũng giàu hàm lượng kali, một loại khoáng chất đóng vai trò quan trọng trong việc kiểm soát huyết áp. Kali cũng cần thiết cho mọi tế bào trong cơ thể, nó giúp tế bào khỏe mạnh và có sức đề kháng với nhiều bệnh tật.</p><p>Dưa lê là một trong những trái cây giàu vitamin C-một loại vitamin chống oxi hóa giúp tăng nồng độ collagen, loại protein giúp da khỏe và trẻ trung. Vitamin C cũng đóng vai trò quan trọng trong chức năng của hệ miễn dịch và có thể giúp chống lại virut gây sốt và cảm cúm.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/e32c4cd5-11b4-4d67-b454-e9b7b48322de.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "[Trái cây nhập khẩu]Dưa lê giống Hàn Quốc ",
+    "description": "<p><strong>THÔNG TIN SẢN PHẨM :</strong></p><p>Dưa Hàn Quốc là một loại dưa chủ yếu được trồng ở Hàn Quốc , Nhật Bản và Bắc Trung Quốc.&nbsp;</p><p>Quả là dài khoảng 10 cm và thường có trọng lượng khoảng 0,45 kg.</p><p>Vỏ ngoài mịn màng, màu vàng, và hình chữ nhật với các sọc trắng chạy dài theo chiều dọc quả. Quả có thịt trắng là ngon ngọt, hạt nhỏ màu trắng.&nbsp;</p><p>Hương vị đã được mô tả như là một sự pha trộn giữa dưa ngọt và dưa chuột.</p><p><br></p><p><strong>GIÁ TRỊ DINH DƯỠNG</strong></p><p>Dưa lê cũng giàu hàm lượng kali, một loại khoáng chất đóng vai trò quan trọng trong việc kiểm soát huyết áp. Kali cũng cần thiết cho mọi tế bào trong cơ thể, nó giúp tế bào khỏe mạnh và có sức đề kháng với nhiều bệnh tật.</p><p>Dưa lê là một trong những trái cây giàu vitamin C-một loại vitamin chống oxi hóa giúp tăng nồng độ collagen, loại protein giúp da khỏe và trẻ trung. Vitamin C cũng đóng vai trò quan trọng trong chức năng của hệ miễn dịch và có thể giúp chống lại virut gây sốt và cảm cúm.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/e32c4cd5-11b4-4d67-b454-e9b7b48322de.jpg",
+    "price": 63900,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 300,
+    "totalSold": 63,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "20001932",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 74,
+      "name": "Dưa lê",
+      "imageUrl": "https://imgur.com/xO2dm5Z.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/e32c4cd5-11b4-4d67-b454-e9b7b48322de.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/22563",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg",
+          "Combo 3kg",
+          "Combo 5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 22564,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 63900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 21,
+        "unit": "Kg",
+        "sku": "20001932",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 22565,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "59,9k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 179700,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 21,
+        "unit": "Kg",
+        "sku": "20001933",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "59,9k/kg",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 22566,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "55,8k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 279000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 21,
+        "unit": "Kg",
+        "sku": "20001934",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "55,8k/kg",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 25083,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/add94462-25b2-4499-804a-8639112c5939.jpg\",\"https://images.f99.com.vn/images/7bb7ad88-97b9-42b5-8790-b6096c877c38.jpg\",\"https://images.f99.com.vn/images/26cc5a92-4f88-4e80-b4f8-a9fa51d6ff07.jpg\",\"https://images.f99.com.vn/images/417ad7e3-e3f6-444c-b659-e3c1c85c6ad6.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dưa lê hàn quốc </p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "DƯA LÊ HÀN QUỐC",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "DƯA LÊ HÀN QUỐC",
+    "description": "<p>Dưa lê hàn quốc </p>",
+    "imageUrl": "https://images.f99.com.vn/images/add94462-25b2-4499-804a-8639112c5939.jpg",
+    "price": 49000,
+    "oldPrice": 55000,
+    "discountPercent": 11,
+    "stock": 50,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "Lehanquoc",
+    "origin": "",
+    "sellerId": 413,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 74,
+      "name": "Dưa lê",
+      "imageUrl": "https://imgur.com/xO2dm5Z.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/add94462-25b2-4499-804a-8639112c5939.jpg",
+      "https://images.f99.com.vn/images/7bb7ad88-97b9-42b5-8790-b6096c877c38.jpg",
+      "https://images.f99.com.vn/images/26cc5a92-4f88-4e80-b4f8-a9fa51d6ff07.jpg",
+      "https://images.f99.com.vn/images/417ad7e3-e3f6-444c-b659-e3c1c85c6ad6.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/25083",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 413,
+      "sellerRate": 4.3,
+      "sellerName": "Roche Market",
+      "warehouseId": "e8a4c420-228b-4d4a-b705-2e4519cc16ab",
+      "warehouseAddress": " Hà Nội,  Hoài Đức,  Sơn Đồng, Cổng làng xóm Rô",
+      "distance": 14340,
+      "warehouseDistrict": "hoai duc",
+      "reputation": 57.900000000000006,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 97407,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "DƯA LÊ NINH THUẬN",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>- Dưa lê quả chắc tay, Kg tầm 3- 4 quả</p><p>- Dưa lê da cứng, cuống&nbsp;nhỏ và tươi, có vỏ còn hơi xanh đặc biệt có mùi thơm.Thịt dưa chắc, giòn, ngọt, ăn mát.</p><p>- Dưa lê là loại trái cây bổ dưỡng giúp thanh mát, bên cạnh đó loại quả này lại rất ngon, ngọt với hàm lượng vitamin A, B, C và khoáng chất (magie, natri,..) tương đối cao, lại chứa nhiều đường nhưng không có cholesterol nên rất tốt cho sức khỏe, nhất là việc làm đệp cho các chị em phụ nữ.</p><p><br></p><p>-&nbsp;Giúp đẹp da</p><p>- Hỗ trợ đường ruột</p><p>- Giúp giảm cân</p><p>-&nbsp;Giúp tăng cường trí nhớ</p><p>-&nbsp;Tốt cho tim mạch, huyết áp</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/d9496444-5079-49fb-a7b5-df1cc55128e1.jpg\",\"https://images.f99.com.vn/images/c77f79bf-c481-429d-9f48-55dbd75a6d5b.jpg\",\"https://images.f99.com.vn/images/a98599be-a7e5-4618-bc44-6ee91473ce3c.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "DƯA LÊ NINH THUẬN",
+    "description": "<p>- Dưa lê quả chắc tay, Kg tầm 3- 4 quả</p><p>- Dưa lê da cứng, cuống&nbsp;nhỏ và tươi, có vỏ còn hơi xanh đặc biệt có mùi thơm.Thịt dưa chắc, giòn, ngọt, ăn mát.</p><p>- Dưa lê là loại trái cây bổ dưỡng giúp thanh mát, bên cạnh đó loại quả này lại rất ngon, ngọt với hàm lượng vitamin A, B, C và khoáng chất (magie, natri,..) tương đối cao, lại chứa nhiều đường nhưng không có cholesterol nên rất tốt cho sức khỏe, nhất là việc làm đệp cho các chị em phụ nữ.</p><p><br></p><p>-&nbsp;Giúp đẹp da</p><p>- Hỗ trợ đường ruột</p><p>- Giúp giảm cân</p><p>-&nbsp;Giúp tăng cường trí nhớ</p><p>-&nbsp;Tốt cho tim mạch, huyết áp</p>",
+    "imageUrl": "https://images.f99.com.vn/images/d9496444-5079-49fb-a7b5-df1cc55128e1.jpg",
+    "price": 69000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 0,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 193,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>- Dưa ăn ngon hơn khi bảo quản lạnh</p><p>-&nbsp;Khi ăn dưa lê bạn chỉ việc&nbsp;gọt dày lớp vỏ để dưa được ngọt hơn. Không nên gạt bỏ phần hạt vì các axit béo omega-3 trong hạt dưa lê đóng vai trò quan trọng trong việc chống lại các vấn đề về tim mạch.</p><p>- Dưa có thể cắt ăn trực tiếp hay làm nước ép, hoa quả dầm,..</p>",
+    "category": {
+      "id": 74,
+      "name": "Dưa lê",
+      "imageUrl": "https://imgur.com/xO2dm5Z.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/d9496444-5079-49fb-a7b5-df1cc55128e1.jpg",
+      "https://images.f99.com.vn/images/c77f79bf-c481-429d-9f48-55dbd75a6d5b.jpg",
+      "https://images.f99.com.vn/images/a98599be-a7e5-4618-bc44-6ee91473ce3c.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/97407",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "KG"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 97408,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 KG",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "KG",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 KG",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 69000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 0,
+        "totalSold": 0,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>- Dưa ăn ngon hơn khi bảo quản lạnh</p><p>-&nbsp;Khi ăn dưa lê bạn chỉ việc&nbsp;gọt dày lớp vỏ để dưa được ngọt hơn. Không nên gạt bỏ phần hạt vì các axit béo omega-3 trong hạt dưa lê đóng vai trò quan trọng trong việc chống lại các vấn đề về tim mạch.</p><p>- Dưa có thể cắt ăn trực tiếp hay làm nước ép, hoa quả dầm,..</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "KG"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 193,
+      "sellerRate": 4.9,
+      "sellerName": "Royal Green Fruits",
+      "warehouseId": "54ea5d5f-edb9-4db9-9279-5db65d728ab8",
+      "warehouseAddress": "Shophouse D1 Mandarin Garden, Hoàng Minh Giám, Trung Hòa, Cầu Giấy, Hà Nội",
+      "distance": 4511,
+      "warehouseDistrict": "cau giay",
+      "reputation": 64.03561290322591,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 97526,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dưa lê",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(52, 58, 64);\">Dưa lê khi vào vụ có vị ngọt lịm, thơm mát, giàu dinh dưỡng, có hàm lượng chất xơ và nước cao. Dưa lê có khả năng hỗ trợ giảm cân, giảm nguy cơ tăng huyết áp và thúc đẩy sức khỏe của da và tóc…</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/af349a7f-67f4-4ec2-a2db-6653703462fe.jpg\",\"https://images.f99.com.vn/images/0707c239-f29c-4a78-ac7d-bc9d1dd7810c.jpg\",\"https://images.f99.com.vn/images/4596726b-c98c-421a-abef-016d430928b2.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dưa lê",
+    "description": "<p><span style=\"color: rgb(52, 58, 64);\">Dưa lê khi vào vụ có vị ngọt lịm, thơm mát, giàu dinh dưỡng, có hàm lượng chất xơ và nước cao. Dưa lê có khả năng hỗ trợ giảm cân, giảm nguy cơ tăng huyết áp và thúc đẩy sức khỏe của da và tóc…</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/af349a7f-67f4-4ec2-a2db-6653703462fe.jpg",
+    "price": 40000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 1023,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 74,
+      "name": "Dưa lê",
+      "imageUrl": "https://imgur.com/xO2dm5Z.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/af349a7f-67f4-4ec2-a2db-6653703462fe.jpg",
+      "https://images.f99.com.vn/images/0707c239-f29c-4a78-ac7d-bc9d1dd7810c.jpg",
+      "https://images.f99.com.vn/images/4596726b-c98c-421a-abef-016d430928b2.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/97526",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "Loại 1",
+          "loại 2"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 97527,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Loại 1",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Loại 1",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Loại 1",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 45000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 500,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Loại 1"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 97528,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "loại 2",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "loại 2",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "loại 2",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 40000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 500,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "loại 2"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1023,
+      "sellerRate": 4.5,
+      "sellerName": "Minh Lâm",
+      "warehouseId": "ebf381a5-e009-4cd4-8974-e1550c3ba968",
+      "warehouseAddress": "số 146 Nguyễn Đổng Chi, Phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội,  Cầu Diễn,  Nam Từ Liêm,  Hà Nội",
+      "distance": 7348,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 0,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

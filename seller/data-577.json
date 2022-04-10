@@ -1,0 +1,35 @@
+{
+  "id": 577,
+  "name": "4TK Food",
+  "logo": "https://cdn.f99.link/groupbuy-images/65c50fcf-af01-4f34-aeb6-ea0899b338cf.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "- Chuyên cung cấp các loại trái cây, hoa quả, hải sản, thịt nhập khẩu và các loại thực phẩm sạch khác tại Sài Gòn.\n- Cam kết hàng nguồn gốc rõ ràng và không bán hàng kém chất lượng, sử dụng hóa chất độc hại,...\n- Các sản phẩm chính: \n   + Trái cây bốn mùa, \n   + Hải sản tươi sống, \n   + Hải sản đông lạnh, \n   + Thịt heo bò nhập khẩu. \nPhân phối sỉ toàn quốc.",
+  "headQuarter": "544A/16 Lạc Long Quân, 5, Quận 11, Hồ Chí Minh",
+  "email": "4tkfood@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": false,
+  "rating": 4.8,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "15:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 133
+}

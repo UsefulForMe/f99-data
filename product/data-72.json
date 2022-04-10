@@ -1,0 +1,4281 @@
+[
+  {
+    "id": 2251,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Ổi lê",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><img src=\"https://images.f99.com.vn/images/d802b442-9718-46f9-8dda-6768f3f816c0.png\"><img src=\"https://images.f99.com.vn/images/4d63ad85-68ec-4c62-a295-3c51d351f9d3.png\"><img src=\"https://images.f99.com.vn/images/7148b7f4-f493-4fe0-9e01-9326d5ce8dba.png\"><img src=\"https://images.f99.com.vn/images/8d46d298-c81d-4ebf-8f7f-77f40b52cc8f.png\"><img src=\"https://images.f99.com.vn/images/62014892-ebe8-430e-89b0-2777a1db1cbb.png\"><img src=\"https://images.f99.com.vn/images/5c0e15bf-2b23-42d2-bb29-98d268d01fb9.png\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/8ace5cdb-2ea1-412d-9499-096833c7829a.png\",\"https://images.f99.com.vn/images/77c2f6cd-5109-483b-b84a-2bc444e9b495.png\",\"https://images.f99.com.vn/images/cd9aee94-d62c-4df1-93d6-459ea52aaa8b.png\",\"https://images.f99.com.vn/images/c630d90d-b869-4d29-a12d-b4204548bbf4.png\",\"https://images.f99.com.vn/images/8654920a-ed20-416d-bc6b-bc3c850002d4.png\",\"https://images.f99.com.vn/images/f781d36c-1912-4612-9550-159280382cce.png\",\"https://images.f99.com.vn/images/c60cbe2f-a241-4d3c-9969-18e95550b50a.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Ổi lê",
+    "description": "<p><img src=\"https://images.f99.com.vn/images/d802b442-9718-46f9-8dda-6768f3f816c0.png\"><img src=\"https://images.f99.com.vn/images/4d63ad85-68ec-4c62-a295-3c51d351f9d3.png\"><img src=\"https://images.f99.com.vn/images/7148b7f4-f493-4fe0-9e01-9326d5ce8dba.png\"><img src=\"https://images.f99.com.vn/images/8d46d298-c81d-4ebf-8f7f-77f40b52cc8f.png\"><img src=\"https://images.f99.com.vn/images/62014892-ebe8-430e-89b0-2777a1db1cbb.png\"><img src=\"https://images.f99.com.vn/images/5c0e15bf-2b23-42d2-bb29-98d268d01fb9.png\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/8ace5cdb-2ea1-412d-9499-096833c7829a.png",
+    "price": 19900,
+    "oldPrice": 18900,
+    "discountPercent": -5,
+    "stock": 37,
+    "totalSold": 15675,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "20001449",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.8,
+    "instructions": null,
+    "category": {
+      "id": 72,
+      "name": "Ổi",
+      "imageUrl": "https://imgur.com/NtvL6ke.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/8ace5cdb-2ea1-412d-9499-096833c7829a.png",
+      "https://images.f99.com.vn/images/77c2f6cd-5109-483b-b84a-2bc444e9b495.png",
+      "https://images.f99.com.vn/images/cd9aee94-d62c-4df1-93d6-459ea52aaa8b.png",
+      "https://images.f99.com.vn/images/c630d90d-b869-4d29-a12d-b4204548bbf4.png",
+      "https://images.f99.com.vn/images/8654920a-ed20-416d-bc6b-bc3c850002d4.png",
+      "https://images.f99.com.vn/images/f781d36c-1912-4612-9550-159280382cce.png",
+      "https://images.f99.com.vn/images/c60cbe2f-a241-4d3c-9969-18e95550b50a.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/2251",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 4909,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 19900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 37,
+        "totalSold": 15675,
+        "unit": "Kg",
+        "sku": "20001449",
+        "rating": 4.8,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 6811,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Ổi Hưng Yên",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><img src=\"https://images.f99.com.vn/images/2079fe96-d97d-4002-bf7f-430ae0ad7647.jpg\"></p><p><strong>Ổi là một loại trái cây bổ dưỡng và cung cấp nhiều chất dinh dưỡng cho cơ thể. Bên cạnh đó, ở một số quốc gia sử dụng Ổi như một loại dược liệu để chữa lành các vết thương và ngăn chặn nhiều bệnh lý trong cơ thể.</strong></p><p><br></p><p>Ổi là loại trái cây hình tròn hoặc bầu dục với vỏ màu xanh nhạt hoặc vàng. Thịt bên trong màu trắng hoặc đỏ hồng, có hạt, ăn được. Bên cạnh đó, lá Ổi đổi khi được sử dụng để chiết xuất trà và điều trị nhiều bệnh lý liên quan hệ hệ thống tiêu hóa.</p><p>Thịt Ổi chứa nhiều chất dinh dưỡng vượt trội có thể mang lại nhiều lợi ích cho sức khỏe</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/a2fe97eb-01b0-4e5d-818e-09539e598571.jpg\",\"https://images.f99.com.vn/images/f3c135ec-359f-4e43-913c-e317ca274609.jpg\",\"https://images.f99.com.vn/images/c1e4a8c0-4bca-4ecf-9610-d738c9ea9b69.jpg\",\"https://images.f99.com.vn/images/11c72bb5-924f-4046-9aea-8c0271d33b44.jpg\",\"https://images.f99.com.vn/images/b6032d48-a740-49f2-9e67-c86c158367f0.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Ổi\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Ổi Hưng Yên",
+    "description": "<p><img src=\"https://images.f99.com.vn/images/2079fe96-d97d-4002-bf7f-430ae0ad7647.jpg\"></p><p><strong>Ổi là một loại trái cây bổ dưỡng và cung cấp nhiều chất dinh dưỡng cho cơ thể. Bên cạnh đó, ở một số quốc gia sử dụng Ổi như một loại dược liệu để chữa lành các vết thương và ngăn chặn nhiều bệnh lý trong cơ thể.</strong></p><p><br></p><p>Ổi là loại trái cây hình tròn hoặc bầu dục với vỏ màu xanh nhạt hoặc vàng. Thịt bên trong màu trắng hoặc đỏ hồng, có hạt, ăn được. Bên cạnh đó, lá Ổi đổi khi được sử dụng để chiết xuất trà và điều trị nhiều bệnh lý liên quan hệ hệ thống tiêu hóa.</p><p>Thịt Ổi chứa nhiều chất dinh dưỡng vượt trội có thể mang lại nhiều lợi ích cho sức khỏe</p>",
+    "imageUrl": "https://images.f99.com.vn/images/a2fe97eb-01b0-4e5d-818e-09539e598571.jpg",
+    "price": 20000,
+    "oldPrice": 30000,
+    "discountPercent": 33,
+    "stock": 123800,
+    "totalSold": 184,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "oi",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.8,
+    "instructions": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">1. Nhập mã Applefruit5k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Giảm cho đơn từ 50k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">2. Nhập mã Applefruit20k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Giảm cho đơn từ 150k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">3. Nhập mã Applefruit50k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Giảm cho đơn từ 500k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hotline: </span><span style=\"background-color: rgb(229, 239, 255); color: var(--blue-base);\">0974956933</span></p>",
+    "category": {
+      "id": 72,
+      "name": "Ổi",
+      "imageUrl": "https://imgur.com/NtvL6ke.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Ổi"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/a2fe97eb-01b0-4e5d-818e-09539e598571.jpg",
+      "https://images.f99.com.vn/images/f3c135ec-359f-4e43-913c-e317ca274609.jpg",
+      "https://images.f99.com.vn/images/c1e4a8c0-4bca-4ecf-9610-d738c9ea9b69.jpg",
+      "https://images.f99.com.vn/images/11c72bb5-924f-4046-9aea-8c0271d33b44.jpg",
+      "https://images.f99.com.vn/images/b6032d48-a740-49f2-9e67-c86c158367f0.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/6811",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg",
+          "2kg",
+          "combo3kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 52115,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 25000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 19600,
+        "totalSold": 106,
+        "unit": "kg",
+        "sku": "oi",
+        "rating": 4.8,
+        "instructions": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">1. Nhập mã Applefruit5k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Giảm cho đơn từ 50k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">2. Nhập mã Applefruit20k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Giảm cho đơn từ 150k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">3. Nhập mã Applefruit50k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Giảm cho đơn từ 500k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hotline: </span><span style=\"background-color: rgb(229, 239, 255); color: var(--blue-base);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 86973,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 50000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 103200,
+        "totalSold": 13,
+        "unit": "kg",
+        "sku": "oi",
+        "rating": 4.8,
+        "instructions": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">1. Nhập mã Applefruit5k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Giảm cho đơn từ 50k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">2. Nhập mã Applefruit20k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Giảm cho đơn từ 150k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">3. Nhập mã Applefruit50k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Giảm cho đơn từ 500k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hotline: </span><span style=\"background-color: rgb(229, 239, 255); color: var(--blue-base);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "2kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 16960,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "15k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "combo3kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 73000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 1000,
+        "totalSold": 65,
+        "unit": "kg",
+        "sku": "oi",
+        "rating": 4.8,
+        "instructions": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">1. Nhập mã Applefruit5k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Giảm cho đơn từ 50k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">2. Nhập mã Applefruit20k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Giảm cho đơn từ 150k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">3. Nhập mã Applefruit50k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Giảm cho đơn từ 500k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hotline: </span><span style=\"background-color: rgb(229, 239, 255); color: var(--blue-base);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "15k/kg",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "combo3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 10177,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Ổi Nữ Hoàng ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Ổi nữ hoàng nắng cháy ngọt ơi là ngọt, giòn tan, thơm, và cực ít hạt. <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t0/1/16/1f60b.png\" alt=\"😋\" height=\"16\" width=\"16\"></p><p>Vừa hạ cánh tại Nhà Cát Tường ạ.</p><p>- Một đĩa Ổi Nữ Hoàng kèm chèn muối ớt cay nồng sẽ là sự kết hợp hoàn hảo cho bữa ăn vặt thơm ngon.</p><p>- Ổi nữ hoàng tại CÁT TƯỜNG được trồng theo phương pháp hữu cơ với tiêu chuẩn 6 KHÔNG:</p><p>KHÔNG dùng giống biến đổi gen</p><p>KHÔNG sử dụng phân hóa học</p><p>KHÔNG sử dụng thuốc trừ sâu</p><p>KHÔNG sử dụng thuốc bảo vệ thực vật</p><p>KHÔNG sử dụng thuốc kích thích tăng trưởng</p><p>KHÔNG sử dụng thuốc bảo quản sau thu hoạch.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/233564ca-67b3-41c2-a083-182b019ce5b4.jpg\",\"https://images.f99.com.vn/images/714d4f44-696c-4511-9788-7c7cfe8cdbd9.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Ổi Nữ Hoàng ",
+    "description": "<p>Ổi nữ hoàng nắng cháy ngọt ơi là ngọt, giòn tan, thơm, và cực ít hạt. <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t0/1/16/1f60b.png\" alt=\"😋\" height=\"16\" width=\"16\"></p><p>Vừa hạ cánh tại Nhà Cát Tường ạ.</p><p>- Một đĩa Ổi Nữ Hoàng kèm chèn muối ớt cay nồng sẽ là sự kết hợp hoàn hảo cho bữa ăn vặt thơm ngon.</p><p>- Ổi nữ hoàng tại CÁT TƯỜNG được trồng theo phương pháp hữu cơ với tiêu chuẩn 6 KHÔNG:</p><p>KHÔNG dùng giống biến đổi gen</p><p>KHÔNG sử dụng phân hóa học</p><p>KHÔNG sử dụng thuốc trừ sâu</p><p>KHÔNG sử dụng thuốc bảo vệ thực vật</p><p>KHÔNG sử dụng thuốc kích thích tăng trưởng</p><p>KHÔNG sử dụng thuốc bảo quản sau thu hoạch.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/233564ca-67b3-41c2-a083-182b019ce5b4.jpg",
+    "price": 49000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 10,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "SP01",
+    "origin": "",
+    "sellerId": 192,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 72,
+      "name": "Ổi",
+      "imageUrl": "https://imgur.com/NtvL6ke.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/233564ca-67b3-41c2-a083-182b019ce5b4.jpg",
+      "https://images.f99.com.vn/images/714d4f44-696c-4511-9788-7c7cfe8cdbd9.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/10177",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 60805,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 49000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "SP01",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 192,
+      "sellerRate": 4.5,
+      "sellerName": "Trái Cây Cát Tường",
+      "warehouseId": "466ca774-9ed9-4a7c-9250-8490c8d0b8bf",
+      "warehouseAddress": "Shop House A11 Sảnh A Toà Imperia 423 Minh Khai, Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "distance": 4733,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 10478,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Ổi Hữu Cơ ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">1. Nhập mã Applefruit5k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Giảm cho đơn từ 50k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">2. Nhập mã Applefruit20k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Giảm cho đơn từ 150k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">3. Nhập mã Applefruit50k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Giảm cho đơn từ 500k</span></p><p><br></p><p><br></p><p><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">Trong thành phần của quả ổi có chứa nhiều vitamin A, C, kali và chất xơ. Đây là loại trái cây hoàn hảo giúp cải thiện làn da và cải thiện sức khỏe hệ tiêu hóa của người tiêu dùng.</span><img src=\"https://images.f99.com.vn/images/33c1d49f-c7ea-4df2-96a6-222181b55667.jpg\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/cb89aa6a-8bef-4f06-a267-d2cb5c4822ff.jpg\",\"https://images.f99.com.vn/images/8cff309c-e2a7-49e6-b5d0-e53d8a51a3d4.jpg\",\"https://images.f99.com.vn/images/6d70af85-ccff-4b1f-919f-6954463e730f.jpg\",\"https://images.f99.com.vn/images/daf1fcf0-a427-42ec-ac75-6b2119af6ac2.jpg\",\"https://images.f99.com.vn/images/6c00ebc0-e4d0-43e2-b31a-6e899c0e89fc.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"ổi\",\"ôi ngon\",\"ổi lê\",\"apple fruit\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Ổi Hữu Cơ ",
+    "description": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">1. Nhập mã Applefruit5k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Giảm cho đơn từ 50k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">2. Nhập mã Applefruit20k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Giảm cho đơn từ 150k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">3. Nhập mã Applefruit50k</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Giảm cho đơn từ 500k</span></p><p><br></p><p><br></p><p><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">Trong thành phần của quả ổi có chứa nhiều vitamin A, C, kali và chất xơ. Đây là loại trái cây hoàn hảo giúp cải thiện làn da và cải thiện sức khỏe hệ tiêu hóa của người tiêu dùng.</span><img src=\"https://images.f99.com.vn/images/33c1d49f-c7ea-4df2-96a6-222181b55667.jpg\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/cb89aa6a-8bef-4f06-a267-d2cb5c4822ff.jpg",
+    "price": 25000,
+    "oldPrice": 30000,
+    "discountPercent": 17,
+    "stock": 342000,
+    "totalSold": 243,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "Oi",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+    "category": {
+      "id": 72,
+      "name": "Ổi",
+      "imageUrl": "https://imgur.com/NtvL6ke.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "ổi",
+      "ôi ngon",
+      "ổi lê",
+      "apple fruit"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/cb89aa6a-8bef-4f06-a267-d2cb5c4822ff.jpg",
+      "https://images.f99.com.vn/images/8cff309c-e2a7-49e6-b5d0-e53d8a51a3d4.jpg",
+      "https://images.f99.com.vn/images/6d70af85-ccff-4b1f-919f-6954463e730f.jpg",
+      "https://images.f99.com.vn/images/daf1fcf0-a427-42ec-ac75-6b2119af6ac2.jpg",
+      "https://images.f99.com.vn/images/6c00ebc0-e4d0-43e2-b31a-6e899c0e89fc.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/10478",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg",
+          "2kg",
+          "Combo 3 kg",
+          "Combo 5kg",
+          "ổi tươi xầy"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 52113,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 25000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 26000,
+        "totalSold": 98,
+        "unit": "kg",
+        "sku": "Oi",
+        "rating": 5,
+        "instructions": "<p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 87767,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 50000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 204000,
+        "totalSold": 9,
+        "unit": "kg",
+        "sku": "Oi",
+        "rating": 5,
+        "instructions": "<p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "2kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 10481,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 3 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 3 kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 3 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 73000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 2000,
+        "totalSold": 78,
+        "unit": "kg",
+        "sku": "Oi",
+        "rating": 5,
+        "instructions": "<p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 3 kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 82967,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 120000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 102000,
+        "totalSold": 1,
+        "unit": "kg",
+        "sku": "Oi",
+        "rating": 5,
+        "instructions": "<p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 24265,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "ổi tươi xầy",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "1kg xước do vận chuyển",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "ổi tươi xầy",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "ổi tươi xầy",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 18000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 8000,
+        "totalSold": 57,
+        "unit": "kg",
+        "sku": "Oi",
+        "rating": 5,
+        "instructions": "<p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "1kg xước do vận chuyển",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "ổi tươi xầy"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 10497,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hộp ổi cắt sẵn",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">Trong thành phần của quả ổi có chứa nhiều vitamin A, C, kali và chất xơ. Đây là loại trái cây hoàn hảo giúp cải thiện làn da và cải thiện sức khỏe hệ tiêu hóa của người tiêu dùng.</span><img src=\"https://images.f99.com.vn/images/33c1d49f-c7ea-4df2-96a6-222181b55667.jpg\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/f0d4c4fb-ebda-4c1b-a028-1f6e2265b98e.jpg\",\"https://images.f99.com.vn/images/6e571dac-0d9b-4057-a9c4-08ab9a41af28.jpg\",\"https://images.f99.com.vn/images/e774451e-1cef-4c81-bd68-db6a9fc05a3a.jpg\",\"https://images.f99.com.vn/images/7e2c8afb-580a-46b2-8844-da6cd2b30cc2.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hộp ổi cắt sẵn",
+    "description": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">Trong thành phần của quả ổi có chứa nhiều vitamin A, C, kali và chất xơ. Đây là loại trái cây hoàn hảo giúp cải thiện làn da và cải thiện sức khỏe hệ tiêu hóa của người tiêu dùng.</span><img src=\"https://images.f99.com.vn/images/33c1d49f-c7ea-4df2-96a6-222181b55667.jpg\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/f0d4c4fb-ebda-4c1b-a028-1f6e2265b98e.jpg",
+    "price": 25000,
+    "oldPrice": 45000,
+    "discountPercent": 44,
+    "stock": 8000,
+    "totalSold": 118,
+    "maxQuantityPerUser": null,
+    "unit": "Hộp",
+    "sku": "oicat",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hotline: </span><span style=\"background-color: rgb(229, 239, 255); color: var(--blue-base);\">0974956933</span></p>",
+    "category": {
+      "id": 72,
+      "name": "Ổi",
+      "imageUrl": "https://imgur.com/NtvL6ke.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/f0d4c4fb-ebda-4c1b-a028-1f6e2265b98e.jpg",
+      "https://images.f99.com.vn/images/6e571dac-0d9b-4057-a9c4-08ab9a41af28.jpg",
+      "https://images.f99.com.vn/images/e774451e-1cef-4c81-bd68-db6a9fc05a3a.jpg",
+      "https://images.f99.com.vn/images/7e2c8afb-580a-46b2-8844-da6cd2b30cc2.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/10497",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "Hộp 400g'",
+          "Hộp 700- 800g",
+          "ổi nguyên quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 10498,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Hộp 400g'",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Hộp 400g'",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Hộp 400g'",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 25000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 2000,
+        "totalSold": 49,
+        "unit": "Hộp",
+        "sku": "oicat",
+        "rating": 5,
+        "instructions": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hotline: </span><span style=\"background-color: rgb(229, 239, 255); color: var(--blue-base);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Hộp 400g'"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 10499,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Hộp 700- 800g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Hộp 700- 800g",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Hộp 700- 800g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 45000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 2000,
+        "totalSold": 31,
+        "unit": "Hộp",
+        "sku": "oicat",
+        "rating": 5,
+        "instructions": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hotline: </span><span style=\"background-color: rgb(229, 239, 255); color: var(--blue-base);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Hộp 700- 800g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 71202,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "ổi nguyên quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "ổi nguyên quả",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "ổi nguyên quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 25000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 4000,
+        "totalSold": 38,
+        "unit": "Hộp",
+        "sku": "oicat",
+        "rating": 5,
+        "instructions": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hotline: </span><span style=\"background-color: rgb(229, 239, 255); color: var(--blue-base);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "1kg",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "ổi nguyên quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13480,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Ổi lê siêu giòn ngọt",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><br></p><p>Ổi lê giòn cứng quả ép rất được nước mà giá tận vườn. Ổi cắt mới mỗi ngày.</p><p>Ôỉ lê ăn hay ép đều ngọt.</p><p>Ôỉ giàu dường chất và vitamin C nhất ạ.</p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/54f76f1d-8d09-4b70-8733-2c49ac66f04d.jpg\",\"https://images.f99.com.vn/images/921177dc-bdfb-4d0d-8b32-e3232d93e9e7.jpg\",\"https://images.f99.com.vn/images/e5a24fa1-4491-4077-b1f9-05b304c8a034.jpg\",\"https://images.f99.com.vn/images/3415b124-d54e-4c21-aba0-82d1f7f12fa7.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Ổi lê siêu giòn ngọt",
+    "description": "<p><br></p><p>Ổi lê giòn cứng quả ép rất được nước mà giá tận vườn. Ổi cắt mới mỗi ngày.</p><p>Ôỉ lê ăn hay ép đều ngọt.</p><p>Ôỉ giàu dường chất và vitamin C nhất ạ.</p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/54f76f1d-8d09-4b70-8733-2c49ac66f04d.jpg",
+    "price": 99000,
+    "oldPrice": 179000,
+    "discountPercent": 45,
+    "stock": 300,
+    "totalSold": 702,
+    "maxQuantityPerUser": null,
+    "unit": "5 kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 242,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Để tủ mát hoặc bên ngoài.</p>",
+    "category": {
+      "id": 72,
+      "name": "Ổi",
+      "imageUrl": "https://imgur.com/NtvL6ke.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/54f76f1d-8d09-4b70-8733-2c49ac66f04d.jpg",
+      "https://images.f99.com.vn/images/921177dc-bdfb-4d0d-8b32-e3232d93e9e7.jpg",
+      "https://images.f99.com.vn/images/e5a24fa1-4491-4077-b1f9-05b304c8a034.jpg",
+      "https://images.f99.com.vn/images/3415b124-d54e-4c21-aba0-82d1f7f12fa7.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13480",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "5 kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 54461,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "5 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "5 kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "5 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 99000,
+        "oldPrice": 179000,
+        "discountPercent": 45,
+        "stock": 300,
+        "totalSold": 702,
+        "unit": "5 kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Để tủ mát hoặc bên ngoài.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "5 kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 242,
+      "sellerRate": 4.1,
+      "sellerName": "Tổng Kho Amy Fruit",
+      "warehouseId": "acd38b9a-c6ad-4c61-96a8-17ef6b47e174",
+      "warehouseAddress": "Số 3 ngõ 57 Nguyễn Khánh Toàn, Dịch Vọng, Cầu Giấy, Hà Nội",
+      "distance": 4026,
+      "warehouseDistrict": "cau giay",
+      "reputation": 58.71380729701953,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13772,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Ổi Thanh Hà",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Hoa Quả Rau củ Tươi Ngon. Nhập mới hàng ngày.</p><p><br></p><p>Kho hàng: số 52 ngõ 365 đường Bưởi, Ba Đình</p><p><br></p><p>Đặt hàng rau củ quả thực phẩm tươi sống sạch chất lượng tại: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fhomeyfood.net%2F%3Ffbclid%3DIwAR2JSxaf4GfQlgE8nUH0__xHpH8v6NF_BMppYMwjdVoca6iDDHe6lN7uhpA&amp;h=AT1N_fAYZiYWuKq_b3RsKWHHIUCahTIGKOMbJ0fsSzdp9NMquXMl87dsM3BUkmXxyRilEIJ-NySoeY0GmS30O6Quh2y-BvQ3zaB1ECscOtQWuEVU0OSuNsXKS0nuJe5-gWi4nw\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--always-white);\">https://homeyfood.net</a></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/7f67f60b-0aa2-4114-aecc-ec98230dff55.jpg\",\"https://images.f99.com.vn/images/1181d7f4-6a31-4f4f-9873-14469ced1028.jpg\",\"https://images.f99.com.vn/images/9c298ab8-9f0f-476d-b6db-2d00560b2c8c.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Ổi Thanh Hà",
+    "description": "<p>Hoa Quả Rau củ Tươi Ngon. Nhập mới hàng ngày.</p><p><br></p><p>Kho hàng: số 52 ngõ 365 đường Bưởi, Ba Đình</p><p><br></p><p>Đặt hàng rau củ quả thực phẩm tươi sống sạch chất lượng tại: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fhomeyfood.net%2F%3Ffbclid%3DIwAR2JSxaf4GfQlgE8nUH0__xHpH8v6NF_BMppYMwjdVoca6iDDHe6lN7uhpA&amp;h=AT1N_fAYZiYWuKq_b3RsKWHHIUCahTIGKOMbJ0fsSzdp9NMquXMl87dsM3BUkmXxyRilEIJ-NySoeY0GmS30O6Quh2y-BvQ3zaB1ECscOtQWuEVU0OSuNsXKS0nuJe5-gWi4nw\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--always-white);\">https://homeyfood.net</a></p>",
+    "imageUrl": "https://images.f99.com.vn/images/7f67f60b-0aa2-4114-aecc-ec98230dff55.jpg",
+    "price": 16000,
+    "oldPrice": 30000,
+    "discountPercent": 47,
+    "stock": 9999,
+    "totalSold": 5891,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 240,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p>Tốt nhất trong tủ lạnh.</p><p>Tránh ánh sáng trực tiếp hoặc nơi ẩm ướt.</p>",
+    "category": {
+      "id": 72,
+      "name": "Ổi",
+      "imageUrl": "https://imgur.com/NtvL6ke.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/7f67f60b-0aa2-4114-aecc-ec98230dff55.jpg",
+      "https://images.f99.com.vn/images/1181d7f4-6a31-4f4f-9873-14469ced1028.jpg",
+      "https://images.f99.com.vn/images/9c298ab8-9f0f-476d-b6db-2d00560b2c8c.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13772",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 74136,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 16000,
+        "oldPrice": 30000,
+        "discountPercent": 47,
+        "stock": 9999,
+        "totalSold": 5891,
+        "unit": "kg",
+        "sku": "",
+        "rating": 5,
+        "instructions": "<p>Tốt nhất trong tủ lạnh.</p><p>Tránh ánh sáng trực tiếp hoặc nơi ẩm ướt.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 240,
+      "sellerRate": 4.5,
+      "sellerName": "Homey Fruit & Veg ",
+      "warehouseId": "ccb00cae-e276-4a1b-af4a-ae822ab5c570",
+      "warehouseAddress": "số 52 ngõ 376 Bưởi, Vĩnh Phúc, Ba Đình, Hà Nội",
+      "distance": 3021,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 77.89029707147643,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 23742,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "3kg Ổi Thanh Hà",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Ổi Tươi</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/c3f04be1-9edf-4b57-9d26-c74da817a577.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "3kg Ổi Thanh Hà",
+    "description": "<p>Ổi Tươi</p>",
+    "imageUrl": "https://images.f99.com.vn/images/c3f04be1-9edf-4b57-9d26-c74da817a577.jpg",
+    "price": 75000,
+    "oldPrice": 90000,
+    "discountPercent": 17,
+    "stock": 100,
+    "totalSold": 19,
+    "maxQuantityPerUser": null,
+    "unit": "3Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 359,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ngăn mát tủ lạnh</p>",
+    "category": {
+      "id": 72,
+      "name": "Ổi",
+      "imageUrl": "https://imgur.com/NtvL6ke.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/c3f04be1-9edf-4b57-9d26-c74da817a577.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/23742",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 359,
+      "sellerRate": 4.4,
+      "sellerName": "Quang Anh- Hoa quả tươi theo mùa",
+      "warehouseId": "b29cda85-3ce5-4127-9c6b-1eb1a04399dc",
+      "warehouseAddress": " Hà Nội,  Hai Bà Trưng,  Vĩnh Tuy, NT9, Ngõ 124 Vĩnh Tuy",
+      "distance": 5482,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 70.9110772740987,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 28168,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Ổi giòn ngọt",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Ổi giàu vitamin ăn hay ép rất oki.</p><p>Nước ép ổi cực nhiều vitamin C nhé.</p><p>Mẹ ép ổi hàng ngày cho bé và cả nhà luôn đi ạ.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/209cf7cd-dade-4e89-884a-92a23c0ed570.jpg\",\"https://images.f99.com.vn/images/0280b481-caa8-479c-b0c3-84e2a2513f75.jpg\",\"https://images.f99.com.vn/images/82ced46d-28eb-4c38-9e91-7c8000837415.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Ổi giòn ngọt",
+    "description": "<p>Ổi giàu vitamin ăn hay ép rất oki.</p><p>Nước ép ổi cực nhiều vitamin C nhé.</p><p>Mẹ ép ổi hàng ngày cho bé và cả nhà luôn đi ạ.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/209cf7cd-dade-4e89-884a-92a23c0ed570.jpg",
+    "price": 25000,
+    "oldPrice": 30000,
+    "discountPercent": 17,
+    "stock": 1000,
+    "totalSold": 185,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 242,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 72,
+      "name": "Ổi",
+      "imageUrl": "https://imgur.com/NtvL6ke.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/209cf7cd-dade-4e89-884a-92a23c0ed570.jpg",
+      "https://images.f99.com.vn/images/0280b481-caa8-479c-b0c3-84e2a2513f75.jpg",
+      "https://images.f99.com.vn/images/82ced46d-28eb-4c38-9e91-7c8000837415.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/28168",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 242,
+      "sellerRate": 4.1,
+      "sellerName": "Tổng Kho Amy Fruit",
+      "warehouseId": "acd38b9a-c6ad-4c61-96a8-17ef6b47e174",
+      "warehouseAddress": "Số 3 ngõ 57 Nguyễn Khánh Toàn, Dịch Vọng, Cầu Giấy, Hà Nội",
+      "distance": 4026,
+      "warehouseDistrict": "cau giay",
+      "reputation": 58.71380729701953,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 29724,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Ổi Di Trạch",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(0, 0, 0);\">Ổi Di trạch, ngon ngọt, giòn, it hạt</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/0f7abbfd-586d-482d-93c9-07901736d621.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Ổi Di Trạch\",\"ổi\",\"oi di trach\",\"oi\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Ổi Di Trạch",
+    "description": "<p><span style=\"color: rgb(0, 0, 0);\">Ổi Di trạch, ngon ngọt, giòn, it hạt</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/0f7abbfd-586d-482d-93c9-07901736d621.jpg",
+    "price": 29000,
+    "oldPrice": 35000,
+    "discountPercent": 17,
+    "stock": 1000,
+    "totalSold": 47,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 484,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 72,
+      "name": "Ổi",
+      "imageUrl": "https://imgur.com/NtvL6ke.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Ổi Di Trạch",
+      "ổi",
+      "oi di trach",
+      "oi"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/0f7abbfd-586d-482d-93c9-07901736d621.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/29724",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 73789,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 29000,
+        "oldPrice": 35000,
+        "discountPercent": 17,
+        "stock": 1000,
+        "totalSold": 47,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 484,
+      "sellerRate": 4.6,
+      "sellerName": "HOME FRUITS",
+      "warehouseId": "c9100430-cbd7-4e59-a914-9ce7a7071cbc",
+      "warehouseAddress": "Số 172 Trần Bình, phường Mỹ Đình, Quận Nam Từ Liêm, Hà Nội",
+      "distance": 6740,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 80.48249894439043,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 32559,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Ổi Thanh hà giòn ngọt",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>1 kg ổi kèm muối ớt</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/e06b1079-6921-4658-8af4-f8f8cfec73f3.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Ổi Thanh hà giòn ngọt",
+    "description": "<p>1 kg ổi kèm muối ớt</p>",
+    "imageUrl": "https://images.f99.com.vn/images/e06b1079-6921-4658-8af4-f8f8cfec73f3.jpg",
+    "price": 25000,
+    "oldPrice": 25000,
+    "discountPercent": 0,
+    "stock": 20,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 333,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 72,
+      "name": "Ổi",
+      "imageUrl": "https://imgur.com/NtvL6ke.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/e06b1079-6921-4658-8af4-f8f8cfec73f3.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/32559",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 89719,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 25000,
+        "oldPrice": 25000,
+        "discountPercent": 0,
+        "stock": 20,
+        "totalSold": 3,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 333,
+      "sellerRate": 4.5,
+      "sellerName": "HOA QUẢ TƯƠI UK",
+      "warehouseId": "00a32823-8ca3-40ea-9b90-7602ba7a142d",
+      "warehouseAddress": " Hà Nội,  Nam Từ Liêm,  Mễ Trì, Số 111 ngõ 14 Mễ Trì Hạ",
+      "distance": 5655,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 73.88293932300736,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 36078,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Khay Ổi Bổ Sẵn 600 gram ( Tặng Muối Ớt)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Khay Ổi bổ sẵn 600 gram kèm muối ớt</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/813022af-13b6-4f28-80e2-c2f4f784edb5.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Khay Ổi Bổ Sẵn 600 gram ( Tặng Muối Ớt)",
+    "description": "<p>Khay Ổi bổ sẵn 600 gram kèm muối ớt</p>",
+    "imageUrl": "https://images.f99.com.vn/images/813022af-13b6-4f28-80e2-c2f4f784edb5.jpg",
+    "price": 20000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 20,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "nửa kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 333,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 72,
+      "name": "Ổi",
+      "imageUrl": "https://imgur.com/NtvL6ke.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/813022af-13b6-4f28-80e2-c2f4f784edb5.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/36078",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "nửa kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 86187,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 nửa kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "nửa kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 nửa kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 20000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 20,
+        "totalSold": 2,
+        "unit": "nửa kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "nửa kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 333,
+      "sellerRate": 4.5,
+      "sellerName": "HOA QUẢ TƯƠI UK",
+      "warehouseId": "00a32823-8ca3-40ea-9b90-7602ba7a142d",
+      "warehouseAddress": " Hà Nội,  Nam Từ Liêm,  Mễ Trì, Số 111 ngõ 14 Mễ Trì Hạ",
+      "distance": 5655,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 73.88293932300736,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 41991,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Nước Ép Ổi Tươi Ngon",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>1 cốc nước ép ổi tươi ngon nguyên chất 400ml</p><p>-----------------------</p><p><br></p><p>Hoa quả tươi UK</p><p>Địa chỉ: Số 111, Ngõ 14 Mễ Trì Hạ, Nam Từ Liêm</p><p>Zalo 0986081117</p><p>App: F99, Now, Grap, Baemin, Gojek</p><p>&nbsp;</p><p>Trân Trọng Kính Mời!</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/0c38ebc8-1994-4c7f-b427-ef0656c919ed.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Nước Ép Ổi Tươi Ngon",
+    "description": "<p>1 cốc nước ép ổi tươi ngon nguyên chất 400ml</p><p>-----------------------</p><p><br></p><p>Hoa quả tươi UK</p><p>Địa chỉ: Số 111, Ngõ 14 Mễ Trì Hạ, Nam Từ Liêm</p><p>Zalo 0986081117</p><p>App: F99, Now, Grap, Baemin, Gojek</p><p>&nbsp;</p><p>Trân Trọng Kính Mời!</p>",
+    "imageUrl": "https://images.f99.com.vn/images/0c38ebc8-1994-4c7f-b427-ef0656c919ed.jpg",
+    "price": 20000,
+    "oldPrice": 25000,
+    "discountPercent": 20,
+    "stock": 20,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Cốc",
+    "sku": "",
+    "origin": "",
+    "sellerId": 333,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 72,
+      "name": "Ổi",
+      "imageUrl": "https://imgur.com/NtvL6ke.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/0c38ebc8-1994-4c7f-b427-ef0656c919ed.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/41991",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Cốc"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 89723,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Cốc",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Cốc",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Cốc",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 20000,
+        "oldPrice": 25000,
+        "discountPercent": 20,
+        "stock": 20,
+        "totalSold": 1,
+        "unit": "Cốc",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Cốc"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 333,
+      "sellerRate": 4.5,
+      "sellerName": "HOA QUẢ TƯƠI UK",
+      "warehouseId": "00a32823-8ca3-40ea-9b90-7602ba7a142d",
+      "warehouseAddress": " Hà Nội,  Nam Từ Liêm,  Mễ Trì, Số 111 ngõ 14 Mễ Trì Hạ",
+      "distance": 5655,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 73.88293932300736,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 42773,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Ôỉ lê Hưng Yên ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Ôỉ lê Hưng Yên giòn ngọt ít hạt và ngọt.</p><p>Các bác mua ăn hay mua biếu đều ok ạ.</p><p>Ngon bổ rẻ hợp cho mọi nhà luôn.</p><p>Đặt ngay hoặc qua cửa hàng ủng hộ em nhé.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/867fdea1-8e95-465d-99bf-5aa3c201ae7f.jpg\",\"https://images.f99.com.vn/images/b16dc09a-3f79-446f-ba8a-0112c1abe198.jpg\",\"https://images.f99.com.vn/images/4b59289b-b727-4b5c-8bfb-7356d29c862c.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Ôỉ lê Hưng Yên ",
+    "description": "<p>Ôỉ lê Hưng Yên giòn ngọt ít hạt và ngọt.</p><p>Các bác mua ăn hay mua biếu đều ok ạ.</p><p>Ngon bổ rẻ hợp cho mọi nhà luôn.</p><p>Đặt ngay hoặc qua cửa hàng ủng hộ em nhé.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/867fdea1-8e95-465d-99bf-5aa3c201ae7f.jpg",
+    "price": 99000,
+    "oldPrice": 197000,
+    "discountPercent": 50,
+    "stock": 100,
+    "totalSold": 17,
+    "maxQuantityPerUser": null,
+    "unit": "5 kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 242,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 72,
+      "name": "Ổi",
+      "imageUrl": "https://imgur.com/NtvL6ke.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/867fdea1-8e95-465d-99bf-5aa3c201ae7f.jpg",
+      "https://images.f99.com.vn/images/b16dc09a-3f79-446f-ba8a-0112c1abe198.jpg",
+      "https://images.f99.com.vn/images/4b59289b-b727-4b5c-8bfb-7356d29c862c.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/42773",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 242,
+      "sellerRate": 4.1,
+      "sellerName": "Tổng Kho Amy Fruit",
+      "warehouseId": "acd38b9a-c6ad-4c61-96a8-17ef6b47e174",
+      "warehouseAddress": "Số 3 ngõ 57 Nguyễn Khánh Toàn, Dịch Vọng, Cầu Giấy, Hà Nội",
+      "distance": 4026,
+      "warehouseDistrict": "cau giay",
+      "reputation": 58.71380729701953,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 44558,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Ổi nữ hoàng",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Ổi nữ hoàng là giống ổi mới thơm ngon cùi dày ăn giòn ngọt , trái ổi có hình dạng cầu có gân chạy dọc trên trái ruuotj nhỏ và ít hạt</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/c441b5f7-d75d-401e-9a5f-fdd9ef3d6bd3.jpg\",\"https://images.f99.com.vn/images/cc3af780-95e5-429f-913b-66720dc13529.jpg\",\"https://images.f99.com.vn/images/ff94c68b-66bc-4a03-8534-bb31514e6557.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Ổi nữ hoàng",
+    "description": "<p>Ổi nữ hoàng là giống ổi mới thơm ngon cùi dày ăn giòn ngọt , trái ổi có hình dạng cầu có gân chạy dọc trên trái ruuotj nhỏ và ít hạt</p>",
+    "imageUrl": "https://images.f99.com.vn/images/c441b5f7-d75d-401e-9a5f-fdd9ef3d6bd3.jpg",
+    "price": 110000,
+    "oldPrice": 150000,
+    "discountPercent": 27,
+    "stock": 150,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "3kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 118,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>bảo quản bên ngoài từ 2-3 ngày bảo quản tủ mát được 7 ngày</p>",
+    "category": {
+      "id": 72,
+      "name": "Ổi",
+      "imageUrl": "https://imgur.com/NtvL6ke.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/c441b5f7-d75d-401e-9a5f-fdd9ef3d6bd3.jpg",
+      "https://images.f99.com.vn/images/cc3af780-95e5-429f-913b-66720dc13529.jpg",
+      "https://images.f99.com.vn/images/ff94c68b-66bc-4a03-8534-bb31514e6557.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/44558",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "3kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 96768,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "3kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 110000,
+        "oldPrice": 150000,
+        "discountPercent": 27,
+        "stock": 150,
+        "totalSold": 0,
+        "unit": "3kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>bảo quản bên ngoài từ 2-3 ngày bảo quản tủ mát được 7 ngày</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 118,
+      "sellerRate": 3.9,
+      "sellerName": "Đinh Hương Fruit",
+      "warehouseId": "7d5007b2-5563-4d11-a461-2b659e39fcf0",
+      "warehouseAddress": "64 Khương Đình, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",
+      "distance": 3572,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 55.8364615384624,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 44758,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "Tươi ngon",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "[Chỉ Giao HN] - Ổi lê DHNN - 1kg",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://i.imgur.com/SXJO4ak.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "[Chỉ Giao HN] - Ổi lê DHNN - 1kg",
+    "description": "Tươi ngon",
+    "imageUrl": "https://i.imgur.com/SXJO4ak.png",
+    "price": 45000,
+    "oldPrice": null,
+    "discountPercent": null,
+    "stock": 100,
+    "totalSold": 5,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 548,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.2,
+    "instructions": "",
+    "category": {
+      "id": 72,
+      "name": "Ổi",
+      "imageUrl": "https://imgur.com/NtvL6ke.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://i.imgur.com/SXJO4ak.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/44758",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 548,
+      "sellerRate": 4.4,
+      "sellerName": "DELI MART",
+      "warehouseId": "602391b3-9831-42e9-80a5-2e8333671a3e",
+      "warehouseAddress": "Sàn Thương Mại Tầng 1 - Riverside Garden, số 349 Vũ Tông Phan, Khương Đình, Thanh Xuân, Hà Nội",
+      "distance": 4620,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 61.13986206896673,
+      "others": [
+        {
+          "sellerId": 548,
+          "sellerRate": 4.4,
+          "sellerName": "DELI MART",
+          "warehouseId": "602391b3-9831-42e9-80a5-2e8333671a3e",
+          "warehouseAddress": "Sàn Thương Mại Tầng 1 - Riverside Garden, số 349 Vũ Tông Phan, Khương Đình, Thanh Xuân, Hà Nội",
+          "distance": 4620,
+          "warehouseDistrict": "thanh xuan",
+          "reputation": 61.13986206896673,
+          "others": []
+        },
+        {
+          "sellerId": 548,
+          "sellerRate": 4.4,
+          "sellerName": "DELI MART",
+          "warehouseId": "05aed57f-e0a2-44c7-bed4-f754f25a5900",
+          "warehouseAddress": "Căn 103, Tòa CT4, Vimeco, Nguyễn Chánh, Trung Hòa, Cầu Giấy, Hà Nội",
+          "distance": 4718,
+          "warehouseDistrict": "cau giay",
+          "reputation": 61.13986206896673,
+          "others": []
+        },
+        {
+          "sellerId": 548,
+          "sellerRate": 4.4,
+          "sellerName": "DELI MART",
+          "warehouseId": "f31e5e1a-e677-4d15-80db-214131370d1c",
+          "warehouseAddress": "Sảnh căn hộ T03 - Times City, 458 Minh Khai, Hai Bà Trưng, Hà Nội.",
+          "distance": 5140,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 61.13986206896673,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 49345,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "ỔI Hải Dương  - VIP",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Ổi là loại quả vô cùng quen thuộc tại Việt Nam. Không chỉ có mùi thơm và hương vị độc đáo, quả ổi còn được coi là siêu trái cây bởi vô số lợi ích cho sức khỏe con người. Loại trái cây này rất giàu vitamin C, hợp chất&nbsp;lycopene và chất chống oxy hóa. Ổi cũng rất giàu mangan, giúp có thể hấp thụ các chất dinh dưỡng quan trọng từ thực phẩm.&nbsp;</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/97cc6581-4dbe-4528-a629-4fedc05e58ee.jpg\",\"https://images.f99.com.vn/images/5dc85c8c-8d40-4841-b7c9-3947a96f8f28.jpg\",\"https://images.f99.com.vn/images/37af65e5-0991-4e0f-9d97-5edaa8c1c8eb.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Ổi Hải Dương\",\"Ổi ngon\",\"Hoa quả ngon\",\"Hoa Qủa tươi\",\"Trái cây\",\"Trái cây tươi\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "ỔI Hải Dương  - VIP",
+    "description": "<p>Ổi là loại quả vô cùng quen thuộc tại Việt Nam. Không chỉ có mùi thơm và hương vị độc đáo, quả ổi còn được coi là siêu trái cây bởi vô số lợi ích cho sức khỏe con người. Loại trái cây này rất giàu vitamin C, hợp chất&nbsp;lycopene và chất chống oxy hóa. Ổi cũng rất giàu mangan, giúp có thể hấp thụ các chất dinh dưỡng quan trọng từ thực phẩm.&nbsp;</p>",
+    "imageUrl": "https://images.f99.com.vn/images/97cc6581-4dbe-4528-a629-4fedc05e58ee.jpg",
+    "price": 30000,
+    "oldPrice": 35000,
+    "discountPercent": 14,
+    "stock": 40,
+    "totalSold": 79,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 753,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Nếu bảo quản ổi ở nhiệt độ thường, bạn chỉ nên mua ổi với số lượng đủ ăn trong ngày. Ổi sẽ nhanh chóng bị ỉu, vỏ ngoài trở nên mềm và không còn cứng giòn như ban đầu.</p><p>Chỉ cần đặt ổi vào&nbsp;<a href=\"https://www.dienmayxanh.com/thau-ro-gao-nuoc?g=ro\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(40, 138, 214);\">rổ</a>, để ở nơi thoáng khí, khô ráo với nhiệt độ phòng bình thường tránh ánh nắng trực tiếp từ mặt trời là được.</p>",
+    "category": {
+      "id": 72,
+      "name": "Ổi",
+      "imageUrl": "https://imgur.com/NtvL6ke.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Ổi Hải Dương",
+      "Ổi ngon",
+      "Hoa quả ngon",
+      "Hoa Qủa tươi",
+      "Trái cây",
+      "Trái cây tươi"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/97cc6581-4dbe-4528-a629-4fedc05e58ee.jpg",
+      "https://images.f99.com.vn/images/5dc85c8c-8d40-4841-b7c9-3947a96f8f28.jpg",
+      "https://images.f99.com.vn/images/37af65e5-0991-4e0f-9d97-5edaa8c1c8eb.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/49345",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 70078,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 30000,
+        "oldPrice": 35000,
+        "discountPercent": 14,
+        "stock": 40,
+        "totalSold": 79,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Nếu bảo quản ổi ở nhiệt độ thường, bạn chỉ nên mua ổi với số lượng đủ ăn trong ngày. Ổi sẽ nhanh chóng bị ỉu, vỏ ngoài trở nên mềm và không còn cứng giòn như ban đầu.</p><p>Chỉ cần đặt ổi vào&nbsp;<a href=\"https://www.dienmayxanh.com/thau-ro-gao-nuoc?g=ro\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(40, 138, 214);\">rổ</a>, để ở nơi thoáng khí, khô ráo với nhiệt độ phòng bình thường tránh ánh nắng trực tiếp từ mặt trời là được.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 753,
+      "sellerRate": 4.1,
+      "sellerName": "ĐÀ LẠT MART",
+      "warehouseId": "72145374-3a89-440d-9881-429faceb9617",
+      "warehouseAddress": " Hà Nội,  Đống Đa,  Láng Hạ, 49 Vũ Ngọc Phan",
+      "distance": 2899,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.0228266044001,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 71405,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Ổi Ngon",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong>Ổi là một loại trái cây bổ dưỡng và cung cấp nhiều chất dinh dưỡng cho cơ thể. Bên cạnh đó, ở một số quốc gia sử dụng Ổi như một loại dược liệu để chữa lành các vết thương và ngăn chặn nhiều bệnh lý trong cơ thể.</strong></p><p><br></p><p>Ổi là loại trái cây hình tròn hoặc bầu dục với vỏ màu xanh nhạt hoặc vàng. Thịt bên trong màu trắng hoặc đỏ hồng, có hạt, ăn được. Bên cạnh đó, lá Ổi đổi khi được sử dụng để chiết xuất trà và điều trị nhiều bệnh lý liên quan hệ hệ thống tiêu hóa.</p><p>Thịt Ổi chứa nhiều chất dinh dưỡng vượt trội có thể mang lại nhiều lợi ích cho sức khỏe</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/7a53bf19-b702-45c0-b2e8-98c86d0bb285.jpg\",\"https://images.f99.com.vn/images/a53427c0-f47f-419a-b2d7-d630b292d254.jpg\",\"https://images.f99.com.vn/images/82197c2f-8c00-4f38-832d-4dde8593de9c.jpg\",\"https://images.f99.com.vn/images/2c1794f0-2f6a-4675-8978-95bc15e863b0.jpg\",\"https://images.f99.com.vn/images/5c678d3e-37ba-43e6-93de-99a9131063e0.jpg\",\"https://images.f99.com.vn/images/0bb06ede-174b-4148-aa45-232291b4102d.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Ổi Ngon",
+    "description": "<p><strong>Ổi là một loại trái cây bổ dưỡng và cung cấp nhiều chất dinh dưỡng cho cơ thể. Bên cạnh đó, ở một số quốc gia sử dụng Ổi như một loại dược liệu để chữa lành các vết thương và ngăn chặn nhiều bệnh lý trong cơ thể.</strong></p><p><br></p><p>Ổi là loại trái cây hình tròn hoặc bầu dục với vỏ màu xanh nhạt hoặc vàng. Thịt bên trong màu trắng hoặc đỏ hồng, có hạt, ăn được. Bên cạnh đó, lá Ổi đổi khi được sử dụng để chiết xuất trà và điều trị nhiều bệnh lý liên quan hệ hệ thống tiêu hóa.</p><p>Thịt Ổi chứa nhiều chất dinh dưỡng vượt trội có thể mang lại nhiều lợi ích cho sức khỏe</p>",
+    "imageUrl": "https://images.f99.com.vn/images/7a53bf19-b702-45c0-b2e8-98c86d0bb285.jpg",
+    "price": 22000,
+    "oldPrice": 25000,
+    "discountPercent": 12,
+    "stock": 24000,
+    "totalSold": 380,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "oi ngon",
+    "origin": "",
+    "sellerId": 250,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<ul><li><strong>Bảo quản ở nhiệt độ tủ mát để hoa quả tươi ngon.</strong></li><li><br></li><li><strong style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Cám ơn bạn đã tin tưởng ủng hộ shop</strong></li><li><strong style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\"> </strong><strong style=\"color: transparent; background-color: initial;\">♥</strong></li><li><strong style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bạn vui lòng kiểm tra hàng với tài xế trước khi nhận nha, nếu dập, thối ,hỏng cửa hàng xin phép đổi trả hoàn hàng tại thời điểm giao nhận hàng ạ.</strong></li></ul>",
+    "category": {
+      "id": 72,
+      "name": "Ổi",
+      "imageUrl": "https://imgur.com/NtvL6ke.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/7a53bf19-b702-45c0-b2e8-98c86d0bb285.jpg",
+      "https://images.f99.com.vn/images/a53427c0-f47f-419a-b2d7-d630b292d254.jpg",
+      "https://images.f99.com.vn/images/82197c2f-8c00-4f38-832d-4dde8593de9c.jpg",
+      "https://images.f99.com.vn/images/2c1794f0-2f6a-4675-8978-95bc15e863b0.jpg",
+      "https://images.f99.com.vn/images/5c678d3e-37ba-43e6-93de-99a9131063e0.jpg",
+      "https://images.f99.com.vn/images/0bb06ede-174b-4148-aa45-232291b4102d.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/71405",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg",
+          "Combo 10kg",
+          "Combo 3kg",
+          "Combo 5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 71406,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 23000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 6000,
+        "totalSold": 121,
+        "unit": "kg",
+        "sku": "oi ngon",
+        "rating": 5,
+        "instructions": "<ul><li><strong>Bảo quản ở nhiệt độ tủ mát để hoa quả tươi ngon.</strong></li><li><br></li><li><strong style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Cám ơn bạn đã tin tưởng ủng hộ shop</strong></li><li><strong style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\"> </strong><strong style=\"color: transparent; background-color: initial;\">♥</strong></li><li><strong style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bạn vui lòng kiểm tra hàng với tài xế trước khi nhận nha, nếu dập, thối ,hỏng cửa hàng xin phép đổi trả hoàn hàng tại thời điểm giao nhận hàng ạ.</strong></li></ul>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 71407,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 66000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 6000,
+        "totalSold": 92,
+        "unit": "kg",
+        "sku": "oi ngon",
+        "rating": 5,
+        "instructions": "<ul><li><strong>Bảo quản ở nhiệt độ tủ mát để hoa quả tươi ngon.</strong></li><li><br></li><li><strong style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Cám ơn bạn đã tin tưởng ủng hộ shop</strong></li><li><strong style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\"> </strong><strong style=\"color: transparent; background-color: initial;\">♥</strong></li><li><strong style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bạn vui lòng kiểm tra hàng với tài xế trước khi nhận nha, nếu dập, thối ,hỏng cửa hàng xin phép đổi trả hoàn hàng tại thời điểm giao nhận hàng ạ.</strong></li></ul>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 71408,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "14k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 109000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 6000,
+        "totalSold": 84,
+        "unit": "kg",
+        "sku": "oi ngon",
+        "rating": 5,
+        "instructions": "<ul><li><strong>Bảo quản ở nhiệt độ tủ mát để hoa quả tươi ngon.</strong></li><li><br></li><li><strong style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Cám ơn bạn đã tin tưởng ủng hộ shop</strong></li><li><strong style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\"> </strong><strong style=\"color: transparent; background-color: initial;\">♥</strong></li><li><strong style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bạn vui lòng kiểm tra hàng với tài xế trước khi nhận nha, nếu dập, thối ,hỏng cửa hàng xin phép đổi trả hoàn hàng tại thời điểm giao nhận hàng ạ.</strong></li></ul>",
+        "sellerId": 0,
+        "note": "14k/kg",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 71409,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 10kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 10kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 10kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 199000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 6000,
+        "totalSold": 83,
+        "unit": "kg",
+        "sku": "oi ngon",
+        "rating": 5,
+        "instructions": "<ul><li><strong>Bảo quản ở nhiệt độ tủ mát để hoa quả tươi ngon.</strong></li><li><br></li><li><strong style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Cám ơn bạn đã tin tưởng ủng hộ shop</strong></li><li><strong style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\"> </strong><strong style=\"color: transparent; background-color: initial;\">♥</strong></li><li><strong style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bạn vui lòng kiểm tra hàng với tài xế trước khi nhận nha, nếu dập, thối ,hỏng cửa hàng xin phép đổi trả hoàn hàng tại thời điểm giao nhận hàng ạ.</strong></li></ul>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 10kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 250,
+      "sellerRate": 4.7,
+      "sellerName": "Fresh Meat – Thịt Heo Sạch",
+      "warehouseId": "b9609c8f-7018-457c-8460-255c8c884fdc",
+      "warehouseAddress": "Số 10A, Ngõ 61 Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3512,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 67.83505059291078,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 77544,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Ổi Nữ Hoàng",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Ổi được trồng hoàn toàn theo hướng hữu cơ ở Lai Vung, Đồng Tháp bởi chủ vườn là một người đam mê, am hiểu rõ về nông nghiệp hữu cơ. Đảm bảo:</p><p>- Không sử dụng các loại thuốc trừ sâu, diệt côn trùng.</p><p>- Phân bón cho cây là phân bón hữu cơ ủ rom kèm vi sinh lên men và kết hợp cùng phân trâu, bò.</p><p>- Đốt rơm lấy kali để tạo đổ ngọt.</p><p>- Ổi ra quả được bọc cẩn thận từng trái, không phun thuốc BVTV hay bất kỳ loại thuốc hóa học nào khác.</p><p>- Chất lượng ổi đảm bảo sạch lành, giòn, ngọt</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/dcdcc0f2-cf9c-4d83-8d2a-7af6442ee81c.jpg\",\"https://images.f99.com.vn/images/9cb98b12-003b-4aa5-8ac7-4827b72c5040.jpeg\",\"https://images.f99.com.vn/images/84adf1cc-70fc-4e8b-bd9f-5ae9f25f5a1a.jpeg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Ổi Nữ Hoàng",
+    "description": "<p>Ổi được trồng hoàn toàn theo hướng hữu cơ ở Lai Vung, Đồng Tháp bởi chủ vườn là một người đam mê, am hiểu rõ về nông nghiệp hữu cơ. Đảm bảo:</p><p>- Không sử dụng các loại thuốc trừ sâu, diệt côn trùng.</p><p>- Phân bón cho cây là phân bón hữu cơ ủ rom kèm vi sinh lên men và kết hợp cùng phân trâu, bò.</p><p>- Đốt rơm lấy kali để tạo đổ ngọt.</p><p>- Ổi ra quả được bọc cẩn thận từng trái, không phun thuốc BVTV hay bất kỳ loại thuốc hóa học nào khác.</p><p>- Chất lượng ổi đảm bảo sạch lành, giòn, ngọt</p>",
+    "imageUrl": "https://images.f99.com.vn/images/dcdcc0f2-cf9c-4d83-8d2a-7af6442ee81c.jpg",
+    "price": 25000,
+    "oldPrice": 39000,
+    "discountPercent": 36,
+    "stock": 100,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 986,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 72,
+      "name": "Ổi",
+      "imageUrl": "https://imgur.com/NtvL6ke.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/dcdcc0f2-cf9c-4d83-8d2a-7af6442ee81c.jpg",
+      "https://images.f99.com.vn/images/9cb98b12-003b-4aa5-8ac7-4827b72c5040.jpeg",
+      "https://images.f99.com.vn/images/84adf1cc-70fc-4e8b-bd9f-5ae9f25f5a1a.jpeg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/77544",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 77545,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 25000,
+        "oldPrice": 39000,
+        "discountPercent": 36,
+        "stock": 100,
+        "totalSold": 3,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 986,
+      "sellerRate": 3.9,
+      "sellerName": "Sài Gòn 360 Fruit – Chi Nhánh Hà Nội",
+      "warehouseId": "75790ae8-72b3-4209-92cf-9c6b54fd691d",
+      "warehouseAddress": "38 Xuân La, Phường Xuân La, Quận Tây Hồ, Hà Nội",
+      "distance": 5326,
+      "warehouseDistrict": "tay ho",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

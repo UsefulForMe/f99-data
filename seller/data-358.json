@@ -1,0 +1,35 @@
+{
+  "id": 358,
+  "name": "Thực Phẩm Sạch RaMa",
+  "logo": "https://cdn.f99.link/groupbuy-images/d13e3952-6b7f-431a-82c8-a561c377e606.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Thực Phẩm Sạch RaMa : Chuyên cung cấp Lẩu Thái, phân phối thực phẩm đông lạnh nhập khẩu uy tín, chất lượng...",
+  "headQuarter": "26 Phố Xốm, Phú Lãm, Hà Đông, Hà Nội",
+  "email": "hoaoaihuong0804@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

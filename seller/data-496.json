@@ -1,0 +1,35 @@
+{
+  "id": 496,
+  "name": "AP FOOD",
+  "logo": "https://cdn.f99.link/groupbuy-images/08fbd11f-33f7-40ec-b6e0-cffbdd7ac0a9.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp, phân phối thực phẩm nhập khẩu trực tiếp đầy đủ hoá đơn giấy tờ hải quan ",
+  "headQuarter": "91 Hồng Tiến, Bồ Đề, Long Biên, Hà Nội",
+  "email": "apfoodvn.com@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

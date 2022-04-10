@@ -1,0 +1,35 @@
+{
+  "id": 239,
+  "name": "LINH-VN Bốn Mùa Hoa Trái",
+  "logo": "https://cdn.f99.link/groupbuy-images/ee2946b2-8f96-4d5b-b8d2-52360ece4ced.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "LINH tự hào mang đến các mặt hàng nông sản cao cấp Việt Nam được chọn lọc từ mọi miền Tổ quốc và trải qua quy trình chế biến khắt khe, không chỉ thơm ngon mà còn an toàn cho người sử dụng.",
+  "headQuarter": "Biệt thự BT5-5, khu Đoàn Ngoại Giao, phố Đỗ Nhuận, Xuân Tảo, Bắc Từ Liêm, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "16:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 2
+}

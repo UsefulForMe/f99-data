@@ -1,0 +1,35 @@
+{
+  "id": 892,
+  "name": "CỬA HÀNG RAU CỦ SẠCH ĐÀ LẠT CHÂU KHOA NGUYỄN",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/50369088-0d82-4b02-88a7-803ed7b30697.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "CHUYEN BÁN RAU CỦ ĐA LAT CHUẨN VIETGAP",
+  "headQuarter": "20 đường 762 Hồng Bàng, 1, Quận 11, Hồ Chí Minh",
+  "email": "CHAUKHOANGUYEN418@GMAIL.COM",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

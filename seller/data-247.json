@@ -1,0 +1,35 @@
+{
+  "id": 247,
+  "name": "Thiên Phú Seafood",
+  "logo": "https://cdn.f99.link/groupbuy-images/b673c9a7-3e80-4f97-b43f-082813393f69.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Là công ty chuyên phân phối các mặt hàng hải sản đông lạnh, được làm sạch và cấp đông nhanh với nhiệt độ -40 độ. Đóng gói khép kín, và vận chuyển bằng xe chuyên dụng tới các đại lý bán lẻ  hiện tại.",
+  "headQuarter": "48B LK 6b Làng Việt Kiều Châu Âu, Nguyễn Văn Lộc, Mỗ Lao, Hà Đông, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 2.8,
+  "availableTime": {
+    "openTime": "22:00",
+    "closeTime": "23:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

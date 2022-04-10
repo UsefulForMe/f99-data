@@ -1,0 +1,35 @@
+{
+  "id": 208,
+  "name": "CỬA TIỆM TIỂU MÀN THẦU",
+  "logo": "https://cdn.f99.link/groupbuy-images/21648800-bfeb-47dc-9ed3-b968caece0d6.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cửa Tiệm Tiểu Màn Thầu chuyên sỉ lẻ hoa quả nhập khẩu - vùng miền uy tín chất lượng, giá cả cạnh tranh.",
+  "headQuarter": "số 62 ngõ 141 Trích Sài, Bưởi, Tây Hồ, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 3.6,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

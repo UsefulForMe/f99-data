@@ -1,0 +1,35 @@
+{
+  "id": 729,
+  "name": "Best Farm",
+  "logo": "https://cdn.f99.link/groupbuy-images/03e4ed17-3455-4520-8134-081baee263ee.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên trái cây hữu cơ, giàu dưỡng chất và các loại đặc sản theo mùa",
+  "headQuarter": "7.2 block F chung cư Himlam Riverside, Hoàng Trọng Mậu, Tân Hưng, Quận 7, Hồ Chí Minh",
+  "email": "vietnamlumiere@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "16:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

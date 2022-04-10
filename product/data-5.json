@@ -1,0 +1,775 @@
+[
+  {
+    "id": 67269,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "1kg chanh leo",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Chanh leo bổ, mát</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/e28edbc2-fbfc-4fa6-bf6d-3782474ccdbc.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "1kg chanh leo",
+    "description": "<p>Chanh leo bổ, mát</p>",
+    "imageUrl": "https://images.f99.com.vn/images/e28edbc2-fbfc-4fa6-bf6d-3782474ccdbc.jpg",
+    "price": 35000,
+    "oldPrice": 40000,
+    "discountPercent": 12,
+    "stock": 100,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 359,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ngăn mát tủ lạnh</p>",
+    "category": {
+      "id": 5,
+      "name": "Việt Quất",
+      "imageUrl": "https://imgur.com/YRCcP5V.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/e28edbc2-fbfc-4fa6-bf6d-3782474ccdbc.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/67269",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 67270,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 35000,
+        "oldPrice": 40000,
+        "discountPercent": 12,
+        "stock": 100,
+        "totalSold": 3,
+        "unit": "Kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ngăn mát tủ lạnh</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 359,
+      "sellerRate": 4.4,
+      "sellerName": "Quang Anh- Hoa quả tươi theo mùa",
+      "warehouseId": "b29cda85-3ce5-4127-9c6b-1eb1a04399dc",
+      "warehouseAddress": " Hà Nội,  Hai Bà Trưng,  Vĩnh Tuy, NT9, Ngõ 124 Vĩnh Tuy",
+      "distance": 5482,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 70.9110772740987,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 79116,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Việt Quất",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Việt Quất ăn vị ngọt thanh </p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/f239e40d-5b40-4b79-b599-f5ff5ebde753.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Việt Quất",
+    "description": "<p>Việt Quất ăn vị ngọt thanh </p>",
+    "imageUrl": "https://images.f99.com.vn/images/f239e40d-5b40-4b79-b599-f5ff5ebde753.jpg",
+    "price": 79000,
+    "oldPrice": 99000,
+    "discountPercent": 20,
+    "stock": 100,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "1 hộp",
+    "sku": "",
+    "origin": "",
+    "sellerId": 118,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ở nhiệt độ từ 16-20 độ </p>",
+    "category": {
+      "id": 5,
+      "name": "Việt Quất",
+      "imageUrl": "https://imgur.com/YRCcP5V.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/f239e40d-5b40-4b79-b599-f5ff5ebde753.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/79116",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 hộp"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 79117,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 hộp",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 hộp",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 hộp",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 79000,
+        "oldPrice": 99000,
+        "discountPercent": 20,
+        "stock": 100,
+        "totalSold": 3,
+        "unit": "1 hộp",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ở nhiệt độ từ 16-20 độ </p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 hộp"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 118,
+      "sellerRate": 3.9,
+      "sellerName": "Đinh Hương Fruit",
+      "warehouseId": "7d5007b2-5563-4d11-a461-2b659e39fcf0",
+      "warehouseAddress": "64 Khương Đình, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",
+      "distance": 3572,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 55.8364615384624,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 85255,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "VIỆT QUẤT JUMBO",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>💋💋 VIỆT QUẤT JUMBO EM VỀ CHUYẾN MỚI ✈✈</p><p><br></p><p>💫 Việt quất là loại tráicâynhậpkhẩu ngoài việc ăn rất ngon miệng còn mang lại ích lợi cho sức khỏe đến không ngờ và đa dạng các thành phần dinh dưỡng. Đó chính là lí do quả việt quất luôn là lựa chọn hàng đầu của các gia đình ngày nay.</p><p>✅ Tăng sức đề kháng chống dịch, giảm quá trình oxy hóa, ngăn ngừa lão hóa</p><p>✅ Tốt cho tim mạch</p><p>✅ Tốt cho thị lực</p><p>✅ Hỗ trợ hệ tiêu hóa</p><p>✅ Giúp giảm cân và đẹp da</p><p>✅ Cải thiện trí nhớ</p><p>-----</p><p>💫 Cách bảo quản quả việt quất:</p><p>- Vỏ của quả việt quất có lớp phấn trắng bảo vệ, bạn nên cho vào hộp và cất vào tủ lanh, chỉ rửa trước khi ăn.</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sỉ thùng inbox em nhé&nbsp;</p><p><br></p><p>🌺🌺🌺 Xin mời các bác💋💋💋</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/6c382a82-b33c-467b-a9fa-39a0cf2b535b.jpg\",\"https://images.f99.com.vn/images/afde2b23-7853-4df3-8f58-2609d9cc5d5e.jpg\",\"https://images.f99.com.vn/images/b98e3430-6a07-40a4-82ac-b9bb98a703c9.jpg\",\"https://images.f99.com.vn/images/d928b679-f3bc-40c4-b6e4-c3b4406595ff.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "VIỆT QUẤT JUMBO",
+    "description": "<p>💋💋 VIỆT QUẤT JUMBO EM VỀ CHUYẾN MỚI ✈✈</p><p><br></p><p>💫 Việt quất là loại tráicâynhậpkhẩu ngoài việc ăn rất ngon miệng còn mang lại ích lợi cho sức khỏe đến không ngờ và đa dạng các thành phần dinh dưỡng. Đó chính là lí do quả việt quất luôn là lựa chọn hàng đầu của các gia đình ngày nay.</p><p>✅ Tăng sức đề kháng chống dịch, giảm quá trình oxy hóa, ngăn ngừa lão hóa</p><p>✅ Tốt cho tim mạch</p><p>✅ Tốt cho thị lực</p><p>✅ Hỗ trợ hệ tiêu hóa</p><p>✅ Giúp giảm cân và đẹp da</p><p>✅ Cải thiện trí nhớ</p><p>-----</p><p>💫 Cách bảo quản quả việt quất:</p><p>- Vỏ của quả việt quất có lớp phấn trắng bảo vệ, bạn nên cho vào hộp và cất vào tủ lanh, chỉ rửa trước khi ăn.</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sỉ thùng inbox em nhé&nbsp;</p><p><br></p><p>🌺🌺🌺 Xin mời các bác💋💋💋</p>",
+    "imageUrl": "https://images.f99.com.vn/images/6c382a82-b33c-467b-a9fa-39a0cf2b535b.jpg",
+    "price": 49000,
+    "oldPrice": 69000,
+    "discountPercent": 29,
+    "stock": 0,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "hộp",
+    "sku": "",
+    "origin": "",
+    "sellerId": 1016,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 5,
+      "name": "Việt Quất",
+      "imageUrl": "https://imgur.com/YRCcP5V.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/6c382a82-b33c-467b-a9fa-39a0cf2b535b.jpg",
+      "https://images.f99.com.vn/images/afde2b23-7853-4df3-8f58-2609d9cc5d5e.jpg",
+      "https://images.f99.com.vn/images/b98e3430-6a07-40a4-82ac-b9bb98a703c9.jpg",
+      "https://images.f99.com.vn/images/d928b679-f3bc-40c4-b6e4-c3b4406595ff.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/85255",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "hộp"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 85256,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 hộp",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "hộp",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 hộp",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 49000,
+        "oldPrice": 69000,
+        "discountPercent": 29,
+        "stock": 0,
+        "totalSold": 0,
+        "unit": "hộp",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "hộp"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1016,
+      "sellerRate": 3.7,
+      "sellerName": "JULY FRUITS ",
+      "warehouseId": "ed20bc51-5b98-4a51-9961-f6a70455be3a",
+      "warehouseAddress": "Số 56 đường 19/5 Văn Quán Hà Đông Hà Nội, Văn Quán, Hà Đông, Hà Nội",
+      "distance": 6777,
+      "warehouseDistrict": "ha dong",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 96734,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "VIỆT QUẤT ÚC",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h2>Quả việt quất làm tổn thương oxy hóa DNA, giúp chống lão hóa và ung thư</h2><p>Tổn thương oxy hóa DNA là quá trình tự nhiên không thể tránh khỏi trong cuộc sống hàng ngày. Nó được cho là xảy ra hàng chục ngàn lần mỗi ngày ở mỗi tế bào trong cơ thể bạn. Tổn thương oxy hóa DNA là một phần lý do khiến chúng ta già đi và phát triển các bệnh như&nbsp;<a href=\"https://www.vinmec.com/vi/tin-tuc/thong-tin-suc-khoe/ung-buou-xa-tri/danh-sach-cac-benh-ung-thu-pho-bien-nhat-va-cach-phat-hien-ra-chung/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 102, 166);\"><strong>ung thư</strong>.</a></p><p>Vì quả việt quất có nhiều chất chống oxy hóa, chúng có thể vô hiệu hóa một số gốc tự do gây tổn hại DNA của bạn. Trong một nghiên cứu trên 168 người đã uống 1 lít nước ép quả&nbsp;<strong>việt quất</strong>&nbsp;và táo mỗi ngày. Sau bốn tuần, tổn thương oxy hóa DNA do các gốc tự do đã giảm 20%. Những phát hiện này tương đồng với các nghiên cứu nhỏ hơn sử dụng quả việt quất tươi hoặc dạng bột. Quả việt quất bảo vệ tổn thương cholesterol trong máu</p><p>Tổn thương oxy hóa diễn ra thường xuyên và không giới hạn ở các tế bào và DNA của bạn. Tương tự chúng cũng có thể gây tổn thương cholesterol xấu LDL. Trên thực tế, sự oxy hóa&nbsp;<a href=\"https://www.vinmec.com/vi/tin-tuc/thong-tin-suc-khoe/chi-so-ldl-cholesterol-trong-mau-la-gi-/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 102, 166);\"><strong>cholesterol xấu LDL</strong></a>&nbsp;là một nguyên nhân dẫn tới bệnh tim.</p><p>Các chất chống oxy hóa trong quả việt quất có tác dụng rất tốt trong việc giảm mức độ oxy hóa của LDL. Điều này làm cho quả việt quất trở thành loại quả rất tốt cho trái tim của bạn.</p><p>Một khẩu phần ăn 50 gram quả việt quất hàng ngày giúp làm giảm quá trình oxy hóa LDL xuống 27% trong tám tuần ở những người béo phì bị béo phì. Một nghiên cứu khác xác định rằng ăn 75 gram quả việt quất trong bữa ăn chính làm giảm đáng kể sự oxy hóa của cholesterol xấu LDL.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/89006559-d9f2-4c0e-88d8-0b4331dc1c96.jpg\",\"https://images.f99.com.vn/images/4bfc8171-5d5a-4c28-9fa3-625a5619a93e.jpg\",\"https://images.f99.com.vn/images/458cdb09-f355-45ca-9719-9d2f8c8da2d4.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "VIỆT QUẤT ÚC",
+    "description": "<h2>Quả việt quất làm tổn thương oxy hóa DNA, giúp chống lão hóa và ung thư</h2><p>Tổn thương oxy hóa DNA là quá trình tự nhiên không thể tránh khỏi trong cuộc sống hàng ngày. Nó được cho là xảy ra hàng chục ngàn lần mỗi ngày ở mỗi tế bào trong cơ thể bạn. Tổn thương oxy hóa DNA là một phần lý do khiến chúng ta già đi và phát triển các bệnh như&nbsp;<a href=\"https://www.vinmec.com/vi/tin-tuc/thong-tin-suc-khoe/ung-buou-xa-tri/danh-sach-cac-benh-ung-thu-pho-bien-nhat-va-cach-phat-hien-ra-chung/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 102, 166);\"><strong>ung thư</strong>.</a></p><p>Vì quả việt quất có nhiều chất chống oxy hóa, chúng có thể vô hiệu hóa một số gốc tự do gây tổn hại DNA của bạn. Trong một nghiên cứu trên 168 người đã uống 1 lít nước ép quả&nbsp;<strong>việt quất</strong>&nbsp;và táo mỗi ngày. Sau bốn tuần, tổn thương oxy hóa DNA do các gốc tự do đã giảm 20%. Những phát hiện này tương đồng với các nghiên cứu nhỏ hơn sử dụng quả việt quất tươi hoặc dạng bột. Quả việt quất bảo vệ tổn thương cholesterol trong máu</p><p>Tổn thương oxy hóa diễn ra thường xuyên và không giới hạn ở các tế bào và DNA của bạn. Tương tự chúng cũng có thể gây tổn thương cholesterol xấu LDL. Trên thực tế, sự oxy hóa&nbsp;<a href=\"https://www.vinmec.com/vi/tin-tuc/thong-tin-suc-khoe/chi-so-ldl-cholesterol-trong-mau-la-gi-/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 102, 166);\"><strong>cholesterol xấu LDL</strong></a>&nbsp;là một nguyên nhân dẫn tới bệnh tim.</p><p>Các chất chống oxy hóa trong quả việt quất có tác dụng rất tốt trong việc giảm mức độ oxy hóa của LDL. Điều này làm cho quả việt quất trở thành loại quả rất tốt cho trái tim của bạn.</p><p>Một khẩu phần ăn 50 gram quả việt quất hàng ngày giúp làm giảm quá trình oxy hóa LDL xuống 27% trong tám tuần ở những người béo phì bị béo phì. Một nghiên cứu khác xác định rằng ăn 75 gram quả việt quất trong bữa ăn chính làm giảm đáng kể sự oxy hóa của cholesterol xấu LDL.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/89006559-d9f2-4c0e-88d8-0b4331dc1c96.jpg",
+    "price": 140000,
+    "oldPrice": 148000,
+    "discountPercent": 5,
+    "stock": 5,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "HỘP",
+    "sku": "",
+    "origin": "",
+    "sellerId": 277,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>ĐỂ TỦ LẠNH ĐƯỢC LÂU HƠN</p>",
+    "category": {
+      "id": 5,
+      "name": "Việt Quất",
+      "imageUrl": "https://imgur.com/YRCcP5V.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/89006559-d9f2-4c0e-88d8-0b4331dc1c96.jpg",
+      "https://images.f99.com.vn/images/4bfc8171-5d5a-4c28-9fa3-625a5619a93e.jpg",
+      "https://images.f99.com.vn/images/458cdb09-f355-45ca-9719-9d2f8c8da2d4.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/96734",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "HỘP"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 96735,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 HỘP",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "HỘP",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 HỘP",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 140000,
+        "oldPrice": 148000,
+        "discountPercent": 5,
+        "stock": 5,
+        "totalSold": 0,
+        "unit": "HỘP",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>ĐỂ TỦ LẠNH ĐƯỢC LÂU HƠN</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "HỘP"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 277,
+      "sellerRate": 4.4,
+      "sellerName": "Cửa hàng trái cây nhập khẩu Fresh Safe Fruits ",
+      "warehouseId": "3e83d44f-ec12-4b20-91a8-4e64e47bf46f",
+      "warehouseAddress": "Số ML6-23 đường Mộc Lan, Khu đô thị Vinhomes Green Bay, Mễ Trì, Nam Từ Liêm, Hà Nội",
+      "distance": 5793,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 71.89346119658168,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

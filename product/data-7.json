@@ -1,0 +1,3966 @@
+[
+  {
+    "id": 3803,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dâu Tây Hàn Quốc",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Dâu tây Hàn Quốc được mệnh danh là “nữ hoàng trái cây”.&nbsp;</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Hương thơm tự nhiên, sắc đỏ quyến rũ cùng vị ngọt thanh..</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Bảo quản tươi ngon và giao hàng đến tận tay quý khách.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">﻿</span><img src=\"https://images.f99.com.vn/images/6f17871d-3c88-4328-b931-7094786743ee.JPG\"></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">THÔNG TIN SẢN PHẨM:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dâu Tây Hàn Quốc được trồng ở nhà kính thông minh (smart farm) hoàn toàn tự động hóa.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✓ Dâu Tây Hàn Quốc có vẻ ngoài bắt mắt, quả to đều, hương thơm đặc trưng.</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">GIÁ TRỊ DINH DƯỠNG:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dâu tây Hàn Quốc chứa hàm lượng lớn vitamin và chất khoáng.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Giúp tăng sức đề kháng, chống nhiễm trùng, nhiễm độc, cảm cúm và chống stress, chống lão hóa, giảm tác hại của thuốc lá và các loại đồ uống gây hại cho cơ thể.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dâu tây vị ngọt, chua, tính mát, công hiệu bổ phổi, điều hòa chức năng tiêu hóa, bồi bổ cơ thể, mát máu, giải độc.&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dùng chữa các chứng như ho do phổi nóng, cổ họng sưng đau, chán ăn, tiểu gắt, thiếu máu suy nhược, ung nhọt, say rượu…</span></p><p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">HƯỚNG DẪN SỬ DỤNG:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓&nbsp;Thường được sử dụng để ăn trực tiếp.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✓&nbsp;Có thể ép nước, ăn kèm sữa chua, trộn salad.</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">HƯỚNG DẪN BẢO QUẢN:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Cách bảo quản Dâu tây tốt nhất: lấy một hộp kín, xếp dâu tây thành các tầng (ngăn cách nhau bởi lớp khăn giấy mỏng), xếp lần lượt các quả dâu vào các tầng với số lượng tăng dần từ dưới lên trên.&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Sau đó, đặt hộp vào tủ lạnh với nhiệt độ khoảng 0 - 4 độ C để giữ quả tươi ngon lâu hơn. Dâu tây có thể được lưu trữ trong tủ lạnh từ 3 - 5 ngày.&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Không nên để dâu tây ở nhiệt độ phòng hoặc trong ánh sáng mặt trời trực tiếp quá lâu vì điều này sẽ làm cho chúng nhanh hư hỏng.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/2f349754-c78e-4a48-af65-413b2f4c6322.png\",\"https://images.f99.com.vn/images/95e831dc-a94e-4200-8611-f57d77cd8555.png\",\"https://images.f99.com.vn/images/c9921e4d-149c-4880-b3bc-444f6a848cb1.png\",\"https://images.f99.com.vn/images/57de235b-fbc4-44ea-9a21-94904f5ae4d7.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dâu Tây Hàn Quốc",
+    "description": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Dâu tây Hàn Quốc được mệnh danh là “nữ hoàng trái cây”.&nbsp;</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Hương thơm tự nhiên, sắc đỏ quyến rũ cùng vị ngọt thanh..</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Bảo quản tươi ngon và giao hàng đến tận tay quý khách.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">﻿</span><img src=\"https://images.f99.com.vn/images/6f17871d-3c88-4328-b931-7094786743ee.JPG\"></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">THÔNG TIN SẢN PHẨM:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dâu Tây Hàn Quốc được trồng ở nhà kính thông minh (smart farm) hoàn toàn tự động hóa.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✓ Dâu Tây Hàn Quốc có vẻ ngoài bắt mắt, quả to đều, hương thơm đặc trưng.</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">GIÁ TRỊ DINH DƯỠNG:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dâu tây Hàn Quốc chứa hàm lượng lớn vitamin và chất khoáng.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Giúp tăng sức đề kháng, chống nhiễm trùng, nhiễm độc, cảm cúm và chống stress, chống lão hóa, giảm tác hại của thuốc lá và các loại đồ uống gây hại cho cơ thể.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dâu tây vị ngọt, chua, tính mát, công hiệu bổ phổi, điều hòa chức năng tiêu hóa, bồi bổ cơ thể, mát máu, giải độc.&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Dùng chữa các chứng như ho do phổi nóng, cổ họng sưng đau, chán ăn, tiểu gắt, thiếu máu suy nhược, ung nhọt, say rượu…</span></p><p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">HƯỚNG DẪN SỬ DỤNG:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓&nbsp;Thường được sử dụng để ăn trực tiếp.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✓&nbsp;Có thể ép nước, ăn kèm sữa chua, trộn salad.</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">HƯỚNG DẪN BẢO QUẢN:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Cách bảo quản Dâu tây tốt nhất: lấy một hộp kín, xếp dâu tây thành các tầng (ngăn cách nhau bởi lớp khăn giấy mỏng), xếp lần lượt các quả dâu vào các tầng với số lượng tăng dần từ dưới lên trên.&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Sau đó, đặt hộp vào tủ lạnh với nhiệt độ khoảng 0 - 4 độ C để giữ quả tươi ngon lâu hơn. Dâu tây có thể được lưu trữ trong tủ lạnh từ 3 - 5 ngày.&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Không nên để dâu tây ở nhiệt độ phòng hoặc trong ánh sáng mặt trời trực tiếp quá lâu vì điều này sẽ làm cho chúng nhanh hư hỏng.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/2f349754-c78e-4a48-af65-413b2f4c6322.png",
+    "price": 179000,
+    "oldPrice": 319000,
+    "discountPercent": 44,
+    "stock": 100,
+    "totalSold": 1596,
+    "maxQuantityPerUser": null,
+    "unit": "Hộp",
+    "sku": "20000827",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.5,
+    "instructions": null,
+    "category": {
+      "id": 7,
+      "name": "Dâu tây",
+      "imageUrl": "https://imgur.com/KYrGoLu.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/2f349754-c78e-4a48-af65-413b2f4c6322.png",
+      "https://images.f99.com.vn/images/95e831dc-a94e-4200-8611-f57d77cd8555.png",
+      "https://images.f99.com.vn/images/c9921e4d-149c-4880-b3bc-444f6a848cb1.png",
+      "https://images.f99.com.vn/images/57de235b-fbc4-44ea-9a21-94904f5ae4d7.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/3803",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 hộp"
+        ]
+      },
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "Hộp 330g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 5070,
+        "attributeTextValues": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 hộp",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Hộp 330g",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Hộp 330g / 1 hộp",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Hộp 330g / 1 hộp",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 179000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 1596,
+        "unit": "Hộp",
+        "sku": "20000827",
+        "rating": 4.5,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 hộp"
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Hộp 330g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 4257,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dây Tây Mộc Châu Size  35 - 45 quả hộp 500g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p Class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(51, 51, 51);\">Dâu tây là một trong những loại quả được nhiều người yêu thích, đặc biệt là phái nữ</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Đảm bảo chất lượng và nguồn gốc xuất xứ.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Bảo quản tươi ngon và giao hàng đến tận tay khách hàng.</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">THÔNG TIN SẢN PHẨM&nbsp;</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(51, 51, 51);\">Dâu tây Mộc Châu nổi tiếng bởi sự tươi ngon và đẹp mắt, từng quả mọng chín đỏ phất phơ trong tiết trời se lạnh. Dịp cuối đông, đầu xuân là mùa dâu tây chín rộ. Đi đến đâu cũng thấy dâu đỏ ngập cả một vùng rực rỡ.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(17, 17, 17);\">Dâu tây đem lại nhiều dưỡng chất cần thiết cho cơ thể, nhất là lượng vitamin C. Vitamin C là chất có khả năng tăng cường miễn dịch đồng thời còn là một chất chống oxy hóa mạnh mẽ.</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">GIÁ TRỊ DINH DƯỠNG:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Tốt cho bà bầu </strong><span style=\"color: rgb(51, 51, 51);\">: Ăn dâu tây sẽ giúp cung cấp cho hai mẹ con các vitamin và chất khoáng cần thiết.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Bổ mắt và giảm quầng thâm : </strong><span style=\"color: rgb(51, 51, 51);\">dâu tây sẽ rất có ích bởi chúng có khả năng chống viêm và làm sáng da. Thêm vào đó, vitamin C trong dâu tây hạn chế các bệnh về mắt như đục thủy tinh thể.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Chống ung thư </strong><span style=\"color: rgb(51, 51, 51);\">Chất chống oxy hóa và kháng viêm trong dâu tây chống lại sự tăng sinh các khối u và ngăn khối u không lan rộng.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Chống hen và dị ứng </strong><span style=\"color: rgb(51, 51, 51);\">: Dâu tây có các chất kháng viêm, dâu tây làm giảm các triệu chứng như sổ mũi, chảy nước mắt và nổi mề đay.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Giảm nguy cơ đau tim : </strong><span style=\"color: rgb(51, 51, 51);\">Dâu tây giúp kiểm soát LDL, một loại cholesterol có hại. Vitamin C trong loại quả này còn hỗ trợ lưu thông máu.</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">HƯỚNG DẪN SỬ DỤNG:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Cho dâu tây vào một hộp kín, xếp thành các tầng (ngăn cách nhau bởi lớp khăn giấy mỏng). Sau đó, đặt hộp vào tủ lạnh với nhiệt độ khoảng 0-4 độ C để giữ quả tươi ngon lâu hơn. Dâu tây có thể được lưu trữ trong tủ lạnh từ 3 – 5 ngày.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Không để dâu tây ở nhiệt độ phòng, hoặc trong ánh sáng mặt trời trực tiếp quá lâu vì điều này sẽ làm cho chúng nhanh hư hỏng.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Chỉ rửa dâu tây trước khi ăn hoặc trước khi chế biến món ăn.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/6d50085e-3d2f-4a12-8c79-cb9d3e856e25.png\",\"https://images.f99.com.vn/images/83dee0eb-31c5-41bc-87c3-0081f912cdba.png\",\"https://images.f99.com.vn/images/a5fca3b2-11fd-4024-a61b-23bc71d2a4cb.png\",\"https://images.f99.com.vn/images/773d1cf6-d20d-4554-ae19-3da700bed888.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Dâu tây\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dây Tây Mộc Châu Size  35 - 45 quả hộp 500g",
+    "description": "<p Class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(51, 51, 51);\">Dâu tây là một trong những loại quả được nhiều người yêu thích, đặc biệt là phái nữ</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Đảm bảo chất lượng và nguồn gốc xuất xứ.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Bảo quản tươi ngon và giao hàng đến tận tay khách hàng.</span></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">THÔNG TIN SẢN PHẨM&nbsp;</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(51, 51, 51);\">Dâu tây Mộc Châu nổi tiếng bởi sự tươi ngon và đẹp mắt, từng quả mọng chín đỏ phất phơ trong tiết trời se lạnh. Dịp cuối đông, đầu xuân là mùa dâu tây chín rộ. Đi đến đâu cũng thấy dâu đỏ ngập cả một vùng rực rỡ.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(17, 17, 17);\">Dâu tây đem lại nhiều dưỡng chất cần thiết cho cơ thể, nhất là lượng vitamin C. Vitamin C là chất có khả năng tăng cường miễn dịch đồng thời còn là một chất chống oxy hóa mạnh mẽ.</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">GIÁ TRỊ DINH DƯỠNG:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Tốt cho bà bầu </strong><span style=\"color: rgb(51, 51, 51);\">: Ăn dâu tây sẽ giúp cung cấp cho hai mẹ con các vitamin và chất khoáng cần thiết.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Bổ mắt và giảm quầng thâm : </strong><span style=\"color: rgb(51, 51, 51);\">dâu tây sẽ rất có ích bởi chúng có khả năng chống viêm và làm sáng da. Thêm vào đó, vitamin C trong dâu tây hạn chế các bệnh về mắt như đục thủy tinh thể.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Chống ung thư </strong><span style=\"color: rgb(51, 51, 51);\">Chất chống oxy hóa và kháng viêm trong dâu tây chống lại sự tăng sinh các khối u và ngăn khối u không lan rộng.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Chống hen và dị ứng </strong><span style=\"color: rgb(51, 51, 51);\">: Dâu tây có các chất kháng viêm, dâu tây làm giảm các triệu chứng như sổ mũi, chảy nước mắt và nổi mề đay.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Giảm nguy cơ đau tim : </strong><span style=\"color: rgb(51, 51, 51);\">Dâu tây giúp kiểm soát LDL, một loại cholesterol có hại. Vitamin C trong loại quả này còn hỗ trợ lưu thông máu.</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">HƯỚNG DẪN SỬ DỤNG:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Cho dâu tây vào một hộp kín, xếp thành các tầng (ngăn cách nhau bởi lớp khăn giấy mỏng). Sau đó, đặt hộp vào tủ lạnh với nhiệt độ khoảng 0-4 độ C để giữ quả tươi ngon lâu hơn. Dâu tây có thể được lưu trữ trong tủ lạnh từ 3 – 5 ngày.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Không để dâu tây ở nhiệt độ phòng, hoặc trong ánh sáng mặt trời trực tiếp quá lâu vì điều này sẽ làm cho chúng nhanh hư hỏng.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Chỉ rửa dâu tây trước khi ăn hoặc trước khi chế biến món ăn.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/6d50085e-3d2f-4a12-8c79-cb9d3e856e25.png",
+    "price": 169000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 100,
+    "totalSold": 19,
+    "maxQuantityPerUser": null,
+    "unit": "Hộp",
+    "sku": "20006108",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.9,
+    "instructions": "",
+    "category": {
+      "id": 7,
+      "name": "Dâu tây",
+      "imageUrl": "https://imgur.com/KYrGoLu.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Dâu tây"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/6d50085e-3d2f-4a12-8c79-cb9d3e856e25.png",
+      "https://images.f99.com.vn/images/83dee0eb-31c5-41bc-87c3-0081f912cdba.png",
+      "https://images.f99.com.vn/images/a5fca3b2-11fd-4024-a61b-23bc71d2a4cb.png",
+      "https://images.f99.com.vn/images/773d1cf6-d20d-4554-ae19-3da700bed888.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/4257",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Hộp"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 92726,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Hộp",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Hộp",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Hộp",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 169000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 19,
+        "unit": "Hộp",
+        "sku": "20006108",
+        "rating": 4.9,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Hộp"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 71525,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dâu Tây",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dâu tây ngon ngọt mê li luôn bảo quản lạnh ăn sẽ ngon hơn thích hợp tặng quà lễ tết, quả to ngon thơm ngon</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/78644248-fc0f-4f54-a239-03c3d6c0c180.jpg\",\"https://images.f99.com.vn/images/a6068340-0deb-491c-af3a-0140ef1e6247.jpg\",\"https://images.f99.com.vn/images/7da147fc-3715-421d-9437-ff96635c992e.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"dâu tây\",\"dâu\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dâu Tây",
+    "description": "<p>Dâu tây ngon ngọt mê li luôn bảo quản lạnh ăn sẽ ngon hơn thích hợp tặng quà lễ tết, quả to ngon thơm ngon</p>",
+    "imageUrl": "https://images.f99.com.vn/images/78644248-fc0f-4f54-a239-03c3d6c0c180.jpg",
+    "price": 115000,
+    "oldPrice": 120000,
+    "discountPercent": 4,
+    "stock": 1000,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "500g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 484,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 7,
+      "name": "Dâu tây",
+      "imageUrl": "https://imgur.com/KYrGoLu.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "dâu tây",
+      "dâu"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/78644248-fc0f-4f54-a239-03c3d6c0c180.jpg",
+      "https://images.f99.com.vn/images/a6068340-0deb-491c-af3a-0140ef1e6247.jpg",
+      "https://images.f99.com.vn/images/7da147fc-3715-421d-9437-ff96635c992e.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/71525",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "500g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 96352,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 115000,
+        "oldPrice": 120000,
+        "discountPercent": 4,
+        "stock": 1000,
+        "totalSold": 1,
+        "unit": "500g",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 484,
+      "sellerRate": 4.6,
+      "sellerName": "HOME FRUITS",
+      "warehouseId": "c9100430-cbd7-4e59-a914-9ce7a7071cbc",
+      "warehouseAddress": "Số 172 Trần Bình, phường Mỹ Đình, Quận Nam Từ Liêm, Hà Nội",
+      "distance": 6740,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 80.48249894439043,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 74700,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dâu tây Hàn Quốc",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dâu tây nhập khẩu chính hãng Hàn Quốc</p><p>Loại dâu tây được mệnh danh là ngon nhất, dâu tây có quả bóng nhọn rất đẹp.</p><p>Dâu có mùi thơm nồng và vị ngọt lịm</p><p>=&gt; Dâu tây là sản phẩm mang lại hàm lượng chất dinh dưỡng cao, dâu tây có:</p><ul><li>Hợp chất Orac trong dâu còn có khả năng chống oxy hoá của cơ thể, trung bình trong 100g dâu có chứa 3577 mol hợp chất này.</li><li>Trái dâu cũng chứa một lượng cao vitamin B6, niacin, riboflavin, acid folic, pantothenic acid… Các vitamin này là yếu tố căn bản giúp chuyển hoá carbohydrate, protein và chất béo.</li><li>Ngoài ra, dâu tây cũng chứa một hàm lượng lớn các khoáng chất như kali, mangan, flo, đồng, sẳt…</li></ul>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/51418e6a-29ab-40cf-9f7f-fbff77414ea3.jpg\",\"https://images.f99.com.vn/images/42fa6634-05a6-408b-9e5a-89681128fb02.jpg\",\"https://images.f99.com.vn/images/3250e05e-b8f5-4343-bf61-d5b61327b5ec.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dâu tây Hàn Quốc",
+    "description": "<p>Dâu tây nhập khẩu chính hãng Hàn Quốc</p><p>Loại dâu tây được mệnh danh là ngon nhất, dâu tây có quả bóng nhọn rất đẹp.</p><p>Dâu có mùi thơm nồng và vị ngọt lịm</p><p>=&gt; Dâu tây là sản phẩm mang lại hàm lượng chất dinh dưỡng cao, dâu tây có:</p><ul><li>Hợp chất Orac trong dâu còn có khả năng chống oxy hoá của cơ thể, trung bình trong 100g dâu có chứa 3577 mol hợp chất này.</li><li>Trái dâu cũng chứa một lượng cao vitamin B6, niacin, riboflavin, acid folic, pantothenic acid… Các vitamin này là yếu tố căn bản giúp chuyển hoá carbohydrate, protein và chất béo.</li><li>Ngoài ra, dâu tây cũng chứa một hàm lượng lớn các khoáng chất như kali, mangan, flo, đồng, sẳt…</li></ul>",
+    "imageUrl": "https://images.f99.com.vn/images/51418e6a-29ab-40cf-9f7f-fbff77414ea3.jpg",
+    "price": 199000,
+    "oldPrice": 219000,
+    "discountPercent": 9,
+    "stock": 100000,
+    "totalSold": 11,
+    "maxQuantityPerUser": null,
+    "unit": "g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 460,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 7,
+      "name": "Dâu tây",
+      "imageUrl": "https://imgur.com/KYrGoLu.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/51418e6a-29ab-40cf-9f7f-fbff77414ea3.jpg",
+      "https://images.f99.com.vn/images/42fa6634-05a6-408b-9e5a-89681128fb02.jpg",
+      "https://images.f99.com.vn/images/3250e05e-b8f5-4343-bf61-d5b61327b5ec.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/74700",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 74701,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 199000,
+        "oldPrice": 219000,
+        "discountPercent": 9,
+        "stock": 100000,
+        "totalSold": 11,
+        "unit": "g",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 460,
+      "sellerRate": 4.9,
+      "sellerName": "Jin Fruit - Trái cây sạch vùng miền",
+      "warehouseId": "dc468ba7-d462-455d-a88a-44fc43830c77",
+      "warehouseAddress": "số 2 ngõ 36 An Hòa, Mỗ Lao, Hà Đông",
+      "distance": 6711,
+      "warehouseDistrict": null,
+      "reputation": 82.81269284994997,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 78737,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dâu tây ngọt Hana Mộc Châu - 0.5kg",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dâu tây Hana Mộc Châu:</p><p><br></p><ul><li>Trái to đều</li><li>Mùi của dâu thơm nhẹ ,vị ngọt đậm.</li><li>Dâu tây giống Nhật Bản sở hữu màu đỏ sẫm.</li><li>Có dùng làm quà biếu hoặc mang đi xa.</li></ul>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/d116dc8b-9962-47b2-8c6c-a5017aa77ee6.jpg\",\"https://images.f99.com.vn/images/4ae3735e-59ca-4975-87b5-0c92d2bcb8de.jpg\",\"https://images.f99.com.vn/images/b5062da0-5069-4a22-a47d-30423fc832ec.jpg\",\"https://images.f99.com.vn/images/6690ed52-8670-46ed-ac40-261b874fc055.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dâu tây ngọt Hana Mộc Châu - 0.5kg",
+    "description": "<p>Dâu tây Hana Mộc Châu:</p><p><br></p><ul><li>Trái to đều</li><li>Mùi của dâu thơm nhẹ ,vị ngọt đậm.</li><li>Dâu tây giống Nhật Bản sở hữu màu đỏ sẫm.</li><li>Có dùng làm quà biếu hoặc mang đi xa.</li></ul>",
+    "imageUrl": "https://images.f99.com.vn/images/d116dc8b-9962-47b2-8c6c-a5017aa77ee6.jpg",
+    "price": 99000,
+    "oldPrice": 179000,
+    "discountPercent": 45,
+    "stock": 415,
+    "totalSold": 67,
+    "maxQuantityPerUser": null,
+    "unit": "0.5kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 79,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 7,
+      "name": "Dâu tây",
+      "imageUrl": "https://imgur.com/KYrGoLu.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/d116dc8b-9962-47b2-8c6c-a5017aa77ee6.jpg",
+      "https://images.f99.com.vn/images/4ae3735e-59ca-4975-87b5-0c92d2bcb8de.jpg",
+      "https://images.f99.com.vn/images/b5062da0-5069-4a22-a47d-30423fc832ec.jpg",
+      "https://images.f99.com.vn/images/6690ed52-8670-46ed-ac40-261b874fc055.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/78737",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Dâu lỗi, vết",
+          "Size bi bé",
+          "Size nhỡ",
+          "Size to",
+          "Size VIP"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 85364,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Size VIP",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Size VIP",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Size VIP",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 199000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 2,
+        "unit": "0.5kg",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Size VIP"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 83213,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Size to",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Size to",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Size to",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 169000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 200,
+        "totalSold": 15,
+        "unit": "0.5kg",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Size to"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 78739,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Size nhỡ",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Size nhỡ",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Size nhỡ",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 139000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 26,
+        "unit": "0.5kg",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Size nhỡ"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 79751,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Size bi bé",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Size bi bé",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Size bi bé",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 99000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 24,
+        "unit": "0.5kg",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Size bi bé"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 97458,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Dâu lỗi, vết",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Dâu lỗi, vết",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Dâu lỗi, vết",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 29000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 5,
+        "totalSold": 0,
+        "unit": "0.5kg",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Dâu lỗi, vết"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 79,
+      "sellerRate": 4.6,
+      "sellerName": "Bee Fruits - Trái Cây Nhập Khẩu",
+      "warehouseId": "93099fc8-cde8-46ed-b203-44dfddc85c45",
+      "warehouseAddress": "số 210K, Đội Cấn, Ba Đình, Hà Nội",
+      "distance": 1554,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 78.75352863930483,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 79128,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dâu Tây HaNa Mộc Châu",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dâu Tây được mệnh danh là nữa hoàng của các loại hoa quả.Với sự tươi ngon, mùi thơm , vị ngọt và hàm lượng dinh dưỡng thì nó vô cùng tốt ạ</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/b0ecdc7f-1f36-40c8-9c00-6dfe93ec2a71.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dâu Tây HaNa Mộc Châu",
+    "description": "<p>Dâu Tây được mệnh danh là nữa hoàng của các loại hoa quả.Với sự tươi ngon, mùi thơm , vị ngọt và hàm lượng dinh dưỡng thì nó vô cùng tốt ạ</p>",
+    "imageUrl": "https://images.f99.com.vn/images/b0ecdc7f-1f36-40c8-9c00-6dfe93ec2a71.jpg",
+    "price": 150000,
+    "oldPrice": 239000,
+    "discountPercent": 37,
+    "stock": 50,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "1 hộp 500gr",
+    "sku": "",
+    "origin": "",
+    "sellerId": 118,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ở nhiệt độ từ 16-20 độ</p>",
+    "category": {
+      "id": 7,
+      "name": "Dâu tây",
+      "imageUrl": "https://imgur.com/KYrGoLu.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/b0ecdc7f-1f36-40c8-9c00-6dfe93ec2a71.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/79128",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 hộp 500gr"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 79129,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 hộp 500gr",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 hộp 500gr",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 hộp 500gr",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 150000,
+        "oldPrice": 239000,
+        "discountPercent": 37,
+        "stock": 50,
+        "totalSold": 1,
+        "unit": "1 hộp 500gr",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ở nhiệt độ từ 16-20 độ</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 hộp 500gr"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 118,
+      "sellerRate": 3.9,
+      "sellerName": "Đinh Hương Fruit",
+      "warehouseId": "7d5007b2-5563-4d11-a461-2b659e39fcf0",
+      "warehouseAddress": "64 Khương Đình, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",
+      "distance": 3572,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 55.8364615384624,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 83289,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dâu Tây Hàn Quốc",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dâu tây Hàn Quốc là trái cây chủ lực của Hàn Quốc bên cạnh&nbsp;<a href=\"https://thuyanhfruits.com/san-pham/dua-le-han-quoc/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 72, 98);\">dưa lê vàng</a>,&nbsp;<a href=\"https://thuyanhfruits.com/san-pham/le-han-quoc/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 72, 98);\">lê Hàn</a>, hồng giòn Hàn Quốc,… Dâu tây Hàn Quốc được mệnh danh là “nữ hoàng trái cây” của xứ sở Kim Chi.</p><p>Dâu tây Hàn Quốc được trồng ở nhà kính thông minh hoàn toàn tự động hóa. Từ trồng cho đến chăm sóc nhằm giảm tối đa việc sử dụng phân bón, thuốc bảo vệ thực vật theo quy trình quản lí thực hành nông nghiệp tốt.</p><p>Dâu tây Hàn Quốc sau khi được thu hoạch sẽ được đóng gói bằng công nghệ xử lí CO2 nồng độ cao với bao bì chuyên dụng. Chỉ trong 2 ngày, sản phẩm dâu tây sẽ có mặt tại Việt Nam. Với độ tươi ngon tương đương với các sản phẩm được bán cho người tiêu dùng Hàn Quốc.</p><h2><strong>Đặc Điểm</strong></h2><p>Trái dâu tây có tên khoa học là Fragaria hay còn được gọi là dâu đất. Bề Ngoài có hình dáng yêu thương, màu sắc rực rỡ, giàu dinh dưỡng và được rất nhiều người ưa chuộng.</p><p>Trái dâu tây Hàn Quốc có hình dáng thuôn dài, không lớn nhưng cứng hơn dâu Mỹ, Úc, Canada… Sản lượng dâu tây Hàn Quốc rất hạn chế. Quà tặng trái cây là đơn vị duy nhất ở Việt Nam nhập khẩu dâu tây từ Hàn Quốc.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/8e6b8b32-8842-4124-8afa-22262ae71adf.jpg\",\"https://images.f99.com.vn/images/6eb5a4e6-9601-49e6-bc4c-00d4d16d2626.jpg\",\"https://images.f99.com.vn/images/a8a25fac-3c29-4f79-9882-e19e9bc52d4f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dâu Tây Hàn Quốc",
+    "description": "<p>Dâu tây Hàn Quốc là trái cây chủ lực của Hàn Quốc bên cạnh&nbsp;<a href=\"https://thuyanhfruits.com/san-pham/dua-le-han-quoc/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 72, 98);\">dưa lê vàng</a>,&nbsp;<a href=\"https://thuyanhfruits.com/san-pham/le-han-quoc/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 72, 98);\">lê Hàn</a>, hồng giòn Hàn Quốc,… Dâu tây Hàn Quốc được mệnh danh là “nữ hoàng trái cây” của xứ sở Kim Chi.</p><p>Dâu tây Hàn Quốc được trồng ở nhà kính thông minh hoàn toàn tự động hóa. Từ trồng cho đến chăm sóc nhằm giảm tối đa việc sử dụng phân bón, thuốc bảo vệ thực vật theo quy trình quản lí thực hành nông nghiệp tốt.</p><p>Dâu tây Hàn Quốc sau khi được thu hoạch sẽ được đóng gói bằng công nghệ xử lí CO2 nồng độ cao với bao bì chuyên dụng. Chỉ trong 2 ngày, sản phẩm dâu tây sẽ có mặt tại Việt Nam. Với độ tươi ngon tương đương với các sản phẩm được bán cho người tiêu dùng Hàn Quốc.</p><h2><strong>Đặc Điểm</strong></h2><p>Trái dâu tây có tên khoa học là Fragaria hay còn được gọi là dâu đất. Bề Ngoài có hình dáng yêu thương, màu sắc rực rỡ, giàu dinh dưỡng và được rất nhiều người ưa chuộng.</p><p>Trái dâu tây Hàn Quốc có hình dáng thuôn dài, không lớn nhưng cứng hơn dâu Mỹ, Úc, Canada… Sản lượng dâu tây Hàn Quốc rất hạn chế. Quà tặng trái cây là đơn vị duy nhất ở Việt Nam nhập khẩu dâu tây từ Hàn Quốc.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/8e6b8b32-8842-4124-8afa-22262ae71adf.jpg",
+    "price": 155000,
+    "oldPrice": 215000,
+    "discountPercent": 28,
+    "stock": 20,
+    "totalSold": 5,
+    "maxQuantityPerUser": null,
+    "unit": "hộp",
+    "sku": "96",
+    "origin": "",
+    "sellerId": 887,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.9,
+    "instructions": "<p>Trái dâu tây giữ tươi lâu nhất khi bảo quản lạnh, bạn chỉ nên rửa chúng khi ăn.</p><p>Không bao giờ để dâu tây ở nhiệt độ phòng, hoặc trong ánh sáng mặt trời trực tiếp quá lâu vì điều này sẽ làm cho chúng nhanh hư hỏng.</p><p>Cho dâu tây vào một hộp kín, xếp thành các tầng (ngăn cách nhau bởi lớp khăn giấy mỏng).&nbsp;Sau đó, đặt hộp vào tủ lạnh với nhiệt độ khoảng 0-4 độ C để giữ quả tươi ngon lâu hơn. Dâu tây có thể được lưu trữ trong tủ lạnh từ 3 – 5 ngày.</p><p>Nếu bạn muốn mua dâu tây Hàn Quốc nên tới&nbsp;<a href=\"https://thuyanhfruits.com/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 72, 98);\">cửa hàng hoa quả</a>&nbsp;Việt Nam uy tín tại Hà Nội để tránh mua phải hàng kém chất lượng, không đảm bảo vệ sinh và an toàn.</p>",
+    "category": {
+      "id": 7,
+      "name": "Dâu tây",
+      "imageUrl": "https://imgur.com/KYrGoLu.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/8e6b8b32-8842-4124-8afa-22262ae71adf.jpg",
+      "https://images.f99.com.vn/images/6eb5a4e6-9601-49e6-bc4c-00d4d16d2626.jpg",
+      "https://images.f99.com.vn/images/a8a25fac-3c29-4f79-9882-e19e9bc52d4f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/83289",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "hộp"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 83290,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 hộp",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "hộp",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 hộp",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 155000,
+        "oldPrice": 215000,
+        "discountPercent": 28,
+        "stock": 20,
+        "totalSold": 5,
+        "unit": "hộp",
+        "sku": "96",
+        "rating": 4.9,
+        "instructions": "<p>Trái dâu tây giữ tươi lâu nhất khi bảo quản lạnh, bạn chỉ nên rửa chúng khi ăn.</p><p>Không bao giờ để dâu tây ở nhiệt độ phòng, hoặc trong ánh sáng mặt trời trực tiếp quá lâu vì điều này sẽ làm cho chúng nhanh hư hỏng.</p><p>Cho dâu tây vào một hộp kín, xếp thành các tầng (ngăn cách nhau bởi lớp khăn giấy mỏng).&nbsp;Sau đó, đặt hộp vào tủ lạnh với nhiệt độ khoảng 0-4 độ C để giữ quả tươi ngon lâu hơn. Dâu tây có thể được lưu trữ trong tủ lạnh từ 3 – 5 ngày.</p><p>Nếu bạn muốn mua dâu tây Hàn Quốc nên tới&nbsp;<a href=\"https://thuyanhfruits.com/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 72, 98);\">cửa hàng hoa quả</a>&nbsp;Việt Nam uy tín tại Hà Nội để tránh mua phải hàng kém chất lượng, không đảm bảo vệ sinh và an toàn.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "hộp"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 887,
+      "sellerRate": 4.6,
+      "sellerName": "LINH FRUITS",
+      "warehouseId": "67bad541-bb53-4830-81ae-86f041146fa4",
+      "warehouseAddress": "310A Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội",
+      "distance": 4650,
+      "warehouseDistrict": "long bien",
+      "reputation": 80.39538114942684,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 83518,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dâu Tây Korea",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Hộp 250g</p><p>Quả Dâu Tây có mùi thơm, vị ngọt lẫn vị chua.</p><p>Dâu tây giàu vitamin C và là nguồn cung cấp dồi dào các chất flavonoit cần thiết cho cơ thể.</p><p>Hoa quả Sài Gòn 360 Fruit được chọn lọc trong mỗi khâu nhập hàng hóa , chất lượng tươi ngon và có nguồn gốc rõ ràng. Đến với Sài Gòn 360 Fruit người tiêu dùng hoàn toàn có thể yên tâm về chất lượng của sản phẩm. Chúng tôi cung cấp cho người tiêu dùng các sản phẩm tốt nhất, ngon nhất. Cảm ơn Quý Khách hàng đã luôn luôn đồng hành cùng Sài Gòn 360 Fruit.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/1c9abcea-cd82-4c96-bc32-b84987fdf955.jpg\",\"https://images.f99.com.vn/images/1e409e1b-8094-4f24-9d36-565f7b5b4fd3.jpg\",\"https://images.f99.com.vn/images/77b71013-099e-4c13-aab5-869f52403895.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dâu Tây Korea",
+    "description": "<p>Hộp 250g</p><p>Quả Dâu Tây có mùi thơm, vị ngọt lẫn vị chua.</p><p>Dâu tây giàu vitamin C và là nguồn cung cấp dồi dào các chất flavonoit cần thiết cho cơ thể.</p><p>Hoa quả Sài Gòn 360 Fruit được chọn lọc trong mỗi khâu nhập hàng hóa , chất lượng tươi ngon và có nguồn gốc rõ ràng. Đến với Sài Gòn 360 Fruit người tiêu dùng hoàn toàn có thể yên tâm về chất lượng của sản phẩm. Chúng tôi cung cấp cho người tiêu dùng các sản phẩm tốt nhất, ngon nhất. Cảm ơn Quý Khách hàng đã luôn luôn đồng hành cùng Sài Gòn 360 Fruit.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/1c9abcea-cd82-4c96-bc32-b84987fdf955.jpg",
+    "price": 135000,
+    "oldPrice": 240000,
+    "discountPercent": 44,
+    "stock": 100,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "hộp",
+    "sku": "",
+    "origin": "",
+    "sellerId": 986,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 7,
+      "name": "Dâu tây",
+      "imageUrl": "https://imgur.com/KYrGoLu.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/1c9abcea-cd82-4c96-bc32-b84987fdf955.jpg",
+      "https://images.f99.com.vn/images/1e409e1b-8094-4f24-9d36-565f7b5b4fd3.jpg",
+      "https://images.f99.com.vn/images/77b71013-099e-4c13-aab5-869f52403895.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/83518",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "hộp"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 83519,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 hộp",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "hộp",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 hộp",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 135000,
+        "oldPrice": 240000,
+        "discountPercent": 44,
+        "stock": 100,
+        "totalSold": 2,
+        "unit": "hộp",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "hộp"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 986,
+      "sellerRate": 3.9,
+      "sellerName": "Sài Gòn 360 Fruit – Chi Nhánh Hà Nội",
+      "warehouseId": "75790ae8-72b3-4209-92cf-9c6b54fd691d",
+      "warehouseAddress": "38 Xuân La, Phường Xuân La, Quận Tây Hồ, Hà Nội",
+      "distance": 5326,
+      "warehouseDistrict": "tay ho",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 92545,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dâu Tây Hàn Quốc",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(51, 51, 51);\">Là dòng trái cây cao cấp, đẹp về hình thức và ngon ngọt về hương vị, dâu tây Hàn Quốc phù hợp để làm quà biếu tặng, là nguyên liệu đặc biệt cho các món tráng miệng trong dịp lễ, Tết hoặc những sự kiện quan trọng.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/995120f4-2f18-482a-84a0-dd526bbb469d.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dâu Tây Hàn Quốc",
+    "description": "<p><span style=\"color: rgb(51, 51, 51);\">Là dòng trái cây cao cấp, đẹp về hình thức và ngon ngọt về hương vị, dâu tây Hàn Quốc phù hợp để làm quà biếu tặng, là nguyên liệu đặc biệt cho các món tráng miệng trong dịp lễ, Tết hoặc những sự kiện quan trọng.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/995120f4-2f18-482a-84a0-dd526bbb469d.jpg",
+    "price": 339000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 99,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Hộp",
+    "sku": "",
+    "origin": "",
+    "sellerId": 286,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><em style=\"background-color: initial;\">Tốt cho tim mạch</em></p><p>Chất flavonoid có trong dâu tây giúp kiểm soát LDL - một loại cholesterol có hại cho tim mạch. Vitamin C trong loại quả dâu tươi còn hỗ trợ lưu thông máu cho cơ thể.</p><p><em style=\"background-color: initial;\">Chứa chất giúp phòng ung thư</em></p><p>Dâu tây chứa rất nhiều chất chống oxy hóa như: lutein và zeathanacins, liên kết với vitamin C giúp làm chậm quá trình lão hóa, đẩy lùi các tác nhân gây hại, tăng sức đề kháng, ngăn ngừa nguy cơ mắc các bệnh ung thư.</p><p><em style=\"background-color: initial;\">Giàu vitamin C</em></p><p>Dâu tây Hàn Quốc được biết đến là loại trái cây giàu vitamin, đặc biệt hàm lượng vitamin C rất cao. Cùng một khối lượng quả (100g), dâu tây chứa lượng vitamin C gấp 1,5 lần so với quýt, gấp 2 lần so với chanh và gấp 10 lần so với táo.</p><p>Theo các chuyên gia dinh dưỡng, con người nên bổ sung thêm dâu tây vào thực đơn hàng ngày để được cung cấp vitamin C - vitamin giúp tăng sức đề kháng và hỗ trợ hệ miễn dịch.</p>",
+    "category": {
+      "id": 7,
+      "name": "Dâu tây",
+      "imageUrl": "https://imgur.com/KYrGoLu.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/995120f4-2f18-482a-84a0-dd526bbb469d.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/92545",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Hộp"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 92546,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Hộp",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Hộp",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Hộp",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 339000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 99,
+        "totalSold": 0,
+        "unit": "Hộp",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p><em style=\"background-color: initial;\">Tốt cho tim mạch</em></p><p>Chất flavonoid có trong dâu tây giúp kiểm soát LDL - một loại cholesterol có hại cho tim mạch. Vitamin C trong loại quả dâu tươi còn hỗ trợ lưu thông máu cho cơ thể.</p><p><em style=\"background-color: initial;\">Chứa chất giúp phòng ung thư</em></p><p>Dâu tây chứa rất nhiều chất chống oxy hóa như: lutein và zeathanacins, liên kết với vitamin C giúp làm chậm quá trình lão hóa, đẩy lùi các tác nhân gây hại, tăng sức đề kháng, ngăn ngừa nguy cơ mắc các bệnh ung thư.</p><p><em style=\"background-color: initial;\">Giàu vitamin C</em></p><p>Dâu tây Hàn Quốc được biết đến là loại trái cây giàu vitamin, đặc biệt hàm lượng vitamin C rất cao. Cùng một khối lượng quả (100g), dâu tây chứa lượng vitamin C gấp 1,5 lần so với quýt, gấp 2 lần so với chanh và gấp 10 lần so với táo.</p><p>Theo các chuyên gia dinh dưỡng, con người nên bổ sung thêm dâu tây vào thực đơn hàng ngày để được cung cấp vitamin C - vitamin giúp tăng sức đề kháng và hỗ trợ hệ miễn dịch.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Hộp"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 286,
+      "sellerRate": 4.8,
+      "sellerName": "Anh Châu Fruits ",
+      "warehouseId": "90d03d1d-fd20-41cb-a98e-29d57c1ae2cb",
+      "warehouseAddress": "110D11 Thái Thịnh, Thịnh Quang, Đống Đa, Hà Nội",
+      "distance": 2524,
+      "warehouseDistrict": "dong da",
+      "reputation": 78.82694902298906,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 93051,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dâu Tây Mộc Châu Size Vip 25-30 quả hộp 500g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p Class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(51, 51, 51);\">Dâu tây là một trong những loại quả được nhiều người yêu thích, đặc biệt là phái nữ</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Đảm bảo chất lượng và nguồn gốc xuất xứ.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Bảo quản tươi ngon và giao hàng đến tận tay khách hàng.</span></p><p><br></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">THÔNG TIN SẢN PHẨM&nbsp;</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(51, 51, 51);\">Dâu tây Mộc Châu nổi tiếng bởi sự tươi ngon và đẹp mắt, từng quả mọng chín đỏ phất phơ trong tiết trời se lạnh. Dịp cuối đông, đầu xuân là mùa dâu tây chín rộ. Đi đến đâu cũng thấy dâu đỏ ngập cả một vùng rực rỡ.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(17, 17, 17);\">Dâu tây đem lại nhiều dưỡng chất cần thiết cho cơ thể, nhất là lượng vitamin C. Vitamin C là chất có khả năng tăng cường miễn dịch đồng thời còn là một chất chống oxy hóa mạnh mẽ.</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">GIÁ TRỊ DINH DƯỠNG:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Tốt cho bà bầu </strong><span style=\"color: rgb(51, 51, 51);\">: Ăn dâu tây sẽ giúp cung cấp cho hai mẹ con các vitamin và chất khoáng cần thiết.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Bổ mắt và giảm quầng thâm : </strong><span style=\"color: rgb(51, 51, 51);\">dâu tây sẽ rất có ích bởi chúng có khả năng chống viêm và làm sáng da. Thêm vào đó, vitamin C trong dâu tây hạn chế các bệnh về mắt như đục thủy tinh thể.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Chống ung thư </strong><span style=\"color: rgb(51, 51, 51);\">Chất chống oxy hóa và kháng viêm trong dâu tây chống lại sự tăng sinh các khối u và ngăn khối u không lan rộng.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Chống hen và dị ứng </strong><span style=\"color: rgb(51, 51, 51);\">: Dâu tây có các chất kháng viêm, dâu tây làm giảm các triệu chứng như sổ mũi, chảy nước mắt và nổi mề đay.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Giảm nguy cơ đau tim : </strong><span style=\"color: rgb(51, 51, 51);\">Dâu tây giúp kiểm soát LDL, một loại cholesterol có hại. Vitamin C trong loại quả này còn hỗ trợ lưu thông máu. </span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">HƯỚNG DẪN SỬ DỤNG:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Cho dâu tây vào một hộp kín, xếp thành các tầng (ngăn cách nhau bởi lớp khăn giấy mỏng). Sau đó, đặt hộp vào tủ lạnh với nhiệt độ khoảng 0-4 độ C để giữ quả tươi ngon lâu hơn. Dâu tây có thể được lưu trữ trong tủ lạnh từ 3 – 5 ngày.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Không để dâu tây ở nhiệt độ phòng, hoặc trong ánh sáng mặt trời trực tiếp quá lâu vì điều này sẽ làm cho chúng nhanh hư hỏng.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Chỉ rửa dâu tây trước khi ăn hoặc trước khi chế biến món ăn.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/a70694be-cc8e-4ef5-92e6-79eb8652744b.jpg\",\"https://images.f99.com.vn/images/15338d39-3bb6-4ff0-a972-5404f8d4eadf.jpg\",\"https://images.f99.com.vn/images/9a0315cb-69df-4318-b1da-2b8348924580.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Dâu Tây\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dâu Tây Mộc Châu Size Vip 25-30 quả hộp 500g",
+    "description": "<p Class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(51, 51, 51);\">Dâu tây là một trong những loại quả được nhiều người yêu thích, đặc biệt là phái nữ</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Đảm bảo chất lượng và nguồn gốc xuất xứ.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Bảo quản tươi ngon và giao hàng đến tận tay khách hàng.</span></p><p><br></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">THÔNG TIN SẢN PHẨM&nbsp;</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(51, 51, 51);\">Dâu tây Mộc Châu nổi tiếng bởi sự tươi ngon và đẹp mắt, từng quả mọng chín đỏ phất phơ trong tiết trời se lạnh. Dịp cuối đông, đầu xuân là mùa dâu tây chín rộ. Đi đến đâu cũng thấy dâu đỏ ngập cả một vùng rực rỡ.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(17, 17, 17);\">Dâu tây đem lại nhiều dưỡng chất cần thiết cho cơ thể, nhất là lượng vitamin C. Vitamin C là chất có khả năng tăng cường miễn dịch đồng thời còn là một chất chống oxy hóa mạnh mẽ.</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">GIÁ TRỊ DINH DƯỠNG:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Tốt cho bà bầu </strong><span style=\"color: rgb(51, 51, 51);\">: Ăn dâu tây sẽ giúp cung cấp cho hai mẹ con các vitamin và chất khoáng cần thiết.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Bổ mắt và giảm quầng thâm : </strong><span style=\"color: rgb(51, 51, 51);\">dâu tây sẽ rất có ích bởi chúng có khả năng chống viêm và làm sáng da. Thêm vào đó, vitamin C trong dâu tây hạn chế các bệnh về mắt như đục thủy tinh thể.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Chống ung thư </strong><span style=\"color: rgb(51, 51, 51);\">Chất chống oxy hóa và kháng viêm trong dâu tây chống lại sự tăng sinh các khối u và ngăn khối u không lan rộng.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Chống hen và dị ứng </strong><span style=\"color: rgb(51, 51, 51);\">: Dâu tây có các chất kháng viêm, dâu tây làm giảm các triệu chứng như sổ mũi, chảy nước mắt và nổi mề đay.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Giảm nguy cơ đau tim : </strong><span style=\"color: rgb(51, 51, 51);\">Dâu tây giúp kiểm soát LDL, một loại cholesterol có hại. Vitamin C trong loại quả này còn hỗ trợ lưu thông máu. </span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">HƯỚNG DẪN SỬ DỤNG:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Cho dâu tây vào một hộp kín, xếp thành các tầng (ngăn cách nhau bởi lớp khăn giấy mỏng). Sau đó, đặt hộp vào tủ lạnh với nhiệt độ khoảng 0-4 độ C để giữ quả tươi ngon lâu hơn. Dâu tây có thể được lưu trữ trong tủ lạnh từ 3 – 5 ngày.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Không để dâu tây ở nhiệt độ phòng, hoặc trong ánh sáng mặt trời trực tiếp quá lâu vì điều này sẽ làm cho chúng nhanh hư hỏng.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Chỉ rửa dâu tây trước khi ăn hoặc trước khi chế biến món ăn.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/a70694be-cc8e-4ef5-92e6-79eb8652744b.jpg",
+    "price": 169000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 99,
+    "totalSold": 35,
+    "maxQuantityPerUser": null,
+    "unit": "Hộp",
+    "sku": "20006108",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 7,
+      "name": "Dâu tây",
+      "imageUrl": "https://imgur.com/KYrGoLu.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Dâu Tây"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/a70694be-cc8e-4ef5-92e6-79eb8652744b.jpg",
+      "https://images.f99.com.vn/images/15338d39-3bb6-4ff0-a972-5404f8d4eadf.jpg",
+      "https://images.f99.com.vn/images/9a0315cb-69df-4318-b1da-2b8348924580.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/93051",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Hộp"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 93052,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Hộp",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Hộp",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Hộp",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 169000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 99,
+        "totalSold": 35,
+        "unit": "Hộp",
+        "sku": "20006108",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Hộp"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 94398,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dâu Tây Mộc Châu Size Vip 35 - 45 quả hộp 500g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p Class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(51, 51, 51);\">Dâu tây là một trong những loại quả được nhiều người yêu thích, đặc biệt là phái nữ</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Đảm bảo chất lượng và nguồn gốc xuất xứ.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Bảo quản tươi ngon và giao hàng đến tận tay khách hàng.</span></p><p><br></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">THÔNG TIN SẢN PHẨM&nbsp;</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(51, 51, 51);\">Dâu tây Mộc Châu nổi tiếng bởi sự tươi ngon và đẹp mắt, từng quả mọng chín đỏ phất phơ trong tiết trời se lạnh. Dịp cuối đông, đầu xuân là mùa dâu tây chín rộ. Đi đến đâu cũng thấy dâu đỏ ngập cả một vùng rực rỡ.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(17, 17, 17);\">Dâu tây đem lại nhiều dưỡng chất cần thiết cho cơ thể, nhất là lượng vitamin C. Vitamin C là chất có khả năng tăng cường miễn dịch đồng thời còn là một chất chống oxy hóa mạnh mẽ.</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">GIÁ TRỊ DINH DƯỠNG:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Tốt cho bà bầu </strong><span style=\"color: rgb(51, 51, 51);\">: Ăn dâu tây sẽ giúp cung cấp cho hai mẹ con các vitamin và chất khoáng cần thiết.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Bổ mắt và giảm quầng thâm : </strong><span style=\"color: rgb(51, 51, 51);\">dâu tây sẽ rất có ích bởi chúng có khả năng chống viêm và làm sáng da. Thêm vào đó, vitamin C trong dâu tây hạn chế các bệnh về mắt như đục thủy tinh thể.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Chống ung thư </strong><span style=\"color: rgb(51, 51, 51);\">Chất chống oxy hóa và kháng viêm trong dâu tây chống lại sự tăng sinh các khối u và ngăn khối u không lan rộng.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Chống hen và dị ứng </strong><span style=\"color: rgb(51, 51, 51);\">: Dâu tây có các chất kháng viêm, dâu tây làm giảm các triệu chứng như sổ mũi, chảy nước mắt và nổi mề đay.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Giảm nguy cơ đau tim : </strong><span style=\"color: rgb(51, 51, 51);\">Dâu tây giúp kiểm soát LDL, một loại cholesterol có hại. Vitamin C trong loại quả này còn hỗ trợ lưu thông máu.</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">HƯỚNG DẪN SỬ DỤNG:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Cho dâu tây vào một hộp kín, xếp thành các tầng (ngăn cách nhau bởi lớp khăn giấy mỏng). Sau đó, đặt hộp vào tủ lạnh với nhiệt độ khoảng 0-4 độ C để giữ quả tươi ngon lâu hơn. Dâu tây có thể được lưu trữ trong tủ lạnh từ 3 – 5 ngày.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Không để dâu tây ở nhiệt độ phòng, hoặc trong ánh sáng mặt trời trực tiếp quá lâu vì điều này sẽ làm cho chúng nhanh hư hỏng.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Chỉ rửa dâu tây trước khi ăn hoặc trước khi chế biến món ăn.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/55d7a35c-391b-4ed0-a746-e5d9bad2228e.jpg\",\"https://images.f99.com.vn/images/5d4ddad3-098c-4add-9cf9-7cbb680f6136.jpg\",\"https://images.f99.com.vn/images/8fafec12-ae62-46a0-80e8-2a6e6f6af368.jpg\",\"https://images.f99.com.vn/images/072237a8-5df5-4364-9e2d-5bf80e6cbd85.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Dâu tây\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dâu Tây Mộc Châu Size Vip 35 - 45 quả hộp 500g",
+    "description": "<p Class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(51, 51, 51);\">Dâu tây là một trong những loại quả được nhiều người yêu thích, đặc biệt là phái nữ</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Đảm bảo chất lượng và nguồn gốc xuất xứ.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Bảo quản tươi ngon và giao hàng đến tận tay khách hàng.</span></p><p><br></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">THÔNG TIN SẢN PHẨM&nbsp;</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(51, 51, 51);\">Dâu tây Mộc Châu nổi tiếng bởi sự tươi ngon và đẹp mắt, từng quả mọng chín đỏ phất phơ trong tiết trời se lạnh. Dịp cuối đông, đầu xuân là mùa dâu tây chín rộ. Đi đến đâu cũng thấy dâu đỏ ngập cả một vùng rực rỡ.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(17, 17, 17);\">Dâu tây đem lại nhiều dưỡng chất cần thiết cho cơ thể, nhất là lượng vitamin C. Vitamin C là chất có khả năng tăng cường miễn dịch đồng thời còn là một chất chống oxy hóa mạnh mẽ.</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">GIÁ TRỊ DINH DƯỠNG:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Tốt cho bà bầu </strong><span style=\"color: rgb(51, 51, 51);\">: Ăn dâu tây sẽ giúp cung cấp cho hai mẹ con các vitamin và chất khoáng cần thiết.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Bổ mắt và giảm quầng thâm : </strong><span style=\"color: rgb(51, 51, 51);\">dâu tây sẽ rất có ích bởi chúng có khả năng chống viêm và làm sáng da. Thêm vào đó, vitamin C trong dâu tây hạn chế các bệnh về mắt như đục thủy tinh thể.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Chống ung thư </strong><span style=\"color: rgb(51, 51, 51);\">Chất chống oxy hóa và kháng viêm trong dâu tây chống lại sự tăng sinh các khối u và ngăn khối u không lan rộng.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Chống hen và dị ứng </strong><span style=\"color: rgb(51, 51, 51);\">: Dâu tây có các chất kháng viêm, dâu tây làm giảm các triệu chứng như sổ mũi, chảy nước mắt và nổi mề đay.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ </span><strong style=\"color: rgb(51, 51, 51);\">Giảm nguy cơ đau tim : </strong><span style=\"color: rgb(51, 51, 51);\">Dâu tây giúp kiểm soát LDL, một loại cholesterol có hại. Vitamin C trong loại quả này còn hỗ trợ lưu thông máu.</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">HƯỚNG DẪN SỬ DỤNG:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Cho dâu tây vào một hộp kín, xếp thành các tầng (ngăn cách nhau bởi lớp khăn giấy mỏng). Sau đó, đặt hộp vào tủ lạnh với nhiệt độ khoảng 0-4 độ C để giữ quả tươi ngon lâu hơn. Dâu tây có thể được lưu trữ trong tủ lạnh từ 3 – 5 ngày.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Không để dâu tây ở nhiệt độ phòng, hoặc trong ánh sáng mặt trời trực tiếp quá lâu vì điều này sẽ làm cho chúng nhanh hư hỏng.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✔ Chỉ rửa dâu tây trước khi ăn hoặc trước khi chế biến món ăn.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/55d7a35c-391b-4ed0-a746-e5d9bad2228e.jpg",
+    "price": 169000,
+    "oldPrice": 159000,
+    "discountPercent": -6,
+    "stock": 100,
+    "totalSold": 132,
+    "maxQuantityPerUser": null,
+    "unit": "Hộp",
+    "sku": "20006108",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 7,
+      "name": "Dâu tây",
+      "imageUrl": "https://imgur.com/KYrGoLu.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Dâu tây"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/55d7a35c-391b-4ed0-a746-e5d9bad2228e.jpg",
+      "https://images.f99.com.vn/images/5d4ddad3-098c-4add-9cf9-7cbb680f6136.jpg",
+      "https://images.f99.com.vn/images/8fafec12-ae62-46a0-80e8-2a6e6f6af368.jpg",
+      "https://images.f99.com.vn/images/072237a8-5df5-4364-9e2d-5bf80e6cbd85.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/94398",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Hộp"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 94399,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Hộp",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Hộp",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Hộp",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 169000,
+        "oldPrice": 159000,
+        "discountPercent": -6,
+        "stock": 100,
+        "totalSold": 132,
+        "unit": "Hộp",
+        "sku": "20006108",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Hộp"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 95544,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dâu Hàn",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgb(32, 33, 36);\">Dâu tây Hàn</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;Quốc chứa hàm lượng lớn chất khoáng và lượng đường Fructose cao, trong đó hàm lượng chất khoáng như K, Na, Fe... rất phong phú giúp thúc đẩy chuyển hóa các chất trong cơ thể, làm máu huyết lưu thông đồng thời có&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">tác dụng</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;trấn tĩnh, an thần</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/2565fdc4-772b-420a-be3e-f5dfaf2897ae.jpg\",\"https://images.f99.com.vn/images/5c160623-7dde-43d2-9f05-d2becb15520c.jpg\",\"https://images.f99.com.vn/images/63367887-8057-4250-b467-7a6c50a6e85f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dâu Hàn",
+    "description": "<p><strong style=\"color: rgb(32, 33, 36);\">Dâu tây Hàn</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;Quốc chứa hàm lượng lớn chất khoáng và lượng đường Fructose cao, trong đó hàm lượng chất khoáng như K, Na, Fe... rất phong phú giúp thúc đẩy chuyển hóa các chất trong cơ thể, làm máu huyết lưu thông đồng thời có&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">tác dụng</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;trấn tĩnh, an thần</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/2565fdc4-772b-420a-be3e-f5dfaf2897ae.jpg",
+    "price": 177000,
+    "oldPrice": 187000,
+    "discountPercent": 5,
+    "stock": 5,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "hộp",
+    "sku": "",
+    "origin": "",
+    "sellerId": 277,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Tủ lạnh</p>",
+    "category": {
+      "id": 7,
+      "name": "Dâu tây",
+      "imageUrl": "https://imgur.com/KYrGoLu.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/2565fdc4-772b-420a-be3e-f5dfaf2897ae.jpg",
+      "https://images.f99.com.vn/images/5c160623-7dde-43d2-9f05-d2becb15520c.jpg",
+      "https://images.f99.com.vn/images/63367887-8057-4250-b467-7a6c50a6e85f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/95544",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "hộp"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 95545,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 hộp",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "hộp",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 hộp",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 177000,
+        "oldPrice": 187000,
+        "discountPercent": 5,
+        "stock": 5,
+        "totalSold": 0,
+        "unit": "hộp",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Tủ lạnh</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "hộp"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 277,
+      "sellerRate": 4.4,
+      "sellerName": "Cửa hàng trái cây nhập khẩu Fresh Safe Fruits ",
+      "warehouseId": "3e83d44f-ec12-4b20-91a8-4e64e47bf46f",
+      "warehouseAddress": "Số ML6-23 đường Mộc Lan, Khu đô thị Vinhomes Green Bay, Mễ Trì, Nam Từ Liêm, Hà Nội",
+      "distance": 5793,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 71.89346119658168,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 96345,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dâu Tây Hàn Quốc",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"background-color: initial; color: transparent;\">👉👉👉</span><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\"> Hàng mới về🍓𝑫𝒂̂𝒖 𝒕𝒂̂𝒚 𝑯𝒂̀𝒏 𝑸𝒖𝒐̂́𝒄 - 𝒍𝒐𝒂̣𝒊 𝒕𝒓𝒂́𝒊 𝒄𝒂̂𝒚 𝒕𝒉𝒐̛𝒎 𝒏𝒈𝒐𝒏 𝒄𝒂̆𝒏𝒈 𝒎𝒐̣𝒏𝒈, 𝒈𝒊𝒂̀𝒖 𝒄𝒉𝒂̂́𝒕 𝒅𝒊𝒏𝒉 𝒅𝒖̛𝒐̛̃𝒏𝒈 </span><span style=\"background-color: initial; color: transparent;\">✨</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">📌Dâu tây Hàn Quốc là loại trái cây chủ lực của Xứ Hàn, bên cạnh đó Dâu tây Hàn được mệnh danh là “nữ hoàng trái cây” luôn chinh phục người tiêu dùng bởi hương thơm tự nhiên, vị ngọt thanh cũng như vẻ ngoài và chất lượng vượt trội.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">📌Ngoài những hương vị thơm ngon dâu tây còn có rất nhiều tác dụng tốt cho sức khoẻ như : </span></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">✔Cải thiện tình trạng chống oxy hóa máu</span></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">✔Giảm căng thẳng oxy hóa</span></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">✔Giảm viêm</span></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">✔Cải thiện chức năng mạch máu</span></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">✔Cải thiện hồ sơ lipid máu của bạn</span></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">✔Giảm quá trình oxy hóa có hại của cholesterol LDL (xấu)</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">☎️ Lan fruits- </span><span style=\"background-color: rgb(229, 239, 255);\">0973119505</span></p><p><span style=\"background-color: initial; color: transparent;\">🏠</span><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\"> 75 đường Cầu Noi ( ngõ 145 Cổ Nhuế)</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/5a97ef3e-dccf-4583-bf1e-c8bc5b0e031e.jpg\",\"https://images.f99.com.vn/images/f2f6c312-dfd4-455c-98b3-4edf337b576d.jpg\",\"https://images.f99.com.vn/images/fe17f159-3257-4ec3-af4e-65182cbacb6e.jpg\",\"https://images.f99.com.vn/images/9c245dc0-3cfa-41fb-8d38-c0d9262fe285.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dâu Tây Hàn Quốc",
+    "description": "<p><span style=\"background-color: initial; color: transparent;\">👉👉👉</span><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\"> Hàng mới về🍓𝑫𝒂̂𝒖 𝒕𝒂̂𝒚 𝑯𝒂̀𝒏 𝑸𝒖𝒐̂́𝒄 - 𝒍𝒐𝒂̣𝒊 𝒕𝒓𝒂́𝒊 𝒄𝒂̂𝒚 𝒕𝒉𝒐̛𝒎 𝒏𝒈𝒐𝒏 𝒄𝒂̆𝒏𝒈 𝒎𝒐̣𝒏𝒈, 𝒈𝒊𝒂̀𝒖 𝒄𝒉𝒂̂́𝒕 𝒅𝒊𝒏𝒉 𝒅𝒖̛𝒐̛̃𝒏𝒈 </span><span style=\"background-color: initial; color: transparent;\">✨</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">📌Dâu tây Hàn Quốc là loại trái cây chủ lực của Xứ Hàn, bên cạnh đó Dâu tây Hàn được mệnh danh là “nữ hoàng trái cây” luôn chinh phục người tiêu dùng bởi hương thơm tự nhiên, vị ngọt thanh cũng như vẻ ngoài và chất lượng vượt trội.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">📌Ngoài những hương vị thơm ngon dâu tây còn có rất nhiều tác dụng tốt cho sức khoẻ như : </span></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">✔Cải thiện tình trạng chống oxy hóa máu</span></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">✔Giảm căng thẳng oxy hóa</span></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">✔Giảm viêm</span></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">✔Cải thiện chức năng mạch máu</span></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">✔Cải thiện hồ sơ lipid máu của bạn</span></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">✔Giảm quá trình oxy hóa có hại của cholesterol LDL (xấu)</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">☎️ Lan fruits- </span><span style=\"background-color: rgb(229, 239, 255);\">0973119505</span></p><p><span style=\"background-color: initial; color: transparent;\">🏠</span><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\"> 75 đường Cầu Noi ( ngõ 145 Cổ Nhuế)</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/5a97ef3e-dccf-4583-bf1e-c8bc5b0e031e.jpg",
+    "price": 160000,
+    "oldPrice": 180000,
+    "discountPercent": 11,
+    "stock": 7,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "hộp 250g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 815,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 7,
+      "name": "Dâu tây",
+      "imageUrl": "https://imgur.com/KYrGoLu.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/5a97ef3e-dccf-4583-bf1e-c8bc5b0e031e.jpg",
+      "https://images.f99.com.vn/images/f2f6c312-dfd4-455c-98b3-4edf337b576d.jpg",
+      "https://images.f99.com.vn/images/fe17f159-3257-4ec3-af4e-65182cbacb6e.jpg",
+      "https://images.f99.com.vn/images/9c245dc0-3cfa-41fb-8d38-c0d9262fe285.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/96345",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "hộp 250g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 96346,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "hộp 250g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "hộp 250g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "hộp 250g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 160000,
+        "oldPrice": 180000,
+        "discountPercent": 11,
+        "stock": 7,
+        "totalSold": 0,
+        "unit": "hộp 250g",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "hộp 250g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 815,
+      "sellerRate": 4.2,
+      "sellerName": "Lan fruits- Trái cây nhập khẩu",
+      "warehouseId": "1ff99c80-244a-4978-b7fc-0cf8eb1eed1e",
+      "warehouseAddress": " Hà Nội,  Bắc Từ Liêm,  Cổ Nhuế 2, Số 75 đường Cầu Noi",
+      "distance": 6894,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 60.25,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 96822,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dâu tây Mộc Châu bi xinh",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dâu tây Mộc châu size bi quả bé ngọt thơm, mùi vị đậm đà. Mỗi hộp đóng theo kích thước 500g. </p><p>Dâu được hái tươi chọn lọc từng quả bao ngọt thơm </p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/b5e4986e-15f5-483f-b89a-6ebf53774f55.jpg\",\"https://images.f99.com.vn/images/1e305897-480f-4867-9f3c-495f05175e3f.jpeg\",\"https://images.f99.com.vn/images/8d564f9f-b967-4952-ae2f-b08a70383acf.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dâu tây Mộc Châu bi xinh",
+    "description": "<p>Dâu tây Mộc châu size bi quả bé ngọt thơm, mùi vị đậm đà. Mỗi hộp đóng theo kích thước 500g. </p><p>Dâu được hái tươi chọn lọc từng quả bao ngọt thơm </p>",
+    "imageUrl": "https://images.f99.com.vn/images/b5e4986e-15f5-483f-b89a-6ebf53774f55.jpg",
+    "price": 80000,
+    "oldPrice": 99000,
+    "discountPercent": 19,
+    "stock": 100000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "500g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 460,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 7,
+      "name": "Dâu tây",
+      "imageUrl": "https://imgur.com/KYrGoLu.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/b5e4986e-15f5-483f-b89a-6ebf53774f55.jpg",
+      "https://images.f99.com.vn/images/1e305897-480f-4867-9f3c-495f05175e3f.jpeg",
+      "https://images.f99.com.vn/images/8d564f9f-b967-4952-ae2f-b08a70383acf.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/96822",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "500g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 96823,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 80000,
+        "oldPrice": 99000,
+        "discountPercent": 19,
+        "stock": 100000,
+        "totalSold": 0,
+        "unit": "500g",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 460,
+      "sellerRate": 4.9,
+      "sellerName": "Jin Fruit - Trái cây sạch vùng miền",
+      "warehouseId": "dc468ba7-d462-455d-a88a-44fc43830c77",
+      "warehouseAddress": "số 2 ngõ 36 An Hòa, Mỗ Lao, Hà Đông",
+      "distance": 6711,
+      "warehouseDistrict": null,
+      "reputation": 82.81269284994997,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 96825,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dâu Tây Mộc Châu size nhỡ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dâu tây Mộc châu cỡ vừa 1 hộp 500g từ 22-26 quả, quả chín mọng ngọt thơm. Dâu được Jin chọn lọc từng quả đảm bảo tươi mới ngọt thơm</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/22f03dca-16bb-440d-b436-cf3a6e415fe8.jpg\",\"https://images.f99.com.vn/images/5039d4e7-01f8-4c01-91aa-ae0e42e84f75.jpg\",\"https://images.f99.com.vn/images/19d90bbd-df44-4c72-ae67-b382773e96d0.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dâu Tây Mộc Châu size nhỡ",
+    "description": "<p>Dâu tây Mộc châu cỡ vừa 1 hộp 500g từ 22-26 quả, quả chín mọng ngọt thơm. Dâu được Jin chọn lọc từng quả đảm bảo tươi mới ngọt thơm</p>",
+    "imageUrl": "https://images.f99.com.vn/images/22f03dca-16bb-440d-b436-cf3a6e415fe8.jpg",
+    "price": 120000,
+    "oldPrice": 140000,
+    "discountPercent": 14,
+    "stock": 1000000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "500g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 460,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 7,
+      "name": "Dâu tây",
+      "imageUrl": "https://imgur.com/KYrGoLu.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/22f03dca-16bb-440d-b436-cf3a6e415fe8.jpg",
+      "https://images.f99.com.vn/images/5039d4e7-01f8-4c01-91aa-ae0e42e84f75.jpg",
+      "https://images.f99.com.vn/images/19d90bbd-df44-4c72-ae67-b382773e96d0.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/96825",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "500g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 96826,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 120000,
+        "oldPrice": 140000,
+        "discountPercent": 14,
+        "stock": 1000000,
+        "totalSold": 0,
+        "unit": "500g",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 460,
+      "sellerRate": 4.9,
+      "sellerName": "Jin Fruit - Trái cây sạch vùng miền",
+      "warehouseId": "dc468ba7-d462-455d-a88a-44fc43830c77",
+      "warehouseAddress": "số 2 ngõ 36 An Hòa, Mỗ Lao, Hà Đông",
+      "distance": 6711,
+      "warehouseDistrict": null,
+      "reputation": 82.81269284994997,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 96828,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dâu tây Mộc Châu size to",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dâu tây Mộc Châu hái tươi tại vườn, đảm bảo từng trái được chọn lọc, dâu ngọt thơm quả tròn bóng đẹp tự nhiên. 100% dâu được hái tươi về theo ngày </p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/3c25c6ba-59de-4e4e-8989-086a2bf6d4b1.jpeg\",\"https://images.f99.com.vn/images/12e10731-f0b3-45b6-9d31-ccd592fec8cb.jpg\",\"https://images.f99.com.vn/images/66e2eb62-e887-401a-b77f-a57c88ace207.jpeg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dâu tây Mộc Châu size to",
+    "description": "<p>Dâu tây Mộc Châu hái tươi tại vườn, đảm bảo từng trái được chọn lọc, dâu ngọt thơm quả tròn bóng đẹp tự nhiên. 100% dâu được hái tươi về theo ngày </p>",
+    "imageUrl": "https://images.f99.com.vn/images/3c25c6ba-59de-4e4e-8989-086a2bf6d4b1.jpeg",
+    "price": 160000,
+    "oldPrice": 180000,
+    "discountPercent": 11,
+    "stock": 1000000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "500g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 460,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 7,
+      "name": "Dâu tây",
+      "imageUrl": "https://imgur.com/KYrGoLu.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/3c25c6ba-59de-4e4e-8989-086a2bf6d4b1.jpeg",
+      "https://images.f99.com.vn/images/12e10731-f0b3-45b6-9d31-ccd592fec8cb.jpg",
+      "https://images.f99.com.vn/images/66e2eb62-e887-401a-b77f-a57c88ace207.jpeg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/96828",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "500g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 96829,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 160000,
+        "oldPrice": 180000,
+        "discountPercent": 11,
+        "stock": 1000000,
+        "totalSold": 0,
+        "unit": "500g",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 460,
+      "sellerRate": 4.9,
+      "sellerName": "Jin Fruit - Trái cây sạch vùng miền",
+      "warehouseId": "dc468ba7-d462-455d-a88a-44fc43830c77",
+      "warehouseAddress": "số 2 ngõ 36 An Hòa, Mỗ Lao, Hà Đông",
+      "distance": 6711,
+      "warehouseDistrict": null,
+      "reputation": 82.81269284994997,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 97419,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "DÂU TÂY HÀN QUỐC 330GR",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><br></p><p><a href=\"http://kleverfruits.com.vn/dau-tay-han-quoc/dau-tay-han-quoc.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(80, 80, 80);\">Dâu tây Hàn Quốc</a>&nbsp;chứa hàm lượng lớn vitamin và chất khoáng, lượng đường Fructose cao, trong đó hàm lượng chất khoáng như K, Na, Fe... cũng rất phong phú, cho nên ăn nhiều dâu tây giúp thúc đẩy chuyển hóa các chất trong cơ thể, làm máu huyết lưu thông, đồng thời có tác dụng trấn tĩnh, an thần, có thể dùng khi bị bệnh tiểu đường …</p><p>Ngoài ra, dâu tây có các loại vitamin A, B1, B2 và đặc biệt là hàm lượng vitamin C cao hơn cả cam, dưa hấu. Những vitamin này giúp tăng sức đề kháng, chống nhiễm trùng, nhiễm độc, cảm cúm và chống stress, chống lão hóa, giảm tác hại của thuốc lá và các loại đồ uống gây hại cho cơ thể.</p><p>Theo đông y, Dâu tây vị ngọt, chua, tính mát, công hiệu bổ phổi, điều hòa chức năng tiêu hóa, bồi bổ cơ thể, mát máu, giải độc. Dùng chữa các chứng như ho do phổi nóng, cổ họng sưng đau, chán ăn, tiểu gắt, thiếu máu suy nhược, ung nhọt, say rượu…</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/0fbcc4bb-9794-4d8c-9ba8-83c73efe5d18.jpg\",\"https://images.f99.com.vn/images/2ce8d0d7-e132-4b1b-93cd-bf3d0c739d2f.jpg\",\"https://images.f99.com.vn/images/81d04726-e4fe-4490-bdca-c1f08acebc07.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "DÂU TÂY HÀN QUỐC 330GR",
+    "description": "<p><br></p><p><a href=\"http://kleverfruits.com.vn/dau-tay-han-quoc/dau-tay-han-quoc.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(80, 80, 80);\">Dâu tây Hàn Quốc</a>&nbsp;chứa hàm lượng lớn vitamin và chất khoáng, lượng đường Fructose cao, trong đó hàm lượng chất khoáng như K, Na, Fe... cũng rất phong phú, cho nên ăn nhiều dâu tây giúp thúc đẩy chuyển hóa các chất trong cơ thể, làm máu huyết lưu thông, đồng thời có tác dụng trấn tĩnh, an thần, có thể dùng khi bị bệnh tiểu đường …</p><p>Ngoài ra, dâu tây có các loại vitamin A, B1, B2 và đặc biệt là hàm lượng vitamin C cao hơn cả cam, dưa hấu. Những vitamin này giúp tăng sức đề kháng, chống nhiễm trùng, nhiễm độc, cảm cúm và chống stress, chống lão hóa, giảm tác hại của thuốc lá và các loại đồ uống gây hại cho cơ thể.</p><p>Theo đông y, Dâu tây vị ngọt, chua, tính mát, công hiệu bổ phổi, điều hòa chức năng tiêu hóa, bồi bổ cơ thể, mát máu, giải độc. Dùng chữa các chứng như ho do phổi nóng, cổ họng sưng đau, chán ăn, tiểu gắt, thiếu máu suy nhược, ung nhọt, say rượu…</p>",
+    "imageUrl": "https://images.f99.com.vn/images/0fbcc4bb-9794-4d8c-9ba8-83c73efe5d18.jpg",
+    "price": 189000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 0,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "KHAY",
+    "sku": "",
+    "origin": "",
+    "sellerId": 193,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>- Dâu tây được thu hoạch khi chín trên cây, là loại trái cây rất nhạy cảm về nhiệt độ.</p><p>- Cách bảo quản Dâu tây tốt nhất: lấy một hộp kín, xếp dâu tây thành các tầng (ngăn cách nhau bởi lớp khăn giấy mỏng), xếp lần lượt các quả dâu vào các tầng với số lượng tăng dần từ dưới lên trên.&nbsp;Sau đó, đặt hộp vào tủ lạnh với nhiệt độ khoảng 0 - 4 độ C để giữ quả tươi ngon lâu hơn. Dâu tây có thể được lưu trữ trong tủ lạnh từ 3 - 5 ngày.</p><p>- Không nên để dâu tây ở nhiệt độ phòng hoặc trong ánh sáng mặt trời trực tiếp quá lâu vì điều này sẽ làm cho chúng nhanh hư hỏng.</p><p>- Chỉ rửa Dâu tây trước khi ăn hoặc trước khi chế biến món ăn.</p>",
+    "category": {
+      "id": 7,
+      "name": "Dâu tây",
+      "imageUrl": "https://imgur.com/KYrGoLu.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/0fbcc4bb-9794-4d8c-9ba8-83c73efe5d18.jpg",
+      "https://images.f99.com.vn/images/2ce8d0d7-e132-4b1b-93cd-bf3d0c739d2f.jpg",
+      "https://images.f99.com.vn/images/81d04726-e4fe-4490-bdca-c1f08acebc07.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/97419",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "KHAY"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 97420,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 KHAY",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "KHAY",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 KHAY",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 189000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 0,
+        "totalSold": 0,
+        "unit": "KHAY",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>- Dâu tây được thu hoạch khi chín trên cây, là loại trái cây rất nhạy cảm về nhiệt độ.</p><p>- Cách bảo quản Dâu tây tốt nhất: lấy một hộp kín, xếp dâu tây thành các tầng (ngăn cách nhau bởi lớp khăn giấy mỏng), xếp lần lượt các quả dâu vào các tầng với số lượng tăng dần từ dưới lên trên.&nbsp;Sau đó, đặt hộp vào tủ lạnh với nhiệt độ khoảng 0 - 4 độ C để giữ quả tươi ngon lâu hơn. Dâu tây có thể được lưu trữ trong tủ lạnh từ 3 - 5 ngày.</p><p>- Không nên để dâu tây ở nhiệt độ phòng hoặc trong ánh sáng mặt trời trực tiếp quá lâu vì điều này sẽ làm cho chúng nhanh hư hỏng.</p><p>- Chỉ rửa Dâu tây trước khi ăn hoặc trước khi chế biến món ăn.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "KHAY"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 193,
+      "sellerRate": 4.9,
+      "sellerName": "Royal Green Fruits",
+      "warehouseId": "54ea5d5f-edb9-4db9-9279-5db65d728ab8",
+      "warehouseAddress": "Shophouse D1 Mandarin Garden, Hoàng Minh Giám, Trung Hòa, Cầu Giấy, Hà Nội",
+      "distance": 4511,
+      "warehouseDistrict": "cau giay",
+      "reputation": 64.03561290322591,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

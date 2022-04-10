@@ -1,0 +1,35 @@
+{
+  "id": 796,
+  "name": "GoodFarmer",
+  "logo": "https://cdn.f99.link/groupbuy-images/e6bdac65-0743-4a3c-8e2a-ea4c48654761.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Goodfarmer bán các loại đặc sản là hàng tươi sống từ các vùng miền: Quảng Nam, Cà Mau",
+  "headQuarter": "104 đường 7, Phước Bình, Quận 9, Hồ Chí Minh",
+  "email": "goodfood2goodfarmer@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

@@ -1,0 +1,35 @@
+{
+  "id": 875,
+  "name": "Ben Food",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/9f1d701e-3046-4154-86d9-46d956666b62.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Ben Food chuyên cung cấp thực phẩm mang tính tiện lợi cao cho khách hàng. Cung cấp 1 giải pháp tối ưu về thời gian làm bếp và ra món ngon chuẩn như nhà hàng. ",
+  "headQuarter": "40 Sunrise B, Central Street, KĐT The Manor Central Park Nguyễn Xiển",
+  "email": "Vuxuan.benfood@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.3,
+  "availableTime": {
+    "openTime": "08:30",
+    "closeTime": "19:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 6
+}

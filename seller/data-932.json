@@ -1,0 +1,35 @@
+{
+  "id": 932,
+  "name": "Thực Phẩm Việt",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/9225ded5-8e92-40c7-99aa-4c24e446fd33.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên Kinh Doanh Thực Phẩm Sạch gà,bò ,Nước Lẩu Viên Bò…..",
+  "headQuarter": "Số 12 LK3D Ngõ 19 Nguyễn Văn Lộc, Mỗ Lao, Hà Đông, Hà Nội",
+  "email": "Thucphamviet.t02@gmai.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

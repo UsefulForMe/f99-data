@@ -1,0 +1,35 @@
+{
+  "id": 296,
+  "name": "FUN FOODS",
+  "logo": "https://cdn.f99.link/groupbuy-images/7879317b-20ef-4430-99df-b74897da12c7.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "FUN FOOD chuyên cung cấp các loại thực phẩm sạch, thực phẩm nhà hàng, lườn ngỗng, đậu hũ phô mai, gà lắc trân châu, dồi sụn nướng, viên thả lẩu malaisia,…",
+  "headQuarter": "63/148 đường Mai Anh Tuấn, Ô Chợ Dừa, Đống Đa, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.6,
+  "availableTime": {
+    "openTime": "07:30",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 45
+}

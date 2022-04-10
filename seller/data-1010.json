@@ -1,0 +1,35 @@
+{
+  "id": 1010,
+  "name": "DONFOOD - Thực Phẩm Cho Mọi Nhà",
+  "logo": "https://images.f99.com.vn/groupbuy-images/3d0a81b8-071a-496c-a0cd-44866858032d.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp cá hồi, ẩm thực nhật, bò Úc, bò Mỹ, saba nauy, thịt gà... hải sản biển, hải sản khô như chả cá, chả mực, cá nục, cá trích ép trứng... ",
+  "headQuarter": "U3 Liền kề 13, Khu Đô Thị Đô Nghĩa, Phường Yên Nghĩa, Quận Hà Đông, TP. Hà Nội",
+  "email": "Lavanhiepsd8@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "07:00",
+    "closeTime": "22:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 8
+}

@@ -1,0 +1,2693 @@
+[
+  {
+    "id": 1295,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cherry Mỹ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><img src=\"https://images.f99.com.vn/images/31282f51-d15c-41e7-987c-689e8f36b4ec.png\"><img src=\"https://images.f99.com.vn/images/a65a7a16-daa5-438c-93ac-3acdc005244d.jpg\"><img src=\"https://images.f99.com.vn/images/e907d257-9088-402f-92a8-61be10845ee0.png\"><img src=\"https://images.f99.com.vn/images/04dde233-e0ae-4fc2-959a-4366d6af5411.png\"><img src=\"https://images.f99.com.vn/images/4bdb666b-61e2-4217-9dea-053b3d4d0ff5.png\"><img src=\"https://images.f99.com.vn/images/960945b4-d073-4fa8-bc8a-e51e4ab5773b.png\"></p><p>Cherry Mỹ Cherry Mỹ Cherry Mỹ Cherry Mỹ Cherry Mỹ Cherry Mỹ Cherry Mỹ Cherry Mỹ Cherry Mỹ Cherry Mỹ Cherry Mỹ</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/d2d74988-f6b6-4df2-885d-1a59866373f2.jpg\",\"https://images.f99.com.vn/images/22ffb9ed-0c50-4e25-b334-c1f324dc03b6.jpg\",\"https://images.f99.com.vn/images/46208aba-61a1-47ba-a6ef-c959bd812002.jpg\",\"https://images.f99.com.vn/images/4219e9b3-d18b-4225-978f-92b800906ad2.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Cherry\",\"cherry mỹ\",\"cherry mỹ size 8\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cherry Mỹ",
+    "description": "<p><img src=\"https://images.f99.com.vn/images/31282f51-d15c-41e7-987c-689e8f36b4ec.png\"><img src=\"https://images.f99.com.vn/images/a65a7a16-daa5-438c-93ac-3acdc005244d.jpg\"><img src=\"https://images.f99.com.vn/images/e907d257-9088-402f-92a8-61be10845ee0.png\"><img src=\"https://images.f99.com.vn/images/04dde233-e0ae-4fc2-959a-4366d6af5411.png\"><img src=\"https://images.f99.com.vn/images/4bdb666b-61e2-4217-9dea-053b3d4d0ff5.png\"><img src=\"https://images.f99.com.vn/images/960945b4-d073-4fa8-bc8a-e51e4ab5773b.png\"></p><p>Cherry Mỹ Cherry Mỹ Cherry Mỹ Cherry Mỹ Cherry Mỹ Cherry Mỹ Cherry Mỹ Cherry Mỹ Cherry Mỹ Cherry Mỹ Cherry Mỹ</p>",
+    "imageUrl": "https://images.f99.com.vn/images/d2d74988-f6b6-4df2-885d-1a59866373f2.jpg",
+    "price": 389000,
+    "oldPrice": 700000,
+    "discountPercent": 44,
+    "stock": 5,
+    "totalSold": 203,
+    "maxQuantityPerUser": null,
+    "unit": " kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.6,
+    "instructions": null,
+    "category": {
+      "id": 3,
+      "name": "Cherry",
+      "imageUrl": "https://imgur.com/uWL4uWn.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Cherry",
+      "cherry mỹ",
+      "cherry mỹ size 8"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/d2d74988-f6b6-4df2-885d-1a59866373f2.jpg",
+      "https://images.f99.com.vn/images/22ffb9ed-0c50-4e25-b334-c1f324dc03b6.jpg",
+      "https://images.f99.com.vn/images/46208aba-61a1-47ba-a6ef-c959bd812002.jpg",
+      "https://images.f99.com.vn/images/4219e9b3-d18b-4225-978f-92b800906ad2.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/1295",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "Size 9"
+        ]
+      },
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg",
+          "3kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 5332,
+        "attributeTextValues": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Size 9",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Size 9 / 1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Size 9 / 1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 399000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 4,
+        "totalSold": 136,
+        "unit": " kg",
+        "sku": "20000100",
+        "rating": 4.6,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Size 9"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 5334,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Size 9 / 3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "389k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Size 9",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "3kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Size 9 / 3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 1167000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 1,
+        "totalSold": 67,
+        "unit": " kg",
+        "sku": "20001533",
+        "rating": 4.6,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "389k/kg",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Size 9"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7456,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cherry Đỏ New",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h3 class=\"ql-align-justify\"><br></h3><p><br></p><p><br></p><p><br></p><p><strong>GIÁ TRỊ DINH DƯỠNG :</strong></p><p><br></p><p>✔️<strong>Tốt cho người bệnh tiểu đường&nbsp;</strong></p><p>Trong cherry có tác dụng chống viêm giúp cho cơ thể khỏe mạnh hơn, tăng sức đề kháng.</p><p><br></p><h3>✔️<strong>Giúp ngủ ngon</strong></h3><p><a href=\"https://musangkingf99.com/dinh-duong-trong-cherry/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 0, 0);\">Giá trị dinh dưỡng quả cherry</a>&nbsp;có thể kể đến thành phần melatonin – hormone giúp kiểm soát giấc ngủ. Những người thường stress hoặc khó ngủ có thể bổ sung loại trái cây này.&nbsp;</p><p><br></p><h3>✔️<strong>Chống oxy hóa<em>&nbsp;</em></strong></h3><p>Chất oxy hóa và hợp chất chống viêm chiếm một lượng đáng kể trong cherry. Giúp cho quá trình lão hóa – kẻ thù của nhan sắc chậm đến hơn. Đặc biệt hơn là chống lại các tác nhân gây ra bệnh tim, ung thư, bệnh Alzheimer, béo phì.&nbsp;</p><p><br></p><h3>✔️<strong>Giảm đau khớp cho người thường hay vận động<em>&nbsp;</em></strong></h3><p>Làm trơn khớp , giúp dễ vận động , rất tốt cho xương khớp.</p><p><br></p><h3>✔️<strong>Giảm cholesterol&nbsp;</strong></h3><p>Cherry giúp làm giảm tổng lượng cholesterol trong cơ thể. Đặc biệt hơn cứ 1% cholesterol giảm đi cũng kéo theo giảm 2% nguy cơ mắc bệnh tim. Đặc biệt với mẹ bầu thì giá trị dinh dưỡng này lại càng quan trọng.&nbsp;</p><p><em>&nbsp;</em></p><h3>✔️<strong>Tốt cho hệ tiêu hóa</strong></h3><p>Dinh dưỡng trong cherry&nbsp;có hàm lượng chất xơ cao, theo ước tính có 3 gram chất xơ có trong 1 chén cherry. Và chiếm đến 12% nhu cầu lượng xơ cần thiết trong một ngày của người bình thường. Chính những điều này giúp người ăn nhiều cherry tốt hơn cho hệ tiêu hóa.&nbsp;</p><p><br></p><h2><br></h2><h3><br></h3>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/e9e5a3f0-3f1b-43ed-85ec-c9c669bf7165.jpg\",\"https://images.f99.com.vn/images/5db13e81-04b4-488b-8628-75411e68ac91.jpg\",\"https://images.f99.com.vn/images/cdb80d85-7c49-489d-9eff-ba919faebef3.jpg\",\"https://images.f99.com.vn/images/8addfc63-9013-49dd-8ef8-b599fbb9f08a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"cherry\",\"chery đỏ\",\"quả cherry\",\"cherry Newzealand\",\"quả anh đào\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cherry Đỏ New",
+    "description": "<h3 class=\"ql-align-justify\"><br></h3><p><br></p><p><br></p><p><br></p><p><strong>GIÁ TRỊ DINH DƯỠNG :</strong></p><p><br></p><p>✔️<strong>Tốt cho người bệnh tiểu đường&nbsp;</strong></p><p>Trong cherry có tác dụng chống viêm giúp cho cơ thể khỏe mạnh hơn, tăng sức đề kháng.</p><p><br></p><h3>✔️<strong>Giúp ngủ ngon</strong></h3><p><a href=\"https://musangkingf99.com/dinh-duong-trong-cherry/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 0, 0);\">Giá trị dinh dưỡng quả cherry</a>&nbsp;có thể kể đến thành phần melatonin – hormone giúp kiểm soát giấc ngủ. Những người thường stress hoặc khó ngủ có thể bổ sung loại trái cây này.&nbsp;</p><p><br></p><h3>✔️<strong>Chống oxy hóa<em>&nbsp;</em></strong></h3><p>Chất oxy hóa và hợp chất chống viêm chiếm một lượng đáng kể trong cherry. Giúp cho quá trình lão hóa – kẻ thù của nhan sắc chậm đến hơn. Đặc biệt hơn là chống lại các tác nhân gây ra bệnh tim, ung thư, bệnh Alzheimer, béo phì.&nbsp;</p><p><br></p><h3>✔️<strong>Giảm đau khớp cho người thường hay vận động<em>&nbsp;</em></strong></h3><p>Làm trơn khớp , giúp dễ vận động , rất tốt cho xương khớp.</p><p><br></p><h3>✔️<strong>Giảm cholesterol&nbsp;</strong></h3><p>Cherry giúp làm giảm tổng lượng cholesterol trong cơ thể. Đặc biệt hơn cứ 1% cholesterol giảm đi cũng kéo theo giảm 2% nguy cơ mắc bệnh tim. Đặc biệt với mẹ bầu thì giá trị dinh dưỡng này lại càng quan trọng.&nbsp;</p><p><em>&nbsp;</em></p><h3>✔️<strong>Tốt cho hệ tiêu hóa</strong></h3><p>Dinh dưỡng trong cherry&nbsp;có hàm lượng chất xơ cao, theo ước tính có 3 gram chất xơ có trong 1 chén cherry. Và chiếm đến 12% nhu cầu lượng xơ cần thiết trong một ngày của người bình thường. Chính những điều này giúp người ăn nhiều cherry tốt hơn cho hệ tiêu hóa.&nbsp;</p><p><br></p><h2><br></h2><h3><br></h3>",
+    "imageUrl": "https://images.f99.com.vn/images/e9e5a3f0-3f1b-43ed-85ec-c9c669bf7165.jpg",
+    "price": 150000,
+    "oldPrice": 199000,
+    "discountPercent": 25,
+    "stock": 440,
+    "totalSold": 906,
+    "maxQuantityPerUser": null,
+    "unit": "0.25KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 96,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 568,
+    "instructions": "<p><strong><img src=\"https://images.f99.com.vn/images/ac61abdd-f61c-4d69-b07b-93e9b89623ce.jpg\">HƯỚNG DẪN BẢO QUẢN:</strong></p><p><br></p><p>Sau khi mua cherry về nhà, bạn nên:</p><p><br></p><p>✔️ Cho cherry vào những hộp nhựa, bên ngoài bọc một lớp bao nylon trong sau đó cho vào ngăn mát tủ lạnh.</p><p>✔️ Giữ cho cherry khô ráo tránh tiếp xúc trực tiếp với nước vì vỏ cherry rất mỏng dễ hư hỏng.</p><p><br></p><p>✔️Không để đồ nặng đè lên hộp cherry sẽ bị dập trái và hư hỏng.</p><p><br></p><p>✔️Không nên để cherry chung với những đồ ăn nặng mùi sẽ làm bám mùi vào cherry mất ngon.</p><p>&nbsp;</p>",
+    "category": {
+      "id": 3,
+      "name": "Cherry",
+      "imageUrl": "https://imgur.com/uWL4uWn.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "cherry",
+      "chery đỏ",
+      "quả cherry",
+      "cherry Newzealand",
+      "quả anh đào"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/e9e5a3f0-3f1b-43ed-85ec-c9c669bf7165.jpg",
+      "https://images.f99.com.vn/images/5db13e81-04b4-488b-8628-75411e68ac91.jpg",
+      "https://images.f99.com.vn/images/cdb80d85-7c49-489d-9eff-ba919faebef3.jpg",
+      "https://images.f99.com.vn/images/8addfc63-9013-49dd-8ef8-b599fbb9f08a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7456",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "0,5KG",
+          "0.25kg",
+          "1KG",
+          "combo 2kg",
+          "combo 3kg",
+          "combo 5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 7457,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "0,5KG",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "0,5KG",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "0,5KG",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 299000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 50,
+        "totalSold": 182,
+        "unit": "0.25KG",
+        "sku": "",
+        "rating": 568,
+        "instructions": "<p><strong><img src=\"https://images.f99.com.vn/images/ac61abdd-f61c-4d69-b07b-93e9b89623ce.jpg\">HƯỚNG DẪN BẢO QUẢN:</strong></p><p><br></p><p>Sau khi mua cherry về nhà, bạn nên:</p><p><br></p><p>✔️ Cho cherry vào những hộp nhựa, bên ngoài bọc một lớp bao nylon trong sau đó cho vào ngăn mát tủ lạnh.</p><p>✔️ Giữ cho cherry khô ráo tránh tiếp xúc trực tiếp với nước vì vỏ cherry rất mỏng dễ hư hỏng.</p><p><br></p><p>✔️Không để đồ nặng đè lên hộp cherry sẽ bị dập trái và hư hỏng.</p><p><br></p><p>✔️Không nên để cherry chung với những đồ ăn nặng mùi sẽ làm bám mùi vào cherry mất ngon.</p><p>&nbsp;</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "0,5KG"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 7458,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1KG",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1KG",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1KG",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 589000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 50,
+        "totalSold": 181,
+        "unit": "0.25KG",
+        "sku": "",
+        "rating": 568,
+        "instructions": "<p><strong><img src=\"https://images.f99.com.vn/images/ac61abdd-f61c-4d69-b07b-93e9b89623ce.jpg\">HƯỚNG DẪN BẢO QUẢN:</strong></p><p><br></p><p>Sau khi mua cherry về nhà, bạn nên:</p><p><br></p><p>✔️ Cho cherry vào những hộp nhựa, bên ngoài bọc một lớp bao nylon trong sau đó cho vào ngăn mát tủ lạnh.</p><p>✔️ Giữ cho cherry khô ráo tránh tiếp xúc trực tiếp với nước vì vỏ cherry rất mỏng dễ hư hỏng.</p><p><br></p><p>✔️Không để đồ nặng đè lên hộp cherry sẽ bị dập trái và hư hỏng.</p><p><br></p><p>✔️Không nên để cherry chung với những đồ ăn nặng mùi sẽ làm bám mùi vào cherry mất ngon.</p><p>&nbsp;</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1KG"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 11016,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 2kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "combo 2kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 2kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 1189000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 40,
+        "totalSold": 181,
+        "unit": "0.25KG",
+        "sku": "",
+        "rating": 568,
+        "instructions": "<p><strong><img src=\"https://images.f99.com.vn/images/ac61abdd-f61c-4d69-b07b-93e9b89623ce.jpg\">HƯỚNG DẪN BẢO QUẢN:</strong></p><p><br></p><p>Sau khi mua cherry về nhà, bạn nên:</p><p><br></p><p>✔️ Cho cherry vào những hộp nhựa, bên ngoài bọc một lớp bao nylon trong sau đó cho vào ngăn mát tủ lạnh.</p><p>✔️ Giữ cho cherry khô ráo tránh tiếp xúc trực tiếp với nước vì vỏ cherry rất mỏng dễ hư hỏng.</p><p><br></p><p>✔️Không để đồ nặng đè lên hộp cherry sẽ bị dập trái và hư hỏng.</p><p><br></p><p>✔️Không nên để cherry chung với những đồ ăn nặng mùi sẽ làm bám mùi vào cherry mất ngon.</p><p>&nbsp;</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "combo 2kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 11015,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "combo 3kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 1789000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 40,
+        "totalSold": 181,
+        "unit": "0.25KG",
+        "sku": "",
+        "rating": 568,
+        "instructions": "<p><strong><img src=\"https://images.f99.com.vn/images/ac61abdd-f61c-4d69-b07b-93e9b89623ce.jpg\">HƯỚNG DẪN BẢO QUẢN:</strong></p><p><br></p><p>Sau khi mua cherry về nhà, bạn nên:</p><p><br></p><p>✔️ Cho cherry vào những hộp nhựa, bên ngoài bọc một lớp bao nylon trong sau đó cho vào ngăn mát tủ lạnh.</p><p>✔️ Giữ cho cherry khô ráo tránh tiếp xúc trực tiếp với nước vì vỏ cherry rất mỏng dễ hư hỏng.</p><p><br></p><p>✔️Không để đồ nặng đè lên hộp cherry sẽ bị dập trái và hư hỏng.</p><p><br></p><p>✔️Không nên để cherry chung với những đồ ăn nặng mùi sẽ làm bám mùi vào cherry mất ngon.</p><p>&nbsp;</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "combo 3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 11014,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "combo 5kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 2950000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 40,
+        "totalSold": 181,
+        "unit": "0.25KG",
+        "sku": "",
+        "rating": 568,
+        "instructions": "<p><strong><img src=\"https://images.f99.com.vn/images/ac61abdd-f61c-4d69-b07b-93e9b89623ce.jpg\">HƯỚNG DẪN BẢO QUẢN:</strong></p><p><br></p><p>Sau khi mua cherry về nhà, bạn nên:</p><p><br></p><p>✔️ Cho cherry vào những hộp nhựa, bên ngoài bọc một lớp bao nylon trong sau đó cho vào ngăn mát tủ lạnh.</p><p>✔️ Giữ cho cherry khô ráo tránh tiếp xúc trực tiếp với nước vì vỏ cherry rất mỏng dễ hư hỏng.</p><p><br></p><p>✔️Không để đồ nặng đè lên hộp cherry sẽ bị dập trái và hư hỏng.</p><p><br></p><p>✔️Không nên để cherry chung với những đồ ăn nặng mùi sẽ làm bám mùi vào cherry mất ngon.</p><p>&nbsp;</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "combo 5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 89035,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "0.25kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "0.25kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "0.25kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 150000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 220,
+        "totalSold": 0,
+        "unit": "0.25KG",
+        "sku": "",
+        "rating": 568,
+        "instructions": "<p><strong><img src=\"https://images.f99.com.vn/images/ac61abdd-f61c-4d69-b07b-93e9b89623ce.jpg\">HƯỚNG DẪN BẢO QUẢN:</strong></p><p><br></p><p>Sau khi mua cherry về nhà, bạn nên:</p><p><br></p><p>✔️ Cho cherry vào những hộp nhựa, bên ngoài bọc một lớp bao nylon trong sau đó cho vào ngăn mát tủ lạnh.</p><p>✔️ Giữ cho cherry khô ráo tránh tiếp xúc trực tiếp với nước vì vỏ cherry rất mỏng dễ hư hỏng.</p><p><br></p><p>✔️Không để đồ nặng đè lên hộp cherry sẽ bị dập trái và hư hỏng.</p><p><br></p><p>✔️Không nên để cherry chung với những đồ ăn nặng mùi sẽ làm bám mùi vào cherry mất ngon.</p><p>&nbsp;</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "0.25kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 96,
+      "sellerRate": 4.4,
+      "sellerName": "Ánh Vy Fruit",
+      "warehouseId": "4ead612c-994e-4201-ab8c-583f2ba5437c",
+      "warehouseAddress": "10 Nguyễn Khánh Toàn, phường Quan Hoa, quận Cầu Giấy, Hà Nội ",
+      "distance": 3233,
+      "warehouseDistrict": "cau giay",
+      "reputation": 76.48368498960507,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14932,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cherry Úc hộp 1kg",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/785115cd-58fc-4931-8490-05e62a53c034.jpg\",\"https://images.f99.com.vn/images/949f8cff-9b5d-4fac-a802-5b20cb492fc4.jpg\",\"https://images.f99.com.vn/images/7f2caef6-5945-48ca-8d71-93d8cea16f7d.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cherry Úc hộp 1kg",
+    "description": "<p>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</p>",
+    "imageUrl": "https://images.f99.com.vn/images/785115cd-58fc-4931-8490-05e62a53c034.jpg",
+    "price": 650000,
+    "oldPrice": 800000,
+    "discountPercent": 19,
+    "stock": 29,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "hộp 1 kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 260,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>tủ mát</p>",
+    "category": {
+      "id": 3,
+      "name": "Cherry",
+      "imageUrl": "https://imgur.com/uWL4uWn.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/785115cd-58fc-4931-8490-05e62a53c034.jpg",
+      "https://images.f99.com.vn/images/949f8cff-9b5d-4fac-a802-5b20cb492fc4.jpg",
+      "https://images.f99.com.vn/images/7f2caef6-5945-48ca-8d71-93d8cea16f7d.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14932",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "hộp 1 kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 72710,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "hộp 1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "hộp 1 kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "hộp 1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 650000,
+        "oldPrice": 800000,
+        "discountPercent": 19,
+        "stock": 29,
+        "totalSold": 0,
+        "unit": "hộp 1 kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>tủ mát</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "hộp 1 kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 260,
+      "sellerRate": 4.4,
+      "sellerName": "Hoa quả 24 Fruit",
+      "warehouseId": "108f4ee0-3cbf-4604-95f9-63370d77dd1e",
+      "warehouseAddress": "24 Quán Thánh, Ba Đình, Hà Nội",
+      "distance": 1901,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 61.327787439614994,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15150,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cherry đỏ ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Cherry Mỹ nhập khẩu là loại trái cây được mong đợi nhất. Vào mùa hè khoảng giữa tháng 4 đến cuối tháng 8, là mùa thu hoạch cherry Mỹ. Cherry Mỹ nổi tiếng vì ngon, ngọt chứa nhiều dinh dưỡng.</p><p>Cherry Mỹ đầu tiên được nhập từ California, sau đó là từ Washington rồi đến một vài bang khác của Mỹ.Cherry mỹ được nhập về theo đường hàng không. Nên trái cherry luôn giữ được độ tươi ngon.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/2de6d30f-a7f8-4e29-8288-ba600353229a.jpg\",\"https://images.f99.com.vn/images/7b67fc00-5cd0-4417-95d1-6d7146022891.jpg\",\"https://images.f99.com.vn/images/2b4a8428-734d-45c1-ab81-fbb6e8d3e082.jfif\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cherry đỏ ",
+    "description": "<p>Cherry Mỹ nhập khẩu là loại trái cây được mong đợi nhất. Vào mùa hè khoảng giữa tháng 4 đến cuối tháng 8, là mùa thu hoạch cherry Mỹ. Cherry Mỹ nổi tiếng vì ngon, ngọt chứa nhiều dinh dưỡng.</p><p>Cherry Mỹ đầu tiên được nhập từ California, sau đó là từ Washington rồi đến một vài bang khác của Mỹ.Cherry mỹ được nhập về theo đường hàng không. Nên trái cherry luôn giữ được độ tươi ngon.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/2de6d30f-a7f8-4e29-8288-ba600353229a.jpg",
+    "price": 800000,
+    "oldPrice": 880000,
+    "discountPercent": 9,
+    "stock": 3,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 90,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Luôn giữ cherry ở tình trạng khô ráo, ăn đến đâu rửa đến đấy để tránh việc nước hấp thụ vào bên trong làm quả mềm, nhạt và ủng quả</p><p>Nên để trong hộp kín, cất trong ngăn mát tủ lạnh, tránh xa các thực phẩm gây mùi hay trái cây có giải phóng khí làm thúc chín như: táo, chuối,…</p>",
+    "category": {
+      "id": 3,
+      "name": "Cherry",
+      "imageUrl": "https://imgur.com/uWL4uWn.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/2de6d30f-a7f8-4e29-8288-ba600353229a.jpg",
+      "https://images.f99.com.vn/images/7b67fc00-5cd0-4417-95d1-6d7146022891.jpg",
+      "https://images.f99.com.vn/images/2b4a8428-734d-45c1-ab81-fbb6e8d3e082.jfif"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15150",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 95901,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 800000,
+        "oldPrice": 880000,
+        "discountPercent": 9,
+        "stock": 3,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Luôn giữ cherry ở tình trạng khô ráo, ăn đến đâu rửa đến đấy để tránh việc nước hấp thụ vào bên trong làm quả mềm, nhạt và ủng quả</p><p>Nên để trong hộp kín, cất trong ngăn mát tủ lạnh, tránh xa các thực phẩm gây mùi hay trái cây có giải phóng khí làm thúc chín như: táo, chuối,…</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 90,
+      "sellerRate": 3.8,
+      "sellerName": "Olika Fruits",
+      "warehouseId": "68b095bb-f093-4314-be68-2fd424e6edb0",
+      "warehouseAddress": "115 Nguyễn Hoàng, Mỹ Đình 2, Từ Liêm, Hà Nội, Việt Nam",
+      "distance": 6642,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 44.164000000000534,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 24858,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cherry Úc Size 26-28 ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h2>1. Quảng cáo cherry chất oxy hóa</h2><p><br></p><p><a href=\"https://hellobacsi.com/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(38, 38, 38);\">Trang chủ</a></p><p><a href=\"https://hellobacsi.com/an-uong-lanh-manh/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(38, 38, 38);\">Ăn uống lành mạnh</a></p><p><a href=\"https://hellobacsi.com/an-uong-lanh-manh/thong-tin-dinh-duong/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(38, 38, 38);\">Thông tin tin đinh dưỡng</a></p><h1><strong>7 tác phẩm của anh đào</strong></h1><p><img src=\"https://cdn.hellobacsi.com/wp-content/uploads/2018/08/tac-dung-cua-cherry.jpg\" alt=\"7 tác dụng của cherry khiến nhiều người không tiếc tiền mua\"></p><p><strong>Với màu sắc tươi tắn và ngọt thanh dịu, quảng</strong> <strong>cáo cherry khá là người Việt nam. Bạn sẽ có</strong> thể làm được điều đó!</p><p>Quảng anh đào (quảng anh đào) và hát việt nam. Anh đào từ nước có thể là anh đào New Zealand, cherry Úc, cherry Mỹ, cherry Chi Lê, cherry Trung Quốc... Một cốc hoặc khoảng 21 quả anh đào với 100 calo và 15% <a href=\"https://hellobacsi.com/an-uong-lanh-manh/thong-tin-dinh-duong/vitamin-c-va-nhung-loi-ich-cua-viec-hap-thu-vitamin-c-hang-ngay/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">vitamin C.</a> Anh đào có tác dụng gì? Sau đó là 7 tác phẩm của quảng cáo anh đào chứng minh nó là một <a href=\"https://hellobacsi.com/an-uong-lanh-manh/bi-quyet-an-uong-lanh-manh/thuc-pham-giau-chat-dinh-duong-cho-phu-nu/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">trong những sản phẩm của đinh dưỡng.</a></p><h2>1. Quảng cáo cherry chất oxy hóa</h2><p><img src=\"https://cdn.hellobacsi.com/wp-content/uploads/2018/08/tac-dung-cua-cherry-giup-tre-hoa.jpg\" alt=\"anh đào chậm lão hóa\" height=\"667\" width=\"1000\"></p><p>Quảng cáo anh đào chống oxy hóa và các chất chống <a href=\"https://hellobacsi.com/benh-co-xuong-khop/viem-khop/ho-tro-phong-ngua-va-chong-viem-khop-voi-8-thuc-pham-quen-thuoc/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">viêm.</a> Nhờ vậy, tác dụng của cherry giúp quá trình lão hóa và ngăn chặn các bệnh tim <a href=\"https://hellobacsi.com/benh-tim-mach/benh-tim/dau-hieu-benh-tim/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">,</a> <a href=\"https://hellobacsi.com/ung-thu-ung-buou/nguyen-nhan-ung-thu/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">ung thư</a>, bệnh <a href=\"https://hellobacsi.com/benh-nao-he-than-kinh/sa-sut-tri-tue-alzheimer/cac-loai-benh-alzheimer/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">Alzheimer</a>, tiểu đường và béo <a href=\"https://hellobacsi.com/an-uong-lanh-manh/beo-phi/nguoi-beo-phi/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">phì</a>.</p><h2>2. Ăn cherry có tác dụng gì? Kiểm soát đường</h2><p>Quảng anh đào có thể là một trong những tác phẩm quan trọng nhất. Điều đó có nghĩa là không phải là tăng v và xâm nhập vào đường trong nước.</p><p>Quảng bá cherry, bảo vệ và quan trọng của anh đào có thể là một con đường.</p><h2>3. Tác dụng của cherry giúp bạn ngủ ngon</h2><p>Quảng cáo cherry là một trong những trọng ít các sản phẩm của melatonin, một loại hormone được sử dụng trong chu kỳ ngủ – của bạn.</p><blockquote><strong>240 ml nước ép cherry vào sáng hoặc 1-2 giờ khi ngủ và tăng 24 phút.</strong></blockquote><h2>4. Tác dụng của cherry</h2><p><br></p><p><a href=\"https://hellobacsi.com/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(38, 38, 38);\">Trang chủ</a></p><p><a href=\"https://hellobacsi.com/an-uong-lanh-manh/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(38, 38, 38);\">Ăn uống lành mạnh</a></p><p><a href=\"https://hellobacsi.com/an-uong-lanh-manh/thong-tin-dinh-duong/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(38, 38, 38);\">Thông tin tin đinh dưỡng</a></p><h1><strong>tác phẩm của anh đào</strong></h1><p><img src=\"https://cdn.hellobacsi.com/wp-content/uploads/2018/08/tac-dung-cua-cherry.jpg\" alt=\"7 tác phẩm của anh đào\"></p><p><strong>Với màu sắc tươi tắn và ngọt thanh dịu, quảng</strong> <strong>cáo cherry khá là người Việt nam. Bạn sẽ có</strong> thể làm được điều đó!</p><p>Quảng anh đào (quảng anh đào) và hát việt nam. Anh đào từ nước có thể là anh đào New Zealand, cherry Úc, cherry Mỹ, cherry Chi Lê, cherry Trung Quốc... Một cốc hoặc khoảng 21 quả anh đào với 100 calo và 15% <a href=\"https://hellobacsi.com/an-uong-lanh-manh/thong-tin-dinh-duong/vitamin-c-va-nhung-loi-ich-cua-viec-hap-thu-vitamin-c-hang-ngay/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">vitamin C.</a> Anh đào có tác dụng gì? Sau đó là 7 tác phẩm của quảng cáo anh đào chứng minh nó là một <a href=\"https://hellobacsi.com/an-uong-lanh-manh/bi-quyet-an-uong-lanh-manh/thuc-pham-giau-chat-dinh-duong-cho-phu-nu/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">trong những sản phẩm của đinh dưỡng.</a></p><h2>1. Quảng cáo cherry chất oxy hóa</h2><p><img src=\"https://cdn.hellobacsi.com/wp-content/uploads/2018/08/tac-dung-cua-cherry-giup-tre-hoa.jpg\" alt=\"anh đào chậm lão hóa\" height=\"667\" width=\"1000\"></p><p>Quảng cáo anh đào chống oxy hóa và các chất chống <a href=\"https://hellobacsi.com/benh-co-xuong-khop/viem-khop/ho-tro-phong-ngua-va-chong-viem-khop-voi-8-thuc-pham-quen-thuoc/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">viêm.</a> Nhờ vậy, tác dụng của cherry giúp quá trình lão hóa và ngăn chặn các bệnh tim <a href=\"https://hellobacsi.com/benh-tim-mach/benh-tim/dau-hieu-benh-tim/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">,</a> <a href=\"https://hellobacsi.com/ung-thu-ung-buou/nguyen-nhan-ung-thu/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">ung thư</a>, bệnh <a href=\"https://hellobacsi.com/benh-nao-he-than-kinh/sa-sut-tri-tue-alzheimer/cac-loai-benh-alzheimer/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">Alzheimer</a>, tiểu đường và béo <a href=\"https://hellobacsi.com/an-uong-lanh-manh/beo-phi/nguoi-beo-phi/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">phì</a>.</p><h2>2. Ăn cherry có tác dụng gì? Kiểm soát đường</h2><p>Quảng anh đào có thể là một trong những tác phẩm quan trọng nhất. Điều đó có nghĩa là không phải là tăng v và xâm nhập vào đường trong nước.</p><p>Quảng bá cherry, bảo vệ và quan trọng của anh đào có thể là một con đường.</p><h2>3. Tác dụng của cherry giúp bạn ngủ ngon</h2><p>Quảng cáo cherry là một trong những trọng ít các sản phẩm của melatonin, một loại hormone sử dụng trong chu kỳ ngủ - của bạn.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/21d29afa-f88e-4e7e-8609-e08a9e37c98a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cherry Úc Size 26-28 ",
+    "description": "<h2>1. Quảng cáo cherry chất oxy hóa</h2><p><br></p><p><a href=\"https://hellobacsi.com/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(38, 38, 38);\">Trang chủ</a></p><p><a href=\"https://hellobacsi.com/an-uong-lanh-manh/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(38, 38, 38);\">Ăn uống lành mạnh</a></p><p><a href=\"https://hellobacsi.com/an-uong-lanh-manh/thong-tin-dinh-duong/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(38, 38, 38);\">Thông tin tin đinh dưỡng</a></p><h1><strong>7 tác phẩm của anh đào</strong></h1><p><img src=\"https://cdn.hellobacsi.com/wp-content/uploads/2018/08/tac-dung-cua-cherry.jpg\" alt=\"7 tác dụng của cherry khiến nhiều người không tiếc tiền mua\"></p><p><strong>Với màu sắc tươi tắn và ngọt thanh dịu, quảng</strong> <strong>cáo cherry khá là người Việt nam. Bạn sẽ có</strong> thể làm được điều đó!</p><p>Quảng anh đào (quảng anh đào) và hát việt nam. Anh đào từ nước có thể là anh đào New Zealand, cherry Úc, cherry Mỹ, cherry Chi Lê, cherry Trung Quốc... Một cốc hoặc khoảng 21 quả anh đào với 100 calo và 15% <a href=\"https://hellobacsi.com/an-uong-lanh-manh/thong-tin-dinh-duong/vitamin-c-va-nhung-loi-ich-cua-viec-hap-thu-vitamin-c-hang-ngay/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">vitamin C.</a> Anh đào có tác dụng gì? Sau đó là 7 tác phẩm của quảng cáo anh đào chứng minh nó là một <a href=\"https://hellobacsi.com/an-uong-lanh-manh/bi-quyet-an-uong-lanh-manh/thuc-pham-giau-chat-dinh-duong-cho-phu-nu/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">trong những sản phẩm của đinh dưỡng.</a></p><h2>1. Quảng cáo cherry chất oxy hóa</h2><p><img src=\"https://cdn.hellobacsi.com/wp-content/uploads/2018/08/tac-dung-cua-cherry-giup-tre-hoa.jpg\" alt=\"anh đào chậm lão hóa\" height=\"667\" width=\"1000\"></p><p>Quảng cáo anh đào chống oxy hóa và các chất chống <a href=\"https://hellobacsi.com/benh-co-xuong-khop/viem-khop/ho-tro-phong-ngua-va-chong-viem-khop-voi-8-thuc-pham-quen-thuoc/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">viêm.</a> Nhờ vậy, tác dụng của cherry giúp quá trình lão hóa và ngăn chặn các bệnh tim <a href=\"https://hellobacsi.com/benh-tim-mach/benh-tim/dau-hieu-benh-tim/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">,</a> <a href=\"https://hellobacsi.com/ung-thu-ung-buou/nguyen-nhan-ung-thu/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">ung thư</a>, bệnh <a href=\"https://hellobacsi.com/benh-nao-he-than-kinh/sa-sut-tri-tue-alzheimer/cac-loai-benh-alzheimer/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">Alzheimer</a>, tiểu đường và béo <a href=\"https://hellobacsi.com/an-uong-lanh-manh/beo-phi/nguoi-beo-phi/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">phì</a>.</p><h2>2. Ăn cherry có tác dụng gì? Kiểm soát đường</h2><p>Quảng anh đào có thể là một trong những tác phẩm quan trọng nhất. Điều đó có nghĩa là không phải là tăng v và xâm nhập vào đường trong nước.</p><p>Quảng bá cherry, bảo vệ và quan trọng của anh đào có thể là một con đường.</p><h2>3. Tác dụng của cherry giúp bạn ngủ ngon</h2><p>Quảng cáo cherry là một trong những trọng ít các sản phẩm của melatonin, một loại hormone được sử dụng trong chu kỳ ngủ – của bạn.</p><blockquote><strong>240 ml nước ép cherry vào sáng hoặc 1-2 giờ khi ngủ và tăng 24 phút.</strong></blockquote><h2>4. Tác dụng của cherry</h2><p><br></p><p><a href=\"https://hellobacsi.com/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(38, 38, 38);\">Trang chủ</a></p><p><a href=\"https://hellobacsi.com/an-uong-lanh-manh/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(38, 38, 38);\">Ăn uống lành mạnh</a></p><p><a href=\"https://hellobacsi.com/an-uong-lanh-manh/thong-tin-dinh-duong/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(38, 38, 38);\">Thông tin tin đinh dưỡng</a></p><h1><strong>tác phẩm của anh đào</strong></h1><p><img src=\"https://cdn.hellobacsi.com/wp-content/uploads/2018/08/tac-dung-cua-cherry.jpg\" alt=\"7 tác phẩm của anh đào\"></p><p><strong>Với màu sắc tươi tắn và ngọt thanh dịu, quảng</strong> <strong>cáo cherry khá là người Việt nam. Bạn sẽ có</strong> thể làm được điều đó!</p><p>Quảng anh đào (quảng anh đào) và hát việt nam. Anh đào từ nước có thể là anh đào New Zealand, cherry Úc, cherry Mỹ, cherry Chi Lê, cherry Trung Quốc... Một cốc hoặc khoảng 21 quả anh đào với 100 calo và 15% <a href=\"https://hellobacsi.com/an-uong-lanh-manh/thong-tin-dinh-duong/vitamin-c-va-nhung-loi-ich-cua-viec-hap-thu-vitamin-c-hang-ngay/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">vitamin C.</a> Anh đào có tác dụng gì? Sau đó là 7 tác phẩm của quảng cáo anh đào chứng minh nó là một <a href=\"https://hellobacsi.com/an-uong-lanh-manh/bi-quyet-an-uong-lanh-manh/thuc-pham-giau-chat-dinh-duong-cho-phu-nu/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">trong những sản phẩm của đinh dưỡng.</a></p><h2>1. Quảng cáo cherry chất oxy hóa</h2><p><img src=\"https://cdn.hellobacsi.com/wp-content/uploads/2018/08/tac-dung-cua-cherry-giup-tre-hoa.jpg\" alt=\"anh đào chậm lão hóa\" height=\"667\" width=\"1000\"></p><p>Quảng cáo anh đào chống oxy hóa và các chất chống <a href=\"https://hellobacsi.com/benh-co-xuong-khop/viem-khop/ho-tro-phong-ngua-va-chong-viem-khop-voi-8-thuc-pham-quen-thuoc/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">viêm.</a> Nhờ vậy, tác dụng của cherry giúp quá trình lão hóa và ngăn chặn các bệnh tim <a href=\"https://hellobacsi.com/benh-tim-mach/benh-tim/dau-hieu-benh-tim/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">,</a> <a href=\"https://hellobacsi.com/ung-thu-ung-buou/nguyen-nhan-ung-thu/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">ung thư</a>, bệnh <a href=\"https://hellobacsi.com/benh-nao-he-than-kinh/sa-sut-tri-tue-alzheimer/cac-loai-benh-alzheimer/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">Alzheimer</a>, tiểu đường và béo <a href=\"https://hellobacsi.com/an-uong-lanh-manh/beo-phi/nguoi-beo-phi/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(45, 135, 243);\">phì</a>.</p><h2>2. Ăn cherry có tác dụng gì? Kiểm soát đường</h2><p>Quảng anh đào có thể là một trong những tác phẩm quan trọng nhất. Điều đó có nghĩa là không phải là tăng v và xâm nhập vào đường trong nước.</p><p>Quảng bá cherry, bảo vệ và quan trọng của anh đào có thể là một con đường.</p><h2>3. Tác dụng của cherry giúp bạn ngủ ngon</h2><p>Quảng cáo cherry là một trong những trọng ít các sản phẩm của melatonin, một loại hormone sử dụng trong chu kỳ ngủ - của bạn.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/21d29afa-f88e-4e7e-8609-e08a9e37c98a.jpg",
+    "price": 799000,
+    "oldPrice": 890000,
+    "discountPercent": 10,
+    "stock": 297,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 286,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 3,
+      "name": "Cherry",
+      "imageUrl": "https://imgur.com/uWL4uWn.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/21d29afa-f88e-4e7e-8609-e08a9e37c98a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/24858",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 286,
+      "sellerRate": 4.8,
+      "sellerName": "Anh Châu Fruits ",
+      "warehouseId": "90d03d1d-fd20-41cb-a98e-29d57c1ae2cb",
+      "warehouseAddress": "110D11 Thái Thịnh, Thịnh Quang, Đống Đa, Hà Nội",
+      "distance": 2524,
+      "warehouseDistrict": "dong da",
+      "reputation": 78.82694902298906,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 76973,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cherry Newzealand",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Mang vị ngọt nhẹ, Cherry đỏ Newzealand chứa một lượng lớn vitamin C và một số vi lượng.</p><p>Trái cherry có nhiều size khác nhau, còn có tên gọi khác là&nbsp;<a href=\"https://tfruit.com.vn/sanpham/trai-cay-nhap-khau/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 153, 0);\">quả Anh Đào</a>. Trái cherry chính tự nhiên thường nứt dưới đáy quả, nếu bạn không để ý kỹ thường sẽ cho rằng trái bị hư.</p><p>Cherry có kích thước lớn dần: 26-28-30-32. Mỗi kích thước sẽ có giá bán khác nhau. Cherry xuất xứ ở các vùng miền khác nhau cũng có giá khác nhau.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/98250b75-4ddf-40ff-b183-b2221d2498ad.jpg\",\"https://images.f99.com.vn/images/21f9d5a5-faaf-4331-95a5-7ac48f066339.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"cherry\",\"cherry newzealand\",\"quả anh đào\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cherry Newzealand",
+    "description": "<p>Mang vị ngọt nhẹ, Cherry đỏ Newzealand chứa một lượng lớn vitamin C và một số vi lượng.</p><p>Trái cherry có nhiều size khác nhau, còn có tên gọi khác là&nbsp;<a href=\"https://tfruit.com.vn/sanpham/trai-cay-nhap-khau/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 153, 0);\">quả Anh Đào</a>. Trái cherry chính tự nhiên thường nứt dưới đáy quả, nếu bạn không để ý kỹ thường sẽ cho rằng trái bị hư.</p><p>Cherry có kích thước lớn dần: 26-28-30-32. Mỗi kích thước sẽ có giá bán khác nhau. Cherry xuất xứ ở các vùng miền khác nhau cũng có giá khác nhau.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/98250b75-4ddf-40ff-b183-b2221d2498ad.jpg",
+    "price": 629000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 50,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 96,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><span style=\"color: rgb(85, 85, 85); background-color: rgb(250, 249, 249);\">Cherry nhập khẩu là một loại quả xứ lạnh, không chịu được nhiệt độ cao. Vì thế nó phải được bảo quản ở nhiệt độ mát, tránh tiếp xúc trực tiếp với ánh nắng mặt trời vì dễ làm da cherry héo đi.</span></p>",
+    "category": {
+      "id": 3,
+      "name": "Cherry",
+      "imageUrl": "https://imgur.com/uWL4uWn.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "cherry",
+      "cherry newzealand",
+      "quả anh đào"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/98250b75-4ddf-40ff-b183-b2221d2498ad.jpg",
+      "https://images.f99.com.vn/images/21f9d5a5-faaf-4331-95a5-7ac48f066339.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/76973",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "KG"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 76974,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 KG",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "KG",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 KG",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 629000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 50,
+        "totalSold": 0,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p><span style=\"color: rgb(85, 85, 85); background-color: rgb(250, 249, 249);\">Cherry nhập khẩu là một loại quả xứ lạnh, không chịu được nhiệt độ cao. Vì thế nó phải được bảo quản ở nhiệt độ mát, tránh tiếp xúc trực tiếp với ánh nắng mặt trời vì dễ làm da cherry héo đi.</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "KG"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 96,
+      "sellerRate": 4.4,
+      "sellerName": "Ánh Vy Fruit",
+      "warehouseId": "4ead612c-994e-4201-ab8c-583f2ba5437c",
+      "warehouseAddress": "10 Nguyễn Khánh Toàn, phường Quan Hoa, quận Cầu Giấy, Hà Nội ",
+      "distance": 3233,
+      "warehouseDistrict": "cau giay",
+      "reputation": 76.48368498960507,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 83456,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cherry size 30 ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Cherry Mỹ size 30 quả to, bao ngọt, cuống tươi và căng mọng đã về rất nhiều tại cửa hàng ạ <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/td4/1/16/1f606.png\" alt=\"😆\" height=\"16\" width=\"16\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t28/1/16/1f352.png\" alt=\"🍒\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t28/1/16/1f352.png\" alt=\"🍒\" height=\"16\" width=\"16\"> CHERRY M.Ỹ <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t28/1/16/1f352.png\" alt=\"🍒\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t28/1/16/1f352.png\" alt=\"🍒\" height=\"16\" width=\"16\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t4d/1/16/1f4de.png\" alt=\"📞\" height=\"16\" width=\"16\">Đặt hàng để lại địa chỉ và số điện thoại</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbd/1/16/1f4a2.png\" alt=\"💢\" height=\"16\" width=\"16\"> Chất lượng giá cả yêu thương</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/9bb8443d-2711-47a7-8f8d-97ea9307aded.jpg\",\"https://images.f99.com.vn/images/dc5eca10-b82a-45e9-b437-2a92a668a06e.jpg\",\"https://images.f99.com.vn/images/6253c676-de38-4d8f-96fe-c3ecd45cf79e.jpg\",\"https://images.f99.com.vn/images/038a218c-5c6b-4451-b26e-109dc02ea4d4.jpg\",\"https://images.f99.com.vn/images/955e7120-2da4-47c8-834a-768956ae67e1.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cherry size 30 ",
+    "description": "<p>Cherry Mỹ size 30 quả to, bao ngọt, cuống tươi và căng mọng đã về rất nhiều tại cửa hàng ạ <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/td4/1/16/1f606.png\" alt=\"😆\" height=\"16\" width=\"16\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t28/1/16/1f352.png\" alt=\"🍒\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t28/1/16/1f352.png\" alt=\"🍒\" height=\"16\" width=\"16\"> CHERRY M.Ỹ <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t28/1/16/1f352.png\" alt=\"🍒\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t28/1/16/1f352.png\" alt=\"🍒\" height=\"16\" width=\"16\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t4d/1/16/1f4de.png\" alt=\"📞\" height=\"16\" width=\"16\">Đặt hàng để lại địa chỉ và số điện thoại</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbd/1/16/1f4a2.png\" alt=\"💢\" height=\"16\" width=\"16\"> Chất lượng giá cả yêu thương</p>",
+    "imageUrl": "https://images.f99.com.vn/images/9bb8443d-2711-47a7-8f8d-97ea9307aded.jpg",
+    "price": 650000,
+    "oldPrice": 680000,
+    "discountPercent": 4,
+    "stock": 1000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 236,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 3,
+      "name": "Cherry",
+      "imageUrl": "https://imgur.com/uWL4uWn.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/9bb8443d-2711-47a7-8f8d-97ea9307aded.jpg",
+      "https://images.f99.com.vn/images/dc5eca10-b82a-45e9-b437-2a92a668a06e.jpg",
+      "https://images.f99.com.vn/images/6253c676-de38-4d8f-96fe-c3ecd45cf79e.jpg",
+      "https://images.f99.com.vn/images/038a218c-5c6b-4451-b26e-109dc02ea4d4.jpg",
+      "https://images.f99.com.vn/images/955e7120-2da4-47c8-834a-768956ae67e1.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/83456",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 83457,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 650000,
+        "oldPrice": 680000,
+        "discountPercent": 4,
+        "stock": 1000,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 236,
+      "sellerRate": 3.3,
+      "sellerName": "Tonkin Fruits",
+      "warehouseId": "89ed028b-b678-42d8-b5f1-e7243035ce2d",
+      "warehouseAddress": "hoan kiem, Số 84 Bà Triệu, Hàng Bài, Hoàn Kiếm, Hà Nội",
+      "distance": 1826,
+      "warehouseDistrict": "hoan kiem",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 83524,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cherry chelan size 28-30",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p> </p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/70ee04dd-2b61-4488-9d00-64c2bb55d087.jpg\",\"https://images.f99.com.vn/images/5b0c6567-3366-4035-9b66-119b7aedd268.jpg\",\"https://images.f99.com.vn/images/9e473605-333d-4a68-b773-2143dac3a872.jpg\",\"https://images.f99.com.vn/images/d6771eef-9b2f-4b0a-b1ab-9ad9e7c2280a.jpg\",\"https://images.f99.com.vn/images/e8ac9f2f-59c9-4c33-b43a-e47a36b6deb5.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cherry chelan size 28-30",
+    "description": "<p> </p>",
+    "imageUrl": "https://images.f99.com.vn/images/70ee04dd-2b61-4488-9d00-64c2bb55d087.jpg",
+    "price": 750000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 2000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 526,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 3,
+      "name": "Cherry",
+      "imageUrl": "https://imgur.com/uWL4uWn.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/70ee04dd-2b61-4488-9d00-64c2bb55d087.jpg",
+      "https://images.f99.com.vn/images/5b0c6567-3366-4035-9b66-119b7aedd268.jpg",
+      "https://images.f99.com.vn/images/9e473605-333d-4a68-b773-2143dac3a872.jpg",
+      "https://images.f99.com.vn/images/d6771eef-9b2f-4b0a-b1ab-9ad9e7c2280a.jpg",
+      "https://images.f99.com.vn/images/e8ac9f2f-59c9-4c33-b43a-e47a36b6deb5.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/83524",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg",
+          "2kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 83525,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 750000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 1000,
+        "totalSold": 0,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 83526,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "730k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 1460000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 1000,
+        "totalSold": 0,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "730k/kg",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "2kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 526,
+      "sellerRate": 4.2,
+      "sellerName": "Kim Bảo Mart",
+      "warehouseId": "14b1e886-64b9-40a3-bf54-b65023b78cbe",
+      "warehouseAddress": " Hà Nội,  Hoàn Kiếm,  Phan Chu Trinh, 49 Trần Quốc Toản",
+      "distance": 1748,
+      "warehouseDistrict": "hoan kiem",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 88980,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cherry Chile",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>🍒 🍒🍒Cherry Chile size vip 30/32Giòn ngọt gần như cherry Newzeland mà giá chỉ bằng nửa.</p><p>Size to vật 3J tương đương sz30/32</p><p>Giá chỉ 480k/kg</p><p><br></p><p>☎️Lan fruits- 0973119505</p><p>🏠 75 đường Cầu Noi ( ngõ 145 Cổ Nhuế)</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/3e539f17-38fa-4300-bc3d-b54d248e6ba0.jpg\",\"https://images.f99.com.vn/images/c2f787b3-75a3-437c-9a81-ded54bfbbb39.jpg\",\"https://images.f99.com.vn/images/d2930aa9-a3cc-4fae-a32a-f57b8721cde9.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cherry Chile",
+    "description": "<p>🍒 🍒🍒Cherry Chile size vip 30/32Giòn ngọt gần như cherry Newzeland mà giá chỉ bằng nửa.</p><p>Size to vật 3J tương đương sz30/32</p><p>Giá chỉ 480k/kg</p><p><br></p><p>☎️Lan fruits- 0973119505</p><p>🏠 75 đường Cầu Noi ( ngõ 145 Cổ Nhuế)</p>",
+    "imageUrl": "https://images.f99.com.vn/images/3e539f17-38fa-4300-bc3d-b54d248e6ba0.jpg",
+    "price": 480000,
+    "oldPrice": 540000,
+    "discountPercent": 11,
+    "stock": 5,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 815,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": null,
+    "category": {
+      "id": 3,
+      "name": "Cherry",
+      "imageUrl": "https://imgur.com/uWL4uWn.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/3e539f17-38fa-4300-bc3d-b54d248e6ba0.jpg",
+      "https://images.f99.com.vn/images/c2f787b3-75a3-437c-9a81-ded54bfbbb39.jpg",
+      "https://images.f99.com.vn/images/d2930aa9-a3cc-4fae-a32a-f57b8721cde9.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/88980",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 88981,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 480000,
+        "oldPrice": 540000,
+        "discountPercent": 11,
+        "stock": 5,
+        "totalSold": 0,
+        "unit": "Kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 815,
+      "sellerRate": 4.2,
+      "sellerName": "Lan fruits- Trái cây nhập khẩu",
+      "warehouseId": "1ff99c80-244a-4978-b7fc-0cf8eb1eed1e",
+      "warehouseAddress": " Hà Nội,  Bắc Từ Liêm,  Cổ Nhuế 2, Số 75 đường Cầu Noi",
+      "distance": 6894,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 60.25,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 95598,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cherry Chile",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Nguồn dinh dưỡng chính của&nbsp;<a href=\"https://evefruits.com/product/cherry-chile-size-28-30-kg/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(10, 10, 10);\">quả Cherry</a>&nbsp;thường được tìm thấy ở phần nước ép của nó. Theo các chuyên gia, quả anh đào được hình thành hầu hết từ nước, với trên 75%. Với lượng nước cao đã tạo cho&nbsp;<a href=\"https://evefruits.com/product/cherry-chile-size-28-30-kg/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(10, 10, 10);\">quả anh đào</a>&nbsp;trở thành một loại thực phẩm tuyệt vời trong việc giúp giảm cân.</p><p>Do là loại thực phẩm ít calo, nhiều nước.&nbsp;<a href=\"https://evefruits.com/product/cherry-chile-size-28-30-kg/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(10, 10, 10);\">Quả Cherry Chile</a>&nbsp;giúp bạn có cảm giác mau no và kéo dài thời gian no lâu hơn các loại thức uống và thực phẩm khác. Bên cạnh đó,&nbsp;<a href=\"https://evefruits.com/product/cherry-chile-size-28-30-kg/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(10, 10, 10);\">quả anh đào</a>&nbsp;cũng là nguồn dồi dào chất xơ có thể hòa tan trong nước, có tác dụng giúp giảm cân.</p><p>Chất xơ hòa tan trong&nbsp;<a href=\"https://evefruits.com/product/cherry-chile-size-28-30-kg/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(10, 10, 10);\">quả anh đào</a>&nbsp;còn có khả năng kéo giảm mức cholesterol. Làm chậm lại quá trình hấp thu vào đường ruột các chất cholesterol gây nghẽn tim.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/9095eb24-b93b-4153-91ac-63576c601a6b.jpg\",\"https://images.f99.com.vn/images/7cec0517-7768-4c77-bcf9-f8b5f429e4c0.jpg\",\"https://images.f99.com.vn/images/5673853f-d40e-4dd4-963e-8ed71447bc8a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cherry Chile",
+    "description": "<p>Nguồn dinh dưỡng chính của&nbsp;<a href=\"https://evefruits.com/product/cherry-chile-size-28-30-kg/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(10, 10, 10);\">quả Cherry</a>&nbsp;thường được tìm thấy ở phần nước ép của nó. Theo các chuyên gia, quả anh đào được hình thành hầu hết từ nước, với trên 75%. Với lượng nước cao đã tạo cho&nbsp;<a href=\"https://evefruits.com/product/cherry-chile-size-28-30-kg/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(10, 10, 10);\">quả anh đào</a>&nbsp;trở thành một loại thực phẩm tuyệt vời trong việc giúp giảm cân.</p><p>Do là loại thực phẩm ít calo, nhiều nước.&nbsp;<a href=\"https://evefruits.com/product/cherry-chile-size-28-30-kg/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(10, 10, 10);\">Quả Cherry Chile</a>&nbsp;giúp bạn có cảm giác mau no và kéo dài thời gian no lâu hơn các loại thức uống và thực phẩm khác. Bên cạnh đó,&nbsp;<a href=\"https://evefruits.com/product/cherry-chile-size-28-30-kg/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(10, 10, 10);\">quả anh đào</a>&nbsp;cũng là nguồn dồi dào chất xơ có thể hòa tan trong nước, có tác dụng giúp giảm cân.</p><p>Chất xơ hòa tan trong&nbsp;<a href=\"https://evefruits.com/product/cherry-chile-size-28-30-kg/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(10, 10, 10);\">quả anh đào</a>&nbsp;còn có khả năng kéo giảm mức cholesterol. Làm chậm lại quá trình hấp thu vào đường ruột các chất cholesterol gây nghẽn tim.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/9095eb24-b93b-4153-91ac-63576c601a6b.jpg",
+    "price": 500000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 0,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 1023,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 3,
+      "name": "Cherry",
+      "imageUrl": "https://imgur.com/uWL4uWn.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/9095eb24-b93b-4153-91ac-63576c601a6b.jpg",
+      "https://images.f99.com.vn/images/7cec0517-7768-4c77-bcf9-f8b5f429e4c0.jpg",
+      "https://images.f99.com.vn/images/5673853f-d40e-4dd4-963e-8ed71447bc8a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/95598",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 95599,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 500000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 0,
+        "totalSold": 1,
+        "unit": "Kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1023,
+      "sellerRate": 4.5,
+      "sellerName": "Minh Lâm",
+      "warehouseId": "ebf381a5-e009-4cd4-8974-e1550c3ba968",
+      "warehouseAddress": "số 146 Nguyễn Đổng Chi, Phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội,  Cầu Diễn,  Nam Từ Liêm,  Hà Nội",
+      "distance": 7348,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 0,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 95649,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cherry Loại 1",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h3><strong style=\"color: rgb(255, 102, 0);\">1.&nbsp;Dinh dưỡng &amp; Lợi ích sức khỏe</strong></h3><p>Cherry đỏ là nguồn vitamin A tuyệt vời, là loại&nbsp;hoa quả&nbsp;nhập khẩu&nbsp;giàu chất sắt, chất xơ cao, chất béo, không cholesterol, tốt cho hệ miễn dịch, tiêu hóa và làm đẹp da. Chúng còn rất tốt cho người bị tiểu đường</p><p>Ngoài ra, Cherry giàu chất chống oxy hóa (như&nbsp;anthocyanins) rất tốt cho tim mạch, giúp bảo vệ cơ thể chống lại bệnh ung thư và nó hoạt động như một loại thuốc giảm đau và giảm viêm cho các bệnh nhân gout và khớp</p><p>Cherry còn chứa melatonin – một chất giúp điều hòa giấc ngủ nên nó có thể giúp ngủ ngon.&nbsp;Với quá nhiều lợi ích dinh dưỡng, Cherry được ví là&nbsp;<strong>“Kim cương của hoa quả”</strong></p><h3><strong style=\"color: rgb(255, 102, 0);\">2. Lưu ý bảo quản cherry tươi </strong></h3><p>Nhiệt độ cao sẽ làm quả Cherry nhanh hỏng, quả trở nên mềm và bị co lại, nhiệt độ tốt nhất để giữ quả Cherry Úc là dưới 10 độ C &amp; trong 10 ngày để trái cherry giữ được độ tươi ngon nhất</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/18976c51-80ee-4cef-8807-2ea23addd169.jpg\",\"https://images.f99.com.vn/images/060e2760-3d58-415d-a38e-5fae22b80581.jpg\",\"https://images.f99.com.vn/images/421bfe3a-9df5-4c4c-8a26-566924b07e09.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"cherry\",\"quả\",\"cherry đo\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cherry Loại 1",
+    "description": "<h3><strong style=\"color: rgb(255, 102, 0);\">1.&nbsp;Dinh dưỡng &amp; Lợi ích sức khỏe</strong></h3><p>Cherry đỏ là nguồn vitamin A tuyệt vời, là loại&nbsp;hoa quả&nbsp;nhập khẩu&nbsp;giàu chất sắt, chất xơ cao, chất béo, không cholesterol, tốt cho hệ miễn dịch, tiêu hóa và làm đẹp da. Chúng còn rất tốt cho người bị tiểu đường</p><p>Ngoài ra, Cherry giàu chất chống oxy hóa (như&nbsp;anthocyanins) rất tốt cho tim mạch, giúp bảo vệ cơ thể chống lại bệnh ung thư và nó hoạt động như một loại thuốc giảm đau và giảm viêm cho các bệnh nhân gout và khớp</p><p>Cherry còn chứa melatonin – một chất giúp điều hòa giấc ngủ nên nó có thể giúp ngủ ngon.&nbsp;Với quá nhiều lợi ích dinh dưỡng, Cherry được ví là&nbsp;<strong>“Kim cương của hoa quả”</strong></p><h3><strong style=\"color: rgb(255, 102, 0);\">2. Lưu ý bảo quản cherry tươi </strong></h3><p>Nhiệt độ cao sẽ làm quả Cherry nhanh hỏng, quả trở nên mềm và bị co lại, nhiệt độ tốt nhất để giữ quả Cherry Úc là dưới 10 độ C &amp; trong 10 ngày để trái cherry giữ được độ tươi ngon nhất</p>",
+    "imageUrl": "https://images.f99.com.vn/images/18976c51-80ee-4cef-8807-2ea23addd169.jpg",
+    "price": 650000,
+    "oldPrice": 680000,
+    "discountPercent": 4,
+    "stock": 100,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 1027,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 3,
+      "name": "Cherry",
+      "imageUrl": "https://imgur.com/uWL4uWn.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "cherry",
+      "quả",
+      "cherry đo"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/18976c51-80ee-4cef-8807-2ea23addd169.jpg",
+      "https://images.f99.com.vn/images/060e2760-3d58-415d-a38e-5fae22b80581.jpg",
+      "https://images.f99.com.vn/images/421bfe3a-9df5-4c4c-8a26-566924b07e09.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/95649",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 95650,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 650000,
+        "oldPrice": 680000,
+        "discountPercent": 4,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "Kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1027,
+      "sellerRate": 4.2,
+      "sellerName": "Dương Đào Fruits",
+      "warehouseId": "bade7cf5-3509-400f-85da-a5a1e953f35b",
+      "warehouseAddress": "118 Lương Yên, Phường Bạch Đằng, Quận Hai Bà Trưng, Hà Nội,  Bạch Đằng,  Hai Bà Trưng,  Hà Nội",
+      "distance": 3655,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 0,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

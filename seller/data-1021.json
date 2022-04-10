@@ -1,0 +1,35 @@
+{
+  "id": 1021,
+  "name": "NGOC FRESHSAUCE",
+  "logo": "https://images.f99.com.vn/groupbuy-images/1127745f-896f-4381-914b-9dd5104384a8.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "NGOC FRESHSAUCE",
+  "headQuarter": "133 Hoàng Như Tiếp, Phường Bồ Đề, Q.Long Biên, TP.Hà Nội , Bồ Đề, Long Biên, Hà Nội",
+  "email": "tuandatservice@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

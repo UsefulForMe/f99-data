@@ -1,0 +1,35 @@
+{
+  "id": 209,
+  "name": "Ô MAI HỒNG LAM",
+  "logo": "https://cdn.f99.link/groupbuy-images/e4018905-c121-403f-a3bc-a4603aa137e7.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Ô mai Hồng Lam với bề dày lịch sử 25 năm, là thương hiệu hàng đầu trong sản xuất, phân phối ô mai xí muội, đặc sản vùng miền, cung cấp các giải pháp quà cho cá nhân, doanh nghiệp. Với nhà máy sản xuất tiên tiến, đạt chứng nhận ISO 22000, ISO 14000 cùng hệ thống phân phối tiện lợi mang đến cho Quý khách những sản phẩm ngon, lành, đẹp cùng dịch vụ chu đáo, thân thiện xứng tầm Tinh hoa quà Việt.",
+  "headQuarter": "Khu Công Nghiệp Quang Minh, Chi Đông, Mê Linh, Hà Nội",
+  "email": "santmdt@honglam.vn",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.7,
+  "availableTime": {
+    "openTime": "08:30",
+    "closeTime": "20:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 27
+}

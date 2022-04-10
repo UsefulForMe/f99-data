@@ -1,0 +1,35 @@
+{
+  "id": 487,
+  "name": "Mộc Shop",
+  "logo": "https://cdn.f99.link/groupbuy-images/a39c5c3c-d3df-4fec-b859-2e7cc34e8b20.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Mộc Shop cung cấp rau củ quả, trái cây sạch.\nCác loại bột gạo: Bột gạo tám thơm Hải Hậu, bột gạo Nếp Bắc\nTrà Atiso và Tinh Bột Nghệ",
+  "headQuarter": "Số 4 ngõ 27 Phan Văn Trường, Dịch Vọng Hậu, Cầu Giấy, Hà Nội",
+  "email": "Hoangquyen1194@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:30",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

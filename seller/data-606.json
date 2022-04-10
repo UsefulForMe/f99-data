@@ -1,0 +1,35 @@
+{
+  "id": 606,
+  "name": "Basu Mart",
+  "logo": "https://cdn.f99.link/groupbuy-images/ad8eb2ba-91e3-4846-879c-a93c0332f6ad.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cung cấp tất cả các mặt hàng hải sản tươi cấp đông từ biển trà cổ quảng ninh, đồ chuyển lên hàng ngày luôn tươi mới",
+  "headQuarter": "717 Hồng Hà, Chương Dương Độ, Hoàn Kiếm, Hà Nội",
+  "email": "Nguyenthuhang1283@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "06:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

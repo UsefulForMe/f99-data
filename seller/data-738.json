@@ -1,0 +1,35 @@
+{
+  "id": 738,
+  "name": "Rau Củ Quả Xanh ",
+  "logo": "https://cdn.f99.link/groupbuy-images/f7c0871a-4761-4f30-a1a8-f6dceab389d7.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên rau củ quả",
+  "headQuarter": "Số 5 Tân Chánh Hiệp 17, Tân Chánh Hiệp, Quận 12, Hồ Chí Minh",
+  "email": "Hanh261983@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "05:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

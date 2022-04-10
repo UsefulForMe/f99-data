@@ -1,0 +1,35 @@
+{
+  "id": 645,
+  "name": "Bếp Híp",
+  "logo": "https://cdn.f99.link/groupbuy-images/3cdf740e-6a74-4d25-acd7-f383003adf4a.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Bếp Híp - Món Ngon Nhà Làm",
+  "headQuarter": "Số 15 ngõ 201 HDI homes Nguyễn Tuân, Thanh Xuân, Hà Nội",
+  "email": "Yenly07051990@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "10:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

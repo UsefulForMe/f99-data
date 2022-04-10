@@ -1,0 +1,35 @@
+{
+  "id": 128,
+  "name": "Tây Bắc Việt",
+  "logo": "https://cdn.f99.link/groupbuy-images/a7c927ed-90ef-46a2-a3e2-b1d3c714d34a.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Tổng Kho Tây Bắc Việt chuyên cung cấp các sản phẩm đặc sản vùng Tây Bắc",
+  "headQuarter": "Số 208H, Lê Trọng Tấn, Khương Mai, Thanh Xuân, Hà Nội",
+  "email": "taybacviet78@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 2
+}

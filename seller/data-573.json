@@ -1,0 +1,35 @@
+{
+  "id": 573,
+  "name": "Shop Mẹ Cún",
+  "logo": "https://cdn.f99.link/groupbuy-images/68b7a804-d945-4b38-89a2-8d27f3e1d4e2.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên đồ ăn vặt và đông lạnh",
+  "headQuarter": "1050 đường Láng, Láng Thượng, Đống Đa, Hà Nội",
+  "email": "trungthao09@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 8
+}

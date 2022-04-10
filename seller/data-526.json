@@ -1,0 +1,35 @@
+{
+  "id": 526,
+  "name": "Kim Bảo Mart",
+  "logo": "https://cdn.f99.link/groupbuy-images/76e51c6c-1d14-4ddd-aed7-dce63c0bfc5e.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Kim Bảo Mart- Siêu thị trái cây tươi nhập nhẩu cao cấp\nCam kết hàng nhập khẩu cao cấp",
+  "headQuarter": "49 Trần Quốc Toản, Phan Chu Trinh, Hoàn Kiếm, Hà Nội",
+  "email": "linhchi18@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

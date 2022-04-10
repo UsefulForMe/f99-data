@@ -1,0 +1,2851 @@
+[
+  {
+    "id": 833,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Thanh long ruột đỏ ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/daf91f65-ea85-427f-9e26-73b6c769e4dc.png\"><img src=\"https://images.f99.com.vn/images/f459876b-a652-45d3-8f8e-5830932f585b.png\"><img src=\"https://images.f99.com.vn/images/e18aa08e-6f1f-42f0-a362-69965feb6994.png\"><img src=\"https://images.f99.com.vn/images/01082b1d-ad56-489f-b7c5-f7cb6a99e71d.png\"><img src=\"https://images.f99.com.vn/images/88191f23-3c5c-4611-91a9-039becf3bc55.png\"><img src=\"https://images.f99.com.vn/images/30126e5e-1688-4a39-b0ce-a0c86a147c40.png\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[\"Vietgap\"]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/e9372d81-05dc-4a1c-8499-5dba784b812c.png\",\"https://images.f99.com.vn/images/11856d33-d310-4a6c-b752-c41638f2384f.jpg\",\"https://images.f99.com.vn/images/32aa7027-584c-418a-ac8b-e150118d9936.jpg\",\"https://images.f99.com.vn/images/67673b91-ec65-46ae-b83c-e259e3ae5514.jpg\",\"https://images.f99.com.vn/images/8b08aac0-0603-4870-beec-1221985ddb6e.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Thanh long ruột đỏ\",\"Hoa quả sạch xuất khẩu\",\"Hoa quả tươi xuất khẩu\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Thanh long ruột đỏ ",
+    "description": "<p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/daf91f65-ea85-427f-9e26-73b6c769e4dc.png\"><img src=\"https://images.f99.com.vn/images/f459876b-a652-45d3-8f8e-5830932f585b.png\"><img src=\"https://images.f99.com.vn/images/e18aa08e-6f1f-42f0-a362-69965feb6994.png\"><img src=\"https://images.f99.com.vn/images/01082b1d-ad56-489f-b7c5-f7cb6a99e71d.png\"><img src=\"https://images.f99.com.vn/images/88191f23-3c5c-4611-91a9-039becf3bc55.png\"><img src=\"https://images.f99.com.vn/images/30126e5e-1688-4a39-b0ce-a0c86a147c40.png\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/e9372d81-05dc-4a1c-8499-5dba784b812c.png",
+    "price": 24900,
+    "oldPrice": 50000,
+    "discountPercent": 50,
+    "stock": 24,
+    "totalSold": 894,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "20001226",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.6,
+    "instructions": null,
+    "category": {
+      "id": 50,
+      "name": "Thanh Long",
+      "imageUrl": "https://imgur.com/iLE3lTf.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [
+      "Vietgap"
+    ],
+    "tags": [
+      "Thanh long ruột đỏ",
+      "Hoa quả sạch xuất khẩu",
+      "Hoa quả tươi xuất khẩu"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/e9372d81-05dc-4a1c-8499-5dba784b812c.png",
+      "https://images.f99.com.vn/images/11856d33-d310-4a6c-b752-c41638f2384f.jpg",
+      "https://images.f99.com.vn/images/32aa7027-584c-418a-ac8b-e150118d9936.jpg",
+      "https://images.f99.com.vn/images/67673b91-ec65-46ae-b83c-e259e3ae5514.jpg",
+      "https://images.f99.com.vn/images/8b08aac0-0603-4870-beec-1221985ddb6e.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/833",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 5166,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 24900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 24,
+        "totalSold": 894,
+        "unit": "Kg",
+        "sku": "20001226",
+        "rating": 4.6,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 2178,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Thanh long ruột trắng",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><img src=\"https://images.f99.com.vn/images/38a647a1-5e44-4866-9dfc-9fb3a7683a14.jpg\"><img src=\"https://images.f99.com.vn/images/755cb2a8-0967-49f9-abbe-2dad69505557.png\"><img src=\"https://images.f99.com.vn/images/b8e04f93-cf74-4bf8-b763-87cc33d79e02.png\"><img src=\"https://images.f99.com.vn/images/693ca7be-10a0-4bd0-b559-91c523af9d4d.png\"><img src=\"https://images.f99.com.vn/images/72807216-fd5d-4ca6-a2d3-337fb7dd2ecb.png\"><img src=\"https://images.f99.com.vn/images/fd4f765f-d699-4afc-a807-729f2d768c94.png\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/110c7f06-a7d8-4ff4-9728-779c8e1b8ce3.png\",\"https://images.f99.com.vn/images/a0dd22dd-6181-4dcc-9b00-66459fc04cbb.png\",\"https://images.f99.com.vn/images/36292b0e-7f45-409c-9139-be01ae5d4158.png\",\"https://images.f99.com.vn/images/2e6aacb4-386f-4659-b977-d89c9c63fbdb.png\",\"https://images.f99.com.vn/images/e19ba74f-f107-4ebc-ac8c-7939f0781118.png\",\"https://images.f99.com.vn/images/21788e64-88f0-4c06-8450-07a1fb6f1b62.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Thanh long ruột trắng",
+    "description": "<p><img src=\"https://images.f99.com.vn/images/38a647a1-5e44-4866-9dfc-9fb3a7683a14.jpg\"><img src=\"https://images.f99.com.vn/images/755cb2a8-0967-49f9-abbe-2dad69505557.png\"><img src=\"https://images.f99.com.vn/images/b8e04f93-cf74-4bf8-b763-87cc33d79e02.png\"><img src=\"https://images.f99.com.vn/images/693ca7be-10a0-4bd0-b559-91c523af9d4d.png\"><img src=\"https://images.f99.com.vn/images/72807216-fd5d-4ca6-a2d3-337fb7dd2ecb.png\"><img src=\"https://images.f99.com.vn/images/fd4f765f-d699-4afc-a807-729f2d768c94.png\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/110c7f06-a7d8-4ff4-9728-779c8e1b8ce3.png",
+    "price": 24900,
+    "oldPrice": 32900,
+    "discountPercent": 24,
+    "stock": 64,
+    "totalSold": 8176,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "20001225",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.6,
+    "instructions": null,
+    "category": {
+      "id": 50,
+      "name": "Thanh Long",
+      "imageUrl": "https://imgur.com/iLE3lTf.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/110c7f06-a7d8-4ff4-9728-779c8e1b8ce3.png",
+      "https://images.f99.com.vn/images/a0dd22dd-6181-4dcc-9b00-66459fc04cbb.png",
+      "https://images.f99.com.vn/images/36292b0e-7f45-409c-9139-be01ae5d4158.png",
+      "https://images.f99.com.vn/images/2e6aacb4-386f-4659-b977-d89c9c63fbdb.png",
+      "https://images.f99.com.vn/images/e19ba74f-f107-4ebc-ac8c-7939f0781118.png",
+      "https://images.f99.com.vn/images/21788e64-88f0-4c06-8450-07a1fb6f1b62.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/2178",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg",
+          "Combo 3kg",
+          "Combo 5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 5050,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 24900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 30,
+        "totalSold": 2808,
+        "unit": "Kg",
+        "sku": "20001225",
+        "rating": 4.6,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 5051,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "23,5k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 70500,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 2697,
+        "unit": "Kg",
+        "sku": "20000469",
+        "rating": 4.6,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "23,5k/kg",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 5052,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "23,5k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 117500,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 24,
+        "totalSold": 2671,
+        "unit": "Kg",
+        "sku": "20000680",
+        "rating": 4.6,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "23,5k/kg",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 11859,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Thanh long Trắng Tiền Giang",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong>Thanh long ruột trắng</strong>&nbsp;:</p><p>Cung cấp rất nhiều lợi ích sức khỏe bởi hàm lượng calo thấp (40 calo/100g), hàm lượng vitamin C, chất xơ và một số chất chống oxy hóa cao</p><p>Nghiên cứu chỉ ra rằng: Thanh long ruột trắng giúp tăng cường miễn dịch, tốt cho tim mạch</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><img src=\"https://admin.nongsandungha.com/wp-content/uploads/2021/05/thanh-long-ruot-trang-min.jpg\" alt=\"Thanh long ruột trắng\" height=\"372\" width=\"500\"></p><p class=\"ql-align-justify\">Thanh long ruột trắng</p><h2 class=\"ql-align-justify\"><strong>8 Lợi ích từ trái thanh long ruột trắng</strong></h2><p class=\"ql-align-justify\">Với hàm lượng chất dinh dưỡng dồi dào như vitamin C, B, chất xơ, protein... thanh long ruột trắng mang lại nhiều lợi ích sức khỏe cho con người.</p><ol><li class=\"ql-align-justify\">Tốt cho hệ tim mạch</li><li class=\"ql-align-justify\">Tăng cường chức năng hoạt động hệ tiêu hóa</li><li class=\"ql-align-justify\">Phòng chống bệnh tiểu đường</li><li class=\"ql-align-justify\">Giảm tình trạng viêm khớp</li><li class=\"ql-align-justify\">Giúp phòng chống ung thư</li><li class=\"ql-align-justify\">Làm đẹp da, giúp da trở nên trắng sáng, mịn màng hơn.</li><li class=\"ql-align-justify\">Hỗ trợ giảm cân nhanh chóng, hiệu quả</li><li class=\"ql-align-justify\">giúp bảo vệ tóc khỏi bị xơ và những hư tổn ở chân tóc.</li><li class=\"ql-align-justify\">&nbsp;<a href=\"https://nongsandungha.com/thanh-long-ruot-trang-mang-lai-8-tac-dung-tuyet-voi-cho-suc-khoe.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(22, 22, 22); background-color: transparent;\"><strong>Tác dụng tuyệt của Thanh long ruột trắng với sức khỏe</strong></a></li></ol><p><img src=\"https://images.f99.com.vn/images/b9db5bb6-931c-4623-a284-2f4b406cadb3.jpg\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/8b79b2fe-7926-4570-abcc-fddf46aff264.jpg\",\"https://images.f99.com.vn/images/043802f8-42de-4f6a-8946-20063af1bce2.jpg\",\"https://images.f99.com.vn/images/a3bc648a-91b2-4fc7-84ca-18aa6fadc30a.jpg\",\"https://images.f99.com.vn/images/466aff31-a23d-4dba-adfe-ca8b0ea5d3ec.jpg\",\"https://images.f99.com.vn/images/95642a73-2615-42df-9516-6e9620c4af62.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Thanh long\",\"apple fruit\",\"thanh long trắng\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Thanh long Trắng Tiền Giang",
+    "description": "<p><strong>Thanh long ruột trắng</strong>&nbsp;:</p><p>Cung cấp rất nhiều lợi ích sức khỏe bởi hàm lượng calo thấp (40 calo/100g), hàm lượng vitamin C, chất xơ và một số chất chống oxy hóa cao</p><p>Nghiên cứu chỉ ra rằng: Thanh long ruột trắng giúp tăng cường miễn dịch, tốt cho tim mạch</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><img src=\"https://admin.nongsandungha.com/wp-content/uploads/2021/05/thanh-long-ruot-trang-min.jpg\" alt=\"Thanh long ruột trắng\" height=\"372\" width=\"500\"></p><p class=\"ql-align-justify\">Thanh long ruột trắng</p><h2 class=\"ql-align-justify\"><strong>8 Lợi ích từ trái thanh long ruột trắng</strong></h2><p class=\"ql-align-justify\">Với hàm lượng chất dinh dưỡng dồi dào như vitamin C, B, chất xơ, protein... thanh long ruột trắng mang lại nhiều lợi ích sức khỏe cho con người.</p><ol><li class=\"ql-align-justify\">Tốt cho hệ tim mạch</li><li class=\"ql-align-justify\">Tăng cường chức năng hoạt động hệ tiêu hóa</li><li class=\"ql-align-justify\">Phòng chống bệnh tiểu đường</li><li class=\"ql-align-justify\">Giảm tình trạng viêm khớp</li><li class=\"ql-align-justify\">Giúp phòng chống ung thư</li><li class=\"ql-align-justify\">Làm đẹp da, giúp da trở nên trắng sáng, mịn màng hơn.</li><li class=\"ql-align-justify\">Hỗ trợ giảm cân nhanh chóng, hiệu quả</li><li class=\"ql-align-justify\">giúp bảo vệ tóc khỏi bị xơ và những hư tổn ở chân tóc.</li><li class=\"ql-align-justify\">&nbsp;<a href=\"https://nongsandungha.com/thanh-long-ruot-trang-mang-lai-8-tac-dung-tuyet-voi-cho-suc-khoe.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(22, 22, 22); background-color: transparent;\"><strong>Tác dụng tuyệt của Thanh long ruột trắng với sức khỏe</strong></a></li></ol><p><img src=\"https://images.f99.com.vn/images/b9db5bb6-931c-4623-a284-2f4b406cadb3.jpg\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/8b79b2fe-7926-4570-abcc-fddf46aff264.jpg",
+    "price": 19900,
+    "oldPrice": 35000,
+    "discountPercent": 43,
+    "stock": 120000,
+    "totalSold": 108,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "Thanh long",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Phản hồi sản phẩm vui lòng liên hệ: </span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Hotline:0974956933</span></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Địa chỉ: Số 10A, ngõ 61 Khương Trung , Phố Khương Trung, Khương Trung,Thanh Xuân,HN</span></p>",
+    "category": {
+      "id": 50,
+      "name": "Thanh Long",
+      "imageUrl": "https://imgur.com/iLE3lTf.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Thanh long",
+      "apple fruit",
+      "thanh long trắng"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/8b79b2fe-7926-4570-abcc-fddf46aff264.jpg",
+      "https://images.f99.com.vn/images/043802f8-42de-4f6a-8946-20063af1bce2.jpg",
+      "https://images.f99.com.vn/images/a3bc648a-91b2-4fc7-84ca-18aa6fadc30a.jpg",
+      "https://images.f99.com.vn/images/466aff31-a23d-4dba-adfe-ca8b0ea5d3ec.jpg",
+      "https://images.f99.com.vn/images/95642a73-2615-42df-9516-6e9620c4af62.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/11859",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 77343,
+        "attributeTextValues": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 19900,
+        "oldPrice": 35000,
+        "discountPercent": 43,
+        "stock": 120000,
+        "totalSold": 108,
+        "unit": "kg",
+        "sku": "Thanh long",
+        "rating": 5,
+        "instructions": "<p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Phản hồi sản phẩm vui lòng liên hệ: </span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Hotline:0974956933</span></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Địa chỉ: Số 10A, ngõ 61 Khương Trung , Phố Khương Trung, Khương Trung,Thanh Xuân,HN</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 36661,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Thanh Long Ruột Đỏ Loại 1",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Thanh Long Ruột Đỏ 1 Kg</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/09bed417-9ea7-4128-8afa-b5c377af24a2.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Thanh Long Ruột Đỏ Loại 1",
+    "description": "<p>Thanh Long Ruột Đỏ 1 Kg</p>",
+    "imageUrl": "https://images.f99.com.vn/images/09bed417-9ea7-4128-8afa-b5c377af24a2.jpg",
+    "price": 55000,
+    "oldPrice": 65000,
+    "discountPercent": 15,
+    "stock": 20,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 333,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 50,
+      "name": "Thanh Long",
+      "imageUrl": "https://imgur.com/iLE3lTf.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/09bed417-9ea7-4128-8afa-b5c377af24a2.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/36661",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 61313,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 55000,
+        "oldPrice": 65000,
+        "discountPercent": 15,
+        "stock": 20,
+        "totalSold": 0,
+        "unit": "Kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 333,
+      "sellerRate": 4.5,
+      "sellerName": "HOA QUẢ TƯƠI UK",
+      "warehouseId": "00a32823-8ca3-40ea-9b90-7602ba7a142d",
+      "warehouseAddress": " Hà Nội,  Nam Từ Liêm,  Mễ Trì, Số 111 ngõ 14 Mễ Trì Hạ",
+      "distance": 5655,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 73.88293932300736,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 36966,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "THANH LONG RUỘT ĐỎ BÌNH THUẬN",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(48, 48, 48);\">Thanh long đỏ là một loại trái cây có tác dụng sức khỏe tuyệt vời. Với chức năng độc đáo, ít sâu bệnh, cây có thể phát triển bình thường mà không cần sử dụng bất kỳ loại thuốc bảo vệ thực vật nào. Vì vậy, thanh long đỏ là loại quả xanh, thân thiện với môi trường và là thực phẩm tốt cho sức khỏe, có tác dụng chữa bệnh nhất định.</span></p><p><br></p><p><span style=\"color: rgb(48, 48, 48);\">Thịt của quả thanh long đỏ giàu chất dinh dưỡng, giá trị chữa bệnh cao, có tác dụng hạ huyết áp, hạ lipid máu, giải độc , dưỡng phổi, dưỡng da, cải thiện thị lực, đồng thời cũng có tác dụng nhất định đối với bệnh táo bón, tiểu đường. Ngoài ra, thanh long đỏ còn tác dụng phòng chống nhiễm độc kim loại nặng và tăng cường sức đề kháng, chống oxy hóa, chống lão hóa và các tác dụng khác.</span></p><p><br></p><p><span style=\"color: rgb(48, 48, 48);\">Dưới đây là 10 điều cấm kỵ khi ăn thanh long.</span></p><p><strong>1. Bị tiêu chảy không nên ăn thanh long đỏ vì quả có tính lạnh.</strong>&nbsp;Người có thể chất hư hàn, thường bị tiêu chảy, chân tay mệt mỏi, sắc mặt nhợt nhạt thì không nên ăn nhiều thanh long.</p><p><strong>2. Chị em có thể tạng người luôn lạnh hoặc đến kỳ kinh nguyệt cần hết sức chú ý</strong>&nbsp;bởi ăn thanh long đỏ vào thời điểm này dễ khiến bụng lạnh hơn, tình trạng \"đèn đỏ\" thêm nặng nề, gây tổn hại sức khỏe.</p><p><strong style=\"color: rgb(48, 48, 48);\">3. Thanh long đỏ không được ăn cùng với táo gai</strong><span style=\"color: rgb(48, 48, 48);\">, vì táo gai có vị chua, nếu ăn cùng thanh long sẽ gây khó tiêu, đau bụng, đầy bụng. Thanh long có tác dụng tăng cảm giác ngon miệng, thanh nhiệt, tiêu khô, tốt nhất nên ăn kèm với tôm, kỷ tử, táo tàu…</span></p><p><strong>4. Bệnh nhân tiểu đường và cao huyết áp nên ăn ít thanh long đỏ càng tốt.&nbsp;</strong>Trong loại quả này có chứa nhiều đường glucose, khiến cho lượng đường trong máu tăng cao.</p><p><strong>5. Do trong thanh long đỏ có chứa chất anbumin thực vật nên những người dễ bị dị ứng và phụ nữ có thai không nên ăn</strong>&nbsp;thanh long đỏ, nếu ăn nhiều sẽ gây khó chịu cho cơ thể.</p><p><strong>6. Vỏ của quả thanh long đỏ chứa nhiều vi khuẩn</strong>, phải rửa sạch vỏ trước khi ăn, để tránh đưa vi khuẩn từ vỏ vào thịt trong quá trình cắt, từ đó ăn phải thịt thanh long đỏ bị nhiễm khuẩn.</p><p><strong>7. Không kết hợp thanh long đỏ với sữa</strong>, bởi nó sẽ ảnh hưởng đến chức năng tiêu hóa của đường tiêu hóa! Điều này giống như việc khi bạn uống sữa thì không được uống cùng nước cam hay chanh. Thanh long chứa nhiều vitamin C, sữa lại giàu protein, khi vào cơ thể 2 chất dinh dưỡng này kết hợp tạo nên các triệu chứng ngộ độc nhẹ, gây tiêu chảy.</p><p><strong>8. Khi mua thanh long đỏ trong siêu thị, nên chọn những quả thanh long còn tươi, trên bề mặt càng đỏ càng tốt</strong>, phần màu xanh thì càng xanh càng tốt. Nhưng nếu phần màu xanh trở nên khô héo, chứng tỏ trái thanh long đó đã không còn tươi, tốt nhất không nên ăn nhiều.</p><p><strong>9. Chú ý đến liều lượng khi ăn thanh long đỏ</strong>, vì sau khi ăn quá nhiều sẽ khiến phân và nước tiểu của cơ thể có màu đỏ sẫm, ảnh hưởng đến sức khỏe thể chất.</p><p><strong>10. Cách bảo quản thanh long tốt nhất&nbsp;</strong>là bảo quản nơi thoáng mát, không nhất thiết phải cho vào tủ lạnh, để tránh nhiệt độ lạnh làm hư hại dẫn đến biến chất.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/212e3663-ef5c-4424-917a-e48f5106451f.jpg\",\"https://images.f99.com.vn/images/2c636a0a-c3cc-404e-ba3f-2aca707a0a1e.jpg\",\"https://images.f99.com.vn/images/fc3f1aee-ef09-44ea-8311-aaf50c8a2523.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "THANH LONG RUỘT ĐỎ BÌNH THUẬN",
+    "description": "<p><span style=\"color: rgb(48, 48, 48);\">Thanh long đỏ là một loại trái cây có tác dụng sức khỏe tuyệt vời. Với chức năng độc đáo, ít sâu bệnh, cây có thể phát triển bình thường mà không cần sử dụng bất kỳ loại thuốc bảo vệ thực vật nào. Vì vậy, thanh long đỏ là loại quả xanh, thân thiện với môi trường và là thực phẩm tốt cho sức khỏe, có tác dụng chữa bệnh nhất định.</span></p><p><br></p><p><span style=\"color: rgb(48, 48, 48);\">Thịt của quả thanh long đỏ giàu chất dinh dưỡng, giá trị chữa bệnh cao, có tác dụng hạ huyết áp, hạ lipid máu, giải độc , dưỡng phổi, dưỡng da, cải thiện thị lực, đồng thời cũng có tác dụng nhất định đối với bệnh táo bón, tiểu đường. Ngoài ra, thanh long đỏ còn tác dụng phòng chống nhiễm độc kim loại nặng và tăng cường sức đề kháng, chống oxy hóa, chống lão hóa và các tác dụng khác.</span></p><p><br></p><p><span style=\"color: rgb(48, 48, 48);\">Dưới đây là 10 điều cấm kỵ khi ăn thanh long.</span></p><p><strong>1. Bị tiêu chảy không nên ăn thanh long đỏ vì quả có tính lạnh.</strong>&nbsp;Người có thể chất hư hàn, thường bị tiêu chảy, chân tay mệt mỏi, sắc mặt nhợt nhạt thì không nên ăn nhiều thanh long.</p><p><strong>2. Chị em có thể tạng người luôn lạnh hoặc đến kỳ kinh nguyệt cần hết sức chú ý</strong>&nbsp;bởi ăn thanh long đỏ vào thời điểm này dễ khiến bụng lạnh hơn, tình trạng \"đèn đỏ\" thêm nặng nề, gây tổn hại sức khỏe.</p><p><strong style=\"color: rgb(48, 48, 48);\">3. Thanh long đỏ không được ăn cùng với táo gai</strong><span style=\"color: rgb(48, 48, 48);\">, vì táo gai có vị chua, nếu ăn cùng thanh long sẽ gây khó tiêu, đau bụng, đầy bụng. Thanh long có tác dụng tăng cảm giác ngon miệng, thanh nhiệt, tiêu khô, tốt nhất nên ăn kèm với tôm, kỷ tử, táo tàu…</span></p><p><strong>4. Bệnh nhân tiểu đường và cao huyết áp nên ăn ít thanh long đỏ càng tốt.&nbsp;</strong>Trong loại quả này có chứa nhiều đường glucose, khiến cho lượng đường trong máu tăng cao.</p><p><strong>5. Do trong thanh long đỏ có chứa chất anbumin thực vật nên những người dễ bị dị ứng và phụ nữ có thai không nên ăn</strong>&nbsp;thanh long đỏ, nếu ăn nhiều sẽ gây khó chịu cho cơ thể.</p><p><strong>6. Vỏ của quả thanh long đỏ chứa nhiều vi khuẩn</strong>, phải rửa sạch vỏ trước khi ăn, để tránh đưa vi khuẩn từ vỏ vào thịt trong quá trình cắt, từ đó ăn phải thịt thanh long đỏ bị nhiễm khuẩn.</p><p><strong>7. Không kết hợp thanh long đỏ với sữa</strong>, bởi nó sẽ ảnh hưởng đến chức năng tiêu hóa của đường tiêu hóa! Điều này giống như việc khi bạn uống sữa thì không được uống cùng nước cam hay chanh. Thanh long chứa nhiều vitamin C, sữa lại giàu protein, khi vào cơ thể 2 chất dinh dưỡng này kết hợp tạo nên các triệu chứng ngộ độc nhẹ, gây tiêu chảy.</p><p><strong>8. Khi mua thanh long đỏ trong siêu thị, nên chọn những quả thanh long còn tươi, trên bề mặt càng đỏ càng tốt</strong>, phần màu xanh thì càng xanh càng tốt. Nhưng nếu phần màu xanh trở nên khô héo, chứng tỏ trái thanh long đó đã không còn tươi, tốt nhất không nên ăn nhiều.</p><p><strong>9. Chú ý đến liều lượng khi ăn thanh long đỏ</strong>, vì sau khi ăn quá nhiều sẽ khiến phân và nước tiểu của cơ thể có màu đỏ sẫm, ảnh hưởng đến sức khỏe thể chất.</p><p><strong>10. Cách bảo quản thanh long tốt nhất&nbsp;</strong>là bảo quản nơi thoáng mát, không nhất thiết phải cho vào tủ lạnh, để tránh nhiệt độ lạnh làm hư hại dẫn đến biến chất.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/212e3663-ef5c-4424-917a-e48f5106451f.jpg",
+    "price": 79000,
+    "oldPrice": 99000,
+    "discountPercent": 20,
+    "stock": 50,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 193,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><strong style=\"color: rgb(32, 33, 36);\">Thanh long</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;sẽ&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">bảo quản</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;được tầm 5 - 8 ngày.&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">Cách</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;dễ dàng nhất để&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">bảo quản thanh long</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;được lâu là&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">giữ</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;trong các kho mát có nhiệt độ từ 20 - 24 độ C. Ngoài ra, bạn cũng có thể&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">bảo quản</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;tại nhà bằng&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">cách</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;cho&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">thanh long</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;vào ngăn rau trong tủ lạnh. Tránh để những thực phẩm khác đè lên để không bị cấn hay dập nát.</span></p>",
+    "category": {
+      "id": 50,
+      "name": "Thanh Long",
+      "imageUrl": "https://imgur.com/iLE3lTf.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/212e3663-ef5c-4424-917a-e48f5106451f.jpg",
+      "https://images.f99.com.vn/images/2c636a0a-c3cc-404e-ba3f-2aca707a0a1e.jpg",
+      "https://images.f99.com.vn/images/fc3f1aee-ef09-44ea-8311-aaf50c8a2523.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/36966",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1KG"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 36967,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1KG",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1KG",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1KG",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 79000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 50,
+        "totalSold": 0,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p><strong style=\"color: rgb(32, 33, 36);\">Thanh long</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;sẽ&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">bảo quản</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;được tầm 5 - 8 ngày.&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">Cách</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;dễ dàng nhất để&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">bảo quản thanh long</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;được lâu là&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">giữ</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;trong các kho mát có nhiệt độ từ 20 - 24 độ C. Ngoài ra, bạn cũng có thể&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">bảo quản</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;tại nhà bằng&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">cách</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;cho&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">thanh long</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;vào ngăn rau trong tủ lạnh. Tránh để những thực phẩm khác đè lên để không bị cấn hay dập nát.</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1KG"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 193,
+      "sellerRate": 4.9,
+      "sellerName": "Royal Green Fruits",
+      "warehouseId": "54ea5d5f-edb9-4db9-9279-5db65d728ab8",
+      "warehouseAddress": "Shophouse D1 Mandarin Garden, Hoàng Minh Giám, Trung Hòa, Cầu Giấy, Hà Nội",
+      "distance": 4511,
+      "warehouseDistrict": "cau giay",
+      "reputation": 64.03561290322591,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 37679,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "THANH LONG RUỘT ĐỎ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>thanh long ruột đỏ hữu cơ chín cây ngọt lịm 💝 chín cây. Ko thuốc. Ko chất bảo quản. Ăn rất đậm vị. Ngon ngọt.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/a25d8ae9-81b0-4309-bf91-59c9c2c905a4.jpg\",\"https://images.f99.com.vn/images/b113b019-a5a3-424f-a5b9-f5ec05981de4.jpg\",\"https://images.f99.com.vn/images/93c2ceb5-3c3f-4469-88c9-c141e4ea39ac.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "THANH LONG RUỘT ĐỎ",
+    "description": "<p>thanh long ruột đỏ hữu cơ chín cây ngọt lịm 💝 chín cây. Ko thuốc. Ko chất bảo quản. Ăn rất đậm vị. Ngon ngọt.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/a25d8ae9-81b0-4309-bf91-59c9c2c905a4.jpg",
+    "price": 50000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 555,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 50,
+      "name": "Thanh Long",
+      "imageUrl": "https://imgur.com/iLE3lTf.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/a25d8ae9-81b0-4309-bf91-59c9c2c905a4.jpg",
+      "https://images.f99.com.vn/images/b113b019-a5a3-424f-a5b9-f5ec05981de4.jpg",
+      "https://images.f99.com.vn/images/93c2ceb5-3c3f-4469-88c9-c141e4ea39ac.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/37679",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 555,
+      "sellerRate": 4.2,
+      "sellerName": "LYD-THỰC PHẨM BẢN ĐỊA",
+      "warehouseId": "142d7402-ee61-4928-99d8-6f9713667779",
+      "warehouseAddress": " Hà Nội,  Cầu Giấy,  Nghĩa Đô, Số 17 ngõ 123 Hoàng quốc Việt",
+      "distance": 4041,
+      "warehouseDistrict": "cau giay",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 40030,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Combo 4kg thanh long quê",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Thanh long quê e quả nhỏ , vỏ mỏng dính như k có luôn . Quan trọng là cực ngọt chứ k phải ngọt vừa đâu ạ <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tb1/1.5/16/1f929.png\" alt=\"🤩\" height=\"16\" width=\"16\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbf/1.5/16/1f493.png\" alt=\"💓\" height=\"16\" width=\"16\">Đảm bảo ăn xong nhớ e suốt đời</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/25cb6604-5bee-46f2-b097-21b0b3116a62.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Combo 4kg thanh long quê",
+    "description": "<p>Thanh long quê e quả nhỏ , vỏ mỏng dính như k có luôn . Quan trọng là cực ngọt chứ k phải ngọt vừa đâu ạ <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tb1/1.5/16/1f929.png\" alt=\"🤩\" height=\"16\" width=\"16\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbf/1.5/16/1f493.png\" alt=\"💓\" height=\"16\" width=\"16\">Đảm bảo ăn xong nhớ e suốt đời</p>",
+    "imageUrl": "https://images.f99.com.vn/images/25cb6604-5bee-46f2-b097-21b0b3116a62.jpg",
+    "price": 120000,
+    "oldPrice": 160000,
+    "discountPercent": 25,
+    "stock": 100,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "4kg",
+    "sku": "A047",
+    "origin": "",
+    "sellerId": 414,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 50,
+      "name": "Thanh Long",
+      "imageUrl": "https://imgur.com/iLE3lTf.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/25cb6604-5bee-46f2-b097-21b0b3116a62.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/40030",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 414,
+      "sellerRate": 4.2,
+      "sellerName": "PHƯƠNG ANH FRESH FRUIT",
+      "warehouseId": "2b3872f1-7f0f-492f-8e42-66d70a659bfc",
+      "warehouseAddress": "Số 81,tổ 4 Phú Đô Nam Từ Liêm Hà Nội",
+      "distance": 7371,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 56.65681345565877,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 49279,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": " Thanh Long ruột đỏ Đà Lạt",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Thanh long đỏ là một loại trái cây có tác dụng sức khỏe tuyệt vời. Với chức năng độc đáo, ít sâu bệnh, cây có thể phát triển bình thường mà không cần sử dụng bất kỳ loại thuốc bảo vệ thực vật nào. Vì vậy, thanh long đỏ là loại quả xanh, thân thiện với môi trường và là thực phẩm tốt cho sức khỏe, có tác dụng chữa bệnh nhất định.</p><p>Mỗi 100g thanh long chứa 2,83g fructose và 7,83g glucose. Ngoài vitamin C, nó còn chứa 23,3mg&nbsp;axit&nbsp;malic, 2,8mg&nbsp;axit&nbsp;shikimic, 20mg&nbsp;axit&nbsp;oxalic, 19,1mg&nbsp;axit&nbsp;quinic,&nbsp;axit&nbsp;succinic,&nbsp;axit&nbsp;fumaric,… Do chứa một lượng lớn&nbsp;axit&nbsp;hữu cơ nên độ pH trong thanh long đỏ đạt 5,8 ~ 6,4.</p><p>Thịt của quả thanh long đỏ giàu chất dinh dưỡng, giá trị chữa bệnh cao, có tác dụng hạ huyết áp, hạ lipid máu, giải độc , dưỡng phổi, dưỡng da, cải thiện thị lực, đồng thời cũng có tác dụng nhất định đối với bệnh táo bón, tiểu đường. Ngoài ra, thanh long đỏ còn tác dụng phòng chống nhiễm độc kim loại nặng và tăng cường sức đề kháng, chống oxy hóa, chống lão hóa và các tác dụng khác.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/0f08e2e7-253d-4e97-baf1-e9ed34ad3ec1.jpg\",\"https://images.f99.com.vn/images/2fda0369-85fa-4e2a-8769-ae563b6ef8ea.jpg\",\"https://images.f99.com.vn/images/b7a44d98-ae1b-4074-bfa3-483c58914de0.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"thanhlong\",\"thanhlongruotdo\",\"traicay\",\"traicaytuoi\",\"dalatmart\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": " Thanh Long ruột đỏ Đà Lạt",
+    "description": "<p>Thanh long đỏ là một loại trái cây có tác dụng sức khỏe tuyệt vời. Với chức năng độc đáo, ít sâu bệnh, cây có thể phát triển bình thường mà không cần sử dụng bất kỳ loại thuốc bảo vệ thực vật nào. Vì vậy, thanh long đỏ là loại quả xanh, thân thiện với môi trường và là thực phẩm tốt cho sức khỏe, có tác dụng chữa bệnh nhất định.</p><p>Mỗi 100g thanh long chứa 2,83g fructose và 7,83g glucose. Ngoài vitamin C, nó còn chứa 23,3mg&nbsp;axit&nbsp;malic, 2,8mg&nbsp;axit&nbsp;shikimic, 20mg&nbsp;axit&nbsp;oxalic, 19,1mg&nbsp;axit&nbsp;quinic,&nbsp;axit&nbsp;succinic,&nbsp;axit&nbsp;fumaric,… Do chứa một lượng lớn&nbsp;axit&nbsp;hữu cơ nên độ pH trong thanh long đỏ đạt 5,8 ~ 6,4.</p><p>Thịt của quả thanh long đỏ giàu chất dinh dưỡng, giá trị chữa bệnh cao, có tác dụng hạ huyết áp, hạ lipid máu, giải độc , dưỡng phổi, dưỡng da, cải thiện thị lực, đồng thời cũng có tác dụng nhất định đối với bệnh táo bón, tiểu đường. Ngoài ra, thanh long đỏ còn tác dụng phòng chống nhiễm độc kim loại nặng và tăng cường sức đề kháng, chống oxy hóa, chống lão hóa và các tác dụng khác.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/0f08e2e7-253d-4e97-baf1-e9ed34ad3ec1.jpg",
+    "price": 27000,
+    "oldPrice": 30000,
+    "discountPercent": 10,
+    "stock": 50,
+    "totalSold": 42,
+    "maxQuantityPerUser": null,
+    "unit": "kG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 753,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><strong style=\"color: rgb(32, 33, 36);\">Thanh long</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;sẽ&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">bảo quản</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;được tầm 5 - 8 ngày. Cách dễ dàng nhất để&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">bảo quản thanh long</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;được lâu là giữ trong các kho mát có nhiệt độ từ 20 - 24 độ C. Ngoài ra, bạn cũng có thể&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">bảo quản</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;tại nhà bằng cách cho&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">thanh long</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;vào ngăn rau trong tủ lạnh. Tránh để những thực phẩm khác đè lên để không bị cấn hay dập nát.</span></p>",
+    "category": {
+      "id": 50,
+      "name": "Thanh Long",
+      "imageUrl": "https://imgur.com/iLE3lTf.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "thanhlong",
+      "thanhlongruotdo",
+      "traicay",
+      "traicaytuoi",
+      "dalatmart"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/0f08e2e7-253d-4e97-baf1-e9ed34ad3ec1.jpg",
+      "https://images.f99.com.vn/images/2fda0369-85fa-4e2a-8769-ae563b6ef8ea.jpg",
+      "https://images.f99.com.vn/images/b7a44d98-ae1b-4074-bfa3-483c58914de0.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/49279",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kG"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 74202,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kG",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kG",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kG",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 27000,
+        "oldPrice": 30000,
+        "discountPercent": 10,
+        "stock": 50,
+        "totalSold": 42,
+        "unit": "kG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p><strong style=\"color: rgb(32, 33, 36);\">Thanh long</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;sẽ&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">bảo quản</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;được tầm 5 - 8 ngày. Cách dễ dàng nhất để&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">bảo quản thanh long</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;được lâu là giữ trong các kho mát có nhiệt độ từ 20 - 24 độ C. Ngoài ra, bạn cũng có thể&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">bảo quản</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;tại nhà bằng cách cho&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">thanh long</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;vào ngăn rau trong tủ lạnh. Tránh để những thực phẩm khác đè lên để không bị cấn hay dập nát.</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kG"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 753,
+      "sellerRate": 4.1,
+      "sellerName": "ĐÀ LẠT MART",
+      "warehouseId": "72145374-3a89-440d-9881-429faceb9617",
+      "warehouseAddress": " Hà Nội,  Đống Đa,  Láng Hạ, 49 Vũ Ngọc Phan",
+      "distance": 2899,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.0228266044001,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 52609,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Thanh Long Ruột Đỏ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Thanh long đỏ ngon ngọt miễn bàn, ăn thanh mát, thivhs hợp giải nóng ngày hè, bảo quản nơi tháng mát</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/543795b2-2c3d-4903-813c-df39624eb0bd.jpg\",\"https://images.f99.com.vn/images/ca790591-bb66-43a1-b6d9-5dbd7e705fde.jpg\",\"https://images.f99.com.vn/images/a65e2003-da8c-4e18-a454-42fa5f67485a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"thanh long\",\"thanh long ruột đỏ\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Thanh Long Ruột Đỏ",
+    "description": "<p>Thanh long đỏ ngon ngọt miễn bàn, ăn thanh mát, thivhs hợp giải nóng ngày hè, bảo quản nơi tháng mát</p>",
+    "imageUrl": "https://images.f99.com.vn/images/543795b2-2c3d-4903-813c-df39624eb0bd.jpg",
+    "price": 40000,
+    "oldPrice": 45000,
+    "discountPercent": 11,
+    "stock": 1000,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 484,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 50,
+      "name": "Thanh Long",
+      "imageUrl": "https://imgur.com/iLE3lTf.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "thanh long",
+      "thanh long ruột đỏ"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/543795b2-2c3d-4903-813c-df39624eb0bd.jpg",
+      "https://images.f99.com.vn/images/ca790591-bb66-43a1-b6d9-5dbd7e705fde.jpg",
+      "https://images.f99.com.vn/images/a65e2003-da8c-4e18-a454-42fa5f67485a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/52609",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 95711,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 40000,
+        "oldPrice": 45000,
+        "discountPercent": 11,
+        "stock": 1000,
+        "totalSold": 3,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 484,
+      "sellerRate": 4.6,
+      "sellerName": "HOME FRUITS",
+      "warehouseId": "c9100430-cbd7-4e59-a914-9ce7a7071cbc",
+      "warehouseAddress": "Số 172 Trần Bình, phường Mỹ Đình, Quận Nam Từ Liêm, Hà Nội",
+      "distance": 6740,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 80.48249894439043,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 88941,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Thanh Long Trắng",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p Class=\"ql-align-justify\">Thanh long ruột đỏ là một sản phẩm mới, lạ, ngon, bổ dưỡng của sản phẩm \"made in Vietnam\" này. Hiện nay Hoa kỳ đã cấp code xuất khẩu cho Thanh long ruột đỏ và với kỹ thuật sản xuất tiên tiến thanh long ruột đỏ là sản phẩm tuân thủ nghiêm ngặt về VSATTP, dư lượng thuốc bảo vệ thực vật cũng như một số yêu cầu khác… đã được các đối tác xuất khẩu Mỹ, Nhật, Châu Âu tin dùng. Đặc điểm của loại Thanh Long này là nhìn quả rất nhỏ nhưng lại nặng cân (~1kg/1quả), ruột đỏ tươi, cơm giòn, thơm, đặt biệt rất ngọt, nhiều vitamin và khoáng chất. Tuy giá của loại quả này hơi cao so với Thanh long ruột trắng nhưng nó lại có vị đặc biệt thơm ngon, và trở thành món ăn cao cấp vừa ngon vừa lạ đối với người tiêu dùng trong và ngoài nước.</p><p class=\"ql-align-justify\">Theo một tài liệu khoa học (tạp chí khoa học) được công bố gần đây thì hoạt chất Lycopene có tác dụng chống ung thư , chống lão hóa......có nhiều trong các trái cây có màu đỏ như Gấc, Carot... và đặc biệt là Thanh long ruột đỏ.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/2bbb4617-ce82-46ea-b510-2593fa6defe3.png\",\"https://images.f99.com.vn/images/d1af4765-33ce-4352-b0d6-69c2625072e8.jpg\",\"https://images.f99.com.vn/images/15c45a2a-056f-4bae-8621-9a704429007a.jpg\",\"https://images.f99.com.vn/images/00b96ab8-c566-4d35-8912-c73fc5e3d052.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Thanh Long Trắng",
+    "description": "<p Class=\"ql-align-justify\">Thanh long ruột đỏ là một sản phẩm mới, lạ, ngon, bổ dưỡng của sản phẩm \"made in Vietnam\" này. Hiện nay Hoa kỳ đã cấp code xuất khẩu cho Thanh long ruột đỏ và với kỹ thuật sản xuất tiên tiến thanh long ruột đỏ là sản phẩm tuân thủ nghiêm ngặt về VSATTP, dư lượng thuốc bảo vệ thực vật cũng như một số yêu cầu khác… đã được các đối tác xuất khẩu Mỹ, Nhật, Châu Âu tin dùng. Đặc điểm của loại Thanh Long này là nhìn quả rất nhỏ nhưng lại nặng cân (~1kg/1quả), ruột đỏ tươi, cơm giòn, thơm, đặt biệt rất ngọt, nhiều vitamin và khoáng chất. Tuy giá của loại quả này hơi cao so với Thanh long ruột trắng nhưng nó lại có vị đặc biệt thơm ngon, và trở thành món ăn cao cấp vừa ngon vừa lạ đối với người tiêu dùng trong và ngoài nước.</p><p class=\"ql-align-justify\">Theo một tài liệu khoa học (tạp chí khoa học) được công bố gần đây thì hoạt chất Lycopene có tác dụng chống ung thư , chống lão hóa......có nhiều trong các trái cây có màu đỏ như Gấc, Carot... và đặc biệt là Thanh long ruột đỏ.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/2bbb4617-ce82-46ea-b510-2593fa6defe3.png",
+    "price": 19900,
+    "oldPrice": 35000,
+    "discountPercent": 43,
+    "stock": 12000,
+    "totalSold": 6,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "thanh long do",
+    "origin": "",
+    "sellerId": 250,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 50,
+      "name": "Thanh Long",
+      "imageUrl": "https://imgur.com/iLE3lTf.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/2bbb4617-ce82-46ea-b510-2593fa6defe3.png",
+      "https://images.f99.com.vn/images/d1af4765-33ce-4352-b0d6-69c2625072e8.jpg",
+      "https://images.f99.com.vn/images/15c45a2a-056f-4bae-8621-9a704429007a.jpg",
+      "https://images.f99.com.vn/images/00b96ab8-c566-4d35-8912-c73fc5e3d052.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/88941",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 96993,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 19900,
+        "oldPrice": 35000,
+        "discountPercent": 43,
+        "stock": 12000,
+        "totalSold": 6,
+        "unit": "kg",
+        "sku": "thanh long do",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 250,
+      "sellerRate": 4.7,
+      "sellerName": "Fresh Meat – Thịt Heo Sạch",
+      "warehouseId": "b9609c8f-7018-457c-8460-255c8c884fdc",
+      "warehouseAddress": "Số 10A, Ngõ 61 Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3512,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 67.83505059291078,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 92257,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Thanh Long Ruột Trắng",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(5, 5, 5);\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tc1/1.5/16/1f495.png\" alt=\"💕\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tc1/1.5/16/1f495.png\" alt=\"💕\" height=\"16\" width=\"16\">Mai e có thanh long ruột trắng, mấy chị ăn thanh long đợt trước của e rồi là biết hén, trái cồ bự, ngọt.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/4f7eee74-ff59-48bb-98b4-ba32f9823ca6.jpg\",\"https://images.f99.com.vn/images/502f51ab-4730-4030-aaee-fe1e352c3d12.jpg\",\"https://images.f99.com.vn/images/446985a5-25fb-4583-b1db-9548e37cc245.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"thanh long\",\"thanh long ruot trang\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Thanh Long Ruột Trắng",
+    "description": "<p><span style=\"color: rgb(5, 5, 5);\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tc1/1.5/16/1f495.png\" alt=\"💕\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tc1/1.5/16/1f495.png\" alt=\"💕\" height=\"16\" width=\"16\">Mai e có thanh long ruột trắng, mấy chị ăn thanh long đợt trước của e rồi là biết hén, trái cồ bự, ngọt.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/4f7eee74-ff59-48bb-98b4-ba32f9823ca6.jpg",
+    "price": 45000,
+    "oldPrice": 55000,
+    "discountPercent": 18,
+    "stock": 100,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 1023,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 50,
+      "name": "Thanh Long",
+      "imageUrl": "https://imgur.com/iLE3lTf.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "thanh long",
+      "thanh long ruot trang"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/4f7eee74-ff59-48bb-98b4-ba32f9823ca6.jpg",
+      "https://images.f99.com.vn/images/502f51ab-4730-4030-aaee-fe1e352c3d12.jpg",
+      "https://images.f99.com.vn/images/446985a5-25fb-4583-b1db-9548e37cc245.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/92257",
+    "attributes": [
+      {
+        "id": 93,
+        "name": "Tình trạng",
+        "values": [
+          "loại 1",
+          "loại 2"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 95565,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "loại 1",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 93,
+            "name": "Tình trạng",
+            "type": "text    ",
+            "value": "loại 1",
+            "attribute": {
+              "id": 93,
+              "name": "Tình trạng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "loại 1",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 45000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 50,
+        "totalSold": 0,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 93,
+            "name": "Tình trạng",
+            "value": "loại 1"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 95566,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "loại 2",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 93,
+            "name": "Tình trạng",
+            "type": "text    ",
+            "value": "loại 2",
+            "attribute": {
+              "id": 93,
+              "name": "Tình trạng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "loại 2",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 45000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 50,
+        "totalSold": 0,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 93,
+            "name": "Tình trạng",
+            "value": "loại 2"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1023,
+      "sellerRate": 4.5,
+      "sellerName": "Minh Lâm",
+      "warehouseId": "ebf381a5-e009-4cd4-8974-e1550c3ba968",
+      "warehouseAddress": "số 146 Nguyễn Đổng Chi, Phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội,  Cầu Diễn,  Nam Từ Liêm,  Hà Nội",
+      "distance": 7348,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 0,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 95595,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Thanh Long ruột Đỏ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Thanh long đỏ là một loại trái cây có tác dụng sức khỏe tuyệt vời. Với chức năng độc đáo, ít sâu bệnh, cây có thể phát triển bình thường mà không cần sử dụng bất kỳ loại thuốc bảo vệ thực vật nào. Vì vậy, thanh long đỏ là loại quả xanh, thân thiện với môi trường và là thực phẩm tốt cho sức khỏe, có tác dụng chữa bệnh nhất định.</p><p>Mỗi 100g thanh long chứa 2,83g fructose và 7,83g glucose. Ngoài vitamin C, nó còn chứa 23,3mg&nbsp;axit&nbsp;malic, 2,8mg&nbsp;axit&nbsp;shikimic, 20mg&nbsp;axit&nbsp;oxalic, 19,1mg&nbsp;axit&nbsp;quinic,&nbsp;axit&nbsp;succinic,&nbsp;axit&nbsp;fumaric,… Do chứa một lượng lớn&nbsp;axit&nbsp;hữu cơ nên độ pH trong thanh long đỏ đạt 5,8 ~ 6,4.</p><p>Thịt của quả thanh long đỏ giàu chất dinh dưỡng, giá trị chữa bệnh cao, có tác dụng hạ huyết áp, hạ lipid máu, giải độc , dưỡng phổi, dưỡng da, cải thiện thị lực, đồng thời cũng có tác dụng nhất định đối với bệnh táo bón, tiểu đường. Ngoài ra, thanh long đỏ còn tác dụng phòng chống nhiễm độc kim loại nặng và tăng cường sức đề kháng, chống oxy hóa, chống lão hóa và các tác dụng khác.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/3952731a-cd9f-4407-a1ce-37b541cf2411.jpg\",\"https://images.f99.com.vn/images/cd19e12d-1093-4683-84bf-bd7facc687f5.jfif\",\"https://images.f99.com.vn/images/b42f38a2-bca1-4879-b958-bfe2eda5e31a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Thanh Long ruột Đỏ",
+    "description": "<p>Thanh long đỏ là một loại trái cây có tác dụng sức khỏe tuyệt vời. Với chức năng độc đáo, ít sâu bệnh, cây có thể phát triển bình thường mà không cần sử dụng bất kỳ loại thuốc bảo vệ thực vật nào. Vì vậy, thanh long đỏ là loại quả xanh, thân thiện với môi trường và là thực phẩm tốt cho sức khỏe, có tác dụng chữa bệnh nhất định.</p><p>Mỗi 100g thanh long chứa 2,83g fructose và 7,83g glucose. Ngoài vitamin C, nó còn chứa 23,3mg&nbsp;axit&nbsp;malic, 2,8mg&nbsp;axit&nbsp;shikimic, 20mg&nbsp;axit&nbsp;oxalic, 19,1mg&nbsp;axit&nbsp;quinic,&nbsp;axit&nbsp;succinic,&nbsp;axit&nbsp;fumaric,… Do chứa một lượng lớn&nbsp;axit&nbsp;hữu cơ nên độ pH trong thanh long đỏ đạt 5,8 ~ 6,4.</p><p>Thịt của quả thanh long đỏ giàu chất dinh dưỡng, giá trị chữa bệnh cao, có tác dụng hạ huyết áp, hạ lipid máu, giải độc , dưỡng phổi, dưỡng da, cải thiện thị lực, đồng thời cũng có tác dụng nhất định đối với bệnh táo bón, tiểu đường. Ngoài ra, thanh long đỏ còn tác dụng phòng chống nhiễm độc kim loại nặng và tăng cường sức đề kháng, chống oxy hóa, chống lão hóa và các tác dụng khác.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/3952731a-cd9f-4407-a1ce-37b541cf2411.jpg",
+    "price": 30000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 1023,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 50,
+      "name": "Thanh Long",
+      "imageUrl": "https://imgur.com/iLE3lTf.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/3952731a-cd9f-4407-a1ce-37b541cf2411.jpg",
+      "https://images.f99.com.vn/images/cd19e12d-1093-4683-84bf-bd7facc687f5.jfif",
+      "https://images.f99.com.vn/images/b42f38a2-bca1-4879-b958-bfe2eda5e31a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/95595",
+    "attributes": [
+      {
+        "id": 93,
+        "name": "Tình trạng",
+        "values": [
+          "loại 1",
+          "loại 2"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 95596,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "loại 1",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 93,
+            "name": "Tình trạng",
+            "type": "text    ",
+            "value": "loại 1",
+            "attribute": {
+              "id": 93,
+              "name": "Tình trạng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "loại 1",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 50000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 2,
+        "unit": "Kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 93,
+            "name": "Tình trạng",
+            "value": "loại 1"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 95597,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "loại 2",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 93,
+            "name": "Tình trạng",
+            "type": "text    ",
+            "value": "loại 2",
+            "attribute": {
+              "id": 93,
+              "name": "Tình trạng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "loại 2",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 45000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "Kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 93,
+            "name": "Tình trạng",
+            "value": "loại 2"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1023,
+      "sellerRate": 4.5,
+      "sellerName": "Minh Lâm",
+      "warehouseId": "ebf381a5-e009-4cd4-8974-e1550c3ba968",
+      "warehouseAddress": "số 146 Nguyễn Đổng Chi, Phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội,  Cầu Diễn,  Nam Từ Liêm,  Hà Nội",
+      "distance": 7348,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 0,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 96591,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Thanh Long Đỏ-1kg",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Thanh long là một loại quả mọc trên cây xương rồng Hylocereus, hay còn được gọi là nữ hoàng Honolulu – một loài cây có hoa chỉ nở vào ban đêm. Cây thanh long có nguồn gốc từ Trung Mỹ và miền nam Mexico. Hiện nay, quả thanh long được trồng chủ yếu ở các vùng nhiệt đới trên thế giới.</p><p>Nhìn bên ngoài,&nbsp;<strong>quả thanh long</strong>&nbsp;có màu hồng với những chiếc lá xanh trông giống như gai mọc lên thân quả. Phần ruột thanh long thường có màu trắng hoặc đỏ cùng với những hạt màu đen điểm xuyết.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/bb3a6717-9831-4f41-af3b-1021dad1ad21.jpg\",\"https://images.f99.com.vn/images/08cfe2fd-f43b-40bc-bbc4-a40f04788590.jpg\",\"https://images.f99.com.vn/images/145753ab-c950-4625-b68b-9852d5f54b1b.jfif\",\"https://images.f99.com.vn/images/df44459e-4043-406c-81cc-0ce1fd3a69e0.jfif\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Thanh Long Đỏ-1kg",
+    "description": "<p>Thanh long là một loại quả mọc trên cây xương rồng Hylocereus, hay còn được gọi là nữ hoàng Honolulu – một loài cây có hoa chỉ nở vào ban đêm. Cây thanh long có nguồn gốc từ Trung Mỹ và miền nam Mexico. Hiện nay, quả thanh long được trồng chủ yếu ở các vùng nhiệt đới trên thế giới.</p><p>Nhìn bên ngoài,&nbsp;<strong>quả thanh long</strong>&nbsp;có màu hồng với những chiếc lá xanh trông giống như gai mọc lên thân quả. Phần ruột thanh long thường có màu trắng hoặc đỏ cùng với những hạt màu đen điểm xuyết.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/bb3a6717-9831-4f41-af3b-1021dad1ad21.jpg",
+    "price": 30000,
+    "oldPrice": 50000,
+    "discountPercent": 40,
+    "stock": 99,
+    "totalSold": 4,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 240,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 50,
+      "name": "Thanh Long",
+      "imageUrl": "https://imgur.com/iLE3lTf.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/bb3a6717-9831-4f41-af3b-1021dad1ad21.jpg",
+      "https://images.f99.com.vn/images/08cfe2fd-f43b-40bc-bbc4-a40f04788590.jpg",
+      "https://images.f99.com.vn/images/145753ab-c950-4625-b68b-9852d5f54b1b.jfif",
+      "https://images.f99.com.vn/images/df44459e-4043-406c-81cc-0ce1fd3a69e0.jfif"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/96591",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 96592,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 30000,
+        "oldPrice": 50000,
+        "discountPercent": 40,
+        "stock": 99,
+        "totalSold": 4,
+        "unit": "kg",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 240,
+      "sellerRate": 4.5,
+      "sellerName": "Homey Fruit & Veg ",
+      "warehouseId": "ccb00cae-e276-4a1b-af4a-ae822ab5c570",
+      "warehouseAddress": "số 52 ngõ 376 Bưởi, Vĩnh Phúc, Ba Đình, Hà Nội",
+      "distance": 3021,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 77.89029707147643,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

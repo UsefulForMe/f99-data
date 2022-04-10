@@ -1,0 +1,35 @@
+{
+  "id": 569,
+  "name": "KIM LOAN FRESH",
+  "logo": "https://cdn.f99.link/groupbuy-images/044edcc5-91b9-460c-95eb-9a021d07aea0.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp thịt gà, heo sỉ và lẻ. Trái cây bưởi, cam",
+  "headQuarter": "Hẻm 77/50/40/6 Chuyên Dùng 9 - KD3, Phú Mỹ, Quận 7, Hồ Chí Minh",
+  "email": "vuongloa1988@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

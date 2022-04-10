@@ -1,0 +1,35 @@
+{
+  "id": 773,
+  "name": "Thực Phẩm Quang Ngọc – Quang Ngọc Food",
+  "logo": "https://cdn.f99.link/groupbuy-images/94328fa2-5515-460e-9e7b-ef1305b59cff.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Quang Ngọc Food là đơn vị chuyên cung cấp thực phẩm thịt nhập khẩu gồm: Trâu bò gà heo và hải sản",
+  "headQuarter": "51/2 Quang Tiến, Đại Mỗ, Nam Từ Liêm, Hà Nội",
+  "email": "Thucphamquangngoc88@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "07:30",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

@@ -1,0 +1,35 @@
+{
+  "id": 850,
+  "name": "Bạch Hạc Trà",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/069bdbe3-a90b-4b96-9b1a-e2424ed2bd79.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Nơi bạn có thể mua những hộp trà biếu sang trọng, những loại trà thượng hạng... để làm quà cho gia đình, bạn bè, người thương và khách hàng. Mỗi món quà đều chứa đựng bao ân tình gửi trao.",
+  "headQuarter": "Số 106D2 Ngõ 215 Tô Hiệu, Dịch Vọng, Cầu Giấy, Hà Nội",
+  "email": "Duonglocv12@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

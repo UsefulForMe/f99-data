@@ -1,0 +1,3156 @@
+[
+  {
+    "id": 1417,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lựu đỏ Peru",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgb(29, 33, 41);\">Vùng trồng: </strong><span style=\"color: rgb(29, 33, 41);\">Ai Cập </span></p><p><strong style=\"color: rgb(29, 33, 41);\">Đặc điểm: </strong><span style=\"color: rgb(51, 51, 51);\">Quả to khổng lồ</span><strong style=\"color: rgb(51, 51, 51);\"> </strong><span style=\"color: rgb(28, 30, 33);\">khoảng 800g đến 900g 1 quả, </span><span style=\"color: rgb(51, 51, 51);\">vỏ bên ngoài và hạt bên trong đỏ au, ăn có vị ngọt mát lẫn vị chua rôn rốt…</span></p><p><strong style=\"color: rgb(29, 33, 41);\">Mùa vụ: </strong><span style=\"color: rgb(29, 33, 41);\">Từ tháng 10 đến tháng 2 năm sau. </span></p><p><img src=\"https://images.f99.com.vn/images/61616a3c-1bbe-402f-8c4c-e982dd970f7a.jpg\"></p><p><strong style=\"color: rgb(29, 33, 41);\">Dinh dưỡng và sức khỏe</strong></p><ul><li><span style=\"color: rgb(29, 33, 41);\">Đào thải, thanh lọc, chống viêm &amp; giàu chất oxy hóa...</span></li><li><span style=\"color: rgb(29, 33, 41);\">Cải thiện khả năng cương dương của nam giới</span></li><li><span style=\"color: rgb(29, 33, 41);\">Vitamin C trong lựu giúp cơ thể tổng hợp collagen tự nhiên</span></li><li><span style=\"color: rgb(29, 33, 41);\">Bổ sung vitamin cần thiết cho bà bầu</span></li></ul><p><strong style=\"color: rgb(29, 33, 41);\">Hướng dẫn bảo quản: </strong><span style=\"color: rgb(41, 43, 44);\">Lựu Ai Cập được bảo quản lựu khá đơn giản, lựu chỉ cần bảo quản từ 4*c là có thể bảo quản được 10 ngày.</span></p><p><strong>Hướng dẫn sử dụng: </strong>Lựu có thể dùng ăn trực tiếp, nước ép lựu, salad rau quả và hạt lựu, cocktail lựu...</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/1c973de5-3901-476d-a144-338132b17d22.png\",\"https://images.f99.com.vn/images/0997672c-cc5a-4a03-8b4e-bc5899e4f0ca.png\",\"https://images.f99.com.vn/images/b9de2c4e-73c7-4d2e-af3b-afefe7f2c408.png\",\"https://images.f99.com.vn/images/0cfd9620-3e80-4c1a-8318-29cf756f1538.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"lựu đỏ Ai Cập\",\"hoa quả nhập khẩu\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lựu đỏ Peru",
+    "description": "<p><strong style=\"color: rgb(29, 33, 41);\">Vùng trồng: </strong><span style=\"color: rgb(29, 33, 41);\">Ai Cập </span></p><p><strong style=\"color: rgb(29, 33, 41);\">Đặc điểm: </strong><span style=\"color: rgb(51, 51, 51);\">Quả to khổng lồ</span><strong style=\"color: rgb(51, 51, 51);\"> </strong><span style=\"color: rgb(28, 30, 33);\">khoảng 800g đến 900g 1 quả, </span><span style=\"color: rgb(51, 51, 51);\">vỏ bên ngoài và hạt bên trong đỏ au, ăn có vị ngọt mát lẫn vị chua rôn rốt…</span></p><p><strong style=\"color: rgb(29, 33, 41);\">Mùa vụ: </strong><span style=\"color: rgb(29, 33, 41);\">Từ tháng 10 đến tháng 2 năm sau. </span></p><p><img src=\"https://images.f99.com.vn/images/61616a3c-1bbe-402f-8c4c-e982dd970f7a.jpg\"></p><p><strong style=\"color: rgb(29, 33, 41);\">Dinh dưỡng và sức khỏe</strong></p><ul><li><span style=\"color: rgb(29, 33, 41);\">Đào thải, thanh lọc, chống viêm &amp; giàu chất oxy hóa...</span></li><li><span style=\"color: rgb(29, 33, 41);\">Cải thiện khả năng cương dương của nam giới</span></li><li><span style=\"color: rgb(29, 33, 41);\">Vitamin C trong lựu giúp cơ thể tổng hợp collagen tự nhiên</span></li><li><span style=\"color: rgb(29, 33, 41);\">Bổ sung vitamin cần thiết cho bà bầu</span></li></ul><p><strong style=\"color: rgb(29, 33, 41);\">Hướng dẫn bảo quản: </strong><span style=\"color: rgb(41, 43, 44);\">Lựu Ai Cập được bảo quản lựu khá đơn giản, lựu chỉ cần bảo quản từ 4*c là có thể bảo quản được 10 ngày.</span></p><p><strong>Hướng dẫn sử dụng: </strong>Lựu có thể dùng ăn trực tiếp, nước ép lựu, salad rau quả và hạt lựu, cocktail lựu...</p>",
+    "imageUrl": "https://images.f99.com.vn/images/1c973de5-3901-476d-a144-338132b17d22.png",
+    "price": 149900,
+    "oldPrice": 169000,
+    "discountPercent": 11,
+    "stock": 50,
+    "totalSold": 5,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "20001048",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": null,
+    "category": {
+      "id": 65,
+      "name": "Lựu",
+      "imageUrl": "https://imgur.com/T5xpkb6.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "lựu đỏ Ai Cập",
+      "hoa quả nhập khẩu"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/1c973de5-3901-476d-a144-338132b17d22.png",
+      "https://images.f99.com.vn/images/0997672c-cc5a-4a03-8b4e-bc5899e4f0ca.png",
+      "https://images.f99.com.vn/images/b9de2c4e-73c7-4d2e-af3b-afefe7f2c408.png",
+      "https://images.f99.com.vn/images/0cfd9620-3e80-4c1a-8318-29cf756f1538.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/1417",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "size 6"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 89573,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "size 6",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "size 6",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "size 6",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 149900,
+        "oldPrice": 169000,
+        "discountPercent": 11,
+        "stock": 50,
+        "totalSold": 5,
+        "unit": "Kg",
+        "sku": "20001048",
+        "rating": 0,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "size 6"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7425,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lựu đỏ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h3 class=\"ql-align-justify\"><strong style=\"color: rgb(230, 0, 0);\">Shop sẽ cân lại và thông báo cho khách hàng khối lượng và giá tiền theo thực tế sản phẩm.</strong></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\">Lựu Peru là loại trái cây tươi có chứa nhiều chất chống oxy hóa, vitamin C và nhiều dưỡng chất khác có tác dụng làm đẹp, tăng cường miễn dịch và bảo vệ sức khỏe, đặc biệt cho bà bầu.</h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\"><br></h3><p><img src=\"https://images.f99.com.vn/images/fd5c9f7f-c5b3-4bdd-a9c4-891f88a4d719.jpg\"></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>XUẤT XỨ : Peru</p><p><br></p><p>12 GIÁ TRỊ DINH DƯỠNG :</p><p><br></p><p><br></p><h3 class=\"ql-align-justify\">✔️ Lựu duy trì tình trạng khỏe mạnh của trái tim, giúp giảm nguy cơ tắc nghẽn động mạch.</h3><h3 class=\"ql-align-justify\">✔️Nước lựu có tác dụng ức chế các enzym gây tổn hại cho sụn, giảm viêm khớp và viêm xương.</h3><p><br></p><h3 class=\"ql-align-justify\">✔️ Lựu cũng được cho là giúp làm tan sỏi thận và thậm chí giúp rối loạn chức năng cương dương.</h3><p><br></p><h3 class=\"ql-align-justify\">✔️ Nước ép quả lựu giúp làm chậm quá trình lão hóa, giảm nếp nhăn do tiếp xúc với ánh mặt trời. Nó cũng giúp duy trì sự tái sinh của da, ngăn ngừa nám và đốm đen.</h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\">✔️ Nước lựu tái tạo tế bào da và đẩy nhanh việc chữa lành các vết thương bảo vệ da khỏi cháy nắng và làm lành vùng da bị tổn thương do nắng.</h3><p><br></p><h3 class=\"ql-align-justify\">✔️ Nước lựu chứa nhiều vitamin và khoáng chất, cũng như axit folic cần thiết cho các bà mẹ mang thai.</h3>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/ca78e037-3296-4a91-8807-47c9359d79dd.jpg\",\"https://images.f99.com.vn/images/36f4bbd8-6f6f-45a3-81fb-324c3f835d78.jpg\",\"https://images.f99.com.vn/images/2c81c123-5f2a-48f3-80a3-24c1605062f9.jpg\",\"https://images.f99.com.vn/images/0334285a-85e4-4b57-814f-fab927458671.jpg\",\"https://images.f99.com.vn/images/86d99782-1874-40f1-9e3c-0cbe772e9343.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"lựu đỏ\",\"nịu\",\"quả lựu\",\"lựu ngọt\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lựu đỏ",
+    "description": "<h3 class=\"ql-align-justify\"><strong style=\"color: rgb(230, 0, 0);\">Shop sẽ cân lại và thông báo cho khách hàng khối lượng và giá tiền theo thực tế sản phẩm.</strong></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\">Lựu Peru là loại trái cây tươi có chứa nhiều chất chống oxy hóa, vitamin C và nhiều dưỡng chất khác có tác dụng làm đẹp, tăng cường miễn dịch và bảo vệ sức khỏe, đặc biệt cho bà bầu.</h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\"><br></h3><p><img src=\"https://images.f99.com.vn/images/fd5c9f7f-c5b3-4bdd-a9c4-891f88a4d719.jpg\"></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>XUẤT XỨ : Peru</p><p><br></p><p>12 GIÁ TRỊ DINH DƯỠNG :</p><p><br></p><p><br></p><h3 class=\"ql-align-justify\">✔️ Lựu duy trì tình trạng khỏe mạnh của trái tim, giúp giảm nguy cơ tắc nghẽn động mạch.</h3><h3 class=\"ql-align-justify\">✔️Nước lựu có tác dụng ức chế các enzym gây tổn hại cho sụn, giảm viêm khớp và viêm xương.</h3><p><br></p><h3 class=\"ql-align-justify\">✔️ Lựu cũng được cho là giúp làm tan sỏi thận và thậm chí giúp rối loạn chức năng cương dương.</h3><p><br></p><h3 class=\"ql-align-justify\">✔️ Nước ép quả lựu giúp làm chậm quá trình lão hóa, giảm nếp nhăn do tiếp xúc với ánh mặt trời. Nó cũng giúp duy trì sự tái sinh của da, ngăn ngừa nám và đốm đen.</h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\">✔️ Nước lựu tái tạo tế bào da và đẩy nhanh việc chữa lành các vết thương bảo vệ da khỏi cháy nắng và làm lành vùng da bị tổn thương do nắng.</h3><p><br></p><h3 class=\"ql-align-justify\">✔️ Nước lựu chứa nhiều vitamin và khoáng chất, cũng như axit folic cần thiết cho các bà mẹ mang thai.</h3>",
+    "imageUrl": "https://images.f99.com.vn/images/ca78e037-3296-4a91-8807-47c9359d79dd.jpg",
+    "price": 99000,
+    "oldPrice": 199000,
+    "discountPercent": 50,
+    "stock": 2430,
+    "totalSold": 14,
+    "maxQuantityPerUser": null,
+    "unit": "quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 96,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 42,
+    "instructions": "<h3 class=\"ql-align-justify\"><strong>HƯỚNG DẪN BẢO QUẢN:</strong></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\">✔️ Lựu Peru bảo quản tốt nhất ở nhiệt độ 4 - 5 độ C, làm sạch và lau khô trước khi cho trái lựu vào trong ngăn mát sẽ bảo quản được lâu hơn, an toàn hơn.&nbsp;</h3><p class=\"ql-align-justify\"><br></p><h3 class=\"ql-align-justify\">✔️ Khi vận chuyển lưu ý vận chuyển nhẹ tay, tránh bị dập dẫn đến hỏng những hạt ngay dưới lớp vỏ.</h3>",
+    "category": {
+      "id": 65,
+      "name": "Lựu",
+      "imageUrl": "https://imgur.com/T5xpkb6.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "lựu đỏ",
+      "nịu",
+      "quả lựu",
+      "lựu ngọt"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/ca78e037-3296-4a91-8807-47c9359d79dd.jpg",
+      "https://images.f99.com.vn/images/36f4bbd8-6f6f-45a3-81fb-324c3f835d78.jpg",
+      "https://images.f99.com.vn/images/2c81c123-5f2a-48f3-80a3-24c1605062f9.jpg",
+      "https://images.f99.com.vn/images/0334285a-85e4-4b57-814f-fab927458671.jpg",
+      "https://images.f99.com.vn/images/86d99782-1874-40f1-9e3c-0cbe772e9343.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7425",
+    "attributes": [
+      {
+        "id": 93,
+        "name": "Tình trạng",
+        "values": [
+          "0.55kg/quả"
+        ]
+      },
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1 quả",
+          "3 quả",
+          "5 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 66497,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "0.55kg/quả / 1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 93,
+            "name": "Tình trạng",
+            "type": "text    ",
+            "value": "0.55kg/quả",
+            "attribute": {
+              "id": 93,
+              "name": "Tình trạng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "0.55kg/quả / 1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 99000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 810,
+        "totalSold": 6,
+        "unit": "quả",
+        "sku": "",
+        "rating": 42,
+        "instructions": "<h3 class=\"ql-align-justify\"><strong>HƯỚNG DẪN BẢO QUẢN:</strong></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\">✔️ Lựu Peru bảo quản tốt nhất ở nhiệt độ 4 - 5 độ C, làm sạch và lau khô trước khi cho trái lựu vào trong ngăn mát sẽ bảo quản được lâu hơn, an toàn hơn.&nbsp;</h3><p class=\"ql-align-justify\"><br></p><h3 class=\"ql-align-justify\">✔️ Khi vận chuyển lưu ý vận chuyển nhẹ tay, tránh bị dập dẫn đến hỏng những hạt ngay dưới lớp vỏ.</h3>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 93,
+            "name": "Tình trạng",
+            "value": "0.55kg/quả"
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 66495,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "0.55kg/quả / 3 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 93,
+            "name": "Tình trạng",
+            "type": "text    ",
+            "value": "0.55kg/quả",
+            "attribute": {
+              "id": 93,
+              "name": "Tình trạng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "3 quả",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "0.55kg/quả / 3 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 289000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 810,
+        "totalSold": 4,
+        "unit": "quả",
+        "sku": "",
+        "rating": 42,
+        "instructions": "<h3 class=\"ql-align-justify\"><strong>HƯỚNG DẪN BẢO QUẢN:</strong></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\">✔️ Lựu Peru bảo quản tốt nhất ở nhiệt độ 4 - 5 độ C, làm sạch và lau khô trước khi cho trái lựu vào trong ngăn mát sẽ bảo quản được lâu hơn, an toàn hơn.&nbsp;</h3><p class=\"ql-align-justify\"><br></p><h3 class=\"ql-align-justify\">✔️ Khi vận chuyển lưu ý vận chuyển nhẹ tay, tránh bị dập dẫn đến hỏng những hạt ngay dưới lớp vỏ.</h3>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 93,
+            "name": "Tình trạng",
+            "value": "0.55kg/quả"
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "3 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 66496,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "0.55kg/quả / 5 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 93,
+            "name": "Tình trạng",
+            "type": "text    ",
+            "value": "0.55kg/quả",
+            "attribute": {
+              "id": 93,
+              "name": "Tình trạng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "5 quả",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "0.55kg/quả / 5 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 469000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 810,
+        "totalSold": 4,
+        "unit": "quả",
+        "sku": "",
+        "rating": 42,
+        "instructions": "<h3 class=\"ql-align-justify\"><strong>HƯỚNG DẪN BẢO QUẢN:</strong></h3><h3 class=\"ql-align-justify\"><br></h3><h3 class=\"ql-align-justify\">✔️ Lựu Peru bảo quản tốt nhất ở nhiệt độ 4 - 5 độ C, làm sạch và lau khô trước khi cho trái lựu vào trong ngăn mát sẽ bảo quản được lâu hơn, an toàn hơn.&nbsp;</h3><p class=\"ql-align-justify\"><br></p><h3 class=\"ql-align-justify\">✔️ Khi vận chuyển lưu ý vận chuyển nhẹ tay, tránh bị dập dẫn đến hỏng những hạt ngay dưới lớp vỏ.</h3>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 93,
+            "name": "Tình trạng",
+            "value": "0.55kg/quả"
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "5 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 96,
+      "sellerRate": 4.4,
+      "sellerName": "Ánh Vy Fruit",
+      "warehouseId": "4ead612c-994e-4201-ab8c-583f2ba5437c",
+      "warehouseAddress": "10 Nguyễn Khánh Toàn, phường Quan Hoa, quận Cầu Giấy, Hà Nội ",
+      "distance": 3233,
+      "warehouseDistrict": "cau giay",
+      "reputation": 76.48368498960507,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 12880,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "lựu",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p> CHỐNG LÃO HOÁ ,LÀM ĐẸP DA HIỆU QUẢ</p><p> lựu chứa một nguồn giàu chất chống ôxi hoá cùng với các vitamin A ,C ,E ,và nhiều khoáng chất khác</p><p>PHÒNG CHỐNG SƠ VỮA ĐỘNG MẠCH</p><p>PHÒNG CHỐNG VIÊM KHỚP</p><p>BAOER VỆ VÀ PHỤC HỒI GAN ,THẬN</p><p>TĂNG ĐỀ KHÁNG</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/9d6afbe3-cbda-45d5-b682-f794cd2661d6.jpg\",\"https://images.f99.com.vn/images/43c628d7-4ec0-4445-9b92-2b98e6f2e70c.jpg\",\"https://images.f99.com.vn/images/e192321d-1080-4c52-8746-9826da161784.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "lựu",
+    "description": "<p> CHỐNG LÃO HOÁ ,LÀM ĐẸP DA HIỆU QUẢ</p><p> lựu chứa một nguồn giàu chất chống ôxi hoá cùng với các vitamin A ,C ,E ,và nhiều khoáng chất khác</p><p>PHÒNG CHỐNG SƠ VỮA ĐỘNG MẠCH</p><p>PHÒNG CHỐNG VIÊM KHỚP</p><p>BAOER VỆ VÀ PHỤC HỒI GAN ,THẬN</p><p>TĂNG ĐỀ KHÁNG</p>",
+    "imageUrl": "https://images.f99.com.vn/images/9d6afbe3-cbda-45d5-b682-f794cd2661d6.jpg",
+    "price": 300000,
+    "oldPrice": 240000,
+    "discountPercent": -25,
+    "stock": 10,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 220,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>bảo quản trong tủ mát</p>",
+    "category": {
+      "id": 65,
+      "name": "Lựu",
+      "imageUrl": "https://imgur.com/T5xpkb6.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/9d6afbe3-cbda-45d5-b682-f794cd2661d6.jpg",
+      "https://images.f99.com.vn/images/43c628d7-4ec0-4445-9b92-2b98e6f2e70c.jpg",
+      "https://images.f99.com.vn/images/e192321d-1080-4c52-8746-9826da161784.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12880",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 220,
+      "sellerRate": 4.5,
+      "sellerName": "Mai Hoa Fruit",
+      "warehouseId": "318b6254-bdee-408b-91a1-df079579dc6d",
+      "warehouseAddress": "Số 19 ngõ 10 Nguyễn Thị Định, Trung Hoà, Cầu Giấy, Hà Nội",
+      "distance": 3649,
+      "warehouseDistrict": "cau giay",
+      "reputation": 65.73371431372549,
+      "others": [
+        {
+          "sellerId": 220,
+          "sellerRate": 4.5,
+          "sellerName": "Mai Hoa Fruit",
+          "warehouseId": "318b6254-bdee-408b-91a1-df079579dc6d",
+          "warehouseAddress": "Số 19 ngõ 10 Nguyễn Thị Định, Trung Hoà, Cầu Giấy, Hà Nội",
+          "distance": 3649,
+          "warehouseDistrict": "cau giay",
+          "reputation": 65.73371431372549,
+          "others": []
+        },
+        {
+          "sellerId": 220,
+          "sellerRate": 4.5,
+          "sellerName": "Mai Hoa Fruit",
+          "warehouseId": "c802dd36-8dd8-48f8-8fb5-62e3b6471417",
+          "warehouseAddress": "195 Quang Trung, Quang Trung, Hà Đông​, Hà Nội",
+          "distance": 9097,
+          "warehouseDistrict": "ha dong",
+          "reputation": 65.73371431372549,
+          "others": []
+        },
+        {
+          "sellerId": 220,
+          "sellerRate": 4.5,
+          "sellerName": "Mai Hoa Fruit",
+          "warehouseId": "c3d1fd66-42a4-4a2d-a215-47c3185e5f08",
+          "warehouseAddress": "Số 140 Tô Hiệu, Hà Cầu, Hà Đông, Hà Nội",
+          "distance": 9098,
+          "warehouseDistrict": "ha dong",
+          "reputation": 65.73371431372549,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14692,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lựu peru",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Lựu Peru với điểm nổi bật là lớp vỏ ngoài đỏ bóng. Trái khá to và trọng lượng rơi vào khoản 600 đến 700g trên một trái.</p><h2>Nguồn Gốc Và Đặc Điểm Lựu Peru</h2><p><img src=\"https://healthgold.com.vn/wp-content/uploads/2020/07/Luu-peru-trai-cay-nhap-khau-healthgold-1-min.jpg\"><em>Lựu Peru có màu sắc khá bắt mắt</em></p><p>Loại lựu Peru này có vỏ ngoài màu đỏ, khá bóng, rất thích hợp cho việt biếu tặng. Chất lượng quả khá tốt. Các hạt lựu nhỏ có màu đỏ thẩm, nhiều nước và rất ngọt.</p><p>Nơi trồng xuất khẩu đầu tiên lựu Peru chính là khu vực Ica, phía nam ( Nam Mỹ) Peru. Tại đất nước này, loại trái cây nhập khẩu như lựu Peru được kiểm tra khá kỹ lưỡng. Nên nhiều thị trường trên khắp các nước rất ưu chuộng loại lựu Peru này.</p><p><img src=\"https://healthgold.com.vn/wp-content/uploads/2020/07/Luu-peru-trai-cay-nhap-khau-healthgold-2-min.jpg\"><em>Những hạt lựu Peru mọng nước</em></p><p>Hiện tại trên thị trường Việt Nam cũng có lượng nhập khẩu loại này tương đối nhiều. Chúng xuất hiện khắp nơi ở những cữa hàng lớn tại Hà Nội và Hồ Chí Minh.</p><p>Mùa vụ: Lựu Perru thường bắt đầu từ tháng 2 đến tháng 7.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/130691d7-e818-4621-b406-573d71238055.jpg\",\"https://images.f99.com.vn/images/b2c2d89f-d93f-43b6-8c69-87f71fd66337.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lựu peru",
+    "description": "<p>Lựu Peru với điểm nổi bật là lớp vỏ ngoài đỏ bóng. Trái khá to và trọng lượng rơi vào khoản 600 đến 700g trên một trái.</p><h2>Nguồn Gốc Và Đặc Điểm Lựu Peru</h2><p><img src=\"https://healthgold.com.vn/wp-content/uploads/2020/07/Luu-peru-trai-cay-nhap-khau-healthgold-1-min.jpg\"><em>Lựu Peru có màu sắc khá bắt mắt</em></p><p>Loại lựu Peru này có vỏ ngoài màu đỏ, khá bóng, rất thích hợp cho việt biếu tặng. Chất lượng quả khá tốt. Các hạt lựu nhỏ có màu đỏ thẩm, nhiều nước và rất ngọt.</p><p>Nơi trồng xuất khẩu đầu tiên lựu Peru chính là khu vực Ica, phía nam ( Nam Mỹ) Peru. Tại đất nước này, loại trái cây nhập khẩu như lựu Peru được kiểm tra khá kỹ lưỡng. Nên nhiều thị trường trên khắp các nước rất ưu chuộng loại lựu Peru này.</p><p><img src=\"https://healthgold.com.vn/wp-content/uploads/2020/07/Luu-peru-trai-cay-nhap-khau-healthgold-2-min.jpg\"><em>Những hạt lựu Peru mọng nước</em></p><p>Hiện tại trên thị trường Việt Nam cũng có lượng nhập khẩu loại này tương đối nhiều. Chúng xuất hiện khắp nơi ở những cữa hàng lớn tại Hà Nội và Hồ Chí Minh.</p><p>Mùa vụ: Lựu Perru thường bắt đầu từ tháng 2 đến tháng 7.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/130691d7-e818-4621-b406-573d71238055.jpg",
+    "price": 150000,
+    "oldPrice": 150000,
+    "discountPercent": 0,
+    "stock": 6000,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 236,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<h2>Cách Bảo Quản Lựu Peru Được Lâu Dài.</h2><p><img src=\"https://healthgold.com.vn/wp-content/uploads/2020/07/Luu-peru-trai-cay-nhap-khau-healthgold-5-min.jpg\"><em>Kích thước lớn của Lựu Peru</em></p><p>Để luôn giữ chất lượng lưu Peru ở mức tốt nhất. Bạn đơn giản chỉ cần bảo quản ở nhiệt độ 4 độ C là đả có thể giử đến 10 Ngày. Ngoài ra do Peru là loại quả có lớp vỏ mỏng. Nên quá trình vẩn chuyển phải luôn ổn định. Tránh tình trạng vận chuyển làm dập hỏng đi phần hạt trong lớp vỏ.</p><p>Việc dùng Lựu Peru đúng cách củng chính là cách giử chất lượng quả tốt nhất. Nếu bạn không biết cách tách lựu, điểu đó sẽ làm dập đi phần hạt rất nhiều và làm quả mất ngon.</p><p><em>Cách tách lựu đơn giản</em></p><p>Cách tách lựu đơn giản:</p><ul><li>Cắt đi phần đầu của Lựu Peru</li><li>Sau đó cắt vào các khe mắt</li><li>Dùng tay nhẹ nhàng tách lựu</li></ul><p>Các bước quá đơn giản phải không? Cho nên ăn trái cây đúng cách củng giúp bạn ngon miệng hơn đấy.</p>",
+    "category": {
+      "id": 65,
+      "name": "Lựu",
+      "imageUrl": "https://imgur.com/T5xpkb6.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/130691d7-e818-4621-b406-573d71238055.jpg",
+      "https://images.f99.com.vn/images/b2c2d89f-d93f-43b6-8c69-87f71fd66337.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14692",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 236,
+      "sellerRate": 3.3,
+      "sellerName": "Tonkin Fruits",
+      "warehouseId": "89ed028b-b678-42d8-b5f1-e7243035ce2d",
+      "warehouseAddress": "hoan kiem, Số 84 Bà Triệu, Hàng Bài, Hoàn Kiếm, Hà Nội",
+      "distance": 1826,
+      "warehouseDistrict": "hoan kiem",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 17132,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lựu Đỏ (Quả 600gr - 700gr)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h2><strong>Đặc điểm</strong></h2><ul><li><em>Lựu đỏ quảng</em> cáo khi còn sống, vỏ đỏ sẫm</li><li>Lựu đỏ trái, trung bình 1 quảng lựu Nga giao động từ 600gr đến 700gr. Ruột lựu đỏ au, ăn ngọt và mọng nước, mùi thơm đặc trưng trưng</li></ul><h2><strong>Giá trị đinh dưỡng</strong></h2><ul><li>Lựu đỏ giàu chất oxi hóa, bảo vệ các tác phẩm của do do lão hóa, các bệnh tim mạch và ung thư.</li><li>Dầu hạt Lựu có khả năng năng ngăn chặn các thành tế bào ung thư da với khả năng mau liền các thương hiệu da.</li><li>Ra nước quảng cáo lựu có vai trò phụ nữ phó với bài báo của thời đại kinh.</li><li>Nước lựu và duy trì sức khỏe tim mạch và phòng ngừa các bệnh tim mạch.</li></ul><h2><strong>Sử dụng và bảo quản</strong></h2><ul><li>Lựu đỏ và bảo vệ lựu khá đơn giản (không như cherry hay <a href=\"https://thuyanhfruits.com/san-pham/viet-quat-hoa-qua-nhap-khau/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 72, 98);\">việt quất</a> và hơi tây).</li><li>Lựu chỉ cần bảo quản từ 4 *c là có thể bảo vệ 10 ngày</li><li>Lựu đỏ và chuyển nhẹ tây, tránh bị ảnh hưởng bởi sự khác biệt.</li></ul>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/594133ea-474f-4757-adf2-3f7f71b6b552.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lựu Đỏ (Quả 600gr - 700gr)",
+    "description": "<h2><strong>Đặc điểm</strong></h2><ul><li><em>Lựu đỏ quảng</em> cáo khi còn sống, vỏ đỏ sẫm</li><li>Lựu đỏ trái, trung bình 1 quảng lựu Nga giao động từ 600gr đến 700gr. Ruột lựu đỏ au, ăn ngọt và mọng nước, mùi thơm đặc trưng trưng</li></ul><h2><strong>Giá trị đinh dưỡng</strong></h2><ul><li>Lựu đỏ giàu chất oxi hóa, bảo vệ các tác phẩm của do do lão hóa, các bệnh tim mạch và ung thư.</li><li>Dầu hạt Lựu có khả năng năng ngăn chặn các thành tế bào ung thư da với khả năng mau liền các thương hiệu da.</li><li>Ra nước quảng cáo lựu có vai trò phụ nữ phó với bài báo của thời đại kinh.</li><li>Nước lựu và duy trì sức khỏe tim mạch và phòng ngừa các bệnh tim mạch.</li></ul><h2><strong>Sử dụng và bảo quản</strong></h2><ul><li>Lựu đỏ và bảo vệ lựu khá đơn giản (không như cherry hay <a href=\"https://thuyanhfruits.com/san-pham/viet-quat-hoa-qua-nhap-khau/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 72, 98);\">việt quất</a> và hơi tây).</li><li>Lựu chỉ cần bảo quản từ 4 *c là có thể bảo vệ 10 ngày</li><li>Lựu đỏ và chuyển nhẹ tây, tránh bị ảnh hưởng bởi sự khác biệt.</li></ul>",
+    "imageUrl": "https://images.f99.com.vn/images/594133ea-474f-4757-adf2-3f7f71b6b552.jpg",
+    "price": 139000,
+    "oldPrice": 199000,
+    "discountPercent": 30,
+    "stock": 50,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Quả ",
+    "sku": "",
+    "origin": "",
+    "sellerId": 286,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 65,
+      "name": "Lựu",
+      "imageUrl": "https://imgur.com/T5xpkb6.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/594133ea-474f-4757-adf2-3f7f71b6b552.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/17132",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 20759,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "189k/quả",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 139000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 50,
+        "totalSold": 0,
+        "unit": "Quả ",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "189k/quả",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 286,
+      "sellerRate": 4.8,
+      "sellerName": "Anh Châu Fruits ",
+      "warehouseId": "90d03d1d-fd20-41cb-a98e-29d57c1ae2cb",
+      "warehouseAddress": "110D11 Thái Thịnh, Thịnh Quang, Đống Đa, Hà Nội",
+      "distance": 2524,
+      "warehouseDistrict": "dong da",
+      "reputation": 78.82694902298906,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 21802,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "LỰU ĐỎ PERU",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t65/1.5/16/1f345.png\" alt=\"🍅\" height=\"16\" width=\"16\"> MÙA LỰU ĐỎ PERU <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t65/1.5/16/1f345.png\" alt=\"🍅\" height=\"16\" width=\"16\"></p><p>Trái lựu Peru là giống lựu có từ lâu đời và nổi tiếng ở vùng Nam Mỹ</p><p>• Trái to tròn, cầm rất chắc tay, mỗi quả nặng tới nửa kí</p><p>• Vỏ màu đỏ đậm rực rỡ bắt mắt, ruột cũng đậm màu không kém</p><p>• Vị ngọt dịu thanh thanh với hương thơm đượm lưu lại lâu nơi cuống họng</p><p>-----------------------------</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t4a/1.5/16/1f4af.png\" alt=\"💯\" height=\"16\" width=\"16\">EUS fruit cam kết:</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tba/1.5/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\">100% trái cây tươi - sạch, không chất bảo quản.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tba/1.5/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\">Nhập khẩu chính ngạch, giấy tờ đầy đủ: bill, kiểm dịch, tờ khai hải quan.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tba/1.5/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\">Hoàn tiền nếu chất lượng không đúng mô tả.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/7c357331-44fe-466d-a684-270c2919f7fd.png\",\"https://images.f99.com.vn/images/43198fc3-50c0-4a91-9b4d-1ef825f842f4.jpg\",\"https://images.f99.com.vn/images/c55d01cc-1c1f-4870-9c89-7c440d20af40.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "LỰU ĐỎ PERU",
+    "description": "<p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t65/1.5/16/1f345.png\" alt=\"🍅\" height=\"16\" width=\"16\"> MÙA LỰU ĐỎ PERU <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t65/1.5/16/1f345.png\" alt=\"🍅\" height=\"16\" width=\"16\"></p><p>Trái lựu Peru là giống lựu có từ lâu đời và nổi tiếng ở vùng Nam Mỹ</p><p>• Trái to tròn, cầm rất chắc tay, mỗi quả nặng tới nửa kí</p><p>• Vỏ màu đỏ đậm rực rỡ bắt mắt, ruột cũng đậm màu không kém</p><p>• Vị ngọt dịu thanh thanh với hương thơm đượm lưu lại lâu nơi cuống họng</p><p>-----------------------------</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t4a/1.5/16/1f4af.png\" alt=\"💯\" height=\"16\" width=\"16\">EUS fruit cam kết:</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tba/1.5/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\">100% trái cây tươi - sạch, không chất bảo quản.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tba/1.5/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\">Nhập khẩu chính ngạch, giấy tờ đầy đủ: bill, kiểm dịch, tờ khai hải quan.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tba/1.5/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\">Hoàn tiền nếu chất lượng không đúng mô tả.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/7c357331-44fe-466d-a684-270c2919f7fd.png",
+    "price": 249000,
+    "oldPrice": 320000,
+    "discountPercent": 22,
+    "stock": 50,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 194,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 65,
+      "name": "Lựu",
+      "imageUrl": "https://imgur.com/T5xpkb6.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/7c357331-44fe-466d-a684-270c2919f7fd.png",
+      "https://images.f99.com.vn/images/43198fc3-50c0-4a91-9b4d-1ef825f842f4.jpg",
+      "https://images.f99.com.vn/images/c55d01cc-1c1f-4870-9c89-7c440d20af40.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/21802",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "KG"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 81712,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 KG",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "KG",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 KG",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 249000,
+        "oldPrice": 320000,
+        "discountPercent": 22,
+        "stock": 50,
+        "totalSold": 0,
+        "unit": "KG",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "KG"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 194,
+      "sellerRate": 4.4,
+      "sellerName": "EUS Fruit 482 Minh Khai",
+      "warehouseId": "bd652138-f1d1-48df-9992-f5be14f3ae95",
+      "warehouseAddress": "482 Minh Khai, Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "distance": 4774,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 76.79195497267878,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 28741,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lựu đỏ Peru - 1 Quả ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<ul><li class=\"ql-align-justify\">Ruột đỏ rất ngọt và mọng nước.</li><li class=\"ql-align-justify\">Có thể ăn tươi hoặc ép nước.</li><li class=\"ql-align-justify\">Mỗi quả khoảng 0.8-0.9KG</li><li class=\"ql-align-justify\">Nhập khẩu trực tiếp từ Peru</li></ul>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/3face1a9-5e12-43c8-bb60-fa6d69f188f7.jpg\",\"https://images.f99.com.vn/images/529cf50b-26b0-4faf-890c-ef1eb73e9bb0.jpg\",\"https://images.f99.com.vn/images/9965bffd-44f5-4e5c-a77e-1a01e2f4668f.jpg\",\"https://images.f99.com.vn/images/193a9b0f-ac1a-4d08-aef9-cd52dd16539f.jpg\",\"https://images.f99.com.vn/images/6067e8fb-c24f-4f49-a2ee-0e5fbad8a534.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lựu đỏ Peru - 1 Quả ",
+    "description": "<ul><li class=\"ql-align-justify\">Ruột đỏ rất ngọt và mọng nước.</li><li class=\"ql-align-justify\">Có thể ăn tươi hoặc ép nước.</li><li class=\"ql-align-justify\">Mỗi quả khoảng 0.8-0.9KG</li><li class=\"ql-align-justify\">Nhập khẩu trực tiếp từ Peru</li></ul>",
+    "imageUrl": "https://images.f99.com.vn/images/3face1a9-5e12-43c8-bb60-fa6d69f188f7.jpg",
+    "price": 179000,
+    "oldPrice": 239000,
+    "discountPercent": 25,
+    "stock": 300,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 79,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 65,
+      "name": "Lựu",
+      "imageUrl": "https://imgur.com/T5xpkb6.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/3face1a9-5e12-43c8-bb60-fa6d69f188f7.jpg",
+      "https://images.f99.com.vn/images/529cf50b-26b0-4faf-890c-ef1eb73e9bb0.jpg",
+      "https://images.f99.com.vn/images/9965bffd-44f5-4e5c-a77e-1a01e2f4668f.jpg",
+      "https://images.f99.com.vn/images/193a9b0f-ac1a-4d08-aef9-cd52dd16539f.jpg",
+      "https://images.f99.com.vn/images/6067e8fb-c24f-4f49-a2ee-0e5fbad8a534.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/28741",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "Quả 0.7kg",
+          "Quả 0.8kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 94419,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Quả 0.8kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Quả 0.8kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Quả 0.8kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 199000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "Quả",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Quả 0.8kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 95626,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Quả 0.7kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Quả 0.7kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Quả 0.7kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 179000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 200,
+        "totalSold": 0,
+        "unit": "Quả",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Quả 0.7kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 79,
+      "sellerRate": 4.6,
+      "sellerName": "Bee Fruits - Trái Cây Nhập Khẩu",
+      "warehouseId": "93099fc8-cde8-46ed-b203-44dfddc85c45",
+      "warehouseAddress": "số 210K, Đội Cấn, Ba Đình, Hà Nội",
+      "distance": 1554,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 78.75352863930483,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 33264,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lựu Thái Lan ~450GR",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(36, 36, 36);\">Lựu Thái Lan&nbsp;size trái to đều, vị ngọt thanh, mọng nước, hạt mềm lép (có thể ăn luôn hạt), từng hạt lựu màu đỏ hồng đẹp mắt.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/343550e8-ebba-4622-b96e-602ce58b9fbf.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lựu Thái Lan ~450GR",
+    "description": "<p><span style=\"color: rgb(36, 36, 36);\">Lựu Thái Lan&nbsp;size trái to đều, vị ngọt thanh, mọng nước, hạt mềm lép (có thể ăn luôn hạt), từng hạt lựu màu đỏ hồng đẹp mắt.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/343550e8-ebba-4622-b96e-602ce58b9fbf.jpg",
+    "price": 95000,
+    "oldPrice": 129000,
+    "discountPercent": 26,
+    "stock": 297,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 286,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 65,
+      "name": "Lựu",
+      "imageUrl": "https://imgur.com/T5xpkb6.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/343550e8-ebba-4622-b96e-602ce58b9fbf.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/33264",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 Quả",
+          "2 Quả",
+          "3 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 33265,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 Quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 95000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 99,
+        "totalSold": 0,
+        "unit": "Quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 Quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 33266,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2 Quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "90k/Quả",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "2 Quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2 Quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 180000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 99,
+        "totalSold": 0,
+        "unit": "Quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "90k/Quả",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "2 Quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 33267,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "3 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "80k/ Quả",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "3 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "3 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 240000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 99,
+        "totalSold": 0,
+        "unit": "Quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "80k/ Quả",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "3 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 286,
+      "sellerRate": 4.8,
+      "sellerName": "Anh Châu Fruits ",
+      "warehouseId": "90d03d1d-fd20-41cb-a98e-29d57c1ae2cb",
+      "warehouseAddress": "110D11 Thái Thịnh, Thịnh Quang, Đống Đa, Hà Nội",
+      "distance": 2524,
+      "warehouseDistrict": "dong da",
+      "reputation": 78.82694902298906,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 33377,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lựu Thái Ruby Organic  - VIHAFOOD",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Ruột đỏ rất ngọt và mọng nước.</p><p>- Có thể ăn tươi hoặc ép nước.</p><p>- Lựu có đặc tính chống viêm mạnh, phần lớn cơ chế trung gian bởi các đặc tính chống oxy hóa của punicalagins. Các nghiên cứu trên ống nghiệm đã chỉ ra rằng chúng có thể làm giảm phản ứng viêm tại đường tiêu hóa, cũng như trong ung thư vú và tế bào ung thư đại tràng. Một nghiên cứu kéo dài 12 tuần ở những người mắc bệnh tiểu đường cho thấy 250ml) nước ép lựu mỗi ngày làm giảm các CRP (một chất chỉ điểm viêm) và interleukin-6 lần lượt là 32% và 30%.</p><p>- Huyết áp cao (tăng huyết áp) là một trong những nguyên nhân hàng đầu gây ra nhồi máu cơ tim và đột quỵ. Trong một nghiên cứu, những người bị tăng huyết áp đã giảm huyết áp đáng kể sau khi sử dụng 150ml nước ép lựu mỗi ngày trong hai tuần. Các nghiên cứu khác đã tìm thấy tác dụng tương tự, đặc biệt đối với huyết áp tâm thu, là chỉ số lớn trong chỉ số huyết áp.</p><p>- Viêm khớp là một vấn đề phổ biến ở cả các nước phát triển và đang phát triển. Có nhiều loại viêm khớp khác nhau, nhưng hầu hết liên quan đến một số dạng viêm ở khớp. Các hợp chất thực vật trong quả lựu có tác dụng chống viêm, điều đó có ý nghĩa rằng chúng có thể giúp điều trị viêm khớp.</p><p>Các nghiên cứu trong phòng thí nghiệm cho thấy rằng chiết xuất từ ​​quả lựu có thể ngăn chặn các enzyme được biết là gây tổn thương khớp ở những người bị viêm xương khớp.</p><p>Chiết xuất này cũng đã được chứng minh là làm giảm viêm khớp ở chuột, nhưng bằng chứng từ nghiên cứu dựa trên con người còn rất hạn chế cho đến hiện tại.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/a86f0be4-155f-4758-b369-72025e57d11c.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lựu Thái Ruby Organic  - VIHAFOOD",
+    "description": "<p>Ruột đỏ rất ngọt và mọng nước.</p><p>- Có thể ăn tươi hoặc ép nước.</p><p>- Lựu có đặc tính chống viêm mạnh, phần lớn cơ chế trung gian bởi các đặc tính chống oxy hóa của punicalagins. Các nghiên cứu trên ống nghiệm đã chỉ ra rằng chúng có thể làm giảm phản ứng viêm tại đường tiêu hóa, cũng như trong ung thư vú và tế bào ung thư đại tràng. Một nghiên cứu kéo dài 12 tuần ở những người mắc bệnh tiểu đường cho thấy 250ml) nước ép lựu mỗi ngày làm giảm các CRP (một chất chỉ điểm viêm) và interleukin-6 lần lượt là 32% và 30%.</p><p>- Huyết áp cao (tăng huyết áp) là một trong những nguyên nhân hàng đầu gây ra nhồi máu cơ tim và đột quỵ. Trong một nghiên cứu, những người bị tăng huyết áp đã giảm huyết áp đáng kể sau khi sử dụng 150ml nước ép lựu mỗi ngày trong hai tuần. Các nghiên cứu khác đã tìm thấy tác dụng tương tự, đặc biệt đối với huyết áp tâm thu, là chỉ số lớn trong chỉ số huyết áp.</p><p>- Viêm khớp là một vấn đề phổ biến ở cả các nước phát triển và đang phát triển. Có nhiều loại viêm khớp khác nhau, nhưng hầu hết liên quan đến một số dạng viêm ở khớp. Các hợp chất thực vật trong quả lựu có tác dụng chống viêm, điều đó có ý nghĩa rằng chúng có thể giúp điều trị viêm khớp.</p><p>Các nghiên cứu trong phòng thí nghiệm cho thấy rằng chiết xuất từ ​​quả lựu có thể ngăn chặn các enzyme được biết là gây tổn thương khớp ở những người bị viêm xương khớp.</p><p>Chiết xuất này cũng đã được chứng minh là làm giảm viêm khớp ở chuột, nhưng bằng chứng từ nghiên cứu dựa trên con người còn rất hạn chế cho đến hiện tại.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/a86f0be4-155f-4758-b369-72025e57d11c.jpg",
+    "price": 79000,
+    "oldPrice": 120000,
+    "discountPercent": 34,
+    "stock": 0,
+    "totalSold": 8,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 244,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ngăn mát tủ lạnh</p>",
+    "category": {
+      "id": 65,
+      "name": "Lựu",
+      "imageUrl": "https://imgur.com/T5xpkb6.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/a86f0be4-155f-4758-b369-72025e57d11c.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/33377",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 56322,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 79000,
+        "oldPrice": 120000,
+        "discountPercent": 34,
+        "stock": 0,
+        "totalSold": 8,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ngăn mát tủ lạnh</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 244,
+      "sellerRate": 4.7,
+      "sellerName": "VIHAFOOD - Đặc sản vùng miền",
+      "warehouseId": "cf85b1b1-6f2a-49b3-b125-e261f6bfc30a",
+      "warehouseAddress": "111 Phố Đội Cấn, Ba Đình, Hà Nội",
+      "distance": 1098,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 80.86123101095345,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 36664,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lựu hạt lép",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Lựu đỏ au, mọng nước, hạt mềm, Ngọt đậm</p><p><a href=\"https://www.facebook.com/hashtag/38k?__eep__=6&amp;__gid__=327101104026688&amp;__cft__[0]=AZWCZdoTPhRpWpdqgsvgcZziu-dDS-HGnZTscNGeZm8OCS0PYCESv_n6OnRkP2i1sK2qTv39_ZGU89pt9cU6Vzj_hdi47fNsXJgvFRt8X1_9dpzaENlWW4I24h_BvnHdUw310XUgKKovxFphrbEWl_GQ&amp;__tn__=*NK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">#50k</a>/1kg Size 2 quả 1kg</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/1b4e1818-01e6-4c03-990e-7e7eb9a5818e.jpg\",\"https://images.f99.com.vn/images/4cb65801-12f7-4e1e-9609-d61222233af6.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lựu hạt lép",
+    "description": "<p>Lựu đỏ au, mọng nước, hạt mềm, Ngọt đậm</p><p><a href=\"https://www.facebook.com/hashtag/38k?__eep__=6&amp;__gid__=327101104026688&amp;__cft__[0]=AZWCZdoTPhRpWpdqgsvgcZziu-dDS-HGnZTscNGeZm8OCS0PYCESv_n6OnRkP2i1sK2qTv39_ZGU89pt9cU6Vzj_hdi47fNsXJgvFRt8X1_9dpzaENlWW4I24h_BvnHdUw310XUgKKovxFphrbEWl_GQ&amp;__tn__=*NK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">#50k</a>/1kg Size 2 quả 1kg</p>",
+    "imageUrl": "https://images.f99.com.vn/images/1b4e1818-01e6-4c03-990e-7e7eb9a5818e.jpg",
+    "price": 40000,
+    "oldPrice": 50000,
+    "discountPercent": 20,
+    "stock": 300,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "A035",
+    "origin": "",
+    "sellerId": 414,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 65,
+      "name": "Lựu",
+      "imageUrl": "https://imgur.com/T5xpkb6.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/1b4e1818-01e6-4c03-990e-7e7eb9a5818e.jpg",
+      "https://images.f99.com.vn/images/4cb65801-12f7-4e1e-9609-d61222233af6.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/36664",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg",
+          "2kg",
+          "3kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 36667,
+        "attributeTextValues": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 40000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "Kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 36666,
+        "attributeTextValues": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 80000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 1,
+        "unit": "Kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "2kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 36665,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "3kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 110000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 2,
+        "unit": "Kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 414,
+      "sellerRate": 4.2,
+      "sellerName": "PHƯƠNG ANH FRESH FRUIT",
+      "warehouseId": "2b3872f1-7f0f-492f-8e42-66d70a659bfc",
+      "warehouseAddress": "Số 81,tổ 4 Phú Đô Nam Từ Liêm Hà Nội",
+      "distance": 7371,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 56.65681345565877,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 36676,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Combo 3kg lựu",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Lựu đang mùa mà rẻ dã man, chả tội j k ăn mng uii</p><p>Đặc biệt, ép nước uống bao phê luôn <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t59/1.5/16/1f60b.png\" alt=\"😋\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t59/1.5/16/1f60b.png\" alt=\"😋\" height=\"16\" width=\"16\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/945e20a9-02d9-4d4d-8019-a96b28162c59.jpg\",\"https://images.f99.com.vn/images/13959ebb-662e-46ab-968e-2e487ec514c3.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Combo 3kg lựu",
+    "description": "<p>Lựu đang mùa mà rẻ dã man, chả tội j k ăn mng uii</p><p>Đặc biệt, ép nước uống bao phê luôn <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t59/1.5/16/1f60b.png\" alt=\"😋\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t59/1.5/16/1f60b.png\" alt=\"😋\" height=\"16\" width=\"16\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/945e20a9-02d9-4d4d-8019-a96b28162c59.jpg",
+    "price": 75000,
+    "oldPrice": 90000,
+    "discountPercent": 17,
+    "stock": 100,
+    "totalSold": 4,
+    "maxQuantityPerUser": null,
+    "unit": "3kg",
+    "sku": "A036",
+    "origin": "",
+    "sellerId": 414,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 65,
+      "name": "Lựu",
+      "imageUrl": "https://imgur.com/T5xpkb6.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/945e20a9-02d9-4d4d-8019-a96b28162c59.jpg",
+      "https://images.f99.com.vn/images/13959ebb-662e-46ab-968e-2e487ec514c3.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/36676",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 414,
+      "sellerRate": 4.2,
+      "sellerName": "PHƯƠNG ANH FRESH FRUIT",
+      "warehouseId": "2b3872f1-7f0f-492f-8e42-66d70a659bfc",
+      "warehouseAddress": "Số 81,tổ 4 Phú Đô Nam Từ Liêm Hà Nội",
+      "distance": 7371,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 56.65681345565877,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 42636,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Quả Lựu",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Lựu này mà ép nước thì thui rồi các bác ạ, bảo quản nơi thoáng mát, nhiệt độ lý tưởng tầm 10 đến 20 độ</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/3ed96fa6-aa07-4f6c-926e-97c3c36ac8bb.jpg\",\"https://images.f99.com.vn/images/d929edbc-ed67-40b4-8786-2f70d1fc1c6c.png\",\"https://images.f99.com.vn/images/bcd5463a-980d-4075-bf46-fc6018dab65d.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Lựu\",\"quả lựu\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Quả Lựu",
+    "description": "<p>Lựu này mà ép nước thì thui rồi các bác ạ, bảo quản nơi thoáng mát, nhiệt độ lý tưởng tầm 10 đến 20 độ</p>",
+    "imageUrl": "https://images.f99.com.vn/images/3ed96fa6-aa07-4f6c-926e-97c3c36ac8bb.jpg",
+    "price": 39000,
+    "oldPrice": 45000,
+    "discountPercent": 13,
+    "stock": 0,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 484,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 65,
+      "name": "Lựu",
+      "imageUrl": "https://imgur.com/T5xpkb6.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Lựu",
+      "quả lựu"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/3ed96fa6-aa07-4f6c-926e-97c3c36ac8bb.jpg",
+      "https://images.f99.com.vn/images/d929edbc-ed67-40b4-8786-2f70d1fc1c6c.png",
+      "https://images.f99.com.vn/images/bcd5463a-980d-4075-bf46-fc6018dab65d.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/42636",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 96129,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 39000,
+        "oldPrice": 45000,
+        "discountPercent": 13,
+        "stock": 0,
+        "totalSold": 0,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 484,
+      "sellerRate": 4.6,
+      "sellerName": "HOME FRUITS",
+      "warehouseId": "c9100430-cbd7-4e59-a914-9ce7a7071cbc",
+      "warehouseAddress": "Số 172 Trần Bình, phường Mỹ Đình, Quận Nam Từ Liêm, Hà Nội",
+      "distance": 6740,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 80.48249894439043,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 85249,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "LỰU PERU RUỘT ĐỎ HẠT MỀM",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>💥💥💥 SIÊU HOT - LỰU PERU 💥💥💥</p><p><br></p><p>&nbsp;🍅🍅🍅 Ruột ĐỎ AU_ HẠT MỀM_ XEN VỊ CHUA - NGON XỈU lunnn các bác ạ 😆😆😆🤤🤤🤤</p><p>&nbsp;&nbsp;&nbsp;</p><p>&nbsp;🍅🍅🍅 LỰU cung cấp lượng COLLAGEN rất CAO, Thay vì mua TPCN bổ sung COLLAGEN thì các BÁC mua em LỰU&nbsp;về ĂN_ ÉP NƯỚC phải TUYỆT VỜI không ạ???☺☺☺&nbsp;</p><p>&nbsp;&nbsp;&nbsp;</p><p><br></p><p>🍅🍅🍅 Các tín đồ LỰU bỏ qua em này TIẾC hùi hụi luôn đó ạ_&nbsp;&nbsp;số lượng có hạn các bác lên đơn nhanh kẻo hết ạ ☺☺☺☺</p><p><br></p><p>🍅🍅🍅 BAO NGON_ HOÀN TIỀN NẾU KHÔNG GIỐNG QUẢNG CÁO các BÁC nha ☺☺☺</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/9afe6127-0237-4c44-9628-44a563b32a04.jpg\",\"https://images.f99.com.vn/images/fe6247bf-2897-4df6-8eff-9042f47aff85.jpg\",\"https://images.f99.com.vn/images/ebdf4056-e2b1-4ae7-b018-0d60f7bf5905.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "LỰU PERU RUỘT ĐỎ HẠT MỀM",
+    "description": "<p>💥💥💥 SIÊU HOT - LỰU PERU 💥💥💥</p><p><br></p><p>&nbsp;🍅🍅🍅 Ruột ĐỎ AU_ HẠT MỀM_ XEN VỊ CHUA - NGON XỈU lunnn các bác ạ 😆😆😆🤤🤤🤤</p><p>&nbsp;&nbsp;&nbsp;</p><p>&nbsp;🍅🍅🍅 LỰU cung cấp lượng COLLAGEN rất CAO, Thay vì mua TPCN bổ sung COLLAGEN thì các BÁC mua em LỰU&nbsp;về ĂN_ ÉP NƯỚC phải TUYỆT VỜI không ạ???☺☺☺&nbsp;</p><p>&nbsp;&nbsp;&nbsp;</p><p><br></p><p>🍅🍅🍅 Các tín đồ LỰU bỏ qua em này TIẾC hùi hụi luôn đó ạ_&nbsp;&nbsp;số lượng có hạn các bác lên đơn nhanh kẻo hết ạ ☺☺☺☺</p><p><br></p><p>🍅🍅🍅 BAO NGON_ HOÀN TIỀN NẾU KHÔNG GIỐNG QUẢNG CÁO các BÁC nha ☺☺☺</p>",
+    "imageUrl": "https://images.f99.com.vn/images/9afe6127-0237-4c44-9628-44a563b32a04.jpg",
+    "price": 139000,
+    "oldPrice": 169000,
+    "discountPercent": 18,
+    "stock": 0,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 1016,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 65,
+      "name": "Lựu",
+      "imageUrl": "https://imgur.com/T5xpkb6.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/9afe6127-0237-4c44-9628-44a563b32a04.jpg",
+      "https://images.f99.com.vn/images/fe6247bf-2897-4df6-8eff-9042f47aff85.jpg",
+      "https://images.f99.com.vn/images/ebdf4056-e2b1-4ae7-b018-0d60f7bf5905.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/85249",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 85250,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 139000,
+        "oldPrice": 169000,
+        "discountPercent": 18,
+        "stock": 0,
+        "totalSold": 2,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1016,
+      "sellerRate": 3.7,
+      "sellerName": "JULY FRUITS ",
+      "warehouseId": "ed20bc51-5b98-4a51-9961-f6a70455be3a",
+      "warehouseAddress": "Số 56 đường 19/5 Văn Quán Hà Đông Hà Nội, Văn Quán, Hà Đông, Hà Nội",
+      "distance": 6777,
+      "warehouseDistrict": "ha dong",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 92803,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lựu Isaran",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><br></p><ul><li><span style=\"color: rgb(33, 37, 41);\"> Lựu Israel là loại&nbsp;</span><a href=\"https://hoaquafuji.com/post/sieu-thi-trai-cay-nhap-khau\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(38, 147, 0); background-color: rgb(255, 255, 255);\"><strong>trái cây sạch nhập khẩu&nbsp;</strong></a><span style=\"color: rgb(33, 37, 41);\">chứa nhiều chất chống oxy hoá, vitamin C và nhiều chất dinh dưỡng quan trọng cho cơ thể. Lựu Israel có hương thơm cực kỳ hấp dẫn, hạt mọng nước, các hạt nhỏ vô cùng mềm mịn, tan ra ngay trong miệng.</span></li><li><strong style=\"color: rgb(33, 37, 41);\">Lựu Israel&nbsp;</strong><span style=\"color: rgb(33, 37, 41);\">có quả to từ 700gr đến 1,2kg một quả. Thịt quả lựu Israel ngọt có vị chua nhẹ, không đáng kể, lựu Israel có hương thơm cực kì hấp dẫn.</span></li></ul>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/6b482431-0f30-47d0-9c7f-fd1aa5402465.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lựu Isaran",
+    "description": "<p><br></p><ul><li><span style=\"color: rgb(33, 37, 41);\"> Lựu Israel là loại&nbsp;</span><a href=\"https://hoaquafuji.com/post/sieu-thi-trai-cay-nhap-khau\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(38, 147, 0); background-color: rgb(255, 255, 255);\"><strong>trái cây sạch nhập khẩu&nbsp;</strong></a><span style=\"color: rgb(33, 37, 41);\">chứa nhiều chất chống oxy hoá, vitamin C và nhiều chất dinh dưỡng quan trọng cho cơ thể. Lựu Israel có hương thơm cực kỳ hấp dẫn, hạt mọng nước, các hạt nhỏ vô cùng mềm mịn, tan ra ngay trong miệng.</span></li><li><strong style=\"color: rgb(33, 37, 41);\">Lựu Israel&nbsp;</strong><span style=\"color: rgb(33, 37, 41);\">có quả to từ 700gr đến 1,2kg một quả. Thịt quả lựu Israel ngọt có vị chua nhẹ, không đáng kể, lựu Israel có hương thơm cực kì hấp dẫn.</span></li></ul>",
+    "imageUrl": "https://images.f99.com.vn/images/6b482431-0f30-47d0-9c7f-fd1aa5402465.jpg",
+    "price": 299000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 20,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 118,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ở ngăn mát tủ lạnh</p>",
+    "category": {
+      "id": 65,
+      "name": "Lựu",
+      "imageUrl": "https://imgur.com/T5xpkb6.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/6b482431-0f30-47d0-9c7f-fd1aa5402465.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/92803",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 92804,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 299000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 20,
+        "totalSold": 0,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ở ngăn mát tủ lạnh</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 118,
+      "sellerRate": 3.9,
+      "sellerName": "Đinh Hương Fruit",
+      "warehouseId": "7d5007b2-5563-4d11-a461-2b659e39fcf0",
+      "warehouseAddress": "64 Khương Đình, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",
+      "distance": 3572,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 55.8364615384624,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

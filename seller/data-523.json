@@ -1,0 +1,35 @@
+{
+  "id": 523,
+  "name": "Siêu thị gia đình Mai Mèo",
+  "logo": "https://cdn.f99.link/groupbuy-images/8d2bd5f9-a387-47cb-bee1-f1fe5f3ea955.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên bán các loại hải sản đông lạnh cá , mực, tôm... và nông sản chè thái nguyên sạch, mật ong rừng ..đảm bảo chất lượng, bao giá toàn quốc, bán sỉ và lẻ.",
+  "headQuarter": "112 B7 Ngõ 238 Tân Mai, Tân Mai, Hoàng Mai, Hà Nội",
+  "email": "huephamhong65@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.4,
+  "availableTime": {
+    "openTime": "06:30",
+    "closeTime": "22:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 7
+}

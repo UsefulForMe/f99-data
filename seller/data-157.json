@@ -1,0 +1,35 @@
+{
+  "id": 157,
+  "name": "F5 Fruit Shop",
+  "logo": "https://cdn.f99.link/groupbuy-images/a575c829-0dce-4df4-abac-e7f3ebc5039f.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Công ty TNHH Bee Fruit - Chi nhánh Hà Nội là công ty  chuyên kinh doanh các mặt hàng trái cây nhập khẩu phân phối cho các siêu thị trên toàn quốc và Hệ thống phân phối lẻ F5 Fruits shop.",
+  "headQuarter": "Số 117 Văn Cao, Liễu Giai, Ba Đình, Hà Nội",
+  "email": "f5fruitshophanoi@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 3.8,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 4
+}

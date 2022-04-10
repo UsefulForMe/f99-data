@@ -1,0 +1,35 @@
+{
+  "id": 605,
+  "name": "Sannadle market Hà Nội",
+  "logo": "https://cdn.f99.link/groupbuy-images/6cc3ee40-9cf1-4cc9-9ff3-3af67d0d0dc3.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Sản xuất và thương mại thực phẩm Hàn Quốc",
+  "headQuarter": "Kho C3.1A, 63 Vạn Phúc, Vạn Phúc, Hà Đông, Hà Nội",
+  "email": "Thanhhue.markets@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:30",
+    "closeTime": "16:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

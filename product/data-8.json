@@ -1,0 +1,4888 @@
+[
+  {
+    "id": 2191,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dừa xiêm sọ size Nhỏ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/76661b9f-79dc-4aa3-8f09-ab4cd859343c.jpg\"><img src=\"https://images.f99.com.vn/images/f2416f48-7b2e-4f7c-8712-7654d9d6abc2.png\"><img src=\"https://images.f99.com.vn/images/7470a427-a3e1-4f02-a22e-5e3d6db343e4.jpg\"><img src=\"https://images.f99.com.vn/images/408d8c5f-f4b3-4202-85f6-033dbd826c74.jpg\"><img src=\"https://images.f99.com.vn/images/bb3be91b-5ba2-460b-9c0d-e0bf10f5e2b9.png\"><img src=\"https://images.f99.com.vn/images/a9fe1d4f-fd8e-4037-a096-dc4d2c4f6888.png\"><img src=\"https://images.f99.com.vn/images/a67dfc9b-fd7e-4e18-8de4-53ead73d5afa.jpg\"><img src=\"https://images.f99.com.vn/images/fa967d83-c4bb-4b0e-96e3-b776292f6dc2.png\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/a9d80c22-c4c4-479f-8de9-d2cee3a689cb.png\",\"https://images.f99.com.vn/images/e204e700-35d1-4627-a4fa-979547039d33.png\",\"https://images.f99.com.vn/images/0718aa33-09bb-4669-b901-4b815670693f.png\",\"https://images.f99.com.vn/images/bfa27d85-c60f-4bee-b1f0-ce2927de4168.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dừa xiêm sọ size Nhỏ",
+    "description": "<p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/76661b9f-79dc-4aa3-8f09-ab4cd859343c.jpg\"><img src=\"https://images.f99.com.vn/images/f2416f48-7b2e-4f7c-8712-7654d9d6abc2.png\"><img src=\"https://images.f99.com.vn/images/7470a427-a3e1-4f02-a22e-5e3d6db343e4.jpg\"><img src=\"https://images.f99.com.vn/images/408d8c5f-f4b3-4202-85f6-033dbd826c74.jpg\"><img src=\"https://images.f99.com.vn/images/bb3be91b-5ba2-460b-9c0d-e0bf10f5e2b9.png\"><img src=\"https://images.f99.com.vn/images/a9fe1d4f-fd8e-4037-a096-dc4d2c4f6888.png\"><img src=\"https://images.f99.com.vn/images/a67dfc9b-fd7e-4e18-8de4-53ead73d5afa.jpg\"><img src=\"https://images.f99.com.vn/images/fa967d83-c4bb-4b0e-96e3-b776292f6dc2.png\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/a9d80c22-c4c4-479f-8de9-d2cee3a689cb.png",
+    "price": 14900,
+    "oldPrice": 18900,
+    "discountPercent": 21,
+    "stock": 66,
+    "totalSold": 73694,
+    "maxQuantityPerUser": null,
+    "unit": "quả",
+    "sku": "20000868",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.7,
+    "instructions": null,
+    "category": {
+      "id": 8,
+      "name": "Dừa",
+      "imageUrl": "https://imgur.com/fvU86QU.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/a9d80c22-c4c4-479f-8de9-d2cee3a689cb.png",
+      "https://images.f99.com.vn/images/e204e700-35d1-4627-a4fa-979547039d33.png",
+      "https://images.f99.com.vn/images/0718aa33-09bb-4669-b901-4b815670693f.png",
+      "https://images.f99.com.vn/images/bfa27d85-c60f-4bee-b1f0-ce2927de4168.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/2191",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Combo 10 quả",
+          "Combo 20 quả",
+          "Combo 30 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 4265,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 10 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 10 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 10 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 145000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 36,
+        "totalSold": 24972,
+        "unit": "quả",
+        "sku": "20000237",
+        "rating": 4.7,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 10 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 4266,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 20 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 20 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 20 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 284000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 18,
+        "totalSold": 24423,
+        "unit": "quả",
+        "sku": "20000380",
+        "rating": 4.7,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 20 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 5418,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 30 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 30 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 30 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 417000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 12,
+        "totalSold": 24299,
+        "unit": "quả",
+        "sku": "20000530",
+        "rating": 4.7,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 30 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 3072,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dừa xiêm sọ (size Vip)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p Class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/12005c2e-3990-4920-bc6d-b90339e39599.jpg\"><img src=\"https://images.f99.com.vn/images/76eec64f-60e1-49a7-87db-e95d3b51183b.png\"></p><p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/7234f5ff-6e6e-410e-a554-74306a3730e4.jpg\"><img src=\"https://images.f99.com.vn/images/a3065390-17ad-47fa-8d2f-8f3431c5b82f.jpg\"><img src=\"https://images.f99.com.vn/images/bb3be91b-5ba2-460b-9c0d-e0bf10f5e2b9.png\"><img src=\"https://images.f99.com.vn/images/f591b046-e6cd-4398-8351-b6b40f4bd892.jpg\"><img src=\"https://images.f99.com.vn/images/b9cd149e-9cdc-4d4a-ba29-1c50445b00b8.png\"></p><h3 class=\"ql-align-justify\"><strong>Dừa xiêm gọt sọ là gì?</strong></h3><p class=\"ql-align-justify\"><img src=\"https://admin.nongsandungha.com/wp-content/uploads/2021/05/dua-xiem-got-vo-min.jpg\" alt=\"dừa xiêm\" height=\"375\" width=\"500\"></p><p class=\"ql-align-justify\">Bến Tre được mệnh danh là thiên đường của dừa với nhiều loại dừa khác nhau: dừa ta, dừa dâu, dừa dứa, dừa lửa, dừa cỏ, dừa sáp, dừa xiêm… loại nào cũng nổi tiếng. Đặc biệt, dừa xiêm xanh gọt sọ càng được “săn lùng”. Vậy dừa gọt sọ Bến Tre là gì? Công dụng và cách bảo quản có giống dừa và các loại trái cây khác không?</p><p class=\"ql-align-justify\">Dừa xiêm gọt sọ hay còn gọi là&nbsp;<strong>dừa xiêm gọt trọc</strong>&nbsp;hay dừa xiêm cạo vỏ đã được tước xơ dừa và làm sạch, vô cùng nhỏ gọn, tiện lợi, sang trọng, chỉ cần cắm ống hút vào mắt dừa. có thể thưởng thức ngay mà không cần bất kỳ thao tác nào khác.</p><p class=\"ql-align-justify\">Dừa xiêm có 04 loại khác nhau và được phân bố rải rác ở các tỉnh miền Tây như xiêm xanh, xiêm đỏ ở Đồng bằng sông Cửu Long, xiêm xanh Bến Tre và xiêm vàng cam. Tuy nhiên, dừa xiêm gọt sọ tại Nông Sản Dũng Hà được lựa chọn kỹ càng từ những trái xiêm xanh Bến Tre vừa đủ chín, không quá già, không quá non để có được chất lượng nước ngọt, thanh mát tự nhiên nhất. Vì dừa xiêm xanh Bến Tre là giống dừa cho chất lượng nước uống tốt nhất nên được thị trường rất ưa chuộng.&nbsp;</p><h3 class=\"ql-align-justify\"><strong>Lợi ích của dừa xiêm sọ gọt trọc&nbsp;</strong></h3><p class=\"ql-align-justify\"><img src=\"https://admin.nongsandungha.com/wp-content/uploads/2021/05/dua-xiem-troc-min.jpg\" alt=\"lợi ích của dừa xiêm gọt sọ\" height=\"500\" width=\"500\"></p><p class=\"ql-align-justify\">Vì rất nhỏ, gọn, không tốn diện tích và sạch sẽ do đã được gọt vỏ, bóc xơ và có thể để được lâu trong điều kiện bình thường nên dừa xiêm cạo vỏ rất thích hợp để thực khách mang đi du lịch, dã ngoại , mang đến đi học, đi làm hay làm quà tặng,...</p><p class=\"ql-align-justify\">Sau khi được lựa chọn kỹ càng, từng trái sẽ được gọt vỏ, để ráo nước, ngâm với chanh rồi sấy khô để dừa không bị thâm, thu được mẻ dừa thơm ngon, hương vị tròn trịa nhất.&nbsp;</p><p class=\"ql-align-justify\">Nên chọn những cơ sở cung cấp vỏ dừa có uy tín vì hiện nay trên thị trường đang xảy ra tình trạng sử dụng hóa chất tẩy trắng, chất bảo quản để kéo dài độ tươi.</p><p class=\"ql-align-justify\">Vị nước dừa xiêm xanh thanh khiết, thanh mát cùng với hương thơm tươi mát hoàn toàn tự nhiên mang đến cảm giác sảng khoái, xua tan mệt mỏi.</p><p class=\"ql-align-justify\">Đọc thêm:&nbsp;<a href=\"https://nongsandungha.com/bi-quyet-tri-mun-duong-trang-da-bang-trai-thanh-long.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--blue);\"><strong>Bí quyết trị mụn, dưỡng trắng da bằng trái thanh long đỏ</strong></a></p><h3 class=\"ql-align-justify\"><strong>Cách dùng dừa xiêm sọ gọt trọc</strong></h3><p class=\"ql-align-justify\">Sau khi gọt vỏ, các mắt dừa sẽ hiện ra, đây chính là điểm đặc biệt giúp chúng ta thưởng thức loại nước giải khát tinh khiết từ thiên nhiên này. Tiếp theo, bạn dùng ống hút để cắm mắt dừa, phần còn lại bạn hãy nhắm mắt lại và thưởng thức.</p><p class=\"ql-align-justify\">Khi thưởng thức xong vị ngọt thanh của nước dừa, bạn có thể tiếp tục thưởng thức cơm dừa xiêm xanh. Cơm dừa thơm, dẻo, béo vừa ngon lại rất tiện sử dụng, chỉ cần dùng vật cứng gõ vào khoanh dừa, dừa sẽ tách ra sau đó thưởng thức món ăn đậm chất miệt vườn này.</p><h3 class=\"ql-align-justify\"><strong>Bảo quản dừa xiêm tươi gọt trọc được lâu</strong></h3><p class=\"ql-align-justify\"><img src=\"https://admin.nongsandungha.com/wp-content/uploads/2021/05/dua-xiem-min.jpg\" alt=\"bảo quản dừa xiêm được lâu\" height=\"500\" width=\"500\"></p><p class=\"ql-align-justify\">Nước dừa hay bất cứ loại nước hoa quả nào cũng vậy, ngon thế nào, bổ dưỡng ra sao nếu không biết cách bảo quản sẽ mất đi chất dinh dưỡng, không còn tươi ngon mà còn ảnh hưởng không tốt đến sức khỏe.</p><p class=\"ql-align-justify\">So với các loại trái cây khác thì dừa là loại trái để được lâu nhất và giữ được trọn vẹn hương vị cũng như dinh dưỡng thuần khiết nhất của trái dừa. Dừa xiêm có thể bảo quản trong tủ lạnh từ 10-15 ngày mà không sợ vi khuẩn hay côn trùng xâm nhập nhờ lớp vỏ dày và cứng.</p><p class=\"ql-align-justify\">Cần lưu ý để bảo quản dừa gọt sọ được tươi lâu thì dừa phải còn nguyên trái và</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/7dc7946a-a3e5-4056-9fad-e8c8cc74ae08.png\",\"https://images.f99.com.vn/images/35ad817c-63d1-4dc0-bb00-e8324cc75b51.png\",\"https://images.f99.com.vn/images/a8e982c2-8431-41f7-bd86-66cae9af7a7a.png\",\"https://images.f99.com.vn/images/796ba2d6-e609-41c8-b3c0-25c243a62c29.png\",\"https://images.f99.com.vn/images/37f0d899-2132-4cda-84fc-f6553cf95c0d.png\",\"https://images.f99.com.vn/images/2943ce38-5739-4929-aa82-ade466cd2c90.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dừa xiêm sọ (size Vip)",
+    "description": "<p Class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/12005c2e-3990-4920-bc6d-b90339e39599.jpg\"><img src=\"https://images.f99.com.vn/images/76eec64f-60e1-49a7-87db-e95d3b51183b.png\"></p><p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/7234f5ff-6e6e-410e-a554-74306a3730e4.jpg\"><img src=\"https://images.f99.com.vn/images/a3065390-17ad-47fa-8d2f-8f3431c5b82f.jpg\"><img src=\"https://images.f99.com.vn/images/bb3be91b-5ba2-460b-9c0d-e0bf10f5e2b9.png\"><img src=\"https://images.f99.com.vn/images/f591b046-e6cd-4398-8351-b6b40f4bd892.jpg\"><img src=\"https://images.f99.com.vn/images/b9cd149e-9cdc-4d4a-ba29-1c50445b00b8.png\"></p><h3 class=\"ql-align-justify\"><strong>Dừa xiêm gọt sọ là gì?</strong></h3><p class=\"ql-align-justify\"><img src=\"https://admin.nongsandungha.com/wp-content/uploads/2021/05/dua-xiem-got-vo-min.jpg\" alt=\"dừa xiêm\" height=\"375\" width=\"500\"></p><p class=\"ql-align-justify\">Bến Tre được mệnh danh là thiên đường của dừa với nhiều loại dừa khác nhau: dừa ta, dừa dâu, dừa dứa, dừa lửa, dừa cỏ, dừa sáp, dừa xiêm… loại nào cũng nổi tiếng. Đặc biệt, dừa xiêm xanh gọt sọ càng được “săn lùng”. Vậy dừa gọt sọ Bến Tre là gì? Công dụng và cách bảo quản có giống dừa và các loại trái cây khác không?</p><p class=\"ql-align-justify\">Dừa xiêm gọt sọ hay còn gọi là&nbsp;<strong>dừa xiêm gọt trọc</strong>&nbsp;hay dừa xiêm cạo vỏ đã được tước xơ dừa và làm sạch, vô cùng nhỏ gọn, tiện lợi, sang trọng, chỉ cần cắm ống hút vào mắt dừa. có thể thưởng thức ngay mà không cần bất kỳ thao tác nào khác.</p><p class=\"ql-align-justify\">Dừa xiêm có 04 loại khác nhau và được phân bố rải rác ở các tỉnh miền Tây như xiêm xanh, xiêm đỏ ở Đồng bằng sông Cửu Long, xiêm xanh Bến Tre và xiêm vàng cam. Tuy nhiên, dừa xiêm gọt sọ tại Nông Sản Dũng Hà được lựa chọn kỹ càng từ những trái xiêm xanh Bến Tre vừa đủ chín, không quá già, không quá non để có được chất lượng nước ngọt, thanh mát tự nhiên nhất. Vì dừa xiêm xanh Bến Tre là giống dừa cho chất lượng nước uống tốt nhất nên được thị trường rất ưa chuộng.&nbsp;</p><h3 class=\"ql-align-justify\"><strong>Lợi ích của dừa xiêm sọ gọt trọc&nbsp;</strong></h3><p class=\"ql-align-justify\"><img src=\"https://admin.nongsandungha.com/wp-content/uploads/2021/05/dua-xiem-troc-min.jpg\" alt=\"lợi ích của dừa xiêm gọt sọ\" height=\"500\" width=\"500\"></p><p class=\"ql-align-justify\">Vì rất nhỏ, gọn, không tốn diện tích và sạch sẽ do đã được gọt vỏ, bóc xơ và có thể để được lâu trong điều kiện bình thường nên dừa xiêm cạo vỏ rất thích hợp để thực khách mang đi du lịch, dã ngoại , mang đến đi học, đi làm hay làm quà tặng,...</p><p class=\"ql-align-justify\">Sau khi được lựa chọn kỹ càng, từng trái sẽ được gọt vỏ, để ráo nước, ngâm với chanh rồi sấy khô để dừa không bị thâm, thu được mẻ dừa thơm ngon, hương vị tròn trịa nhất.&nbsp;</p><p class=\"ql-align-justify\">Nên chọn những cơ sở cung cấp vỏ dừa có uy tín vì hiện nay trên thị trường đang xảy ra tình trạng sử dụng hóa chất tẩy trắng, chất bảo quản để kéo dài độ tươi.</p><p class=\"ql-align-justify\">Vị nước dừa xiêm xanh thanh khiết, thanh mát cùng với hương thơm tươi mát hoàn toàn tự nhiên mang đến cảm giác sảng khoái, xua tan mệt mỏi.</p><p class=\"ql-align-justify\">Đọc thêm:&nbsp;<a href=\"https://nongsandungha.com/bi-quyet-tri-mun-duong-trang-da-bang-trai-thanh-long.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--blue);\"><strong>Bí quyết trị mụn, dưỡng trắng da bằng trái thanh long đỏ</strong></a></p><h3 class=\"ql-align-justify\"><strong>Cách dùng dừa xiêm sọ gọt trọc</strong></h3><p class=\"ql-align-justify\">Sau khi gọt vỏ, các mắt dừa sẽ hiện ra, đây chính là điểm đặc biệt giúp chúng ta thưởng thức loại nước giải khát tinh khiết từ thiên nhiên này. Tiếp theo, bạn dùng ống hút để cắm mắt dừa, phần còn lại bạn hãy nhắm mắt lại và thưởng thức.</p><p class=\"ql-align-justify\">Khi thưởng thức xong vị ngọt thanh của nước dừa, bạn có thể tiếp tục thưởng thức cơm dừa xiêm xanh. Cơm dừa thơm, dẻo, béo vừa ngon lại rất tiện sử dụng, chỉ cần dùng vật cứng gõ vào khoanh dừa, dừa sẽ tách ra sau đó thưởng thức món ăn đậm chất miệt vườn này.</p><h3 class=\"ql-align-justify\"><strong>Bảo quản dừa xiêm tươi gọt trọc được lâu</strong></h3><p class=\"ql-align-justify\"><img src=\"https://admin.nongsandungha.com/wp-content/uploads/2021/05/dua-xiem-min.jpg\" alt=\"bảo quản dừa xiêm được lâu\" height=\"500\" width=\"500\"></p><p class=\"ql-align-justify\">Nước dừa hay bất cứ loại nước hoa quả nào cũng vậy, ngon thế nào, bổ dưỡng ra sao nếu không biết cách bảo quản sẽ mất đi chất dinh dưỡng, không còn tươi ngon mà còn ảnh hưởng không tốt đến sức khỏe.</p><p class=\"ql-align-justify\">So với các loại trái cây khác thì dừa là loại trái để được lâu nhất và giữ được trọn vẹn hương vị cũng như dinh dưỡng thuần khiết nhất của trái dừa. Dừa xiêm có thể bảo quản trong tủ lạnh từ 10-15 ngày mà không sợ vi khuẩn hay côn trùng xâm nhập nhờ lớp vỏ dày và cứng.</p><p class=\"ql-align-justify\">Cần lưu ý để bảo quản dừa gọt sọ được tươi lâu thì dừa phải còn nguyên trái và</p>",
+    "imageUrl": "https://images.f99.com.vn/images/7dc7946a-a3e5-4056-9fad-e8c8cc74ae08.png",
+    "price": 15500,
+    "oldPrice": 20900,
+    "discountPercent": 26,
+    "stock": 1000,
+    "totalSold": 35700,
+    "maxQuantityPerUser": null,
+    "unit": "1 quả",
+    "sku": "20000869",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.7,
+    "instructions": null,
+    "category": {
+      "id": 8,
+      "name": "Dừa",
+      "imageUrl": "https://imgur.com/fvU86QU.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/7dc7946a-a3e5-4056-9fad-e8c8cc74ae08.png",
+      "https://images.f99.com.vn/images/35ad817c-63d1-4dc0-bb00-e8324cc75b51.png",
+      "https://images.f99.com.vn/images/a8e982c2-8431-41f7-bd86-66cae9af7a7a.png",
+      "https://images.f99.com.vn/images/796ba2d6-e609-41c8-b3c0-25c243a62c29.png",
+      "https://images.f99.com.vn/images/37f0d899-2132-4cda-84fc-f6553cf95c0d.png",
+      "https://images.f99.com.vn/images/2943ce38-5739-4929-aa82-ade466cd2c90.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/3072",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 52219,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 15500,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 1000,
+        "totalSold": 35700,
+        "unit": "1 quả",
+        "sku": "20000869",
+        "rating": 4.7,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 6916,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dừa Xiêm Sọ Vip ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h4>&nbsp;&nbsp;Bến Tre là xứ sở của trái dừa, với nhiều loại dừa: dừa ta, dừa dâu, dừa lửa, dừa cỏ, dừa sáp, dừa bị… Dừa xiêm xanh là giống cây trồng nhiều tại xã Tam Phước, huyện Châu Thành, tỉnh Bến Tre. Người dân nơi đây đang chuyển đổi trồng dừa uống nước, mang lại hiệu quả kinh tế rất khả quan.</h4><h4>&nbsp;&nbsp;Cây dừa xiêm là cây trồng không có phun hóa chất lên trái, nên trái không có dư lượng thuốc bảo vệ thực vật, giúp cho nước dừa được mệnh danh một loại nước rất tinh khiết, an toàn cho người sử dụng.&nbsp;</h4><h4>&nbsp;&nbsp;&nbsp;Uống có độ ngọt thanh, không chua, nên thường được gọi là \"dừa xiêm đường\". Còn dừa xiêm thường, buồng lúc trổ có màu xanh đọt chuối non, có từ 20 trái trở xuống/buồng</h4><h4>&nbsp;&nbsp;Dừa tươi làm thức uống giải khác và bồi dưỡng sức khỏe vì: Nước dừa nhiều đường Glucose, Fructose, Sucrose, giàu đạm chất, nhiều Vitamine C và B1 cũng như các khoáng chất. Nước dừa có thể dùng pha chế môi trường nuôi cấy mô, tham gia vào quá trình chế biến thức ăn hay đóng hộp giúp việc tồn trử lâu dài nâng cao được giá trị sản phẩm.</h4><p><img src=\"https://images.f99.com.vn/images/45a1f23d-1373-49fd-9378-9d7befbc6976.jpg\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/6e5626eb-5740-4bc6-9d64-424542ee0de3.jpg\",\"https://images.f99.com.vn/images/d3ae8985-cebd-4b04-adf9-afea4d3ae7c1.jpg\",\"https://images.f99.com.vn/images/4a5dfee8-de0c-4611-afe4-aebdc97483c7.jpg\",\"https://images.f99.com.vn/images/b679e871-4ee8-4483-b711-c905922643db.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dừa Xiêm Sọ Vip ",
+    "description": "<h4>&nbsp;&nbsp;Bến Tre là xứ sở của trái dừa, với nhiều loại dừa: dừa ta, dừa dâu, dừa lửa, dừa cỏ, dừa sáp, dừa bị… Dừa xiêm xanh là giống cây trồng nhiều tại xã Tam Phước, huyện Châu Thành, tỉnh Bến Tre. Người dân nơi đây đang chuyển đổi trồng dừa uống nước, mang lại hiệu quả kinh tế rất khả quan.</h4><h4>&nbsp;&nbsp;Cây dừa xiêm là cây trồng không có phun hóa chất lên trái, nên trái không có dư lượng thuốc bảo vệ thực vật, giúp cho nước dừa được mệnh danh một loại nước rất tinh khiết, an toàn cho người sử dụng.&nbsp;</h4><h4>&nbsp;&nbsp;&nbsp;Uống có độ ngọt thanh, không chua, nên thường được gọi là \"dừa xiêm đường\". Còn dừa xiêm thường, buồng lúc trổ có màu xanh đọt chuối non, có từ 20 trái trở xuống/buồng</h4><h4>&nbsp;&nbsp;Dừa tươi làm thức uống giải khác và bồi dưỡng sức khỏe vì: Nước dừa nhiều đường Glucose, Fructose, Sucrose, giàu đạm chất, nhiều Vitamine C và B1 cũng như các khoáng chất. Nước dừa có thể dùng pha chế môi trường nuôi cấy mô, tham gia vào quá trình chế biến thức ăn hay đóng hộp giúp việc tồn trử lâu dài nâng cao được giá trị sản phẩm.</h4><p><img src=\"https://images.f99.com.vn/images/45a1f23d-1373-49fd-9378-9d7befbc6976.jpg\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/6e5626eb-5740-4bc6-9d64-424542ee0de3.jpg",
+    "price": 16900,
+    "oldPrice": 25000,
+    "discountPercent": 32,
+    "stock": 448218,
+    "totalSold": 17,
+    "maxQuantityPerUser": null,
+    "unit": "Quả (450-550g)",
+    "sku": "Dua Xiem So",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": null,
+    "category": {
+      "id": 8,
+      "name": "Dừa",
+      "imageUrl": "https://imgur.com/fvU86QU.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/6e5626eb-5740-4bc6-9d64-424542ee0de3.jpg",
+      "https://images.f99.com.vn/images/d3ae8985-cebd-4b04-adf9-afea4d3ae7c1.jpg",
+      "https://images.f99.com.vn/images/4a5dfee8-de0c-4611-afe4-aebdc97483c7.jpg",
+      "https://images.f99.com.vn/images/b679e871-4ee8-4483-b711-c905922643db.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/6916",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "10 quả 550-600g",
+          "10 Quả Vip",
+          "3 Quả vip 50k"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 96645,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "3 Quả vip 50k",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "3 Quả vip 50k",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "3 Quả vip 50k",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 55000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 149406,
+        "totalSold": 9,
+        "unit": "Quả (450-550g)",
+        "sku": "Dua Xiem So",
+        "rating": 5,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "3 Quả vip 50k"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 96644,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "10 Quả Vip",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "10 Quả Vip",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "10 Quả Vip",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 169000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 149406,
+        "totalSold": 5,
+        "unit": "Quả (450-550g)",
+        "sku": "Dua Xiem So",
+        "rating": 5,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "10 Quả Vip"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 96643,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "10 quả 550-600g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "10 quả 550-600g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "10 quả 550-600g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 180000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 149406,
+        "totalSold": 3,
+        "unit": "Quả (450-550g)",
+        "sku": "Dua Xiem So",
+        "rating": 5,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "10 quả 550-600g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 9376,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dừa Xiêm Sọ size 700 - 1gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dừa xiêm sọ nhiều nước, cùi dẻo ngọt. Quả dừa to cầm nặng tay, ngọt nước và đặc biệt không tẩy trắng</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/2fc3722d-b6fb-45a0-9a7e-916f77c77c55.jpg\",\"https://images.f99.com.vn/images/aa21aa20-e0d0-4a6d-8b1a-b0936d23a783.jpg\",\"https://images.f99.com.vn/images/ea181b74-d7bb-4aaf-bcf3-60cd4d9c6412.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dừa Xiêm Sọ size 700 - 1gr",
+    "description": "<p>Dừa xiêm sọ nhiều nước, cùi dẻo ngọt. Quả dừa to cầm nặng tay, ngọt nước và đặc biệt không tẩy trắng</p>",
+    "imageUrl": "https://images.f99.com.vn/images/2fc3722d-b6fb-45a0-9a7e-916f77c77c55.jpg",
+    "price": 249000,
+    "oldPrice": 250000,
+    "discountPercent": 0,
+    "stock": 1000,
+    "totalSold": 69,
+    "maxQuantityPerUser": null,
+    "unit": " 10 quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 118,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nhiệt độ tủ mát</p>",
+    "category": {
+      "id": 8,
+      "name": "Dừa",
+      "imageUrl": "https://imgur.com/fvU86QU.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/2fc3722d-b6fb-45a0-9a7e-916f77c77c55.jpg",
+      "https://images.f99.com.vn/images/aa21aa20-e0d0-4a6d-8b1a-b0936d23a783.jpg",
+      "https://images.f99.com.vn/images/ea181b74-d7bb-4aaf-bcf3-60cd4d9c6412.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/9376",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          " 10 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 55709,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": " 10 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": " 10 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": " 10 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 249000,
+        "oldPrice": 250000,
+        "discountPercent": 0,
+        "stock": 1000,
+        "totalSold": 69,
+        "unit": " 10 quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản nhiệt độ tủ mát</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": " 10 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 118,
+      "sellerRate": 3.9,
+      "sellerName": "Đinh Hương Fruit",
+      "warehouseId": "7d5007b2-5563-4d11-a461-2b659e39fcf0",
+      "warehouseAddress": "64 Khương Đình, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",
+      "distance": 3572,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 55.8364615384624,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 9653,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dừa Khắc Tài -Lộc",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Tết đến xuân về thì bàn thờ gia tiên là một cái gì ấm cúng</p><ul><li>Cửa hàng mang đến dừa khắc tài lộc mang đến phúc lộc cho mỗi gia đình</li></ul>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/cacf6c02-8b8f-4330-b704-82c2ad2d74fe.jpg\",\"https://images.f99.com.vn/images/dc6c1f35-80a4-4ddf-a152-b5e585bef72d.jpg\",\"https://images.f99.com.vn/images/324ca8c0-faa4-4764-9318-b7eed4f92bed.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dừa Khắc Tài -Lộc",
+    "description": "<p>Tết đến xuân về thì bàn thờ gia tiên là một cái gì ấm cúng</p><ul><li>Cửa hàng mang đến dừa khắc tài lộc mang đến phúc lộc cho mỗi gia đình</li></ul>",
+    "imageUrl": "https://images.f99.com.vn/images/cacf6c02-8b8f-4330-b704-82c2ad2d74fe.jpg",
+    "price": 90000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 100,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "1 quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 118,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>bảo quản nhiệt độ thường</p>",
+    "category": {
+      "id": 8,
+      "name": "Dừa",
+      "imageUrl": "https://imgur.com/fvU86QU.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/cacf6c02-8b8f-4330-b704-82c2ad2d74fe.jpg",
+      "https://images.f99.com.vn/images/dc6c1f35-80a4-4ddf-a152-b5e585bef72d.jpg",
+      "https://images.f99.com.vn/images/324ca8c0-faa4-4764-9318-b7eed4f92bed.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/9653",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 92786,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 90000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "1 quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>bảo quản nhiệt độ thường</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 118,
+      "sellerRate": 3.9,
+      "sellerName": "Đinh Hương Fruit",
+      "warehouseId": "7d5007b2-5563-4d11-a461-2b659e39fcf0",
+      "warehouseAddress": "64 Khương Đình, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",
+      "distance": 3572,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 55.8364615384624,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 11683,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": " Dừa Xiêm Sọ To Đặc Biệt ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h4>&nbsp;&nbsp;Bến Tre là xứ sở của trái dừa, với nhiều loại dừa: dừa ta, dừa dâu, dừa lửa, dừa cỏ, dừa sáp, dừa bị… Dừa xiêm xanh là giống cây trồng nhiều tại xã Tam Phước, huyện Châu Thành, tỉnh Bến Tre. Người dân nơi đây đang chuyển đổi trồng dừa uống nước, mang lại hiệu quả kinh tế rất khả quan.</h4><h4>&nbsp;&nbsp;Cây dừa xiêm là cây trồng không có phun hóa chất lên trái, nên trái không có dư lượng thuốc bảo vệ thực vật, giúp cho nước dừa được mệnh danh một loại nước rất tinh khiết, an toàn cho người sử dụng.&nbsp;</h4><h4>&nbsp;&nbsp;&nbsp;Uống có độ ngọt thanh, không chua, nên thường được gọi là \"dừa xiêm đường\". Còn dừa xiêm thường, buồng lúc trổ có màu xanh đọt chuối non, có từ 20 trái trở xuống/buồng</h4><h4>&nbsp;&nbsp;Dừa tươi làm thức uống giải khác và bồi dưỡng sức khỏe vì: Nước dừa nhiều đường Glucose, Fructose, Sucrose, giàu đạm chất, nhiều Vitamine C và B1 cũng như các khoáng chất. Nước dừa có thể dùng pha chế môi trường nuôi cấy mô, tham gia vào quá trình chế biến thức ăn hay đóng hộp giúp việc tồn trử lâu dài nâng cao được giá trị sản phẩm.</h4><p><img src=\"https://images.f99.com.vn/images/45a1f23d-1373-49fd-9378-9d7befbc6976.jpg\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/82ee67f2-6c8d-409e-9787-f590412aebc3.jpg\",\"https://images.f99.com.vn/images/49982b15-1ae6-46b8-85d5-84a209d1fabd.jpg\",\"https://images.f99.com.vn/images/091e185d-859b-4cb0-b9f3-07876c884c07.jpg\",\"https://images.f99.com.vn/images/a11d3520-5c18-4fdb-b991-f550e0405d84.jpg\",\"https://images.f99.com.vn/images/114cd303-b551-46d4-846b-235f4778be03.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"dừa\",\"apple fruit\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": " Dừa Xiêm Sọ To Đặc Biệt ",
+    "description": "<h4>&nbsp;&nbsp;Bến Tre là xứ sở của trái dừa, với nhiều loại dừa: dừa ta, dừa dâu, dừa lửa, dừa cỏ, dừa sáp, dừa bị… Dừa xiêm xanh là giống cây trồng nhiều tại xã Tam Phước, huyện Châu Thành, tỉnh Bến Tre. Người dân nơi đây đang chuyển đổi trồng dừa uống nước, mang lại hiệu quả kinh tế rất khả quan.</h4><h4>&nbsp;&nbsp;Cây dừa xiêm là cây trồng không có phun hóa chất lên trái, nên trái không có dư lượng thuốc bảo vệ thực vật, giúp cho nước dừa được mệnh danh một loại nước rất tinh khiết, an toàn cho người sử dụng.&nbsp;</h4><h4>&nbsp;&nbsp;&nbsp;Uống có độ ngọt thanh, không chua, nên thường được gọi là \"dừa xiêm đường\". Còn dừa xiêm thường, buồng lúc trổ có màu xanh đọt chuối non, có từ 20 trái trở xuống/buồng</h4><h4>&nbsp;&nbsp;Dừa tươi làm thức uống giải khác và bồi dưỡng sức khỏe vì: Nước dừa nhiều đường Glucose, Fructose, Sucrose, giàu đạm chất, nhiều Vitamine C và B1 cũng như các khoáng chất. Nước dừa có thể dùng pha chế môi trường nuôi cấy mô, tham gia vào quá trình chế biến thức ăn hay đóng hộp giúp việc tồn trử lâu dài nâng cao được giá trị sản phẩm.</h4><p><img src=\"https://images.f99.com.vn/images/45a1f23d-1373-49fd-9378-9d7befbc6976.jpg\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/82ee67f2-6c8d-409e-9787-f590412aebc3.jpg",
+    "price": 19900,
+    "oldPrice": 26000,
+    "discountPercent": 23,
+    "stock": 84000,
+    "totalSold": 140,
+    "maxQuantityPerUser": null,
+    "unit": "Quả 550-800g",
+    "sku": "dua xiem so",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hotline: </span><span style=\"background-color: rgb(229, 239, 255); color: var(--blue-base);\">0974956933</span></p>",
+    "category": {
+      "id": 8,
+      "name": "Dừa",
+      "imageUrl": "https://imgur.com/fvU86QU.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "dừa",
+      "apple fruit"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/82ee67f2-6c8d-409e-9787-f590412aebc3.jpg",
+      "https://images.f99.com.vn/images/49982b15-1ae6-46b8-85d5-84a209d1fabd.jpg",
+      "https://images.f99.com.vn/images/091e185d-859b-4cb0-b9f3-07876c884c07.jpg",
+      "https://images.f99.com.vn/images/a11d3520-5c18-4fdb-b991-f550e0405d84.jpg",
+      "https://images.f99.com.vn/images/114cd303-b551-46d4-846b-235f4778be03.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/11683",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1 Quả",
+          "Combo 10 quả",
+          "Combo 20 quả",
+          "Combo 3 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 91243,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1 Quả",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 22000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 0,
+        "totalSold": 3,
+        "unit": "Quả 550-800g",
+        "sku": "dua xiem so",
+        "rating": 5,
+        "instructions": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hotline: </span><span style=\"background-color: rgb(229, 239, 255); color: var(--blue-base);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1 Quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 73081,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 3 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 3 quả",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 3 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 65000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 81000,
+        "totalSold": 44,
+        "unit": "Quả 550-800g",
+        "sku": "",
+        "rating": 5,
+        "instructions": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hotline: </span><span style=\"background-color: rgb(229, 239, 255); color: var(--blue-base);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 3 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 11685,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 10 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 10 quả",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 10 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 199000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 1000,
+        "totalSold": 59,
+        "unit": "Quả 550-800g",
+        "sku": "",
+        "rating": 5,
+        "instructions": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hotline: </span><span style=\"background-color: rgb(229, 239, 255); color: var(--blue-base);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 10 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 46801,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 20 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 20 quả",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 20 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 399000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 2000,
+        "totalSold": 34,
+        "unit": "Quả 550-800g",
+        "sku": "",
+        "rating": 5,
+        "instructions": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hotline: </span><span style=\"background-color: rgb(229, 239, 255); color: var(--blue-base);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 20 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 11727,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dừa xiêm Bến Tre",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong><em>Dừa xiêm Bến Tre</em></strong></p><p>&nbsp;&nbsp;</p><p class=\"ql-align-center\"><a href=\"https://okfood.vn/dua-xiem-ben-tre\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 122, 183); background-color: transparent;\"><img src=\"https://bizweb.dktcdn.net/100/057/061/products/2-7eb49d44-1318-4024-b856-37b38d3560e7.jpg?v=1507543040430\" alt=\"Dừa xiêm mua ở đâu\"></a></p><p>&nbsp;</p><p>Dừa xiêm là một trái cây sạch, không chịu ảnh hưởng về thuốc bảo vệ thực vật như các loại trái cây khác. Tuy nhiên trên thị trường hiện nay đã sử dụng hóa chất để làm cho loại trái cây “giếng trời” này thêm hấp dẫn với các chiệu thức đại loại như ngâm thuốc tẩy, tiêm chích đường hóa học vào quả dừa. Chính vì thế để mua dừa xiêm sạch cần mua loại nguyên quả để an toàn hơn.</p><p><br></p><p><br></p><p>Dừa xiêm có rất nhiều loại như dừa xiêm xanh, dừa xiêm lục, dừa xiêm</p><p>&nbsp;</p><p><a href=\"http://okfood.vn/dua-xiem-ben-tre\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: transparent; color: rgb(0, 0, 0);\"><strong>Dừa xiêm xanh</strong></a></p><p>&nbsp;</p><p class=\"ql-align-center\"><img src=\"https://bizweb.dktcdn.net/100/057/061/products/1-b82fd036-2d3e-4b4d-a874-ac9af67dfe63.jpg?v=1507545883220\" alt=\"Dừa xiêm xanh\"></p><p>&nbsp;</p><p>Là giống dừa uống nước phổ biến nhất ở đồng bằng sông Cửu Long, đặc biệt trồng nhiều ở Bến Tre, vỏ xanh lục, cuốn nhỏ, cơm dẻo và dai, nước ngọt thanh, số trái trên quày từ 10 trái trở lên.</p><p>&nbsp;</p><p>Dừa xiêm ra hoa sớm sau khoảng 2,5 – 3 năm trồng, năng suất bình quân 140-150 trái/cây/năm, vỏ mỏng có màu xanh, nước có vị ngọt thanh (7-7,5% đường), thể tích nước 250-350 ml/trái, có nhu cầu tiêu thụ rộng rãi trên thị trường.</p><p>&nbsp;</p><h4><strong>Dừa xiêm đỏ</strong></h4><p class=\"ql-align-center\"><img src=\"https://bizweb.dktcdn.net/100/057/061/products/1-9ee07181-b02a-4261-ae4f-d6091a5647ef.jpg?v=1507560618683\" alt=\"Dừa xiêm đỏ\"></p><p>Là giống dừa uống nước phổ biến thứ nhì ở đồng bằng sông Cửu Long</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/e4e06b0d-0de2-4eb1-9e11-e72969b7b913.png\",\"https://images.f99.com.vn/images/8484ad61-3d3b-4efc-ab22-dcb4d76087ab.jpg\",\"https://images.f99.com.vn/images/f139f8d9-14f7-48ba-8936-ffb932e7f226.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"dừa\",\"apple fruit\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dừa xiêm Bến Tre",
+    "description": "<p><strong><em>Dừa xiêm Bến Tre</em></strong></p><p>&nbsp;&nbsp;</p><p class=\"ql-align-center\"><a href=\"https://okfood.vn/dua-xiem-ben-tre\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 122, 183); background-color: transparent;\"><img src=\"https://bizweb.dktcdn.net/100/057/061/products/2-7eb49d44-1318-4024-b856-37b38d3560e7.jpg?v=1507543040430\" alt=\"Dừa xiêm mua ở đâu\"></a></p><p>&nbsp;</p><p>Dừa xiêm là một trái cây sạch, không chịu ảnh hưởng về thuốc bảo vệ thực vật như các loại trái cây khác. Tuy nhiên trên thị trường hiện nay đã sử dụng hóa chất để làm cho loại trái cây “giếng trời” này thêm hấp dẫn với các chiệu thức đại loại như ngâm thuốc tẩy, tiêm chích đường hóa học vào quả dừa. Chính vì thế để mua dừa xiêm sạch cần mua loại nguyên quả để an toàn hơn.</p><p><br></p><p><br></p><p>Dừa xiêm có rất nhiều loại như dừa xiêm xanh, dừa xiêm lục, dừa xiêm</p><p>&nbsp;</p><p><a href=\"http://okfood.vn/dua-xiem-ben-tre\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: transparent; color: rgb(0, 0, 0);\"><strong>Dừa xiêm xanh</strong></a></p><p>&nbsp;</p><p class=\"ql-align-center\"><img src=\"https://bizweb.dktcdn.net/100/057/061/products/1-b82fd036-2d3e-4b4d-a874-ac9af67dfe63.jpg?v=1507545883220\" alt=\"Dừa xiêm xanh\"></p><p>&nbsp;</p><p>Là giống dừa uống nước phổ biến nhất ở đồng bằng sông Cửu Long, đặc biệt trồng nhiều ở Bến Tre, vỏ xanh lục, cuốn nhỏ, cơm dẻo và dai, nước ngọt thanh, số trái trên quày từ 10 trái trở lên.</p><p>&nbsp;</p><p>Dừa xiêm ra hoa sớm sau khoảng 2,5 – 3 năm trồng, năng suất bình quân 140-150 trái/cây/năm, vỏ mỏng có màu xanh, nước có vị ngọt thanh (7-7,5% đường), thể tích nước 250-350 ml/trái, có nhu cầu tiêu thụ rộng rãi trên thị trường.</p><p>&nbsp;</p><h4><strong>Dừa xiêm đỏ</strong></h4><p class=\"ql-align-center\"><img src=\"https://bizweb.dktcdn.net/100/057/061/products/1-9ee07181-b02a-4261-ae4f-d6091a5647ef.jpg?v=1507560618683\" alt=\"Dừa xiêm đỏ\"></p><p>Là giống dừa uống nước phổ biến thứ nhì ở đồng bằng sông Cửu Long</p>",
+    "imageUrl": "https://images.f99.com.vn/images/e4e06b0d-0de2-4eb1-9e11-e72969b7b913.png",
+    "price": 15000,
+    "oldPrice": 30000,
+    "discountPercent": 50,
+    "stock": 192000,
+    "totalSold": 90,
+    "maxQuantityPerUser": null,
+    "unit": "Quả ",
+    "sku": "dua",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+    "category": {
+      "id": 8,
+      "name": "Dừa",
+      "imageUrl": "https://imgur.com/fvU86QU.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "dừa",
+      "apple fruit"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/e4e06b0d-0de2-4eb1-9e11-e72969b7b913.png",
+      "https://images.f99.com.vn/images/8484ad61-3d3b-4efc-ab22-dcb4d76087ab.jpg",
+      "https://images.f99.com.vn/images/f139f8d9-14f7-48ba-8936-ffb932e7f226.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/11727",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "Combo 10 quả",
+          "Combo 10 quả to",
+          "Combo 3 quả",
+          "Combo 3 quả to",
+          "Combo 5 quả",
+          "Combo 5 quả to"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 49998,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 3 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 3 quả",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 3 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 45000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 24000,
+        "totalSold": 24,
+        "unit": "Quả ",
+        "sku": "dua",
+        "rating": 5,
+        "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 3 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 17888,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 5 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 5 quả",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 5 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 75000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 12000,
+        "totalSold": 37,
+        "unit": "Quả ",
+        "sku": "dua",
+        "rating": 5,
+        "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 5 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 17889,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 10 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 10 quả",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 10 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 150000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 12000,
+        "totalSold": 29,
+        "unit": "Quả ",
+        "sku": "dua",
+        "rating": 5,
+        "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 10 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 94895,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 3 quả to",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 3 quả to",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 3 quả to",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 66000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 48000,
+        "totalSold": 0,
+        "unit": "Quả ",
+        "sku": "dua",
+        "rating": 5,
+        "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 3 quả to"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 94894,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 5 quả to",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 5 quả to",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 5 quả to",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 110000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 48000,
+        "totalSold": 0,
+        "unit": "Quả ",
+        "sku": "dua",
+        "rating": 5,
+        "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 5 quả to"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 94893,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 10 quả to",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 10 quả to",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 10 quả to",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 215000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 48000,
+        "totalSold": 0,
+        "unit": "Quả ",
+        "sku": "dua",
+        "rating": 5,
+        "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 10 quả to"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 12051,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dừa Xiêm Trọc Bến Tre",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h4>&nbsp;&nbsp;Bến Tre là xứ sở của trái dừa, với nhiều loại dừa: dừa ta, dừa dâu, dừa lửa, dừa cỏ, dừa sáp, dừa bị… Dừa xiêm xanh là giống cây trồng nhiều tại xã Tam Phước, huyện Châu Thành, tỉnh Bến Tre. Người dân nơi đây đang chuyển đổi trồng dừa uống nước, mang lại hiệu quả kinh tế rất khả quan.</h4><h4>&nbsp;&nbsp;Cây dừa xiêm là cây trồng không có phun hóa chất lên trái, nên trái không có dư lượng thuốc bảo vệ thực vật, giúp cho nước dừa được mệnh danh một loại nước rất tinh khiết, an toàn cho người sử dụng.&nbsp;</h4><h4>&nbsp;&nbsp;&nbsp;Uống có độ ngọt thanh, không chua, nên thường được gọi là \"dừa xiêm đường\". Còn dừa xiêm thường, buồng lúc trổ có màu xanh đọt chuối non, có từ 20 trái trở xuống/buồng</h4><h4>&nbsp;&nbsp;Dừa tươi làm thức uống giải khác và bồi dưỡng sức khỏe vì: Nước dừa nhiều đường Glucose, Fructose, Sucrose, giàu đạm chất, nhiều Vitamine C và B1 cũng như các khoáng chất. Nước dừa có thể dùng pha chế môi trường nuôi cấy mô, tham gia vào quá trình chế biến thức ăn hay đóng hộp giúp việc tồn trử lâu dài nâng cao được giá trị sản phẩm.</h4><p><img src=\"https://images.f99.com.vn/images/45a1f23d-1373-49fd-9378-9d7befbc6976.jpg\"></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hotline: </span><span style=\"background-color: rgb(229, 239, 255); color: var(--blue-base);\">0974956933</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/fc052f6a-fbca-49a0-a26b-a90435c32201.jpg\",\"https://images.f99.com.vn/images/50e70206-ff54-4fac-9256-26ec849a9e4a.jpg\",\"https://images.f99.com.vn/images/6bd0ba2a-914e-4660-af10-4b98f095102d.jpg\",\"https://images.f99.com.vn/images/2e014f4a-ac54-4142-a58e-322ecbc1bc8d.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"dừa\",\"apple fruit\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dừa Xiêm Trọc Bến Tre",
+    "description": "<h4>&nbsp;&nbsp;Bến Tre là xứ sở của trái dừa, với nhiều loại dừa: dừa ta, dừa dâu, dừa lửa, dừa cỏ, dừa sáp, dừa bị… Dừa xiêm xanh là giống cây trồng nhiều tại xã Tam Phước, huyện Châu Thành, tỉnh Bến Tre. Người dân nơi đây đang chuyển đổi trồng dừa uống nước, mang lại hiệu quả kinh tế rất khả quan.</h4><h4>&nbsp;&nbsp;Cây dừa xiêm là cây trồng không có phun hóa chất lên trái, nên trái không có dư lượng thuốc bảo vệ thực vật, giúp cho nước dừa được mệnh danh một loại nước rất tinh khiết, an toàn cho người sử dụng.&nbsp;</h4><h4>&nbsp;&nbsp;&nbsp;Uống có độ ngọt thanh, không chua, nên thường được gọi là \"dừa xiêm đường\". Còn dừa xiêm thường, buồng lúc trổ có màu xanh đọt chuối non, có từ 20 trái trở xuống/buồng</h4><h4>&nbsp;&nbsp;Dừa tươi làm thức uống giải khác và bồi dưỡng sức khỏe vì: Nước dừa nhiều đường Glucose, Fructose, Sucrose, giàu đạm chất, nhiều Vitamine C và B1 cũng như các khoáng chất. Nước dừa có thể dùng pha chế môi trường nuôi cấy mô, tham gia vào quá trình chế biến thức ăn hay đóng hộp giúp việc tồn trử lâu dài nâng cao được giá trị sản phẩm.</h4><p><img src=\"https://images.f99.com.vn/images/45a1f23d-1373-49fd-9378-9d7befbc6976.jpg\"></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hotline: </span><span style=\"background-color: rgb(229, 239, 255); color: var(--blue-base);\">0974956933</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/fc052f6a-fbca-49a0-a26b-a90435c32201.jpg",
+    "price": 19900,
+    "oldPrice": 20000,
+    "discountPercent": 0,
+    "stock": 24000,
+    "totalSold": 19,
+    "maxQuantityPerUser": null,
+    "unit": "quả 550-800g",
+    "sku": "dua",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+    "category": {
+      "id": 8,
+      "name": "Dừa",
+      "imageUrl": "https://imgur.com/fvU86QU.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "dừa",
+      "apple fruit"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/fc052f6a-fbca-49a0-a26b-a90435c32201.jpg",
+      "https://images.f99.com.vn/images/50e70206-ff54-4fac-9256-26ec849a9e4a.jpg",
+      "https://images.f99.com.vn/images/6bd0ba2a-914e-4660-af10-4b98f095102d.jpg",
+      "https://images.f99.com.vn/images/2e014f4a-ac54-4142-a58e-322ecbc1bc8d.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12051",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1 quả",
+          "10 quả",
+          "5 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 95614,
+        "attributeTextValues": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 22000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 8000,
+        "totalSold": 5,
+        "unit": "quả 550-800g",
+        "sku": "dua",
+        "rating": 5,
+        "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 95613,
+        "attributeTextValues": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "5 quả",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "5 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "5 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 109000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 8000,
+        "totalSold": 2,
+        "unit": "quả 550-800g",
+        "sku": "dua",
+        "rating": 5,
+        "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "5 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 95612,
+        "attributeTextValues": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "10 quả",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "10 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "10 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 199000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 8000,
+        "totalSold": 12,
+        "unit": "quả 550-800g",
+        "sku": "dua",
+        "rating": 5,
+        "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "10 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13418,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dừa xiêm sọ Bến Tre khổng lồ  600g - 800g  ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dừa nhà em cam kết là:</p><p><br></p><p>✅ Hàng tươi mới, siêu ngọt</p><p><br></p><p>✅ Dừa không ngâm tẩy trắng, dễ sử dụng</p><p><br></p><p>✅ Nhiều nước và cực tốt cho sức khỏe.</p><p><br></p><p>🌴 Dừa tươi có tác dụng:</p><p><br></p><p>✅&nbsp;Tăng cường năng lượng cho cơ thể.</p><p><br></p><p>✅ Cải thiện hệ tim mạch, đặc tính chống oxi hóa.</p><p><br></p><p>✅ Hỗ trợ điều trị tiêu hóa, hỗ trợ quá trình giảm cân.</p><p><br></p><p>✅ Làm đẹp da, ngăn ngừa sỏi thận.</p><p><br></p><p>✅ Giảm tình trạng mất nước, uống thường xuyên điều trị tiểu đường.</p><p><br></p><p>✅ Điều hòa kinh nguyệt cho phụ nữ.</p><p><br></p><p>Mua sỉ alo 0982151822 - 0972230450</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/31926625-f56b-4bf2-9685-795e8e38fd77.jpg\",\"https://images.f99.com.vn/images/64ea905d-2699-4866-b7de-25cb647e4738.jpg\",\"https://images.f99.com.vn/images/234638bb-7beb-4235-b4ff-3f17ecc3e044.jpg\",\"https://images.f99.com.vn/images/a748b8e9-6517-4989-85f7-680658bd06a5.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dừa xiêm sọ Bến Tre khổng lồ  600g - 800g  ",
+    "description": "<p>Dừa nhà em cam kết là:</p><p><br></p><p>✅ Hàng tươi mới, siêu ngọt</p><p><br></p><p>✅ Dừa không ngâm tẩy trắng, dễ sử dụng</p><p><br></p><p>✅ Nhiều nước và cực tốt cho sức khỏe.</p><p><br></p><p>🌴 Dừa tươi có tác dụng:</p><p><br></p><p>✅&nbsp;Tăng cường năng lượng cho cơ thể.</p><p><br></p><p>✅ Cải thiện hệ tim mạch, đặc tính chống oxi hóa.</p><p><br></p><p>✅ Hỗ trợ điều trị tiêu hóa, hỗ trợ quá trình giảm cân.</p><p><br></p><p>✅ Làm đẹp da, ngăn ngừa sỏi thận.</p><p><br></p><p>✅ Giảm tình trạng mất nước, uống thường xuyên điều trị tiểu đường.</p><p><br></p><p>✅ Điều hòa kinh nguyệt cho phụ nữ.</p><p><br></p><p>Mua sỉ alo 0982151822 - 0972230450</p>",
+    "imageUrl": "https://images.f99.com.vn/images/31926625-f56b-4bf2-9685-795e8e38fd77.jpg",
+    "price": 20000,
+    "oldPrice": 30000,
+    "discountPercent": 33,
+    "stock": 2000,
+    "totalSold": 290,
+    "maxQuantityPerUser": null,
+    "unit": "1 quả ",
+    "sku": "",
+    "origin": "",
+    "sellerId": 242,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Chị em bảo quản ngăn mát tủ lạnh.</p>",
+    "category": {
+      "id": 8,
+      "name": "Dừa",
+      "imageUrl": "https://imgur.com/fvU86QU.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/31926625-f56b-4bf2-9685-795e8e38fd77.jpg",
+      "https://images.f99.com.vn/images/64ea905d-2699-4866-b7de-25cb647e4738.jpg",
+      "https://images.f99.com.vn/images/234638bb-7beb-4235-b4ff-3f17ecc3e044.jpg",
+      "https://images.f99.com.vn/images/a748b8e9-6517-4989-85f7-680658bd06a5.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13418",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 quả "
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 54467,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 quả ",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 quả ",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 quả ",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 20000,
+        "oldPrice": 30000,
+        "discountPercent": 33,
+        "stock": 2000,
+        "totalSold": 290,
+        "unit": "1 quả ",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Chị em bảo quản ngăn mát tủ lạnh.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 quả "
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 242,
+      "sellerRate": 4.1,
+      "sellerName": "Tổng Kho Amy Fruit",
+      "warehouseId": "acd38b9a-c6ad-4c61-96a8-17ef6b47e174",
+      "warehouseAddress": "Số 3 ngõ 57 Nguyễn Khánh Toàn, Dịch Vọng, Cầu Giấy, Hà Nội",
+      "distance": 4026,
+      "warehouseDistrict": "cau giay",
+      "reputation": 58.71380729701953,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13633,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dừa xiêm Bến Tre ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Homeyfood.net</p><p>-100% không hỏng thối. Hỏng thối quả nào đôi trả quả đấy.</p><p>- Luôn cân đủ hoặc cân hơn cho khách hàng</p><p>-Sản phẩm chất lượng tốt</p><p>- Lấy uy tín hàng đầu.</p><p>Địa chỉ: Số 52 ngõ 376 Bưởi, Ba Đình, HN</p><p>Sđt: 0346228142</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/1c0b750a-b6dc-4bc1-8268-668b68520a44.jpg\",\"https://images.f99.com.vn/images/d0d9b339-4fff-4a63-8a39-c4dee40d39f1.jpg\",\"https://images.f99.com.vn/images/26b4dd8c-ba1c-43e4-852e-a746523374d7.jpg\",\"https://images.f99.com.vn/images/2a66c1e6-0988-48fc-9200-1cf8f1fd1380.jpeg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Dừa Xiêm\",\"Dừa\",\"Dừa Bến Tre\",\"Thái Lan\",\"Bến Tre\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dừa xiêm Bến Tre ",
+    "description": "<p>Homeyfood.net</p><p>-100% không hỏng thối. Hỏng thối quả nào đôi trả quả đấy.</p><p>- Luôn cân đủ hoặc cân hơn cho khách hàng</p><p>-Sản phẩm chất lượng tốt</p><p>- Lấy uy tín hàng đầu.</p><p>Địa chỉ: Số 52 ngõ 376 Bưởi, Ba Đình, HN</p><p>Sđt: 0346228142</p>",
+    "imageUrl": "https://images.f99.com.vn/images/1c0b750a-b6dc-4bc1-8268-668b68520a44.jpg",
+    "price": 18000,
+    "oldPrice": 20000,
+    "discountPercent": 10,
+    "stock": 999,
+    "totalSold": 15445,
+    "maxQuantityPerUser": null,
+    "unit": "quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 240,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p>Để trong ngăn mát tủ lạnh để sản phẩm ngon nhất</p>",
+    "category": {
+      "id": 8,
+      "name": "Dừa",
+      "imageUrl": "https://imgur.com/fvU86QU.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Dừa Xiêm",
+      "Dừa",
+      "Dừa Bến Tre",
+      "Thái Lan",
+      "Bến Tre"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/1c0b750a-b6dc-4bc1-8268-668b68520a44.jpg",
+      "https://images.f99.com.vn/images/d0d9b339-4fff-4a63-8a39-c4dee40d39f1.jpg",
+      "https://images.f99.com.vn/images/26b4dd8c-ba1c-43e4-852e-a746523374d7.jpg",
+      "https://images.f99.com.vn/images/2a66c1e6-0988-48fc-9200-1cf8f1fd1380.jpeg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13633",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 74124,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 18000,
+        "oldPrice": 20000,
+        "discountPercent": 10,
+        "stock": 999,
+        "totalSold": 15445,
+        "unit": "quả",
+        "sku": "",
+        "rating": 5,
+        "instructions": "<p>Để trong ngăn mát tủ lạnh để sản phẩm ngon nhất</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 240,
+      "sellerRate": 4.5,
+      "sellerName": "Homey Fruit & Veg ",
+      "warehouseId": "ccb00cae-e276-4a1b-af4a-ae822ab5c570",
+      "warehouseAddress": "số 52 ngõ 376 Bưởi, Vĩnh Phúc, Ba Đình, Hà Nội",
+      "distance": 3021,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 77.89029707147643,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13839,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dừa xiêm sọ siêu ngọt ( 400g - 600g ) ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Tự hào là nhà sản xuất dừa duy nhất tại Hà Nội không sử dụng tẩy trắng chung tôi coi trọng sức khỏe khách hành trên hết.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/59d151b5-2505-456b-b76f-b51e4dca9b4b.jpg\",\"https://images.f99.com.vn/images/55863bfa-dc88-481a-a5e5-e0f684a95574.jpg\",\"https://images.f99.com.vn/images/f5b7e57a-3846-41ac-833c-e6f509da64df.jpg\",\"https://images.f99.com.vn/images/9b0b7d14-542b-444b-8013-43e1fa844d3c.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dừa xiêm sọ siêu ngọt ( 400g - 600g ) ",
+    "description": "<p>Tự hào là nhà sản xuất dừa duy nhất tại Hà Nội không sử dụng tẩy trắng chung tôi coi trọng sức khỏe khách hành trên hết.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/59d151b5-2505-456b-b76f-b51e4dca9b4b.jpg",
+    "price": 169000,
+    "oldPrice": 250000,
+    "discountPercent": 32,
+    "stock": 900,
+    "totalSold": 124,
+    "maxQuantityPerUser": null,
+    "unit": "10 quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 242,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Ngăn mát tủ lạnh</p>",
+    "category": {
+      "id": 8,
+      "name": "Dừa",
+      "imageUrl": "https://imgur.com/fvU86QU.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/59d151b5-2505-456b-b76f-b51e4dca9b4b.jpg",
+      "https://images.f99.com.vn/images/55863bfa-dc88-481a-a5e5-e0f684a95574.jpg",
+      "https://images.f99.com.vn/images/f5b7e57a-3846-41ac-833c-e6f509da64df.jpg",
+      "https://images.f99.com.vn/images/9b0b7d14-542b-444b-8013-43e1fa844d3c.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13839",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "10 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 56409,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "10 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "10 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "10 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 169000,
+        "oldPrice": 250000,
+        "discountPercent": 32,
+        "stock": 900,
+        "totalSold": 124,
+        "unit": "10 quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Ngăn mát tủ lạnh</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "10 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 242,
+      "sellerRate": 4.1,
+      "sellerName": "Tổng Kho Amy Fruit",
+      "warehouseId": "acd38b9a-c6ad-4c61-96a8-17ef6b47e174",
+      "warehouseAddress": "Số 3 ngõ 57 Nguyễn Khánh Toàn, Dịch Vọng, Cầu Giấy, Hà Nội",
+      "distance": 4026,
+      "warehouseDistrict": "cau giay",
+      "reputation": 58.71380729701953,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 17432,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dừa xiêm bến tre, gọt mộc không ngâm chất tẩy trắng (500-650g) - VIHAFOOD",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p Class=\"ql-align-justify\"><strong>Dừa xiêm gọt trọc</strong>&nbsp;được tuyển chọn rất kỹ từ những quả dừa xiêm xanh ngon, cơm dừa có độ non vừa phải không có bị già, nước ngọt và có mùi hương thơm mát. Dừa xiêm gọt trọc tự nhiên nói không với chất tẩy trắng và chất bảo quản.</p><p class=\"ql-align-justify\"><strong>Dừa xiêm gọt trọc</strong>&nbsp;sẵn siêu tiện lợi, dễ bảo quản, nhỏ gọn nhưng lại có võ uống đến đâu thấm đến đó, nước dừa ngọt mát lịm, mùi hương thơm mát làm cho người uống có cảm giác tươi mát và xua tan đi bao mệt mỏi.</p><p class=\"ql-align-justify\">Nước dừa xiêm thuần khiết, hoàn toàn tự nhiên có tác dụng giải nhiệt, làm đẹp, tốt cho tim mạch, tiêu hóa, chống oxy hóa,... đặc biệt tốt cho phụ nữ mang thai.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/1a8df6f1-ab94-46cb-a423-fbdf9a932b38.png\",\"https://images.f99.com.vn/images/e19f7ce6-0de7-40c7-a567-a83b8d9aa831.jpg\",\"https://images.f99.com.vn/images/075601be-3420-4b2e-b7fb-70ce7a5d738a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dừa xiêm bến tre, gọt mộc không ngâm chất tẩy trắng (500-650g) - VIHAFOOD",
+    "description": "<p Class=\"ql-align-justify\"><strong>Dừa xiêm gọt trọc</strong>&nbsp;được tuyển chọn rất kỹ từ những quả dừa xiêm xanh ngon, cơm dừa có độ non vừa phải không có bị già, nước ngọt và có mùi hương thơm mát. Dừa xiêm gọt trọc tự nhiên nói không với chất tẩy trắng và chất bảo quản.</p><p class=\"ql-align-justify\"><strong>Dừa xiêm gọt trọc</strong>&nbsp;sẵn siêu tiện lợi, dễ bảo quản, nhỏ gọn nhưng lại có võ uống đến đâu thấm đến đó, nước dừa ngọt mát lịm, mùi hương thơm mát làm cho người uống có cảm giác tươi mát và xua tan đi bao mệt mỏi.</p><p class=\"ql-align-justify\">Nước dừa xiêm thuần khiết, hoàn toàn tự nhiên có tác dụng giải nhiệt, làm đẹp, tốt cho tim mạch, tiêu hóa, chống oxy hóa,... đặc biệt tốt cho phụ nữ mang thai.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/1a8df6f1-ab94-46cb-a423-fbdf9a932b38.png",
+    "price": 20000,
+    "oldPrice": 25000,
+    "discountPercent": 20,
+    "stock": 500,
+    "totalSold": 95,
+    "maxQuantityPerUser": null,
+    "unit": "Quả",
+    "sku": "D1",
+    "origin": "",
+    "sellerId": 244,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ngăn mát tủ lạnh, nên sử dụng trong vòng 1 tuần</p>",
+    "category": {
+      "id": 8,
+      "name": "Dừa",
+      "imageUrl": "https://imgur.com/fvU86QU.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/1a8df6f1-ab94-46cb-a423-fbdf9a932b38.png",
+      "https://images.f99.com.vn/images/e19f7ce6-0de7-40c7-a567-a83b8d9aa831.jpg",
+      "https://images.f99.com.vn/images/075601be-3420-4b2e-b7fb-70ce7a5d738a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/17432",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 55022,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 20000,
+        "oldPrice": 25000,
+        "discountPercent": 20,
+        "stock": 500,
+        "totalSold": 95,
+        "unit": "Quả",
+        "sku": "D1",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ngăn mát tủ lạnh, nên sử dụng trong vòng 1 tuần</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 244,
+      "sellerRate": 4.7,
+      "sellerName": "VIHAFOOD - Đặc sản vùng miền",
+      "warehouseId": "cf85b1b1-6f2a-49b3-b125-e261f6bfc30a",
+      "warehouseAddress": "111 Phố Đội Cấn, Ba Đình, Hà Nội",
+      "distance": 1098,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 80.86123101095345,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 29732,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dừa Xiêm Bến Tre",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h3 class=\"ql-align-justify\"><strong>Dừa xiêm gọt sọ là gì?</strong></h3><p>Dừa xiêm gọt sọ còn có tên gọi khác là dừa xiêm sọ gọt trọc hay dừa xiêm gọt trọc đã được gọt bỏ lớp xơ dừa và làm sạch, vô cùng nhỏ gọn, tiện lợi, sang trọng chỉ cần cắm ống hút vào mắt dừa là có thể thưởng thức ngay mà không cần bất kỳ một thao tác nào khác.</p><h3 class=\"ql-align-justify\"><strong>Lợi ích của dừa xiêm sọ gọt trọc</strong>&nbsp;</h3><p class=\"ql-align-justify\">Nước dừa xiêm thuần khiết, hoàn toàn tự nhiên có tác dụng giải nhiệt, làm đẹp, tốt cho tim mạch, tiêu hóa, chống oxy hóa,... đặc biệt tốt cho phụ nữ mang thai (lưu ý theo Đông y, phụ nữ mang thai 3 tháng đầu thai kỳ không nên dùng nước dừa).&nbsp;</p><p class=\"ql-align-justify\">Dừa xiêm sọ Bến Tre gọt trọc sau khi được tuyển chọn kỹ lưỡng từng quả sẽ được tiến hành gọt bằng thủ công, để ráo nhựa, ngâm qua với chanh sau đó phơi khô để màu dừa không bị thâm đen sẽ thu được mẻ dừa ngon, tròn vị nhất. Nên lựa chọn những đơn vị cung cấp dừa xiêm gọt sọ uy tín bởi hiện nay trên thị trường xuất hiện tình trạng sử dụng hóa chất tẩy trắng và chất bảo quản để kéo dài thời gian tươi lâu.</p><p class=\"ql-align-justify\">Hương vị nước dừa xiêm xanh thuần khiết, mát lịm, cùng hương thơm mát lành hoàn toàn tự nhiên, uống đến đâu thấm đến đó mang đến cảm giác tươi mát và xua tan đi bao mệt mỏi để cuộc sống ngập tràn trong vị ngọt tươi mát từ thiên nhiên.</p><h3 class=\"ql-align-justify\"><strong>Bảo quản dừa xiêm tươi gọt trọc lâu bị hư</strong></h3><p class=\"ql-align-justify\">Nước dừa hay bất kỳ loại nước trái cây nào khác cũng vậy, ngon đến mấy, bổ dưỡng đến thế nào nếu không biết cách bảo quản sẽ bị mất chất dinh dưỡng, không còn tươi ngon mà còn ảnh hưởng tiêu cực đến sức khỏe.</p><p class=\"ql-align-justify\">So với các loại hoa quả khác dừa là loại trái cây để được lâu nhất và giữ được hương vị trọn vẹn và dinh dưỡng thuần khiết nhất của dừa. Dừa xiêm sọ bảo quản tủ mát được 10 - 15 ngày mà không sợ bất kỳ sự xâm nhập nào của vi khuẩn hay côn trùng bay vào nhờ lớp vỏ khá dày và cứng.</p><p class=\"ql-align-justify\">Nên lưu ý rằng để dừa xiêm gọt trọc tươi lâu yêu cầu dừa phải nguyên trái &amp; các mắt dừa phải được gọt dày, nhiệt độ từ 1-4 độ C. Nếu bên ngoài thì để nơi thoáng mát, tránh ánh nắng trực tiếp để dừa không bị chua sẽ để được tầm 1 tuần. Lời khuyên tốt nhất vẫn là uống tươi sau khi hái xuống để cảm nhận được hương vị thanh mát của dừa xiêm và chất dinh dưỡng được hấp thu tốt nhất.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/1a9ee850-9985-408f-92a3-e4f15c1c476f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"dừa xiêm\",\"dừa xiêm bến tre\",\"dừa\",\"dua xiem ben tre\",\"dua xiem\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dừa Xiêm Bến Tre",
+    "description": "<h3 class=\"ql-align-justify\"><strong>Dừa xiêm gọt sọ là gì?</strong></h3><p>Dừa xiêm gọt sọ còn có tên gọi khác là dừa xiêm sọ gọt trọc hay dừa xiêm gọt trọc đã được gọt bỏ lớp xơ dừa và làm sạch, vô cùng nhỏ gọn, tiện lợi, sang trọng chỉ cần cắm ống hút vào mắt dừa là có thể thưởng thức ngay mà không cần bất kỳ một thao tác nào khác.</p><h3 class=\"ql-align-justify\"><strong>Lợi ích của dừa xiêm sọ gọt trọc</strong>&nbsp;</h3><p class=\"ql-align-justify\">Nước dừa xiêm thuần khiết, hoàn toàn tự nhiên có tác dụng giải nhiệt, làm đẹp, tốt cho tim mạch, tiêu hóa, chống oxy hóa,... đặc biệt tốt cho phụ nữ mang thai (lưu ý theo Đông y, phụ nữ mang thai 3 tháng đầu thai kỳ không nên dùng nước dừa).&nbsp;</p><p class=\"ql-align-justify\">Dừa xiêm sọ Bến Tre gọt trọc sau khi được tuyển chọn kỹ lưỡng từng quả sẽ được tiến hành gọt bằng thủ công, để ráo nhựa, ngâm qua với chanh sau đó phơi khô để màu dừa không bị thâm đen sẽ thu được mẻ dừa ngon, tròn vị nhất. Nên lựa chọn những đơn vị cung cấp dừa xiêm gọt sọ uy tín bởi hiện nay trên thị trường xuất hiện tình trạng sử dụng hóa chất tẩy trắng và chất bảo quản để kéo dài thời gian tươi lâu.</p><p class=\"ql-align-justify\">Hương vị nước dừa xiêm xanh thuần khiết, mát lịm, cùng hương thơm mát lành hoàn toàn tự nhiên, uống đến đâu thấm đến đó mang đến cảm giác tươi mát và xua tan đi bao mệt mỏi để cuộc sống ngập tràn trong vị ngọt tươi mát từ thiên nhiên.</p><h3 class=\"ql-align-justify\"><strong>Bảo quản dừa xiêm tươi gọt trọc lâu bị hư</strong></h3><p class=\"ql-align-justify\">Nước dừa hay bất kỳ loại nước trái cây nào khác cũng vậy, ngon đến mấy, bổ dưỡng đến thế nào nếu không biết cách bảo quản sẽ bị mất chất dinh dưỡng, không còn tươi ngon mà còn ảnh hưởng tiêu cực đến sức khỏe.</p><p class=\"ql-align-justify\">So với các loại hoa quả khác dừa là loại trái cây để được lâu nhất và giữ được hương vị trọn vẹn và dinh dưỡng thuần khiết nhất của dừa. Dừa xiêm sọ bảo quản tủ mát được 10 - 15 ngày mà không sợ bất kỳ sự xâm nhập nào của vi khuẩn hay côn trùng bay vào nhờ lớp vỏ khá dày và cứng.</p><p class=\"ql-align-justify\">Nên lưu ý rằng để dừa xiêm gọt trọc tươi lâu yêu cầu dừa phải nguyên trái &amp; các mắt dừa phải được gọt dày, nhiệt độ từ 1-4 độ C. Nếu bên ngoài thì để nơi thoáng mát, tránh ánh nắng trực tiếp để dừa không bị chua sẽ để được tầm 1 tuần. Lời khuyên tốt nhất vẫn là uống tươi sau khi hái xuống để cảm nhận được hương vị thanh mát của dừa xiêm và chất dinh dưỡng được hấp thu tốt nhất.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/1a9ee850-9985-408f-92a3-e4f15c1c476f.jpg",
+    "price": 25000,
+    "oldPrice": 27000,
+    "discountPercent": 7,
+    "stock": 2000,
+    "totalSold": 174,
+    "maxQuantityPerUser": null,
+    "unit": "1 quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 484,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 8,
+      "name": "Dừa",
+      "imageUrl": "https://imgur.com/fvU86QU.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "dừa xiêm",
+      "dừa xiêm bến tre",
+      "dừa",
+      "dua xiem ben tre",
+      "dua xiem"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/1a9ee850-9985-408f-92a3-e4f15c1c476f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/29732",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 quả",
+          "2 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 44192,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 25000,
+        "oldPrice": 27000,
+        "discountPercent": 7,
+        "stock": 1000,
+        "totalSold": 63,
+        "unit": "1 quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 44191,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "2 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 48000,
+        "oldPrice": 27000,
+        "discountPercent": -78,
+        "stock": 1000,
+        "totalSold": 111,
+        "unit": "1 quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "2 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 484,
+      "sellerRate": 4.6,
+      "sellerName": "HOME FRUITS",
+      "warehouseId": "c9100430-cbd7-4e59-a914-9ce7a7071cbc",
+      "warehouseAddress": "Số 172 Trần Bình, phường Mỹ Đình, Quận Nam Từ Liêm, Hà Nội",
+      "distance": 6740,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 80.48249894439043,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 29741,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dừa Xiêm Bật Lắp Loai 1",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dừa Xiêm Bật Lắp Loại 1</p><p><span style=\"color: rgb(54, 63, 77);\">nước dừa nhiều đường Glucose, Fructose và Sucrose. Giàu đạm chất. Nhiều Vitamine C, B1 và khoáng chất. Ngoài ra nước dừa xiêm xanh lùn có thể dùng pha chế môi trường nuôi cấy mô. Tham gia vào quá trình chế biến thức ăn hay đóng hộp giúp việc tồn trữ lâu dài, nâng cao được giá trị sản phẩm. Trái dừa là nguồn cung cấp thức uống tự nhiên thơm mát, bổ dưỡng và tinh khiết nhất.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/6159af3a-5f9c-4d61-8226-03e2d729987b.jpg\",\"https://images.f99.com.vn/images/8c407d4f-071e-48f3-96b4-19b5e2d4c3f2.jpg\",\"https://images.f99.com.vn/images/56ed4a9e-6465-4e98-a8c1-978152a947b0.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dừa Xiêm Bật Lắp Loai 1",
+    "description": "<p>Dừa Xiêm Bật Lắp Loại 1</p><p><span style=\"color: rgb(54, 63, 77);\">nước dừa nhiều đường Glucose, Fructose và Sucrose. Giàu đạm chất. Nhiều Vitamine C, B1 và khoáng chất. Ngoài ra nước dừa xiêm xanh lùn có thể dùng pha chế môi trường nuôi cấy mô. Tham gia vào quá trình chế biến thức ăn hay đóng hộp giúp việc tồn trữ lâu dài, nâng cao được giá trị sản phẩm. Trái dừa là nguồn cung cấp thức uống tự nhiên thơm mát, bổ dưỡng và tinh khiết nhất.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/6159af3a-5f9c-4d61-8226-03e2d729987b.jpg",
+    "price": 22000,
+    "oldPrice": 25000,
+    "discountPercent": 12,
+    "stock": 100,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 465,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 8,
+      "name": "Dừa",
+      "imageUrl": "https://imgur.com/fvU86QU.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/6159af3a-5f9c-4d61-8226-03e2d729987b.jpg",
+      "https://images.f99.com.vn/images/8c407d4f-071e-48f3-96b4-19b5e2d4c3f2.jpg",
+      "https://images.f99.com.vn/images/56ed4a9e-6465-4e98-a8c1-978152a947b0.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/29741",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 96413,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 22000,
+        "oldPrice": 25000,
+        "discountPercent": 12,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "Quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 465,
+      "sellerRate": 4.7,
+      "sellerName": "Dừa Xiêm Chè Tiến Linh",
+      "warehouseId": "6df1514e-113f-42bb-aae9-cb7fe80d99fb",
+      "warehouseAddress": "Hà Nội, Thanh Xuân, Thượng Đình, 57 Giáp Nhất",
+      "distance": 3279,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 29756,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dừa Xiên Bật Lắp Loại 2",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dừa Xiên Bật Lắp Loại 2</p><p><span style=\"color: rgb(54, 63, 77);\">nước dừa nhiều đường Glucose, Fructose và Sucrose. Giàu đạm chất. Nhiều Vitamine C, B1 và khoáng chất. Ngoài ra nước dừa xiêm xanh lùn có thể dùng pha chế môi trường nuôi cấy mô. Tham gia vào quá trình chế biến thức ăn hay đóng hộp giúp việc tồn trữ lâu dài, nâng cao được giá trị sản phẩm. Trái dừa là nguồn cung cấp thức uống tự nhiên thơm mát, bổ dưỡng và tinh khiết nhất.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/c4a0a453-9add-48d5-9bef-b4565adada5c.jpg\",\"https://images.f99.com.vn/images/5d5fb9d2-6ff9-4d20-948e-3451bf6fec9c.jpg\",\"https://images.f99.com.vn/images/f80d1de4-ab1f-431c-87d6-5deb496084bb.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dừa Xiên Bật Lắp Loại 2",
+    "description": "<p>Dừa Xiên Bật Lắp Loại 2</p><p><span style=\"color: rgb(54, 63, 77);\">nước dừa nhiều đường Glucose, Fructose và Sucrose. Giàu đạm chất. Nhiều Vitamine C, B1 và khoáng chất. Ngoài ra nước dừa xiêm xanh lùn có thể dùng pha chế môi trường nuôi cấy mô. Tham gia vào quá trình chế biến thức ăn hay đóng hộp giúp việc tồn trữ lâu dài, nâng cao được giá trị sản phẩm. Trái dừa là nguồn cung cấp thức uống tự nhiên thơm mát, bổ dưỡng và tinh khiết nhất.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/c4a0a453-9add-48d5-9bef-b4565adada5c.jpg",
+    "price": 17000,
+    "oldPrice": 20000,
+    "discountPercent": 15,
+    "stock": 100,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 465,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 8,
+      "name": "Dừa",
+      "imageUrl": "https://imgur.com/fvU86QU.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/c4a0a453-9add-48d5-9bef-b4565adada5c.jpg",
+      "https://images.f99.com.vn/images/5d5fb9d2-6ff9-4d20-948e-3451bf6fec9c.jpg",
+      "https://images.f99.com.vn/images/f80d1de4-ab1f-431c-87d6-5deb496084bb.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/29756",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 96415,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 17000,
+        "oldPrice": 20000,
+        "discountPercent": 15,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "Quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 465,
+      "sellerRate": 4.7,
+      "sellerName": "Dừa Xiêm Chè Tiến Linh",
+      "warehouseId": "6df1514e-113f-42bb-aae9-cb7fe80d99fb",
+      "warehouseAddress": "Hà Nội, Thanh Xuân, Thượng Đình, 57 Giáp Nhất",
+      "distance": 3279,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 29775,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dừa Xiêm Sọ Size M",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dừa Xiêm Sọ Size M</p><p><span style=\"color: rgb(68, 68, 68);\">Dừa xiêm gọt sọ hay còn gọi là&nbsp;</span><strong style=\"color: rgb(68, 68, 68);\">dừa xiêm gọt trọc</strong><span style=\"color: rgb(68, 68, 68);\">&nbsp;hay dừa xiêm cạo vỏ đã được tước xơ dừa và làm sạch, vô cùng nhỏ gọn, tiện lợi, sang trọng, chỉ cần cắm ống hút vào mắt dừa. có thể thưởng thức ngay mà không cần bất kỳ thao tác nào khác.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/cb21746a-f212-4f61-b67d-03a7f467ee1c.jpg\",\"https://images.f99.com.vn/images/700616bc-c049-40ac-b8a7-de404ce5a2d2.jpg\",\"https://images.f99.com.vn/images/aca66eab-5f17-4740-b779-97abe48d4f5e.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dừa Xiêm Sọ Size M",
+    "description": "<p>Dừa Xiêm Sọ Size M</p><p><span style=\"color: rgb(68, 68, 68);\">Dừa xiêm gọt sọ hay còn gọi là&nbsp;</span><strong style=\"color: rgb(68, 68, 68);\">dừa xiêm gọt trọc</strong><span style=\"color: rgb(68, 68, 68);\">&nbsp;hay dừa xiêm cạo vỏ đã được tước xơ dừa và làm sạch, vô cùng nhỏ gọn, tiện lợi, sang trọng, chỉ cần cắm ống hút vào mắt dừa. có thể thưởng thức ngay mà không cần bất kỳ thao tác nào khác.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/cb21746a-f212-4f61-b67d-03a7f467ee1c.jpg",
+    "price": 18000,
+    "oldPrice": 20000,
+    "discountPercent": 10,
+    "stock": 100,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "Quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 465,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 8,
+      "name": "Dừa",
+      "imageUrl": "https://imgur.com/fvU86QU.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/cb21746a-f212-4f61-b67d-03a7f467ee1c.jpg",
+      "https://images.f99.com.vn/images/700616bc-c049-40ac-b8a7-de404ce5a2d2.jpg",
+      "https://images.f99.com.vn/images/aca66eab-5f17-4740-b779-97abe48d4f5e.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/29775",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 96409,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 18000,
+        "oldPrice": 20000,
+        "discountPercent": 10,
+        "stock": 100,
+        "totalSold": 2,
+        "unit": "Quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 465,
+      "sellerRate": 4.7,
+      "sellerName": "Dừa Xiêm Chè Tiến Linh",
+      "warehouseId": "6df1514e-113f-42bb-aae9-cb7fe80d99fb",
+      "warehouseAddress": "Hà Nội, Thanh Xuân, Thượng Đình, 57 Giáp Nhất",
+      "distance": 3279,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 29776,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dừa Xiêm Sọ Size S",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dừa Xiêm Sọ Size S</p><p><span style=\"color: rgb(68, 68, 68);\">Dừa xiêm gọt sọ hay còn gọi là&nbsp;</span><strong style=\"color: rgb(68, 68, 68);\">dừa xiêm gọt trọc</strong><span style=\"color: rgb(68, 68, 68);\">&nbsp;hay dừa xiêm cạo vỏ đã được tước xơ dừa và làm sạch, vô cùng nhỏ gọn, tiện lợi, sang trọng, chỉ cần cắm ống hút vào mắt dừa. có thể thưởng thức ngay mà không cần bất kỳ thao tác nào khác.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/90fc0bf7-55e9-4f67-a748-650b7fa0f90c.jpg\",\"https://images.f99.com.vn/images/45ab2621-f1d8-4404-ab6a-a804a9fa2c05.jpg\",\"https://images.f99.com.vn/images/d5ce6100-fe74-4482-b6c8-f575fd89b1b6.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dừa Xiêm Sọ Size S",
+    "description": "<p>Dừa Xiêm Sọ Size S</p><p><span style=\"color: rgb(68, 68, 68);\">Dừa xiêm gọt sọ hay còn gọi là&nbsp;</span><strong style=\"color: rgb(68, 68, 68);\">dừa xiêm gọt trọc</strong><span style=\"color: rgb(68, 68, 68);\">&nbsp;hay dừa xiêm cạo vỏ đã được tước xơ dừa và làm sạch, vô cùng nhỏ gọn, tiện lợi, sang trọng, chỉ cần cắm ống hút vào mắt dừa. có thể thưởng thức ngay mà không cần bất kỳ thao tác nào khác.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/90fc0bf7-55e9-4f67-a748-650b7fa0f90c.jpg",
+    "price": 15000,
+    "oldPrice": 16000,
+    "discountPercent": 6,
+    "stock": 100,
+    "totalSold": 114,
+    "maxQuantityPerUser": null,
+    "unit": "Quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 465,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 8,
+      "name": "Dừa",
+      "imageUrl": "https://imgur.com/fvU86QU.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/90fc0bf7-55e9-4f67-a748-650b7fa0f90c.jpg",
+      "https://images.f99.com.vn/images/45ab2621-f1d8-4404-ab6a-a804a9fa2c05.jpg",
+      "https://images.f99.com.vn/images/d5ce6100-fe74-4482-b6c8-f575fd89b1b6.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/29776",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 79767,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 15000,
+        "oldPrice": 16000,
+        "discountPercent": 6,
+        "stock": 100,
+        "totalSold": 114,
+        "unit": "Quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 465,
+      "sellerRate": 4.7,
+      "sellerName": "Dừa Xiêm Chè Tiến Linh",
+      "warehouseId": "6df1514e-113f-42bb-aae9-cb7fe80d99fb",
+      "warehouseAddress": "Hà Nội, Thanh Xuân, Thượng Đình, 57 Giáp Nhất",
+      "distance": 3279,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 29799,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Thạch Dừa Quả",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Thạch Dừa Quả</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/3cc31839-2c45-42ea-9bc7-74719bd5761f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Thạch Dừa Quả",
+    "description": "<p>Thạch Dừa Quả</p>",
+    "imageUrl": "https://images.f99.com.vn/images/3cc31839-2c45-42ea-9bc7-74719bd5761f.jpg",
+    "price": 25000,
+    "oldPrice": 30000,
+    "discountPercent": 17,
+    "stock": 100,
+    "totalSold": 62,
+    "maxQuantityPerUser": null,
+    "unit": "Quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 465,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 8,
+      "name": "Dừa",
+      "imageUrl": "https://imgur.com/fvU86QU.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/3cc31839-2c45-42ea-9bc7-74719bd5761f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/29799",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 465,
+      "sellerRate": 4.7,
+      "sellerName": "Dừa Xiêm Chè Tiến Linh",
+      "warehouseId": "6df1514e-113f-42bb-aae9-cb7fe80d99fb",
+      "warehouseAddress": "Hà Nội, Thanh Xuân, Thượng Đình, 57 Giáp Nhất",
+      "distance": 3279,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 32247,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "1 quả dừa xiêm trọc size trung",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dừa xiêm trọc gọt mộc</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/5cba7ae2-9220-4722-9f9a-944d2867bec8.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "1 quả dừa xiêm trọc size trung",
+    "description": "<p>Dừa xiêm trọc gọt mộc</p>",
+    "imageUrl": "https://images.f99.com.vn/images/5cba7ae2-9220-4722-9f9a-944d2867bec8.jpg",
+    "price": 22000,
+    "oldPrice": 25000,
+    "discountPercent": 12,
+    "stock": 10181005,
+    "totalSold": 60,
+    "maxQuantityPerUser": null,
+    "unit": "10 quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 359,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ngăn mát tủ lạnh</p>",
+    "category": {
+      "id": 8,
+      "name": "Dừa",
+      "imageUrl": "https://imgur.com/fvU86QU.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/5cba7ae2-9220-4722-9f9a-944d2867bec8.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/32247",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 359,
+      "sellerRate": 4.4,
+      "sellerName": "Quang Anh- Hoa quả tươi theo mùa",
+      "warehouseId": "b29cda85-3ce5-4127-9c6b-1eb1a04399dc",
+      "warehouseAddress": " Hà Nội,  Hai Bà Trưng,  Vĩnh Tuy, NT9, Ngõ 124 Vĩnh Tuy",
+      "distance": 5482,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 70.9110772740987,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 34081,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dữa Xiêm Bến Tre",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong>Tác dụng của nước dừa</strong></p><p>Cung cấp dưỡng chất</p><p>Giúp làm đẹp da</p><p>Tăng cường năng lượng</p><p>Nước dừa chứa hàm lượng khoáng chất và vitamin tương đối cao. Chính vì vậy, nước dừa là loại thức uống giúp cung cấp năng lượng cho cơ thể một cách hiệu quả.</p><p>Loại nước này chứa nhiều chất điện giải hứa hẹn sẽ bù nước, bù khóang cho bạn sau những giờ làm việc và tập luyện mệt mỏi.</p><p>Cải thiện sức khỏe tim mạch</p><p>Chống mất nước</p><p>Hỗ trợ điều trị bệnh tiêu hóa</p><p>Hỗ trợ giảm cân</p><p>Tăng cường miễn dịch</p><p>Giúp chống oxy hóa</p><p>Ngăn ngừa sỏi thận</p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/d623113a-69f9-4d06-a974-f31750aff4c1.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dữa Xiêm Bến Tre",
+    "description": "<p><strong>Tác dụng của nước dừa</strong></p><p>Cung cấp dưỡng chất</p><p>Giúp làm đẹp da</p><p>Tăng cường năng lượng</p><p>Nước dừa chứa hàm lượng khoáng chất và vitamin tương đối cao. Chính vì vậy, nước dừa là loại thức uống giúp cung cấp năng lượng cho cơ thể một cách hiệu quả.</p><p>Loại nước này chứa nhiều chất điện giải hứa hẹn sẽ bù nước, bù khóang cho bạn sau những giờ làm việc và tập luyện mệt mỏi.</p><p>Cải thiện sức khỏe tim mạch</p><p>Chống mất nước</p><p>Hỗ trợ điều trị bệnh tiêu hóa</p><p>Hỗ trợ giảm cân</p><p>Tăng cường miễn dịch</p><p>Giúp chống oxy hóa</p><p>Ngăn ngừa sỏi thận</p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/d623113a-69f9-4d06-a974-f31750aff4c1.jpg",
+    "price": 28000,
+    "oldPrice": 30000,
+    "discountPercent": 7,
+    "stock": 100,
+    "totalSold": 25,
+    "maxQuantityPerUser": null,
+    "unit": "quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 404,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 8,
+      "name": "Dừa",
+      "imageUrl": "https://imgur.com/fvU86QU.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/d623113a-69f9-4d06-a974-f31750aff4c1.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/34081",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 404,
+      "sellerRate": 4.4,
+      "sellerName": "Patchic Mart - Cửa Hàng Tiện Ích ",
+      "warehouseId": "c236780d-67c4-4353-96b5-413d588691a4",
+      "warehouseAddress": " Hà Nội,  Hoàn Kiếm,  Trần Hưng Đạo, Số 5 Trương Hán Siêu",
+      "distance": 1752,
+      "warehouseDistrict": "hoan kiem",
+      "reputation": 62.1501538461552,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

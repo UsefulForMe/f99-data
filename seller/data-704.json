@@ -1,0 +1,35 @@
+{
+  "id": 704,
+  "name": "Cún Giỏ Minimart",
+  "logo": "https://cdn.f99.link/groupbuy-images/d5578cfc-8c17-4ae8-a6c0-63a46b391803.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chúng tôi chuyên cung cấp trái cây (trong nước và nhập khẩu); Giỏ trái cây biếu tặng; Thực phẩm khô; Thực phẩm đông lạnh trong nước và nhập khẩu.",
+  "headQuarter": "228 Đội Cấn, Liễu Giai, Ba Đình, Hà Nội",
+  "email": "cohuong2001@yahoo.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.3,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 6
+}

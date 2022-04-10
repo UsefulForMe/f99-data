@@ -1,0 +1,35 @@
+{
+  "id": 458,
+  "name": "Tùng Trang Fruits",
+  "logo": "https://cdn.f99.link/groupbuy-images/b42a9b43-c162-4e91-a1d4-7f5e36c93497.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Tùng Trang Fruits chuyên sỉ, lẻ sầu riêng uy tín, chất lượng.",
+  "headQuarter": "Số 6 Ngõ 11 Yên Vĩnh, Xã Kim Chung, Hoài Đức, hà Nội, Kim Chung, Hoài Đức, Hà Nội",
+  "email": "trangtrang8420000@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

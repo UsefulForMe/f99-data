@@ -1,0 +1,35 @@
+{
+  "id": 851,
+  "name": "Shop Lavi",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/c831982a-1677-4d75-b92e-81dc77ceddaa.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cung cấp các mặt hàng thực phẩm đóng hộp, đông lạnh, đặc sản vùng miền, bột uống dinh dưỡng, thực phẩm nhà làm (bánh tét, bánh ú…), chả các loại,…",
+  "headQuarter": "Số 21/1A Bắc Lân, Bà Điểm, Hóc Môn, Hồ Chí Minh",
+  "email": "thanhphi0903@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

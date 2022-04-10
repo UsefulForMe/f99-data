@@ -1,0 +1,35 @@
+{
+  "id": 416,
+  "name": "THỰC PHẨM P&T VIỆT NAM",
+  "logo": "https://cdn.f99.link/groupbuy-images/3921b2db-92b2-4be8-854a-52fe19a9935c.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Công ty TNHH thực phẩm P&T Việt Nam với thương hiệu KingFood chuyên cung cấp các loại rau củ quả Vietgap Mộc Châu, Đà Lạt và xuất khẩu các loại trái cây sấy",
+  "headQuarter": "D1/8  KTT Kho 212, Liên Ninh, Thanh Trì, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

@@ -1,0 +1,35 @@
+{
+  "id": 799,
+  "name": "KIM MART",
+  "logo": "https://cdn.f99.link/groupbuy-images/be59dd4e-7b96-46e1-912e-a1a6b6a13a57.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "- KIM Mart là siêu thị online tiện lợi, chuyên cung cấp đa dạng các loại thực phẩm tươi, thực phẩm khô, thực phẩm đóng gói.\n- Sứ mệnh của KIM Mart là đem đến sức khỏe cho người tiêu dùng Việt Nam bằng thực phẩm sạch.\n- Giá cả bình ổn - Chất lượng cam kết - Dịch vụ chu đáo - Cải thiện cuộc sống của người tiêu dùng chính là những giá trị mà KIM Mart theo đuổi và cam kết.",
+  "headQuarter": "32/1 Nguyễn Cửu Vân, 17, Bình Thạnh, Hồ Chí Minh",
+  "email": "kimmartsaigon@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": false,
+  "rating": 4.3,
+  "availableTime": {
+    "openTime": "10:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 6
+}

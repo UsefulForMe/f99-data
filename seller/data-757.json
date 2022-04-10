@@ -1,0 +1,35 @@
+{
+  "id": 757,
+  "name": "Sạch market",
+  "logo": "https://cdn.f99.link/groupbuy-images/30410a7e-9bd6-4cbc-89ee-d5bae1c9d389.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "SẠCH Market là cửa hàng chuyên cung cấp các loại thực phẩm sạch như: các loại thịt gà-bò-heo-nai-ếch, thực phẩm chế biến (giò, chả, nem,...); Thực phẩm đóng gói ăn liền; đồ ăn vặt, bánh kẹo nhập khẩu. Trái cây theo mùa",
+  "headQuarter": "Lô B Central Garden, 328 Võ Văn Kiệt, Cô Giang, Quận 1, Hồ Chí Minh",
+  "email": "kimhue915815@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "06:00",
+    "closeTime": "22:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

@@ -1,0 +1,35 @@
+{
+  "id": 920,
+  "name": "Thoáng Quê",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/8e8e4af9-0a70-4d36-b880-4b59750bf891.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp các sản phẩm đồ khô và thực phẩm thiết yếu từ các vùng miền.",
+  "headQuarter": "Số 3 ngõ 29/70/19 Khương Hạ, Khương Đình, Thanh Xuân, Hà Nội",
+  "email": "thoangque.hotro@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 14
+}

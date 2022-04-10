@@ -1,0 +1,35 @@
+{
+  "id": 270,
+  "name": "Hoa quả sạch Thu Hương",
+  "logo": "https://cdn.f99.link/groupbuy-images/55439231-d165-4a89-8977-49fb08f90dcb.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp sỉ lẻ hoa quả nội địa cao cấp hái vườn trực tiếp ( có hình ảnh thu mua đầy đủ), hoa quả việt nam vùng miền",
+  "headQuarter": "Kiot 6, Khu Thương Mại Trung Văn 2, KĐT Vinaconex 3, Trung Văn, Nam Từ Liêm, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

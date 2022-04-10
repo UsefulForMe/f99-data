@@ -1,0 +1,35 @@
+{
+  "id": 387,
+  "name": "MAI PHƯƠNG MOONCAKE",
+  "logo": "https://cdn.f99.link/groupbuy-images/c9f5649d-c4dc-4a32-bef3-49115fe77258.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Tìm về hương vị truyền thống của bánh Trung thu Hà Thành. Có truyền thống làm bánh trung cổ truyền từ cách đây hơn 30 năm, xưởng bánh sản xuất bánh trung thu Mai Phương (số 115 Pháo Đài Láng, Hà Nội) vẫn đang lưu giữ những bí quyết đậm đà hương vị CỔ TRUYỀN. Những chiếc bánh trung thu Mai Phương có hương vị tự nhiên từ lá chanh kết hợp với rượu Mai Quế Lộ, hòa quyện hương thơm của thịt mỡ, của lạp xưởng, của mứt bí, vừng… nét riêng cổ truyền không bị mai một theo thời gian.... ",
+  "headQuarter": "115 Pháo Đài Láng, Láng Thượng, Đống Đa, Hà Nội",
+  "email": "thuhapham1980@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 25
+}

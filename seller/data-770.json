@@ -1,0 +1,35 @@
+{
+  "id": 770,
+  "name": "KHÔ NHÀ NGOẠI",
+  "logo": "https://cdn.f99.link/groupbuy-images/1ba0f1cd-efd6-4715-a84a-2cf00fdd68dc.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên các loại Khô Cá, Tôm, Mực… hoàn toàn tự nhiên và chế biến an toàn, sạch sẽ",
+  "headQuarter": "236/29/19 Điện Biên Phủ, 17, Bình Thạnh, Hồ Chí Minh",
+  "email": "kinhdoanh@khonhangoai.vn",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

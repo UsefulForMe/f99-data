@@ -1,0 +1,35 @@
+{
+  "id": 413,
+  "name": "Roche Market",
+  "logo": "https://cdn.f99.link/groupbuy-images/fbcb23d3-81b5-404c-8d10-5b11e4ab6fe7.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Roche market chuyên cung cấp đặc sản vùng miền, hoa quả và rau củ. Các sản phẩm của Roche đảm bảo vệ sinh an toàn thực phẩm theo các tiêu chuẩn như: vietgap,....",
+  "headQuarter": "Cổng làng xóm Rô, Sơn Đồng, Hoài Đức, Hà Nội",
+  "email": "kimgiangthoa@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.3,
+  "availableTime": {
+    "openTime": "05:00",
+    "closeTime": "19:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 6
+}

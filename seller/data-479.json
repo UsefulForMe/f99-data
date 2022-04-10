@@ -1,0 +1,35 @@
+{
+  "id": 479,
+  "name": "L-Foods",
+  "logo": "https://cdn.f99.link/groupbuy-images/b7094046-9a8a-4e1c-b70e-451a53fca486.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cung cấp các loại Thực Phẩm và Hải Sản (thịt bò, thịt gà, thịt heo.)",
+  "headQuarter": "Số 1C, ngõ 2/6/2A Hoàng Liệt, Hoàng Liệt, Hoàng Mai, Hà Nội",
+  "email": "Phammanhlinhdrk@gmai.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.8,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 39
+}

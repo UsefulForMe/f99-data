@@ -1,0 +1,35 @@
+{
+  "id": 783,
+  "name": "ABA Foods – Hương Vị Quê Nhà",
+  "logo": "https://cdn.f99.link/groupbuy-images/a597cec5-4fba-418b-9c93-7da4d9da8a94.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "ABA foods chuyên cung cấp các mặt hàng hương vị quê nhà",
+  "headQuarter": "91/6 Nguyễn Hữu Cảnh, 22, Bình Thạnh, Hồ Chí Minh",
+  "email": "Lequynhtramaba@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "17:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

@@ -1,0 +1,35 @@
+{
+  "id": 997,
+  "name": "Bếp Mẹ Kid",
+  "logo": "https://images.f99.com.vn/groupbuy-images/52521be5-0592-456f-b2c7-891543e3bd5a.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp thực phẩm chế biến sẵn.",
+  "headQuarter": "Số 10 nghách 3 ngõ 89 Thái Hà, Phường Trung Liệt, Quận Đống Đa, TP Hà Nội, Trung Liệt, Đống Đa, Hà Nội",
+  "email": "lehuong14031975@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

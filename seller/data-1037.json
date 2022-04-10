@@ -1,0 +1,35 @@
+{
+  "id": 1037,
+  "name": "Bếp mẹ KEN",
+  "logo": "https://images.f99.com.vn/groupbuy-images/5a9cafb7-99ff-4d6a-a187-f4b1ecf0b79f.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên đồ lẩu. Đồ ăn vặt",
+  "headQuarter": "Số 4 ngõ 260/58 tân mai. Hoàng mai. Hà nội, Tân Mai, Hoàng Mai, Hà Nội",
+  "email": "buivanhoangthucnd@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "22:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": false,
+  "onStore": false,
+  "totalVote": 5
+}

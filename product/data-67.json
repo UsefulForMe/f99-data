@@ -1,0 +1,1789 @@
+[
+  {
+    "id": 11171,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mận Hậu Đầu Mùa",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p Class=\"ql-align-justify\"><strong style=\"background-color: rgba(0, 0, 0, 0);\">Mận xanh róc hạt&nbsp;bao ngon hơn mận hậu, giòn giòn, chua ngọt, trông xanh tươi nhưng không hề chát, trộn kèm muối ớt ăn tê tái đầu lưỡi. Các tín đồ thích ăn mận thì không nên bỏ qua siêu phẩm này đâu ạ.</strong><img src=\"https://images.f99.com.vn/images/dda018de-258a-4354-818a-e37d01440508.jpg\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/c20088d0-b092-40bc-8b45-fca5f990cd13.jpg\",\"https://images.f99.com.vn/images/710c2a36-ab30-4553-b65c-a3c5177e49db.jpg\",\"https://images.f99.com.vn/images/6ea25d64-48b0-4d52-9b76-9a47ac8e6e11.jpg\",\"https://images.f99.com.vn/images/b9456c11-5a46-4524-826d-a20e69b2546b.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Mân hậu\",\"mận dầm\",\"mận\",\"mận cơm\",\"mận xanh\",\"mận róc hạt\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mận Hậu Đầu Mùa",
+    "description": "<p Class=\"ql-align-justify\"><strong style=\"background-color: rgba(0, 0, 0, 0);\">Mận xanh róc hạt&nbsp;bao ngon hơn mận hậu, giòn giòn, chua ngọt, trông xanh tươi nhưng không hề chát, trộn kèm muối ớt ăn tê tái đầu lưỡi. Các tín đồ thích ăn mận thì không nên bỏ qua siêu phẩm này đâu ạ.</strong><img src=\"https://images.f99.com.vn/images/dda018de-258a-4354-818a-e37d01440508.jpg\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/c20088d0-b092-40bc-8b45-fca5f990cd13.jpg",
+    "price": 15000,
+    "oldPrice": 29000,
+    "discountPercent": 48,
+    "stock": 40000,
+    "totalSold": 11,
+    "maxQuantityPerUser": null,
+    "unit": "100g",
+    "sku": "Mandam",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p>. Nhập mã Applefruit5k</p><p><br></p><p>Giảm cho đơn từ 50k</p><p><br></p><p>2. Nhập mã Applefruit20k</p><p><br></p><p>Giảm cho đơn từ 150k</p><p><br></p><p>3. Nhập mã Applefruit50k</p><p><br></p><p>Giảm cho đơn từ 500k</p><p><br></p><p>Nhận hàng quý khách vui lòng kiểm tra cùng tài xế.</p><p><br></p><p><br></p><p>Hoa quả bảo hành, bao bù, đổi trả trong ngày.</p><p><br></p><p><br></p><p>Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</p><p><br></p><p><br></p><p>Hotline: 0974956933</p>",
+    "category": {
+      "id": 67,
+      "name": "Mận",
+      "imageUrl": "https://imgur.com/YcOdBTH.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Mân hậu",
+      "mận dầm",
+      "mận",
+      "mận cơm",
+      "mận xanh",
+      "mận róc hạt"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/c20088d0-b092-40bc-8b45-fca5f990cd13.jpg",
+      "https://images.f99.com.vn/images/710c2a36-ab30-4553-b65c-a3c5177e49db.jpg",
+      "https://images.f99.com.vn/images/6ea25d64-48b0-4d52-9b76-9a47ac8e6e11.jpg",
+      "https://images.f99.com.vn/images/b9456c11-5a46-4524-826d-a20e69b2546b.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/11171",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1000g",
+          "200g",
+          "500g",
+          "Hộp dầm muối ớt (400-500g)"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 96936,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "200g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "200g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "200g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 35000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 12000,
+        "totalSold": 7,
+        "unit": "100g",
+        "sku": "Mandam",
+        "rating": 5,
+        "instructions": "<p>. Nhập mã Applefruit5k</p><p><br></p><p>Giảm cho đơn từ 50k</p><p><br></p><p>2. Nhập mã Applefruit20k</p><p><br></p><p>Giảm cho đơn từ 150k</p><p><br></p><p>3. Nhập mã Applefruit50k</p><p><br></p><p>Giảm cho đơn từ 500k</p><p><br></p><p>Nhận hàng quý khách vui lòng kiểm tra cùng tài xế.</p><p><br></p><p><br></p><p>Hoa quả bảo hành, bao bù, đổi trả trong ngày.</p><p><br></p><p><br></p><p>Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</p><p><br></p><p><br></p><p>Hotline: 0974956933</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "200g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 96934,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 80000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 12000,
+        "totalSold": 2,
+        "unit": "100g",
+        "sku": "Mandam",
+        "rating": 5,
+        "instructions": "<p>. Nhập mã Applefruit5k</p><p><br></p><p>Giảm cho đơn từ 50k</p><p><br></p><p>2. Nhập mã Applefruit20k</p><p><br></p><p>Giảm cho đơn từ 150k</p><p><br></p><p>3. Nhập mã Applefruit50k</p><p><br></p><p>Giảm cho đơn từ 500k</p><p><br></p><p>Nhận hàng quý khách vui lòng kiểm tra cùng tài xế.</p><p><br></p><p><br></p><p>Hoa quả bảo hành, bao bù, đổi trả trong ngày.</p><p><br></p><p><br></p><p>Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</p><p><br></p><p><br></p><p>Hotline: 0974956933</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 96935,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1000g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1000g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1000g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 150000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 12000,
+        "totalSold": 2,
+        "unit": "100g",
+        "sku": "Mandam",
+        "rating": 5,
+        "instructions": "<p>. Nhập mã Applefruit5k</p><p><br></p><p>Giảm cho đơn từ 50k</p><p><br></p><p>2. Nhập mã Applefruit20k</p><p><br></p><p>Giảm cho đơn từ 150k</p><p><br></p><p>3. Nhập mã Applefruit50k</p><p><br></p><p>Giảm cho đơn từ 500k</p><p><br></p><p>Nhận hàng quý khách vui lòng kiểm tra cùng tài xế.</p><p><br></p><p><br></p><p>Hoa quả bảo hành, bao bù, đổi trả trong ngày.</p><p><br></p><p><br></p><p>Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</p><p><br></p><p><br></p><p>Hotline: 0974956933</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1000g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 96192,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Hộp dầm muối ớt (400-500g)",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Hộp dầm muối ớt (400-500g)",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Hộp dầm muối ớt (400-500g)",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 99000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 4000,
+        "totalSold": 0,
+        "unit": "100g",
+        "sku": "Mandam",
+        "rating": 5,
+        "instructions": "<p>. Nhập mã Applefruit5k</p><p><br></p><p>Giảm cho đơn từ 50k</p><p><br></p><p>2. Nhập mã Applefruit20k</p><p><br></p><p>Giảm cho đơn từ 150k</p><p><br></p><p>3. Nhập mã Applefruit50k</p><p><br></p><p>Giảm cho đơn từ 500k</p><p><br></p><p>Nhận hàng quý khách vui lòng kiểm tra cùng tài xế.</p><p><br></p><p><br></p><p>Hoa quả bảo hành, bao bù, đổi trả trong ngày.</p><p><br></p><p><br></p><p>Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</p><p><br></p><p><br></p><p>Hotline: 0974956933</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Hộp dầm muối ớt (400-500g)"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 22598,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mận Hậu Mộc Châu Đầu Mùa",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p Class=\"ql-align-justify\">Mận Hậu Mộc Châu đầu mùa</p><p class=\"ql-align-justify\">Mận Hậu Mộc Châu đầu mùa</p><p class=\"ql-align-justify\">Mận Hậu Mộc Châu đầu mùa</p><p class=\"ql-align-justify\">Mận Hậu Mộc Châu đầu mùa</p><p class=\"ql-align-justify\">Mận Hậu Mộc Châu đầu mùa</p><p class=\"ql-align-justify\">Mận Hậu Mộc Châu đầu mùa</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/b80c664a-7c0c-4668-b8e2-6950556638cc.jpg\",\"https://images.f99.com.vn/images/4e683dbf-f2f3-4a2a-9bff-7ba0b779795c.jpg\",\"https://images.f99.com.vn/images/bf4b9b71-91ce-4310-bcf2-7bc3882a2d24.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mận Hậu Mộc Châu Đầu Mùa",
+    "description": "<p Class=\"ql-align-justify\">Mận Hậu Mộc Châu đầu mùa</p><p class=\"ql-align-justify\">Mận Hậu Mộc Châu đầu mùa</p><p class=\"ql-align-justify\">Mận Hậu Mộc Châu đầu mùa</p><p class=\"ql-align-justify\">Mận Hậu Mộc Châu đầu mùa</p><p class=\"ql-align-justify\">Mận Hậu Mộc Châu đầu mùa</p><p class=\"ql-align-justify\">Mận Hậu Mộc Châu đầu mùa</p>",
+    "imageUrl": "https://images.f99.com.vn/images/b80c664a-7c0c-4668-b8e2-6950556638cc.jpg",
+    "price": 39000,
+    "oldPrice": 69000,
+    "discountPercent": 43,
+    "stock": 600,
+    "totalSold": 4,
+    "maxQuantityPerUser": null,
+    "unit": "0.25kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 79,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 67,
+      "name": "Mận",
+      "imageUrl": "https://imgur.com/YcOdBTH.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/b80c664a-7c0c-4668-b8e2-6950556638cc.jpg",
+      "https://images.f99.com.vn/images/4e683dbf-f2f3-4a2a-9bff-7ba0b779795c.jpg",
+      "https://images.f99.com.vn/images/bf4b9b71-91ce-4310-bcf2-7bc3882a2d24.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/22598",
+    "attributes": [
+      {
+        "id": 93,
+        "name": "Tình trạng",
+        "values": [
+          "0.25kg",
+          "0.5kg",
+          "1kg",
+          "Combo 2kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 93122,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 93,
+            "name": "Tình trạng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 93,
+              "name": "Tình trạng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 149000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "0.25kg",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 93,
+            "name": "Tình trạng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 96980,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "0.25kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 93,
+            "name": "Tình trạng",
+            "type": "text    ",
+            "value": "0.25kg",
+            "attribute": {
+              "id": 93,
+              "name": "Tình trạng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "0.25kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 39000,
+        "oldPrice": 69000,
+        "discountPercent": 43,
+        "stock": 300,
+        "totalSold": 2,
+        "unit": "0.25kg",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 93,
+            "name": "Tình trạng",
+            "value": "0.25kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 93123,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "0.5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 93,
+            "name": "Tình trạng",
+            "type": "text    ",
+            "value": "0.5kg",
+            "attribute": {
+              "id": 93,
+              "name": "Tình trạng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "0.5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 79000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 2,
+        "unit": "0.25kg",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 93,
+            "name": "Tình trạng",
+            "value": "0.5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 93124,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 2kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 93,
+            "name": "Tình trạng",
+            "type": "text    ",
+            "value": "Combo 2kg",
+            "attribute": {
+              "id": 93,
+              "name": "Tình trạng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 2kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 295000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "0.25kg",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 93,
+            "name": "Tình trạng",
+            "value": "Combo 2kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 79,
+      "sellerRate": 4.6,
+      "sellerName": "Bee Fruits - Trái Cây Nhập Khẩu",
+      "warehouseId": "93099fc8-cde8-46ed-b203-44dfddc85c45",
+      "warehouseAddress": "số 210K, Đội Cấn, Ba Đình, Hà Nội",
+      "distance": 1554,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 78.75352863930483,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 86175,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mận An Phước",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>- Mận đỏ An Phước là một loại cây được cắt ghép cành và mắt từ giống mận Thongsamsri Thái Lan trên gốc mận xanh của Việt nam. Thủ phủ của Mận An phước hiện nay là xã Mỹ Lương huyện Cái Bè tình Tiền Giang.</p><p>- Mận An Phước hình dáng thuôn dài, màu đỏ tươi bắt mắt, vị ngọt thanh mọng nước, hàm lượng dinh dưỡng không kém các loại hoa trái khác. Qua phân tích, 100 gram thịt mận có thể cung cấp năng lượng: 24 kilo Calo; carbon hydrat 5,5g; photphor 18 mg; vitamin C 32 mg; protein 0,5 g; canxi 2 mg; sắt 0,3 mg.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/be94aa0a-73b0-4e41-aba5-44d5ccc443bf.jpeg\",\"https://images.f99.com.vn/images/094f8338-d913-414d-bcff-d964d42f95b4.JPG\",\"https://images.f99.com.vn/images/1284611a-ee95-47d9-af8f-25f096f1b9fe.jpeg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"mận\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mận An Phước",
+    "description": "<p>- Mận đỏ An Phước là một loại cây được cắt ghép cành và mắt từ giống mận Thongsamsri Thái Lan trên gốc mận xanh của Việt nam. Thủ phủ của Mận An phước hiện nay là xã Mỹ Lương huyện Cái Bè tình Tiền Giang.</p><p>- Mận An Phước hình dáng thuôn dài, màu đỏ tươi bắt mắt, vị ngọt thanh mọng nước, hàm lượng dinh dưỡng không kém các loại hoa trái khác. Qua phân tích, 100 gram thịt mận có thể cung cấp năng lượng: 24 kilo Calo; carbon hydrat 5,5g; photphor 18 mg; vitamin C 32 mg; protein 0,5 g; canxi 2 mg; sắt 0,3 mg.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/be94aa0a-73b0-4e41-aba5-44d5ccc443bf.jpeg",
+    "price": 39000,
+    "oldPrice": 70000,
+    "discountPercent": 44,
+    "stock": 100,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 986,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><span style=\"color: rgb(51, 51, 51);\">Mận thường được sử dụng để ăn trực tiếp hoặc chế biến thành các món như:&nbsp;</span><a href=\"https://www.bachhoaxanh.com/kinh-nghiem-hay/bi-quyet-lam-man-lac-chua-cay-man-ngot-sieu-ngon-991216\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(40, 138, 214);\">mận lắc,</a><span style=\"color: rgb(51, 51, 51);\">&nbsp;</span><a href=\"https://www.bachhoaxanh.com/kinh-nghiem-hay/cach-lam-siro-man-mau-tuyet-dep-giai-khat-mua-he-1268113\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(40, 138, 214);\">siro mận</a><span style=\"color: rgb(51, 51, 51);\">,&nbsp;</span><a href=\"https://www.bachhoaxanh.com/kinh-nghiem-hay/kem-man-sua-chua-mat-lanh-ngay-he-1090812\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(40, 138, 214);\">kem mận sữa chua</a><span style=\"color: rgb(51, 51, 51);\">,...</span></p>",
+    "category": {
+      "id": 67,
+      "name": "Mận",
+      "imageUrl": "https://imgur.com/YcOdBTH.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "mận"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/be94aa0a-73b0-4e41-aba5-44d5ccc443bf.jpeg",
+      "https://images.f99.com.vn/images/094f8338-d913-414d-bcff-d964d42f95b4.JPG",
+      "https://images.f99.com.vn/images/1284611a-ee95-47d9-af8f-25f096f1b9fe.jpeg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/86175",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 986,
+      "sellerRate": 3.9,
+      "sellerName": "Sài Gòn 360 Fruit – Chi Nhánh Hà Nội",
+      "warehouseId": "75790ae8-72b3-4209-92cf-9c6b54fd691d",
+      "warehouseAddress": "38 Xuân La, Phường Xuân La, Quận Tây Hồ, Hà Nội",
+      "distance": 5326,
+      "warehouseDistrict": "tay ho",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 90395,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "5KG Mận Đỏ An Phước",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong>Mận&nbsp;An Phước loại 1:&nbsp;</strong></p><p>Phải nói là quá Vip, quá ngon ạ</p><p>Chuẩn mận An Phước xuất khẩu, chắc nùi nụi, cực kỳ mọng nước, chấm muối ngon bá cháy.</p><p>Mận được trồng chuẩn VietGap, bao bọc nilon từ nhỏ, về chỉ cần rửa sơ là ăn thôi ạ 😍</p><p>Được tuyển chọn những quả to chắc</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/9eec6763-66d5-4531-8e0b-f01a38af8467.jpeg\",\"https://images.f99.com.vn/images/68cc4ed2-c982-43fb-abab-e314ab99b1ae.JPG\",\"https://images.f99.com.vn/images/6f05c378-3e9f-45c6-a621-6442a34a0c06.jpeg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "5KG Mận Đỏ An Phước",
+    "description": "<p><strong>Mận&nbsp;An Phước loại 1:&nbsp;</strong></p><p>Phải nói là quá Vip, quá ngon ạ</p><p>Chuẩn mận An Phước xuất khẩu, chắc nùi nụi, cực kỳ mọng nước, chấm muối ngon bá cháy.</p><p>Mận được trồng chuẩn VietGap, bao bọc nilon từ nhỏ, về chỉ cần rửa sơ là ăn thôi ạ 😍</p><p>Được tuyển chọn những quả to chắc</p>",
+    "imageUrl": "https://images.f99.com.vn/images/9eec6763-66d5-4531-8e0b-f01a38af8467.jpeg",
+    "price": 210000,
+    "oldPrice": 300000,
+    "discountPercent": 30,
+    "stock": 100,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 986,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản tủ mát</p>",
+    "category": {
+      "id": 67,
+      "name": "Mận",
+      "imageUrl": "https://imgur.com/YcOdBTH.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/9eec6763-66d5-4531-8e0b-f01a38af8467.jpeg",
+      "https://images.f99.com.vn/images/68cc4ed2-c982-43fb-abab-e314ab99b1ae.JPG",
+      "https://images.f99.com.vn/images/6f05c378-3e9f-45c6-a621-6442a34a0c06.jpeg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/90395",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 986,
+      "sellerRate": 3.9,
+      "sellerName": "Sài Gòn 360 Fruit – Chi Nhánh Hà Nội",
+      "warehouseId": "75790ae8-72b3-4209-92cf-9c6b54fd691d",
+      "warehouseAddress": "38 Xuân La, Phường Xuân La, Quận Tây Hồ, Hà Nội",
+      "distance": 5326,
+      "warehouseDistrict": "tay ho",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 95762,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "1kg mận hậu đầu mùa",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Mận hậu đầu mùa không đắng, không chát, ròn, ngon.........................................................</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/6fb02893-0203-48c2-be08-f22499e70bcd.jpg\",\"https://images.f99.com.vn/images/f5676c0e-914a-4b67-aadc-0c86a150fa69.jpg\",\"https://images.f99.com.vn/images/afea87ec-984e-40aa-9c1c-ab98c9832fc0.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "1kg mận hậu đầu mùa",
+    "description": "<p>Mận hậu đầu mùa không đắng, không chát, ròn, ngon.........................................................</p>",
+    "imageUrl": "https://images.f99.com.vn/images/6fb02893-0203-48c2-be08-f22499e70bcd.jpg",
+    "price": 189000,
+    "oldPrice": 230000,
+    "discountPercent": 18,
+    "stock": 100,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 359,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ngăn mát tủ lạnh</p>",
+    "category": {
+      "id": 67,
+      "name": "Mận",
+      "imageUrl": "https://imgur.com/YcOdBTH.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/6fb02893-0203-48c2-be08-f22499e70bcd.jpg",
+      "https://images.f99.com.vn/images/f5676c0e-914a-4b67-aadc-0c86a150fa69.jpg",
+      "https://images.f99.com.vn/images/afea87ec-984e-40aa-9c1c-ab98c9832fc0.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/95762",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 95763,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 189000,
+        "oldPrice": 230000,
+        "discountPercent": 18,
+        "stock": 100,
+        "totalSold": 1,
+        "unit": "Kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ngăn mát tủ lạnh</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 359,
+      "sellerRate": 4.4,
+      "sellerName": "Quang Anh- Hoa quả tươi theo mùa",
+      "warehouseId": "b29cda85-3ce5-4127-9c6b-1eb1a04399dc",
+      "warehouseAddress": " Hà Nội,  Hai Bà Trưng,  Vĩnh Tuy, NT9, Ngõ 124 Vĩnh Tuy",
+      "distance": 5482,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 70.9110772740987,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 97046,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Roi đỏ An Phước Vip",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h1 class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Roi An Phước&nbsp;(hay miền Nam còn gọi là mận) là giống roi đỏ mới&nbsp;được trồng thành công ở Việt Nam. Với hình dáng đỏ au, đẹp, bắt mắt ,&nbsp;ăn rất ngon, giòn, đặc ruột và thế mạnh&nbsp;được trồng theo phương pháp công nghệ cao nên đã trở thành phổ biến ở Nam Bộ và đang tiến dần ra Bắc , bước đầu đã nhận được sự ủng hộ nhiệt tình của khách hàng </strong></h1><p>&nbsp;</p><p class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><img src=\"http://media.bizwebmedia.net/sites/123330/data/Upload/2016/10/man_an_phuoc_chi_tiet_1473608983.jpg\" alt=\"Roi đỏ An Phước\"></span></p><p class=\"ql-align-center\"><br></p><p class=\"ql-align-center\">&nbsp;</p><h2><br></h2><p>&nbsp;</p><p><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><h2><br></h2><p class=\"ql-align-center\"><img src=\"http://bizweb.dktcdn.net/100/142/451/files/qua-roi-aa46894f-b630-4180-86ba-a11122d9e043.jpg?v=1478161073167\"></p><p class=\"ql-align-center\">&nbsp;</p><p class=\"ql-align-justify\"><br></p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/1a48bc3a-ce7e-4e58-8e2a-ff4ec395cdfe.jpg\",\"https://images.f99.com.vn/images/be16fc2b-544d-45bb-a0e0-16d9d3d9e369.jpg\",\"https://images.f99.com.vn/images/72d87681-b2eb-4b45-a9dc-7d09b7ce2ad3.jpg\",\"https://images.f99.com.vn/images/4b93fd69-98a7-4cd1-ac0b-a6d49f82c364.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Roi đỏ An Phước Vip",
+    "description": "<h1 class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Roi An Phước&nbsp;(hay miền Nam còn gọi là mận) là giống roi đỏ mới&nbsp;được trồng thành công ở Việt Nam. Với hình dáng đỏ au, đẹp, bắt mắt ,&nbsp;ăn rất ngon, giòn, đặc ruột và thế mạnh&nbsp;được trồng theo phương pháp công nghệ cao nên đã trở thành phổ biến ở Nam Bộ và đang tiến dần ra Bắc , bước đầu đã nhận được sự ủng hộ nhiệt tình của khách hàng </strong></h1><p>&nbsp;</p><p class=\"ql-align-center\"><span style=\"color: rgb(0, 0, 0);\"><img src=\"http://media.bizwebmedia.net/sites/123330/data/Upload/2016/10/man_an_phuoc_chi_tiet_1473608983.jpg\" alt=\"Roi đỏ An Phước\"></span></p><p class=\"ql-align-center\"><br></p><p class=\"ql-align-center\">&nbsp;</p><h2><br></h2><p>&nbsp;</p><p><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><h2><br></h2><p class=\"ql-align-center\"><img src=\"http://bizweb.dktcdn.net/100/142/451/files/qua-roi-aa46894f-b630-4180-86ba-a11122d9e043.jpg?v=1478161073167\"></p><p class=\"ql-align-center\">&nbsp;</p><p class=\"ql-align-justify\"><br></p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/1a48bc3a-ce7e-4e58-8e2a-ff4ec395cdfe.jpg",
+    "price": 59900,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 100,
+    "totalSold": 47,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "20007185",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 67,
+      "name": "Mận",
+      "imageUrl": "https://imgur.com/YcOdBTH.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/1a48bc3a-ce7e-4e58-8e2a-ff4ec395cdfe.jpg",
+      "https://images.f99.com.vn/images/be16fc2b-544d-45bb-a0e0-16d9d3d9e369.jpg",
+      "https://images.f99.com.vn/images/72d87681-b2eb-4b45-a9dc-7d09b7ce2ad3.jpg",
+      "https://images.f99.com.vn/images/4b93fd69-98a7-4cd1-ac0b-a6d49f82c364.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/97046",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 97047,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 59900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 47,
+        "unit": "Kg",
+        "sku": "20007185",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 97523,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mận Mộc Châu",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Chà chà.... MẬN HẬU đợt này ngon lắm - Khách yêu thưởng thức liền nha </span></p><p><br></p><p><span style=\"background-color: initial; color: transparent;\">💥</span><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\"> Thịt cứng giòn - Chua chua ngọt ngọt xen lẫn </span></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Lắc lắc muối thì dễ gì cưỡng lại được </span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/ca221756-e888-41e9-986a-fca56c8b73a5.jpg\",\"https://images.f99.com.vn/images/0acfeea4-6b47-4140-981d-2bc8d493d4a9.jpg\",\"https://images.f99.com.vn/images/634f0e59-1d4f-4e3a-9978-eccb5c25022e.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mận Mộc Châu",
+    "description": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Chà chà.... MẬN HẬU đợt này ngon lắm - Khách yêu thưởng thức liền nha </span></p><p><br></p><p><span style=\"background-color: initial; color: transparent;\">💥</span><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\"> Thịt cứng giòn - Chua chua ngọt ngọt xen lẫn </span></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Lắc lắc muối thì dễ gì cưỡng lại được </span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/ca221756-e888-41e9-986a-fca56c8b73a5.jpg",
+    "price": 140000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 1023,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 67,
+      "name": "Mận",
+      "imageUrl": "https://imgur.com/YcOdBTH.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/ca221756-e888-41e9-986a-fca56c8b73a5.jpg",
+      "https://images.f99.com.vn/images/0acfeea4-6b47-4140-981d-2bc8d493d4a9.jpg",
+      "https://images.f99.com.vn/images/634f0e59-1d4f-4e3a-9978-eccb5c25022e.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/97523",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "Loại 1",
+          "Loại 2"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 97524,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Loại 1",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Loại 1",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Loại 1",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 150000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 500,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Loại 1"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 97525,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Loại 2",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Loại 2",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Loại 2",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 140000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 500,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Loại 2"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1023,
+      "sellerRate": 4.5,
+      "sellerName": "Minh Lâm",
+      "warehouseId": "ebf381a5-e009-4cd4-8974-e1550c3ba968",
+      "warehouseAddress": "số 146 Nguyễn Đổng Chi, Phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội,  Cầu Diễn,  Nam Từ Liêm,  Hà Nội",
+      "distance": 7348,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 0,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": 348,
+  "name": "Hải Sản Viễn Đông",
+  "logo": "https://cdn.f99.link/groupbuy-images/07e9cd9f-c8f9-4ffb-8c68-09da20895bba.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Hải Sản Viễn Đông chuyên cung cấp các loại hải sản ngon, sạch, đảm bảo vệ sinh an toàn thực phẩm và được lựa chọn kỹ lưỡng từ nguồn nguyên liệu tươi sống vừa đánh bắt. Các sản phẩm luôn được Khách hàng tin dùng bởi chất lượng cao và giá cả hợp lý. \n\nVới kinh nghiệm và uy tín nhiều năm trong ngành chế biến hải sản, Hải Sản Viễn Đông vinh dự cung cấp sản phẩm tới hàng ngàn Khách hàng từ những hộ gia đình mua hàng thường xuyên cho tới các nhà hàng, và là đối tác phân phối thân thiết của các hệ thống siêu thị lớn trên cả nước.\n\nHải Sản Viễn Đông hướng đến việc xây dựng thương hiệu và phát triển bền vững chuỗi cung ứng hải sản được đánh bắt, lựa chọn nguyên liệu tươi ngon và sơ chế trực tiếp từ đại dương đến bữa ăn dinh dưỡng của Quý khách hàng.  ",
+  "headQuarter": "226 Thuỵ Khuê, Thụy Khuê, Tây Hồ, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

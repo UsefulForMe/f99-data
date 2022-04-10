@@ -1,0 +1,1048 @@
+[
+  {
+    "id": 58554,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "[Hải sản] Hàu Nhật Bản",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h2>Hàu Nhật Bản</h2><p>Hàu Nhật được nhiều nhà ẩm thực ví là loại hàu ngon hàng đầu thế giới. Từng con hàu béo ngậy do rất nhiều sữa, ngọt đậm và hơi mặn đã trở thành niềm cảm hứng ẩm thực của người Nhật. Như phong cách vốn có của người Nhật, hàu Nhật được chăm sóc tỉ mỉ, kỹ lưỡng từ khi nuôi trồng cho tới tận tay người tiêu dùng.</p><h3>Vị ngon đặc trưng của Hàu Nhật</h3><p>Hàu Nhật luôn dày thịt và có vị ngon đặc trưng mà không một vùng nguyên liệu nào có thể bắt chước được. Vị ngon của hàu được quyết định bởi tính chất của nước biển và những sinh vật phù du. Cùng là một giống nhưng hàu Nhật có vị rất ngọt, kèm với vị mặn cao hơn bình thường tạo nên hương vị hài hòa. Phải mất hơn 1 năm nuôi trồng theo phương pháp tự nhiên mới thu hoạch được hàu size lớn (7-11 con/kg) và luôn được thu hoạch vào mùa hàu có thịt dày nhất, vì vậy hàu luôn có được chất lượng cao nhất.</p><h3>Sự kỹ lưỡng của người Nhật</h3><p>Người Nhật vốn là dân tộc vô cùng kỹ tính. Sau khi thu hoạch, hàu được ngâm, rửa trực tiếp bằng nước biển tự nhiên. Ngay sau đó, hàu phải được cấp đông nhanh chóng bằng công nghệ Proton tiên tiến của Nhật. Quá trình cấp đông ở nhiệt độ -40 độ vào tâm sản phẩm chỉ mất chưa đến 10 phút giúp giữ trọn độ tươi và vị ngọt của hàu đến tận tay người tiêu dùng.</p><h3>Chỉ 10 phút để thưởng thức món hàu ngon nhất</h3><p>Chỉ cần 10 phút ngâm hàu trong nước, sau đó dùng dao nhẹ nhàng tách vỏ hàu rồi ngâm vào 1 tô nước đá để làm sạch vỏ hàu và giúp hàu săn chắc.</p><p>Hàu Nhật ngon nhất là ăn ngay kiểu sashimi cùng 1 lát chanh vắt lên để cảm nhận được hết vị ngọt, mặn, béo đặc trưng. Nếu bạn không phải là một tín đồ của đồ sống thì có thể chế biến thành hàu nướng, cháo hàu hoặc nấu súp cũng vô cùng ngon.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/9accb5b1-d9c0-479e-acf3-19726ee116f8.jpeg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Hàu\",\"Hàu Nhật\",\"Hải Sản Lạnh\",\"Hải Sản Tươi Sống\",\"Sashimi\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "[Hải sản] Hàu Nhật Bản",
+    "description": "<h2>Hàu Nhật Bản</h2><p>Hàu Nhật được nhiều nhà ẩm thực ví là loại hàu ngon hàng đầu thế giới. Từng con hàu béo ngậy do rất nhiều sữa, ngọt đậm và hơi mặn đã trở thành niềm cảm hứng ẩm thực của người Nhật. Như phong cách vốn có của người Nhật, hàu Nhật được chăm sóc tỉ mỉ, kỹ lưỡng từ khi nuôi trồng cho tới tận tay người tiêu dùng.</p><h3>Vị ngon đặc trưng của Hàu Nhật</h3><p>Hàu Nhật luôn dày thịt và có vị ngon đặc trưng mà không một vùng nguyên liệu nào có thể bắt chước được. Vị ngon của hàu được quyết định bởi tính chất của nước biển và những sinh vật phù du. Cùng là một giống nhưng hàu Nhật có vị rất ngọt, kèm với vị mặn cao hơn bình thường tạo nên hương vị hài hòa. Phải mất hơn 1 năm nuôi trồng theo phương pháp tự nhiên mới thu hoạch được hàu size lớn (7-11 con/kg) và luôn được thu hoạch vào mùa hàu có thịt dày nhất, vì vậy hàu luôn có được chất lượng cao nhất.</p><h3>Sự kỹ lưỡng của người Nhật</h3><p>Người Nhật vốn là dân tộc vô cùng kỹ tính. Sau khi thu hoạch, hàu được ngâm, rửa trực tiếp bằng nước biển tự nhiên. Ngay sau đó, hàu phải được cấp đông nhanh chóng bằng công nghệ Proton tiên tiến của Nhật. Quá trình cấp đông ở nhiệt độ -40 độ vào tâm sản phẩm chỉ mất chưa đến 10 phút giúp giữ trọn độ tươi và vị ngọt của hàu đến tận tay người tiêu dùng.</p><h3>Chỉ 10 phút để thưởng thức món hàu ngon nhất</h3><p>Chỉ cần 10 phút ngâm hàu trong nước, sau đó dùng dao nhẹ nhàng tách vỏ hàu rồi ngâm vào 1 tô nước đá để làm sạch vỏ hàu và giúp hàu săn chắc.</p><p>Hàu Nhật ngon nhất là ăn ngay kiểu sashimi cùng 1 lát chanh vắt lên để cảm nhận được hết vị ngọt, mặn, béo đặc trưng. Nếu bạn không phải là một tín đồ của đồ sống thì có thể chế biến thành hàu nướng, cháo hàu hoặc nấu súp cũng vô cùng ngon.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/9accb5b1-d9c0-479e-acf3-19726ee116f8.jpeg",
+    "price": 349000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 2000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg (chưa tách)",
+    "sku": "",
+    "origin": "",
+    "sellerId": 875,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><span style=\"color: rgb(30, 30, 30);\">Bảo quản ở ngăn đá -18 độ C</span></p>",
+    "category": {
+      "id": 146,
+      "name": "Hàu",
+      "imageUrl": "https://images.f99.com.vn/notification-images/e2705617-0b6a-4526-bea1-145d2b7c1376.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Hàu",
+      "Hàu Nhật",
+      "Hải Sản Lạnh",
+      "Hải Sản Tươi Sống",
+      "Sashimi"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/9accb5b1-d9c0-479e-acf3-19726ee116f8.jpeg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/58554",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1 con đã tách",
+          "1kg chưa tách"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 87108,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 con đã tách",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1 con đã tách",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 con đã tách",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 60000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 1000,
+        "totalSold": 0,
+        "unit": "kg (chưa tách)",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p><span style=\"color: rgb(30, 30, 30);\">Bảo quản ở ngăn đá -18 độ C</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1 con đã tách"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 88660,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg chưa tách",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg chưa tách",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg chưa tách",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 349000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 1000,
+        "totalSold": 0,
+        "unit": "kg (chưa tách)",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p><span style=\"color: rgb(30, 30, 30);\">Bảo quản ở ngăn đá -18 độ C</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg chưa tách"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 875,
+      "sellerRate": 4.3,
+      "sellerName": "Ben Food",
+      "warehouseId": "fa28f88c-b82e-4bf0-9a43-d865f449c9e5",
+      "warehouseAddress": " Hà Nội,  Cầu Giấy,  Yên Hòa, Số 8 Hạ Yên",
+      "distance": 3811,
+      "warehouseDistrict": "cau giay",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 60049,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hải sản lạnh - Hàu Nhật chuẩn sashimi ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Hàu Nhật được nhiều nhà ẩm thực ví là loại hàu ngon hàng đầu thế giới. Từng con hàu béo ngậy do rất nhiều sữa, ngọt đậm và hơi mặn đã trở thành niềm cảm hứng ẩm thực của người Nhật. Như phong cách vốn có của người Nhật, hàu Nhật được chăm sóc tỉ mỉ, kỹ lưỡng từ khi nuôi trồng cho tới tận tay người tiêu dùng.</p><h3><strong>Vị ngon đặc trưng của Hàu Nhật</strong></h3><p>Hàu Nhật luôn dày thịt và có vị ngon đặc trưng mà không một vùng nguyên liệu nào có thể bắt chước được. Vị ngon của hàu được quyết định bởi tính chất của nước biển và những sinh vật phù du. Cùng là một giống nhưng hàu Nhật có vị rất ngọt, kèm với vị mặn cao hơn bình thường tạo nên hương vị hài hòa. Phải mất hơn 1 năm nuôi trồng theo phương pháp tự nhiên mới thu hoạch được hàu size lớn (7-11 con/kg) và luôn được thu hoạch vào mùa hàu có thịt dày nhất, vì vậy hàu luôn có được chất lượng cao nhất.</p><h3><strong>Sự kỹ lưỡng của người Nhật</strong></h3><p>Người Nhật vốn là dân tộc vô cùng kỹ tính. Sau khi thu hoạch, hàu được ngâm, rửa trực tiếp bằng nước biển tự nhiên. Ngay sau đó, hàu phải được cấp đông nhanh chóng bằng công nghệ Proton tiên tiến của Nhật. Quá trình cấp đông ở nhiệt độ -40 độ vào tâm sản phẩm chỉ mất chưa đến 10 phút giúp giữ trọn độ tươi và vị ngọt của hàu đến tận tay người tiêu dùng.</p><h3><strong>Chỉ 10 phút để thưởng thức món hàu ngon nhất</strong></h3><p>Chỉ cần 10 phút ngâm hàu trong nước, sau đó dùng dao nhẹ nhàng tách vỏ hàu rồi ngâm vào 1 tô nước đá để làm sạch vỏ hàu và giúp hàu săn chắc.</p><p>Hàu Nhật ngon nhất là ăn ngay kiểu sashimi cùng 1 lát chanh vắt lên để cảm nhận được hết vị ngọt, mặn, béo đặc trưng. Nếu bạn không phải là một tín đồ của đồ sống thì có thể chế biến thành hàu nướng, cháo hàu hoặc nấu súp cũng vô cùng ngon.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/d3e96266-f406-4f95-9b1e-a21e09da3c7e.jpg\",\"https://images.f99.com.vn/images/416c8eae-6bfa-4836-b342-2a7c581425c8.jpg\",\"https://images.f99.com.vn/images/851bc391-c04c-4fe2-8b90-573cc2772bf3.JPG\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hải sản lạnh - Hàu Nhật chuẩn sashimi ",
+    "description": "<p>Hàu Nhật được nhiều nhà ẩm thực ví là loại hàu ngon hàng đầu thế giới. Từng con hàu béo ngậy do rất nhiều sữa, ngọt đậm và hơi mặn đã trở thành niềm cảm hứng ẩm thực của người Nhật. Như phong cách vốn có của người Nhật, hàu Nhật được chăm sóc tỉ mỉ, kỹ lưỡng từ khi nuôi trồng cho tới tận tay người tiêu dùng.</p><h3><strong>Vị ngon đặc trưng của Hàu Nhật</strong></h3><p>Hàu Nhật luôn dày thịt và có vị ngon đặc trưng mà không một vùng nguyên liệu nào có thể bắt chước được. Vị ngon của hàu được quyết định bởi tính chất của nước biển và những sinh vật phù du. Cùng là một giống nhưng hàu Nhật có vị rất ngọt, kèm với vị mặn cao hơn bình thường tạo nên hương vị hài hòa. Phải mất hơn 1 năm nuôi trồng theo phương pháp tự nhiên mới thu hoạch được hàu size lớn (7-11 con/kg) và luôn được thu hoạch vào mùa hàu có thịt dày nhất, vì vậy hàu luôn có được chất lượng cao nhất.</p><h3><strong>Sự kỹ lưỡng của người Nhật</strong></h3><p>Người Nhật vốn là dân tộc vô cùng kỹ tính. Sau khi thu hoạch, hàu được ngâm, rửa trực tiếp bằng nước biển tự nhiên. Ngay sau đó, hàu phải được cấp đông nhanh chóng bằng công nghệ Proton tiên tiến của Nhật. Quá trình cấp đông ở nhiệt độ -40 độ vào tâm sản phẩm chỉ mất chưa đến 10 phút giúp giữ trọn độ tươi và vị ngọt của hàu đến tận tay người tiêu dùng.</p><h3><strong>Chỉ 10 phút để thưởng thức món hàu ngon nhất</strong></h3><p>Chỉ cần 10 phút ngâm hàu trong nước, sau đó dùng dao nhẹ nhàng tách vỏ hàu rồi ngâm vào 1 tô nước đá để làm sạch vỏ hàu và giúp hàu săn chắc.</p><p>Hàu Nhật ngon nhất là ăn ngay kiểu sashimi cùng 1 lát chanh vắt lên để cảm nhận được hết vị ngọt, mặn, béo đặc trưng. Nếu bạn không phải là một tín đồ của đồ sống thì có thể chế biến thành hàu nướng, cháo hàu hoặc nấu súp cũng vô cùng ngon.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/d3e96266-f406-4f95-9b1e-a21e09da3c7e.jpg",
+    "price": 336000,
+    "oldPrice": 420000,
+    "discountPercent": 20,
+    "stock": 10000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Hộp",
+    "sku": "haunhat",
+    "origin": "",
+    "sellerId": 875,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><span style=\"color: rgb(30, 30, 30);\">Bảo quản ở ngăn đá -18 độ C</span></p><p><span style=\"color: rgb(30, 30, 30);\">Rã đông sử dụng cùng chanh vàng và tabasco để cảm nhận trọn vẹn vị ngon của hàu</span></p>",
+    "category": {
+      "id": 146,
+      "name": "Hàu",
+      "imageUrl": "https://images.f99.com.vn/notification-images/e2705617-0b6a-4526-bea1-145d2b7c1376.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/d3e96266-f406-4f95-9b1e-a21e09da3c7e.jpg",
+      "https://images.f99.com.vn/images/416c8eae-6bfa-4836-b342-2a7c581425c8.jpg",
+      "https://images.f99.com.vn/images/851bc391-c04c-4fe2-8b90-573cc2772bf3.JPG"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/60049",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Hộp"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 60050,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Hộp",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Hộp",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Hộp",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 336000,
+        "oldPrice": 420000,
+        "discountPercent": 20,
+        "stock": 10000,
+        "totalSold": 0,
+        "unit": "Hộp",
+        "sku": "haunhat",
+        "rating": 0,
+        "instructions": "<p><span style=\"color: rgb(30, 30, 30);\">Bảo quản ở ngăn đá -18 độ C</span></p><p><span style=\"color: rgb(30, 30, 30);\">Rã đông sử dụng cùng chanh vàng và tabasco để cảm nhận trọn vẹn vị ngon của hàu</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Hộp"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 875,
+      "sellerRate": 4.3,
+      "sellerName": "Ben Food",
+      "warehouseId": "fa28f88c-b82e-4bf0-9a43-d865f449c9e5",
+      "warehouseAddress": " Hà Nội,  Cầu Giấy,  Yên Hòa, Số 8 Hạ Yên",
+      "distance": 3811,
+      "warehouseDistrict": "cau giay",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 87588,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hàu sữa Vân Đồn",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Hàu là một món ăn giàu chất dinh dưỡng, nhiều kẽm rất tốt cho nam giới trong sinh hoạt phòng the...được chế biến nhiều món như hấp, nướng, gỏi</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/922e3598-7d95-4515-b770-58627fcc2b9e.jpg\",\"https://images.f99.com.vn/images/b6f91f92-5f12-49f4-99ce-d85f6617fbcf.jpg\",\"https://images.f99.com.vn/images/06cd6be1-83ae-4f52-a9e7-b745f6501629.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hàu sữa Vân Đồn",
+    "description": "<p>Hàu là một món ăn giàu chất dinh dưỡng, nhiều kẽm rất tốt cho nam giới trong sinh hoạt phòng the...được chế biến nhiều món như hấp, nướng, gỏi</p>",
+    "imageUrl": "https://images.f99.com.vn/images/922e3598-7d95-4515-b770-58627fcc2b9e.jpg",
+    "price": 50000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 50,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 685,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 146,
+      "name": "Hàu",
+      "imageUrl": "https://images.f99.com.vn/notification-images/e2705617-0b6a-4526-bea1-145d2b7c1376.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/922e3598-7d95-4515-b770-58627fcc2b9e.jpg",
+      "https://images.f99.com.vn/images/b6f91f92-5f12-49f4-99ce-d85f6617fbcf.jpg",
+      "https://images.f99.com.vn/images/06cd6be1-83ae-4f52-a9e7-b745f6501629.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/87588",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 87589,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 50000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 50,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 685,
+      "sellerRate": 4.2,
+      "sellerName": "Huyền Xù Hải Sản Trà Cổ - Quảng Ninh",
+      "warehouseId": "765af680-839f-4d79-a1a8-8a387a4a66ae",
+      "warehouseAddress": " Hà Nội,  Thanh Xuân,  Thượng Đình, 54 Khương Đình",
+      "distance": 3949,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 90192,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hàu nướng mỡ hành ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Hàu nướng mỡ hành rất thơm ngon và bổ dưỡng. Được bọc trong giấy bạc nên đảm bảo độ nóng và thơm khi đến tay người thưởng thức.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/c9205b0d-b38d-41ea-bdd3-3fe4ca1c964c.jpg\",\"https://images.f99.com.vn/images/49f386bb-3864-4fb5-a8c7-7bc6806c4bde.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hàu nướng mỡ hành ",
+    "description": "<p>Hàu nướng mỡ hành rất thơm ngon và bổ dưỡng. Được bọc trong giấy bạc nên đảm bảo độ nóng và thơm khi đến tay người thưởng thức.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/c9205b0d-b38d-41ea-bdd3-3fe4ca1c964c.jpg",
+    "price": 10000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "con",
+    "sku": "",
+    "origin": "",
+    "sellerId": 685,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 146,
+      "name": "Hàu",
+      "imageUrl": "https://images.f99.com.vn/notification-images/e2705617-0b6a-4526-bea1-145d2b7c1376.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/c9205b0d-b38d-41ea-bdd3-3fe4ca1c964c.jpg",
+      "https://images.f99.com.vn/images/49f386bb-3864-4fb5-a8c7-7bc6806c4bde.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/90192",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "con"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 90193,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 con",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "con",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 con",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 10000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 200,
+        "totalSold": 0,
+        "unit": "con",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "con"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 685,
+      "sellerRate": 4.2,
+      "sellerName": "Huyền Xù Hải Sản Trà Cổ - Quảng Ninh",
+      "warehouseId": "765af680-839f-4d79-a1a8-8a387a4a66ae",
+      "warehouseAddress": " Hà Nội,  Thanh Xuân,  Thượng Đình, 54 Khương Đình",
+      "distance": 3949,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 95289,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Khay hàu nướng phomai 6 con to",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>H.À.U NƯỚNG PHOMAI SIÊU NGON.</p><p>Đảm bảo các bé và các bố sẽ rất mê mà mẹ nhàn tênh, vì chỉ cần rã đông rồi làm nóng bằng vi sóng hoặc lò nướng, nckd vài phút thôi.</p><p>Năm ngoái trang trại đã thử nghiệm món này theo sự dẫn dắt của chuyên gia Nhật, qua thời gian cải tiến theo hương vị của người Việt, hoàn toàn không dùng muối mà chỉ đơn thuần độ ngọt mặn tự nhiên của hàu kết hợp phomai&nbsp;</p><p>🌿SP đóng khay 6 con, con nào con nấy béo múp míp, phomai ngon nên thơm lừng luôn.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/70ac95cc-6a1f-4a5f-a888-5260b18f1e33.jpg\",\"https://images.f99.com.vn/images/377b1250-9092-44e5-ae88-6893062ab0d4.jpg\",\"https://images.f99.com.vn/images/4652488a-4673-41a2-a7d0-1fcf8c3f0ff0.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"#hau\",\"#hayphomai\",\"#haunuong\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Khay hàu nướng phomai 6 con to",
+    "description": "<p>H.À.U NƯỚNG PHOMAI SIÊU NGON.</p><p>Đảm bảo các bé và các bố sẽ rất mê mà mẹ nhàn tênh, vì chỉ cần rã đông rồi làm nóng bằng vi sóng hoặc lò nướng, nckd vài phút thôi.</p><p>Năm ngoái trang trại đã thử nghiệm món này theo sự dẫn dắt của chuyên gia Nhật, qua thời gian cải tiến theo hương vị của người Việt, hoàn toàn không dùng muối mà chỉ đơn thuần độ ngọt mặn tự nhiên của hàu kết hợp phomai&nbsp;</p><p>🌿SP đóng khay 6 con, con nào con nấy béo múp míp, phomai ngon nên thơm lừng luôn.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/70ac95cc-6a1f-4a5f-a888-5260b18f1e33.jpg",
+    "price": 80000,
+    "oldPrice": 100000,
+    "discountPercent": 20,
+    "stock": 2,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Khay 6 con",
+    "sku": "",
+    "origin": "",
+    "sellerId": 704,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ngăn đá</p>",
+    "category": {
+      "id": 146,
+      "name": "Hàu",
+      "imageUrl": "https://images.f99.com.vn/notification-images/e2705617-0b6a-4526-bea1-145d2b7c1376.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "#hau",
+      "#hayphomai",
+      "#haunuong"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/70ac95cc-6a1f-4a5f-a888-5260b18f1e33.jpg",
+      "https://images.f99.com.vn/images/377b1250-9092-44e5-ae88-6893062ab0d4.jpg",
+      "https://images.f99.com.vn/images/4652488a-4673-41a2-a7d0-1fcf8c3f0ff0.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/95289",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Khay 6 con"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 95290,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Khay 6 con",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Khay 6 con",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Khay 6 con",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 80000,
+        "oldPrice": 100000,
+        "discountPercent": 20,
+        "stock": 2,
+        "totalSold": 0,
+        "unit": "Khay 6 con",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ngăn đá</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Khay 6 con"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 704,
+      "sellerRate": 4.2,
+      "sellerName": "Cún Giỏ Minimart",
+      "warehouseId": "eaae98fe-1d93-4a7e-8058-bc29b30ce583",
+      "warehouseAddress": " Hà Nội,  Ba Đình,  Liễu Giai, 228 Đội Cấn",
+      "distance": 1841,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": 974,
+  "name": "Mr.Pan- Nguyên Liệu món Hàn& Đồ Ăn Nhanh",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/c9604f06-9221-42c8-bb95-cf4998bccca7.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp các loại đồ ăn vặt nhà làm, rõ nguồn gốc xuất xứ, đảm bảo vệ sinh an toàn thực phẩm. Các loại nguyên liệu làm món ăn Hàn Quốc nhập khẩu…",
+  "headQuarter": "75 Dương Khuê, phường Mai Dịch, quận Cầu Giấy, Hà Nội, Mai Dịch, Cầu Giấy, Hà Nội",
+  "email": "Ngohuyen.2604@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

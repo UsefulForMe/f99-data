@@ -1,0 +1,35 @@
+{
+  "id": 650,
+  "name": "KOIFOOD - MINIMART Thực phẩm nhập khẩu",
+  "logo": "https://cdn.f99.link/groupbuy-images/f20c14bf-a1d0-4936-bf69-2f29c1d59445.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Koifood minimart thuộc quản lý và điều hành bởi hệ thông nhà hàng Koifood.\nKoifood chuyên các mặt hàng thực phẩm nhập khẩu,đặc sản vùng miền đảm bảo chất lượng - vệ sinh an toàn thực phẩm.\nChúng tôi cam kết mang lại các sản phẩm chất lượng và giá cả tốt nhất đến tay khách hàng.\nKoifood minimart - bán hàng từ tâm.",
+  "headQuarter": "B7 Ngõ 57 Láng Hạ và 66 Trần Cung",
+  "email": "",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.6,
+  "availableTime": {
+    "openTime": "09:30",
+    "closeTime": "20:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 10
+}

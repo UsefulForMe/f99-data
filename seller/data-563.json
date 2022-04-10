@@ -1,0 +1,35 @@
+{
+  "id": 563,
+  "name": "Tạp Hoá Trái Cây , Rau Củ Đồ Đông Lạnh 81",
+  "logo": "https://cdn.f99.link/groupbuy-images/ca3925ef-7582-443c-9417-207c0c80ba93.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp Trái Cây , Rau Củ Đồ Đông Lạnh",
+  "headQuarter": "270 Nguyễn Thái Học, Cầu Ông Lãnh, Quận 1, Hồ Chí Minh",
+  "email": "miyuritran@gmai.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

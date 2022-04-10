@@ -1,0 +1,35 @@
+{
+  "id": 629,
+  "name": "Bách Hóa 1992",
+  "logo": "https://cdn.f99.link/groupbuy-images/ee813b2e-c717-4c8b-9315-aea30e153264.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp thực phẩm quê tươi, ngon, bổ, rẻ.",
+  "headQuarter": "Tập thể T59A cạnh cao tốc Pháp Vâ, Hoàng Liệt, Hoàng Mai, Hà Nội",
+  "email": "winter1368@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

@@ -1,0 +1,35 @@
+{
+  "id": 640,
+  "name": "SƯƠNG SÂM TÂM VIỆT",
+  "logo": "https://cdn.f99.link/groupbuy-images/4ea5457c-0b2a-495d-af79-85ca8851e9fc.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Bán các mặt hàng Sương Sâm - Sương Sáo theo quy trình sản xuất hiện đại, chất lượng. \nĐang kinh doanh 1 số mặt hàng rau - củ - quả từ xứ sở Đà Lạt.\nKinh doanh các mặt hàng trái cây theo mùa: chuối sứ - chuối cau - chuối sáp - dừa - bưởi - ổi…. Đến từ vùng đất miền tây Bến Tre.",
+  "headQuarter": "316 Bến Bình Đông, 15, Quận 8, Hồ Chí Minh",
+  "email": "Khoapham127604@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "07:00",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

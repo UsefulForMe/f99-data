@@ -1,0 +1,35 @@
+{
+  "id": 125,
+  "name": "Kang Fruits",
+  "logo": "https://images.f99.com.vn/groupbuy-images/3a54c4e4-4d61-4b38-8872-09ed67dcef58.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cửa hàng cung cấp & bán buôn hoa quả nội địa - nhập khẩu\n* NGUỒN GỐC rõ ràng - CHẤT LƯỢNG tốt nhất\n* GIÁ CẢ luôn HẤP DẪN nhất thị trường\n* Chăm sóc khách hàng bằng DỊCH VỤ tận tình nhất",
+  "headQuarter": "14 ngõ 120 Yên Lãng, Thịnh Quang, Đống Đa, Hà Nội",
+  "email": "phugia.tracom@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.8,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "19:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 133
+}

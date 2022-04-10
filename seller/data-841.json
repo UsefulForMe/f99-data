@@ -1,0 +1,35 @@
+{
+  "id": 841,
+  "name": "Hùng Phụng Fruits",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/798e2c44-73d6-42f6-b4d2-17edd72c10dc.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp hoa quả sạch",
+  "headQuarter": "Chung Cư Sài Gòn Averneu Đường 11 Tổ 7 Khu Phố 4 , Tam Bình, Thủ Đức, Hồ Chí Minh",
+  "email": "hungnt.fng@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

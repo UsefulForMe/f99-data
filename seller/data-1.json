@@ -1,0 +1,35 @@
+{
+  "id": 1,
+  "name": "F99 Trading",
+  "logo": "https://cdn.f99.link/groupbuy-images/588a2e8f-3394-448d-9d6e-1da5d699aee8.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Farmer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "F99 Trading là dịch vụ cung cấp trái cây, thực phẩm khi mua sắm tại Ứng dụng F99. Mang tới những trải nghiệm về sản phẩm tươi ngon, chất lượng nguồn gốc đảm bảo và dinh dưỡng cho cả gia đình.\n\n- Cơ Sở 1: Số 168 Thái Hà, P. Trung Liệt, Quận Đống Đa, Hà Nội\n- Cơ Sở 2: Số 180 Phạm Văn Đồng, Quận Cầu giấy, Hà Nội\n- Cơ Sở 3: Số 25 Kim Ngưu, Quận Hai Bà Trưng, Hà Nội\n- Cơ Sở 4: Số 45 Hàng Đậu, Quận Hoàn Kiếm, Hà Nội\n- Cơ Sở 5: Số 292 Lạc Long Quân, Quận Tây Hồ, Hà Nội\n- Cơ Sở 6: Số 158 Phú Diễn, Nam Từ Liêm, Hà Nội\n\n* Số giấy chứng nhận VSATTP: 236/2020/NNPTNT-HAN",
+  "headQuarter": "Tòa CT2, Ban cơ yếu Chính Phủ, Đường Lê Văn Lương, Quận Thanh Xuân, TP. Hà Nội",
+  "email": "",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.8,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 22399
+}

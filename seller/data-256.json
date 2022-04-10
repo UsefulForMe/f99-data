@@ -1,0 +1,35 @@
+{
+  "id": 256,
+  "name": "Minh Châu Fruit",
+  "logo": "https://cdn.f99.link/groupbuy-images/5c3e57bf-cff6-413f-837d-6c79f85ac03d.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Minh Châu fruit chuyên cung cấp các loại trái cây nhập khẩu, nguồn gốc xuất xứ rõ ràng, chất lượng đạt chuẩn, dịch vụ đưa hàng tận nơi, thanh toán ưu việt, bán buôn – bán lẻ theo đơn đặt hàng và theo yêu cầu cụ thể của khách hàng",
+  "headQuarter": "141 Nguyễn An Ninh, Tương Mai, Hoàng Mai, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

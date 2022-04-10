@@ -1,0 +1,2510 @@
+[
+  {
+    "id": 21490,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bắp  hoa ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Bắp bò hoa nguyên cái là phần thịt gần 4 chân của con trâu.</p><p>Phần thịt này chắc có màu đỏ tươi, ngọt thơm, không có mỡ, tạo cảm giác giòn dai béo ngậy,</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/0fe5f457-ba44-4969-b6c9-8e1de6e165c7.jpg\",\"https://images.f99.com.vn/images/e77ab7a1-28d7-43c5-9000-7da132560738.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bắp  hoa ",
+    "description": "<p>Bắp bò hoa nguyên cái là phần thịt gần 4 chân của con trâu.</p><p>Phần thịt này chắc có màu đỏ tươi, ngọt thơm, không có mỡ, tạo cảm giác giòn dai béo ngậy,</p>",
+    "imageUrl": "https://images.f99.com.vn/images/0fe5f457-ba44-4969-b6c9-8e1de6e165c7.jpg",
+    "price": 220000,
+    "oldPrice": 280000,
+    "discountPercent": 21,
+    "stock": 1000,
+    "totalSold": 7,
+    "maxQuantityPerUser": null,
+    "unit": "1 cái/gói/ khoảng 1-1,3kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 335,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ở nhiệt độ -18 độ C</p><p>Quy cách đóng gói: 1 cái/ gói</p><p>Date: 6 tháng</p><p>Chế biến:</p><ul><li>lẩu bắp sườn sụn</li><li>bắp  hầm đậu ngự</li><li>bắp tươi tái chanh</li><li>bắp nướng ngói</li></ul>",
+    "category": {
+      "id": 130,
+      "name": "Thịt trâu",
+      "imageUrl": "https://images.f99.com.vn/notification-images/271e20b8-3520-4eab-a5ee-b1f4c18ab90a.png",
+      "parentId": 127,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/0fe5f457-ba44-4969-b6c9-8e1de6e165c7.jpg",
+      "https://images.f99.com.vn/images/e77ab7a1-28d7-43c5-9000-7da132560738.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/21490",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 335,
+      "sellerRate": 4.6,
+      "sellerName": "Công ty TNHH Thực Phẩm Khánh Hà",
+      "warehouseId": "2fc1e903-e117-4ec1-8cd4-d0a492f87fb7",
+      "warehouseAddress": "  Lô B24 Khu Đấu Giá 3Ha,Phúc Diễn,Bắc Từ Liêm, Hà Nội",
+      "distance": 8559,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 69.42853917808279,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 24647,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "DẺ SƯỜN TRÂU ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong><em>DẺ SƯỜN TRÂU</em></strong></p><p><strong>Xuất xứ:</strong> ẤN ĐỘ</p><p><strong>Thương hiệu</strong>: <strong>Amber - </strong>hàng nhập khẩu chính ngạch, rõ ràng xuất xứ.</p><p>Thịt dẻ sườn&nbsp;<strong><em>trâu Ấn Độ</em></strong>&nbsp;là phần thịt được lọc ra từ thịt sườn bụng của trâu Ấn, sát với xương sườn. Phần thịt này thường có đặc điểm là thịt nạc xen lẫn những màng thịt, thường ít mỡ, thịt có đặc điểm là khá giòn, ngọt.</p><p>Thịt dẻ sườn&nbsp;<strong><em>trâu Ấn Độ</em></strong>&nbsp;được nhập khẩu về Việt Nam sau khi đã được đóng gói và cấp đông nhanh với nhiệt độ -40 độ C. Chính vì vậy, chất lượng thịt vẫn giữ nguyên được hương vị tươi ngon độc đáo không hề thua kém thịt trâu ta. Đặc biệt giá thịt dẻ sườn trâu Ấn luôn phải chăng và phù hợp với túi tiền người tiêu dùng hơn so với thịt trâu bò trong nước.</p><p><strong>Chế biến</strong>: Phù hợp nấu các món hầm, sốt vang, kho,...</p><p><strong>Quy cách</strong>: Đóng khay 1Kg tiện lợi, hút chân không bảo quản.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/e07aab35-8e13-4ce8-be6d-e0045343fb21.jpg\",\"https://images.f99.com.vn/images/c69e3d48-02a2-4aa6-bbe1-3e860700c978.jpg\",\"https://images.f99.com.vn/images/2bf1af14-26ea-470a-a10b-84c474034258.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "DẺ SƯỜN TRÂU ",
+    "description": "<p><strong><em>DẺ SƯỜN TRÂU</em></strong></p><p><strong>Xuất xứ:</strong> ẤN ĐỘ</p><p><strong>Thương hiệu</strong>: <strong>Amber - </strong>hàng nhập khẩu chính ngạch, rõ ràng xuất xứ.</p><p>Thịt dẻ sườn&nbsp;<strong><em>trâu Ấn Độ</em></strong>&nbsp;là phần thịt được lọc ra từ thịt sườn bụng của trâu Ấn, sát với xương sườn. Phần thịt này thường có đặc điểm là thịt nạc xen lẫn những màng thịt, thường ít mỡ, thịt có đặc điểm là khá giòn, ngọt.</p><p>Thịt dẻ sườn&nbsp;<strong><em>trâu Ấn Độ</em></strong>&nbsp;được nhập khẩu về Việt Nam sau khi đã được đóng gói và cấp đông nhanh với nhiệt độ -40 độ C. Chính vì vậy, chất lượng thịt vẫn giữ nguyên được hương vị tươi ngon độc đáo không hề thua kém thịt trâu ta. Đặc biệt giá thịt dẻ sườn trâu Ấn luôn phải chăng và phù hợp với túi tiền người tiêu dùng hơn so với thịt trâu bò trong nước.</p><p><strong>Chế biến</strong>: Phù hợp nấu các món hầm, sốt vang, kho,...</p><p><strong>Quy cách</strong>: Đóng khay 1Kg tiện lợi, hút chân không bảo quản.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/e07aab35-8e13-4ce8-be6d-e0045343fb21.jpg",
+    "price": 129000,
+    "oldPrice": 140000,
+    "discountPercent": 8,
+    "stock": 300,
+    "totalSold": 184,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 299,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p>-18 độ C</p>",
+    "category": {
+      "id": 130,
+      "name": "Thịt trâu",
+      "imageUrl": "https://images.f99.com.vn/notification-images/271e20b8-3520-4eab-a5ee-b1f4c18ab90a.png",
+      "parentId": 127,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/e07aab35-8e13-4ce8-be6d-e0045343fb21.jpg",
+      "https://images.f99.com.vn/images/c69e3d48-02a2-4aa6-bbe1-3e860700c978.jpg",
+      "https://images.f99.com.vn/images/2bf1af14-26ea-470a-a10b-84c474034258.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/24647",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 72180,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 129000,
+        "oldPrice": 140000,
+        "discountPercent": 8,
+        "stock": 300,
+        "totalSold": 184,
+        "unit": "Kg",
+        "sku": "",
+        "rating": 5,
+        "instructions": "<p>-18 độ C</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 299,
+      "sellerRate": 4.7,
+      "sellerName": "SƠN LÂM FOODS",
+      "warehouseId": "018cf969-d623-4c7a-9200-a8d24c77cbc5",
+      "warehouseAddress": " Hà Nội,  Thanh Trì, Thanh Liệt, 924B Kim Giang",
+      "distance": 8253,
+      "warehouseDistrict": "thanh tri",
+      "reputation": 82.55442359065626,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 24837,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/ec774d37-1f1f-4e82-863c-017968313a0e.jpg\",\"https://images.f99.com.vn/images/029d4bc3-12f8-43e5-86d3-fadc71fd7c1a.jpg\",\"https://images.f99.com.vn/images/821e8337-adb8-4089-892c-d232c3921412.jpg\",\"https://images.f99.com.vn/images/9b42a1c0-83d9-4f2c-b8b6-34d46fff338c.jpg\",\"https://images.f99.com.vn/images/0c978d5a-b0bf-4a3f-8fc2-aebca9059d5b.jpg\",\"https://images.f99.com.vn/images/52ad5d6e-8161-47bb-898a-3985f2a3bafb.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: black;\">Roche Mart là cơ sở cung cấp </span><span style=\"color: rgb(0, 0, 0);\">Thịt Trâu gác bếp đáng </span><span style=\"color: black;\">tin cậy của hàng trăm nhà hàng trên địa bàn Hà Nội, hàng ngàn khách hàng đã tin mua sử dụng. CHẤT LƯỢNG là uy tín hàng đầu mà </span><span style=\"color: black; background-color: rgb(255, 255, 102);\">chú</span><span style=\"color: rgba(0, 0, 0, 0.8);\">ng tôi hướng tới.</span></p><p><span style=\"color: black;\">&nbsp;✅ Bảo quản: Thịt Trâu gác bếp được đóng gói hút chân không trong túi, phù hợp vệ sinh an toàn thực phẩm và bảo quản tốt hơn. Tùy nhu cầu cầu của khách hàng có thể ăn ngay hoặc bảo quản vào ngăn mát tủ lạnh. </span></p><p><span style=\"color: black;\">✅ Hướng dẫn sử dụng: Khách hàng có thể làm theo 2 cách sau: </span></p><p><span style=\"color: black;\">- Cách 1: Cho miếng thịt vào lò vi song, để nhiệt khoảng 180 độ, từ 2-3 phút. Miếng thịt nóng vừa đủ mềm mà không khô mất đi vị ngọt. Lấy miếng thịt ra đập dập xé nhỏ dọc theo thớ thịt và thưởng thức </span></p><p><span style=\"color: black;\">- Cách 2: Cho miếng thịt vào nồi và hấp cách thủy từ 3-5 phút cho thịt nóng mềm. Lấy miếng thịt ra đập dập xé nhỏ dọc theo thớ thịt và thưởng thức. Khi ăn khách hàng chấm với gia vị chẩm chéo hoặc tương ớt.</span></p><p><span style=\"color: black;\">✅ Đóng gói: 500gr 1 túi hút chân không có tem mác đẹp phù hợp làm quà biếu tặng. </span></p><p><span style=\"color: black;\">✅ Hạn sử dụng: - Bảo quản khay mát: 4 tháng kể từ ngày sản xuất </span></p><p><span style=\"color: black;\">✅ Nhận sỉ giá tốt cho các quán nhậu, nhà hàng, …. </span></p><p><span style=\"color: black;\">✅ LƯU Ý: HIỆN TẠI TRÊN THỊ TRƯỜNG RẤT NHIỀU HÀNG GIẢ MẠO NGUYÊN LIỆU THỊT TRÂU CÓ GIÁ RẤT RẺ. </span><strong style=\"color: black;\">ROCHE MART CAM KÊT NGUYÊN LIỆU TỪ THỊT TRÂU TƯƠI</strong></p><p><br></p><p><span style=\"color: black;\">Cảm ơn Quý khách đã tin tưởng mua hàng.</span></p><p><br></p><p><strong style=\"background-color: rgb(255, 255, 102); color: black;\">Chú</strong><strong style=\"color: rgba(0, 0, 0, 0.8);\">c quý khách ngon miệng! </strong></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "[TẶNG CHẨM CHÉO] THỊT TRÂU GÁC BẾP",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "[TẶNG CHẨM CHÉO] THỊT TRÂU GÁC BẾP",
+    "description": "<p><span style=\"color: black;\">Roche Mart là cơ sở cung cấp </span><span style=\"color: rgb(0, 0, 0);\">Thịt Trâu gác bếp đáng </span><span style=\"color: black;\">tin cậy của hàng trăm nhà hàng trên địa bàn Hà Nội, hàng ngàn khách hàng đã tin mua sử dụng. CHẤT LƯỢNG là uy tín hàng đầu mà </span><span style=\"color: black; background-color: rgb(255, 255, 102);\">chú</span><span style=\"color: rgba(0, 0, 0, 0.8);\">ng tôi hướng tới.</span></p><p><span style=\"color: black;\">&nbsp;✅ Bảo quản: Thịt Trâu gác bếp được đóng gói hút chân không trong túi, phù hợp vệ sinh an toàn thực phẩm và bảo quản tốt hơn. Tùy nhu cầu cầu của khách hàng có thể ăn ngay hoặc bảo quản vào ngăn mát tủ lạnh. </span></p><p><span style=\"color: black;\">✅ Hướng dẫn sử dụng: Khách hàng có thể làm theo 2 cách sau: </span></p><p><span style=\"color: black;\">- Cách 1: Cho miếng thịt vào lò vi song, để nhiệt khoảng 180 độ, từ 2-3 phút. Miếng thịt nóng vừa đủ mềm mà không khô mất đi vị ngọt. Lấy miếng thịt ra đập dập xé nhỏ dọc theo thớ thịt và thưởng thức </span></p><p><span style=\"color: black;\">- Cách 2: Cho miếng thịt vào nồi và hấp cách thủy từ 3-5 phút cho thịt nóng mềm. Lấy miếng thịt ra đập dập xé nhỏ dọc theo thớ thịt và thưởng thức. Khi ăn khách hàng chấm với gia vị chẩm chéo hoặc tương ớt.</span></p><p><span style=\"color: black;\">✅ Đóng gói: 500gr 1 túi hút chân không có tem mác đẹp phù hợp làm quà biếu tặng. </span></p><p><span style=\"color: black;\">✅ Hạn sử dụng: - Bảo quản khay mát: 4 tháng kể từ ngày sản xuất </span></p><p><span style=\"color: black;\">✅ Nhận sỉ giá tốt cho các quán nhậu, nhà hàng, …. </span></p><p><span style=\"color: black;\">✅ LƯU Ý: HIỆN TẠI TRÊN THỊ TRƯỜNG RẤT NHIỀU HÀNG GIẢ MẠO NGUYÊN LIỆU THỊT TRÂU CÓ GIÁ RẤT RẺ. </span><strong style=\"color: black;\">ROCHE MART CAM KÊT NGUYÊN LIỆU TỪ THỊT TRÂU TƯƠI</strong></p><p><br></p><p><span style=\"color: black;\">Cảm ơn Quý khách đã tin tưởng mua hàng.</span></p><p><br></p><p><strong style=\"background-color: rgb(255, 255, 102); color: black;\">Chú</strong><strong style=\"color: rgba(0, 0, 0, 0.8);\">c quý khách ngon miệng! </strong></p>",
+    "imageUrl": "https://images.f99.com.vn/images/ec774d37-1f1f-4e82-863c-017968313a0e.jpg",
+    "price": 449000,
+    "oldPrice": 499000,
+    "discountPercent": 10,
+    "stock": 50,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "GÓI 500gr",
+    "sku": "TRAU500",
+    "origin": "",
+    "sellerId": 413,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 130,
+      "name": "Thịt trâu",
+      "imageUrl": "https://images.f99.com.vn/notification-images/271e20b8-3520-4eab-a5ee-b1f4c18ab90a.png",
+      "parentId": 127,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/ec774d37-1f1f-4e82-863c-017968313a0e.jpg",
+      "https://images.f99.com.vn/images/029d4bc3-12f8-43e5-86d3-fadc71fd7c1a.jpg",
+      "https://images.f99.com.vn/images/821e8337-adb8-4089-892c-d232c3921412.jpg",
+      "https://images.f99.com.vn/images/9b42a1c0-83d9-4f2c-b8b6-34d46fff338c.jpg",
+      "https://images.f99.com.vn/images/0c978d5a-b0bf-4a3f-8fc2-aebca9059d5b.jpg",
+      "https://images.f99.com.vn/images/52ad5d6e-8161-47bb-898a-3985f2a3bafb.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/24837",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "GÓI 500gr"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 72515,
+        "attributeTextValues": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "GÓI 500gr",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "GÓI 500gr",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "GÓI 500gr",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 449000,
+        "oldPrice": 499000,
+        "discountPercent": 10,
+        "stock": 50,
+        "totalSold": 0,
+        "unit": "GÓI 500gr",
+        "sku": "TRAU500",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "GÓI 500gr"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 413,
+      "sellerRate": 4.3,
+      "sellerName": "Roche Market",
+      "warehouseId": "e8a4c420-228b-4d4a-b705-2e4519cc16ab",
+      "warehouseAddress": " Hà Nội,  Hoài Đức,  Sơn Đồng, Cổng làng xóm Rô",
+      "distance": 14340,
+      "warehouseDistrict": "hoai duc",
+      "reputation": 57.900000000000006,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 24884,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Thịt Trâu Gác Bếp Điện Biên (100gr)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Thịt thơm ngon chuẩn vị Tây Bắc, kèm chấm chẩm chéo. Có thể hấp cách thủy, nướng than hoa lại cho nóng hoặc ăn liền.Với thịt trâu thì chặt miếng ngắn, đập dập rồi thưởng thức.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/a3240507-ff13-493a-8789-417ddcbee30d.jpg\",\"https://images.f99.com.vn/images/c6e02673-7115-4e5f-8112-2e8e9080535f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Thịt Trâu Gác Bếp Điện Biên (100gr)",
+    "description": "<p>Thịt thơm ngon chuẩn vị Tây Bắc, kèm chấm chẩm chéo. Có thể hấp cách thủy, nướng than hoa lại cho nóng hoặc ăn liền.Với thịt trâu thì chặt miếng ngắn, đập dập rồi thưởng thức.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/a3240507-ff13-493a-8789-417ddcbee30d.jpg",
+    "price": 70000,
+    "oldPrice": 85000,
+    "discountPercent": 18,
+    "stock": 99,
+    "totalSold": 17,
+    "maxQuantityPerUser": null,
+    "unit": "100gr",
+    "sku": "",
+    "origin": "",
+    "sellerId": 423,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Ngăn đá 6 tháng, ngăn mát 5 ngày.</p>",
+    "category": {
+      "id": 130,
+      "name": "Thịt trâu",
+      "imageUrl": "https://images.f99.com.vn/notification-images/271e20b8-3520-4eab-a5ee-b1f4c18ab90a.png",
+      "parentId": 127,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/a3240507-ff13-493a-8789-417ddcbee30d.jpg",
+      "https://images.f99.com.vn/images/c6e02673-7115-4e5f-8112-2e8e9080535f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/24884",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 423,
+      "sellerRate": 5,
+      "sellerName": "Thúy Food - Đồ Khô & Đồ Ăn Vặt - Cầu Giấy",
+      "warehouseId": "612edfff-b761-4f56-867e-2b34a73b0d46",
+      "warehouseAddress": "Số 57A, Ngõ 58, ngách 23 Trần Bình, Mai Dịch, Cầu Giấy, Hà Nội",
+      "distance": 6141,
+      "warehouseDistrict": "cau giay",
+      "reputation": 87.33825752407795,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 24887,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Thịt Trâu Gác Bếp (500gr)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Thịt thơm ngon chuẩn vị Tây Bắc, kèm chấm chẩm chéo. Có thể hấp cách thủy, nướng than hoa lại cho nóng hoặc ăn liền.Với thịt trâu thì chặt miếng ngắn, đập dập rồi thưởng thức.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/a6a79192-1efd-4143-baa6-8451badba696.jpg\",\"https://images.f99.com.vn/images/906fbb86-6184-41c8-aa18-237c87eab7be.jpg\",\"https://images.f99.com.vn/images/f3e8f992-09e5-428e-9f64-0e26debd126c.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Thịt Trâu Gác Bếp (500gr)",
+    "description": "<p>Thịt thơm ngon chuẩn vị Tây Bắc, kèm chấm chẩm chéo. Có thể hấp cách thủy, nướng than hoa lại cho nóng hoặc ăn liền.Với thịt trâu thì chặt miếng ngắn, đập dập rồi thưởng thức.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/a6a79192-1efd-4143-baa6-8451badba696.jpg",
+    "price": 340000,
+    "oldPrice": 400000,
+    "discountPercent": 15,
+    "stock": 99,
+    "totalSold": 4,
+    "maxQuantityPerUser": null,
+    "unit": "500gr",
+    "sku": "",
+    "origin": "",
+    "sellerId": 423,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Ngăn đá 6 tháng, ngăn mát 5 ngày.</p>",
+    "category": {
+      "id": 130,
+      "name": "Thịt trâu",
+      "imageUrl": "https://images.f99.com.vn/notification-images/271e20b8-3520-4eab-a5ee-b1f4c18ab90a.png",
+      "parentId": 127,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/a6a79192-1efd-4143-baa6-8451badba696.jpg",
+      "https://images.f99.com.vn/images/906fbb86-6184-41c8-aa18-237c87eab7be.jpg",
+      "https://images.f99.com.vn/images/f3e8f992-09e5-428e-9f64-0e26debd126c.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/24887",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "500gr"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 94757,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500gr",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "500gr",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500gr",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 340000,
+        "oldPrice": 400000,
+        "discountPercent": 15,
+        "stock": 99,
+        "totalSold": 4,
+        "unit": "500gr",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Ngăn đá 6 tháng, ngăn mát 5 ngày.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "500gr"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 423,
+      "sellerRate": 5,
+      "sellerName": "Thúy Food - Đồ Khô & Đồ Ăn Vặt - Cầu Giấy",
+      "warehouseId": "612edfff-b761-4f56-867e-2b34a73b0d46",
+      "warehouseAddress": "Số 57A, Ngõ 58, ngách 23 Trần Bình, Mai Dịch, Cầu Giấy, Hà Nội",
+      "distance": 6141,
+      "warehouseDistrict": "cau giay",
+      "reputation": 87.33825752407795,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 26248,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "THỊT TRÂU KHÔ TÂY BẮC 1KG TẶNG KÈM CHẨM CHÉO",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/fc6459ae-5d20-4687-93ca-0b4a93accf6c.jpg\",\"https://images.f99.com.vn/images/96d65ad2-a524-4137-96d9-8212e00ecdf1.jpg\",\"https://images.f99.com.vn/images/5112871e-be8a-4a16-bc97-033daf2fdcd3.jpg\",\"https://images.f99.com.vn/images/920d11e9-85f4-47d7-b493-4bafab416a64.jpg\",\"https://images.f99.com.vn/images/500a4a32-bcf7-4042-83d8-740560b130d2.jpg\",\"https://images.f99.com.vn/images/11aa7422-f3bb-4670-8e7c-1ee94617b363.jpg\",\"https://images.f99.com.vn/images/cf4b8c9d-b0c0-4ccc-803f-c5cd606f1729.jpg\",\"https://images.f99.com.vn/images/4790f25e-8c1e-4226-ac2f-70b5090c9511.jpg\",\"https://images.f99.com.vn/images/5a0b35c2-4ca1-4479-906c-e42f12d94297.jpg\",\"https://images.f99.com.vn/images/bff474ba-0812-4a75-9e16-5bb7a5d2ec35.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>🔥 THỊT TRÂU GÁC BẾP của VỀ BẢN lúc nào cũng trong tình trạng CHÁY HÀNG 🔥</p><p><br></p><p>✅Sản phẩm hút chân không tặng kèm gia vị CHẨM CHÉO ạ❤</p><p><br></p><p>✅ Thịt gác bếp luôn được lựa chọn kỹ càng từ khâu đầu tiên</p><p><br></p><p>✅ Thịt tươi chuẩn và ướp gia vị chuẩn hương vị Tây Bắc</p><p><br></p><p>✅Thịt được sấy vừa tới, thịt có độ dai vừa phải, thớ thịt hồng nhẹ đan xen, không cứng, ăn còn nguyên vị ngọt của thịt tươi. Từng thanh được tẩm gia vị đặc biệt dậy mùi hạt dổi, hạt mắc khén…</p><p><br></p><p>✅ Thịt dai thơm ngon vị cay vừa, giúp cả gia đình có thể ăn được từ trẻ con đến người già.</p><p><br></p><p>💯 Vị ngọt của thịt trâu và vị cay của gia vị Tây Bắc tạo nên 1 món ăn hấp dẫn, làm món nhậu rất đáng đồng tiền. Mùa Dịch ở Nhà có miếng thịt trâu gác bếp nhâm nhi với cốc bia thì không có gì tuyệt vời bằng 😊</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/6a644d0e-8a6b-46a9-a806-5d373e9c8472.jpg\"></p><p><br></p><p>📌Ngoài trâu gác bếp VỀ BẢN vẫn phục vụ Thịt Lợn Gác Bếp anh/chị nhé 🥰</p><p><br></p><p><br></p><p>🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃</p><p><br></p><p>☎0966311292</p><p><br></p><p>🏰192 Nguyễn Huy Tưởng, Thanh Xuân, HN</p><p>🏰103 tổ 2, Thị trấn Đồng Văn, Hà Giang</p><p><br></p><p>Hân hạnh phục vụ quý anh/chị 🥰</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/fe9afdb0-4262-48c8-99d3-1458b70ac4fb.jpg\"></p><p><br></p><p>#Thịttrâusấy</p><p>#Thịt_trâu_sấy</p><p>#thittrausay</p><p>#thit_trau_say</p><p><br></p><p>#TrâuKhô</p><p>#Trâu_Khô</p><p>#traukho</p><p>#trau_kho</p><p><br></p><p>#Thịttrâugácbếp</p><p>#Thịt_trâu_gác_bếp</p><p>#thittraugacbep</p><p>#thit_trau_gac_bep</p><p><br></p><p>#Trâusấykhô</p><p>#Trâu_sấy_khô</p><p>#trausaykho</p><p>#trau_say_kho</p><p><br></p><p>#Đặcsảntâybắc</p><p>#Đặc_sản_tây_bắc</p><p>#dacsantaybac</p><p>#dac_san_tay_bac</p><p><br></p><p>#Thịttrâugácbếpchấmgìngon</p><p>#Thịt_trâu_gác_bếp_chấm_gì_ngon</p><p>#thittraugacbepchamgingon</p><p>#thit_trau_gac_bep_cham_gi_ngon</p><p><br></p><p>#HươngVịVùngCao</p><p>#Hương_Vị_Vùng_Cao</p><p>#huongvivungcao #huongvi_vungcao</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "THỊT TRÂU KHÔ TÂY BẮC 1KG TẶNG KÈM CHẨM CHÉO",
+    "description": "<p>🔥 THỊT TRÂU GÁC BẾP của VỀ BẢN lúc nào cũng trong tình trạng CHÁY HÀNG 🔥</p><p><br></p><p>✅Sản phẩm hút chân không tặng kèm gia vị CHẨM CHÉO ạ❤</p><p><br></p><p>✅ Thịt gác bếp luôn được lựa chọn kỹ càng từ khâu đầu tiên</p><p><br></p><p>✅ Thịt tươi chuẩn và ướp gia vị chuẩn hương vị Tây Bắc</p><p><br></p><p>✅Thịt được sấy vừa tới, thịt có độ dai vừa phải, thớ thịt hồng nhẹ đan xen, không cứng, ăn còn nguyên vị ngọt của thịt tươi. Từng thanh được tẩm gia vị đặc biệt dậy mùi hạt dổi, hạt mắc khén…</p><p><br></p><p>✅ Thịt dai thơm ngon vị cay vừa, giúp cả gia đình có thể ăn được từ trẻ con đến người già.</p><p><br></p><p>💯 Vị ngọt của thịt trâu và vị cay của gia vị Tây Bắc tạo nên 1 món ăn hấp dẫn, làm món nhậu rất đáng đồng tiền. Mùa Dịch ở Nhà có miếng thịt trâu gác bếp nhâm nhi với cốc bia thì không có gì tuyệt vời bằng 😊</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/6a644d0e-8a6b-46a9-a806-5d373e9c8472.jpg\"></p><p><br></p><p>📌Ngoài trâu gác bếp VỀ BẢN vẫn phục vụ Thịt Lợn Gác Bếp anh/chị nhé 🥰</p><p><br></p><p><br></p><p>🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃</p><p><br></p><p>☎0966311292</p><p><br></p><p>🏰192 Nguyễn Huy Tưởng, Thanh Xuân, HN</p><p>🏰103 tổ 2, Thị trấn Đồng Văn, Hà Giang</p><p><br></p><p>Hân hạnh phục vụ quý anh/chị 🥰</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/fe9afdb0-4262-48c8-99d3-1458b70ac4fb.jpg\"></p><p><br></p><p>#Thịttrâusấy</p><p>#Thịt_trâu_sấy</p><p>#thittrausay</p><p>#thit_trau_say</p><p><br></p><p>#TrâuKhô</p><p>#Trâu_Khô</p><p>#traukho</p><p>#trau_kho</p><p><br></p><p>#Thịttrâugácbếp</p><p>#Thịt_trâu_gác_bếp</p><p>#thittraugacbep</p><p>#thit_trau_gac_bep</p><p><br></p><p>#Trâusấykhô</p><p>#Trâu_sấy_khô</p><p>#trausaykho</p><p>#trau_say_kho</p><p><br></p><p>#Đặcsảntâybắc</p><p>#Đặc_sản_tây_bắc</p><p>#dacsantaybac</p><p>#dac_san_tay_bac</p><p><br></p><p>#Thịttrâugácbếpchấmgìngon</p><p>#Thịt_trâu_gác_bếp_chấm_gì_ngon</p><p>#thittraugacbepchamgingon</p><p>#thit_trau_gac_bep_cham_gi_ngon</p><p><br></p><p>#HươngVịVùngCao</p><p>#Hương_Vị_Vùng_Cao</p><p>#huongvivungcao #huongvi_vungcao</p>",
+    "imageUrl": "https://images.f99.com.vn/images/fc6459ae-5d20-4687-93ca-0b4a93accf6c.jpg",
+    "price": 549000,
+    "oldPrice": 900000,
+    "discountPercent": 39,
+    "stock": 2471,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "TTK1",
+    "origin": "",
+    "sellerId": 216,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Để tủ lạnh khi chưa ăn đến</p>",
+    "category": {
+      "id": 130,
+      "name": "Thịt trâu",
+      "imageUrl": "https://images.f99.com.vn/notification-images/271e20b8-3520-4eab-a5ee-b1f4c18ab90a.png",
+      "parentId": 127,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/fc6459ae-5d20-4687-93ca-0b4a93accf6c.jpg",
+      "https://images.f99.com.vn/images/96d65ad2-a524-4137-96d9-8212e00ecdf1.jpg",
+      "https://images.f99.com.vn/images/5112871e-be8a-4a16-bc97-033daf2fdcd3.jpg",
+      "https://images.f99.com.vn/images/920d11e9-85f4-47d7-b493-4bafab416a64.jpg",
+      "https://images.f99.com.vn/images/500a4a32-bcf7-4042-83d8-740560b130d2.jpg",
+      "https://images.f99.com.vn/images/11aa7422-f3bb-4670-8e7c-1ee94617b363.jpg",
+      "https://images.f99.com.vn/images/cf4b8c9d-b0c0-4ccc-803f-c5cd606f1729.jpg",
+      "https://images.f99.com.vn/images/4790f25e-8c1e-4226-ac2f-70b5090c9511.jpg",
+      "https://images.f99.com.vn/images/5a0b35c2-4ca1-4479-906c-e42f12d94297.jpg",
+      "https://images.f99.com.vn/images/bff474ba-0812-4a75-9e16-5bb7a5d2ec35.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/26248",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "KG"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 60952,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 KG",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "KG",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 KG",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 549000,
+        "oldPrice": 900000,
+        "discountPercent": 39,
+        "stock": 2471,
+        "totalSold": 0,
+        "unit": "KG",
+        "sku": "TTK1",
+        "rating": 0,
+        "instructions": "<p>Để tủ lạnh khi chưa ăn đến</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "KG"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 216,
+      "sellerRate": 4.9,
+      "sellerName": "Về Bản",
+      "warehouseId": "2c09665c-515e-4f69-86a3-2156469f6e7e",
+      "warehouseAddress": "192 Nguyễn Huy Tưởng, Thanh Xuân Trung, Thanh Xuân, Hà Nội",
+      "distance": 4642,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 83.06101333333335,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 26260,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "THỊT TRÂU KHÔ TÂY BẮC 0.5KG TẶNG KÈM CHẨM CHÉO",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/a1e4e732-d7bf-401e-9e0e-49c93cdc00d1.jpg\",\"https://images.f99.com.vn/images/22aac935-ebdd-4cc1-bbb3-26af52ef7aec.jpg\",\"https://images.f99.com.vn/images/5318596c-4620-4286-8111-98ec5ecc7e99.jpg\",\"https://images.f99.com.vn/images/a86ecca1-f856-489e-b6a6-e4badf8cdf09.jpg\",\"https://images.f99.com.vn/images/4648c8f7-9b3f-4c7c-b520-37c85d9f6c74.jpg\",\"https://images.f99.com.vn/images/e3e285ce-cc1f-48d2-9fdf-f9f9469ab455.jpg\",\"https://images.f99.com.vn/images/d6edd292-f602-4ad4-9bcb-35e4cc61c5b6.jpg\",\"https://images.f99.com.vn/images/1d4777a9-5e61-43a7-8675-11db6df09584.jpg\",\"https://images.f99.com.vn/images/8247940e-c2ca-4e50-8af9-fd8fddbc8246.jpg\",\"https://images.f99.com.vn/images/50d9e20e-90ad-422d-84b2-baac61f3456f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>🔥 THỊT TRÂU GÁC BẾP của VỀ BẢN lúc nào cũng trong tình trạng CHÁY HÀNG 🔥</p><p><br></p><p>✅Sản phẩm hút chân không tặng kèm gia vị CHẨM CHÉO ạ❤</p><p><br></p><p>✅ Thịt gác bếp luôn được lựa chọn kỹ càng từ khâu đầu tiên</p><p><br></p><p>✅ Thịt tươi chuẩn và ướp gia vị chuẩn hương vị Tây Bắc</p><p><br></p><p>✅Thịt được sấy vừa tới, thịt có độ dai vừa phải, thớ thịt hồng nhẹ đan xen, không cứng, ăn còn nguyên vị ngọt của thịt tươi. Từng thanh được tẩm gia vị đặc biệt dậy mùi hạt dổi, hạt mắc khén…</p><p><br></p><p>✅ Thịt dai thơm ngon vị cay vừa, giúp cả gia đình có thể ăn được từ trẻ con đến người già.</p><p><br></p><p>💯 Vị ngọt của thịt trâu và vị cay của gia vị Tây Bắc tạo nên 1 món ăn hấp dẫn, làm món nhậu rất đáng đồng tiền. Mùa Dịch ở Nhà có miếng thịt trâu gác bếp nhâm nhi với cốc bia thì không có gì tuyệt vời bằng 😊</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/6a644d0e-8a6b-46a9-a806-5d373e9c8472.jpg\"></p><p><br></p><p>📌Ngoài trâu gác bếp VỀ BẢN vẫn phục vụ Thịt Lợn Gác Bếp anh/chị nhé 🥰</p><p><br></p><p><br></p><p>🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃</p><p><br></p><p>☎0966311292</p><p><br></p><p>🏰192 Nguyễn Huy Tưởng, Thanh Xuân, HN</p><p>🏰103 tổ 2, Thị trấn Đồng Văn, Hà Giang</p><p><br></p><p>Hân hạnh phục vụ quý anh/chị 🥰</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/fe9afdb0-4262-48c8-99d3-1458b70ac4fb.jpg\"></p><p><br></p><p>#Thịttrâusấy</p><p>#Thịt_trâu_sấy</p><p>#thittrausay</p><p>#thit_trau_say</p><p><br></p><p>#TrâuKhô</p><p>#Trâu_Khô</p><p>#traukho</p><p>#trau_kho</p><p><br></p><p>#Thịttrâugácbếp</p><p>#Thịt_trâu_gác_bếp</p><p>#thittraugacbep</p><p>#thit_trau_gac_bep</p><p><br></p><p>#Trâusấykhô</p><p>#Trâu_sấy_khô</p><p>#trausaykho</p><p>#trau_say_kho</p><p><br></p><p>#Đặcsảntâybắc</p><p>#Đặc_sản_tây_bắc</p><p>#dacsantaybac</p><p>#dac_san_tay_bac</p><p><br></p><p>#Thịttrâugácbếpchấmgìngon</p><p>#Thịt_trâu_gác_bếp_chấm_gì_ngon</p><p>#thittraugacbepchamgingon</p><p>#thit_trau_gac_bep_cham_gi_ngon</p><p><br></p><p>#HươngVịVùngCao</p><p>#Hương_Vị_Vùng_Cao</p><p>#huongvivungcao #huongvi_vungcao</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "THỊT TRÂU KHÔ TÂY BẮC 0.5KG TẶNG KÈM CHẨM CHÉO",
+    "description": "<p>🔥 THỊT TRÂU GÁC BẾP của VỀ BẢN lúc nào cũng trong tình trạng CHÁY HÀNG 🔥</p><p><br></p><p>✅Sản phẩm hút chân không tặng kèm gia vị CHẨM CHÉO ạ❤</p><p><br></p><p>✅ Thịt gác bếp luôn được lựa chọn kỹ càng từ khâu đầu tiên</p><p><br></p><p>✅ Thịt tươi chuẩn và ướp gia vị chuẩn hương vị Tây Bắc</p><p><br></p><p>✅Thịt được sấy vừa tới, thịt có độ dai vừa phải, thớ thịt hồng nhẹ đan xen, không cứng, ăn còn nguyên vị ngọt của thịt tươi. Từng thanh được tẩm gia vị đặc biệt dậy mùi hạt dổi, hạt mắc khén…</p><p><br></p><p>✅ Thịt dai thơm ngon vị cay vừa, giúp cả gia đình có thể ăn được từ trẻ con đến người già.</p><p><br></p><p>💯 Vị ngọt của thịt trâu và vị cay của gia vị Tây Bắc tạo nên 1 món ăn hấp dẫn, làm món nhậu rất đáng đồng tiền. Mùa Dịch ở Nhà có miếng thịt trâu gác bếp nhâm nhi với cốc bia thì không có gì tuyệt vời bằng 😊</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/6a644d0e-8a6b-46a9-a806-5d373e9c8472.jpg\"></p><p><br></p><p>📌Ngoài trâu gác bếp VỀ BẢN vẫn phục vụ Thịt Lợn Gác Bếp anh/chị nhé 🥰</p><p><br></p><p><br></p><p>🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃</p><p><br></p><p>☎0966311292</p><p><br></p><p>🏰192 Nguyễn Huy Tưởng, Thanh Xuân, HN</p><p>🏰103 tổ 2, Thị trấn Đồng Văn, Hà Giang</p><p><br></p><p>Hân hạnh phục vụ quý anh/chị 🥰</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/fe9afdb0-4262-48c8-99d3-1458b70ac4fb.jpg\"></p><p><br></p><p>#Thịttrâusấy</p><p>#Thịt_trâu_sấy</p><p>#thittrausay</p><p>#thit_trau_say</p><p><br></p><p>#TrâuKhô</p><p>#Trâu_Khô</p><p>#traukho</p><p>#trau_kho</p><p><br></p><p>#Thịttrâugácbếp</p><p>#Thịt_trâu_gác_bếp</p><p>#thittraugacbep</p><p>#thit_trau_gac_bep</p><p><br></p><p>#Trâusấykhô</p><p>#Trâu_sấy_khô</p><p>#trausaykho</p><p>#trau_say_kho</p><p><br></p><p>#Đặcsảntâybắc</p><p>#Đặc_sản_tây_bắc</p><p>#dacsantaybac</p><p>#dac_san_tay_bac</p><p><br></p><p>#Thịttrâugácbếpchấmgìngon</p><p>#Thịt_trâu_gác_bếp_chấm_gì_ngon</p><p>#thittraugacbepchamgingon</p><p>#thit_trau_gac_bep_cham_gi_ngon</p><p><br></p><p>#HươngVịVùngCao</p><p>#Hương_Vị_Vùng_Cao</p><p>#huongvivungcao #huongvi_vungcao</p>",
+    "imageUrl": "https://images.f99.com.vn/images/a1e4e732-d7bf-401e-9e0e-49c93cdc00d1.jpg",
+    "price": 289000,
+    "oldPrice": 450000,
+    "discountPercent": 36,
+    "stock": 3211,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "0.5KG",
+    "sku": "TTK05",
+    "origin": "",
+    "sellerId": 216,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Để tủ lạnh khi chưa dùng đến</p>",
+    "category": {
+      "id": 130,
+      "name": "Thịt trâu",
+      "imageUrl": "https://images.f99.com.vn/notification-images/271e20b8-3520-4eab-a5ee-b1f4c18ab90a.png",
+      "parentId": 127,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/a1e4e732-d7bf-401e-9e0e-49c93cdc00d1.jpg",
+      "https://images.f99.com.vn/images/22aac935-ebdd-4cc1-bbb3-26af52ef7aec.jpg",
+      "https://images.f99.com.vn/images/5318596c-4620-4286-8111-98ec5ecc7e99.jpg",
+      "https://images.f99.com.vn/images/a86ecca1-f856-489e-b6a6-e4badf8cdf09.jpg",
+      "https://images.f99.com.vn/images/4648c8f7-9b3f-4c7c-b520-37c85d9f6c74.jpg",
+      "https://images.f99.com.vn/images/e3e285ce-cc1f-48d2-9fdf-f9f9469ab455.jpg",
+      "https://images.f99.com.vn/images/d6edd292-f602-4ad4-9bcb-35e4cc61c5b6.jpg",
+      "https://images.f99.com.vn/images/1d4777a9-5e61-43a7-8675-11db6df09584.jpg",
+      "https://images.f99.com.vn/images/8247940e-c2ca-4e50-8af9-fd8fddbc8246.jpg",
+      "https://images.f99.com.vn/images/50d9e20e-90ad-422d-84b2-baac61f3456f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/26260",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "0.5KG"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 60960,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "0.5KG",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "0.5KG",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "0.5KG",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 289000,
+        "oldPrice": 450000,
+        "discountPercent": 36,
+        "stock": 3211,
+        "totalSold": 2,
+        "unit": "0.5KG",
+        "sku": "TTK05",
+        "rating": 0,
+        "instructions": "<p>Để tủ lạnh khi chưa dùng đến</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "0.5KG"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 216,
+      "sellerRate": 4.9,
+      "sellerName": "Về Bản",
+      "warehouseId": "2c09665c-515e-4f69-86a3-2156469f6e7e",
+      "warehouseAddress": "192 Nguyễn Huy Tưởng, Thanh Xuân Trung, Thanh Xuân, Hà Nội",
+      "distance": 4642,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 83.06101333333335,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 39077,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Đuôi trâu Viande Rouge Ấn Độ (500gr) ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Đuôi trâu Nhập khẩu từ nhà máy Viande Rouge Ấn Độ&nbsp;&nbsp;</p><p>- Đóng gói: 500g</p><p>- Bảo quản: -18 độ C</p><p>- Hạn sử dụng: xem trên bao bì</p><p><strong style=\"color: rgb(51, 51, 51);\">* Đặc điểm nổi bật</strong><span style=\"color: rgb(51, 51, 51);\">:&nbsp;</span><span style=\"color: rgb(0, 0, 0);\">Thịt trâu có vị ngọt, tính mát, không độc, có tác dụng bổ tỳ vị, mạnh gân cốt, hàm lượng dinh dưỡng trong thịt trâu rất cao. Các món ăn tươi ngon và bổ dưỡng từ thịt trâu có thể kể đến món đuôi trâu hầm ba kích, đuôi trâu hầm đu đủ hay đuôi trâu hầm bia.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[\"HACCP\"]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/3676a581-6cc8-4c4c-9230-f400700d2907.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Đuôi trâu Viande Rouge Ấn Độ (500gr) ",
+    "description": "<p>Đuôi trâu Nhập khẩu từ nhà máy Viande Rouge Ấn Độ&nbsp;&nbsp;</p><p>- Đóng gói: 500g</p><p>- Bảo quản: -18 độ C</p><p>- Hạn sử dụng: xem trên bao bì</p><p><strong style=\"color: rgb(51, 51, 51);\">* Đặc điểm nổi bật</strong><span style=\"color: rgb(51, 51, 51);\">:&nbsp;</span><span style=\"color: rgb(0, 0, 0);\">Thịt trâu có vị ngọt, tính mát, không độc, có tác dụng bổ tỳ vị, mạnh gân cốt, hàm lượng dinh dưỡng trong thịt trâu rất cao. Các món ăn tươi ngon và bổ dưỡng từ thịt trâu có thể kể đến món đuôi trâu hầm ba kích, đuôi trâu hầm đu đủ hay đuôi trâu hầm bia.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/3676a581-6cc8-4c4c-9230-f400700d2907.jpg",
+    "price": 87500,
+    "oldPrice": 90000,
+    "discountPercent": 3,
+    "stock": 14,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "0.5kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 557,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><strong>*&nbsp;Hướng dẫn giã đông:</strong></p><p class=\"ql-align-justify\"><u>Cách 1</u><span style=\"color: rgb(51, 51, 51);\">: Lấy thịt từ ngăn đông chuyển lên ngăn mát cho đến khi khối thịt mềm ra. Bạn có thể lấy thịt ra khỏi ngăn đông từ ngày hôm trước, để lên ngăn mát rã đông cho ngày hôm sau.Thịt gia cầm, cá, thịt xay sau khi đã rã đông bằng cách này có thể để an toàn trong ngăn mát tủ lạnh thêm 2-3 ngày nữa trước khi bạn nấu.Thêm một ưu việt nữa là nếu bạn không muốn nấu miếng thịt đã rã đông này, bạn có thể an toàn chuyển vào ngăn đá làm đông trở lại.</span></p><p class=\"ql-align-justify\"><u style=\"color: rgb(51, 51, 51);\">Cách 2</u><span style=\"color: rgb(51, 51, 51);\">: Ngâm túi thịt còn dán kín vào nước ấm 40 độ C khoảng 30 phút sau đó cắt túi lấy thịt sử dụng.&nbsp;</span></p><p class=\"ql-align-justify\"><u style=\"color: rgb(51, 51, 51);\">Cách 3</u><span style=\"color: rgb(51, 51, 51);\">: Ngâm trực tiếp miếng thịt vào nước ấm 40 độ C có pha thêm 01 thìa đường trong vòng 10 phút, đối với cá thì dùng 1 thìa muối, rồi chuyển ra chế biến.</span></p>",
+    "category": {
+      "id": 130,
+      "name": "Thịt trâu",
+      "imageUrl": "https://images.f99.com.vn/notification-images/271e20b8-3520-4eab-a5ee-b1f4c18ab90a.png",
+      "parentId": 127,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [
+      "HACCP"
+    ],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/3676a581-6cc8-4c4c-9230-f400700d2907.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/39077",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "0.5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 54915,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "0.5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "0.5kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "0.5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 87500,
+        "oldPrice": 90000,
+        "discountPercent": 3,
+        "stock": 14,
+        "totalSold": 0,
+        "unit": "0.5kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p><strong>*&nbsp;Hướng dẫn giã đông:</strong></p><p class=\"ql-align-justify\"><u>Cách 1</u><span style=\"color: rgb(51, 51, 51);\">: Lấy thịt từ ngăn đông chuyển lên ngăn mát cho đến khi khối thịt mềm ra. Bạn có thể lấy thịt ra khỏi ngăn đông từ ngày hôm trước, để lên ngăn mát rã đông cho ngày hôm sau.Thịt gia cầm, cá, thịt xay sau khi đã rã đông bằng cách này có thể để an toàn trong ngăn mát tủ lạnh thêm 2-3 ngày nữa trước khi bạn nấu.Thêm một ưu việt nữa là nếu bạn không muốn nấu miếng thịt đã rã đông này, bạn có thể an toàn chuyển vào ngăn đá làm đông trở lại.</span></p><p class=\"ql-align-justify\"><u style=\"color: rgb(51, 51, 51);\">Cách 2</u><span style=\"color: rgb(51, 51, 51);\">: Ngâm túi thịt còn dán kín vào nước ấm 40 độ C khoảng 30 phút sau đó cắt túi lấy thịt sử dụng.&nbsp;</span></p><p class=\"ql-align-justify\"><u style=\"color: rgb(51, 51, 51);\">Cách 3</u><span style=\"color: rgb(51, 51, 51);\">: Ngâm trực tiếp miếng thịt vào nước ấm 40 độ C có pha thêm 01 thìa đường trong vòng 10 phút, đối với cá thì dùng 1 thìa muối, rồi chuyển ra chế biến.</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "0.5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 557,
+      "sellerRate": 4.7,
+      "sellerName": "True Food – Thực phẩm sạch Minh Bạch",
+      "warehouseId": "dd8aa081-0610-4ed4-b1b7-80766b59a463",
+      "warehouseAddress": "Số 17 BT 4-1 Khu đô thị Trung Văn, Trung Văn, Nam Từ Liêm, Hà Nội",
+      "distance": 6956,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 66.75000000000138,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 50648,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lõi thăn",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><br></p><p><a href=\"https://www.hangdonglanh.asia/2020/11/than-vai-trau-an-do.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(77, 157, 42);\">Thăn vai trâu Ấn Độ</a><span style=\"color: rgb(51, 51, 51);\">&nbsp;hay còn gọi là lõi vai hay thăn chuột phần thịt này là phần thịt được pha cắt ra từ vùng thịt cổ của con trâu. Phần thịt này có nhiều sợi gân và phần mỡ xen lẫn giữa các miềng thịt nạc thường có màu trắng hoặc màu kem ăn giòn không bị dai, phần thịt mềm và ngọt thích hợp để nướng, nhúng lẩu, xào..</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/cd906be9-e5ba-4ad2-b42e-2d5ddbcb90a4.jpg\",\"https://images.f99.com.vn/images/c7a7ec4c-eb85-4001-a290-ca05c0b7da3a.jpg\",\"https://images.f99.com.vn/images/5a8666cf-0718-4643-9cfc-c24c62dd4d29.jpg\",\"https://images.f99.com.vn/images/6294971e-86ea-41aa-9559-33b2b79c80e9.jpg\",\"https://images.f99.com.vn/images/e15d259b-46dc-4faf-b98b-07e02d05766b.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lõi thăn",
+    "description": "<p><br></p><p><a href=\"https://www.hangdonglanh.asia/2020/11/than-vai-trau-an-do.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(77, 157, 42);\">Thăn vai trâu Ấn Độ</a><span style=\"color: rgb(51, 51, 51);\">&nbsp;hay còn gọi là lõi vai hay thăn chuột phần thịt này là phần thịt được pha cắt ra từ vùng thịt cổ của con trâu. Phần thịt này có nhiều sợi gân và phần mỡ xen lẫn giữa các miềng thịt nạc thường có màu trắng hoặc màu kem ăn giòn không bị dai, phần thịt mềm và ngọt thích hợp để nướng, nhúng lẩu, xào..</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/cd906be9-e5ba-4ad2-b42e-2d5ddbcb90a4.jpg",
+    "price": 150000,
+    "oldPrice": 190000,
+    "discountPercent": 21,
+    "stock": 500,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 785,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 136,
+    "instructions": "<ul><li>Bảo quản trong ngăn đá tủ lạnh</li><li>Rã đông tự nhiên, chế biến các món ăn theo yêu cầu</li></ul>",
+    "category": {
+      "id": 130,
+      "name": "Thịt trâu",
+      "imageUrl": "https://images.f99.com.vn/notification-images/271e20b8-3520-4eab-a5ee-b1f4c18ab90a.png",
+      "parentId": 127,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/cd906be9-e5ba-4ad2-b42e-2d5ddbcb90a4.jpg",
+      "https://images.f99.com.vn/images/c7a7ec4c-eb85-4001-a290-ca05c0b7da3a.jpg",
+      "https://images.f99.com.vn/images/5a8666cf-0718-4643-9cfc-c24c62dd4d29.jpg",
+      "https://images.f99.com.vn/images/6294971e-86ea-41aa-9559-33b2b79c80e9.jpg",
+      "https://images.f99.com.vn/images/e15d259b-46dc-4faf-b98b-07e02d05766b.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/50648",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 95627,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 150000,
+        "oldPrice": 190000,
+        "discountPercent": 21,
+        "stock": 500,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 136,
+        "instructions": "<ul><li>Bảo quản trong ngăn đá tủ lạnh</li><li>Rã đông tự nhiên, chế biến các món ăn theo yêu cầu</li></ul>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 785,
+      "sellerRate": 4.3,
+      "sellerName": "Thượng Đỉnh Food",
+      "warehouseId": "43f2862e-3577-4f6e-a79c-cc8047100284",
+      "warehouseAddress": " Hà Nội,  Hoàng Mai, 79 Đại Từ, Đại Kim",
+      "distance": 6258,
+      "warehouseDistrict": "hoang mai",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 50664,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dẻ sườn",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dẻ sườn là một loại nguyên liệu vô cùng ngon, mềm, dễ chế biến với các món ăn lạ miệng, ngon cơm</p><p>Các món ăn được chế biến từ dẻ sườn:</p><ol><li>Dẻ sườn nướng</li><li>Nấu sốt vang</li><li>Om dưa cải chua</li><li>Kho kim chi</li></ol><ul><li>Rã đông tự nhiên, chế biến các món ăn theo yêu cầu</li></ul>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/8528a837-9a70-493a-9e1a-9cc9e86961fe.jpg\",\"https://images.f99.com.vn/images/9fe1c3d3-7141-4d47-936c-4ae62fbc39b0.jpg\",\"https://images.f99.com.vn/images/73e025bb-58c3-45eb-85c2-b436fdb12a0a.jpg\",\"https://images.f99.com.vn/images/c6f0a83d-0b93-4b33-b406-fdae386bbae0.jpg\",\"https://images.f99.com.vn/images/8344406f-363f-406e-88b5-60c67af655fc.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dẻ sườn",
+    "description": "<p>Dẻ sườn là một loại nguyên liệu vô cùng ngon, mềm, dễ chế biến với các món ăn lạ miệng, ngon cơm</p><p>Các món ăn được chế biến từ dẻ sườn:</p><ol><li>Dẻ sườn nướng</li><li>Nấu sốt vang</li><li>Om dưa cải chua</li><li>Kho kim chi</li></ol><ul><li>Rã đông tự nhiên, chế biến các món ăn theo yêu cầu</li></ul>",
+    "imageUrl": "https://images.f99.com.vn/images/8528a837-9a70-493a-9e1a-9cc9e86961fe.jpg",
+    "price": 130000,
+    "oldPrice": 160000,
+    "discountPercent": 19,
+    "stock": 500,
+    "totalSold": 79,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 785,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 56,
+    "instructions": "<p>Bảo quản trong ngăn đông tủ lanh</p>",
+    "category": {
+      "id": 130,
+      "name": "Thịt trâu",
+      "imageUrl": "https://images.f99.com.vn/notification-images/271e20b8-3520-4eab-a5ee-b1f4c18ab90a.png",
+      "parentId": 127,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/8528a837-9a70-493a-9e1a-9cc9e86961fe.jpg",
+      "https://images.f99.com.vn/images/9fe1c3d3-7141-4d47-936c-4ae62fbc39b0.jpg",
+      "https://images.f99.com.vn/images/73e025bb-58c3-45eb-85c2-b436fdb12a0a.jpg",
+      "https://images.f99.com.vn/images/c6f0a83d-0b93-4b33-b406-fdae386bbae0.jpg",
+      "https://images.f99.com.vn/images/8344406f-363f-406e-88b5-60c67af655fc.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/50664",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 785,
+      "sellerRate": 4.3,
+      "sellerName": "Thượng Đỉnh Food",
+      "warehouseId": "43f2862e-3577-4f6e-a79c-cc8047100284",
+      "warehouseAddress": " Hà Nội,  Hoàng Mai, 79 Đại Từ, Đại Kim",
+      "distance": 6258,
+      "warehouseDistrict": "hoang mai",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 53121,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "THỊT TRÂU KHÔ TÂY BẮC 200GR TẶNG CHẲM CHÉO",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/b3e0ece5-b2bc-4142-a7ae-58aa35a5eab9.jpg\",\"https://images.f99.com.vn/images/90767ae5-10c3-41f5-961a-9975213dfb7d.jpg\",\"https://images.f99.com.vn/images/6cf4a29d-da6a-45d7-b4bf-22a97ca6ec75.jpg\",\"https://images.f99.com.vn/images/edd00fdc-bab9-4b78-9b7c-060918257bc8.jpg\",\"https://images.f99.com.vn/images/d44a468c-eedc-43a4-afcc-8d89f77e678f.jpg\",\"https://images.f99.com.vn/images/345f4806-1952-4115-a734-a75a685f0674.jpg\",\"https://images.f99.com.vn/images/f2c44020-4144-41bb-b93c-5b20e070df52.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>#TRÂU_GÁC_BẾP ngon thì rất khó tìm, mãi mới thấy Về Bản tâm huyết và đúng chuẩn đặc sản luôn :</p><p><br></p><p>✅Mùi vị thơm ngon đặc trưng&nbsp;</p><p>✅Rất ngọt và đậm đà khó cưỡng</p><p>✅Một chút cay vị ớt</p><p>✅Công thức riêng gia truyền</p><p>✅Được tẩm ướp nhiều gia vị như tiêu, gừng, tỏi, ớt, mắc khén, hạt dổi...</p><p>✅Được gác bếp củi sấy khô bằng khói trong nhiều ngày</p><p><br></p><p>📌Tặng kèm #chẩm_chéo gia vị chấm</p><p><br></p><p>📌Ngoài thịt trâu gác bếp, Về Bản còn có #thịt_lợn_gác_bếp phục vụ anh/chị nhé ⚽⚽</p><p><br></p><p>⛔ Thịt ngon thế này mà không làm 1 túi trâu tặng kèm lọ chẩm chéo rồi mời anh em chiến hữu, gia đình thân thuộc bên lon bia lạnh hay chén rượu nồng cho tình cảm đi lên😍😍😍</p><p><br></p><p>🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃</p><p><br></p><p>☎0966311292</p><p><br></p><p>🏰192 Nguyễn Huy Tưởng, Thanh Xuân, HN</p><p>🏰103 tổ 2, Thị trấn Đồng Văn, Hà Giang</p><p><br></p><p>Hân hạnh phục vụ quý anh/chị 🥰</p><p><br></p><p>#Thịttrâusấy</p><p>#Thịt_trâu_sấy</p><p>#thittrausay</p><p>#thit_trau_say</p><p><br></p><p>#TrâuKhô</p><p>#Trâu_Khô</p><p>#traukho</p><p>#trau_kho</p><p><br></p><p>#Thịttrâugácbếp</p><p>#Thịt_trâu_gác_bếp</p><p>#thittraugacbep</p><p>#thit_trau_gac_bep</p><p><br></p><p>#Trâusấykhô</p><p>#Trâu_sấy_khô</p><p>#trausaykho</p><p>#trau_say_kho</p><p><br></p><p>#Đặcsảntâybắc</p><p>#Đặc_sản_tây_bắc</p><p>#dacsantaybac</p><p>#dac_san_tay_bac</p><p><br></p><p>#Thịttrâugácbếpchấmgìngon</p><p>#Thịt_trâu_gác_bếp_chấm_gì_ngon</p><p>#thittraugacbepchamgingon</p><p>#thit_trau_gac_bep_cham_gi_ngon</p><p><br></p><p>#HươngVịVùngCao</p><p>#Hương_Vị_Vùng_Cao</p><p>#huongvivungcao #huongvi_vungcao</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "THỊT TRÂU KHÔ TÂY BẮC 200GR TẶNG CHẲM CHÉO",
+    "description": "<p>#TRÂU_GÁC_BẾP ngon thì rất khó tìm, mãi mới thấy Về Bản tâm huyết và đúng chuẩn đặc sản luôn :</p><p><br></p><p>✅Mùi vị thơm ngon đặc trưng&nbsp;</p><p>✅Rất ngọt và đậm đà khó cưỡng</p><p>✅Một chút cay vị ớt</p><p>✅Công thức riêng gia truyền</p><p>✅Được tẩm ướp nhiều gia vị như tiêu, gừng, tỏi, ớt, mắc khén, hạt dổi...</p><p>✅Được gác bếp củi sấy khô bằng khói trong nhiều ngày</p><p><br></p><p>📌Tặng kèm #chẩm_chéo gia vị chấm</p><p><br></p><p>📌Ngoài thịt trâu gác bếp, Về Bản còn có #thịt_lợn_gác_bếp phục vụ anh/chị nhé ⚽⚽</p><p><br></p><p>⛔ Thịt ngon thế này mà không làm 1 túi trâu tặng kèm lọ chẩm chéo rồi mời anh em chiến hữu, gia đình thân thuộc bên lon bia lạnh hay chén rượu nồng cho tình cảm đi lên😍😍😍</p><p><br></p><p>🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃</p><p><br></p><p>☎0966311292</p><p><br></p><p>🏰192 Nguyễn Huy Tưởng, Thanh Xuân, HN</p><p>🏰103 tổ 2, Thị trấn Đồng Văn, Hà Giang</p><p><br></p><p>Hân hạnh phục vụ quý anh/chị 🥰</p><p><br></p><p>#Thịttrâusấy</p><p>#Thịt_trâu_sấy</p><p>#thittrausay</p><p>#thit_trau_say</p><p><br></p><p>#TrâuKhô</p><p>#Trâu_Khô</p><p>#traukho</p><p>#trau_kho</p><p><br></p><p>#Thịttrâugácbếp</p><p>#Thịt_trâu_gác_bếp</p><p>#thittraugacbep</p><p>#thit_trau_gac_bep</p><p><br></p><p>#Trâusấykhô</p><p>#Trâu_sấy_khô</p><p>#trausaykho</p><p>#trau_say_kho</p><p><br></p><p>#Đặcsảntâybắc</p><p>#Đặc_sản_tây_bắc</p><p>#dacsantaybac</p><p>#dac_san_tay_bac</p><p><br></p><p>#Thịttrâugácbếpchấmgìngon</p><p>#Thịt_trâu_gác_bếp_chấm_gì_ngon</p><p>#thittraugacbepchamgingon</p><p>#thit_trau_gac_bep_cham_gi_ngon</p><p><br></p><p>#HươngVịVùngCao</p><p>#Hương_Vị_Vùng_Cao</p><p>#huongvivungcao #huongvi_vungcao</p>",
+    "imageUrl": "https://images.f99.com.vn/images/b3e0ece5-b2bc-4142-a7ae-58aa35a5eab9.jpg",
+    "price": 129000,
+    "oldPrice": 179000,
+    "discountPercent": 28,
+    "stock": 2618,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "200gr",
+    "sku": "TTK02",
+    "origin": "",
+    "sellerId": 216,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Để tủ lạnh khi chưa dùng đến</p>",
+    "category": {
+      "id": 130,
+      "name": "Thịt trâu",
+      "imageUrl": "https://images.f99.com.vn/notification-images/271e20b8-3520-4eab-a5ee-b1f4c18ab90a.png",
+      "parentId": 127,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/b3e0ece5-b2bc-4142-a7ae-58aa35a5eab9.jpg",
+      "https://images.f99.com.vn/images/90767ae5-10c3-41f5-961a-9975213dfb7d.jpg",
+      "https://images.f99.com.vn/images/6cf4a29d-da6a-45d7-b4bf-22a97ca6ec75.jpg",
+      "https://images.f99.com.vn/images/edd00fdc-bab9-4b78-9b7c-060918257bc8.jpg",
+      "https://images.f99.com.vn/images/d44a468c-eedc-43a4-afcc-8d89f77e678f.jpg",
+      "https://images.f99.com.vn/images/345f4806-1952-4115-a734-a75a685f0674.jpg",
+      "https://images.f99.com.vn/images/f2c44020-4144-41bb-b93c-5b20e070df52.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/53121",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "200gr"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 53130,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "200gr",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "200gr",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "200gr",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 129000,
+        "oldPrice": 179000,
+        "discountPercent": 28,
+        "stock": 2618,
+        "totalSold": 1,
+        "unit": "200gr",
+        "sku": "TTK02",
+        "rating": 0,
+        "instructions": "<p>Để tủ lạnh khi chưa dùng đến</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "200gr"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 216,
+      "sellerRate": 4.9,
+      "sellerName": "Về Bản",
+      "warehouseId": "2c09665c-515e-4f69-86a3-2156469f6e7e",
+      "warehouseAddress": "192 Nguyễn Huy Tưởng, Thanh Xuân Trung, Thanh Xuân, Hà Nội",
+      "distance": 4642,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 83.06101333333335,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 54908,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Thịt dẻ sườn trâu Big Sun Ấn Độ (500gr)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>&nbsp;Xuất xứ: Ấn Độ</p><p>- Đóng gói: 500g</p><p>- Bảo quản: -18 độ C</p><p>- Hạn sử dụng: xem trên bao bì</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[\"HACCP\"]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/ad285b93-2dea-4f89-be95-74249e1d9087.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Thịt dẻ sườn trâu Big Sun Ấn Độ (500gr)",
+    "description": "<p>&nbsp;Xuất xứ: Ấn Độ</p><p>- Đóng gói: 500g</p><p>- Bảo quản: -18 độ C</p><p>- Hạn sử dụng: xem trên bao bì</p>",
+    "imageUrl": "https://images.f99.com.vn/images/ad285b93-2dea-4f89-be95-74249e1d9087.jpg",
+    "price": 62500,
+    "oldPrice": 75000,
+    "discountPercent": 17,
+    "stock": 99,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "gram",
+    "sku": "",
+    "origin": "",
+    "sellerId": 557,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><strong>*&nbsp;Hướng dẫn giã đông:</strong></p><p><u>Cách1</u><span style=\"color: rgb(51, 51, 51);\">&nbsp;Lấy thịt từ ngăn đông chuyển lên ngăn mát cho đến khi khối thịt mềm ra. Bạn có thể lấy thịt ra khỏi ngăn đông từ ngày hôm trước, để lên ngăn mát rã đông cho ngày hôm sau.Thịt, gia cầm, cá, thịt xay sau khi đã rã đông bằng cách này có thể để an toàn trong ngăn mát tủ lạnh thêm 2-3 ngày nữa trước khi bạn nấu.Thêm một ưu việt nữa là nếu bạn không muốn nấu miếng thịt đã rã đông này, bạn có thể an toàn chuyển vào ngăn đá làm đông trở lại.</span></p><p><u style=\"color: rgb(51, 51, 51);\">Cách 2</u><span style=\"color: rgb(51, 51, 51);\">&nbsp;Ngâm túi thịt còn dán kín vào nước ấm 40 độ C khoảng 30 phút sau đó cắt túi lấy thịt sử dụng.&nbsp;</span></p><p><u style=\"color: rgb(51, 51, 51);\">Cách 3</u><span style=\"color: rgb(51, 51, 51);\">&nbsp;Ngâm trực tiếp miếng thịt vào nước ấm 40 độ C có pha thêm 01 thìa đường trong vòng 10 phút, đối với cá thì dùng 1 thìa muối, rồi chuyển ra chế biến</span></p><p>&nbsp;</p>",
+    "category": {
+      "id": 130,
+      "name": "Thịt trâu",
+      "imageUrl": "https://images.f99.com.vn/notification-images/271e20b8-3520-4eab-a5ee-b1f4c18ab90a.png",
+      "parentId": 127,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [
+      "HACCP"
+    ],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/ad285b93-2dea-4f89-be95-74249e1d9087.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/54908",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "gram"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 54909,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 gram",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "gram",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 gram",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 62500,
+        "oldPrice": 75000,
+        "discountPercent": 17,
+        "stock": 99,
+        "totalSold": 1,
+        "unit": "gram",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p><strong>*&nbsp;Hướng dẫn giã đông:</strong></p><p><u>Cách1</u><span style=\"color: rgb(51, 51, 51);\">&nbsp;Lấy thịt từ ngăn đông chuyển lên ngăn mát cho đến khi khối thịt mềm ra. Bạn có thể lấy thịt ra khỏi ngăn đông từ ngày hôm trước, để lên ngăn mát rã đông cho ngày hôm sau.Thịt, gia cầm, cá, thịt xay sau khi đã rã đông bằng cách này có thể để an toàn trong ngăn mát tủ lạnh thêm 2-3 ngày nữa trước khi bạn nấu.Thêm một ưu việt nữa là nếu bạn không muốn nấu miếng thịt đã rã đông này, bạn có thể an toàn chuyển vào ngăn đá làm đông trở lại.</span></p><p><u style=\"color: rgb(51, 51, 51);\">Cách 2</u><span style=\"color: rgb(51, 51, 51);\">&nbsp;Ngâm túi thịt còn dán kín vào nước ấm 40 độ C khoảng 30 phút sau đó cắt túi lấy thịt sử dụng.&nbsp;</span></p><p><u style=\"color: rgb(51, 51, 51);\">Cách 3</u><span style=\"color: rgb(51, 51, 51);\">&nbsp;Ngâm trực tiếp miếng thịt vào nước ấm 40 độ C có pha thêm 01 thìa đường trong vòng 10 phút, đối với cá thì dùng 1 thìa muối, rồi chuyển ra chế biến</span></p><p>&nbsp;</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "gram"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 557,
+      "sellerRate": 4.7,
+      "sellerName": "True Food – Thực phẩm sạch Minh Bạch",
+      "warehouseId": "dd8aa081-0610-4ed4-b1b7-80766b59a463",
+      "warehouseAddress": "Số 17 BT 4-1 Khu đô thị Trung Văn, Trung Văn, Nam Từ Liêm, Hà Nội",
+      "distance": 6956,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 66.75000000000138,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 54917,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Thịt dẻ sườn trâu BlackGold Ấn Độ (500gr) ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>&nbsp;Xuất xứ: Ấn Độ </p><p>- Đóng gói: 500g</p><p>- Bảo quản: -18 độ C</p><p>- Hạn sử dụng: xem trên bao bì</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[\"HACCP\"]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/6282f2bb-1c43-4640-bcba-4e251f859e07.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Thịt dẻ sườn trâu BlackGold Ấn Độ (500gr) ",
+    "description": "<p>&nbsp;Xuất xứ: Ấn Độ </p><p>- Đóng gói: 500g</p><p>- Bảo quản: -18 độ C</p><p>- Hạn sử dụng: xem trên bao bì</p>",
+    "imageUrl": "https://images.f99.com.vn/images/6282f2bb-1c43-4640-bcba-4e251f859e07.jpg",
+    "price": 62500,
+    "oldPrice": 75000,
+    "discountPercent": 17,
+    "stock": 99,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "gram",
+    "sku": "",
+    "origin": "",
+    "sellerId": 557,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><strong>*&nbsp;Hướng dẫn giã đông:</strong></p><p><u>Cách1</u><span style=\"color: rgb(51, 51, 51);\">&nbsp;Lấy thịt từ ngăn đông chuyển lên ngăn mát cho đến khi khối thịt mềm ra. Bạn có thể lấy thịt ra khỏi ngăn đông từ ngày hôm trước, để lên ngăn mát rã đông cho ngày hôm sau.Thịt, gia cầm, cá, thịt xay sau khi đã rã đông bằng cách này có thể để an toàn trong ngăn mát tủ lạnh thêm 2-3 ngày nữa trước khi bạn nấu.Thêm một ưu việt nữa là nếu bạn không muốn nấu miếng thịt đã rã đông này, bạn có thể an toàn chuyển vào ngăn đá làm đông trở lại.</span></p><p><u style=\"color: rgb(51, 51, 51);\">Cách 2</u><span style=\"color: rgb(51, 51, 51);\">&nbsp;Ngâm túi thịt còn dán kín vào nước ấm 40 độ C khoảng 30 phút sau đó cắt túi lấy thịt sử dụng.&nbsp;</span></p><p><u style=\"color: rgb(51, 51, 51);\">Cách 3</u><span style=\"color: rgb(51, 51, 51);\">&nbsp;Ngâm trực tiếp miếng thịt vào nước ấm 40 độ C có pha thêm 01 thìa đường trong vòng 10 phút, đối với cá thì dùng 1 thìa muối, rồi chuyển ra chế biến</span></p><p>&nbsp;</p>",
+    "category": {
+      "id": 130,
+      "name": "Thịt trâu",
+      "imageUrl": "https://images.f99.com.vn/notification-images/271e20b8-3520-4eab-a5ee-b1f4c18ab90a.png",
+      "parentId": 127,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [
+      "HACCP"
+    ],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/6282f2bb-1c43-4640-bcba-4e251f859e07.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/54917",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "gram"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 54918,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 gram",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "gram",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 gram",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 62500,
+        "oldPrice": 75000,
+        "discountPercent": 17,
+        "stock": 99,
+        "totalSold": 0,
+        "unit": "gram",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p><strong>*&nbsp;Hướng dẫn giã đông:</strong></p><p><u>Cách1</u><span style=\"color: rgb(51, 51, 51);\">&nbsp;Lấy thịt từ ngăn đông chuyển lên ngăn mát cho đến khi khối thịt mềm ra. Bạn có thể lấy thịt ra khỏi ngăn đông từ ngày hôm trước, để lên ngăn mát rã đông cho ngày hôm sau.Thịt, gia cầm, cá, thịt xay sau khi đã rã đông bằng cách này có thể để an toàn trong ngăn mát tủ lạnh thêm 2-3 ngày nữa trước khi bạn nấu.Thêm một ưu việt nữa là nếu bạn không muốn nấu miếng thịt đã rã đông này, bạn có thể an toàn chuyển vào ngăn đá làm đông trở lại.</span></p><p><u style=\"color: rgb(51, 51, 51);\">Cách 2</u><span style=\"color: rgb(51, 51, 51);\">&nbsp;Ngâm túi thịt còn dán kín vào nước ấm 40 độ C khoảng 30 phút sau đó cắt túi lấy thịt sử dụng.&nbsp;</span></p><p><u style=\"color: rgb(51, 51, 51);\">Cách 3</u><span style=\"color: rgb(51, 51, 51);\">&nbsp;Ngâm trực tiếp miếng thịt vào nước ấm 40 độ C có pha thêm 01 thìa đường trong vòng 10 phút, đối với cá thì dùng 1 thìa muối, rồi chuyển ra chế biến</span></p><p>&nbsp;</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "gram"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 557,
+      "sellerRate": 4.7,
+      "sellerName": "True Food – Thực phẩm sạch Minh Bạch",
+      "warehouseId": "dd8aa081-0610-4ed4-b1b7-80766b59a463",
+      "warehouseAddress": "Số 17 BT 4-1 Khu đô thị Trung Văn, Trung Văn, Nam Từ Liêm, Hà Nội",
+      "distance": 6956,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 66.75000000000138,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 54920,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Thịt nạm trâu Big Sun Ấn Độ (1kg) ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Xuất xứ: Ấn Độ</p><p>- Đóng gói: 500g</p><p>- Bảo quản: -18 độ C</p><p>- Hạn sử dụng: xem trên bao bì</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[\"HACCP\"]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/8de7b8fa-b284-4b4b-9911-cb620d8d50bb.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Thịt nạm trâu Big Sun Ấn Độ (1kg) ",
+    "description": "<p>Xuất xứ: Ấn Độ</p><p>- Đóng gói: 500g</p><p>- Bảo quản: -18 độ C</p><p>- Hạn sử dụng: xem trên bao bì</p>",
+    "imageUrl": "https://images.f99.com.vn/images/8de7b8fa-b284-4b4b-9911-cb620d8d50bb.jpg",
+    "price": 110000,
+    "oldPrice": 120000,
+    "discountPercent": 8,
+    "stock": 99,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 557,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><strong>*&nbsp;Hướng dẫn giã đông:</strong></p><p><u>Cách1</u><span style=\"color: rgb(51, 51, 51);\">&nbsp;Lấy thịt từ ngăn đông chuyển lên ngăn mát cho đến khi khối thịt mềm ra. Bạn có thể lấy thịt ra khỏi ngăn đông từ ngày hôm trước, để lên ngăn mát rã đông cho ngày hôm sau.Thịt, gia cầm, cá, thịt xay sau khi đã rã đông bằng cách này có thể để an toàn trong ngăn mát tủ lạnh thêm 2-3 ngày nữa trước khi bạn nấu.Thêm một ưu việt nữa là nếu bạn không muốn nấu miếng thịt đã rã đông này, bạn có thể an toàn chuyển vào ngăn đá làm đông trở lại.</span></p><p><u style=\"color: rgb(51, 51, 51);\">Cách 2</u><span style=\"color: rgb(51, 51, 51);\">&nbsp;Ngâm túi thịt còn dán kín vào nước ấm 40 độ C khoảng 30 phút sau đó cắt túi lấy thịt sử dụng.&nbsp;</span></p><p><u style=\"color: rgb(51, 51, 51);\">Cách 3</u><span style=\"color: rgb(51, 51, 51);\">&nbsp;Ngâm trực tiếp miếng thịt vào nước ấm 40 độ C có pha thêm 01 thìa đường trong vòng 10 phút, đối với cá thì dùng 1 thìa muối, rồi chuyển ra chế biến</span></p><p>&nbsp;</p>",
+    "category": {
+      "id": 130,
+      "name": "Thịt trâu",
+      "imageUrl": "https://images.f99.com.vn/notification-images/271e20b8-3520-4eab-a5ee-b1f4c18ab90a.png",
+      "parentId": 127,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [
+      "HACCP"
+    ],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/8de7b8fa-b284-4b4b-9911-cb620d8d50bb.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/54920",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 54921,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 110000,
+        "oldPrice": 120000,
+        "discountPercent": 8,
+        "stock": 99,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p><strong>*&nbsp;Hướng dẫn giã đông:</strong></p><p><u>Cách1</u><span style=\"color: rgb(51, 51, 51);\">&nbsp;Lấy thịt từ ngăn đông chuyển lên ngăn mát cho đến khi khối thịt mềm ra. Bạn có thể lấy thịt ra khỏi ngăn đông từ ngày hôm trước, để lên ngăn mát rã đông cho ngày hôm sau.Thịt, gia cầm, cá, thịt xay sau khi đã rã đông bằng cách này có thể để an toàn trong ngăn mát tủ lạnh thêm 2-3 ngày nữa trước khi bạn nấu.Thêm một ưu việt nữa là nếu bạn không muốn nấu miếng thịt đã rã đông này, bạn có thể an toàn chuyển vào ngăn đá làm đông trở lại.</span></p><p><u style=\"color: rgb(51, 51, 51);\">Cách 2</u><span style=\"color: rgb(51, 51, 51);\">&nbsp;Ngâm túi thịt còn dán kín vào nước ấm 40 độ C khoảng 30 phút sau đó cắt túi lấy thịt sử dụng.&nbsp;</span></p><p><u style=\"color: rgb(51, 51, 51);\">Cách 3</u><span style=\"color: rgb(51, 51, 51);\">&nbsp;Ngâm trực tiếp miếng thịt vào nước ấm 40 độ C có pha thêm 01 thìa đường trong vòng 10 phút, đối với cá thì dùng 1 thìa muối, rồi chuyển ra chế biến</span></p><p>&nbsp;</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 557,
+      "sellerRate": 4.7,
+      "sellerName": "True Food – Thực phẩm sạch Minh Bạch",
+      "warehouseId": "dd8aa081-0610-4ed4-b1b7-80766b59a463",
+      "warehouseAddress": "Số 17 BT 4-1 Khu đô thị Trung Văn, Trung Văn, Nam Từ Liêm, Hà Nội",
+      "distance": 6956,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 66.75000000000138,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

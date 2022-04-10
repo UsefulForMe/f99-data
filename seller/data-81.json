@@ -1,0 +1,35 @@
+{
+  "id": 81,
+  "name": "3F FRUITS",
+  "logo": "https://cdn.f99.link/groupbuy-images/953594d7-fd88-46b3-9a2f-4ccbeebb65fb.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "3FFruits là chuỗi cửa hàng chuyên cung cấp trái cây nhập khẩu, trái cây nội địa và thực phẩm tươi ngon, nguồn gốc xuất sứ rõ ràng, có cam kết chất lượng và bao bù đổi trả. Giá bán siêu cạnh tranh.",
+  "headQuarter": "SO 02 - T1 - Khu đô thị TTTM Times city - 458 Minh Khai - Phường Vĩnh Tuy - quận Hai Bà Trưng, TP Hà Nội\t, Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+  "email": "leducvuong89@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.7,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 3
+}

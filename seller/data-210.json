@@ -1,0 +1,35 @@
+{
+  "id": 210,
+  "name": "Viet Gourmet",
+  "logo": "https://cdn.f99.link/groupbuy-images/48040c0b-adc0-4ede-81b7-a5197c3cc725.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Công ty kinh doanh thực phẩm rượu vang, trái cây sấy dẻo, cấp đông",
+  "headQuarter": "A14 Lô 3 Phố Trần Điền, KDT Định Công, Định Công, Hoàng Mai, Hà Nội",
+  "email": "khactoan315@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.3,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 15
+}

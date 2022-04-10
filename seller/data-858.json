@@ -1,0 +1,35 @@
+{
+  "id": 858,
+  "name": "EuroBeer",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/8007df97-efd0-4d45-8f3e-c51aad9fcf43.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Công ty cổ phần EuroBeer sản xuất và kinh doanh các loại bia tươi organic đẳng cấp châu Âu, made in Việt Nam. ",
+  "headQuarter": "2/245 Lạc Long Quân, Nghĩa Đô, Cầu Giấy, Hà Nội",
+  "email": "Eurobeer.vn@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "17:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

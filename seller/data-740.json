@@ -1,0 +1,35 @@
+{
+  "id": 740,
+  "name": "TP STORE CHUYÊN TOKBOKKI",
+  "logo": "https://cdn.f99.link/groupbuy-images/33cc1685-266a-4fb4-9158-45fc08d8b77e.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "TP STORE CỬA HÀNG TOKBOKKI THỰC PHẨM HÀN QUỐC ONLINE, NGUYÊN LIỆU NẤU BÁNH GẠO CAY \nCHUYÊN SỈ , LẺ : Tokbokki, Sốt nấu bánh gạo cay, Kim chi Hàn, Chả cá Hàn, Xiên que, Viên thả lẩu Malaysia....\n",
+  "headQuarter": "69C Văn Thân, 8, Quận 6, Hồ Chí Minh",
+  "email": "Thaopham1103@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "17:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

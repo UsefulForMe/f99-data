@@ -1,0 +1,35 @@
+{
+  "id": 281,
+  "name": "Thực phẩm HBL Food",
+  "logo": "https://cdn.f99.link/groupbuy-images/d746571b-6b5b-499e-ab06-7e3504d1548b.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "HBL Food - Đơn vị cung cấp thực phẩm sạch và tiện lợi, hướng đến sự bổ dưỡng trong bữa ăn hằng ngày, đảm bảo năng lượng và dưỡng chất.",
+  "headQuarter": "LK 528 Khu A Yên Nghĩa, Yên Nghĩa, Hà Đông, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

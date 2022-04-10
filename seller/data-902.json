@@ -1,0 +1,35 @@
+{
+  "id": 902,
+  "name": "Bảo Như Market",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/45883c08-9424-4344-872f-d9eda789c96e.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Trái cây nhập khẩu, nước ép nguyên chất và thực phẩm sạch",
+  "headQuarter": "Số 424/28 Nguyễn Tất Thành, 18, Quận 4, Hồ Chí Minh",
+  "email": "quachbaonhu@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "22:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

@@ -1,0 +1,35 @@
+{
+  "id": 1011,
+  "name": "Thịt Gác Bếp Tây Bắc",
+  "logo": "https://images.f99.com.vn/groupbuy-images/85576376-5b50-4dcd-9474-f43619a2f2dc.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp các loại thịt gác bếp chuẩn Tây Bắc",
+  "headQuarter": "số 1/22 ngõ 28 Xuân La, P.Xuân La, Q.Tây Hồ, Hà Nội, Xuân La, Tây Hồ, Hà Nội",
+  "email": "thuylinh300793@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.3,
+  "availableTime": {
+    "openTime": "00:01",
+    "closeTime": "23:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 6
+}

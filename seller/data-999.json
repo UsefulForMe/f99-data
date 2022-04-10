@@ -1,0 +1,35 @@
+{
+  "id": 999,
+  "name": "Chimi Food",
+  "logo": "https://images.f99.com.vn/groupbuy-images/9418037d-5346-4d4a-933c-1cde0f8d1d70.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chimi Food chuyên cung cấp các nông sản vùng cao - Thực phẩm - Bánh kẹo Nhập khẩu.",
+  "headQuarter": "Số nhà 3 ngõ 163 đường Phạm Văn Đồng, phường Mai Dịch, quận Cầu Giấy, Hà Nội, Mai Dịch, Cầu Giấy, Hà Nội",
+  "email": "doanthiphuong87@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "20:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

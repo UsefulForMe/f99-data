@@ -1,0 +1,3189 @@
+[
+  {
+    "id": 10526,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Tinh bột nghệ Quảng Nam nguyên chất",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgba(0, 0, 0, 0.8);\">1. Xuất xứ:</strong><span style=\"color: rgba(0, 0, 0, 0.8);\"> Quảng Nam, Việt Nam</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">2. Đặc điểm nổi bật:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Tinh bột nghệ nguyên chất và sạch.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Tinh bột nghệ Quảng Nam được canh tác theo hướng tự nhiên quy trình chế biến đảm bảo.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- 100% nguyên chất, không pha trộn.</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">3. HSD: </strong><span style=\"color: rgba(0, 0, 0, 0.8);\">6 tháng kể từ ngày sản xuất (in trên bao bì)</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bảo quản: chứa hạt trong chum, lọ sành sứ hoặc thủy tinh, tránh tiếp xúc trực tiếp với ánh sáng hoặc không khí bên ngoài.</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">4. Thành phần dinh dưỡng và công dụng:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">✅ Tránh hậu sản: khả năng phá ứ huyết, kích thích tử cung co bóp, đẩy khí âm, huyết độc ra ngoài, tránh băng huyết.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">✅Bổ máu, hồi phục sức khỏe: Chất curcumin trong nghệ kích thích gia tăng hồng cầu, giúp bổ máu, nhanh khỏe mạnh, tránh hoa mắt, chóng mặt…</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">✅Đẹp da: uống tinh bột nghệ kết hợp đắp mặt nạ sẽ giúp các mẹ nhanh chóng loại bỏ nám da sa và làm mờ vết rạn do bầu bì.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">✅Nhanh lấy lại vóc dáng: Hoạt chất curcumin có khả năng tiêu mỡ, tăng chuyển hóa mỡ thừa, ngăn ngừa hình thành các mô mỡ mới.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">✅Làm lành vết mổ/vết rạch: Trong tinh bột nghệ chứa curcumin giúp kích thích ra da non, làm cho vết sinh mổ nhanh lành miệng và hạn chế sẹo.</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">5. Cam kết sản phẩm:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Được trồng theo hướng thự nhiên.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- 100% bột sạch, nguyên chất.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Tinh bột được đóng gói cẩn thận. Không chất bảo quản.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Đã được XL khảo sát tìm hiểu vùng trồng trọt, cam kết về chất lượng.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/42e37e15-c2de-4745-9db0-19df99f47b00.jpg\",\"https://images.f99.com.vn/images/26a778cb-8355-4bbe-8428-34f01824fa41.jpg\",\"https://images.f99.com.vn/images/a6e541ac-1f96-4494-82b4-595670bf758e.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"tinh bot nghe\",\"tinh bột nghệ\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Tinh bột nghệ Quảng Nam nguyên chất",
+    "description": "<p><strong style=\"color: rgba(0, 0, 0, 0.8);\">1. Xuất xứ:</strong><span style=\"color: rgba(0, 0, 0, 0.8);\"> Quảng Nam, Việt Nam</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">2. Đặc điểm nổi bật:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Tinh bột nghệ nguyên chất và sạch.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Tinh bột nghệ Quảng Nam được canh tác theo hướng tự nhiên quy trình chế biến đảm bảo.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- 100% nguyên chất, không pha trộn.</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">3. HSD: </strong><span style=\"color: rgba(0, 0, 0, 0.8);\">6 tháng kể từ ngày sản xuất (in trên bao bì)</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bảo quản: chứa hạt trong chum, lọ sành sứ hoặc thủy tinh, tránh tiếp xúc trực tiếp với ánh sáng hoặc không khí bên ngoài.</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">4. Thành phần dinh dưỡng và công dụng:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">✅ Tránh hậu sản: khả năng phá ứ huyết, kích thích tử cung co bóp, đẩy khí âm, huyết độc ra ngoài, tránh băng huyết.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">✅Bổ máu, hồi phục sức khỏe: Chất curcumin trong nghệ kích thích gia tăng hồng cầu, giúp bổ máu, nhanh khỏe mạnh, tránh hoa mắt, chóng mặt…</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">✅Đẹp da: uống tinh bột nghệ kết hợp đắp mặt nạ sẽ giúp các mẹ nhanh chóng loại bỏ nám da sa và làm mờ vết rạn do bầu bì.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">✅Nhanh lấy lại vóc dáng: Hoạt chất curcumin có khả năng tiêu mỡ, tăng chuyển hóa mỡ thừa, ngăn ngừa hình thành các mô mỡ mới.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">✅Làm lành vết mổ/vết rạch: Trong tinh bột nghệ chứa curcumin giúp kích thích ra da non, làm cho vết sinh mổ nhanh lành miệng và hạn chế sẹo.</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">5. Cam kết sản phẩm:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Được trồng theo hướng thự nhiên.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- 100% bột sạch, nguyên chất.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Tinh bột được đóng gói cẩn thận. Không chất bảo quản.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Đã được XL khảo sát tìm hiểu vùng trồng trọt, cam kết về chất lượng.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/42e37e15-c2de-4745-9db0-19df99f47b00.jpg",
+    "price": 130000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 90,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "túi",
+    "sku": "TINHBOTNGHE",
+    "origin": "",
+    "sellerId": 174,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bảo quản: chứa hạt trong chum, lọ sành sứ hoặc thủy tinh, tránh tiếp xúc trực tiếp với ánh sáng hoặc không khí bên ngoài. </span></p>",
+    "category": {
+      "id": 116,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0342daf4-6b0a-43c4-a7b1-3662a8afabfe.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "tinh bot nghe",
+      "tinh bột nghệ"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/42e37e15-c2de-4745-9db0-19df99f47b00.jpg",
+      "https://images.f99.com.vn/images/26a778cb-8355-4bbe-8428-34f01824fa41.jpg",
+      "https://images.f99.com.vn/images/a6e541ac-1f96-4494-82b4-595670bf758e.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/10526",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "150gr",
+          "1kg",
+          "500gr"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 10899,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "150gr",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "150gr",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "150gr",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 130000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 30,
+        "totalSold": 1,
+        "unit": "túi",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bảo quản: chứa hạt trong chum, lọ sành sứ hoặc thủy tinh, tránh tiếp xúc trực tiếp với ánh sáng hoặc không khí bên ngoài. </span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "150gr"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 10898,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500gr",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "500gr",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500gr",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 380000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 30,
+        "totalSold": 0,
+        "unit": "túi",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bảo quản: chứa hạt trong chum, lọ sành sứ hoặc thủy tinh, tránh tiếp xúc trực tiếp với ánh sáng hoặc không khí bên ngoài. </span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "500gr"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 10897,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 750000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 30,
+        "totalSold": 0,
+        "unit": "túi",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bảo quản: chứa hạt trong chum, lọ sành sứ hoặc thủy tinh, tránh tiếp xúc trực tiếp với ánh sáng hoặc không khí bên ngoài. </span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 174,
+      "sellerRate": 5,
+      "sellerName": "Xanh Lá",
+      "warehouseId": "986ff743-f897-48e9-b25d-94f98fd9bf56",
+      "warehouseAddress": "dong da, ĐẦU NGÕ 53 YÊN LÃNG, Số 6 Nguyễn Văn Tuyết, Trung Liệt, Đống Đa, Hà Nội",
+      "distance": 2430,
+      "warehouseDistrict": "dong da",
+      "reputation": 72.04971962616852,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 11206,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/67940013-2981-451a-9909-84df0457eb42.jpg\",\"https://images.f99.com.vn/images/2a683b98-8264-403c-b61d-ef3844c96541.jpg\",\"https://images.f99.com.vn/images/4a2549e2-a2d4-4ffe-b368-938faec5c232.jpg\",\"https://images.f99.com.vn/images/c5055945-7662-4cde-a71e-2a6a569ba3c1.jpg\",\"https://images.f99.com.vn/images/497121cd-60fb-4042-a60d-5a0996aaf182.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: var(--primary-text);\">Xì dầu càng cua Nhất phẩm tiên- Hàng nội địa điểm 10 cho chất lượng đây ạ</span></p><p><span style=\"color: var(--primary-text);\">khách nhà em ăn hết xì dầu rồi cứ em oi lấy hàng đi cho c 1 thùng</span></p><p><span style=\"color: var(--primary-text);\">mà e phải nhập ít nhất 10 thùng mới dc giá tốt nên e gom 1-2 hôm e trả</span></p><p><span style=\"color: var(--primary-text);\">zá gom rẻ lắm: combo 5 chai chỉ </span><a href=\"https://www.facebook.com/hashtag/199k?__eep__=6&amp;__cft__[0]=AZWiUUK96yb2OtDPNBRJ-xRdRo5CCNxiz8q2ewJWBGgBCMDKT4WlJ1bnEP1o_6tToo6W36q7m6CD6zAxn87T9FP-OcvQtqyrKg-LTji_QdsJMxcjjYJ5j0jJuA0Cn5eofLk&amp;__tn__=*NK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">#199k</a></p><p><span style=\"color: var(--primary-text);\">chai 500ml</span></p><p><span style=\"color: var(--primary-text);\">thùng 12 chai e tính zá sỉ</span></p><p><span style=\"color: var(--primary-text);\">ăn loại này là k còn muốn ăn loại nào luôn ạ</span></p><p><span style=\"color: var(--primary-text);\">trước ăn đi ăn nhà hàng có 1 thứ nc chấm ngon kinh khủng hỏi ra mới biết là xì dầu này. </span></p><p><span style=\"color: var(--primary-text);\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/taa/1.5/16/1f449.png\" alt=\"👉\" height=\"16\" width=\"16\"> Là một loại nước chấm được sản xuất bằng cách cho hỗn hợp đậu tương , ngũ cốc rang chín ,nước và muối lên men .</span></p><p><span style=\"color: var(--primary-text);\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/taa/1.5/16/1f449.png\" alt=\"👉\" height=\"16\" width=\"16\"> Xì dầu dùng để chấm xào , nấu và đặc biệt tạo màu trong các món kho món xào </span></p><p>- Ngon sánh đến giọt cuối cùng , bản thân mình và các bạn cùng phòng ngày nào cũng ăn xì dầu này.</p><p><a href=\"https://www.facebook.com/photo/?fbid=4046675242112732&amp;set=pcb.4046675708779352&amp;__cft__[0]=AZWiUUK96yb2OtDPNBRJ-xRdRo5CCNxiz8q2ewJWBGgBCMDKT4WlJ1bnEP1o_6tToo6W36q7m6CD6zAxn87T9FP-OcvQtqyrKg-LTji_QdsJMxcjjYJ5j0jJuA0Cn5eofLk&amp;__tn__=*bH-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(56, 88, 152);\"><img src=\"https://scontent.fhan14-2.fna.fbcdn.net/v/t1.6435-9/p843x403/209267904_4046675245446065_1579598791323422070_n.jpg?_nc_cat=105&amp;ccb=1-3&amp;_nc_sid=8bfeb9&amp;_nc_ohc=9ddSAK-iPggAX9EPvRg&amp;tn=BzEqjEEyv3YZqSbo&amp;_nc_ht=scontent.fhan14-2.fna&amp;tp=6&amp;oh=3aa81f4cf6d26d456b40b52fa26f7dda&amp;oe=60E60F44\"></a></p><p><a href=\"https://www.facebook.com/photo/?fbid=4046675432112713&amp;set=pcb.4046675708779352&amp;__cft__[0]=AZWiUUK96yb2OtDPNBRJ-xRdRo5CCNxiz8q2ewJWBGgBCMDKT4WlJ1bnEP1o_6tToo6W36q7m6CD6zAxn87T9FP-OcvQtqyrKg-LTji_QdsJMxcjjYJ5j0jJuA0Cn5eofLk&amp;__tn__=*bH-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(56, 88, 152);\"><img src=\"https://scontent.fhan14-2.fna.fbcdn.net/v/t1.6435-9/209854865_4046675435446046_8466290497921558246_n.jpg?_nc_cat=110&amp;ccb=1-3&amp;_nc_sid=8bfeb9&amp;_nc_ohc=pA-UdbdOs-4AX_HOfqG&amp;tn=BzEqjEEyv3YZqSbo&amp;_nc_ht=scontent.fhan14-2.fna&amp;oh=bb8ddeddb93e1ce993f93fb48f51f8af&amp;oe=60E5B5CD\"></a></p><p><a href=\"https://www.facebook.com/photo/?fbid=4046675232112733&amp;set=pcb.4046675708779352&amp;__cft__[0]=AZWiUUK96yb2OtDPNBRJ-xRdRo5CCNxiz8q2ewJWBGgBCMDKT4WlJ1bnEP1o_6tToo6W36q7m6CD6zAxn87T9FP-OcvQtqyrKg-LTji_QdsJMxcjjYJ5j0jJuA0Cn5eofLk&amp;__tn__=*bH-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(56, 88, 152);\"><img src=\"https://scontent.fhan14-2.fna.fbcdn.net/v/t1.6435-9/201808566_4046675238779399_7802207392010581299_n.jpg?_nc_cat=111&amp;ccb=1-3&amp;_nc_sid=8bfeb9&amp;_nc_ohc=BUBN7NzZfXYAX8ejPUS&amp;_nc_ht=scontent.fhan14-2.fna&amp;oh=e77101c37be645a277c212ab8b9c9d13&amp;oe=60E5D440\"></a></p><p><a href=\"https://www.facebook.com/photo/?fbid=4046675462112710&amp;set=pcb.4046675708779352&amp;__cft__[0]=AZWiUUK96yb2OtDPNBRJ-xRdRo5CCNxiz8q2ewJWBGgBCMDKT4WlJ1bnEP1o_6tToo6W36q7m6CD6zAxn87T9FP-OcvQtqyrKg-LTji_QdsJMxcjjYJ5j0jJuA0Cn5eofLk&amp;__tn__=*bH-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(56, 88, 152);\"><img src=\"https://scontent.fhan14-2.fna.fbcdn.net/v/t1.6435-9/203473094_4046675465446043_6486708553449840933_n.jpg?_nc_cat=104&amp;ccb=1-3&amp;_nc_sid=8bfeb9&amp;_nc_ohc=bbx1LnapVbkAX_tkVal&amp;tn=BzEqjEEyv3YZqSbo&amp;_nc_ht=scontent.fhan14-2.fna&amp;oh=de22e52b4d053e754fecddde4bd58da7&amp;oe=60E5F022\"></a></p><p><a href=\"https://www.facebook.com/photo/?fbid=4046675568779366&amp;set=pcb.4046675708779352&amp;__cft__[0]=AZWiUUK96yb2OtDPNBRJ-xRdRo5CCNxiz8q2ewJWBGgBCMDKT4WlJ1bnEP1o_6tToo6W36q7m6CD6zAxn87T9FP-OcvQtqyrKg-LTji_QdsJMxcjjYJ5j0jJuA0Cn5eofLk&amp;__tn__=*bH-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(56, 88, 152);\"><img src=\"https://scontent.fhan14-2.fna.fbcdn.net/v/t1.6435-9/200524461_4046675572112699_2637522188956167867_n.jpg?_nc_cat=110&amp;ccb=1-3&amp;_nc_sid=8bfeb9&amp;_nc_ohc=wXvPFmX31LEAX-WUOkE&amp;_nc_ht=scontent.fhan14-2.fna&amp;oh=2d99e6767fa89bc5ec262b31dafb6d92&amp;oe=60E78784\"></a></p><p><img src=\"data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 16 16'%3e%3cdefs%3e%3clinearGradient id='a' x1='50%25' x2='50%25' y1='0%25' y2='100%25'%3e%3cstop offset='0%25' stop-color='%2318AFFF'/%3e%3cstop offset='100%25' stop-color='%230062DF'/%3e%3c/linearGradient%3e%3cfilter id='c' width='118.8%25' height='118.8%25' x='-9.4%25' y='-9.4%25' filterUnits='objectBoundingBox'%3e%3cfeGaussianBlur in='SourceAlpha' result='shadowBlurInner1' stdDeviation='1'/%3e%3cfeOffset dy='-1' in='shadowBlurInner1' result='shadowOffsetInner1'/%3e%3cfeComposite in='shadowOffsetInner1' in2='SourceAlpha' k2='-1' k3='1' operator='arithmetic' result='shadowInnerInner1'/%3e%3cfeColorMatrix in='shadowInnerInner1' values='0 0 0 0 0 0 0 0 0 0.299356041 0 0 0 0 0.681187726 0 0 0 0.3495684 0'/%3e%3c/filter%3e%3cpath id='b' d='M8 0a8 8 0 00-8 8 8 8 0 1016 0 8 8 0 00-8-8z'/%3e%3c/defs%3e%3cg fill='none'%3e%3cuse fill='url(%23a)' xlink:href='%23b'/%3e%3cuse fill='black' filter='url(%23c)' xlink:href='%23b'/%3e%3cpath fill='white' d='M12.162 7.338c.176.123.338.245.338.674 0 .43-.229.604-.474.725a.73.73 0 01.089.546c-.077.344-.392.611-.672.69.121.194.159.385.015.62-.185.295-.346.407-1.058.407H7.5c-.988 0-1.5-.546-1.5-1V7.665c0-1.23 1.467-2.275 1.467-3.13L7.361 3.47c-.005-.065.008-.224.058-.27.08-.079.301-.2.635-.2.218 0 .363.041.534.123.581.277.732.978.732 1.542 0 .271-.414 1.083-.47 1.364 0 0 .867-.192 1.879-.199 1.061-.006 1.749.19 1.749.842 0 .261-.219.523-.316.666zM3.6 7h.8a.6.6 0 01.6.6v3.8a.6.6 0 01-.6.6h-.8a.6.6 0 01-.6-.6V7.6a.6.6 0 01.6-.6z'/%3e%3c/g%3e%3c/svg%3e\" height=\"18\" width=\"18\"></p><p>6</p><p><span style=\"background-color: var(--card-background);\">Bạn, Phạm Thị Hương, Hoàng Phan Lam Anh&nbsp;và&nbsp;3 người khác</span></p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "XÌ DẦU CÀNG CUA",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "XÌ DẦU CÀNG CUA",
+    "description": "<p><span style=\"color: var(--primary-text);\">Xì dầu càng cua Nhất phẩm tiên- Hàng nội địa điểm 10 cho chất lượng đây ạ</span></p><p><span style=\"color: var(--primary-text);\">khách nhà em ăn hết xì dầu rồi cứ em oi lấy hàng đi cho c 1 thùng</span></p><p><span style=\"color: var(--primary-text);\">mà e phải nhập ít nhất 10 thùng mới dc giá tốt nên e gom 1-2 hôm e trả</span></p><p><span style=\"color: var(--primary-text);\">zá gom rẻ lắm: combo 5 chai chỉ </span><a href=\"https://www.facebook.com/hashtag/199k?__eep__=6&amp;__cft__[0]=AZWiUUK96yb2OtDPNBRJ-xRdRo5CCNxiz8q2ewJWBGgBCMDKT4WlJ1bnEP1o_6tToo6W36q7m6CD6zAxn87T9FP-OcvQtqyrKg-LTji_QdsJMxcjjYJ5j0jJuA0Cn5eofLk&amp;__tn__=*NK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">#199k</a></p><p><span style=\"color: var(--primary-text);\">chai 500ml</span></p><p><span style=\"color: var(--primary-text);\">thùng 12 chai e tính zá sỉ</span></p><p><span style=\"color: var(--primary-text);\">ăn loại này là k còn muốn ăn loại nào luôn ạ</span></p><p><span style=\"color: var(--primary-text);\">trước ăn đi ăn nhà hàng có 1 thứ nc chấm ngon kinh khủng hỏi ra mới biết là xì dầu này. </span></p><p><span style=\"color: var(--primary-text);\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/taa/1.5/16/1f449.png\" alt=\"👉\" height=\"16\" width=\"16\"> Là một loại nước chấm được sản xuất bằng cách cho hỗn hợp đậu tương , ngũ cốc rang chín ,nước và muối lên men .</span></p><p><span style=\"color: var(--primary-text);\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/taa/1.5/16/1f449.png\" alt=\"👉\" height=\"16\" width=\"16\"> Xì dầu dùng để chấm xào , nấu và đặc biệt tạo màu trong các món kho món xào </span></p><p>- Ngon sánh đến giọt cuối cùng , bản thân mình và các bạn cùng phòng ngày nào cũng ăn xì dầu này.</p><p><a href=\"https://www.facebook.com/photo/?fbid=4046675242112732&amp;set=pcb.4046675708779352&amp;__cft__[0]=AZWiUUK96yb2OtDPNBRJ-xRdRo5CCNxiz8q2ewJWBGgBCMDKT4WlJ1bnEP1o_6tToo6W36q7m6CD6zAxn87T9FP-OcvQtqyrKg-LTji_QdsJMxcjjYJ5j0jJuA0Cn5eofLk&amp;__tn__=*bH-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(56, 88, 152);\"><img src=\"https://scontent.fhan14-2.fna.fbcdn.net/v/t1.6435-9/p843x403/209267904_4046675245446065_1579598791323422070_n.jpg?_nc_cat=105&amp;ccb=1-3&amp;_nc_sid=8bfeb9&amp;_nc_ohc=9ddSAK-iPggAX9EPvRg&amp;tn=BzEqjEEyv3YZqSbo&amp;_nc_ht=scontent.fhan14-2.fna&amp;tp=6&amp;oh=3aa81f4cf6d26d456b40b52fa26f7dda&amp;oe=60E60F44\"></a></p><p><a href=\"https://www.facebook.com/photo/?fbid=4046675432112713&amp;set=pcb.4046675708779352&amp;__cft__[0]=AZWiUUK96yb2OtDPNBRJ-xRdRo5CCNxiz8q2ewJWBGgBCMDKT4WlJ1bnEP1o_6tToo6W36q7m6CD6zAxn87T9FP-OcvQtqyrKg-LTji_QdsJMxcjjYJ5j0jJuA0Cn5eofLk&amp;__tn__=*bH-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(56, 88, 152);\"><img src=\"https://scontent.fhan14-2.fna.fbcdn.net/v/t1.6435-9/209854865_4046675435446046_8466290497921558246_n.jpg?_nc_cat=110&amp;ccb=1-3&amp;_nc_sid=8bfeb9&amp;_nc_ohc=pA-UdbdOs-4AX_HOfqG&amp;tn=BzEqjEEyv3YZqSbo&amp;_nc_ht=scontent.fhan14-2.fna&amp;oh=bb8ddeddb93e1ce993f93fb48f51f8af&amp;oe=60E5B5CD\"></a></p><p><a href=\"https://www.facebook.com/photo/?fbid=4046675232112733&amp;set=pcb.4046675708779352&amp;__cft__[0]=AZWiUUK96yb2OtDPNBRJ-xRdRo5CCNxiz8q2ewJWBGgBCMDKT4WlJ1bnEP1o_6tToo6W36q7m6CD6zAxn87T9FP-OcvQtqyrKg-LTji_QdsJMxcjjYJ5j0jJuA0Cn5eofLk&amp;__tn__=*bH-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(56, 88, 152);\"><img src=\"https://scontent.fhan14-2.fna.fbcdn.net/v/t1.6435-9/201808566_4046675238779399_7802207392010581299_n.jpg?_nc_cat=111&amp;ccb=1-3&amp;_nc_sid=8bfeb9&amp;_nc_ohc=BUBN7NzZfXYAX8ejPUS&amp;_nc_ht=scontent.fhan14-2.fna&amp;oh=e77101c37be645a277c212ab8b9c9d13&amp;oe=60E5D440\"></a></p><p><a href=\"https://www.facebook.com/photo/?fbid=4046675462112710&amp;set=pcb.4046675708779352&amp;__cft__[0]=AZWiUUK96yb2OtDPNBRJ-xRdRo5CCNxiz8q2ewJWBGgBCMDKT4WlJ1bnEP1o_6tToo6W36q7m6CD6zAxn87T9FP-OcvQtqyrKg-LTji_QdsJMxcjjYJ5j0jJuA0Cn5eofLk&amp;__tn__=*bH-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(56, 88, 152);\"><img src=\"https://scontent.fhan14-2.fna.fbcdn.net/v/t1.6435-9/203473094_4046675465446043_6486708553449840933_n.jpg?_nc_cat=104&amp;ccb=1-3&amp;_nc_sid=8bfeb9&amp;_nc_ohc=bbx1LnapVbkAX_tkVal&amp;tn=BzEqjEEyv3YZqSbo&amp;_nc_ht=scontent.fhan14-2.fna&amp;oh=de22e52b4d053e754fecddde4bd58da7&amp;oe=60E5F022\"></a></p><p><a href=\"https://www.facebook.com/photo/?fbid=4046675568779366&amp;set=pcb.4046675708779352&amp;__cft__[0]=AZWiUUK96yb2OtDPNBRJ-xRdRo5CCNxiz8q2ewJWBGgBCMDKT4WlJ1bnEP1o_6tToo6W36q7m6CD6zAxn87T9FP-OcvQtqyrKg-LTji_QdsJMxcjjYJ5j0jJuA0Cn5eofLk&amp;__tn__=*bH-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(56, 88, 152);\"><img src=\"https://scontent.fhan14-2.fna.fbcdn.net/v/t1.6435-9/200524461_4046675572112699_2637522188956167867_n.jpg?_nc_cat=110&amp;ccb=1-3&amp;_nc_sid=8bfeb9&amp;_nc_ohc=wXvPFmX31LEAX-WUOkE&amp;_nc_ht=scontent.fhan14-2.fna&amp;oh=2d99e6767fa89bc5ec262b31dafb6d92&amp;oe=60E78784\"></a></p><p><img src=\"data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 16 16'%3e%3cdefs%3e%3clinearGradient id='a' x1='50%25' x2='50%25' y1='0%25' y2='100%25'%3e%3cstop offset='0%25' stop-color='%2318AFFF'/%3e%3cstop offset='100%25' stop-color='%230062DF'/%3e%3c/linearGradient%3e%3cfilter id='c' width='118.8%25' height='118.8%25' x='-9.4%25' y='-9.4%25' filterUnits='objectBoundingBox'%3e%3cfeGaussianBlur in='SourceAlpha' result='shadowBlurInner1' stdDeviation='1'/%3e%3cfeOffset dy='-1' in='shadowBlurInner1' result='shadowOffsetInner1'/%3e%3cfeComposite in='shadowOffsetInner1' in2='SourceAlpha' k2='-1' k3='1' operator='arithmetic' result='shadowInnerInner1'/%3e%3cfeColorMatrix in='shadowInnerInner1' values='0 0 0 0 0 0 0 0 0 0.299356041 0 0 0 0 0.681187726 0 0 0 0.3495684 0'/%3e%3c/filter%3e%3cpath id='b' d='M8 0a8 8 0 00-8 8 8 8 0 1016 0 8 8 0 00-8-8z'/%3e%3c/defs%3e%3cg fill='none'%3e%3cuse fill='url(%23a)' xlink:href='%23b'/%3e%3cuse fill='black' filter='url(%23c)' xlink:href='%23b'/%3e%3cpath fill='white' d='M12.162 7.338c.176.123.338.245.338.674 0 .43-.229.604-.474.725a.73.73 0 01.089.546c-.077.344-.392.611-.672.69.121.194.159.385.015.62-.185.295-.346.407-1.058.407H7.5c-.988 0-1.5-.546-1.5-1V7.665c0-1.23 1.467-2.275 1.467-3.13L7.361 3.47c-.005-.065.008-.224.058-.27.08-.079.301-.2.635-.2.218 0 .363.041.534.123.581.277.732.978.732 1.542 0 .271-.414 1.083-.47 1.364 0 0 .867-.192 1.879-.199 1.061-.006 1.749.19 1.749.842 0 .261-.219.523-.316.666zM3.6 7h.8a.6.6 0 01.6.6v3.8a.6.6 0 01-.6.6h-.8a.6.6 0 01-.6-.6V7.6a.6.6 0 01.6-.6z'/%3e%3c/g%3e%3c/svg%3e\" height=\"18\" width=\"18\"></p><p>6</p><p><span style=\"background-color: var(--card-background);\">Bạn, Phạm Thị Hương, Hoàng Phan Lam Anh&nbsp;và&nbsp;3 người khác</span></p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/67940013-2981-451a-9909-84df0457eb42.jpg",
+    "price": 45000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 60,
+    "totalSold": 7,
+    "maxQuantityPerUser": null,
+    "unit": "CHAI",
+    "sku": "",
+    "origin": "",
+    "sellerId": 169,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>ĐỂ NƠI KHÔ RÁO...</p>",
+    "category": {
+      "id": 116,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0342daf4-6b0a-43c4-a7b1-3662a8afabfe.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/67940013-2981-451a-9909-84df0457eb42.jpg",
+      "https://images.f99.com.vn/images/2a683b98-8264-403c-b61d-ef3844c96541.jpg",
+      "https://images.f99.com.vn/images/4a2549e2-a2d4-4ffe-b368-938faec5c232.jpg",
+      "https://images.f99.com.vn/images/c5055945-7662-4cde-a71e-2a6a569ba3c1.jpg",
+      "https://images.f99.com.vn/images/497121cd-60fb-4042-a60d-5a0996aaf182.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/11206",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 169,
+      "sellerRate": 4.6,
+      "sellerName": "Hương Chiaki",
+      "warehouseId": "ae5e8b40-5ad0-4501-a5e1-49de15d5e660",
+      "warehouseAddress": "102A3 phố 8/3, Quỳnh Mai, Hai Bà Trưng, Hà Nội",
+      "distance": 4083,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 65.2382346420427,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 11226,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/abf94377-c7a0-4ea5-998c-bd2afd9c0117.jpg\",\"https://images.f99.com.vn/images/b3af2d87-699a-4f80-bfbd-2ccd85c2dc77.jpg\",\"https://images.f99.com.vn/images/2d8f338a-9834-4080-9b99-d8b5ad06a4e5.jpg\",\"https://images.f99.com.vn/images/46a7fd9b-6fb6-45c2-85bf-47a3edb2b8ab.jpg\",\"https://images.f99.com.vn/images/f247157b-6b3b-4522-a330-8b8339176f15.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Mì chính Nhật em về tiếp nhé chị em ớiiiii....</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t64/1.5/16/274c.png\" alt=\"❌\" height=\"16\" width=\"16\"> Khi vào bếp,chị em chọn loại nào cho món ăn?</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t77/1.5/16/1f33f.png\" alt=\"🌿\" height=\"16\" width=\"16\">Mì chính Ajinomoto Nhật Bản<img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t77/1.5/16/1f33f.png\" alt=\"🌿\" height=\"16\" width=\"16\"></p><p>- Vào bếp có đầy đủ dụng cụ và gia vị nấu ăn giúp bạn tự tin trổ tài nấu nướng của mình, nhưng không phải ai cũng thành thạo trong việc lựa chọn đúng loại gia vị cho các món. Song với Mì chính Ajinomoto Nhật bản 1kg, bạn hoàn toàn yên tâm nấu món ngon mỗi ngày thật đúng vị.</p><p>- Mì chính Ajinomoto Nhật Bản 1kg là gia vị mang thương hiệu Ajinomoto đã có mặt trên thị trường cách đây hơn 100 năm. Được chiết xuất từ mía-loại cây phổ biến, có vị ngọt dịu, hàm lượng glutamate cao giúp kích thích dạ dày, tiết dịch vị tiêu hóa, tuyến nước bọt làm tăng cảm giác thèm ăn, giúp bạn hấp thu nhanh các thức ăn, tích trữ năng lượng giúp cơ thể phát triển, khỏe mạnh.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/te0/1.5/16/1f340.png\" alt=\"🍀\" height=\"16\" width=\"16\">Chẳng cần đi đâu xa,cứ qua em là có tất cả<img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbf/1.5/16/1f91f.png\" alt=\"🤟\" height=\"16\" width=\"16\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t49/1.5/16/1f338.png\" alt=\"🌸\" height=\"16\" width=\"16\"> Mỗi túi 1kg <a href=\"https://www.facebook.com/hashtag/199k?__eep__=6&amp;__cft__[0]=AZUNy27c3uCegGFEBR8MlT9tn6-7ZrwCn55D52le5BugFCG_wRJnD0p6NRMVxmyR_F9Ey5IUEmio-CwY1FV1Gxwo5xZ4bjQe82lrFtNDrGoGsYpBjjucoSxxQHDPlXT610o&amp;__tn__=*NK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">#1</a>85K,được nhiều  nhắm ah</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "MÌ CHÍNH NHẬT",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "MÌ CHÍNH NHẬT",
+    "description": "<p>Mì chính Nhật em về tiếp nhé chị em ớiiiii....</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t64/1.5/16/274c.png\" alt=\"❌\" height=\"16\" width=\"16\"> Khi vào bếp,chị em chọn loại nào cho món ăn?</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t77/1.5/16/1f33f.png\" alt=\"🌿\" height=\"16\" width=\"16\">Mì chính Ajinomoto Nhật Bản<img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t77/1.5/16/1f33f.png\" alt=\"🌿\" height=\"16\" width=\"16\"></p><p>- Vào bếp có đầy đủ dụng cụ và gia vị nấu ăn giúp bạn tự tin trổ tài nấu nướng của mình, nhưng không phải ai cũng thành thạo trong việc lựa chọn đúng loại gia vị cho các món. Song với Mì chính Ajinomoto Nhật bản 1kg, bạn hoàn toàn yên tâm nấu món ngon mỗi ngày thật đúng vị.</p><p>- Mì chính Ajinomoto Nhật Bản 1kg là gia vị mang thương hiệu Ajinomoto đã có mặt trên thị trường cách đây hơn 100 năm. Được chiết xuất từ mía-loại cây phổ biến, có vị ngọt dịu, hàm lượng glutamate cao giúp kích thích dạ dày, tiết dịch vị tiêu hóa, tuyến nước bọt làm tăng cảm giác thèm ăn, giúp bạn hấp thu nhanh các thức ăn, tích trữ năng lượng giúp cơ thể phát triển, khỏe mạnh.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/te0/1.5/16/1f340.png\" alt=\"🍀\" height=\"16\" width=\"16\">Chẳng cần đi đâu xa,cứ qua em là có tất cả<img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbf/1.5/16/1f91f.png\" alt=\"🤟\" height=\"16\" width=\"16\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t49/1.5/16/1f338.png\" alt=\"🌸\" height=\"16\" width=\"16\"> Mỗi túi 1kg <a href=\"https://www.facebook.com/hashtag/199k?__eep__=6&amp;__cft__[0]=AZUNy27c3uCegGFEBR8MlT9tn6-7ZrwCn55D52le5BugFCG_wRJnD0p6NRMVxmyR_F9Ey5IUEmio-CwY1FV1Gxwo5xZ4bjQe82lrFtNDrGoGsYpBjjucoSxxQHDPlXT610o&amp;__tn__=*NK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">#1</a>85K,được nhiều  nhắm ah</p>",
+    "imageUrl": "https://images.f99.com.vn/images/abf94377-c7a0-4ea5-998c-bd2afd9c0117.jpg",
+    "price": 185000,
+    "oldPrice": 200000,
+    "discountPercent": 8,
+    "stock": 24,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "TÚI",
+    "sku": "",
+    "origin": "",
+    "sellerId": 169,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 116,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0342daf4-6b0a-43c4-a7b1-3662a8afabfe.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/abf94377-c7a0-4ea5-998c-bd2afd9c0117.jpg",
+      "https://images.f99.com.vn/images/b3af2d87-699a-4f80-bfbd-2ccd85c2dc77.jpg",
+      "https://images.f99.com.vn/images/2d8f338a-9834-4080-9b99-d8b5ad06a4e5.jpg",
+      "https://images.f99.com.vn/images/46a7fd9b-6fb6-45c2-85bf-47a3edb2b8ab.jpg",
+      "https://images.f99.com.vn/images/f247157b-6b3b-4522-a330-8b8339176f15.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/11226",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 169,
+      "sellerRate": 4.6,
+      "sellerName": "Hương Chiaki",
+      "warehouseId": "ae5e8b40-5ad0-4501-a5e1-49de15d5e660",
+      "warehouseAddress": "102A3 phố 8/3, Quỳnh Mai, Hai Bà Trưng, Hà Nội",
+      "distance": 4083,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 65.2382346420427,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 11230,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "HẠT NÊM NHẬT",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tff/1.5/16/1f469_1f3fb_200d_1f373.png\" alt=\"👩🏻‍🍳\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t7b/1.5/16/1f468_200d_1f373.png\" alt=\"👨‍🍳\" height=\"16\" width=\"16\">HẠT NÊM YOUKI Nhật Bản 500g ngon ngọt an toàn, cho những bữa ăn thêm đậm đà hương vị.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tce/1.5/16/1f618.png\" alt=\"😘\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tce/1.5/16/1f618.png\" alt=\"😘\" height=\"16\" width=\"16\">Mẹ e khen loại này lắm ạ. Ăn ngọt thanh chứ ko như hạt nêm Việt Nam! DÙNG E ẤY XONG K MUỐN DÙNG HN VIỆT NỮA.CÔNG NHẬN E ẤY ĐẬM ĐÀ KHÓ CƯỠNG.<img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t5b/1.5/16/1f60d.png\" alt=\"😍\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t5b/1.5/16/1f60d.png\" alt=\"😍\" height=\"16\" width=\"16\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t81/1.5/16/1f352.png\" alt=\"🍒\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t39/1.5/16/1f31f.png\" alt=\"🌟\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t4a/1.5/16/1f4af.png\" alt=\"💯\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t39/1.5/16/1f31f.png\" alt=\"🌟\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t81/1.5/16/1f352.png\" alt=\"🍒\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t4a/1.5/16/1f4af.png\" alt=\"💯\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t81/1.5/16/1f352.png\" alt=\"🍒\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t39/1.5/16/1f31f.png\" alt=\"🌟\" height=\"16\" width=\"16\"> <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t81/1.5/16/1f352.png\" alt=\"🍒\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t39/1.5/16/1f31f.png\" alt=\"🌟\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t4a/1.5/16/1f4af.png\" alt=\"💯\" height=\"16\" width=\"16\"></p><p>Hạt nêm Youki là 1 loại gia vị nổi tiếng của Nhật giúp món ăn ngon ngọt tự nhiên với thành phần chính được chiết xuất từ thịt gà, bột rau, muối, đường.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t52/1.5/16/1f48e.png\" alt=\"💎\" height=\"16\" width=\"16\">Đặc biệt hạt nêm Youki Nhật không chứa chất bảo quản, tạo màu giúp đảm bảo sức khỏe cho bé và cả gia đình bởi.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t39/1.5/16/1f31f.png\" alt=\"🌟\" height=\"16\" width=\"16\">+ Được chiết xuất từ thịt gà, đảm bảo chất lượng. Thịt gà vốn là loại thịt có chứa nhiều protein, amino- acid, nitơ, lipid, acid amin giúp món ăn thêm nhiều dinh dưỡng</p><p>+ Cung cấp lượng muối i - ốt vừa đủ, phòng ngừa bệnh bướu cổ</p><p>+ Có độ ngọt vừa phải, cân bằng hai vị của muối và đường</p><p>+ Mang lại hương vị thơm ngon, đậm đà hấp dẫn</p><p>+Không chất bảo quản, không chất tạo màu và dễ tan.</p><p>Cho trực tiếp vào món ăn đang nấu hoặc cho vào thực phẩm để ướp.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/d429d701-6f00-41cb-8ecf-3358bc92dc16.jpg\",\"https://images.f99.com.vn/images/60262e59-e349-4676-97c8-27025766ef5a.jpg\",\"https://images.f99.com.vn/images/823a762c-4e44-4f0f-ae28-d184e0730edc.jpg\",\"https://images.f99.com.vn/images/6345a5f7-97c6-4695-88b7-053d65035461.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "HẠT NÊM NHẬT",
+    "description": "<p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tff/1.5/16/1f469_1f3fb_200d_1f373.png\" alt=\"👩🏻‍🍳\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t7b/1.5/16/1f468_200d_1f373.png\" alt=\"👨‍🍳\" height=\"16\" width=\"16\">HẠT NÊM YOUKI Nhật Bản 500g ngon ngọt an toàn, cho những bữa ăn thêm đậm đà hương vị.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tce/1.5/16/1f618.png\" alt=\"😘\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tce/1.5/16/1f618.png\" alt=\"😘\" height=\"16\" width=\"16\">Mẹ e khen loại này lắm ạ. Ăn ngọt thanh chứ ko như hạt nêm Việt Nam! DÙNG E ẤY XONG K MUỐN DÙNG HN VIỆT NỮA.CÔNG NHẬN E ẤY ĐẬM ĐÀ KHÓ CƯỠNG.<img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t5b/1.5/16/1f60d.png\" alt=\"😍\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t5b/1.5/16/1f60d.png\" alt=\"😍\" height=\"16\" width=\"16\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t81/1.5/16/1f352.png\" alt=\"🍒\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t39/1.5/16/1f31f.png\" alt=\"🌟\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t4a/1.5/16/1f4af.png\" alt=\"💯\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t39/1.5/16/1f31f.png\" alt=\"🌟\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t81/1.5/16/1f352.png\" alt=\"🍒\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t4a/1.5/16/1f4af.png\" alt=\"💯\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t81/1.5/16/1f352.png\" alt=\"🍒\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t39/1.5/16/1f31f.png\" alt=\"🌟\" height=\"16\" width=\"16\"> <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t81/1.5/16/1f352.png\" alt=\"🍒\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t39/1.5/16/1f31f.png\" alt=\"🌟\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t4a/1.5/16/1f4af.png\" alt=\"💯\" height=\"16\" width=\"16\"></p><p>Hạt nêm Youki là 1 loại gia vị nổi tiếng của Nhật giúp món ăn ngon ngọt tự nhiên với thành phần chính được chiết xuất từ thịt gà, bột rau, muối, đường.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t52/1.5/16/1f48e.png\" alt=\"💎\" height=\"16\" width=\"16\">Đặc biệt hạt nêm Youki Nhật không chứa chất bảo quản, tạo màu giúp đảm bảo sức khỏe cho bé và cả gia đình bởi.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t39/1.5/16/1f31f.png\" alt=\"🌟\" height=\"16\" width=\"16\">+ Được chiết xuất từ thịt gà, đảm bảo chất lượng. Thịt gà vốn là loại thịt có chứa nhiều protein, amino- acid, nitơ, lipid, acid amin giúp món ăn thêm nhiều dinh dưỡng</p><p>+ Cung cấp lượng muối i - ốt vừa đủ, phòng ngừa bệnh bướu cổ</p><p>+ Có độ ngọt vừa phải, cân bằng hai vị của muối và đường</p><p>+ Mang lại hương vị thơm ngon, đậm đà hấp dẫn</p><p>+Không chất bảo quản, không chất tạo màu và dễ tan.</p><p>Cho trực tiếp vào món ăn đang nấu hoặc cho vào thực phẩm để ướp.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/d429d701-6f00-41cb-8ecf-3358bc92dc16.jpg",
+    "price": 245000,
+    "oldPrice": 285000,
+    "discountPercent": 14,
+    "stock": 12,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "HỘP",
+    "sku": "",
+    "origin": "",
+    "sellerId": 169,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>ĐỂ NƠI KHÔ RÁO</p>",
+    "category": {
+      "id": 116,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0342daf4-6b0a-43c4-a7b1-3662a8afabfe.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/d429d701-6f00-41cb-8ecf-3358bc92dc16.jpg",
+      "https://images.f99.com.vn/images/60262e59-e349-4676-97c8-27025766ef5a.jpg",
+      "https://images.f99.com.vn/images/823a762c-4e44-4f0f-ae28-d184e0730edc.jpg",
+      "https://images.f99.com.vn/images/6345a5f7-97c6-4695-88b7-053d65035461.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/11230",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 169,
+      "sellerRate": 4.6,
+      "sellerName": "Hương Chiaki",
+      "warehouseId": "ae5e8b40-5ad0-4501-a5e1-49de15d5e660",
+      "warehouseAddress": "102A3 phố 8/3, Quỳnh Mai, Hai Bà Trưng, Hà Nội",
+      "distance": 4083,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 65.2382346420427,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13024,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Gia vị\",\"thực phẩm\",\"đồ ăn\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/6b1e7493-d19f-4f50-a3c0-125c27572d7a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><img width=\"16\" height=\"16\" alt=\"🥦\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f966.png\"><img width=\"16\" height=\"16\" alt=\"🌽\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t1c/1/16/1f33d.png\"><img width=\"16\" height=\"16\" alt=\"🍅\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tc/1/16/1f345.png\"> Hạt nêm hữu cơ 100% từ rau củ quả hữu cơ KUCHAREK Đức (gói 200g)</p><p>======•======</p><p> </p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t99/1/16/1f33a.png\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t99/1/16/1f33a.png\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t99/1/16/1f33a.png\"></p><p> HẠT NÊM HỮU CƠ RAU CỦ QUẢ KUCHAREK của ĐỨC - SIÊU NGON</p><p>#65k/ 1 gói</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\"></p><p> Sản phẩm bột nêm chiết xuất từ rau củ quả hữu cơ cực kỳ thơm ngon, an toàn cho bé ở độ tuổi ăn dặm và cả gia đình.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\"></p><p> Chiết xuất hoàn toàn từ rau, củ, quả được trồng bằng phương pháp hữu cơ. Vị ngọt, vị đậm đà, và hương thơm tự nhiên của rau, củ, quả. Bổ sung lượng vitamin. </p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\"></p><p> Đặc biệt, gói hạt nêm từ rau củ quả này dễ thêm nếm vừa miệng, ko cần cho thêm bất cứ 1 loại gia vị nào khác.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\"></p><p> Hạt nêm mềm mịn, hạt tơi nhỏ như bột canh, có vị thanh ngọt, nêm nếm vào các món nấu, hầm, xào đều rất ngon...</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tdd/1/16/274c.png\"></p><p>KHÔNG CHẤT BẢO QUẢN</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tdd/1/16/274c.png\"></p><p>KHÔNG chứa cholesterol </p><p><img width=\"16\" height=\"16\" alt=\"❌\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tdd/1/16/274c.png\">Hợp cho cả người huyết áp cao, máu nhiễm mỡ.</p><p><img width=\"16\" height=\"16\" alt=\"🌺\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t99/1/16/1f33a.png\"><img width=\"16\" height=\"16\" alt=\"🌺\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t99/1/16/1f33a.png\"><img width=\"16\" height=\"16\" alt=\"🌺\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t99/1/16/1f33a.png\">Thành phần chính:</p><p><img width=\"16\" height=\"16\" alt=\"✅\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\"><img width=\"16\" height=\"16\" alt=\"✅\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\">Cà rốt, củ cải vàng, khoai tây, hành tây, rau mùi tây, cần tây (root), tỏi tây, bắp cải, rau mùi tây (root), cà chua, tỏi, chứa nhiều đạm, vitamin, chất khoáng và acid amin cần thiết cho cơ thể.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hạt nêm hữu cơ 100% từ rau củ quả hữu cơ KUCHAREK Đức",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hạt nêm hữu cơ 100% từ rau củ quả hữu cơ KUCHAREK Đức",
+    "description": "<p><img width=\"16\" height=\"16\" alt=\"🥦\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f966.png\"><img width=\"16\" height=\"16\" alt=\"🌽\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t1c/1/16/1f33d.png\"><img width=\"16\" height=\"16\" alt=\"🍅\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tc/1/16/1f345.png\"> Hạt nêm hữu cơ 100% từ rau củ quả hữu cơ KUCHAREK Đức (gói 200g)</p><p>======•======</p><p> </p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t99/1/16/1f33a.png\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t99/1/16/1f33a.png\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t99/1/16/1f33a.png\"></p><p> HẠT NÊM HỮU CƠ RAU CỦ QUẢ KUCHAREK của ĐỨC - SIÊU NGON</p><p>#65k/ 1 gói</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\"></p><p> Sản phẩm bột nêm chiết xuất từ rau củ quả hữu cơ cực kỳ thơm ngon, an toàn cho bé ở độ tuổi ăn dặm và cả gia đình.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\"></p><p> Chiết xuất hoàn toàn từ rau, củ, quả được trồng bằng phương pháp hữu cơ. Vị ngọt, vị đậm đà, và hương thơm tự nhiên của rau, củ, quả. Bổ sung lượng vitamin. </p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\"></p><p> Đặc biệt, gói hạt nêm từ rau củ quả này dễ thêm nếm vừa miệng, ko cần cho thêm bất cứ 1 loại gia vị nào khác.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\"></p><p> Hạt nêm mềm mịn, hạt tơi nhỏ như bột canh, có vị thanh ngọt, nêm nếm vào các món nấu, hầm, xào đều rất ngon...</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tdd/1/16/274c.png\"></p><p>KHÔNG CHẤT BẢO QUẢN</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tdd/1/16/274c.png\"></p><p>KHÔNG chứa cholesterol </p><p><img width=\"16\" height=\"16\" alt=\"❌\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tdd/1/16/274c.png\">Hợp cho cả người huyết áp cao, máu nhiễm mỡ.</p><p><img width=\"16\" height=\"16\" alt=\"🌺\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t99/1/16/1f33a.png\"><img width=\"16\" height=\"16\" alt=\"🌺\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t99/1/16/1f33a.png\"><img width=\"16\" height=\"16\" alt=\"🌺\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t99/1/16/1f33a.png\">Thành phần chính:</p><p><img width=\"16\" height=\"16\" alt=\"✅\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\"><img width=\"16\" height=\"16\" alt=\"✅\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\">Cà rốt, củ cải vàng, khoai tây, hành tây, rau mùi tây, cần tây (root), tỏi tây, bắp cải, rau mùi tây (root), cà chua, tỏi, chứa nhiều đạm, vitamin, chất khoáng và acid amin cần thiết cho cơ thể.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/6b1e7493-d19f-4f50-a3c0-125c27572d7a.jpg",
+    "price": 65000,
+    "oldPrice": 70000,
+    "discountPercent": 7,
+    "stock": 30,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "",
+    "origin": "",
+    "sellerId": 172,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô thoáng. HSD xem trên bao bì</p>",
+    "category": {
+      "id": 116,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0342daf4-6b0a-43c4-a7b1-3662a8afabfe.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Gia vị",
+      "thực phẩm",
+      "đồ ăn"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/6b1e7493-d19f-4f50-a3c0-125c27572d7a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13024",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 172,
+      "sellerRate": 4.4,
+      "sellerName": "SS Home Mart",
+      "warehouseId": "43079af3-c880-4cb2-a02d-39e8b9a996c0",
+      "warehouseAddress": "253 Thụy Khuê, phường Thụy Khuê, quận Tây Hồ, Hà Nội",
+      "distance": 2568,
+      "warehouseDistrict": "tay ho",
+      "reputation": 54.97361194029909,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13029,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"đồ ăn\",\"gia vị\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/3dc01dbe-35a3-432f-979e-668e71a22869.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><img width=\"16\" height=\"16\" alt=\"❌\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tdd/1/16/274c.png\"><img width=\"16\" height=\"16\" alt=\"♻️\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tf8/1/16/267b.png\"><img width=\"16\" height=\"16\" alt=\"🌹\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t71/1/16/1f339.png\">HẠT NÊM RONG BIỂN AJINOMOTO NHẬT BẢN</p><p><img width=\"16\" height=\"16\" alt=\"✅\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\">95k/1 gói</p><p><img width=\"16\" height=\"16\" alt=\"🍃\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/ta/1/16/1f343.png\">Không giống với những hạt nêm thông thường khác ,nếu như ở Việt Nam hạt nêm thường được chiết xuất từ thịt thăn hay xương ống đều có vị đậm đà ngon ngọt từ thịt và xương thì ở Nhật Bản người ta lại sử dụng hạt nêm chiết xuất từ rong biển để thêm vào những món ăn của họ có vị ngọt tự nhiên từ rong biển.</p><p><img width=\"16\" height=\"16\" alt=\"👉\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png\">Hạt nêm rong biển Ajinomoto - Nhật cho các món cháo, bột hay các món chiên xào, món canh, soup của bé thêm ngon ngọt, đậm đà nhé <img width=\"16\" height=\"16\" alt=\"🙂\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t4c/1/16/1f642.png\"></p><p><img width=\"16\" height=\"16\" alt=\"👉\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png\">Hạt nêm được đóng gói nhỏ, tiện cho mỗi lần sử dụng</p><p><img width=\"16\" height=\"16\" alt=\"🍃\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/ta/1/16/1f343.png\">Hạt nêm rong biển Ajinomoto <img width=\"16\" height=\"16\" alt=\"🍃\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/ta/1/16/1f343.png\"></p><p><img width=\"16\" height=\"16\" alt=\"☕\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t91/1/16/2615.png\"> Chiết xuất hoàn toàn từ tự nhiên tuyệt đối an toàn trong chế biến thức ăn cho bé .</p><p><img width=\"16\" height=\"16\" alt=\"☕\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t91/1/16/2615.png\"> Kích thích bé ăn ngon miệng hơn</p><p><img width=\"16\" height=\"16\" alt=\"☕\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t91/1/16/2615.png\"> Làm sinh động món ăn gia đình bạn</p><p><img width=\"16\" height=\"16\" alt=\"💚\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t94/1/16/1f49a.png\"> Không sử dụng chất bảo quản nên các mẹ cứ yên tâm nêm nếm cho các bữa ăn của con nha</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "HẠT NÊM RONG BIỂN AJINOMOTO NHẬT BẢN",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "HẠT NÊM RONG BIỂN AJINOMOTO NHẬT BẢN",
+    "description": "<p><img width=\"16\" height=\"16\" alt=\"❌\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tdd/1/16/274c.png\"><img width=\"16\" height=\"16\" alt=\"♻️\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tf8/1/16/267b.png\"><img width=\"16\" height=\"16\" alt=\"🌹\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t71/1/16/1f339.png\">HẠT NÊM RONG BIỂN AJINOMOTO NHẬT BẢN</p><p><img width=\"16\" height=\"16\" alt=\"✅\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\">95k/1 gói</p><p><img width=\"16\" height=\"16\" alt=\"🍃\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/ta/1/16/1f343.png\">Không giống với những hạt nêm thông thường khác ,nếu như ở Việt Nam hạt nêm thường được chiết xuất từ thịt thăn hay xương ống đều có vị đậm đà ngon ngọt từ thịt và xương thì ở Nhật Bản người ta lại sử dụng hạt nêm chiết xuất từ rong biển để thêm vào những món ăn của họ có vị ngọt tự nhiên từ rong biển.</p><p><img width=\"16\" height=\"16\" alt=\"👉\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png\">Hạt nêm rong biển Ajinomoto - Nhật cho các món cháo, bột hay các món chiên xào, món canh, soup của bé thêm ngon ngọt, đậm đà nhé <img width=\"16\" height=\"16\" alt=\"🙂\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t4c/1/16/1f642.png\"></p><p><img width=\"16\" height=\"16\" alt=\"👉\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png\">Hạt nêm được đóng gói nhỏ, tiện cho mỗi lần sử dụng</p><p><img width=\"16\" height=\"16\" alt=\"🍃\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/ta/1/16/1f343.png\">Hạt nêm rong biển Ajinomoto <img width=\"16\" height=\"16\" alt=\"🍃\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/ta/1/16/1f343.png\"></p><p><img width=\"16\" height=\"16\" alt=\"☕\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t91/1/16/2615.png\"> Chiết xuất hoàn toàn từ tự nhiên tuyệt đối an toàn trong chế biến thức ăn cho bé .</p><p><img width=\"16\" height=\"16\" alt=\"☕\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t91/1/16/2615.png\"> Kích thích bé ăn ngon miệng hơn</p><p><img width=\"16\" height=\"16\" alt=\"☕\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t91/1/16/2615.png\"> Làm sinh động món ăn gia đình bạn</p><p><img width=\"16\" height=\"16\" alt=\"💚\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t94/1/16/1f49a.png\"> Không sử dụng chất bảo quản nên các mẹ cứ yên tâm nêm nếm cho các bữa ăn của con nha</p>",
+    "imageUrl": "https://images.f99.com.vn/images/3dc01dbe-35a3-432f-979e-668e71a22869.jpg",
+    "price": 95000,
+    "oldPrice": 110000,
+    "discountPercent": 14,
+    "stock": 30,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "",
+    "origin": "",
+    "sellerId": 172,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô thoáng.HSD xem trên bao bì</p>",
+    "category": {
+      "id": 116,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0342daf4-6b0a-43c4-a7b1-3662a8afabfe.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "đồ ăn",
+      "gia vị"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/3dc01dbe-35a3-432f-979e-668e71a22869.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13029",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 172,
+      "sellerRate": 4.4,
+      "sellerName": "SS Home Mart",
+      "warehouseId": "43079af3-c880-4cb2-a02d-39e8b9a996c0",
+      "warehouseAddress": "253 Thụy Khuê, phường Thụy Khuê, quận Tây Hồ, Hà Nội",
+      "distance": 2568,
+      "warehouseDistrict": "tay ho",
+      "reputation": 54.97361194029909,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13033,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Bột nêm\",\"gia vị\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/be3bf802-6729-4f73-93b8-6ffbecc49610.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><img width=\"16\" height=\"16\" alt=\"🍄\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t8b/1/16/1f344.png\"><img width=\"16\" height=\"16\" alt=\"🍄\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t8b/1/16/1f344.png\"> Bột nêm từ nấm hương Shimaya Shiitake Dashi no Moto 42g</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t8b/1/16/1f344.png\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t8b/1/16/1f344.png\"></p><p><br></p><p>#65k/1 gói</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t29/1/16/1f397.png\"></p><p> Bột nêm từ nấm hương Shimaya Shiitake Dashi no Moto 42g có vị ngọt thanh tự nhiên từ nấm, làm tăng hương vị cho món ăn khi chế biến. Hạt nêm nấm hương thích hợp với các món xào rau củ, các món chay thanh đạm.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tc/1/16/1f449_1f3fb.png\"></p><p> Điểm nổi bật của bột nêm từ nấm hương Shimaya Shiitake Dashi no Moto:</p><p>Nấm hương, giàu đạm và khoáng chất</p><p>Nấm hương hay còn gọi là nấm đông cô, rất giàu dinh dưỡng, có tác dụng bồi bổ cơ thể. Nấm hương giàu đạm và khoáng chất, tạo năng lượng cho cơ thể, giúp cơ thể hấp thu tốt các chất dinh dưỡng để khỏe mạnh.</p><p>Ngoài ra, theo y học cổ truyền, nấm hương còn là dược liệu để tăng cường sức đề kháng, giải độc và thanh lọc cơ thể. </p><p>Hương thơm và vị ngọt tự nhiên</p><p>Ngoài những giá trị dinh dưỡng nói trên, bột nêm từ nấm hương Shimaya Shiitake Dashi no Moto đem lại cho món ăn của bạn vị ngọt thanh, giúp món ăn đậm đà khó cưỡng.</p><p>Đặc biệt, hương thơm của nấm kích thích vị giác, giúp bạn ăn ngon miệng hơn.</p><p> </p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tc/1/16/1f449_1f3fb.png\"></p><p> Cách sử dụng bột nêm từ nấm hương Shimaya Shiitake Dashi no Moto:</p><p>- Dùng thay thế bột ngọt hoặc các loại bột nêm thông thường, giúp các món ăn thơm ngon hơn, hương vị đậm đà hơn.</p><p>- Dùng được với tất cả các món ăn.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": " Bột nêm từ nấm hương Shimaya Shiitake Dashi no Moto 42g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": " Bột nêm từ nấm hương Shimaya Shiitake Dashi no Moto 42g",
+    "description": "<p><img width=\"16\" height=\"16\" alt=\"🍄\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t8b/1/16/1f344.png\"><img width=\"16\" height=\"16\" alt=\"🍄\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t8b/1/16/1f344.png\"> Bột nêm từ nấm hương Shimaya Shiitake Dashi no Moto 42g</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t8b/1/16/1f344.png\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t8b/1/16/1f344.png\"></p><p><br></p><p>#65k/1 gói</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t29/1/16/1f397.png\"></p><p> Bột nêm từ nấm hương Shimaya Shiitake Dashi no Moto 42g có vị ngọt thanh tự nhiên từ nấm, làm tăng hương vị cho món ăn khi chế biến. Hạt nêm nấm hương thích hợp với các món xào rau củ, các món chay thanh đạm.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tc/1/16/1f449_1f3fb.png\"></p><p> Điểm nổi bật của bột nêm từ nấm hương Shimaya Shiitake Dashi no Moto:</p><p>Nấm hương, giàu đạm và khoáng chất</p><p>Nấm hương hay còn gọi là nấm đông cô, rất giàu dinh dưỡng, có tác dụng bồi bổ cơ thể. Nấm hương giàu đạm và khoáng chất, tạo năng lượng cho cơ thể, giúp cơ thể hấp thu tốt các chất dinh dưỡng để khỏe mạnh.</p><p>Ngoài ra, theo y học cổ truyền, nấm hương còn là dược liệu để tăng cường sức đề kháng, giải độc và thanh lọc cơ thể. </p><p>Hương thơm và vị ngọt tự nhiên</p><p>Ngoài những giá trị dinh dưỡng nói trên, bột nêm từ nấm hương Shimaya Shiitake Dashi no Moto đem lại cho món ăn của bạn vị ngọt thanh, giúp món ăn đậm đà khó cưỡng.</p><p>Đặc biệt, hương thơm của nấm kích thích vị giác, giúp bạn ăn ngon miệng hơn.</p><p> </p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tc/1/16/1f449_1f3fb.png\"></p><p> Cách sử dụng bột nêm từ nấm hương Shimaya Shiitake Dashi no Moto:</p><p>- Dùng thay thế bột ngọt hoặc các loại bột nêm thông thường, giúp các món ăn thơm ngon hơn, hương vị đậm đà hơn.</p><p>- Dùng được với tất cả các món ăn.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/be3bf802-6729-4f73-93b8-6ffbecc49610.jpg",
+    "price": 65000,
+    "oldPrice": 70000,
+    "discountPercent": 7,
+    "stock": 30,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "",
+    "origin": "",
+    "sellerId": 172,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô thoáng. HSD xem trên bao bì</p>",
+    "category": {
+      "id": 116,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0342daf4-6b0a-43c4-a7b1-3662a8afabfe.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Bột nêm",
+      "gia vị"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/be3bf802-6729-4f73-93b8-6ffbecc49610.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13033",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 172,
+      "sellerRate": 4.4,
+      "sellerName": "SS Home Mart",
+      "warehouseId": "43079af3-c880-4cb2-a02d-39e8b9a996c0",
+      "warehouseAddress": "253 Thụy Khuê, phường Thụy Khuê, quận Tây Hồ, Hà Nội",
+      "distance": 2568,
+      "warehouseDistrict": "tay ho",
+      "reputation": 54.97361194029909,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13037,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"nước tương\",\"gia vị\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/9e678397-a5d9-42ab-a46e-92d4a4a8bdce.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Nước tương shushi nhật bản ngon tuyệt chỉ với <a style=\"color:  var(--accent); background-color: transparent;\" href=\"https://www.facebook.com/hashtag/65k?__eep__=6&amp;__cft__[0]=AZUTpdICgiSb0mua4aKNPDPT8bbH3nbwrp2PW1MDGRX2lfVx25waoWFuNWif9N_IG2ONkkbkgzq5LdYGRhZRwXjsE8HJ8BAzca8SY2dPxlpfUsCCOsa_7WQOIfCv8EEdGamPq9bKyCXj5BbQIFw3ngjMQhytaISL9jKMLF7osDJqosH6vrCjdUwESL0Zn_6y-Ms&amp;__tn__=*NK-R\" target=\"_blank\" rel=\"noopener noreferrer\">#65k</a> đã về rồi ạ <img width=\"16\" height=\"16\" alt=\"🥰\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tea/1/16/1f970.png\"></p><p> <img width=\"16\" height=\"16\" alt=\"🔥\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t50/1/16/1f525.png\">Nước tương Sushi &amp; Sashimi là sự kết tinh của tinh hoa ẩm thực Nhật Bản, đây là sản phẩm gia vị được ưa chuộng trên toàn thế giới khi thưởng thức các món ăn tươi sống theo phong cách ẩm thực của người Nhật.</p><p><img width=\"16\" height=\"16\" alt=\"🔥\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t50/1/16/1f525.png\">Được ủ và lên men hoàn toàn tự nhiên với những nguyên liệu tự nhiên trong 6 tháng để đạt tới màu nâu sánh mịn, hương vị đậm đà cân bằng hoàn hảo và mùi thơm hấp dẫn kích thích vị giác.</p><p><img width=\"16\" height=\"16\" alt=\"🔥\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t50/1/16/1f525.png\"> được làm từ 4 thành phần chính là đậu nành, lúa mì, muối và nước mang lại hương vị thơm ngon rất riêng và độc đáo. Đặc biệt, nước tương Nhật đóng chai với nắp mở tiện dụng giúp dễ dàng sử dụng và bảo quản. Sản phẩm mang đến những trải nghiệm ẩm thực tuyệt vời cho người thưởng thức.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Nước tương shushi nhật bản",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Nước tương shushi nhật bản",
+    "description": "<p>Nước tương shushi nhật bản ngon tuyệt chỉ với <a style=\"color:  var(--accent); background-color: transparent;\" href=\"https://www.facebook.com/hashtag/65k?__eep__=6&amp;__cft__[0]=AZUTpdICgiSb0mua4aKNPDPT8bbH3nbwrp2PW1MDGRX2lfVx25waoWFuNWif9N_IG2ONkkbkgzq5LdYGRhZRwXjsE8HJ8BAzca8SY2dPxlpfUsCCOsa_7WQOIfCv8EEdGamPq9bKyCXj5BbQIFw3ngjMQhytaISL9jKMLF7osDJqosH6vrCjdUwESL0Zn_6y-Ms&amp;__tn__=*NK-R\" target=\"_blank\" rel=\"noopener noreferrer\">#65k</a> đã về rồi ạ <img width=\"16\" height=\"16\" alt=\"🥰\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tea/1/16/1f970.png\"></p><p> <img width=\"16\" height=\"16\" alt=\"🔥\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t50/1/16/1f525.png\">Nước tương Sushi &amp; Sashimi là sự kết tinh của tinh hoa ẩm thực Nhật Bản, đây là sản phẩm gia vị được ưa chuộng trên toàn thế giới khi thưởng thức các món ăn tươi sống theo phong cách ẩm thực của người Nhật.</p><p><img width=\"16\" height=\"16\" alt=\"🔥\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t50/1/16/1f525.png\">Được ủ và lên men hoàn toàn tự nhiên với những nguyên liệu tự nhiên trong 6 tháng để đạt tới màu nâu sánh mịn, hương vị đậm đà cân bằng hoàn hảo và mùi thơm hấp dẫn kích thích vị giác.</p><p><img width=\"16\" height=\"16\" alt=\"🔥\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t50/1/16/1f525.png\"> được làm từ 4 thành phần chính là đậu nành, lúa mì, muối và nước mang lại hương vị thơm ngon rất riêng và độc đáo. Đặc biệt, nước tương Nhật đóng chai với nắp mở tiện dụng giúp dễ dàng sử dụng và bảo quản. Sản phẩm mang đến những trải nghiệm ẩm thực tuyệt vời cho người thưởng thức.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/9e678397-a5d9-42ab-a46e-92d4a4a8bdce.jpg",
+    "price": 65000,
+    "oldPrice": 75000,
+    "discountPercent": 13,
+    "stock": 30,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "chai",
+    "sku": "",
+    "origin": "",
+    "sellerId": 172,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô thoáng. HSD xem trên bao bì</p>",
+    "category": {
+      "id": 116,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0342daf4-6b0a-43c4-a7b1-3662a8afabfe.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "nước tương",
+      "gia vị"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/9e678397-a5d9-42ab-a46e-92d4a4a8bdce.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13037",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 172,
+      "sellerRate": 4.4,
+      "sellerName": "SS Home Mart",
+      "warehouseId": "43079af3-c880-4cb2-a02d-39e8b9a996c0",
+      "warehouseAddress": "253 Thụy Khuê, phường Thụy Khuê, quận Tây Hồ, Hà Nội",
+      "distance": 2568,
+      "warehouseDistrict": "tay ho",
+      "reputation": 54.97361194029909,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13044,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"bột chiên\",\"gai vị\",\"thực phẩm\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/5d81590a-e80e-4cd2-be83-61a14839ddff.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><img width=\"16\" height=\"16\" alt=\"🍗\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tad/1/16/1f357.png\"> Bột chiên Tempura <img width=\"16\" height=\"16\" alt=\"🍗\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tad/1/16/1f357.png\"><img width=\"16\" height=\"16\" alt=\"🍗\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tad/1/16/1f357.png\"><img width=\"16\" height=\"16\" alt=\"🍗\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tad/1/16/1f357.png\"></p><p><img width=\"16\" height=\"16\" alt=\"▪️\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t4c/1/16/25aa.png\"> Bột chiên giòn rụm, thơm ngon, vừa ăn. Khách có thể dùng chiên cá thịt, hải sản, rau củ,...</p><p><a style=\"color:   var(--accent); background-color: transparent;\" href=\"https://www.facebook.com/hashtag/110k?__eep__=6&amp;__cft__[0]=AZVzgg-1eouR4nx3cWUPn7E2DIwQWQ4v1dxSnhaQt8nzMIm-O9tfD-ryIA6ZGcGYuwWnixsHX87BkdLzJWZBL5o3fV4ZLJ9Kp0H3oq2-ODU7W0tv27LDy2u-cD0rvj_hviAd_uCf5Eb1XJ7Ieaw8bHtB1stePfS3cN3USUOzp0vsL8oV40-T23Xsl-MeuLdmLAg&amp;__tn__=*NK-R\" target=\"_blank\" rel=\"noopener noreferrer\">#110k</a>/1 gói</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": " Bột chiên Tempura ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": " Bột chiên Tempura ",
+    "description": "<p><img width=\"16\" height=\"16\" alt=\"🍗\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tad/1/16/1f357.png\"> Bột chiên Tempura <img width=\"16\" height=\"16\" alt=\"🍗\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tad/1/16/1f357.png\"><img width=\"16\" height=\"16\" alt=\"🍗\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tad/1/16/1f357.png\"><img width=\"16\" height=\"16\" alt=\"🍗\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tad/1/16/1f357.png\"></p><p><img width=\"16\" height=\"16\" alt=\"▪️\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t4c/1/16/25aa.png\"> Bột chiên giòn rụm, thơm ngon, vừa ăn. Khách có thể dùng chiên cá thịt, hải sản, rau củ,...</p><p><a style=\"color:   var(--accent); background-color: transparent;\" href=\"https://www.facebook.com/hashtag/110k?__eep__=6&amp;__cft__[0]=AZVzgg-1eouR4nx3cWUPn7E2DIwQWQ4v1dxSnhaQt8nzMIm-O9tfD-ryIA6ZGcGYuwWnixsHX87BkdLzJWZBL5o3fV4ZLJ9Kp0H3oq2-ODU7W0tv27LDy2u-cD0rvj_hviAd_uCf5Eb1XJ7Ieaw8bHtB1stePfS3cN3USUOzp0vsL8oV40-T23Xsl-MeuLdmLAg&amp;__tn__=*NK-R\" target=\"_blank\" rel=\"noopener noreferrer\">#110k</a>/1 gói</p>",
+    "imageUrl": "https://images.f99.com.vn/images/5d81590a-e80e-4cd2-be83-61a14839ddff.jpg",
+    "price": 110000,
+    "oldPrice": 120000,
+    "discountPercent": 8,
+    "stock": 30,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Gói",
+    "sku": "",
+    "origin": "",
+    "sellerId": 172,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô thoáng. HSD xem trên bao bì</p>",
+    "category": {
+      "id": 116,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0342daf4-6b0a-43c4-a7b1-3662a8afabfe.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "bột chiên",
+      "gai vị",
+      "thực phẩm"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/5d81590a-e80e-4cd2-be83-61a14839ddff.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13044",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 172,
+      "sellerRate": 4.4,
+      "sellerName": "SS Home Mart",
+      "warehouseId": "43079af3-c880-4cb2-a02d-39e8b9a996c0",
+      "warehouseAddress": "253 Thụy Khuê, phường Thụy Khuê, quận Tây Hồ, Hà Nội",
+      "distance": 2568,
+      "warehouseDistrict": "tay ho",
+      "reputation": 54.97361194029909,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13062,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"hạt nêm\",\"gia vị\",\"thực phẩm\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/6e10df95-f875-46f1-bf6c-f7f39a07ab3a.jpg\",\"https://images.f99.com.vn/images/e4c681b3-f710-41fd-ac64-5b77aff65716.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><img width=\"16\" height=\"16\" alt=\"✅\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\">HẠT NÊM YOUKI NHẬT BẢN 500G được làm từ nước dùng của xương hầm và thịt cùng với một lượng cân đối các gia vị khác như muối, đường, mononatri glutamate,… làm tăng hương vị thơm ngon cho các món ăn.</p><p><img width=\"16\" height=\"16\" alt=\"👉\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png\"> Nguyên liệu: muối ăn, chiết xuất gà, lactoza, chiết xuất bò, bột rau hỗn hợp, chất tạo hương, tinh bột ,gia vị, (axit amin), trehalose.</p><p><img width=\"16\" height=\"16\" alt=\"👉\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png\"> Thành phần dinh dưỡng trong 100g:</p><p>- Năng lượng: 219kcal</p><p>- Protein: 7,4g</p><p>- Chất béo: 1,0g</p><p>- Carbohydrate: 45,1g</p><p>- Natri: 16820mg</p><p>- Lượng muối ăn tương ứng: 42,7g</p><p> <img width=\"16\" height=\"16\" alt=\"✅\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\"> 270k/lọ</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "HẠT NÊM YOUKI NHẬT BẢN",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "HẠT NÊM YOUKI NHẬT BẢN",
+    "description": "<p><img width=\"16\" height=\"16\" alt=\"✅\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\">HẠT NÊM YOUKI NHẬT BẢN 500G được làm từ nước dùng của xương hầm và thịt cùng với một lượng cân đối các gia vị khác như muối, đường, mononatri glutamate,… làm tăng hương vị thơm ngon cho các món ăn.</p><p><img width=\"16\" height=\"16\" alt=\"👉\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png\"> Nguyên liệu: muối ăn, chiết xuất gà, lactoza, chiết xuất bò, bột rau hỗn hợp, chất tạo hương, tinh bột ,gia vị, (axit amin), trehalose.</p><p><img width=\"16\" height=\"16\" alt=\"👉\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png\"> Thành phần dinh dưỡng trong 100g:</p><p>- Năng lượng: 219kcal</p><p>- Protein: 7,4g</p><p>- Chất béo: 1,0g</p><p>- Carbohydrate: 45,1g</p><p>- Natri: 16820mg</p><p>- Lượng muối ăn tương ứng: 42,7g</p><p> <img width=\"16\" height=\"16\" alt=\"✅\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\"> 270k/lọ</p>",
+    "imageUrl": "https://images.f99.com.vn/images/6e10df95-f875-46f1-bf6c-f7f39a07ab3a.jpg",
+    "price": 270000,
+    "oldPrice": 290000,
+    "discountPercent": 7,
+    "stock": 30,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "lọ",
+    "sku": "",
+    "origin": "",
+    "sellerId": 172,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô thoáng. HSD xem trên bao bì</p>",
+    "category": {
+      "id": 116,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0342daf4-6b0a-43c4-a7b1-3662a8afabfe.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "hạt nêm",
+      "gia vị",
+      "thực phẩm"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/6e10df95-f875-46f1-bf6c-f7f39a07ab3a.jpg",
+      "https://images.f99.com.vn/images/e4c681b3-f710-41fd-ac64-5b77aff65716.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13062",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 172,
+      "sellerRate": 4.4,
+      "sellerName": "SS Home Mart",
+      "warehouseId": "43079af3-c880-4cb2-a02d-39e8b9a996c0",
+      "warehouseAddress": "253 Thụy Khuê, phường Thụy Khuê, quận Tây Hồ, Hà Nội",
+      "distance": 2568,
+      "warehouseDistrict": "tay ho",
+      "reputation": 54.97361194029909,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13066,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"ướp thịt\",\"nước sốt\",\"gia vị\",\"thực phẩm\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/7e06914b-9244-48da-986d-fdf0eb7ed356.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color:  var(--primary-text);\">Nước sốt ướp thịt Bansankan 210g Nhật Bản</span></p><p><span style=\"color:  var(--primary-text);\">-- Dùng ướp thịt, phủ bề mặt các món nướng theo kiểu Nhật Bản. Hương vị đậm đà, rất ngon --</span></p><p><a style=\"color:  var(--accent); background-color: transparent;\" href=\"https://www.facebook.com/hashtag/135k?__eep__=6&amp;__cft__[0]=AZV1iJFHroogCDlco1FMr9VOqeSFwVjxetG60EB5esZZREWVnaP02Mn9jWApMUFRY4ihznLx3BpPNEYg5bKZGyAj1JF1bB9Qvyn5IoaM22jct0PVQShJTIe83iw5UY8pHY2or9KCSxDEXpitVZ_74Dl6wjd60_xFvTovhIitQBHYBIbIyrxb78g4mJ_b6MH8LIc&amp;__tn__=*NK-R\" target=\"_blank\" rel=\"noopener noreferrer\">#135k</a><span style=\"color:  var(--primary-text);\">/ 1c</span></p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Nước sốt ướp thịt Bansankan 210g Nhật Bản",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Nước sốt ướp thịt Bansankan 210g Nhật Bản",
+    "description": "<p><span style=\"color:  var(--primary-text);\">Nước sốt ướp thịt Bansankan 210g Nhật Bản</span></p><p><span style=\"color:  var(--primary-text);\">-- Dùng ướp thịt, phủ bề mặt các món nướng theo kiểu Nhật Bản. Hương vị đậm đà, rất ngon --</span></p><p><a style=\"color:  var(--accent); background-color: transparent;\" href=\"https://www.facebook.com/hashtag/135k?__eep__=6&amp;__cft__[0]=AZV1iJFHroogCDlco1FMr9VOqeSFwVjxetG60EB5esZZREWVnaP02Mn9jWApMUFRY4ihznLx3BpPNEYg5bKZGyAj1JF1bB9Qvyn5IoaM22jct0PVQShJTIe83iw5UY8pHY2or9KCSxDEXpitVZ_74Dl6wjd60_xFvTovhIitQBHYBIbIyrxb78g4mJ_b6MH8LIc&amp;__tn__=*NK-R\" target=\"_blank\" rel=\"noopener noreferrer\">#135k</a><span style=\"color:  var(--primary-text);\">/ 1c</span></p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/7e06914b-9244-48da-986d-fdf0eb7ed356.jpg",
+    "price": 135000,
+    "oldPrice": 150000,
+    "discountPercent": 10,
+    "stock": 30,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "chai",
+    "sku": "",
+    "origin": "",
+    "sellerId": 172,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô thoáng. HSD xem trên bao bì</p>",
+    "category": {
+      "id": 116,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0342daf4-6b0a-43c4-a7b1-3662a8afabfe.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "ướp thịt",
+      "nước sốt",
+      "gia vị",
+      "thực phẩm"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/7e06914b-9244-48da-986d-fdf0eb7ed356.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13066",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 172,
+      "sellerRate": 4.4,
+      "sellerName": "SS Home Mart",
+      "warehouseId": "43079af3-c880-4cb2-a02d-39e8b9a996c0",
+      "warehouseAddress": "253 Thụy Khuê, phường Thụy Khuê, quận Tây Hồ, Hà Nội",
+      "distance": 2568,
+      "warehouseDistrict": "tay ho",
+      "reputation": 54.97361194029909,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 82871,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "MỘC NHĨ ĐEN loại 1",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p> MỘC NHĨ ĐEN loại 1 </p><p> Dày nở to, đen loại 1 toàn tai to ko lẫn tai nhỏ</p><p>Ngâm kỹ dùng xào, nấu</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/92a5ccde-6f6d-430e-9147-af77a64109e4.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "MỘC NHĨ ĐEN loại 1",
+    "description": "<p> MỘC NHĨ ĐEN loại 1 </p><p> Dày nở to, đen loại 1 toàn tai to ko lẫn tai nhỏ</p><p>Ngâm kỹ dùng xào, nấu</p>",
+    "imageUrl": "https://images.f99.com.vn/images/92a5ccde-6f6d-430e-9147-af77a64109e4.jpg",
+    "price": 125000,
+    "oldPrice": 150000,
+    "discountPercent": 17,
+    "stock": 10,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "0.5kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 999,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>bảo quản nơi khô ráo, thoáng mát</p>",
+    "category": {
+      "id": 116,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0342daf4-6b0a-43c4-a7b1-3662a8afabfe.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/92a5ccde-6f6d-430e-9147-af77a64109e4.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/82871",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "0.5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 82872,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "0.5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "0.5kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "0.5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 125000,
+        "oldPrice": 150000,
+        "discountPercent": 17,
+        "stock": 10,
+        "totalSold": 0,
+        "unit": "0.5kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>bảo quản nơi khô ráo, thoáng mát</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "0.5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 999,
+      "sellerRate": 4.2,
+      "sellerName": "Chimi Food",
+      "warehouseId": "d6e92cbe-5714-4b33-9a23-57bf5b4dbc5a",
+      "warehouseAddress": "Số nhà 3 ngõ 163 đường Phạm Văn Đồng, phường Mai Dịch, quận Cầu Giấy, Hà Nội, Mai Dịch, Cầu Giấy, Hà Nội",
+      "distance": 6411,
+      "warehouseDistrict": "cau giay",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 82874,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "mộc nhĩ rừng",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p> mộc nhĩ rừng</p><p>  nỏ mỏng nhưng rất giòn, do là hàng rừng nên mộc nhĩ này sẽ nhiều tai nhỏ, mỏng tai nên dễ vụn khi khô, ngâm nhanh nở</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/5ae94db1-ba91-4d1e-8cdc-0e258cd43e3d.jpg\",\"https://images.f99.com.vn/images/2caa7121-e059-42cd-acda-035a3624308a.jpg\",\"https://images.f99.com.vn/images/de4418d1-0d11-48df-8f7f-1705f821e31a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "mộc nhĩ rừng",
+    "description": "<p> mộc nhĩ rừng</p><p>  nỏ mỏng nhưng rất giòn, do là hàng rừng nên mộc nhĩ này sẽ nhiều tai nhỏ, mỏng tai nên dễ vụn khi khô, ngâm nhanh nở</p>",
+    "imageUrl": "https://images.f99.com.vn/images/5ae94db1-ba91-4d1e-8cdc-0e258cd43e3d.jpg",
+    "price": 80000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 10,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "0.5kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 999,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>khô ráo, thoáng mát</p>",
+    "category": {
+      "id": 116,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0342daf4-6b0a-43c4-a7b1-3662a8afabfe.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/5ae94db1-ba91-4d1e-8cdc-0e258cd43e3d.jpg",
+      "https://images.f99.com.vn/images/2caa7121-e059-42cd-acda-035a3624308a.jpg",
+      "https://images.f99.com.vn/images/de4418d1-0d11-48df-8f7f-1705f821e31a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/82874",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 999,
+      "sellerRate": 4.2,
+      "sellerName": "Chimi Food",
+      "warehouseId": "d6e92cbe-5714-4b33-9a23-57bf5b4dbc5a",
+      "warehouseAddress": "Số nhà 3 ngõ 163 đường Phạm Văn Đồng, phường Mai Dịch, quận Cầu Giấy, Hà Nội, Mai Dịch, Cầu Giấy, Hà Nội",
+      "distance": 6411,
+      "warehouseDistrict": "cau giay",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 82880,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Măng Lưỡi Lợn dày",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p> măng lưỡi lợn dày được lằm từ măng củ thái dày phơi nắng tự nhiên, măng ngâm nở dày, non ngắn củ</p><p> Không sử dụng chất nhuộm vàng, chất chống mốc nên măng sẽ nhìn đen và lên phấn trắng ko phải mốc nhé</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/0352bdd4-d783-4e73-8eb0-3ecb98ed9ebc.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Măng Lưỡi Lợn dày",
+    "description": "<p> măng lưỡi lợn dày được lằm từ măng củ thái dày phơi nắng tự nhiên, măng ngâm nở dày, non ngắn củ</p><p> Không sử dụng chất nhuộm vàng, chất chống mốc nên măng sẽ nhìn đen và lên phấn trắng ko phải mốc nhé</p>",
+    "imageUrl": "https://images.f99.com.vn/images/0352bdd4-d783-4e73-8eb0-3ecb98ed9ebc.jpg",
+    "price": 110000,
+    "oldPrice": 130000,
+    "discountPercent": 15,
+    "stock": 20,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "0.5kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 999,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>bảo quản nơi thoáng mát, buộc kín túi khi ko sd</p>",
+    "category": {
+      "id": 116,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0342daf4-6b0a-43c4-a7b1-3662a8afabfe.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/0352bdd4-d783-4e73-8eb0-3ecb98ed9ebc.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/82880",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "0.5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 82881,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "0.5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "0.5kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "0.5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 110000,
+        "oldPrice": 130000,
+        "discountPercent": 15,
+        "stock": 20,
+        "totalSold": 0,
+        "unit": "0.5kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>bảo quản nơi thoáng mát, buộc kín túi khi ko sd</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "0.5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 999,
+      "sellerRate": 4.2,
+      "sellerName": "Chimi Food",
+      "warehouseId": "d6e92cbe-5714-4b33-9a23-57bf5b4dbc5a",
+      "warehouseAddress": "Số nhà 3 ngõ 163 đường Phạm Văn Đồng, phường Mai Dịch, quận Cầu Giấy, Hà Nội, Mai Dịch, Cầu Giấy, Hà Nội",
+      "distance": 6411,
+      "warehouseDistrict": "cau giay",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 83068,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Sữa đặc ông thọ Vinamilk có đường ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<ul><li>Được sử dụng phổ biến để pha chế cà phê, sinh tố, làm bánh, làm yaourt...</li><li>Giúp tạo vị ngon đậm đà, sánh mịn cho tất cả các thức uống</li><li>Một&nbsp;bí quyết không thể thiếu&nbsp;trong các công thức pha chế,&nbsp;đặc biệt khi dùng với cà phê sẽ tạo ra mùi vị thơm ngon đặc trưng của ly cà phê sữa</li></ul><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/c8c28ed5-bbee-45ca-965f-0d7d7cb100d7.jpeg\",\"https://images.f99.com.vn/images/563febda-c7f1-4c4e-a81a-9134c6c35970.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"sữa\",\"sữa ông thọ\",\"sữa đặc ông thọ\",\"vinamilk\",\"ông thọ\",\"đà lạt mart\",\"da lat mart\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Sữa đặc ông thọ Vinamilk có đường ",
+    "description": "<ul><li>Được sử dụng phổ biến để pha chế cà phê, sinh tố, làm bánh, làm yaourt...</li><li>Giúp tạo vị ngon đậm đà, sánh mịn cho tất cả các thức uống</li><li>Một&nbsp;bí quyết không thể thiếu&nbsp;trong các công thức pha chế,&nbsp;đặc biệt khi dùng với cà phê sẽ tạo ra mùi vị thơm ngon đặc trưng của ly cà phê sữa</li></ul><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/c8c28ed5-bbee-45ca-965f-0d7d7cb100d7.jpeg",
+    "price": 30000,
+    "oldPrice": 35000,
+    "discountPercent": 14,
+    "stock": 0,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Hộp ",
+    "sku": "",
+    "origin": "",
+    "sellerId": 753,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>49 VŨ NGỌC PHAN </p>",
+    "category": {
+      "id": 116,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0342daf4-6b0a-43c4-a7b1-3662a8afabfe.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "sữa",
+      "sữa ông thọ",
+      "sữa đặc ông thọ",
+      "vinamilk",
+      "ông thọ",
+      "đà lạt mart",
+      "da lat mart"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/c8c28ed5-bbee-45ca-965f-0d7d7cb100d7.jpeg",
+      "https://images.f99.com.vn/images/563febda-c7f1-4c4e-a81a-9134c6c35970.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/83068",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Hộp "
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 83069,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Hộp ",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Hộp ",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Hộp ",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 30000,
+        "oldPrice": 35000,
+        "discountPercent": 14,
+        "stock": 0,
+        "totalSold": 0,
+        "unit": "Hộp ",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>49 VŨ NGỌC PHAN </p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Hộp "
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 753,
+      "sellerRate": 4.1,
+      "sellerName": "ĐÀ LẠT MART",
+      "warehouseId": "72145374-3a89-440d-9881-429faceb9617",
+      "warehouseAddress": " Hà Nội,  Đống Đa,  Láng Hạ, 49 Vũ Ngọc Phan",
+      "distance": 2899,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.0228266044001,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 86453,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "măng lưỡi lợn mỏng",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>măng lưỡi lợn mỏng, được làm từ măng tre củ, sử dụng ngâm nấu canh</p><p>Ngâm trc khi chuẩn bị nấu 2-3 ngày bằng nước vo gạo sau 7-8 tiếng thay nước luộc măng 1 lần, đến khi măng trắng,nở đều là dùng được</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/a2a6a266-f1da-400e-a9d4-506b5a4efa85.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "măng lưỡi lợn mỏng",
+    "description": "<p>măng lưỡi lợn mỏng, được làm từ măng tre củ, sử dụng ngâm nấu canh</p><p>Ngâm trc khi chuẩn bị nấu 2-3 ngày bằng nước vo gạo sau 7-8 tiếng thay nước luộc măng 1 lần, đến khi măng trắng,nở đều là dùng được</p>",
+    "imageUrl": "https://images.f99.com.vn/images/a2a6a266-f1da-400e-a9d4-506b5a4efa85.jpg",
+    "price": 110000,
+    "oldPrice": 150000,
+    "discountPercent": 27,
+    "stock": 2,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "0,5kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 999,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp</p>",
+    "category": {
+      "id": 116,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0342daf4-6b0a-43c4-a7b1-3662a8afabfe.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/a2a6a266-f1da-400e-a9d4-506b5a4efa85.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/86453",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "0,5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 86454,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "0,5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "0,5kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "0,5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 110000,
+        "oldPrice": 150000,
+        "discountPercent": 27,
+        "stock": 2,
+        "totalSold": 0,
+        "unit": "0,5kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "0,5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 999,
+      "sellerRate": 4.2,
+      "sellerName": "Chimi Food",
+      "warehouseId": "d6e92cbe-5714-4b33-9a23-57bf5b4dbc5a",
+      "warehouseAddress": "Số nhà 3 ngõ 163 đường Phạm Văn Đồng, phường Mai Dịch, quận Cầu Giấy, Hà Nội, Mai Dịch, Cầu Giấy, Hà Nội",
+      "distance": 6411,
+      "warehouseDistrict": "cau giay",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 88087,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "NẤM HƯƠNG RỪNG SAPA",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Nấm Hương rừng sapa - được đồng bào dân tộc trồng theo hình thức giống với tự nhiên nhất, nên có hình dạng và hương thơm khâc hẳn loại nấm hương, nấm cúc có trên thị trường .</p><p><br></p><p>&nbsp;nấm gồm cả phần mũ và chân nấm đc xiên vào que phơi nắng tự nhiện.</p><p><br></p><p>&nbsp;sử dụng các món nấu, xào...</p><p><br></p><p>bảo quản: đóng kín túi sau khi sd , lâu lâu nên đem ra phơi nắng để nấm ko tự hút ẩm lại gây mốc&nbsp;</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/021e1904-4bb2-4434-8eb4-fef6cb556e6e.jpg\",\"https://images.f99.com.vn/images/1cc74481-60dd-43e4-a3fc-f87291144c6b.jpg\",\"https://images.f99.com.vn/images/a01d149e-9df1-406d-84af-e27d725e567f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "NẤM HƯƠNG RỪNG SAPA",
+    "description": "<p>Nấm Hương rừng sapa - được đồng bào dân tộc trồng theo hình thức giống với tự nhiên nhất, nên có hình dạng và hương thơm khâc hẳn loại nấm hương, nấm cúc có trên thị trường .</p><p><br></p><p>&nbsp;nấm gồm cả phần mũ và chân nấm đc xiên vào que phơi nắng tự nhiện.</p><p><br></p><p>&nbsp;sử dụng các món nấu, xào...</p><p><br></p><p>bảo quản: đóng kín túi sau khi sd , lâu lâu nên đem ra phơi nắng để nấm ko tự hút ẩm lại gây mốc&nbsp;</p>",
+    "imageUrl": "https://images.f99.com.vn/images/021e1904-4bb2-4434-8eb4-fef6cb556e6e.jpg",
+    "price": 190000,
+    "oldPrice": 250000,
+    "discountPercent": 24,
+    "stock": 10,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "0,5kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 999,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>buộc kín túi để nơi thoáng mát</p>",
+    "category": {
+      "id": 116,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0342daf4-6b0a-43c4-a7b1-3662a8afabfe.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/021e1904-4bb2-4434-8eb4-fef6cb556e6e.jpg",
+      "https://images.f99.com.vn/images/1cc74481-60dd-43e4-a3fc-f87291144c6b.jpg",
+      "https://images.f99.com.vn/images/a01d149e-9df1-406d-84af-e27d725e567f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/88087",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "0,5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 88088,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "0,5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "0,5kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "0,5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 190000,
+        "oldPrice": 250000,
+        "discountPercent": 24,
+        "stock": 10,
+        "totalSold": 0,
+        "unit": "0,5kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>buộc kín túi để nơi thoáng mát</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "0,5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 999,
+      "sellerRate": 4.2,
+      "sellerName": "Chimi Food",
+      "warehouseId": "d6e92cbe-5714-4b33-9a23-57bf5b4dbc5a",
+      "warehouseAddress": "Số nhà 3 ngõ 163 đường Phạm Văn Đồng, phường Mai Dịch, quận Cầu Giấy, Hà Nội, Mai Dịch, Cầu Giấy, Hà Nội",
+      "distance": 6411,
+      "warehouseDistrict": "cau giay",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 88388,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Set bánh kẹo Tết",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Set bao gồm:</p><p>-Rượu Rang Monte Patria</p><p>-Bánh hộp thiếc LuKy</p><p>-Kẹo Butter Toffees</p><p>-Bánh quy socola Nhật</p><p>-Hạt điều rang muối</p><p>Tà Ô Long Shan</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/b25caa1f-ccb3-480c-85fc-6e140b35aa77.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Set bánh kẹo Tết",
+    "description": "<p>Set bao gồm:</p><p>-Rượu Rang Monte Patria</p><p>-Bánh hộp thiếc LuKy</p><p>-Kẹo Butter Toffees</p><p>-Bánh quy socola Nhật</p><p>-Hạt điều rang muối</p><p>Tà Ô Long Shan</p>",
+    "imageUrl": "https://images.f99.com.vn/images/b25caa1f-ccb3-480c-85fc-6e140b35aa77.jpg",
+    "price": 999000,
+    "oldPrice": 1150000,
+    "discountPercent": 13,
+    "stock": 100,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "1 set",
+    "sku": "",
+    "origin": "",
+    "sellerId": 118,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ở nhiệt độ thường</p>",
+    "category": {
+      "id": 116,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0342daf4-6b0a-43c4-a7b1-3662a8afabfe.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/b25caa1f-ccb3-480c-85fc-6e140b35aa77.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/88388",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 set"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 88389,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 set",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 set",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 set",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 999000,
+        "oldPrice": 1150000,
+        "discountPercent": 13,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "1 set",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ở nhiệt độ thường</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 set"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 118,
+      "sellerRate": 3.9,
+      "sellerName": "Đinh Hương Fruit",
+      "warehouseId": "7d5007b2-5563-4d11-a461-2b659e39fcf0",
+      "warehouseAddress": "64 Khương Đình, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",
+      "distance": 3572,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 55.8364615384624,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 88391,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Set quà Tết hình trụ màu đỏ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Set bao gồm:</p><p>-Rượu Rang Monte Patria</p><p>-Bánh hộp thiếc LuKy</p><p>-Kẹo Butter Toffees</p><p>-Hạt điều rang muối</p><p>-Trà tinh hoa Green Tea</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/d405c646-d8b5-4b3c-828e-a7b3392b0b34.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Set quà Tết hình trụ màu đỏ",
+    "description": "<p>Set bao gồm:</p><p>-Rượu Rang Monte Patria</p><p>-Bánh hộp thiếc LuKy</p><p>-Kẹo Butter Toffees</p><p>-Hạt điều rang muối</p><p>-Trà tinh hoa Green Tea</p>",
+    "imageUrl": "https://images.f99.com.vn/images/d405c646-d8b5-4b3c-828e-a7b3392b0b34.jpg",
+    "price": 849000,
+    "oldPrice": 849000,
+    "discountPercent": 0,
+    "stock": 100,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "1 set",
+    "sku": "",
+    "origin": "",
+    "sellerId": 118,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ở nhiệt độ thường</p>",
+    "category": {
+      "id": 116,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0342daf4-6b0a-43c4-a7b1-3662a8afabfe.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/d405c646-d8b5-4b3c-828e-a7b3392b0b34.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/88391",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 set"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 88392,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 set",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 set",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 set",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 849000,
+        "oldPrice": 849000,
+        "discountPercent": 0,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "1 set",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ở nhiệt độ thường</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 set"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 118,
+      "sellerRate": 3.9,
+      "sellerName": "Đinh Hương Fruit",
+      "warehouseId": "7d5007b2-5563-4d11-a461-2b659e39fcf0",
+      "warehouseAddress": "64 Khương Đình, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",
+      "distance": 3572,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 55.8364615384624,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 88397,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Set quà Tết màu Vàng Thịnh Vượng",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Set quà bao gồm:</p><p>-Hộp bánh thiếc vàng Sonne</p><p>-Rượu Vodka Marinoffi</p><p>-Trà tinh hoa Green Tea</p><p>-Hộp hạnh nhân rang bơ</p><p>-Kẹo socola Ferrero Rocher</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/9ff77e9b-574b-467e-9c84-bcba3c832087.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Set quà Tết màu Vàng Thịnh Vượng",
+    "description": "<p>Set quà bao gồm:</p><p>-Hộp bánh thiếc vàng Sonne</p><p>-Rượu Vodka Marinoffi</p><p>-Trà tinh hoa Green Tea</p><p>-Hộp hạnh nhân rang bơ</p><p>-Kẹo socola Ferrero Rocher</p>",
+    "imageUrl": "https://images.f99.com.vn/images/9ff77e9b-574b-467e-9c84-bcba3c832087.jpg",
+    "price": 1100000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 100,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "1set",
+    "sku": "",
+    "origin": "",
+    "sellerId": 118,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ở nhiệt độ thường</p>",
+    "category": {
+      "id": 116,
+      "name": "Khác",
+      "imageUrl": "https://images.f99.com.vn/notification-images/0342daf4-6b0a-43c4-a7b1-3662a8afabfe.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/9ff77e9b-574b-467e-9c84-bcba3c832087.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/88397",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1set"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 88398,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1set",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1set",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1set",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 1100000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "1set",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ở nhiệt độ thường</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1set"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 118,
+      "sellerRate": 3.9,
+      "sellerName": "Đinh Hương Fruit",
+      "warehouseId": "7d5007b2-5563-4d11-a461-2b659e39fcf0",
+      "warehouseAddress": "64 Khương Đình, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",
+      "distance": 3572,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 55.8364615384624,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

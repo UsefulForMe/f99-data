@@ -1,0 +1,35 @@
+{
+  "id": 717,
+  "name": "THỰC PHẨM ĐẤT MŨI",
+  "logo": "https://cdn.f99.link/groupbuy-images/c6761edc-e5e4-4873-a54e-429a826faf4b.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Là đơn vị cung ứng thực phẩm có mặt thị trường hơn 8 năm, đi tiên phong trong mô hình mua tận gốc bạn tận khách hàng.",
+  "headQuarter": "661 Trần Hưng Đạo, 1, Quận 5, Hồ Chí Minh",
+  "email": "laucuadatmui@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

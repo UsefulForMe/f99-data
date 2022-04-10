@@ -1,0 +1,35 @@
+{
+  "id": 343,
+  "name": "Cô Mai Food",
+  "logo": "https://cdn.f99.link/groupbuy-images/3ec3dd5f-326f-4209-bc72-04cd3d98ae05.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên sỉ/ lẻ các mặt hàng thực phẩm chế biến sẵn, đồ ăn vặt, đồ ăn gia đình, đặc sản vùng miền",
+  "headQuarter": "Số 186 Hồng Mai, Quỳnh Lôi, Hai Bà Trưng, Hà Nội",
+  "email": "tathihaivan86@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 3.8,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 10
+}

@@ -1,0 +1,35 @@
+{
+  "id": 528,
+  "name": "Cốm Quê",
+  "logo": "https://cdn.f99.link/groupbuy-images/8cceed99-6cc7-4944-bf21-62abd1070582.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Nhà hàng chuyên cung cấp các đặc sản về Cốm. Với niềm tự hào, tay nghề lâu năm, món ăn cổ truyền, đặc trưng của người Hà Nội, chúng tôi luôn mong muốn đem đến Qúy Khách những sản phẩm, món ăn đảm bảo chất lượng nhất của làng nghề truyền thống! An tâm khi chọn - An lành khi ăn! Cảm ơn Qúy Khách đã tin tưởng và ủng hộ!",
+  "headQuarter": "288 Mễ Trì Thượng, Mễ Trì, Nam Từ Liêm, Hà Nội",
+  "email": "tailieuphuongnam.pn@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "07:00",
+    "closeTime": "22:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

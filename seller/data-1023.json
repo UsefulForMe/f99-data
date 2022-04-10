@@ -1,0 +1,35 @@
+{
+  "id": 1023,
+  "name": "Minh Lâm",
+  "logo": "https://images.f99.com.vn/groupbuy-images/acb22ee9-9759-40a1-abde-3ef13dc0090f.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "hoa quả tươi",
+  "headQuarter": "số 146 Nguyễn Đổng Chi, Phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội, Cầu Diễn, Nam Từ Liêm, Hà Nội",
+  "email": "",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.6,
+  "availableTime": {
+    "openTime": "06:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 19
+}

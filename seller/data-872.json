@@ -1,0 +1,35 @@
+{
+  "id": 872,
+  "name": "Tiệm Bếp Nhà San",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/9c3622e4-0853-4127-957e-0614d63f2fa6.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Bên shop chuyên bán thực phẩm đông lanh,đồ ăn vặt,thực phẩm nhập khẩu..v.v…",
+  "headQuarter": "78c Lạc Long Quân, 5, Quận 11, Hồ Chí Minh",
+  "email": "Kieuquangphuc0204@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

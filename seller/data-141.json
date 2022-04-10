@@ -1,0 +1,35 @@
+{
+  "id": 141,
+  "name": "Ha Noi The Butcher & Homefood",
+  "logo": "https://cdn.f99.link/groupbuy-images/439edeae-cf08-4fa7-9da6-4fad733c9855.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cung cấp các loại thịt bò,cừu, bào ngư Úc và các loại thực phẩm nhập khẩu cao cấp. Nơi chia sẻ văn hoá, cách thức thưởng thức ẩm thực.",
+  "headQuarter": "Tầng 1,D40 - TT18, Khu đô thị mới Văn Quán, Đường Yên Phúc ,Phường Phúc La, Quận Hà Đông, Thành Phố Hà Nội",
+  "email": "hanoithebutcher@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.8,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 4
+}

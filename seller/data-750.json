@@ -1,0 +1,35 @@
+{
+  "id": 750,
+  "name": "Lê Gia Food",
+  "logo": "https://cdn.f99.link/groupbuy-images/9d9e514a-c4f0-4d74-8565-60088303104f.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Lê Gia Food chuyên cung cấp thực phẩm sạch.",
+  "headQuarter": "97 Nguyễn Duy Trinh, Bình Trưng Tây, Quận 2, Hồ Chí Minh",
+  "email": "Hoangthanhle6686@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

@@ -1,0 +1,35 @@
+{
+  "id": 469,
+  "name": "ACE FOODS ",
+  "logo": "https://cdn.f99.link/groupbuy-images/54c8f1d0-2634-4040-b445-1962ba72f0b6.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Thực phẩm Thiên Vương ACE chuyên cung cấp sỉ lẻ thực phẩm sạch, uy tín, chất lượng",
+  "headQuarter": " 30 Nguyễn Khang, Yên Hòa, Cầu Giấy, Hà Nội",
+  "email": "ducnguyen@acefoods.vn",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.3,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "09:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 9
+}

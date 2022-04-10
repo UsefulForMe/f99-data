@@ -1,0 +1,2970 @@
+[
+  {
+    "id": 6812,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dứa Thơm ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\">Ngoài tác dụng giải nhiệt vào mùa nắng nóng, dứa (thơm) còn có những lợi ích sức khỏe tuyệt vời khác.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\">Dứa rất tốt cho da và làm đẹp. Nó giúp hydrat hóa làn da và loại bỏ tế bào chết trên da.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/51501583-66b6-4974-9c79-f693d2c8d816.jpg\",\"https://images.f99.com.vn/images/57b31928-76cd-495d-aad3-86945ab2bb90.jpg\",\"https://images.f99.com.vn/images/91448857-e1a9-4225-a777-fa8b0f2eb82c.jpg\",\"https://images.f99.com.vn/images/9b1279ad-2608-4cc8-aa3f-b67114f5b6db.jpg\",\"https://images.f99.com.vn/images/c5af429c-38d8-4e06-a0a3-e1d42ea86fba.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dứa Thơm ",
+    "description": "<p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\">Ngoài tác dụng giải nhiệt vào mùa nắng nóng, dứa (thơm) còn có những lợi ích sức khỏe tuyệt vời khác.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\">Dứa rất tốt cho da và làm đẹp. Nó giúp hydrat hóa làn da và loại bỏ tế bào chết trên da.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/51501583-66b6-4974-9c79-f693d2c8d816.jpg",
+    "price": 6900,
+    "oldPrice": 13000,
+    "discountPercent": 47,
+    "stock": 270000,
+    "totalSold": 75,
+    "maxQuantityPerUser": null,
+    "unit": "1 quả",
+    "sku": "DUA",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.8,
+    "instructions": "<p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</span></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Phản hồi sản phẩm vui lòng liên hệ: </span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Hotline:0974956933</span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Địa chỉ: Số 10A, ngõ 61 Khương Trung , Phố Khương Trung, Khương Trung,Thanh Xuân,HN.</span></p>",
+    "category": {
+      "id": 69,
+      "name": "Dứa",
+      "imageUrl": "https://imgur.com/GnCbFYS.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/51501583-66b6-4974-9c79-f693d2c8d816.jpg",
+      "https://images.f99.com.vn/images/57b31928-76cd-495d-aad3-86945ab2bb90.jpg",
+      "https://images.f99.com.vn/images/91448857-e1a9-4225-a777-fa8b0f2eb82c.jpg",
+      "https://images.f99.com.vn/images/9b1279ad-2608-4cc8-aa3f-b67114f5b6db.jpg",
+      "https://images.f99.com.vn/images/c5af429c-38d8-4e06-a0a3-e1d42ea86fba.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/6812",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "450g-600g",
+          "phí gọt bổ sẵn 2k/1 quả",
+          "Quả 600-800g",
+          "Quả 800-1000g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 91291,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "phí gọt bổ sẵn 2k/1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "phí gọt bổ sẵn 2k/1 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "phí gọt bổ sẵn 2k/1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 2000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 18000,
+        "totalSold": 38,
+        "unit": "1 quả",
+        "sku": "DUA",
+        "rating": 4.8,
+        "instructions": "<p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</span></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Phản hồi sản phẩm vui lòng liên hệ: </span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Hotline:0974956933</span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Địa chỉ: Số 10A, ngõ 61 Khương Trung , Phố Khương Trung, Khương Trung,Thanh Xuân,HN.</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "phí gọt bổ sẵn 2k/1 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 96538,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "450g-600g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "450g-600g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "450g-600g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 7900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 36000,
+        "totalSold": 17,
+        "unit": "1 quả",
+        "sku": "DUA",
+        "rating": 4.8,
+        "instructions": "<p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</span></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Phản hồi sản phẩm vui lòng liên hệ: </span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Hotline:0974956933</span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Địa chỉ: Số 10A, ngõ 61 Khương Trung , Phố Khương Trung, Khương Trung,Thanh Xuân,HN.</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "450g-600g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 96732,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Quả 600-800g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Quả 600-800g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Quả 600-800g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 9900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 72000,
+        "totalSold": 17,
+        "unit": "1 quả",
+        "sku": "DUA",
+        "rating": 4.8,
+        "instructions": "<p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</span></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Phản hồi sản phẩm vui lòng liên hệ: </span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Hotline:0974956933</span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Địa chỉ: Số 10A, ngõ 61 Khương Trung , Phố Khương Trung, Khương Trung,Thanh Xuân,HN.</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Quả 600-800g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 97045,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Quả 800-1000g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Quả 800-1000g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Quả 800-1000g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 12000,
+        "oldPrice": 13000,
+        "discountPercent": 8,
+        "stock": 144000,
+        "totalSold": 3,
+        "unit": "1 quả",
+        "sku": "DUA",
+        "rating": 4.8,
+        "instructions": "<p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</span></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Phản hồi sản phẩm vui lòng liên hệ: </span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Hotline:0974956933</span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Địa chỉ: Số 10A, ngõ 61 Khương Trung , Phố Khương Trung, Khương Trung,Thanh Xuân,HN.</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Quả 800-1000g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7007,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dứa gọt sẵn",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(106, 108, 110);\">Dứa không những là trái cây ngon ngọt, giàu dinh dưỡng, mang lại vô số những lợi ích cho cơ thể mà dứa còn có giá thành phù hợp với mọi đối tượng. </span></p><p><span style=\"color: rgb(106, 108, 110);\">Trưa nắng mà có sẵn một dĩa dứa gọt sẵn để ngăn mát tủ lạnh lấy ra chấm muối tôm ăn thì cuộc đời này sung sướng biết bao nhiêu.</span><img src=\"https://images.f99.com.vn/images/4550860f-4744-4dd1-b322-8edf45f86fcc.jpg\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/9bdcd0e2-e5c2-482e-a452-b2d7eef3b04f.jpg\",\"https://images.f99.com.vn/images/516ec973-670c-4e6c-bc63-038082dd5fb7.jpg\",\"https://images.f99.com.vn/images/8a872f68-c1d8-4909-8f10-bdc2f45a8070.jpg\",\"https://images.f99.com.vn/images/655e1754-f495-4ebe-b692-3a4903c10999.jpg\",\"https://images.f99.com.vn/images/87669420-34cb-47ae-bfaf-e12d1b6cf0bf.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dứa gọt sẵn",
+    "description": "<p><span style=\"color: rgb(106, 108, 110);\">Dứa không những là trái cây ngon ngọt, giàu dinh dưỡng, mang lại vô số những lợi ích cho cơ thể mà dứa còn có giá thành phù hợp với mọi đối tượng. </span></p><p><span style=\"color: rgb(106, 108, 110);\">Trưa nắng mà có sẵn một dĩa dứa gọt sẵn để ngăn mát tủ lạnh lấy ra chấm muối tôm ăn thì cuộc đời này sung sướng biết bao nhiêu.</span><img src=\"https://images.f99.com.vn/images/4550860f-4744-4dd1-b322-8edf45f86fcc.jpg\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/9bdcd0e2-e5c2-482e-a452-b2d7eef3b04f.jpg",
+    "price": 25000,
+    "oldPrice": 40000,
+    "discountPercent": 38,
+    "stock": 48144,
+    "totalSold": 93,
+    "maxQuantityPerUser": null,
+    "unit": "Hộp 450-500g",
+    "sku": "dua",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hotline: </span><span style=\"background-color: rgb(229, 239, 255); color: var(--blue-base);\">0974956933</span></p>",
+    "category": {
+      "id": 69,
+      "name": "Dứa",
+      "imageUrl": "https://imgur.com/GnCbFYS.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/9bdcd0e2-e5c2-482e-a452-b2d7eef3b04f.jpg",
+      "https://images.f99.com.vn/images/516ec973-670c-4e6c-bc63-038082dd5fb7.jpg",
+      "https://images.f99.com.vn/images/8a872f68-c1d8-4909-8f10-bdc2f45a8070.jpg",
+      "https://images.f99.com.vn/images/655e1754-f495-4ebe-b692-3a4903c10999.jpg",
+      "https://images.f99.com.vn/images/87669420-34cb-47ae-bfaf-e12d1b6cf0bf.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7007",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "Combo 2  Hộp 450-500g",
+          "Dứa nguyên quả 600-800g",
+          "Hộp 450-500g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 71198,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Hộp 450-500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Hộp 450-500g",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Hộp 450-500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 25000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 12036,
+        "totalSold": 41,
+        "unit": "Hộp 450-500g",
+        "sku": "dua",
+        "rating": 5,
+        "instructions": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hotline: </span><span style=\"background-color: rgb(229, 239, 255); color: var(--blue-base);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Hộp 450-500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 71197,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 2  Hộp 450-500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 2  Hộp 450-500g",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 2  Hộp 450-500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 49000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 12036,
+        "totalSold": 27,
+        "unit": "Hộp 450-500g",
+        "sku": "dua",
+        "rating": 5,
+        "instructions": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hotline: </span><span style=\"background-color: rgb(229, 239, 255); color: var(--blue-base);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 2  Hộp 450-500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 71199,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Dứa nguyên quả 600-800g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Dứa nguyên quả 600-800g",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Dứa nguyên quả 600-800g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 16000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 24072,
+        "totalSold": 25,
+        "unit": "Hộp 450-500g",
+        "sku": "dua",
+        "rating": 5,
+        "instructions": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hotline: </span><span style=\"background-color: rgb(229, 239, 255); color: var(--blue-base);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Dứa nguyên quả 600-800g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 11381,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "DỨA MD2 SIÊU VIP",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\"> Dứa mật MD2 được lai tạo từ Hawai năm 1961, phù hợp trồng ở khí hậu nhiệt đới, hiện rát được ưa chuộng trên thế giới.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\"> Dứa mật có mùi thơm lừng đặc trưng, dễ chịu, thịt ngọt, nhiều nước hơn các loại dứa khác , ăn nhiều không rát lưỡi. Thường được dùng ăn tươi, quay sinh tố, trang trí cho các món ăn cao cấp, đặc biệt được các đầu bếp lựa chọn cho trang trí hoặc chế biến món ăn có mùi vị của dứa <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t0/1/16/1f60b.png\" alt=\"😋\" height=\"16\" width=\"16\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\"> Dứa mật là một nguồn thực phẩm dồi dào vitamin C, giúp tăng cường hệ thống miễn dịch, tạo ra các chất có tác dụng phòng chống nhiễm khuẩn tái phát, cảm lạnh và cúm, hỗ trợ viêm khớp, ngăn ngừa bệnh ung thư vú, ung thư vòm họng và kiểm soát huyết áp.</p><p>Với Quy trình canh tác (6-KHÔNG, 1-Có)</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\"> KHÔNG biến đổi gen (non-GMO).</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\"> KHÔNG thuốc trừ cỏ/ trừ sâu/ trừ bệnh.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\"> KHÔNG thuốc kích thích to họng/ to quả.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\"> KHÔNG phun chín ép (chín hoàn toàn tự nhiên trên vườn, quả nào chín trước hái trước, không thu hái đồng loạt).</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\">KHÔNG phun siêu Kali/ siêu ngọt.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\">KHÔNG sử dụng Ethephon sử lý ra hoa, toàn bộ dứa MD2 của nhà Vinh An năm nay đều là thành quả của quá trình cảm ứng ánh sáng ngày ngắn (tháng 11/2020), 100% cây dứa ra hoa tự nhiên.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\"> Có sử dụng phân bón NPK, thời gian cách ly 6 tháng.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/88e9414b-887e-452a-88ff-efd70c2a3a69.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "DỨA MD2 SIÊU VIP",
+    "description": "<p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\"> Dứa mật MD2 được lai tạo từ Hawai năm 1961, phù hợp trồng ở khí hậu nhiệt đới, hiện rát được ưa chuộng trên thế giới.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\"> Dứa mật có mùi thơm lừng đặc trưng, dễ chịu, thịt ngọt, nhiều nước hơn các loại dứa khác , ăn nhiều không rát lưỡi. Thường được dùng ăn tươi, quay sinh tố, trang trí cho các món ăn cao cấp, đặc biệt được các đầu bếp lựa chọn cho trang trí hoặc chế biến món ăn có mùi vị của dứa <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t0/1/16/1f60b.png\" alt=\"😋\" height=\"16\" width=\"16\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\"> Dứa mật là một nguồn thực phẩm dồi dào vitamin C, giúp tăng cường hệ thống miễn dịch, tạo ra các chất có tác dụng phòng chống nhiễm khuẩn tái phát, cảm lạnh và cúm, hỗ trợ viêm khớp, ngăn ngừa bệnh ung thư vú, ung thư vòm họng và kiểm soát huyết áp.</p><p>Với Quy trình canh tác (6-KHÔNG, 1-Có)</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\"> KHÔNG biến đổi gen (non-GMO).</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\"> KHÔNG thuốc trừ cỏ/ trừ sâu/ trừ bệnh.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\"> KHÔNG thuốc kích thích to họng/ to quả.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\"> KHÔNG phun chín ép (chín hoàn toàn tự nhiên trên vườn, quả nào chín trước hái trước, không thu hái đồng loạt).</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\">KHÔNG phun siêu Kali/ siêu ngọt.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\">KHÔNG sử dụng Ethephon sử lý ra hoa, toàn bộ dứa MD2 của nhà Vinh An năm nay đều là thành quả của quá trình cảm ứng ánh sáng ngày ngắn (tháng 11/2020), 100% cây dứa ra hoa tự nhiên.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbb/1/16/1f34d.png\" alt=\"🍍\" height=\"16\" width=\"16\"> Có sử dụng phân bón NPK, thời gian cách ly 6 tháng.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/88e9414b-887e-452a-88ff-efd70c2a3a69.jpg",
+    "price": 40000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 10,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "SP 25",
+    "origin": "",
+    "sellerId": 192,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 69,
+      "name": "Dứa",
+      "imageUrl": "https://imgur.com/GnCbFYS.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/88e9414b-887e-452a-88ff-efd70c2a3a69.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/11381",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 77933,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 40000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "SP 25",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 192,
+      "sellerRate": 4.5,
+      "sellerName": "Trái Cây Cát Tường",
+      "warehouseId": "466ca774-9ed9-4a7c-9250-8490c8d0b8bf",
+      "warehouseAddress": "Shop House A11 Sảnh A Toà Imperia 423 Minh Khai, Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "distance": 4733,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13774,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dứa Mật",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Hoa Quả Rau củ Tươi Ngon. Nhập mới hàng ngày.</p><p><br></p><p>Kho hàng: số 52 ngõ 365 đường Bưởi, Ba Đình</p><p><br></p><p>Đặt hàng rau củ quả thực phẩm tươi sống sạch chất lượng tại: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fhomeyfood.net%2F%3Ffbclid%3DIwAR2JSxaf4GfQlgE8nUH0__xHpH8v6NF_BMppYMwjdVoca6iDDHe6lN7uhpA&amp;h=AT1N_fAYZiYWuKq_b3RsKWHHIUCahTIGKOMbJ0fsSzdp9NMquXMl87dsM3BUkmXxyRilEIJ-NySoeY0GmS30O6Quh2y-BvQ3zaB1ECscOtQWuEVU0OSuNsXKS0nuJe5-gWi4nw\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--always-white);\">https://homeyfood.net</a></p><p><br></p><p><span style=\"color: var(--always-white);\">1 quả to 1kg</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/377a73b9-ff71-40bf-af63-a851bff485fa.jpg\",\"https://images.f99.com.vn/images/23ec5e26-2bd8-46a8-a2ec-3988da6f23a5.jpg\",\"https://images.f99.com.vn/images/435c6d49-ceb0-4fbe-a888-1c8245ea3689.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dứa Mật",
+    "description": "<p>Hoa Quả Rau củ Tươi Ngon. Nhập mới hàng ngày.</p><p><br></p><p>Kho hàng: số 52 ngõ 365 đường Bưởi, Ba Đình</p><p><br></p><p>Đặt hàng rau củ quả thực phẩm tươi sống sạch chất lượng tại: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fhomeyfood.net%2F%3Ffbclid%3DIwAR2JSxaf4GfQlgE8nUH0__xHpH8v6NF_BMppYMwjdVoca6iDDHe6lN7uhpA&amp;h=AT1N_fAYZiYWuKq_b3RsKWHHIUCahTIGKOMbJ0fsSzdp9NMquXMl87dsM3BUkmXxyRilEIJ-NySoeY0GmS30O6Quh2y-BvQ3zaB1ECscOtQWuEVU0OSuNsXKS0nuJe5-gWi4nw\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--always-white);\">https://homeyfood.net</a></p><p><br></p><p><span style=\"color: var(--always-white);\">1 quả to 1kg</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/377a73b9-ff71-40bf-af63-a851bff485fa.jpg",
+    "price": 15000,
+    "oldPrice": 20000,
+    "discountPercent": 25,
+    "stock": 9999,
+    "totalSold": 10137,
+    "maxQuantityPerUser": null,
+    "unit": "1 kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 240,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p>Tốt nhất trong tủ lạnh.</p><p>Tránh ánh sáng trực tiếp hoặc nơi ẩm ướt.</p>",
+    "category": {
+      "id": 69,
+      "name": "Dứa",
+      "imageUrl": "https://imgur.com/GnCbFYS.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/377a73b9-ff71-40bf-af63-a851bff485fa.jpg",
+      "https://images.f99.com.vn/images/23ec5e26-2bd8-46a8-a2ec-3988da6f23a5.jpg",
+      "https://images.f99.com.vn/images/435c6d49-ceb0-4fbe-a888-1c8245ea3689.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13774",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 74122,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 15000,
+        "oldPrice": 20000,
+        "discountPercent": 25,
+        "stock": 9999,
+        "totalSold": 10137,
+        "unit": "1 kg",
+        "sku": "",
+        "rating": 5,
+        "instructions": "<p>Tốt nhất trong tủ lạnh.</p><p>Tránh ánh sáng trực tiếp hoặc nơi ẩm ướt.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 240,
+      "sellerRate": 4.5,
+      "sellerName": "Homey Fruit & Veg ",
+      "warehouseId": "ccb00cae-e276-4a1b-af4a-ae822ab5c570",
+      "warehouseAddress": "số 52 ngõ 376 Bưởi, Vĩnh Phúc, Ba Đình, Hà Nội",
+      "distance": 3021,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 77.89029707147643,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14623,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cóc bao tử kèm chấm (Apple Fruit)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\"> Trong&nbsp;</span><strong style=\"color: rgb(0, 0, 0);\">quả cóc</strong><span style=\"color: rgb(0, 0, 0);\">&nbsp;có vị chua, chất xơ và protein.Đây không chỉ là một lại trái cây giải nhiệt mà còn là một loại thực phẩm&nbsp;</span><strong style=\"color: rgb(0, 0, 0);\">hoa quả</strong><span style=\"color: rgb(0, 0, 0);\">&nbsp;có giá trị dinh dưỡng cao giúp giảm cân hiệu. Ngoài ra cóc còn có tác dụng kích thích tiêu hóa, giúp ăn ngon miệng, giải nhiệt, sinh tân dịch, giải khát, và làm giảm đường trong máu đối với người bị tiểu đường tuýp II. Cùng khám phá xem&nbsp;</span><strong style=\"color: rgb(0, 0, 0);\">cóc bao tử có tác dụng gì</strong><span style=\"color: rgb(0, 0, 0);\">&nbsp;nhé!</span></p><p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/c1fe3166-cc2f-404f-8786-c2248e40c1f0.jpg\"></p><h2 class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">1. Cóc bao tử giúp giảm cân</strong></h2><p class=\"ql-align-justify\"><br></p><h2 class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">2. Trị cảm cúm, đau họng</strong></h2><h2 class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">4. Hỗ trợ điều trị tiểu đường</strong></h2><h2 class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">5. Trái có làm đẹp da hiệu quả</strong></h2><h2 class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">6. Tăng cường sức đề kháng, ngăn ngừa ung thư</strong></h2><p class=\"ql-align-justify\"><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/6cf48fa0-29e8-4435-96a6-2d2b6c0a4ad2.jpg\",\"https://images.f99.com.vn/images/a9a447de-d3d8-4fe3-a3e2-47a34a786487.jpg\",\"https://images.f99.com.vn/images/7c8ceea1-09cc-4b01-81c6-6395723c4b08.jpg\",\"https://images.f99.com.vn/images/365a8602-8793-433e-9091-c7040182001f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"cóc dầm\",\"cóc\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cóc bao tử kèm chấm (Apple Fruit)",
+    "description": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\"> Trong&nbsp;</span><strong style=\"color: rgb(0, 0, 0);\">quả cóc</strong><span style=\"color: rgb(0, 0, 0);\">&nbsp;có vị chua, chất xơ và protein.Đây không chỉ là một lại trái cây giải nhiệt mà còn là một loại thực phẩm&nbsp;</span><strong style=\"color: rgb(0, 0, 0);\">hoa quả</strong><span style=\"color: rgb(0, 0, 0);\">&nbsp;có giá trị dinh dưỡng cao giúp giảm cân hiệu. Ngoài ra cóc còn có tác dụng kích thích tiêu hóa, giúp ăn ngon miệng, giải nhiệt, sinh tân dịch, giải khát, và làm giảm đường trong máu đối với người bị tiểu đường tuýp II. Cùng khám phá xem&nbsp;</span><strong style=\"color: rgb(0, 0, 0);\">cóc bao tử có tác dụng gì</strong><span style=\"color: rgb(0, 0, 0);\">&nbsp;nhé!</span></p><p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/c1fe3166-cc2f-404f-8786-c2248e40c1f0.jpg\"></p><h2 class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">1. Cóc bao tử giúp giảm cân</strong></h2><p class=\"ql-align-justify\"><br></p><h2 class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">2. Trị cảm cúm, đau họng</strong></h2><h2 class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">4. Hỗ trợ điều trị tiểu đường</strong></h2><h2 class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">5. Trái có làm đẹp da hiệu quả</strong></h2><h2 class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">6. Tăng cường sức đề kháng, ngăn ngừa ung thư</strong></h2><p class=\"ql-align-justify\"><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/6cf48fa0-29e8-4435-96a6-2d2b6c0a4ad2.jpg",
+    "price": 35000,
+    "oldPrice": 65000,
+    "discountPercent": 46,
+    "stock": 20000,
+    "totalSold": 949,
+    "maxQuantityPerUser": null,
+    "unit": "Hộp (400-500g)",
+    "sku": "Coc dam",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+    "category": {
+      "id": 69,
+      "name": "Dứa",
+      "imageUrl": "https://imgur.com/GnCbFYS.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "cóc dầm",
+      "cóc"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/6cf48fa0-29e8-4435-96a6-2d2b6c0a4ad2.jpg",
+      "https://images.f99.com.vn/images/a9a447de-d3d8-4fe3-a3e2-47a34a786487.jpg",
+      "https://images.f99.com.vn/images/7c8ceea1-09cc-4b01-81c6-6395723c4b08.jpg",
+      "https://images.f99.com.vn/images/365a8602-8793-433e-9091-c7040182001f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14623",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Cóc dầm",
+          "Cóc kèm chấm",
+          "Mix vị cóc xoài",
+          "Xoài bao tử kèm chấm"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 14626,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Cóc kèm chấm",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Cóc kèm chấm",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Cóc kèm chấm",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 35000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 5000,
+        "totalSold": 257,
+        "unit": "Hộp (400-500g)",
+        "sku": "Coc dam",
+        "rating": 5,
+        "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Cóc kèm chấm"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 14627,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Cóc dầm",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Cóc dầm",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Cóc dầm",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 35000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 5000,
+        "totalSold": 230,
+        "unit": "Hộp (400-500g)",
+        "sku": "Coc dam",
+        "rating": 5,
+        "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Cóc dầm"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 14628,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Xoài bao tử kèm chấm",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Xoài bao tử kèm chấm",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Xoài bao tử kèm chấm",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 35000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 5000,
+        "totalSold": 235,
+        "unit": "Hộp (400-500g)",
+        "sku": "Coc dam",
+        "rating": 5,
+        "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Xoài bao tử kèm chấm"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 14629,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Mix vị cóc xoài",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Mix vị cóc xoài",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Mix vị cóc xoài",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 35000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 5000,
+        "totalSold": 227,
+        "unit": "Hộp (400-500g)",
+        "sku": "Coc dam",
+        "rating": 5,
+        "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Mix vị cóc xoài"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 43697,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dứa Quả Tươi Ngon",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>1 quả dứa to tươi ngon</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/45280c87-13c3-48ff-9fa6-ff9fdfce5130.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dứa Quả Tươi Ngon",
+    "description": "<p>1 quả dứa to tươi ngon</p>",
+    "imageUrl": "https://images.f99.com.vn/images/45280c87-13c3-48ff-9fa6-ff9fdfce5130.jpg",
+    "price": 20000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 20,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 333,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 69,
+      "name": "Dứa",
+      "imageUrl": "https://imgur.com/GnCbFYS.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/45280c87-13c3-48ff-9fa6-ff9fdfce5130.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/43697",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 333,
+      "sellerRate": 4.5,
+      "sellerName": "HOA QUẢ TƯƠI UK",
+      "warehouseId": "00a32823-8ca3-40ea-9b90-7602ba7a142d",
+      "warehouseAddress": " Hà Nội,  Nam Từ Liêm,  Mễ Trì, Số 111 ngõ 14 Mễ Trì Hạ",
+      "distance": 5655,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 73.88293932300736,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 43766,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Khay Dứa Bổ Sẵn",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Khay dứa bổ sẵn kèm muối ớt 500 gram</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/0a8fc41e-9a65-4f0f-a100-5390de4664bd.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Khay Dứa Bổ Sẵn",
+    "description": "<p>Khay dứa bổ sẵn kèm muối ớt 500 gram</p>",
+    "imageUrl": "https://images.f99.com.vn/images/0a8fc41e-9a65-4f0f-a100-5390de4664bd.jpg",
+    "price": 30000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 20,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Khay",
+    "sku": "",
+    "origin": "",
+    "sellerId": 333,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 69,
+      "name": "Dứa",
+      "imageUrl": "https://imgur.com/GnCbFYS.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/0a8fc41e-9a65-4f0f-a100-5390de4664bd.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/43766",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Khay"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 86178,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Khay",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Khay",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Khay",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 30000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 20,
+        "totalSold": 1,
+        "unit": "Khay",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Khay"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 333,
+      "sellerRate": 4.5,
+      "sellerName": "HOA QUẢ TƯƠI UK",
+      "warehouseId": "00a32823-8ca3-40ea-9b90-7602ba7a142d",
+      "warehouseAddress": " Hà Nội,  Nam Từ Liêm,  Mễ Trì, Số 111 ngõ 14 Mễ Trì Hạ",
+      "distance": 5655,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 73.88293932300736,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 44695,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://i.imgur.com/xjZ6l9i.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "Dứa có vị ngon, vị ngọt tự nhiên có thể làm món tráng miệng. Dứa ít calo, natri, cholesterol, và chất béo bão hòa, trong khi lại rất giàu xơ. Điều này làm cho dứa trở thành một thực phẩm giảm cân hoàn hảo.",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dứa quả xanh - 1quả",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dứa quả xanh - 1quả",
+    "description": "Dứa có vị ngon, vị ngọt tự nhiên có thể làm món tráng miệng. Dứa ít calo, natri, cholesterol, và chất béo bão hòa, trong khi lại rất giàu xơ. Điều này làm cho dứa trở thành một thực phẩm giảm cân hoàn hảo.",
+    "imageUrl": "https://i.imgur.com/xjZ6l9i.png",
+    "price": 20000,
+    "oldPrice": null,
+    "discountPercent": null,
+    "stock": 100,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 548,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.2,
+    "instructions": "",
+    "category": {
+      "id": 69,
+      "name": "Dứa",
+      "imageUrl": "https://imgur.com/GnCbFYS.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://i.imgur.com/xjZ6l9i.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/44695",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 548,
+      "sellerRate": 4.4,
+      "sellerName": "DELI MART",
+      "warehouseId": "602391b3-9831-42e9-80a5-2e8333671a3e",
+      "warehouseAddress": "Sàn Thương Mại Tầng 1 - Riverside Garden, số 349 Vũ Tông Phan, Khương Đình, Thanh Xuân, Hà Nội",
+      "distance": 4620,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 61.13986206896673,
+      "others": [
+        {
+          "sellerId": 548,
+          "sellerRate": 4.4,
+          "sellerName": "DELI MART",
+          "warehouseId": "602391b3-9831-42e9-80a5-2e8333671a3e",
+          "warehouseAddress": "Sàn Thương Mại Tầng 1 - Riverside Garden, số 349 Vũ Tông Phan, Khương Đình, Thanh Xuân, Hà Nội",
+          "distance": 4620,
+          "warehouseDistrict": "thanh xuan",
+          "reputation": 61.13986206896673,
+          "others": []
+        },
+        {
+          "sellerId": 548,
+          "sellerRate": 4.4,
+          "sellerName": "DELI MART",
+          "warehouseId": "05aed57f-e0a2-44c7-bed4-f754f25a5900",
+          "warehouseAddress": "Căn 103, Tòa CT4, Vimeco, Nguyễn Chánh, Trung Hòa, Cầu Giấy, Hà Nội",
+          "distance": 4718,
+          "warehouseDistrict": "cau giay",
+          "reputation": 61.13986206896673,
+          "others": []
+        },
+        {
+          "sellerId": 548,
+          "sellerRate": 4.4,
+          "sellerName": "DELI MART",
+          "warehouseId": "f31e5e1a-e677-4d15-80db-214131370d1c",
+          "warehouseAddress": "Sảnh căn hộ T03 - Times City, 458 Minh Khai, Hai Bà Trưng, Hà Nội.",
+          "distance": 5140,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 61.13986206896673,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 45294,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "1 quả dứa",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>1 quả dứa to 8-9 nang,Ăn liền, làm nộm......................................................................</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/2ce43a79-cfd9-4339-b841-cbbeb3091bfb.jpg\",\"https://images.f99.com.vn/images/5ca4da49-c919-4ba2-b6cf-b60e2af6eb53.jpg\",\"https://images.f99.com.vn/images/ceafc70e-a159-4a53-9cb7-fe158dc97401.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "1 quả dứa",
+    "description": "<p>1 quả dứa to 8-9 nang,Ăn liền, làm nộm......................................................................</p>",
+    "imageUrl": "https://images.f99.com.vn/images/2ce43a79-cfd9-4339-b841-cbbeb3091bfb.jpg",
+    "price": 18000,
+    "oldPrice": 20000,
+    "discountPercent": 10,
+    "stock": 100,
+    "totalSold": 6,
+    "maxQuantityPerUser": null,
+    "unit": "700-900gram",
+    "sku": "",
+    "origin": "",
+    "sellerId": 359,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ngăn mát tủ lạnh</p>",
+    "category": {
+      "id": 69,
+      "name": "Dứa",
+      "imageUrl": "https://imgur.com/GnCbFYS.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/2ce43a79-cfd9-4339-b841-cbbeb3091bfb.jpg",
+      "https://images.f99.com.vn/images/5ca4da49-c919-4ba2-b6cf-b60e2af6eb53.jpg",
+      "https://images.f99.com.vn/images/ceafc70e-a159-4a53-9cb7-fe158dc97401.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/45294",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "700-900gram"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 94819,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "700-900gram",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "700-900gram",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "700-900gram",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 18000,
+        "oldPrice": 20000,
+        "discountPercent": 10,
+        "stock": 100,
+        "totalSold": 6,
+        "unit": "700-900gram",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ngăn mát tủ lạnh</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "700-900gram"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 359,
+      "sellerRate": 4.4,
+      "sellerName": "Quang Anh- Hoa quả tươi theo mùa",
+      "warehouseId": "b29cda85-3ce5-4127-9c6b-1eb1a04399dc",
+      "warehouseAddress": " Hà Nội,  Hai Bà Trưng,  Vĩnh Tuy, NT9, Ngõ 124 Vĩnh Tuy",
+      "distance": 5482,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 70.9110772740987,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 49310,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dứa loại 1 ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dứa Thanh Hóa mắt to mang hương vị ngọt lành và lắng đọng phù sa mạch nguồn sông Mã.</p><p><span style=\"color: rgb(34, 34, 34);\">Với nguồn vitamin C dồi dào cùng các chất khoáng như can-xi, kali, chất xơ, brôm, i-ốt và phốt-pho, các enzim...&nbsp;dứa còn đóng góp hữu hiệu trong quá trình phát phát triển của xương, sụn, răng lợi.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/1aff76ce-68ba-46d9-ac10-41b58bcbf252.jpg\",\"https://images.f99.com.vn/images/cefc133d-c10d-4f10-a656-6eecc47f79fc.jpg\",\"https://images.f99.com.vn/images/28487847-123f-4e41-a50a-d8d4a8aab557.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"dua\",\"duaqua\",\"traicay\",\"traicaytuoi\",\"hoaqua\",\"dalatmart\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dứa loại 1 ",
+    "description": "<p>Dứa Thanh Hóa mắt to mang hương vị ngọt lành và lắng đọng phù sa mạch nguồn sông Mã.</p><p><span style=\"color: rgb(34, 34, 34);\">Với nguồn vitamin C dồi dào cùng các chất khoáng như can-xi, kali, chất xơ, brôm, i-ốt và phốt-pho, các enzim...&nbsp;dứa còn đóng góp hữu hiệu trong quá trình phát phát triển của xương, sụn, răng lợi.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/1aff76ce-68ba-46d9-ac10-41b58bcbf252.jpg",
+    "price": 14000,
+    "oldPrice": 17000,
+    "discountPercent": 18,
+    "stock": 50,
+    "totalSold": 70,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 753,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><span style=\"color: rgb(32, 33, 36);\">Cả quả&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">dứa</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;tươi có thể để ở nhiệt độ phòng 1-2 ngày nhưng dễ hỏng nên cần được dùng sớm. Bạn có thể bọc&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">dứa</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;trong túi nhựa và giữ trong tủ lạnh 4-5 ngày.&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">Dứa</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;đã gọt và thái thành hình nên bỏ trong hộp và giữ trong tủ lạnh 2-3 ngày.</span></p>",
+    "category": {
+      "id": 69,
+      "name": "Dứa",
+      "imageUrl": "https://imgur.com/GnCbFYS.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "dua",
+      "duaqua",
+      "traicay",
+      "traicaytuoi",
+      "hoaqua",
+      "dalatmart"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/1aff76ce-68ba-46d9-ac10-41b58bcbf252.jpg",
+      "https://images.f99.com.vn/images/cefc133d-c10d-4f10-a656-6eecc47f79fc.jpg",
+      "https://images.f99.com.vn/images/28487847-123f-4e41-a50a-d8d4a8aab557.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/49310",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 53494,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 14000,
+        "oldPrice": 17000,
+        "discountPercent": 18,
+        "stock": 50,
+        "totalSold": 70,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p><span style=\"color: rgb(32, 33, 36);\">Cả quả&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">dứa</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;tươi có thể để ở nhiệt độ phòng 1-2 ngày nhưng dễ hỏng nên cần được dùng sớm. Bạn có thể bọc&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">dứa</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;trong túi nhựa và giữ trong tủ lạnh 4-5 ngày.&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">Dứa</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;đã gọt và thái thành hình nên bỏ trong hộp và giữ trong tủ lạnh 2-3 ngày.</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 753,
+      "sellerRate": 4.1,
+      "sellerName": "ĐÀ LẠT MART",
+      "warehouseId": "72145374-3a89-440d-9881-429faceb9617",
+      "warehouseAddress": " Hà Nội,  Đống Đa,  Láng Hạ, 49 Vũ Ngọc Phan",
+      "distance": 2899,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.0228266044001,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 50228,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dứa thơm ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dứa thơm sẵn tại kho.</p><p>Số lượng không hạn chế.</p><p>Mua lẻ kèm hàng khác vui lòng call 0982151822.</p><p>Nhà em có cả nước ép nguyên chất dứa tươi.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/d74d3689-8dd6-4955-90fe-e42f1cd3cad8.jpg\",\"https://images.f99.com.vn/images/4a13faa3-03fa-4bb2-a28b-60abe24174ef.jpg\",\"https://images.f99.com.vn/images/a0ab94be-92a0-427e-90f2-7a186ca24875.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dứa thơm ",
+    "description": "<p>Dứa thơm sẵn tại kho.</p><p>Số lượng không hạn chế.</p><p>Mua lẻ kèm hàng khác vui lòng call 0982151822.</p><p>Nhà em có cả nước ép nguyên chất dứa tươi.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/d74d3689-8dd6-4955-90fe-e42f1cd3cad8.jpg",
+    "price": 60000,
+    "oldPrice": 120000,
+    "discountPercent": 50,
+    "stock": 1000,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "5 kg ",
+    "sku": "",
+    "origin": "",
+    "sellerId": 242,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": null,
+    "category": {
+      "id": 69,
+      "name": "Dứa",
+      "imageUrl": "https://imgur.com/GnCbFYS.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/d74d3689-8dd6-4955-90fe-e42f1cd3cad8.jpg",
+      "https://images.f99.com.vn/images/4a13faa3-03fa-4bb2-a28b-60abe24174ef.jpg",
+      "https://images.f99.com.vn/images/a0ab94be-92a0-427e-90f2-7a186ca24875.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/50228",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 242,
+      "sellerRate": 4.1,
+      "sellerName": "Tổng Kho Amy Fruit",
+      "warehouseId": "acd38b9a-c6ad-4c61-96a8-17ef6b47e174",
+      "warehouseAddress": "Số 3 ngõ 57 Nguyễn Khánh Toàn, Dịch Vọng, Cầu Giấy, Hà Nội",
+      "distance": 4026,
+      "warehouseDistrict": "cau giay",
+      "reputation": 58.71380729701953,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 71854,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dứa Thơm Khóm",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(119, 119, 119);\">Thưởng thức ly nước ép dứa thơm ngon ngay tại nhà chỉ với 3 bước làm đơn giản bằng nguyên liệu dễ tìm mà ai cũng có thể thực hiện được. Với hương vị tự nhiên&nbsp;không chứa các thành phần nhân tạo và chất bảo quản, nước ép dứa tự làm cung cấp&nbsp;vitamin C, xua tan cảm giác thèm ăn hỗ trợ tiêu hóa, giúp giảm cân và làm đẹp da hiệu quả. Ngoài ra, uống 1 ly nước ép dứa vào mùa hè còn có tác dụng giải khát và bổ sung khoáng chất cần thiết cho cơ thể.</span><img src=\"https://images.f99.com.vn/images/37cbc5d2-acbc-4cf4-8df7-436449c0e136.jpg\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/0ffd5234-6e89-431b-9020-505cc310397c.jpg\",\"https://images.f99.com.vn/images/502e5fb9-8c98-4424-b1d7-130be2118244.jpg\",\"https://images.f99.com.vn/images/b4867ddf-4afd-4851-b743-6834e2909c93.png\",\"https://images.f99.com.vn/images/83f146ac-0bd1-439f-b8d0-e637876d85eb.jpg\",\"https://images.f99.com.vn/images/77daa923-e9de-4225-9fcf-a0ca2fa1d550.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dứa Thơm Khóm",
+    "description": "<p><span style=\"color: rgb(119, 119, 119);\">Thưởng thức ly nước ép dứa thơm ngon ngay tại nhà chỉ với 3 bước làm đơn giản bằng nguyên liệu dễ tìm mà ai cũng có thể thực hiện được. Với hương vị tự nhiên&nbsp;không chứa các thành phần nhân tạo và chất bảo quản, nước ép dứa tự làm cung cấp&nbsp;vitamin C, xua tan cảm giác thèm ăn hỗ trợ tiêu hóa, giúp giảm cân và làm đẹp da hiệu quả. Ngoài ra, uống 1 ly nước ép dứa vào mùa hè còn có tác dụng giải khát và bổ sung khoáng chất cần thiết cho cơ thể.</span><img src=\"https://images.f99.com.vn/images/37cbc5d2-acbc-4cf4-8df7-436449c0e136.jpg\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/0ffd5234-6e89-431b-9020-505cc310397c.jpg",
+    "price": 8000,
+    "oldPrice": 15000,
+    "discountPercent": 47,
+    "stock": 48000,
+    "totalSold": 338,
+    "maxQuantityPerUser": null,
+    "unit": "Quả",
+    "sku": "Dua",
+    "origin": "",
+    "sellerId": 250,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p><img src=\"https://images.f99.com.vn/images/c6aed77f-5e7e-449d-9e89-ffb0628c92ba.jpg\"></p>",
+    "category": {
+      "id": 69,
+      "name": "Dứa",
+      "imageUrl": "https://imgur.com/GnCbFYS.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/0ffd5234-6e89-431b-9020-505cc310397c.jpg",
+      "https://images.f99.com.vn/images/502e5fb9-8c98-4424-b1d7-130be2118244.jpg",
+      "https://images.f99.com.vn/images/b4867ddf-4afd-4851-b743-6834e2909c93.png",
+      "https://images.f99.com.vn/images/83f146ac-0bd1-439f-b8d0-e637876d85eb.jpg",
+      "https://images.f99.com.vn/images/77daa923-e9de-4225-9fcf-a0ca2fa1d550.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/71854",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1 hộp gọt sẵn (400-500g)",
+          "1 Quả",
+          "Combo 2 quả",
+          "Combo 5 quả",
+          "phí gọt bổ sẵn 2k"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 71855,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1 Quả",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 8000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 6000,
+        "totalSold": 90,
+        "unit": "Quả",
+        "sku": "Dua",
+        "rating": 5,
+        "instructions": "<p><img src=\"https://images.f99.com.vn/images/c6aed77f-5e7e-449d-9e89-ffb0628c92ba.jpg\"></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1 Quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 71856,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 2 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 2 quả",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 2 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 16000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 6000,
+        "totalSold": 83,
+        "unit": "Quả",
+        "sku": "Dua",
+        "rating": 5,
+        "instructions": "<p><img src=\"https://images.f99.com.vn/images/c6aed77f-5e7e-449d-9e89-ffb0628c92ba.jpg\"></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 2 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 71857,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 hộp gọt sẵn (400-500g)",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "kèm muối",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1 hộp gọt sẵn (400-500g)",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 hộp gọt sẵn (400-500g)",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 20000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 6000,
+        "totalSold": 86,
+        "unit": "Quả",
+        "sku": "Dua",
+        "rating": 5,
+        "instructions": "<p><img src=\"https://images.f99.com.vn/images/c6aed77f-5e7e-449d-9e89-ffb0628c92ba.jpg\"></p>",
+        "sellerId": 0,
+        "note": "kèm muối",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1 hộp gọt sẵn (400-500g)"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 71858,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 5 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 5 quả",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 5 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 39900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 6000,
+        "totalSold": 79,
+        "unit": "Quả",
+        "sku": "Dua",
+        "rating": 5,
+        "instructions": "<p><img src=\"https://images.f99.com.vn/images/c6aed77f-5e7e-449d-9e89-ffb0628c92ba.jpg\"></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 5 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 96453,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "phí gọt bổ sẵn 2k",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "phí gọt bổ sẵn 2k",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "phí gọt bổ sẵn 2k",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 2000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 24000,
+        "totalSold": 0,
+        "unit": "Quả",
+        "sku": "Dua",
+        "rating": 5,
+        "instructions": "<p><img src=\"https://images.f99.com.vn/images/c6aed77f-5e7e-449d-9e89-ffb0628c92ba.jpg\"></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "phí gọt bổ sẵn 2k"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 250,
+      "sellerRate": 4.7,
+      "sellerName": "Fresh Meat – Thịt Heo Sạch",
+      "warehouseId": "b9609c8f-7018-457c-8460-255c8c884fdc",
+      "warehouseAddress": "Số 10A, Ngõ 61 Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3512,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 67.83505059291078,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

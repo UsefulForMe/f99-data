@@ -1,0 +1,35 @@
+{
+  "id": 690,
+  "name": "Vườn Cậu Hai",
+  "logo": "https://cdn.f99.link/groupbuy-images/0e0e93cf-825c-422b-9522-b886d2f8e406.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Kinh doanh thực phẩm thiết yếu: thịt gà vịt nguyên con, trái cây…",
+  "headQuarter": "79/D1 Âu Cơ, 14, Quận 11, Hồ Chí Minh",
+  "email": "nguyenkhactrung.nkt@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "17:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 8
+}

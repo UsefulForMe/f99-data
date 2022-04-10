@@ -1,0 +1,35 @@
+{
+  "id": 849,
+  "name": "BẾP BA CHIA",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/1ff62b3c-7299-4dbc-9222-dffeb0c57f58.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Bánh Mỳ Hoa Cúc Và Nước Ép Các Loại",
+  "headQuarter": "Số 04, Ngõ 6B, Phố Bế Văn Đàn, Quang Trung, Hà Đông, Hà Nội",
+  "email": "Vanillasky6193@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "23:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

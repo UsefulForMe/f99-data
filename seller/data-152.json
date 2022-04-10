@@ -1,0 +1,35 @@
+{
+  "id": 152,
+  "name": "Tâm An Fruits",
+  "logo": "https://cdn.f99.link/groupbuy-images/9b06dba8-aa4a-4e90-a3ef-44578d5a6568.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Tâm An Fruits - Chuyên hoa quả nhập khẩu, hoa quả 3 miền chất lượng cao, giá cả cạnh tranh",
+  "headQuarter": "Số 128 Nguyễn văn Tuyết, Trung Liệt, Đống Đa, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 2
+}

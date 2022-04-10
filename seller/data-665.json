@@ -1,0 +1,35 @@
+{
+  "id": 665,
+  "name": "Thủy Sản Xứ Nghệ",
+  "logo": "https://cdn.f99.link/groupbuy-images/92de9658-8ba9-4b92-ad98-ab2bd79ad172.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp hải sản Nghệ An tại Hà Nội",
+  "headQuarter": "Nhà 12, 219/111/8 Định Công Thượng, Định Công, Hoàng Mai, Hà Nội",
+  "email": "hoducbinh@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

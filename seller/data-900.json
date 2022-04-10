@@ -1,0 +1,35 @@
+{
+  "id": 900,
+  "name": "Nguyễn Lệ Fruits",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/1dcfe1fa-7529-4c79-9269-8cbab278ea73.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên sầu riêng và hoa quả sạch vùng miền",
+  "headQuarter": "Số 23 ngõ 192 đường Tây Tựu, Tây Tựu, Bắc Từ Liêm, Hà Nội",
+  "email": "le100394@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

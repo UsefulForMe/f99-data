@@ -1,0 +1,35 @@
+{
+  "id": 118,
+  "name": "Đinh Hương Fruit",
+  "logo": "https://cdn.f99.link/groupbuy-images/875bfcf5-8417-4d20-86a4-3b781ebc2de8.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Đinh Hương Fruit chuyên cung cấp bán buôn, lẻ trái cây nhập khẩu và đặc sản nội địa uy tín. Sản phẩm đồ sấy khô, trà hoa theo công nghệ sấy lạnh khép kín ATVSTP.",
+  "headQuarter": "64 Khương Đình, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội, Thượng Đình, Thanh Xuân, Hà Nội",
+  "email": "dinhhuongvissan@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 3.9,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 17
+}

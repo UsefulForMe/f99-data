@@ -1,0 +1,35 @@
+{
+  "id": 305,
+  "name": "Điểm Bán Xanh",
+  "logo": "https://cdn.f99.link/groupbuy-images/3e600f10-2d85-4146-8dd3-26c2d7bd385d.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chào mừng bạn đến với hệ thống Điểm Bán Xanh – Chuỗi cung ứng các sản phẩm thân thiện môi trường của chúng tôi. Với tất cả thông tin chi tiết và sự kết nối xuyên suốt của các sản phẩm OCOP, VietGap, Organic, các sản phẩm khởi nghiệp thanh niên, HTX …v.v. Sứ mệnh của chúng tôi sẽ là hoàn thành CON ĐƯỜNG NÔNG SẢN – Nơi kết nối giao thương sản phẩm Việt trên toàn quốc.\nTrụ sở HN: \n34 Khúc Thừa Dụ - Cầu Giấy - HN\nKiot2 - B3 - Hàm Nghi - Mỹ Đình - HN\n67 Yên Lãng - Đống Đa - HN\nSĐT: 039 989 8918",
+  "headQuarter": "Số 34 phố Khúc Thừa Dụ, Dịch Vọng, Cầu Giấy, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 62
+}

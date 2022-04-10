@@ -1,0 +1,2607 @@
+[
+  {
+    "id": 12205,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "ĐẬU LÔNG NHẬT BẢN",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>ĐẬU LÔNG NHẬT BẢN</p><p><br></p><p>Hẳn là các chị em hay ăn quán Nhật và Hàn sẽ không lạ gì 2 món này , thực sự em ra quán ăn thấy mấy chục nghìn đươc có vài miếng, em ăn không có bõ ý</p><p>Nay nhà mình đã có thể thưởng thức món ăn dân dã cực ngon kiaa tại nhà với giá mềm hơn rất nhiều nhé</p><p>Đậu lông Nhật đã chế biến sẵn , chỉ việc ăn thẳng ko phải làm gì thêm ạ !! Đậu lông Nhật có giá trị dinh dưỡng khá cao , cm có thể search gg là rõ nhé</p><p>Khách nhận đậu lưu í cho e mấy điều sau :</p><p>Đậu bỏ tủ đá cấp đông</p><p>Trc khi ăn đợi rã đôngg -&gt; quay lò vi sóng hoặc hấp 2-3p rồi ăn</p><p>Đậu đã luộc sẵn,ăn luôn ko cần chế biến.Hoặc có thể giã muối nhỏ rắc lên trên ăn rất đậm đà thơm ngon</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/e4fb8b09-947b-4190-be84-75f4cc949568.jpg\",\"https://images.f99.com.vn/images/c5580ea5-f3db-4e29-8348-0308a0741455.jpg\",\"https://images.f99.com.vn/images/7d82e15c-d289-43d1-ba3a-a17c28bccd5f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"đậu lông\",\"đồ ăn\",\"đậu lông nhật bản\",\"nhật bản\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "ĐẬU LÔNG NHẬT BẢN",
+    "description": "<p>ĐẬU LÔNG NHẬT BẢN</p><p><br></p><p>Hẳn là các chị em hay ăn quán Nhật và Hàn sẽ không lạ gì 2 món này , thực sự em ra quán ăn thấy mấy chục nghìn đươc có vài miếng, em ăn không có bõ ý</p><p>Nay nhà mình đã có thể thưởng thức món ăn dân dã cực ngon kiaa tại nhà với giá mềm hơn rất nhiều nhé</p><p>Đậu lông Nhật đã chế biến sẵn , chỉ việc ăn thẳng ko phải làm gì thêm ạ !! Đậu lông Nhật có giá trị dinh dưỡng khá cao , cm có thể search gg là rõ nhé</p><p>Khách nhận đậu lưu í cho e mấy điều sau :</p><p>Đậu bỏ tủ đá cấp đông</p><p>Trc khi ăn đợi rã đôngg -&gt; quay lò vi sóng hoặc hấp 2-3p rồi ăn</p><p>Đậu đã luộc sẵn,ăn luôn ko cần chế biến.Hoặc có thể giã muối nhỏ rắc lên trên ăn rất đậm đà thơm ngon</p>",
+    "imageUrl": "https://images.f99.com.vn/images/e4fb8b09-947b-4190-be84-75f4cc949568.jpg",
+    "price": 80000,
+    "oldPrice": 90000,
+    "discountPercent": 11,
+    "stock": 30,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "túi",
+    "sku": "",
+    "origin": "",
+    "sellerId": 172,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản tủ đông</p>",
+    "category": {
+      "id": 136,
+      "name": "Rau, củ quả",
+      "imageUrl": "https://images.f99.com.vn/notification-images/90bf209c-934b-4fd5-9c43-d76e0621251d.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "đậu lông",
+      "đồ ăn",
+      "đậu lông nhật bản",
+      "nhật bản"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/e4fb8b09-947b-4190-be84-75f4cc949568.jpg",
+      "https://images.f99.com.vn/images/c5580ea5-f3db-4e29-8348-0308a0741455.jpg",
+      "https://images.f99.com.vn/images/7d82e15c-d289-43d1-ba3a-a17c28bccd5f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12205",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 172,
+      "sellerRate": 4.4,
+      "sellerName": "SS Home Mart",
+      "warehouseId": "43079af3-c880-4cb2-a02d-39e8b9a996c0",
+      "warehouseAddress": "253 Thụy Khuê, phường Thụy Khuê, quận Tây Hồ, Hà Nội",
+      "distance": 2568,
+      "warehouseDistrict": "tay ho",
+      "reputation": 54.97361194029909,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13701,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bạc hà hữu cơ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[\"hữu cơ\"]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/76a5bbb2-a783-4f2e-88e7-5ed8bad878aa.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"hữu cơ\",\"bạc hà\",\"húng\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bạc hà hữu cơ",
+    "description": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+    "imageUrl": "https://images.f99.com.vn/images/76a5bbb2-a783-4f2e-88e7-5ed8bad878aa.png",
+    "price": 6000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 24,
+    "totalSold": 52,
+    "maxQuantityPerUser": null,
+    "unit": "100g",
+    "sku": "PVN56",
+    "origin": "",
+    "sellerId": 222,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản trong tủ mát</p>",
+    "category": {
+      "id": 136,
+      "name": "Rau, củ quả",
+      "imageUrl": "https://images.f99.com.vn/notification-images/90bf209c-934b-4fd5-9c43-d76e0621251d.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [
+      "hữu cơ"
+    ],
+    "tags": [
+      "hữu cơ",
+      "bạc hà",
+      "húng"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/76a5bbb2-a783-4f2e-88e7-5ed8bad878aa.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13701",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 222,
+      "sellerRate": 4.9,
+      "sellerName": "Thực phẩm tự nhiên VipinFood",
+      "warehouseId": "7d69625a-67e9-41f3-97f0-e37c8e9e6f49",
+      "warehouseAddress": "Tầng 1 tòa N03T7 Khu Ngoại Giao Đoàn, phường Xuân Tảo, Bắc Từ Liêm, Hà Nội",
+      "distance": 5394,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 67.6222736151496,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13702,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bầu sao hữu cơ (0.6-0.8kg)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[\"hữu cơ\"]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/632dbae4-f307-46f7-aa86-f33b5f615581.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"bầu sao\",\"hữu cơ\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bầu sao hữu cơ (0.6-0.8kg)",
+    "description": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+    "imageUrl": "https://images.f99.com.vn/images/632dbae4-f307-46f7-aa86-f33b5f615581.png",
+    "price": 25000,
+    "oldPrice": 30000,
+    "discountPercent": 17,
+    "stock": 24,
+    "totalSold": 9,
+    "maxQuantityPerUser": null,
+    "unit": "quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 222,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản trong tủ mát</p>",
+    "category": {
+      "id": 136,
+      "name": "Rau, củ quả",
+      "imageUrl": "https://images.f99.com.vn/notification-images/90bf209c-934b-4fd5-9c43-d76e0621251d.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [
+      "hữu cơ"
+    ],
+    "tags": [
+      "bầu sao",
+      "hữu cơ"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/632dbae4-f307-46f7-aa86-f33b5f615581.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13702",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 222,
+      "sellerRate": 4.9,
+      "sellerName": "Thực phẩm tự nhiên VipinFood",
+      "warehouseId": "7d69625a-67e9-41f3-97f0-e37c8e9e6f49",
+      "warehouseAddress": "Tầng 1 tòa N03T7 Khu Ngoại Giao Đoàn, phường Xuân Tảo, Bắc Từ Liêm, Hà Nội",
+      "distance": 5394,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 67.6222736151496,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13703,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bí đỏ hữu cơ (1-1.3kg)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/86fbc153-2874-44d9-80ff-250ea87a45e8.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"bí đỏ\",\"hữu cơ\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bí đỏ hữu cơ (1-1.3kg)",
+    "description": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+    "imageUrl": "https://images.f99.com.vn/images/86fbc153-2874-44d9-80ff-250ea87a45e8.png",
+    "price": 25000,
+    "oldPrice": 27000,
+    "discountPercent": 7,
+    "stock": 10,
+    "totalSold": 347,
+    "maxQuantityPerUser": null,
+    "unit": "quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 222,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản trong tủ mát</p>",
+    "category": {
+      "id": 136,
+      "name": "Rau, củ quả",
+      "imageUrl": "https://images.f99.com.vn/notification-images/90bf209c-934b-4fd5-9c43-d76e0621251d.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "bí đỏ",
+      "hữu cơ"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/86fbc153-2874-44d9-80ff-250ea87a45e8.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13703",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 222,
+      "sellerRate": 4.9,
+      "sellerName": "Thực phẩm tự nhiên VipinFood",
+      "warehouseId": "7d69625a-67e9-41f3-97f0-e37c8e9e6f49",
+      "warehouseAddress": "Tầng 1 tòa N03T7 Khu Ngoại Giao Đoàn, phường Xuân Tảo, Bắc Từ Liêm, Hà Nội",
+      "distance": 5394,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 67.6222736151496,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13704,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bí thơm Bắc Kạn nguyên quả",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM BÍ THƠM</p><ol><li>Nguồn gốc: Bắc Kạn</li><li>Đã được kiểm định chứng nhận rau củ quả sạch.</li></ol>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/93604008-0a96-468d-af14-5360e611e562.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"bí thơm\",\"bắc kanj\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bí thơm Bắc Kạn nguyên quả",
+    "description": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM BÍ THƠM</p><ol><li>Nguồn gốc: Bắc Kạn</li><li>Đã được kiểm định chứng nhận rau củ quả sạch.</li></ol>",
+    "imageUrl": "https://images.f99.com.vn/images/93604008-0a96-468d-af14-5360e611e562.png",
+    "price": 35000,
+    "oldPrice": 40000,
+    "discountPercent": 12,
+    "stock": 12,
+    "totalSold": 45,
+    "maxQuantityPerUser": null,
+    "unit": "quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 222,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản trong tủ mát</p>",
+    "category": {
+      "id": 136,
+      "name": "Rau, củ quả",
+      "imageUrl": "https://images.f99.com.vn/notification-images/90bf209c-934b-4fd5-9c43-d76e0621251d.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "bí thơm",
+      "bắc kanj"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/93604008-0a96-468d-af14-5360e611e562.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13704",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 222,
+      "sellerRate": 4.9,
+      "sellerName": "Thực phẩm tự nhiên VipinFood",
+      "warehouseId": "7d69625a-67e9-41f3-97f0-e37c8e9e6f49",
+      "warehouseAddress": "Tầng 1 tòa N03T7 Khu Ngoại Giao Đoàn, phường Xuân Tảo, Bắc Từ Liêm, Hà Nội",
+      "distance": 5394,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 67.6222736151496,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13705,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bí xanh hữu cơ (1.3-1.5kg)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/d5e25422-680b-4e23-8ed5-add3be2554d6.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"bí xanh\",\"hữu cơ\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bí xanh hữu cơ (1.3-1.5kg)",
+    "description": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+    "imageUrl": "https://images.f99.com.vn/images/d5e25422-680b-4e23-8ed5-add3be2554d6.png",
+    "price": 45000,
+    "oldPrice": 50000,
+    "discountPercent": 10,
+    "stock": 12,
+    "totalSold": 8,
+    "maxQuantityPerUser": null,
+    "unit": "quả ",
+    "sku": "",
+    "origin": "",
+    "sellerId": 222,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản trong tủ mát</p>",
+    "category": {
+      "id": 136,
+      "name": "Rau, củ quả",
+      "imageUrl": "https://images.f99.com.vn/notification-images/90bf209c-934b-4fd5-9c43-d76e0621251d.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "bí xanh",
+      "hữu cơ"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/d5e25422-680b-4e23-8ed5-add3be2554d6.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13705",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 222,
+      "sellerRate": 4.9,
+      "sellerName": "Thực phẩm tự nhiên VipinFood",
+      "warehouseId": "7d69625a-67e9-41f3-97f0-e37c8e9e6f49",
+      "warehouseAddress": "Tầng 1 tòa N03T7 Khu Ngoại Giao Đoàn, phường Xuân Tảo, Bắc Từ Liêm, Hà Nội",
+      "distance": 5394,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 67.6222736151496,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13706,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cà rốt cọng tím hữu cơ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/2f6c01cc-e269-40e4-81a4-030b73181b01.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"cà rốt\",\"cọng tím\",\"hữu cơ\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cà rốt cọng tím hữu cơ",
+    "description": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+    "imageUrl": "https://images.f99.com.vn/images/2f6c01cc-e269-40e4-81a4-030b73181b01.png",
+    "price": 15000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 24,
+    "totalSold": 32,
+    "maxQuantityPerUser": null,
+    "unit": "300g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 222,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản trong tủ mát</p>",
+    "category": {
+      "id": 136,
+      "name": "Rau, củ quả",
+      "imageUrl": "https://images.f99.com.vn/notification-images/90bf209c-934b-4fd5-9c43-d76e0621251d.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "cà rốt",
+      "cọng tím",
+      "hữu cơ"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/2f6c01cc-e269-40e4-81a4-030b73181b01.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13706",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 222,
+      "sellerRate": 4.9,
+      "sellerName": "Thực phẩm tự nhiên VipinFood",
+      "warehouseId": "7d69625a-67e9-41f3-97f0-e37c8e9e6f49",
+      "warehouseAddress": "Tầng 1 tòa N03T7 Khu Ngoại Giao Đoàn, phường Xuân Tảo, Bắc Từ Liêm, Hà Nội",
+      "distance": 5394,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 67.6222736151496,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13708,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hành lá hữu cơ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/c7a88a58-7041-47d4-a156-bd9ee0b82300.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"hành lá\",\"hữu cơ\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hành lá hữu cơ",
+    "description": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+    "imageUrl": "https://images.f99.com.vn/images/c7a88a58-7041-47d4-a156-bd9ee0b82300.png",
+    "price": 6000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 25,
+    "totalSold": 92,
+    "maxQuantityPerUser": null,
+    "unit": "100g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 222,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản trong tủ mát</p>",
+    "category": {
+      "id": 136,
+      "name": "Rau, củ quả",
+      "imageUrl": "https://images.f99.com.vn/notification-images/90bf209c-934b-4fd5-9c43-d76e0621251d.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "hành lá",
+      "hữu cơ"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/c7a88a58-7041-47d4-a156-bd9ee0b82300.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13708",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 222,
+      "sellerRate": 4.9,
+      "sellerName": "Thực phẩm tự nhiên VipinFood",
+      "warehouseId": "7d69625a-67e9-41f3-97f0-e37c8e9e6f49",
+      "warehouseAddress": "Tầng 1 tòa N03T7 Khu Ngoại Giao Đoàn, phường Xuân Tảo, Bắc Từ Liêm, Hà Nội",
+      "distance": 5394,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 67.6222736151496,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13709,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hành tây hữu cơ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/7cd3a62d-ac77-4394-b635-4c39092740e0.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"hữu cơ\",\"hành tây\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hành tây hữu cơ",
+    "description": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+    "imageUrl": "https://images.f99.com.vn/images/7cd3a62d-ac77-4394-b635-4c39092740e0.png",
+    "price": 15000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 15,
+    "totalSold": 24,
+    "maxQuantityPerUser": null,
+    "unit": "300g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 222,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản trong tủ mát</p>",
+    "category": {
+      "id": 136,
+      "name": "Rau, củ quả",
+      "imageUrl": "https://images.f99.com.vn/notification-images/90bf209c-934b-4fd5-9c43-d76e0621251d.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "hữu cơ",
+      "hành tây"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/7cd3a62d-ac77-4394-b635-4c39092740e0.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13709",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 222,
+      "sellerRate": 4.9,
+      "sellerName": "Thực phẩm tự nhiên VipinFood",
+      "warehouseId": "7d69625a-67e9-41f3-97f0-e37c8e9e6f49",
+      "warehouseAddress": "Tầng 1 tòa N03T7 Khu Ngoại Giao Đoàn, phường Xuân Tảo, Bắc Từ Liêm, Hà Nội",
+      "distance": 5394,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 67.6222736151496,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13713,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Kinh giới hữu cơ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/d2958e65-4b95-4f58-926f-71c7e25a5309.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"kinh giới\",\"hữu cơ\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Kinh giới hữu cơ",
+    "description": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+    "imageUrl": "https://images.f99.com.vn/images/d2958e65-4b95-4f58-926f-71c7e25a5309.png",
+    "price": 6000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 12,
+    "totalSold": 11,
+    "maxQuantityPerUser": null,
+    "unit": "100g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 222,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản trong tủ mát</p>",
+    "category": {
+      "id": 136,
+      "name": "Rau, củ quả",
+      "imageUrl": "https://images.f99.com.vn/notification-images/90bf209c-934b-4fd5-9c43-d76e0621251d.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "kinh giới",
+      "hữu cơ"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/d2958e65-4b95-4f58-926f-71c7e25a5309.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13713",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 222,
+      "sellerRate": 4.9,
+      "sellerName": "Thực phẩm tự nhiên VipinFood",
+      "warehouseId": "7d69625a-67e9-41f3-97f0-e37c8e9e6f49",
+      "warehouseAddress": "Tầng 1 tòa N03T7 Khu Ngoại Giao Đoàn, phường Xuân Tảo, Bắc Từ Liêm, Hà Nội",
+      "distance": 5394,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 67.6222736151496,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13715,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lạc đỏ không vỏ hữu cơ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/4cad6b3b-08c7-4dd2-a258-5a96ac6469d8.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"lạc đỏ\",\"khô\",\"hữu cơ\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lạc đỏ không vỏ hữu cơ",
+    "description": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+    "imageUrl": "https://images.f99.com.vn/images/4cad6b3b-08c7-4dd2-a258-5a96ac6469d8.png",
+    "price": 20000,
+    "oldPrice": 22000,
+    "discountPercent": 9,
+    "stock": 500,
+    "totalSold": 22,
+    "maxQuantityPerUser": null,
+    "unit": "200g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 222,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản trong tủ mát</p>",
+    "category": {
+      "id": 136,
+      "name": "Rau, củ quả",
+      "imageUrl": "https://images.f99.com.vn/notification-images/90bf209c-934b-4fd5-9c43-d76e0621251d.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "lạc đỏ",
+      "khô",
+      "hữu cơ"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/4cad6b3b-08c7-4dd2-a258-5a96ac6469d8.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13715",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 222,
+      "sellerRate": 4.9,
+      "sellerName": "Thực phẩm tự nhiên VipinFood",
+      "warehouseId": "7d69625a-67e9-41f3-97f0-e37c8e9e6f49",
+      "warehouseAddress": "Tầng 1 tòa N03T7 Khu Ngoại Giao Đoàn, phường Xuân Tảo, Bắc Từ Liêm, Hà Nội",
+      "distance": 5394,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 67.6222736151496,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13717,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lặc lè hữu cơ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/bd790be0-44ab-4510-ba0a-1e054337ba06.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"hữu cơ\",\"lặc lè\",\"mướp nhật\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lặc lè hữu cơ",
+    "description": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+    "imageUrl": "https://images.f99.com.vn/images/bd790be0-44ab-4510-ba0a-1e054337ba06.png",
+    "price": 14000,
+    "oldPrice": 15000,
+    "discountPercent": 7,
+    "stock": 34,
+    "totalSold": 40,
+    "maxQuantityPerUser": null,
+    "unit": "300g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 222,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản trong tủ mát</p>",
+    "category": {
+      "id": 136,
+      "name": "Rau, củ quả",
+      "imageUrl": "https://images.f99.com.vn/notification-images/90bf209c-934b-4fd5-9c43-d76e0621251d.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "hữu cơ",
+      "lặc lè",
+      "mướp nhật"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/bd790be0-44ab-4510-ba0a-1e054337ba06.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13717",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 222,
+      "sellerRate": 4.9,
+      "sellerName": "Thực phẩm tự nhiên VipinFood",
+      "warehouseId": "7d69625a-67e9-41f3-97f0-e37c8e9e6f49",
+      "warehouseAddress": "Tầng 1 tòa N03T7 Khu Ngoại Giao Đoàn, phường Xuân Tảo, Bắc Từ Liêm, Hà Nội",
+      "distance": 5394,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 67.6222736151496,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13718,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Ớt cay hữu cơ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/55485cba-3138-427a-96b0-268d7ead74d6.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"ớt cay\",\"hữu cơ\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Ớt cay hữu cơ",
+    "description": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+    "imageUrl": "https://images.f99.com.vn/images/55485cba-3138-427a-96b0-268d7ead74d6.png",
+    "price": 4000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 24,
+    "totalSold": 54,
+    "maxQuantityPerUser": null,
+    "unit": "50g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 222,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản trong tủ mát</p>",
+    "category": {
+      "id": 136,
+      "name": "Rau, củ quả",
+      "imageUrl": "https://images.f99.com.vn/notification-images/90bf209c-934b-4fd5-9c43-d76e0621251d.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "ớt cay",
+      "hữu cơ"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/55485cba-3138-427a-96b0-268d7ead74d6.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13718",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 222,
+      "sellerRate": 4.9,
+      "sellerName": "Thực phẩm tự nhiên VipinFood",
+      "warehouseId": "7d69625a-67e9-41f3-97f0-e37c8e9e6f49",
+      "warehouseAddress": "Tầng 1 tòa N03T7 Khu Ngoại Giao Đoàn, phường Xuân Tảo, Bắc Từ Liêm, Hà Nội",
+      "distance": 5394,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 67.6222736151496,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14060,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Rau muống hữu cơ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/4704458c-2284-47c0-9681-97d39591fdd2.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"rau muống\",\"hữu cơ\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Rau muống hữu cơ",
+    "description": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+    "imageUrl": "https://images.f99.com.vn/images/4704458c-2284-47c0-9681-97d39591fdd2.png",
+    "price": 9000,
+    "oldPrice": 20000,
+    "discountPercent": 55,
+    "stock": 24,
+    "totalSold": 380,
+    "maxQuantityPerUser": null,
+    "unit": "400g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 222,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản trong tủ mát</p>",
+    "category": {
+      "id": 136,
+      "name": "Rau, củ quả",
+      "imageUrl": "https://images.f99.com.vn/notification-images/90bf209c-934b-4fd5-9c43-d76e0621251d.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "rau muống",
+      "hữu cơ"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/4704458c-2284-47c0-9681-97d39591fdd2.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14060",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "400g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 74873,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "400g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "400g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "400g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 9000,
+        "oldPrice": 20000,
+        "discountPercent": 55,
+        "stock": 24,
+        "totalSold": 380,
+        "unit": "400g",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản trong tủ mát</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "400g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 222,
+      "sellerRate": 4.9,
+      "sellerName": "Thực phẩm tự nhiên VipinFood",
+      "warehouseId": "7d69625a-67e9-41f3-97f0-e37c8e9e6f49",
+      "warehouseAddress": "Tầng 1 tòa N03T7 Khu Ngoại Giao Đoàn, phường Xuân Tảo, Bắc Từ Liêm, Hà Nội",
+      "distance": 5394,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 67.6222736151496,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14061,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Rau cải canh hữu cơ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/5b9616e5-0840-47e7-808b-d3f0b11297e2.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"rau cải\",\"cải canh\",\"hữu cơ\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Rau cải canh hữu cơ",
+    "description": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+    "imageUrl": "https://images.f99.com.vn/images/5b9616e5-0840-47e7-808b-d3f0b11297e2.png",
+    "price": 12900,
+    "oldPrice": 20000,
+    "discountPercent": 36,
+    "stock": 24,
+    "totalSold": 318,
+    "maxQuantityPerUser": null,
+    "unit": "400g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 222,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản trong tủ mát</p>",
+    "category": {
+      "id": 136,
+      "name": "Rau, củ quả",
+      "imageUrl": "https://images.f99.com.vn/notification-images/90bf209c-934b-4fd5-9c43-d76e0621251d.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "rau cải",
+      "cải canh",
+      "hữu cơ"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/5b9616e5-0840-47e7-808b-d3f0b11297e2.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14061",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 222,
+      "sellerRate": 4.9,
+      "sellerName": "Thực phẩm tự nhiên VipinFood",
+      "warehouseId": "7d69625a-67e9-41f3-97f0-e37c8e9e6f49",
+      "warehouseAddress": "Tầng 1 tòa N03T7 Khu Ngoại Giao Đoàn, phường Xuân Tảo, Bắc Từ Liêm, Hà Nội",
+      "distance": 5394,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 67.6222736151496,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14062,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Rau dền đỏ hữu cơ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/1775306c-9df9-46a8-b4d9-b31193d0ebee.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"rau dền\",\"dền đỏ\",\"hữu cơ\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Rau dền đỏ hữu cơ",
+    "description": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+    "imageUrl": "https://images.f99.com.vn/images/1775306c-9df9-46a8-b4d9-b31193d0ebee.png",
+    "price": 12900,
+    "oldPrice": 20000,
+    "discountPercent": 36,
+    "stock": 24,
+    "totalSold": 193,
+    "maxQuantityPerUser": null,
+    "unit": "400g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 222,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản trong tủ mát</p>",
+    "category": {
+      "id": 136,
+      "name": "Rau, củ quả",
+      "imageUrl": "https://images.f99.com.vn/notification-images/90bf209c-934b-4fd5-9c43-d76e0621251d.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "rau dền",
+      "dền đỏ",
+      "hữu cơ"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/1775306c-9df9-46a8-b4d9-b31193d0ebee.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14062",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 222,
+      "sellerRate": 4.9,
+      "sellerName": "Thực phẩm tự nhiên VipinFood",
+      "warehouseId": "7d69625a-67e9-41f3-97f0-e37c8e9e6f49",
+      "warehouseAddress": "Tầng 1 tòa N03T7 Khu Ngoại Giao Đoàn, phường Xuân Tảo, Bắc Từ Liêm, Hà Nội",
+      "distance": 5394,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 67.6222736151496,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14074,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Tía tô hữu cơ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/8780ece0-3068-4440-bf18-893ab1c4dacb.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"hữu cơ\",\"tía tô\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Tía tô hữu cơ",
+    "description": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+    "imageUrl": "https://images.f99.com.vn/images/8780ece0-3068-4440-bf18-893ab1c4dacb.png",
+    "price": 6000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 24,
+    "totalSold": 52,
+    "maxQuantityPerUser": null,
+    "unit": "100g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 222,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản trong tủ mát</p>",
+    "category": {
+      "id": 136,
+      "name": "Rau, củ quả",
+      "imageUrl": "https://images.f99.com.vn/notification-images/90bf209c-934b-4fd5-9c43-d76e0621251d.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "hữu cơ",
+      "tía tô"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/8780ece0-3068-4440-bf18-893ab1c4dacb.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14074",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 222,
+      "sellerRate": 4.9,
+      "sellerName": "Thực phẩm tự nhiên VipinFood",
+      "warehouseId": "7d69625a-67e9-41f3-97f0-e37c8e9e6f49",
+      "warehouseAddress": "Tầng 1 tòa N03T7 Khu Ngoại Giao Đoàn, phường Xuân Tảo, Bắc Từ Liêm, Hà Nội",
+      "distance": 5394,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 67.6222736151496,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14076,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Tỏi ta hữu cơ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/1bd1e069-ca29-447b-8a95-e4c9f910a271.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"tỏi ta\",\"hữu cơ\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Tỏi ta hữu cơ",
+    "description": "<p>ƯU ĐÃI ĐẶC BIỆT MỪNG SHOP MỚI LÊN SÀN</p><p>Tặng 1 khay thịt/ xương bất kì với hoá đơn trên 250.000Đ</p><p class=\"ql-align-center\"><br></p><p>THÔNG TIN SẢN PHẨM RAU HỮU CƠ</p><ol><li>Nguồn gốc: Sóc Sơn, Hà Nội.</li><li>Đã được kiểm định chứng nhận rau củ hữu cơ.</li></ol>",
+    "imageUrl": "https://images.f99.com.vn/images/1bd1e069-ca29-447b-8a95-e4c9f910a271.png",
+    "price": 15000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 24,
+    "totalSold": 46,
+    "maxQuantityPerUser": null,
+    "unit": "100g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 222,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản trong tủ mát</p>",
+    "category": {
+      "id": 136,
+      "name": "Rau, củ quả",
+      "imageUrl": "https://images.f99.com.vn/notification-images/90bf209c-934b-4fd5-9c43-d76e0621251d.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "tỏi ta",
+      "hữu cơ"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/1bd1e069-ca29-447b-8a95-e4c9f910a271.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14076",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 222,
+      "sellerRate": 4.9,
+      "sellerName": "Thực phẩm tự nhiên VipinFood",
+      "warehouseId": "7d69625a-67e9-41f3-97f0-e37c8e9e6f49",
+      "warehouseAddress": "Tầng 1 tòa N03T7 Khu Ngoại Giao Đoàn, phường Xuân Tảo, Bắc Từ Liêm, Hà Nội",
+      "distance": 5394,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 67.6222736151496,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14310,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cà Chua",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>👍Cách bảo quản:</p><p>- Bọc kín trong hộp hoặc túi nilon bảo quản trong ngăn mát đối với rau củ quả/ ngăn đá đối với thịt/ cá</p><p>👍Cam kết của HOMEYFOOD đối với khách hàng:</p><p>- Sản phẩm có xuất xứ rõ ràng</p><p>- Quá trình chăn nuôi, trồng trọt không sử dụng hóa chất có hại cho sức khỏe</p><p>- Quy trình sơ chế và đóng gói đảm bảo vệ sinh an toàn thực phẩm</p><p>- Cam kết hoàn trả nếu phát hiện sản phẩm thiếu, hỏng</p><p><br></p><p>Với tâm huyết mang đến sản phẩm chất lượng hơn mỗi ngày, chúng mình luôn sẵn sàng lắng nghe phản hồi của các bạn qua:</p><p>Hotline: 082.3232374</p><p>Fanpage: Homeyfood.net</p><p>Website: https://www.homeyfood.net</p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/5bfaeb52-e5b0-4b5b-a25f-c8ac8fd39728.jpg\",\"https://images.f99.com.vn/images/81546377-be4a-445d-a445-6dea90f6d694.jpg\",\"https://images.f99.com.vn/images/a9498b96-e1d5-4876-9b5f-6b17b50d4287.jpg\",\"https://images.f99.com.vn/images/3f997710-6b2b-4017-b6aa-dea0d7f9361f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cà Chua",
+    "description": "<p>👍Cách bảo quản:</p><p>- Bọc kín trong hộp hoặc túi nilon bảo quản trong ngăn mát đối với rau củ quả/ ngăn đá đối với thịt/ cá</p><p>👍Cam kết của HOMEYFOOD đối với khách hàng:</p><p>- Sản phẩm có xuất xứ rõ ràng</p><p>- Quá trình chăn nuôi, trồng trọt không sử dụng hóa chất có hại cho sức khỏe</p><p>- Quy trình sơ chế và đóng gói đảm bảo vệ sinh an toàn thực phẩm</p><p>- Cam kết hoàn trả nếu phát hiện sản phẩm thiếu, hỏng</p><p><br></p><p>Với tâm huyết mang đến sản phẩm chất lượng hơn mỗi ngày, chúng mình luôn sẵn sàng lắng nghe phản hồi của các bạn qua:</p><p>Hotline: 082.3232374</p><p>Fanpage: Homeyfood.net</p><p>Website: https://www.homeyfood.net</p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/5bfaeb52-e5b0-4b5b-a25f-c8ac8fd39728.jpg",
+    "price": 12000,
+    "oldPrice": 20000,
+    "discountPercent": 40,
+    "stock": 999,
+    "totalSold": 4276,
+    "maxQuantityPerUser": null,
+    "unit": "500 gram",
+    "sku": "",
+    "origin": "",
+    "sellerId": 240,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 136,
+      "name": "Rau, củ quả",
+      "imageUrl": "https://images.f99.com.vn/notification-images/90bf209c-934b-4fd5-9c43-d76e0621251d.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/5bfaeb52-e5b0-4b5b-a25f-c8ac8fd39728.jpg",
+      "https://images.f99.com.vn/images/81546377-be4a-445d-a445-6dea90f6d694.jpg",
+      "https://images.f99.com.vn/images/a9498b96-e1d5-4876-9b5f-6b17b50d4287.jpg",
+      "https://images.f99.com.vn/images/3f997710-6b2b-4017-b6aa-dea0d7f9361f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14310",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "500 gram"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 63322,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500 gram",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "500 gram",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500 gram",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 12000,
+        "oldPrice": 20000,
+        "discountPercent": 40,
+        "stock": 999,
+        "totalSold": 4276,
+        "unit": "500 gram",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "500 gram"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 240,
+      "sellerRate": 4.5,
+      "sellerName": "Homey Fruit & Veg ",
+      "warehouseId": "ccb00cae-e276-4a1b-af4a-ae822ab5c570",
+      "warehouseAddress": "số 52 ngõ 376 Bưởi, Vĩnh Phúc, Ba Đình, Hà Nội",
+      "distance": 3021,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 77.89029707147643,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14313,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cà Rốt ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgba(0, 0, 0, 0.8);\">👍Cách bảo quản:</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Bọc kín trong hộp hoặc túi nilon bảo quản trong ngăn mát đối với rau củ quả/ ngăn đá đối với thịt/ cá</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">👍Cam kết của HOMEYFOOD đối với khách hàng:</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Sản phẩm có xuất xứ rõ ràng</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Quá trình chăn nuôi, trồng trọt không sử dụng hóa chất có hại cho sức khỏe</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Quy trình sơ chế và đóng gói đảm bảo vệ sinh an toàn thực phẩm</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Cam kết hoàn trả nếu phát hiện sản phẩm thiếu, hỏng</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Với tâm huyết mang đến sản phẩm chất lượng hơn mỗi ngày, chúng mình luôn sẵn sàng lắng nghe phản hồi của các bạn qua:</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hotline: 082.3232374</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Fanpage: Homeyfood.net</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Website: https://www.homeyfood.net</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/cc9edc32-34d3-45a0-8398-7af2242e0c8c.jpg\",\"https://images.f99.com.vn/images/65bc9c43-e229-4bab-abd0-04c86495360f.jpg\",\"https://images.f99.com.vn/images/f640d802-f33c-42a5-8420-eeb9041cc1de.jpg\",\"https://images.f99.com.vn/images/2b159cb4-aa2b-44f5-8d57-4c8da963592b.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cà Rốt ",
+    "description": "<p><span style=\"color: rgba(0, 0, 0, 0.8);\">👍Cách bảo quản:</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Bọc kín trong hộp hoặc túi nilon bảo quản trong ngăn mát đối với rau củ quả/ ngăn đá đối với thịt/ cá</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">👍Cam kết của HOMEYFOOD đối với khách hàng:</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Sản phẩm có xuất xứ rõ ràng</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Quá trình chăn nuôi, trồng trọt không sử dụng hóa chất có hại cho sức khỏe</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Quy trình sơ chế và đóng gói đảm bảo vệ sinh an toàn thực phẩm</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Cam kết hoàn trả nếu phát hiện sản phẩm thiếu, hỏng</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Với tâm huyết mang đến sản phẩm chất lượng hơn mỗi ngày, chúng mình luôn sẵn sàng lắng nghe phản hồi của các bạn qua:</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hotline: 082.3232374</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Fanpage: Homeyfood.net</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Website: https://www.homeyfood.net</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/cc9edc32-34d3-45a0-8398-7af2242e0c8c.jpg",
+    "price": 10000,
+    "oldPrice": 18000,
+    "discountPercent": 44,
+    "stock": 999,
+    "totalSold": 2165,
+    "maxQuantityPerUser": null,
+    "unit": "500 gram",
+    "sku": "",
+    "origin": "",
+    "sellerId": 240,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 136,
+      "name": "Rau, củ quả",
+      "imageUrl": "https://images.f99.com.vn/notification-images/90bf209c-934b-4fd5-9c43-d76e0621251d.png",
+      "parentId": 95,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/cc9edc32-34d3-45a0-8398-7af2242e0c8c.jpg",
+      "https://images.f99.com.vn/images/65bc9c43-e229-4bab-abd0-04c86495360f.jpg",
+      "https://images.f99.com.vn/images/f640d802-f33c-42a5-8420-eeb9041cc1de.jpg",
+      "https://images.f99.com.vn/images/2b159cb4-aa2b-44f5-8d57-4c8da963592b.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14313",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "500 gram"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 63328,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500 gram",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "500 gram",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500 gram",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 10000,
+        "oldPrice": 18000,
+        "discountPercent": 44,
+        "stock": 999,
+        "totalSold": 2165,
+        "unit": "500 gram",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "500 gram"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 240,
+      "sellerRate": 4.5,
+      "sellerName": "Homey Fruit & Veg ",
+      "warehouseId": "ccb00cae-e276-4a1b-af4a-ae822ab5c570",
+      "warehouseAddress": "số 52 ngõ 376 Bưởi, Vĩnh Phúc, Ba Đình, Hà Nội",
+      "distance": 3021,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 77.89029707147643,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

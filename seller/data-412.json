@@ -1,0 +1,35 @@
+{
+  "id": 412,
+  "name": "46 Mart - Siêu Thị Đồ Ăn",
+  "logo": "https://cdn.f99.link/groupbuy-images/87fc9549-55d3-4e15-b2eb-6435d24bb643.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp thực phẩm chế biến sẵn, thực phẩm tươi sống và các món ăn bổ dưỡng",
+  "headQuarter": "46 Hàng Chuối, Phạm Đình Hổ, Hai Bà Trưng, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.8,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "22:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 54
+}

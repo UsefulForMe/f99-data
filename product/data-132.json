@@ -1,0 +1,3404 @@
+[
+  {
+    "id": 8019,
+    "attributeTextValues": [
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/0707c4df2f8f4641b72925939de766db.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Mực ống size 2-4 con/kg</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mực ống size 2-4 con/kg",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mực ống size 2-4 con/kg",
+    "description": "<p>Mực ống size 2-4 con/kg</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/0707c4df2f8f4641b72925939de766db.jpg",
+    "price": 225000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "8938528212563",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 132,
+      "name": "Mực ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/37d1439d-2a61-413d-8770-2e1c2fc392c0.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/0707c4df2f8f4641b72925939de766db.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8019",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8044,
+    "attributeTextValues": [
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/1be8e4ece2ef4d16b51cdf20e6c8a67d.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mực trứng loại lớn 500gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Mực trứng loại lớn 500gr</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mực trứng loại lớn 500gr",
+    "description": "<p>Mực trứng loại lớn 500gr</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/1be8e4ece2ef4d16b51cdf20e6c8a67d.jpg",
+    "price": 235000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "8938528212549",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 132,
+      "name": "Mực ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/37d1439d-2a61-413d-8770-2e1c2fc392c0.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/1be8e4ece2ef4d16b51cdf20e6c8a67d.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8044",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8045,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bạch tuộc làm sạch 500gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Bạch tuộc làm sạch 500gr</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/e9c0496f8cba41938d04afdb45e87f89.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bạch tuộc làm sạch 500gr",
+    "description": "<p>Bạch tuộc làm sạch 500gr</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/e9c0496f8cba41938d04afdb45e87f89.jpg",
+    "price": 125000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "8938528212518",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 132,
+      "name": "Mực ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/37d1439d-2a61-413d-8770-2e1c2fc392c0.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/e9c0496f8cba41938d04afdb45e87f89.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8045",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8089,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Điệp bóc nõn loại trung 500gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Điệp bóc nõn loại trung 500gr</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/b932b251e6824cf096aeb78715450ea0.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Điệp bóc nõn loại trung 500gr",
+    "description": "<p>Điệp bóc nõn loại trung 500gr</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/b932b251e6824cf096aeb78715450ea0.jpg",
+    "price": 160000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Gói",
+    "sku": "8938528212617",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 132,
+      "name": "Mực ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/37d1439d-2a61-413d-8770-2e1c2fc392c0.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/b932b251e6824cf096aeb78715450ea0.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8089",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13978,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "VITOT FOOD - MỰC TRỨNG (500g/khay)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong>1. MỰC TRỨNG LÀ GÌ?</strong></p><p><strong>Mực trứng</strong> là một loài mực nhỏ có nhiều ở các vùng biển miền Trung. Mực trứng có thịt săn chắc, vị béo, trong bụng đầy ắp trứng. Mực trứng thuộc top hải sản nhiều dinh dưỡng, phù hợp với mọi lứa tuổi.</p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/531b76e6-74b2-4f83-b1fa-e8066323f8f1.jpg\"></p><p><strong>Mực trứng</strong> tại Vitot Food được nhập trực tiếp từ vùng biển Phan Thiết. Khách mua về chỉ cần rửa sơ qua bằng nước sạch là có thể chế biến nhiều món ngon độc đáo.</p><p>- Quy cách đóng gói: 500g/khay</p><p>- Các món chế biến từ <strong>mực trứng</strong>:</p><ul><li>Mực trứng hấp gừng</li><li>Mực trứng chiên</li><li>Mực trứng thả lẩu</li><li>Mực trứng nướng.</li></ul><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/30f1bd98-8a3d-4f0b-9cab-3f47fafc3517.jpg\"></p><p><br></p><p><strong>2. CAM KẾT CỦA VITOT FOOD</strong></p><p>- Hàng ngon - giá tốt.</p><p>- 1 đổi 1 nếu sản phẩm bị lỗi.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/6e97e1c8-f9ca-4c64-af85-64d13214bb40.png\",\"https://images.f99.com.vn/images/38468f13-92b7-4ab1-8674-239fdb4fc7d7.jpg\",\"https://images.f99.com.vn/images/7c171eef-a813-44d0-ad78-0aaa794cebde.jpg\",\"https://images.f99.com.vn/images/a76df7f9-699d-4f2b-8be8-bd02aebb571b.jpg\",\"https://images.f99.com.vn/images/908861f7-1a10-4ec8-8ccc-f4201ee7431f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"mực trứng\",\"Mực trứng Cát Bà\",\"Mực trứng Phan Thiết\",\"Mực trứng giá bao nhiêu\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "VITOT FOOD - MỰC TRỨNG (500g/khay)",
+    "description": "<p><strong>1. MỰC TRỨNG LÀ GÌ?</strong></p><p><strong>Mực trứng</strong> là một loài mực nhỏ có nhiều ở các vùng biển miền Trung. Mực trứng có thịt săn chắc, vị béo, trong bụng đầy ắp trứng. Mực trứng thuộc top hải sản nhiều dinh dưỡng, phù hợp với mọi lứa tuổi.</p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/531b76e6-74b2-4f83-b1fa-e8066323f8f1.jpg\"></p><p><strong>Mực trứng</strong> tại Vitot Food được nhập trực tiếp từ vùng biển Phan Thiết. Khách mua về chỉ cần rửa sơ qua bằng nước sạch là có thể chế biến nhiều món ngon độc đáo.</p><p>- Quy cách đóng gói: 500g/khay</p><p>- Các món chế biến từ <strong>mực trứng</strong>:</p><ul><li>Mực trứng hấp gừng</li><li>Mực trứng chiên</li><li>Mực trứng thả lẩu</li><li>Mực trứng nướng.</li></ul><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/30f1bd98-8a3d-4f0b-9cab-3f47fafc3517.jpg\"></p><p><br></p><p><strong>2. CAM KẾT CỦA VITOT FOOD</strong></p><p>- Hàng ngon - giá tốt.</p><p>- 1 đổi 1 nếu sản phẩm bị lỗi.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/6e97e1c8-f9ca-4c64-af85-64d13214bb40.png",
+    "price": 330000,
+    "oldPrice": 400000,
+    "discountPercent": 18,
+    "stock": 99,
+    "totalSold": 4,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 218,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<ul><li class=\"ql-align-justify\">Mực trứng không có chất bảo quản nên bảo quản ngăn đá để đảm bảo chất lượng</li><li class=\"ql-align-justify\">Khi nào chế biến bỏ ra ngoài tầm 5-10 phút rồi chế biến, không rã đông thông thường hay bỏ ngăn mát.</li><li class=\"ql-align-justify\">Mực trứng có thể hấp, lẩu, chiên xù,…tùy theo khẩu vị.</li></ul>",
+    "category": {
+      "id": 132,
+      "name": "Mực ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/37d1439d-2a61-413d-8770-2e1c2fc392c0.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "mực trứng",
+      "Mực trứng Cát Bà",
+      "Mực trứng Phan Thiết",
+      "Mực trứng giá bao nhiêu"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/6e97e1c8-f9ca-4c64-af85-64d13214bb40.png",
+      "https://images.f99.com.vn/images/38468f13-92b7-4ab1-8674-239fdb4fc7d7.jpg",
+      "https://images.f99.com.vn/images/7c171eef-a813-44d0-ad78-0aaa794cebde.jpg",
+      "https://images.f99.com.vn/images/a76df7f9-699d-4f2b-8be8-bd02aebb571b.jpg",
+      "https://images.f99.com.vn/images/908861f7-1a10-4ec8-8ccc-f4201ee7431f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13978",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 66713,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 330000,
+        "oldPrice": 400000,
+        "discountPercent": 18,
+        "stock": 99,
+        "totalSold": 4,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<ul><li class=\"ql-align-justify\">Mực trứng không có chất bảo quản nên bảo quản ngăn đá để đảm bảo chất lượng</li><li class=\"ql-align-justify\">Khi nào chế biến bỏ ra ngoài tầm 5-10 phút rồi chế biến, không rã đông thông thường hay bỏ ngăn mát.</li><li class=\"ql-align-justify\">Mực trứng có thể hấp, lẩu, chiên xù,…tùy theo khẩu vị.</li></ul>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 218,
+      "sellerRate": 4.6,
+      "sellerName": "VITOT FOOD - MÓN NGON NỔI TIẾNG",
+      "warehouseId": "5a5ccfcb-761e-4fc7-be85-dbc87b66387f",
+      "warehouseAddress": "thanh xuan, 263 Hoàng Văn Thái, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3549,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 80.99133393939447,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 13996,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "VITOT FOOD - MỰC KHÔ (5-6 con/500g)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong>1. MỰC KHÔ LÀ GÌ?</strong></p><p><strong>Mực khô</strong> là món ăn luôn được ưa thích và không có gì xa lạ với người Việt. Mực khô thường được dùng ăn chơi, ăn nhậu nhưng nó cũng có thể chế biến thành món ăn trong bữa cơm thường ngày. Mực khô dai dai, ngọt đậm đà, thơm rất đặc trưng.</p><p><strong>Mực khô</strong> tại Vitot Food được nhập trực tiếp từ các vùng biển Hải Phòng, Quảng Ninh,... là những vùng biển nổi tiếng với chất lượng mực ngon và cao cấp. Chúng tôi luôn cam kết mang đến chất lượng sản phẩm tốt nhất đến với khách hàng.</p><p>- Quy cách đóng gói:&nbsp;</p><p>- Các món chế biến từ <strong>mực khô</strong>:</p><ul><li>Mực khô nướng</li><li>Mực khô rim chua ngọt</li><li>Mực khô rim cay.</li></ul><p><br></p><p><strong>2. CAM KẾT CỦA VITOT FOOD</strong></p><p>- Hàng ngon - giá tốt.</p><p class=\"ql-align-justify\">- 1 đổi 1 nếu sản phẩm bị lỗi.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/18ba6426-edb7-4875-8d98-59f10eb00fae.png\",\"https://images.f99.com.vn/images/17039062-0aed-4a6a-bfde-c220afa8b276.jpg\",\"https://images.f99.com.vn/images/73bfe931-dab3-466e-be34-6e9645b87192.jpg\",\"https://images.f99.com.vn/images/613a9116-3636-44b1-8b25-e45acceddffa.jpg\",\"https://images.f99.com.vn/images/c159eeb7-8d8b-440f-a45d-dc8c6b0c24d7.jpg\",\"https://images.f99.com.vn/images/862b4ce7-ffe2-4d49-b1a4-0ca9015517f3.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"mực khô\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "VITOT FOOD - MỰC KHÔ (5-6 con/500g)",
+    "description": "<p><strong>1. MỰC KHÔ LÀ GÌ?</strong></p><p><strong>Mực khô</strong> là món ăn luôn được ưa thích và không có gì xa lạ với người Việt. Mực khô thường được dùng ăn chơi, ăn nhậu nhưng nó cũng có thể chế biến thành món ăn trong bữa cơm thường ngày. Mực khô dai dai, ngọt đậm đà, thơm rất đặc trưng.</p><p><strong>Mực khô</strong> tại Vitot Food được nhập trực tiếp từ các vùng biển Hải Phòng, Quảng Ninh,... là những vùng biển nổi tiếng với chất lượng mực ngon và cao cấp. Chúng tôi luôn cam kết mang đến chất lượng sản phẩm tốt nhất đến với khách hàng.</p><p>- Quy cách đóng gói:&nbsp;</p><p>- Các món chế biến từ <strong>mực khô</strong>:</p><ul><li>Mực khô nướng</li><li>Mực khô rim chua ngọt</li><li>Mực khô rim cay.</li></ul><p><br></p><p><strong>2. CAM KẾT CỦA VITOT FOOD</strong></p><p>- Hàng ngon - giá tốt.</p><p class=\"ql-align-justify\">- 1 đổi 1 nếu sản phẩm bị lỗi.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/18ba6426-edb7-4875-8d98-59f10eb00fae.png",
+    "price": 525000,
+    "oldPrice": 700000,
+    "discountPercent": 25,
+    "stock": 50,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "500g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 218,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<ul><li class=\"ql-align-justify\">Mực khô không có chất bảo quản nên bảo quản ngăn đá để đảm bảo chất lượng</li><li class=\"ql-align-justify\">Khi nào chế biến bỏ ra ngoài tầm 5-10 phút rồi chế biến, không rã đông thông thường hay bỏ ngăn mát.</li></ul>",
+    "category": {
+      "id": 132,
+      "name": "Mực ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/37d1439d-2a61-413d-8770-2e1c2fc392c0.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "mực khô"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/18ba6426-edb7-4875-8d98-59f10eb00fae.png",
+      "https://images.f99.com.vn/images/17039062-0aed-4a6a-bfde-c220afa8b276.jpg",
+      "https://images.f99.com.vn/images/73bfe931-dab3-466e-be34-6e9645b87192.jpg",
+      "https://images.f99.com.vn/images/613a9116-3636-44b1-8b25-e45acceddffa.jpg",
+      "https://images.f99.com.vn/images/c159eeb7-8d8b-440f-a45d-dc8c6b0c24d7.jpg",
+      "https://images.f99.com.vn/images/862b4ce7-ffe2-4d49-b1a4-0ca9015517f3.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/13996",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "500g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 66715,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 525000,
+        "oldPrice": 700000,
+        "discountPercent": 25,
+        "stock": 50,
+        "totalSold": 1,
+        "unit": "500g",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<ul><li class=\"ql-align-justify\">Mực khô không có chất bảo quản nên bảo quản ngăn đá để đảm bảo chất lượng</li><li class=\"ql-align-justify\">Khi nào chế biến bỏ ra ngoài tầm 5-10 phút rồi chế biến, không rã đông thông thường hay bỏ ngăn mát.</li></ul>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 218,
+      "sellerRate": 4.6,
+      "sellerName": "VITOT FOOD - MÓN NGON NỔI TIẾNG",
+      "warehouseId": "5a5ccfcb-761e-4fc7-be85-dbc87b66387f",
+      "warehouseAddress": "thanh xuan, 263 Hoàng Văn Thái, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3549,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 80.99133393939447,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14875,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "RÂU BẠCH TUỘC KHỔNG LỒ ( Cốt 8) - Yêu bếp thanks",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>RÂU BẠCH TUỘC KHỔNG LỒ</p><p><br></p><p>Hàng siêu víp phiên bản giới hạn size 6-7c /kg</p><p><br></p><p>Dai dai, giòn giòn, càng ăn càng mê 😋</p><p><br></p><p>Với hương vị tươi ngon lại không mất nhiều thời gian chế biến, sản phẩm râu bạch tuộc siêu to được rất nhiều người thích</p><p><br></p><p>Râu bạch tuộc tươi đã được làm sạch, có thể sử dụng&nbsp;chế biến đủ món ăn ngon từ râu bạch tuộc theo sở thích.&nbsp;</p><p><br></p><p>Râu bạch tuộc to, chắc thịt, ngọt giòn sừn sựt, rất thích hợp để làm những món ăn như ăn lẩu nướng</p><p><br></p><p>, râu bạch tuộc nướng sa tế, râu bạch tuộc xào...&nbsp;</p><p><br></p><p>👍 Có đĩa râu bạch tuộc giòn giòn, cay cay mà nhâm nhi trong những ngày mưa thì đúng là hết ý 😘</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/9b8c8939-184a-4795-9247-13637d56d4f6.jpg\",\"https://images.f99.com.vn/images/0e303514-5d33-4f7c-917f-f6fe03c72e65.jpg\",\"https://images.f99.com.vn/images/b46a110a-55bc-4185-aa30-b8517495893f.jpg\",\"https://images.f99.com.vn/images/b95e97bc-8042-4f32-a503-c8e96a078b65.jpg\",\"https://images.f99.com.vn/images/09bf0e10-d0a9-4be4-8483-593f2d903ac8.jpg\",\"https://images.f99.com.vn/images/f1eb8bd4-c711-4853-bfe9-dc6ebb9b4f3c.jpg\",\"https://images.f99.com.vn/images/94438791-6972-46e5-a706-ce99bfddcc52.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "RÂU BẠCH TUỘC KHỔNG LỒ ( Cốt 8) - Yêu bếp thanks",
+    "description": "<p>RÂU BẠCH TUỘC KHỔNG LỒ</p><p><br></p><p>Hàng siêu víp phiên bản giới hạn size 6-7c /kg</p><p><br></p><p>Dai dai, giòn giòn, càng ăn càng mê 😋</p><p><br></p><p>Với hương vị tươi ngon lại không mất nhiều thời gian chế biến, sản phẩm râu bạch tuộc siêu to được rất nhiều người thích</p><p><br></p><p>Râu bạch tuộc tươi đã được làm sạch, có thể sử dụng&nbsp;chế biến đủ món ăn ngon từ râu bạch tuộc theo sở thích.&nbsp;</p><p><br></p><p>Râu bạch tuộc to, chắc thịt, ngọt giòn sừn sựt, rất thích hợp để làm những món ăn như ăn lẩu nướng</p><p><br></p><p>, râu bạch tuộc nướng sa tế, râu bạch tuộc xào...&nbsp;</p><p><br></p><p>👍 Có đĩa râu bạch tuộc giòn giòn, cay cay mà nhâm nhi trong những ngày mưa thì đúng là hết ý 😘</p>",
+    "imageUrl": "https://images.f99.com.vn/images/9b8c8939-184a-4795-9247-13637d56d4f6.jpg",
+    "price": 75000,
+    "oldPrice": 150000,
+    "discountPercent": 50,
+    "stock": 12000,
+    "totalSold": 938,
+    "maxQuantityPerUser": null,
+    "unit": "túi",
+    "sku": "",
+    "origin": "",
+    "sellerId": 221,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Ngăn đông tủ lạnh</p>",
+    "category": {
+      "id": 132,
+      "name": "Mực ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/37d1439d-2a61-413d-8770-2e1c2fc392c0.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/9b8c8939-184a-4795-9247-13637d56d4f6.jpg",
+      "https://images.f99.com.vn/images/0e303514-5d33-4f7c-917f-f6fe03c72e65.jpg",
+      "https://images.f99.com.vn/images/b46a110a-55bc-4185-aa30-b8517495893f.jpg",
+      "https://images.f99.com.vn/images/b95e97bc-8042-4f32-a503-c8e96a078b65.jpg",
+      "https://images.f99.com.vn/images/09bf0e10-d0a9-4be4-8483-593f2d903ac8.jpg",
+      "https://images.f99.com.vn/images/f1eb8bd4-c711-4853-bfe9-dc6ebb9b4f3c.jpg",
+      "https://images.f99.com.vn/images/94438791-6972-46e5-a706-ce99bfddcc52.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14875",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1 túi",
+          "2 túi",
+          "3 túi",
+          "5 túi"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 52459,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 túi",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1 túi",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 túi",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 90000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 2000,
+        "totalSold": 240,
+        "unit": "túi",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Ngăn đông tủ lạnh</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1 túi"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 52458,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2 túi",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "85k/túi",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "2 túi",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2 túi",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 170000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 2000,
+        "totalSold": 234,
+        "unit": "túi",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Ngăn đông tủ lạnh</p>",
+        "sellerId": 0,
+        "note": "85k/túi",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "2 túi"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 52457,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "3 túi",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "80k/túi",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "3 túi",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "3 túi",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 240000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 4000,
+        "totalSold": 232,
+        "unit": "túi",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Ngăn đông tủ lạnh</p>",
+        "sellerId": 0,
+        "note": "80k/túi",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "3 túi"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 52456,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "5 túi",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "75k/túi",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "5 túi",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "5 túi",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 375000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 4000,
+        "totalSold": 232,
+        "unit": "túi",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Ngăn đông tủ lạnh</p>",
+        "sellerId": 0,
+        "note": "75k/túi",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "5 túi"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 221,
+      "sellerRate": 4.6,
+      "sellerName": "Yêu Bếp Thanks",
+      "warehouseId": "e2f42135-73aa-4693-9446-3539d336d238",
+      "warehouseAddress": "Số 130B Ngõ 219 Đê Tô Hoàng , Cầu Dền, Hai Bà Trưng, Hà Nội",
+      "distance": 2819,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 83.44160643925298,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15059,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/2660ff5e-9ad7-428a-95b3-bed6e08b7201.jpg\",\"https://images.f99.com.vn/images/b7b57a7e-a05c-48c1-b089-a14a4c35d34d.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Mực tươi nháy, ăn rất giòn và ngọt, xào không ra nước. Qúy khách ăn sẽ cảm nhận được sự tươi ngon</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mực tươi - Hải sản Thanh Liên",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mực tươi - Hải sản Thanh Liên",
+    "description": "<p>Mực tươi nháy, ăn rất giòn và ngọt, xào không ra nước. Qúy khách ăn sẽ cảm nhận được sự tươi ngon</p>",
+    "imageUrl": "https://images.f99.com.vn/images/2660ff5e-9ad7-428a-95b3-bed6e08b7201.jpg",
+    "price": 125000,
+    "oldPrice": 140000,
+    "discountPercent": 11,
+    "stock": 60,
+    "totalSold": 44,
+    "maxQuantityPerUser": null,
+    "unit": "125/0,5kg/1 túi",
+    "sku": "",
+    "origin": "",
+    "sellerId": 257,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.8,
+    "instructions": "<p>Bảo quản ở ngăn đá tủ lạnh</p>",
+    "category": {
+      "id": 132,
+      "name": "Mực ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/37d1439d-2a61-413d-8770-2e1c2fc392c0.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/2660ff5e-9ad7-428a-95b3-bed6e08b7201.jpg",
+      "https://images.f99.com.vn/images/b7b57a7e-a05c-48c1-b089-a14a4c35d34d.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15059",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 257,
+      "sellerRate": 4.3,
+      "sellerName": "Hải sản Thanh Liên",
+      "warehouseId": "205ae179-d711-4e52-984e-be6cda25f432",
+      "warehouseAddress": "Số nhà 29 ngõ 192A Phố Quán Thánh , Quán Thánh, Ba Đình, Hà Nội",
+      "distance": 1719,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 74.97623692307694,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15137,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Sashimi Râu Bạch Tuộc Natufood Cắt Miếng 210g  tươi ngon [Chỉ giao HN]",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h1 class=\"ql-align-justify\"><strong>🦐 Sashimi Râu Bạch Tuộc Cắt Miếng 🦐</strong></h1><h2 class=\"ql-align-justify\"><strong>I. Giới Thiệu Sashimi Râu Bạch Tuộc Cắt Miếng</strong></h2><h3 class=\"ql-align-justify\"><strong>1.1. Đặc Điểm Của Sashimi Râu Bạch Tuộc</strong></h3><p class=\"ql-align-justify\">Sashimi Râu Bạch Tuộc là món ăn làm từ bạch tuộc được ưa chuộng hàng đầu hiện nay. Các món ăn từ&nbsp;bạch tuộc&nbsp;không chỉ thơm ngon, bổ dưỡng mà còn được đánh giá cao bởi độ giòn, ngọt tự nhiên.</p><h3 class=\"ql-align-justify\"><strong>1.2. Những Công Dụng Cụ Thể Của Bạch Tuộc</strong></h3><p class=\"ql-align-justify\">+ Bạch tuộc chứa rất nhiều canxi, kali, vitamin cùng các loại axit béo. Các chất này giúp tăng sức đề kháng và ngăn ngừa bệnh tật một cách tốt nhất.</p><p class=\"ql-align-justify\">+ Tăng cường sự trao đổi chất: Vitamin B12 trong thịt bạch tuộc là thành phần quan trọng giúp thúc đẩy quá trình trao đổi chất trong cơ thể, tạo ra các tế bào mới, phát triển não bộ hàng ngày.</p><p class=\"ql-align-justify\">+ Hỗ trợ hoạt động cho hệ tiêu hóa: Selenium trong thịt bạch tuộc chuyển hóa protein trong cơ thể giúp quá trình tiêu hóa diễn ra dễ dàng hơn. Ngoài ra, nó cũng được hoạt động giống như một chất chống oxy hóa, giúp loại trừ các nguy cơ gây hại cho cơ thể.</p><h2 class=\"ql-align-justify\"><strong>II. Cách Ăn Sashimi Chuẩn Phong Cách Nhật Bản</strong></h2><p class=\"ql-align-justify\">Sashimi được ăn cùng với các loại nước chấm như xì dầu, tương, các loại gia vị như wasabi, gừng và một số loại rau như tía tô, bạc hà và củ cải trắng thái chỉ hoặc một số loại tảo biển. Trong đó, phổ biến nhất là mù tạt vừa tăng hương vị món ăn vừa diệt các loại vi khuẩn có hại có ở hải sản sống, hỗ trợ tiêu hóa.</p><p class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">Người Nhật cho trực tiếp mù tạt lên miếng Sashimi và chấm vào nước tương nguyên chất. Sashimi ăn kèm cùng củ cải trắng thái chỉ và lá tía tô để cảm nhận được hương vị tươi ngon tuyệt hảo. Sau khi ăn có thể dùng một vài miếng gừng để khử vị, giúp sạch miệng.</span></p><p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/4ade3c6c-a77e-4411-a02d-a60c325a0ef3.jpg\"></p><h2><strong>III. Thời Hạn Sử Dụng Và Bảo Quản Sashimi Râu Bạch Tuộc:</strong></h2><p>- HSD 24 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #sashimi #sashimihaisan #sashimiraubachtuoc #raubachtuoc</p><h2 class=\"ql-align-justify\"><br></h2><p class=\"ql-align-justify\"><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/dd1822d7-e4cf-40dc-a13e-97e80cad0ac9.jpg\",\"https://images.f99.com.vn/images/8741b104-6b1c-4bac-a597-677b816c642f.jpg\",\"https://images.f99.com.vn/images/6537ce56-049e-4713-8305-62f465638a46.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Natufood\",\"Hải sản\",\"Sashimi\",\"Sashimi hải sản\",\"Sashimi bạch tuộc\",\"Râu bạch tuộc\",\"Sashimi bạch tuộc\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Sashimi Râu Bạch Tuộc Natufood Cắt Miếng 210g  tươi ngon [Chỉ giao HN]",
+    "description": "<h1 class=\"ql-align-justify\"><strong>🦐 Sashimi Râu Bạch Tuộc Cắt Miếng 🦐</strong></h1><h2 class=\"ql-align-justify\"><strong>I. Giới Thiệu Sashimi Râu Bạch Tuộc Cắt Miếng</strong></h2><h3 class=\"ql-align-justify\"><strong>1.1. Đặc Điểm Của Sashimi Râu Bạch Tuộc</strong></h3><p class=\"ql-align-justify\">Sashimi Râu Bạch Tuộc là món ăn làm từ bạch tuộc được ưa chuộng hàng đầu hiện nay. Các món ăn từ&nbsp;bạch tuộc&nbsp;không chỉ thơm ngon, bổ dưỡng mà còn được đánh giá cao bởi độ giòn, ngọt tự nhiên.</p><h3 class=\"ql-align-justify\"><strong>1.2. Những Công Dụng Cụ Thể Của Bạch Tuộc</strong></h3><p class=\"ql-align-justify\">+ Bạch tuộc chứa rất nhiều canxi, kali, vitamin cùng các loại axit béo. Các chất này giúp tăng sức đề kháng và ngăn ngừa bệnh tật một cách tốt nhất.</p><p class=\"ql-align-justify\">+ Tăng cường sự trao đổi chất: Vitamin B12 trong thịt bạch tuộc là thành phần quan trọng giúp thúc đẩy quá trình trao đổi chất trong cơ thể, tạo ra các tế bào mới, phát triển não bộ hàng ngày.</p><p class=\"ql-align-justify\">+ Hỗ trợ hoạt động cho hệ tiêu hóa: Selenium trong thịt bạch tuộc chuyển hóa protein trong cơ thể giúp quá trình tiêu hóa diễn ra dễ dàng hơn. Ngoài ra, nó cũng được hoạt động giống như một chất chống oxy hóa, giúp loại trừ các nguy cơ gây hại cho cơ thể.</p><h2 class=\"ql-align-justify\"><strong>II. Cách Ăn Sashimi Chuẩn Phong Cách Nhật Bản</strong></h2><p class=\"ql-align-justify\">Sashimi được ăn cùng với các loại nước chấm như xì dầu, tương, các loại gia vị như wasabi, gừng và một số loại rau như tía tô, bạc hà và củ cải trắng thái chỉ hoặc một số loại tảo biển. Trong đó, phổ biến nhất là mù tạt vừa tăng hương vị món ăn vừa diệt các loại vi khuẩn có hại có ở hải sản sống, hỗ trợ tiêu hóa.</p><p class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">Người Nhật cho trực tiếp mù tạt lên miếng Sashimi và chấm vào nước tương nguyên chất. Sashimi ăn kèm cùng củ cải trắng thái chỉ và lá tía tô để cảm nhận được hương vị tươi ngon tuyệt hảo. Sau khi ăn có thể dùng một vài miếng gừng để khử vị, giúp sạch miệng.</span></p><p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/4ade3c6c-a77e-4411-a02d-a60c325a0ef3.jpg\"></p><h2><strong>III. Thời Hạn Sử Dụng Và Bảo Quản Sashimi Râu Bạch Tuộc:</strong></h2><p>- HSD 24 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #sashimi #sashimihaisan #sashimiraubachtuoc #raubachtuoc</p><h2 class=\"ql-align-justify\"><br></h2><p class=\"ql-align-justify\"><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/dd1822d7-e4cf-40dc-a13e-97e80cad0ac9.jpg",
+    "price": 170000,
+    "oldPrice": 210000,
+    "discountPercent": 19,
+    "stock": 528,
+    "totalSold": 145,
+    "maxQuantityPerUser": null,
+    "unit": "210g",
+    "sku": "Mã v?ch cân",
+    "origin": "",
+    "sellerId": 263,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.9,
+    "instructions": "<h1><strong>Hạn Sử Dụng Và Bảo Quản Sashimi Râu Bạch Tuộc</strong></h1><p>- HSD 24 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #sashimi #sashimihaisan #sashimiraubachtuoc #raubachtuoc</p><p class=\"ql-align-justify\"><br></p>",
+    "category": {
+      "id": 132,
+      "name": "Mực ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/37d1439d-2a61-413d-8770-2e1c2fc392c0.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Natufood",
+      "Hải sản",
+      "Sashimi",
+      "Sashimi hải sản",
+      "Sashimi bạch tuộc",
+      "Râu bạch tuộc",
+      "Sashimi bạch tuộc"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/dd1822d7-e4cf-40dc-a13e-97e80cad0ac9.jpg",
+      "https://images.f99.com.vn/images/8741b104-6b1c-4bac-a597-677b816c642f.jpg",
+      "https://images.f99.com.vn/images/6537ce56-049e-4713-8305-62f465638a46.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15137",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 263,
+      "sellerRate": 4,
+      "sellerName": "NatuFood",
+      "warehouseId": "611945d9-1b81-4453-9191-e621d5ad3623",
+      "warehouseAddress": "361 Hoàng Công Chất, Phú Diễn, Bắc Từ Liêm, Hà Nội",
+      "distance": 7224,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 44.583333333333336,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15165,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hải sản Mực Lá Phú Quốc Natufood size 800g nguyên con [Chỉ giao HN]",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h1 class=\"ql-align-justify\"><strong>🦐 Hải Sản - Mực Lá Phú Quốc 🦐</strong></h1><h2 class=\"ql-align-justify\"><strong>I. Đặc Điểm Mực Lá Phú Quốc</strong></h2><h3 class=\"ql-align-justify\"><strong>1. Đặc Điểm Bên Ngoài Mực Lá Phú Quốc</strong></h3><p class=\"ql-align-justify\">Mực Lá là dòng mực cỡ lớn, mình dày và thịt rất ngọt. Chúng được khai thác nhiều ở bờ biển nước ta, nhất là biển miền Trung và Nam Bộ bằng phương pháp câu. Mực lá câu dễ dàng được phân biệt bởi các loại mực khác.</p><p class=\"ql-align-justify\">– Vây dày, rộng, hình bầu dục, trải dài từ đầu tới thân.</p><p class=\"ql-align-justify\">– Mình mực hơi dẹt</p><p class=\"ql-align-justify\">– Mực lá thường có kích thước lớn hơn các dòng mực khác</p><p class=\"ql-align-justify\">– Thịt mực có màu cánh dán nhẹ.</p><h3 class=\"ql-align-justify\"><strong>2. Dinh Dưỡng</strong></h3><p class=\"ql-align-justify\">Theo đông y, mực có vị đậm, tính bình, có tác dụng bổ máu, dưỡng âm, chống mệt mỏi. Thịt mực có vị ngọt, chua, tính bình, có tác dụng ích khí. Những người bị thiếu máu, ù tai, chóng mặt nên bổ sung mực vào khẩu phần ăn như một liều thuốc bổ.</p><ul><li class=\"ql-align-justify\">Giàu protein nhưng ít năng lượng. Với những người muốn ăn kiêng, mực là lựa chọn vô cùng hợp lý.</li><li class=\"ql-align-justify\">Mực là nguồn cung cấp phong phú protein, axít béo omega-3, đồng, kẽm, vitamin B và iốt. Chất đồng chứa trong mực ống được chứng minh có tác dụng tốt cho sự hấp thu dinh dưỡng của cơ thể, lưu trữ và chuyển hóa sắt, hình thành hồng cầu.</li><li class=\"ql-align-justify\">Trong thịt mực có chứa rất nhiều chất dinh dưỡng như protein; canxi; các chất vi lượng (đồng, kẽm); photpho; sắt; các loại vitamin như A, B1, B1, D, E … có nhiều peptit có tác dụng chống độc tô, chống phóng xạ.</li><li class=\"ql-align-justify\">Thành phần dinh dưỡng trong 100g ăn được của mực khô: 291 calo, 32,6g nước, 60,1g chất đạm, 4,5g chất béo, 2,5g chất đường bột. Trong mực có chứa một số chất khoáng vi lượng rất quý như sắt, kẽm, mangan, selen… và cả hormon nam testosterone.</li></ul><h2 class=\"ql-align-justify\"><strong>II. Một Số Món Ăn Từ Mực Lá</strong></h2><p class=\"ql-align-justify\">Mực lá – dòng mực cỡ lớn là một trong những dòng mực được đánh giá là ngon nhất với mình dày, thịt ngọt đậm, giòn, thơm ngon</p><p class=\"ql-align-justify\">Ngoài các món ăn cơ bản được chế biến như: Nướng, chiên, xào cần tỏi, hấp, dồn thịt, nấu canh mực lá còn thường được sử dụng làm mực 1 nắng, mực khô rất thơm, ngon và giúp gia đình bạn cải thiện bữa ăn hàng ngày.</p><p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/58e924cd-72e2-455c-aa12-a649e731875a.jpg\"></p><p>------------------------------------------</p><h2><strong>III. Thời Hạn Sử Dụng Và Bảo Quản Mực Lá Phú Quốc:</strong></h2><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #mucla #muclaphuquoc #muclacau</p><h2 class=\"ql-align-justify\"><br></h2><p class=\"ql-align-justify\"><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/af4827f5-6b51-4756-92dc-87aca29ffa27.jpg\",\"https://images.f99.com.vn/images/367d1b39-312f-40ce-adda-2e9330dcc7f8.jpg\",\"https://images.f99.com.vn/images/2e623c8b-1015-4f1c-90d7-1236b30b6af1.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Natufood\",\"Hải sản\",\"Hải sản tươi sống\",\"Hải sản sấy khô\",\"Hải sản chế biến\",\"Mực lá phú quốc\",\"Mực lá\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hải sản Mực Lá Phú Quốc Natufood size 800g nguyên con [Chỉ giao HN]",
+    "description": "<h1 class=\"ql-align-justify\"><strong>🦐 Hải Sản - Mực Lá Phú Quốc 🦐</strong></h1><h2 class=\"ql-align-justify\"><strong>I. Đặc Điểm Mực Lá Phú Quốc</strong></h2><h3 class=\"ql-align-justify\"><strong>1. Đặc Điểm Bên Ngoài Mực Lá Phú Quốc</strong></h3><p class=\"ql-align-justify\">Mực Lá là dòng mực cỡ lớn, mình dày và thịt rất ngọt. Chúng được khai thác nhiều ở bờ biển nước ta, nhất là biển miền Trung và Nam Bộ bằng phương pháp câu. Mực lá câu dễ dàng được phân biệt bởi các loại mực khác.</p><p class=\"ql-align-justify\">– Vây dày, rộng, hình bầu dục, trải dài từ đầu tới thân.</p><p class=\"ql-align-justify\">– Mình mực hơi dẹt</p><p class=\"ql-align-justify\">– Mực lá thường có kích thước lớn hơn các dòng mực khác</p><p class=\"ql-align-justify\">– Thịt mực có màu cánh dán nhẹ.</p><h3 class=\"ql-align-justify\"><strong>2. Dinh Dưỡng</strong></h3><p class=\"ql-align-justify\">Theo đông y, mực có vị đậm, tính bình, có tác dụng bổ máu, dưỡng âm, chống mệt mỏi. Thịt mực có vị ngọt, chua, tính bình, có tác dụng ích khí. Những người bị thiếu máu, ù tai, chóng mặt nên bổ sung mực vào khẩu phần ăn như một liều thuốc bổ.</p><ul><li class=\"ql-align-justify\">Giàu protein nhưng ít năng lượng. Với những người muốn ăn kiêng, mực là lựa chọn vô cùng hợp lý.</li><li class=\"ql-align-justify\">Mực là nguồn cung cấp phong phú protein, axít béo omega-3, đồng, kẽm, vitamin B và iốt. Chất đồng chứa trong mực ống được chứng minh có tác dụng tốt cho sự hấp thu dinh dưỡng của cơ thể, lưu trữ và chuyển hóa sắt, hình thành hồng cầu.</li><li class=\"ql-align-justify\">Trong thịt mực có chứa rất nhiều chất dinh dưỡng như protein; canxi; các chất vi lượng (đồng, kẽm); photpho; sắt; các loại vitamin như A, B1, B1, D, E … có nhiều peptit có tác dụng chống độc tô, chống phóng xạ.</li><li class=\"ql-align-justify\">Thành phần dinh dưỡng trong 100g ăn được của mực khô: 291 calo, 32,6g nước, 60,1g chất đạm, 4,5g chất béo, 2,5g chất đường bột. Trong mực có chứa một số chất khoáng vi lượng rất quý như sắt, kẽm, mangan, selen… và cả hormon nam testosterone.</li></ul><h2 class=\"ql-align-justify\"><strong>II. Một Số Món Ăn Từ Mực Lá</strong></h2><p class=\"ql-align-justify\">Mực lá – dòng mực cỡ lớn là một trong những dòng mực được đánh giá là ngon nhất với mình dày, thịt ngọt đậm, giòn, thơm ngon</p><p class=\"ql-align-justify\">Ngoài các món ăn cơ bản được chế biến như: Nướng, chiên, xào cần tỏi, hấp, dồn thịt, nấu canh mực lá còn thường được sử dụng làm mực 1 nắng, mực khô rất thơm, ngon và giúp gia đình bạn cải thiện bữa ăn hàng ngày.</p><p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/58e924cd-72e2-455c-aa12-a649e731875a.jpg\"></p><p>------------------------------------------</p><h2><strong>III. Thời Hạn Sử Dụng Và Bảo Quản Mực Lá Phú Quốc:</strong></h2><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #mucla #muclaphuquoc #muclacau</p><h2 class=\"ql-align-justify\"><br></h2><p class=\"ql-align-justify\"><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/af4827f5-6b51-4756-92dc-87aca29ffa27.jpg",
+    "price": 185000,
+    "oldPrice": 215000,
+    "discountPercent": 14,
+    "stock": 452,
+    "totalSold": 561,
+    "maxQuantityPerUser": null,
+    "unit": "500g",
+    "sku": "Mã v?ch cân",
+    "origin": "",
+    "sellerId": 263,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.9,
+    "instructions": "<h1><strong>Hạn Sử Dụng Và Bảo Quản Mực Lá Phú Quốc:</strong></h1><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #mucla #muclaphuquoc #muclacau</p>",
+    "category": {
+      "id": 132,
+      "name": "Mực ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/37d1439d-2a61-413d-8770-2e1c2fc392c0.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Natufood",
+      "Hải sản",
+      "Hải sản tươi sống",
+      "Hải sản sấy khô",
+      "Hải sản chế biến",
+      "Mực lá phú quốc",
+      "Mực lá"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/af4827f5-6b51-4756-92dc-87aca29ffa27.jpg",
+      "https://images.f99.com.vn/images/367d1b39-312f-40ce-adda-2e9330dcc7f8.jpg",
+      "https://images.f99.com.vn/images/2e623c8b-1015-4f1c-90d7-1236b30b6af1.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15165",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 263,
+      "sellerRate": 4,
+      "sellerName": "NatuFood",
+      "warehouseId": "611945d9-1b81-4453-9191-e621d5ad3623",
+      "warehouseAddress": "361 Hoàng Công Chất, Phú Diễn, Bắc Từ Liêm, Hà Nội",
+      "distance": 7224,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 44.583333333333336,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15169,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hải sản Mực Lá Phú Quốc Natufood size (200g-300g)/khay 500g nguyên con [Chỉ giao HN]",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h1 class=\"ql-align-justify\"><strong>🦐 Hải Sản - Mực Lá Phú Quốc 🦐</strong></h1><h2 class=\"ql-align-justify\"><strong>I. Đặc Điểm Mực Lá Phú Quốc</strong></h2><h3 class=\"ql-align-justify\"><strong>1. Đặc Điểm Bên Ngoài Mực Lá Phú Quốc</strong></h3><p class=\"ql-align-justify\">Mực Lá là dòng mực cỡ lớn, mình dày và thịt rất ngọt. Chúng được khai thác nhiều ở bờ biển nước ta, nhất là biển miền Trung và Nam Bộ bằng phương pháp câu. Mực lá câu dễ dàng được phân biệt bởi các loại mực khác.</p><p class=\"ql-align-justify\">– Vây dày, rộng, hình bầu dục, trải dài từ đầu tới thân.</p><p class=\"ql-align-justify\">– Mình mực hơi dẹt</p><p class=\"ql-align-justify\">– Mực lá thường có kích thước lớn hơn các dòng mực khác</p><p class=\"ql-align-justify\">– Thịt mực có màu cánh dán nhẹ.</p><h3 class=\"ql-align-justify\"><strong>2. Dinh Dưỡng</strong></h3><p class=\"ql-align-justify\">Theo đông y, mực có vị đậm, tính bình, có tác dụng bổ máu, dưỡng âm, chống mệt mỏi. Thịt mực có vị ngọt, chua, tính bình, có tác dụng ích khí. Những người bị thiếu máu, ù tai, chóng mặt nên bổ sung mực vào khẩu phần ăn như một liều thuốc bổ.</p><ul><li class=\"ql-align-justify\">Giàu protein nhưng ít năng lượng. Với những người muốn ăn kiêng, mực là lựa chọn vô cùng hợp lý.</li><li class=\"ql-align-justify\">Mực là nguồn cung cấp phong phú protein, axít béo omega-3, đồng, kẽm, vitamin B và iốt. Chất đồng chứa trong mực ống được chứng minh có tác dụng tốt cho sự hấp thu dinh dưỡng của cơ thể, lưu trữ và chuyển hóa sắt, hình thành hồng cầu.</li><li class=\"ql-align-justify\">Trong thịt mực có chứa rất nhiều chất dinh dưỡng như protein; canxi; các chất vi lượng (đồng, kẽm); photpho; sắt; các loại vitamin như A, B1, B1, D, E … có nhiều peptit có tác dụng chống độc tô, chống phóng xạ.</li><li class=\"ql-align-justify\">Thành phần dinh dưỡng trong 100g ăn được của mực khô: 291 calo, 32,6g nước, 60,1g chất đạm, 4,5g chất béo, 2,5g chất đường bột. Trong mực có chứa một số chất khoáng vi lượng rất quý như sắt, kẽm, mangan, selen… và cả hormon nam testosterone.</li></ul><h2 class=\"ql-align-justify\"><strong>II. Một Số Món Ăn Từ Mực Lá</strong></h2><p class=\"ql-align-justify\">Mực lá – dòng mực cỡ lớn là một trong những dòng mực được đánh giá là ngon nhất với mình dày, thịt ngọt đậm, giòn, thơm ngon</p><p class=\"ql-align-justify\">Ngoài các món ăn cơ bản được chế biến như: Nướng, chiên, xào cần tỏi, hấp, dồn thịt, nấu canh mực lá còn thường được sử dụng làm mực 1 nắng, mực khô rất thơm, ngon và giúp gia đình bạn cải thiện bữa ăn hàng ngày.</p><p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/58e924cd-72e2-455c-aa12-a649e731875a.jpg\"></p><p>------------------------------------------</p><h2><strong>III. Thời Hạn Sử Dụng Và Bảo Quản Mực Lá Phú Quốc:</strong></h2><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #mucla #muclaphuquoc #muclacau</p><h2 class=\"ql-align-justify\"><br></h2><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/1861fb00-c2c4-4e21-b307-3d25f34e20e4.jpg\",\"https://images.f99.com.vn/images/2d70a9b2-a1b3-4415-a0b6-fc8240104403.jpg\",\"https://images.f99.com.vn/images/e3da02f7-d56b-4197-9548-7cddf401b827.jpg\",\"https://images.f99.com.vn/images/38b0869c-da24-41e3-a00e-61f026694add.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Natufood\",\"Hải sản\",\"Hải sản chế biến\",\"Hải sản đông lạnh\",\"Hải sản sấy khô\",\"Mực lá\",\"Mực lá phú quốc\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hải sản Mực Lá Phú Quốc Natufood size (200g-300g)/khay 500g nguyên con [Chỉ giao HN]",
+    "description": "<h1 class=\"ql-align-justify\"><strong>🦐 Hải Sản - Mực Lá Phú Quốc 🦐</strong></h1><h2 class=\"ql-align-justify\"><strong>I. Đặc Điểm Mực Lá Phú Quốc</strong></h2><h3 class=\"ql-align-justify\"><strong>1. Đặc Điểm Bên Ngoài Mực Lá Phú Quốc</strong></h3><p class=\"ql-align-justify\">Mực Lá là dòng mực cỡ lớn, mình dày và thịt rất ngọt. Chúng được khai thác nhiều ở bờ biển nước ta, nhất là biển miền Trung và Nam Bộ bằng phương pháp câu. Mực lá câu dễ dàng được phân biệt bởi các loại mực khác.</p><p class=\"ql-align-justify\">– Vây dày, rộng, hình bầu dục, trải dài từ đầu tới thân.</p><p class=\"ql-align-justify\">– Mình mực hơi dẹt</p><p class=\"ql-align-justify\">– Mực lá thường có kích thước lớn hơn các dòng mực khác</p><p class=\"ql-align-justify\">– Thịt mực có màu cánh dán nhẹ.</p><h3 class=\"ql-align-justify\"><strong>2. Dinh Dưỡng</strong></h3><p class=\"ql-align-justify\">Theo đông y, mực có vị đậm, tính bình, có tác dụng bổ máu, dưỡng âm, chống mệt mỏi. Thịt mực có vị ngọt, chua, tính bình, có tác dụng ích khí. Những người bị thiếu máu, ù tai, chóng mặt nên bổ sung mực vào khẩu phần ăn như một liều thuốc bổ.</p><ul><li class=\"ql-align-justify\">Giàu protein nhưng ít năng lượng. Với những người muốn ăn kiêng, mực là lựa chọn vô cùng hợp lý.</li><li class=\"ql-align-justify\">Mực là nguồn cung cấp phong phú protein, axít béo omega-3, đồng, kẽm, vitamin B và iốt. Chất đồng chứa trong mực ống được chứng minh có tác dụng tốt cho sự hấp thu dinh dưỡng của cơ thể, lưu trữ và chuyển hóa sắt, hình thành hồng cầu.</li><li class=\"ql-align-justify\">Trong thịt mực có chứa rất nhiều chất dinh dưỡng như protein; canxi; các chất vi lượng (đồng, kẽm); photpho; sắt; các loại vitamin như A, B1, B1, D, E … có nhiều peptit có tác dụng chống độc tô, chống phóng xạ.</li><li class=\"ql-align-justify\">Thành phần dinh dưỡng trong 100g ăn được của mực khô: 291 calo, 32,6g nước, 60,1g chất đạm, 4,5g chất béo, 2,5g chất đường bột. Trong mực có chứa một số chất khoáng vi lượng rất quý như sắt, kẽm, mangan, selen… và cả hormon nam testosterone.</li></ul><h2 class=\"ql-align-justify\"><strong>II. Một Số Món Ăn Từ Mực Lá</strong></h2><p class=\"ql-align-justify\">Mực lá – dòng mực cỡ lớn là một trong những dòng mực được đánh giá là ngon nhất với mình dày, thịt ngọt đậm, giòn, thơm ngon</p><p class=\"ql-align-justify\">Ngoài các món ăn cơ bản được chế biến như: Nướng, chiên, xào cần tỏi, hấp, dồn thịt, nấu canh mực lá còn thường được sử dụng làm mực 1 nắng, mực khô rất thơm, ngon và giúp gia đình bạn cải thiện bữa ăn hàng ngày.</p><p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/58e924cd-72e2-455c-aa12-a649e731875a.jpg\"></p><p>------------------------------------------</p><h2><strong>III. Thời Hạn Sử Dụng Và Bảo Quản Mực Lá Phú Quốc:</strong></h2><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #mucla #muclaphuquoc #muclacau</p><h2 class=\"ql-align-justify\"><br></h2><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/1861fb00-c2c4-4e21-b307-3d25f34e20e4.jpg",
+    "price": 129500,
+    "oldPrice": 185000,
+    "discountPercent": 30,
+    "stock": 674,
+    "totalSold": 337,
+    "maxQuantityPerUser": null,
+    "unit": "500g",
+    "sku": "8936085660780",
+    "origin": "",
+    "sellerId": 263,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.9,
+    "instructions": "<h1><strong>Hạn Sử Dụng Và Bảo Quản Mực Lá Phú Quốc:</strong></h1><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #mucla #muclaphuquoc #muclacau</p>",
+    "category": {
+      "id": 132,
+      "name": "Mực ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/37d1439d-2a61-413d-8770-2e1c2fc392c0.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Natufood",
+      "Hải sản",
+      "Hải sản chế biến",
+      "Hải sản đông lạnh",
+      "Hải sản sấy khô",
+      "Mực lá",
+      "Mực lá phú quốc"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/1861fb00-c2c4-4e21-b307-3d25f34e20e4.jpg",
+      "https://images.f99.com.vn/images/2d70a9b2-a1b3-4415-a0b6-fc8240104403.jpg",
+      "https://images.f99.com.vn/images/e3da02f7-d56b-4197-9548-7cddf401b827.jpg",
+      "https://images.f99.com.vn/images/38b0869c-da24-41e3-a00e-61f026694add.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15169",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "500g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 70124,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 129500,
+        "oldPrice": 185000,
+        "discountPercent": 30,
+        "stock": 674,
+        "totalSold": 337,
+        "unit": "500g",
+        "sku": "8936085660780",
+        "rating": 4.9,
+        "instructions": "<h1><strong>Hạn Sử Dụng Và Bảo Quản Mực Lá Phú Quốc:</strong></h1><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #mucla #muclaphuquoc #muclacau</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 263,
+      "sellerRate": 4,
+      "sellerName": "NatuFood",
+      "warehouseId": "611945d9-1b81-4453-9191-e621d5ad3623",
+      "warehouseAddress": "361 Hoàng Công Chất, Phú Diễn, Bắc Từ Liêm, Hà Nội",
+      "distance": 7224,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 44.583333333333336,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15172,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hải sản Bạch Tuộc Baby Natufood 500g nguyên con [Chỉ giao HN]",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h1 class=\"ql-align-justify\"><strong>🦐 Hải Sản - Bạch Tuộc Baby 🦐</strong></h1><h2 class=\"ql-align-justify\"><strong>I. Giới Thiệu Bạch Tuộc Baby</strong></h2><h3 class=\"ql-align-justify\"><strong>1.1. Bạch Tuộc Baby Là Gì?</strong></h3><p class=\"ql-align-justify\">Bạch Tuộc Baby là loài bạch tuộc có kích thước khá nhỏ, xúc tua dài. Tuy nhiên, giá trị dinh dưỡng của chúng không thua kém bất kỳ loại hải sản nào.&nbsp;Chúng là thực phẩm rất phổ biến trên bàn ăn của người Việt.Chúng không có vỏ ngoài nên thường sống nhờ vào các vỏ ốc. Ngư dân dựa vào các tập tính này để thả ghe câu bạch tuộc.</p><h3 class=\"ql-align-justify\"><strong>1.2. Vì Sao Nên Chọn Bạch Tuộc Baby?</strong></h3><p class=\"ql-align-justify\"><strong><em>Thứ nhất:</em></strong>&nbsp;tiết kiệm thời gian cho người phụ nữ hiện đại. Giúp họ dễ dàng lựa chọn và chế biến những món ăn ngon cho gia đình. Bạch tuộc đông lạnh đã được sơ chế, vì vậy việc chế biến rất nhanh.</p><p class=\"ql-align-justify\"><strong><em>Thứ hai:</em></strong>&nbsp;Bạch tuộc đông lạnh được cấp đông theo tiêu chuẩn Quốc tế IQF; được bảo quản ở nhiệt độ -18 độ C. Nhiệt độ này, các vi khuẩn bị tiêu diệt, hoặc bị vô hiệu hóa không còn khả năng gây hại.</p><p class=\"ql-align-justify\"><strong><em>Thứ ba:</em></strong>&nbsp;đảm bảo rõ nguồn gốc, chất lượng sản phẩm; tránh được các nguy hại từ thực phẩm kém chất lượng.</p><h3 class=\"ql-align-justify\"><strong>1.3. Dinh Dưỡng Từ Bạch Tuộc Baby</strong></h3><p class=\"ql-align-justify\">Bạch tuộc không mất nhiều thời gian chế biến, vị ngọt tự nhiên và giòn, bạch tuộc đang trở thành món ăn khoái khẩu của nhiều người. Không chỉ thơm ngon, bạch tuộc còn giàu dinh dưỡng nên có tác dụng bồi bổ thể lực rất tốt.</p><ul><li class=\"ql-align-justify\">Tăng cường sức đề kháng: thịt bạch tuộc giàu các chất như: canxi, photpho, vitamin và một số axit béo không no.&nbsp;Các chất này đều rất tốt cho sự phát triển của cơ thể và trí não. Dù hàm lượng dinh dưỡng cao nhưng chứa rất ít chất béo. Vì thế đây sẽ là sự lựa chọn tuyệt vời với những người muốn giảm cân, thường xuyên chơi thể thao.</li><li class=\"ql-align-justify\">Tốt cho tiêu hóa: bạch tuộc chứa nhiều selenium, hỗ trợ chuyển hóa tối đa dinh dưỡng trong cơ thể; cải thiện nhanh chóng tình trạng suy nhược cơ thể và phục hồi sức khỏe nhanh chóng.</li><li class=\"ql-align-justify\">Tốt cho mắt và da: thành phần chứa nhiều axit béo omega-3, ăn bạch tuộc thường xuyên sẽ giúp đôi mắt luôn sáng khỏe và một làn da săn chắc, đầy sức sống.</li></ul><h2 class=\"ql-align-justify\"><strong>II. Một Số Món Ăn Ngon Từ Bạch Tuộc Baby</strong></h2><p class=\"ql-align-justify\">Thỉnh thoảng hãy đổi vị bằng những món xào từ hải sản với cần tỏi tây để bữa cơm thêm ngon miệng nhé!&nbsp;Hôm nay sẽ là món bạch tuộc xào cần tỏi siêu ngon trong thực đơn của Sieuhaisan.vn nhé.</p><h3 class=\"ql-align-justify\"><strong>Nguyên Liệu Cần Chuẩn Bị Của Món Bạch Tuộc Xào Cần Tỏi</strong></h3><ul><li class=\"ql-align-justify\">350 gr&nbsp;bạch tuộc tươi</li><li class=\"ql-align-justify\">1/2 củ&nbsp;hành tây</li><li class=\"ql-align-justify\">1 bó&nbsp;nhỏ cần tây</li><li class=\"ql-align-justify\">4-5 chiếc&nbsp;ngô bao tử</li><li class=\"ql-align-justify\">1 củ&nbsp;tỏi</li><li class=\"ql-align-justify\">1 thìa&nbsp;sa tế</li><li class=\"ql-align-justify\">1 thìa&nbsp;rượu trắng</li><li class=\"ql-align-justify\">1 thìa&nbsp;hạt nêm</li><li class=\"ql-align-justify\">1/2 thìa cà phê&nbsp;tiêu</li><li class=\"ql-align-justify\">1&nbsp;quả ớt sừng</li><li class=\"ql-align-justify\">1 thìa nhỏ&nbsp;dầu hào</li><li class=\"ql-align-justify\">1 thìa&nbsp;nước mắm</li><li class=\"ql-align-justify\">1 thìa cà phê&nbsp;đường</li><li class=\"ql-align-justify\">Dầu ăn</li></ul><h3 class=\"ql-align-justify\"><strong>Các Bước Thực Hiện</strong></h3><ul><li class=\"ql-align-justify\">Bạch tuộc mua về đem sơ chế sạch sẽ rồi đổ nước vào nồi đun sôi thì cho gừng thái lát, 1 thìa rượu trắng vào cùng sau đó cho bạch tuộc vào chần sơ qua khoảng 1 phút thì vớt ra, thái miếng vừa ăn.</li><li class=\"ql-align-justify\">Hành tây thái múi cau, cần tây nhặt bỏ phần lá và rửa sạch thái khúc dài, tỏi băm nhỏ, ớt sừng thái lát mỏng, ngô bao tử thái miếng vát chéo.</li><li class=\"ql-align-justify\">Đặt chảo lên bếp cho khoảng 1 thìa dầu ăn sau đó cho 1/2 chỗ tỏi băm phi cho thơm thì cho bạch tuộc vào xào, nêm sa tế, hạt nêm, tiêu, đường, nước mắm và đảo đều rồi xúc ra đĩa.</li><li class=\"ql-align-justify\">Sử dụng luôn chảo đó và thêm 1 thìa dầu ăn vào chảo, cho nốt chỗ tỏi còn lại phi cho thơm rồi cho ngô bao tử vào xào, thêm 1 chút xíu nước để ngô nhanh chín sau đó thêm hành tây, cần tây, ớt sừng rồi đảo đều và nêm dầu hào, xào cho nguyên liệu chín thì cho bạch tuộc vào cùng.</li></ul><p>------------------------------------------</p><h2><strong>III. Thời Hạn Sử Dụng Và Bảo Quản Bạch Tuộc Baby:</strong></h2><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #bachtuoc #bachtuocbaby</p><h2 class=\"ql-align-justify\"><br></h2><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><h3 class=\"ql-align-justify\"><br></h3>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/ac8946b9-fe56-450f-bc82-08db5405ce7a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Natufood\",\"Hải sản\",\"Hải sản đông lạnh\",\"Hải sản sấy khô\",\"Hải sản tươi sống\",\"Bạch Tuộc\",\"Bạch tuộc baby\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hải sản Bạch Tuộc Baby Natufood 500g nguyên con [Chỉ giao HN]",
+    "description": "<h1 class=\"ql-align-justify\"><strong>🦐 Hải Sản - Bạch Tuộc Baby 🦐</strong></h1><h2 class=\"ql-align-justify\"><strong>I. Giới Thiệu Bạch Tuộc Baby</strong></h2><h3 class=\"ql-align-justify\"><strong>1.1. Bạch Tuộc Baby Là Gì?</strong></h3><p class=\"ql-align-justify\">Bạch Tuộc Baby là loài bạch tuộc có kích thước khá nhỏ, xúc tua dài. Tuy nhiên, giá trị dinh dưỡng của chúng không thua kém bất kỳ loại hải sản nào.&nbsp;Chúng là thực phẩm rất phổ biến trên bàn ăn của người Việt.Chúng không có vỏ ngoài nên thường sống nhờ vào các vỏ ốc. Ngư dân dựa vào các tập tính này để thả ghe câu bạch tuộc.</p><h3 class=\"ql-align-justify\"><strong>1.2. Vì Sao Nên Chọn Bạch Tuộc Baby?</strong></h3><p class=\"ql-align-justify\"><strong><em>Thứ nhất:</em></strong>&nbsp;tiết kiệm thời gian cho người phụ nữ hiện đại. Giúp họ dễ dàng lựa chọn và chế biến những món ăn ngon cho gia đình. Bạch tuộc đông lạnh đã được sơ chế, vì vậy việc chế biến rất nhanh.</p><p class=\"ql-align-justify\"><strong><em>Thứ hai:</em></strong>&nbsp;Bạch tuộc đông lạnh được cấp đông theo tiêu chuẩn Quốc tế IQF; được bảo quản ở nhiệt độ -18 độ C. Nhiệt độ này, các vi khuẩn bị tiêu diệt, hoặc bị vô hiệu hóa không còn khả năng gây hại.</p><p class=\"ql-align-justify\"><strong><em>Thứ ba:</em></strong>&nbsp;đảm bảo rõ nguồn gốc, chất lượng sản phẩm; tránh được các nguy hại từ thực phẩm kém chất lượng.</p><h3 class=\"ql-align-justify\"><strong>1.3. Dinh Dưỡng Từ Bạch Tuộc Baby</strong></h3><p class=\"ql-align-justify\">Bạch tuộc không mất nhiều thời gian chế biến, vị ngọt tự nhiên và giòn, bạch tuộc đang trở thành món ăn khoái khẩu của nhiều người. Không chỉ thơm ngon, bạch tuộc còn giàu dinh dưỡng nên có tác dụng bồi bổ thể lực rất tốt.</p><ul><li class=\"ql-align-justify\">Tăng cường sức đề kháng: thịt bạch tuộc giàu các chất như: canxi, photpho, vitamin và một số axit béo không no.&nbsp;Các chất này đều rất tốt cho sự phát triển của cơ thể và trí não. Dù hàm lượng dinh dưỡng cao nhưng chứa rất ít chất béo. Vì thế đây sẽ là sự lựa chọn tuyệt vời với những người muốn giảm cân, thường xuyên chơi thể thao.</li><li class=\"ql-align-justify\">Tốt cho tiêu hóa: bạch tuộc chứa nhiều selenium, hỗ trợ chuyển hóa tối đa dinh dưỡng trong cơ thể; cải thiện nhanh chóng tình trạng suy nhược cơ thể và phục hồi sức khỏe nhanh chóng.</li><li class=\"ql-align-justify\">Tốt cho mắt và da: thành phần chứa nhiều axit béo omega-3, ăn bạch tuộc thường xuyên sẽ giúp đôi mắt luôn sáng khỏe và một làn da săn chắc, đầy sức sống.</li></ul><h2 class=\"ql-align-justify\"><strong>II. Một Số Món Ăn Ngon Từ Bạch Tuộc Baby</strong></h2><p class=\"ql-align-justify\">Thỉnh thoảng hãy đổi vị bằng những món xào từ hải sản với cần tỏi tây để bữa cơm thêm ngon miệng nhé!&nbsp;Hôm nay sẽ là món bạch tuộc xào cần tỏi siêu ngon trong thực đơn của Sieuhaisan.vn nhé.</p><h3 class=\"ql-align-justify\"><strong>Nguyên Liệu Cần Chuẩn Bị Của Món Bạch Tuộc Xào Cần Tỏi</strong></h3><ul><li class=\"ql-align-justify\">350 gr&nbsp;bạch tuộc tươi</li><li class=\"ql-align-justify\">1/2 củ&nbsp;hành tây</li><li class=\"ql-align-justify\">1 bó&nbsp;nhỏ cần tây</li><li class=\"ql-align-justify\">4-5 chiếc&nbsp;ngô bao tử</li><li class=\"ql-align-justify\">1 củ&nbsp;tỏi</li><li class=\"ql-align-justify\">1 thìa&nbsp;sa tế</li><li class=\"ql-align-justify\">1 thìa&nbsp;rượu trắng</li><li class=\"ql-align-justify\">1 thìa&nbsp;hạt nêm</li><li class=\"ql-align-justify\">1/2 thìa cà phê&nbsp;tiêu</li><li class=\"ql-align-justify\">1&nbsp;quả ớt sừng</li><li class=\"ql-align-justify\">1 thìa nhỏ&nbsp;dầu hào</li><li class=\"ql-align-justify\">1 thìa&nbsp;nước mắm</li><li class=\"ql-align-justify\">1 thìa cà phê&nbsp;đường</li><li class=\"ql-align-justify\">Dầu ăn</li></ul><h3 class=\"ql-align-justify\"><strong>Các Bước Thực Hiện</strong></h3><ul><li class=\"ql-align-justify\">Bạch tuộc mua về đem sơ chế sạch sẽ rồi đổ nước vào nồi đun sôi thì cho gừng thái lát, 1 thìa rượu trắng vào cùng sau đó cho bạch tuộc vào chần sơ qua khoảng 1 phút thì vớt ra, thái miếng vừa ăn.</li><li class=\"ql-align-justify\">Hành tây thái múi cau, cần tây nhặt bỏ phần lá và rửa sạch thái khúc dài, tỏi băm nhỏ, ớt sừng thái lát mỏng, ngô bao tử thái miếng vát chéo.</li><li class=\"ql-align-justify\">Đặt chảo lên bếp cho khoảng 1 thìa dầu ăn sau đó cho 1/2 chỗ tỏi băm phi cho thơm thì cho bạch tuộc vào xào, nêm sa tế, hạt nêm, tiêu, đường, nước mắm và đảo đều rồi xúc ra đĩa.</li><li class=\"ql-align-justify\">Sử dụng luôn chảo đó và thêm 1 thìa dầu ăn vào chảo, cho nốt chỗ tỏi còn lại phi cho thơm rồi cho ngô bao tử vào xào, thêm 1 chút xíu nước để ngô nhanh chín sau đó thêm hành tây, cần tây, ớt sừng rồi đảo đều và nêm dầu hào, xào cho nguyên liệu chín thì cho bạch tuộc vào cùng.</li></ul><p>------------------------------------------</p><h2><strong>III. Thời Hạn Sử Dụng Và Bảo Quản Bạch Tuộc Baby:</strong></h2><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #bachtuoc #bachtuocbaby</p><h2 class=\"ql-align-justify\"><br></h2><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><h3 class=\"ql-align-justify\"><br></h3>",
+    "imageUrl": "https://images.f99.com.vn/images/ac8946b9-fe56-450f-bc82-08db5405ce7a.jpg",
+    "price": 145000,
+    "oldPrice": 180000,
+    "discountPercent": 19,
+    "stock": 599,
+    "totalSold": 417,
+    "maxQuantityPerUser": null,
+    "unit": "500g",
+    "sku": "8936085660025",
+    "origin": "",
+    "sellerId": 263,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.9,
+    "instructions": "<h1><strong>Hạn Sử Dụng Và Bảo Quản Bạch Tuộc Baby</strong></h1><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #bachtuoc #bachtuocbaby</p><h2 class=\"ql-align-justify\"><br></h2><p class=\"ql-align-justify\"><br></p>",
+    "category": {
+      "id": 132,
+      "name": "Mực ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/37d1439d-2a61-413d-8770-2e1c2fc392c0.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Natufood",
+      "Hải sản",
+      "Hải sản đông lạnh",
+      "Hải sản sấy khô",
+      "Hải sản tươi sống",
+      "Bạch Tuộc",
+      "Bạch tuộc baby"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/ac8946b9-fe56-450f-bc82-08db5405ce7a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15172",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 263,
+      "sellerRate": 4,
+      "sellerName": "NatuFood",
+      "warehouseId": "611945d9-1b81-4453-9191-e621d5ad3623",
+      "warehouseAddress": "361 Hoàng Công Chất, Phú Diễn, Bắc Từ Liêm, Hà Nội",
+      "distance": 7224,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 44.583333333333336,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15174,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hải sản Râu Bạch Tuộc Natufood 300g giàu dinh dưỡng [Chỉ giao HN]",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h1 class=\"ql-align-justify\"><strong>🦐 Hải Sản - Râu Bạch Tuộc 🦐</strong></h1><h2 class=\"ql-align-justify\"><strong>I. Giới Thiệu Râu Bạch Tuộc</strong></h2><h3 class=\"ql-align-justify\"><strong>1.1. Râu Bạch Tuộc Là Gì</strong></h3><p class=\"ql-align-justify\">Râu&nbsp;Bạch Tuộc&nbsp;rất giòn và được nhiều người ưa chuộng bởi độ giòn ngọt tự nhiên và không mất nhiều thời gian chế biến. Râu bạch tuộc được chế biến thành nhiều món ăn hấp dẫn và giàu dinh dưỡng. Râu bạch tuộc có tác dụng bồi bổ cơ thể một cách toàn diện, tăng cường sức đề kháng và tốt cho hệ tiêu hóa. Để thuận tiện trong quá trình vận chuyển, râu bạch tuộc được cấp đông và bảo quản ở nhiệt độ ≤-18°C.</p><h2 class=\"ql-align-justify\"><strong>II. Tác Dụng Của Râu Bạch Tuộc</strong></h2><h3 class=\"ql-align-justify\"><strong>Râu Bạch Tuộc Tăng Cường sức Đề Kháng</strong></h3><p class=\"ql-align-justify\">Thịt bạch tuộc có chứa các chất như: canxi, kali, phốt pho, vitamin, omega-3,… Các chất này có vai trò quan trọng trong việc tăng cường sức đề kháng cho cơ thể. Do đó, phòng ngừa nhiều bệnh tật.</p><h3 class=\"ql-align-justify\"><strong>Râu Bạch Tuộc Tốt Cho Hệ Tiêu Hóa, Chống Suy Nhược Cơ Thể</strong></h3><p class=\"ql-align-justify\">Bạch tuộc chứa nhiều selenium, có vai trò quan trọng trong việc chuyển hóa protein. Giúp quá trình tiêu hóa dễ dàng hơn. Ngoài ra, selenium cũng là một chất chống lại quá trình oxi hóa, loại trừ các gốc tự do có hại cho sức khỏe.</p><p class=\"ql-align-justify\">Thịt bạch tuộc có vị mặn, tính bình, tác dụng dưỡng khí, dưỡng huyết hiệu quả.</p><h3 class=\"ql-align-justify\"><strong>Râu Bạch Tuộc Tăng Cường Trao Đổi Chất</strong></h3><p class=\"ql-align-justify\">Vitamin B12 là khoáng chất thiết yếu thúc đẩy quá trình trao đổi chất trong cơ thể. Bổ sung vitamin B12 thường xuyên giúp cân bằng chất dinh dưỡng, chống suy nhược cơ thể.</p><h3 class=\"ql-align-justify\"><strong>Râu Bạch Tuộc Hỗ Trợ Làm Giảm Rối Loạn Nhịp Tim</strong></h3><p class=\"ql-align-justify\">Thịt bạch tuộc được dùng để bài chế chất octopamin. Chất này có tác dụng gây mê tốt, ngoài ra còn chứa hoạt chất làm giảm chứng rối loạn nhịp tim. Do vậy, người bị bệnh tim mạch nên bổ sung món bạch tuộc vào bữa ăn thường xuyên.</p><h3 class=\"ql-align-justify\"><strong>Râu Bạch Tuộc Làm Đẹp Da</strong></h3><p class=\"ql-align-justify\">Các món ăn từ bạch tuộc cung cấp rất nhiều dưỡng chất cho cơ thể, giúp bạn có một làn da săn chắc và khỏe mạnh. Axit béo omega-3 trong bạch tuộc sẽ giúp bảo vệ da khỏi tia UV từ ánh mặt trời làm hại tới làn da của bạn. Bổ sung các chất dinh dưỡng cần thiết cho cơ thể là cách để duy trì một làn da khỏe mạnh tốt nhất.</p><h3 class=\"ql-align-justify\"><strong>Râu Bạch Tuộc Tăng Cường Trí Óc</strong></h3><p class=\"ql-align-justify\">Ngoài những lợi ích ở trên, bạch tuộc còn giúp kích thích sự phát triển trí não ở trẻ nhỏ. Việc hấp thụ axit béo omega-3 trong bạch tuộc một thời gian dài có thể làm tăng chức năng nhận thức ở phụ nữ lớn tuổi.</p><p>------------------------------------------</p><h2><strong>III. Thời Hạn Sử Dụng Và Bảo Quản Râu Bạch Tuộc:</strong></h2><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #bachtuoc #raubachtuoc</p><h2 class=\"ql-align-justify\"><br></h2><p class=\"ql-align-justify\"><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/a9444f33-faeb-458c-bfe3-ddfd8f8ce4da.jpg\",\"https://images.f99.com.vn/images/1700165d-c683-4e1e-8e44-57d33da913b9.jpg\",\"https://images.f99.com.vn/images/59a1abd8-e533-474b-bfb9-a4d3eb2296a4.jpg\",\"https://images.f99.com.vn/images/37643d61-4a1d-425e-abd0-afdeadac3d33.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Natufood\",\"Hải sản\",\"Hải sản đông lạnh\",\"Hải sản tươi sống\",\"Hải sản chế biến\",\"Hải sản sấy khô\",\"Bạch Tuộc\",\"Râu Bạch Tuộc\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hải sản Râu Bạch Tuộc Natufood 300g giàu dinh dưỡng [Chỉ giao HN]",
+    "description": "<h1 class=\"ql-align-justify\"><strong>🦐 Hải Sản - Râu Bạch Tuộc 🦐</strong></h1><h2 class=\"ql-align-justify\"><strong>I. Giới Thiệu Râu Bạch Tuộc</strong></h2><h3 class=\"ql-align-justify\"><strong>1.1. Râu Bạch Tuộc Là Gì</strong></h3><p class=\"ql-align-justify\">Râu&nbsp;Bạch Tuộc&nbsp;rất giòn và được nhiều người ưa chuộng bởi độ giòn ngọt tự nhiên và không mất nhiều thời gian chế biến. Râu bạch tuộc được chế biến thành nhiều món ăn hấp dẫn và giàu dinh dưỡng. Râu bạch tuộc có tác dụng bồi bổ cơ thể một cách toàn diện, tăng cường sức đề kháng và tốt cho hệ tiêu hóa. Để thuận tiện trong quá trình vận chuyển, râu bạch tuộc được cấp đông và bảo quản ở nhiệt độ ≤-18°C.</p><h2 class=\"ql-align-justify\"><strong>II. Tác Dụng Của Râu Bạch Tuộc</strong></h2><h3 class=\"ql-align-justify\"><strong>Râu Bạch Tuộc Tăng Cường sức Đề Kháng</strong></h3><p class=\"ql-align-justify\">Thịt bạch tuộc có chứa các chất như: canxi, kali, phốt pho, vitamin, omega-3,… Các chất này có vai trò quan trọng trong việc tăng cường sức đề kháng cho cơ thể. Do đó, phòng ngừa nhiều bệnh tật.</p><h3 class=\"ql-align-justify\"><strong>Râu Bạch Tuộc Tốt Cho Hệ Tiêu Hóa, Chống Suy Nhược Cơ Thể</strong></h3><p class=\"ql-align-justify\">Bạch tuộc chứa nhiều selenium, có vai trò quan trọng trong việc chuyển hóa protein. Giúp quá trình tiêu hóa dễ dàng hơn. Ngoài ra, selenium cũng là một chất chống lại quá trình oxi hóa, loại trừ các gốc tự do có hại cho sức khỏe.</p><p class=\"ql-align-justify\">Thịt bạch tuộc có vị mặn, tính bình, tác dụng dưỡng khí, dưỡng huyết hiệu quả.</p><h3 class=\"ql-align-justify\"><strong>Râu Bạch Tuộc Tăng Cường Trao Đổi Chất</strong></h3><p class=\"ql-align-justify\">Vitamin B12 là khoáng chất thiết yếu thúc đẩy quá trình trao đổi chất trong cơ thể. Bổ sung vitamin B12 thường xuyên giúp cân bằng chất dinh dưỡng, chống suy nhược cơ thể.</p><h3 class=\"ql-align-justify\"><strong>Râu Bạch Tuộc Hỗ Trợ Làm Giảm Rối Loạn Nhịp Tim</strong></h3><p class=\"ql-align-justify\">Thịt bạch tuộc được dùng để bài chế chất octopamin. Chất này có tác dụng gây mê tốt, ngoài ra còn chứa hoạt chất làm giảm chứng rối loạn nhịp tim. Do vậy, người bị bệnh tim mạch nên bổ sung món bạch tuộc vào bữa ăn thường xuyên.</p><h3 class=\"ql-align-justify\"><strong>Râu Bạch Tuộc Làm Đẹp Da</strong></h3><p class=\"ql-align-justify\">Các món ăn từ bạch tuộc cung cấp rất nhiều dưỡng chất cho cơ thể, giúp bạn có một làn da săn chắc và khỏe mạnh. Axit béo omega-3 trong bạch tuộc sẽ giúp bảo vệ da khỏi tia UV từ ánh mặt trời làm hại tới làn da của bạn. Bổ sung các chất dinh dưỡng cần thiết cho cơ thể là cách để duy trì một làn da khỏe mạnh tốt nhất.</p><h3 class=\"ql-align-justify\"><strong>Râu Bạch Tuộc Tăng Cường Trí Óc</strong></h3><p class=\"ql-align-justify\">Ngoài những lợi ích ở trên, bạch tuộc còn giúp kích thích sự phát triển trí não ở trẻ nhỏ. Việc hấp thụ axit béo omega-3 trong bạch tuộc một thời gian dài có thể làm tăng chức năng nhận thức ở phụ nữ lớn tuổi.</p><p>------------------------------------------</p><h2><strong>III. Thời Hạn Sử Dụng Và Bảo Quản Râu Bạch Tuộc:</strong></h2><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #bachtuoc #raubachtuoc</p><h2 class=\"ql-align-justify\"><br></h2><p class=\"ql-align-justify\"><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/a9444f33-faeb-458c-bfe3-ddfd8f8ce4da.jpg",
+    "price": 165000,
+    "oldPrice": 190000,
+    "discountPercent": 13,
+    "stock": 741,
+    "totalSold": 452,
+    "maxQuantityPerUser": null,
+    "unit": "300g",
+    "sku": "8936085660490",
+    "origin": "",
+    "sellerId": 263,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.9,
+    "instructions": "<h1><strong>Hạn Sử Dụng Và Bảo Quản Râu Bạch Tuộc</strong></h1><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #bachtuoc #raubachtuoc</p><h2 class=\"ql-align-justify\"><br></h2>",
+    "category": {
+      "id": 132,
+      "name": "Mực ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/37d1439d-2a61-413d-8770-2e1c2fc392c0.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Natufood",
+      "Hải sản",
+      "Hải sản đông lạnh",
+      "Hải sản tươi sống",
+      "Hải sản chế biến",
+      "Hải sản sấy khô",
+      "Bạch Tuộc",
+      "Râu Bạch Tuộc"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/a9444f33-faeb-458c-bfe3-ddfd8f8ce4da.jpg",
+      "https://images.f99.com.vn/images/1700165d-c683-4e1e-8e44-57d33da913b9.jpg",
+      "https://images.f99.com.vn/images/59a1abd8-e533-474b-bfb9-a4d3eb2296a4.jpg",
+      "https://images.f99.com.vn/images/37643d61-4a1d-425e-abd0-afdeadac3d33.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15174",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 263,
+      "sellerRate": 4,
+      "sellerName": "NatuFood",
+      "warehouseId": "611945d9-1b81-4453-9191-e621d5ad3623",
+      "warehouseAddress": "361 Hoàng Công Chất, Phú Diễn, Bắc Từ Liêm, Hà Nội",
+      "distance": 7224,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 44.583333333333336,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15179,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hải sản Bạch Tuộc Sim Natufood 400/500g nguyên con [Chỉ giao HN]",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h1 class=\"ql-align-justify\"><strong>🦐 Hải Sản - Bạch Tuộc Sim 🦐</strong></h1><h2 class=\"ql-align-justify\"><strong>I. Đặc Điểm Bạch Tuộc Sim</strong></h2><h3 class=\"ql-align-justify\"><strong>Đặc Điểm Bên Ngoài Bạch Tuộc Sim</strong></h3><p class=\"ql-align-justify\">Bạch tuộc là loài động vật thân mềm, màu hơi xám, hình oval, sống dưới đáy biển, họ hàng với cá mực. Đầu bạch tuộc có 8 tua làm nhiệm vụ tự vệ, di chuyển và tìm kiếm thức ăn, xúc tua này có thể mọc lại nếu bị rụng. Thân không có xương sống cũng không có vỏ cứng bao quanh. Bạch tuộc sim cấp đông được chọn lựa từ những con bạch tuộc tươi ngon, cấp đông theo tiêu chuẩn IQF và bảo quản ở nhiệt độ ≤ 18 độ C.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Tại Việt Nam, bạch tuộc được khai thác chủ yếu bằng hình thức kéo lưới, tập trung nhiều ở vùng biển thuộc Vịnh Bắc Bộ. Tuy nhiên, bạch tuộc chỉ giữ được nguồn dinh dưỡng khi còn sống hoặc được bảo quản và cấp đông đúng cách ngay sau khi đánh bắt. Hiện nay, với công nghệ khai thác và bảo quản hiện đại, bạch tuộc của Việt Nam đã đảm bảo được các tiêu chuẩn chất lượng cung cấp trong nước và xuất khẩu.</p><h3 class=\"ql-align-justify\"><strong>Dinh Dưỡng Bạch Tuộc Sim</strong></h3><p class=\"ql-align-justify\">Bạch tuộc không mất nhiều thời gian chế biến, vị ngọt tự nhiên và giòn, bạch tuộc đang trở thành món ăn khoái khẩu của nhiều người. Không chỉ thơm ngon, bạch tuộc còn giàu dinh dưỡng nên có tác dụng bồi bổ thể lực rất tốt.</p><p class=\"ql-align-justify\">– Tăng cường sức đề kháng: thịt bạch tuộc giàu các chất như: canxi, photpho, vitamin và một số axit béo không no. Chất này giúp tăng cường sức đề kháng, ngăn ngừa được nhiều bệnh tật.</p><p class=\"ql-align-justify\">– Tốt cho tiêu hóa: bạch tuộc chứa nhiều selenium, hỗ trợ chuyển hóa tối đa dinh dưỡng trong cơ thể, cải thiện nhanh chóng tình trạng suy nhược cơ thể và phục hồi sức khỏe nhanh chóng.</p><p class=\"ql-align-justify\">– Tốt cho mắt và da: thành phần chứa nhiều axit béo omega-3, ăn bạch tuộc thường xuyên sẽ giúp đôi mắt luôn sáng khỏe và một làn da săn chắc, đầy sức sống.</p><h2 class=\"ql-align-justify\"><strong>II. Hướng Dẫn Chế Biến Bạch Tuộc Sim Cấp Đông</strong></h2><p class=\"ql-align-justify\"><strong>Một Số Món Ăn Chế Biến Bạch Tuộc Sim</strong></p><p class=\"ql-align-justify\">Bạch tuộc có vị ngọt, thơm, ngon đặc trưng của Bạch tuộc khác biệt với các dòng thâm mềm khác, như mực.</p><p class=\"ql-align-justify\">Bạch tuộc tươi có thể được chế biến thành nhiều món ăn khác nhau sau quá trình sơ chế (rã đông) và vệ sinh như:</p><p class=\"ql-align-justify\">Nhúng lẩu, hấp, chiên, nướng, xào.</p><h3 class=\"ql-align-justify\"><strong>Món 1: Bạch tuộc xào kiểu Hàn Quốc</strong></h3><p class=\"ql-align-justify\"><strong><em>Nguyên Liệu:</em></strong></p><ul><li class=\"ql-align-justify\">3 muỗng tương ớt HQ</li><li class=\"ql-align-justify\">2 muỗng mật ong</li><li class=\"ql-align-justify\">1/2 muỗng đường</li><li class=\"ql-align-justify\">1 muỗng nước tương</li><li class=\"ql-align-justify\">1 muỗng dầu hào 1mc dầu mè</li><li class=\"ql-align-justify\">1/2 kg&nbsp;bạch tuộc loại nhỏ, làm sạch, cắt đôi khúc&nbsp;Hành lá cắt</li><li class=\"ql-align-justify\">2-3&nbsp;cà chua, cắt múi cau</li><li class=\"ql-align-justify\">1 củ&nbsp;hành tây nhỏ hay 1/2 củ lớn, cắt múi cau, tỏi bằm</li></ul><p class=\"ql-align-justify\"><strong><em>Các Bước:</em></strong></p><p class=\"ql-align-justify\">Trộn tất cả nguyên liệu chất lỏng thành nước xốt</p><p class=\"ql-align-justify\">Cho dầu vào chảo, dầu nóng, xào tỏi thơm</p><p class=\"ql-align-justify\">Cho hành tây vào đảo lên</p><p class=\"ql-align-justify\">Cho cà chua vào</p><p class=\"ql-align-justify\">Cho xốt ở bước 1 vào đảo đều</p><p class=\"ql-align-justify\">Cho bạch tuộc vào đảo 3-5 phút, tránh nấu lâu sẽ bị dai</p><p class=\"ql-align-justify\">Cho hành lá vào xào sơ rồi tắt bếp. Món này ăn với cơm.</p><p class=\"ql-align-justify\">Có thể rắc mè (vừng) cho phần thơm ngon và bổ dưỡng</p><h3 class=\"ql-align-justify\"><strong>Món 2: Bạch Tuộc Xào Cần Tỏi</strong></h3><p class=\"ql-align-justify\"><strong><em>Nguyên Liệu:</em></strong></p><ul><li class=\"ql-align-justify\">350 gr&nbsp;bạch tuộc tươi</li><li class=\"ql-align-justify\">1/2 củ&nbsp;hành tây</li><li class=\"ql-align-justify\">1 bó&nbsp;nhỏ cần tây</li><li class=\"ql-align-justify\">4-5 chiếc&nbsp;ngô bao tử</li><li class=\"ql-align-justify\">1 củ&nbsp;tỏi</li><li class=\"ql-align-justify\">1 thìa&nbsp;sa tế</li><li class=\"ql-align-justify\">1 thìa&nbsp;rượu trắng</li><li class=\"ql-align-justify\">1 thìa&nbsp;hạt nêm</li><li class=\"ql-align-justify\">1/2 thìa cà phê&nbsp;tiêu</li><li class=\"ql-align-justify\">1&nbsp;quả ớt sừng</li><li class=\"ql-align-justify\">1 thìa nhỏ&nbsp;dầu hào</li><li class=\"ql-align-justify\">1 thìa&nbsp;nước mắm</li><li class=\"ql-align-justify\">1 thìa cà phê&nbsp;đường</li><li class=\"ql-align-justify\">Dầu ăn</li></ul><h4 class=\"ql-align-justify\"><strong><em>Các Bước:</em></strong></h4><p class=\"ql-align-justify\">Bạch tuộc sin đông lạnh mua về đem rã đông. Sơ chế sạch sẽ rồi đổ nước vào nồi đun sôi thì cho gừng thái lát, 1 thìa rượu trắng vào. Sau đó cho bạch tuộc vào chần sơ qua khoảng 1 phút thì vớt ra, thái miếng vừa ăn.</p><p class=\"ql-align-justify\">Hành tây thái múi cau. Cần tây nhặt bỏ phần lá và rửa sạch thái khúc dài. Tỏi băm nhỏ. Ớt sừng thái lát mỏng. Ngô bao tử thái miếng vát chéo.</p><p class=\"ql-align-justify\">Đặt chảo lên bếp cho khoảng 1 thìa dầu ăn sau đó cho 1/2 chỗ tỏi băm phi cho thơm thì cho bạch tuộc vào xào, nêm sa tế, hạt nêm, tiêu, đường, nước mắm và đảo đều rồi xúc ra đĩa.</p><p class=\"ql-align-justify\">Sử dụng luôn chảo đó và thêm 1 thìa dầu ăn vào chảo, cho nốt chỗ tỏi còn lại phi cho thơm rồi cho ngô bao tử vào xào, thêm 1 chút xíu nước để ngô nhanh chín sau đó thêm hành tây, cần tây, ớt sừng rồi đảo đều và nêm dầu hào, xào cho nguyên liệu chín thì cho bạch tuộc vào cùng. Đảo đều và tắt bếp.</p><p>------------------------------------------</p><h2><strong>III. Thời Hạn Sử Dụng Và Bảo Quản Bạch Tuộc Sim:</strong></h2><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #bachtuoc #bachtuocsim #raubachtuoc</p><h2 class=\"ql-align-justify\"><br></h2><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/43ddcd2b-49fe-40b1-b2f3-4e03ce3dd6c9.jpg\",\"https://images.f99.com.vn/images/680a3d4a-3adc-4c79-b29b-27188de88dc4.jpg\",\"https://images.f99.com.vn/images/1c5439ac-bad0-4c9e-927a-32391137ac08.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Natufood\",\"Hải Sản\",\"Hải sản đông lạnh\",\"Hải sản tươi sống\",\"Hải sản chế biến\",\"Hải sản sấy khô\\\\\",\"Bạch tuộc\",\"Bạch tuộc sim\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hải sản Bạch Tuộc Sim Natufood 400/500g nguyên con [Chỉ giao HN]",
+    "description": "<h1 class=\"ql-align-justify\"><strong>🦐 Hải Sản - Bạch Tuộc Sim 🦐</strong></h1><h2 class=\"ql-align-justify\"><strong>I. Đặc Điểm Bạch Tuộc Sim</strong></h2><h3 class=\"ql-align-justify\"><strong>Đặc Điểm Bên Ngoài Bạch Tuộc Sim</strong></h3><p class=\"ql-align-justify\">Bạch tuộc là loài động vật thân mềm, màu hơi xám, hình oval, sống dưới đáy biển, họ hàng với cá mực. Đầu bạch tuộc có 8 tua làm nhiệm vụ tự vệ, di chuyển và tìm kiếm thức ăn, xúc tua này có thể mọc lại nếu bị rụng. Thân không có xương sống cũng không có vỏ cứng bao quanh. Bạch tuộc sim cấp đông được chọn lựa từ những con bạch tuộc tươi ngon, cấp đông theo tiêu chuẩn IQF và bảo quản ở nhiệt độ ≤ 18 độ C.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Tại Việt Nam, bạch tuộc được khai thác chủ yếu bằng hình thức kéo lưới, tập trung nhiều ở vùng biển thuộc Vịnh Bắc Bộ. Tuy nhiên, bạch tuộc chỉ giữ được nguồn dinh dưỡng khi còn sống hoặc được bảo quản và cấp đông đúng cách ngay sau khi đánh bắt. Hiện nay, với công nghệ khai thác và bảo quản hiện đại, bạch tuộc của Việt Nam đã đảm bảo được các tiêu chuẩn chất lượng cung cấp trong nước và xuất khẩu.</p><h3 class=\"ql-align-justify\"><strong>Dinh Dưỡng Bạch Tuộc Sim</strong></h3><p class=\"ql-align-justify\">Bạch tuộc không mất nhiều thời gian chế biến, vị ngọt tự nhiên và giòn, bạch tuộc đang trở thành món ăn khoái khẩu của nhiều người. Không chỉ thơm ngon, bạch tuộc còn giàu dinh dưỡng nên có tác dụng bồi bổ thể lực rất tốt.</p><p class=\"ql-align-justify\">– Tăng cường sức đề kháng: thịt bạch tuộc giàu các chất như: canxi, photpho, vitamin và một số axit béo không no. Chất này giúp tăng cường sức đề kháng, ngăn ngừa được nhiều bệnh tật.</p><p class=\"ql-align-justify\">– Tốt cho tiêu hóa: bạch tuộc chứa nhiều selenium, hỗ trợ chuyển hóa tối đa dinh dưỡng trong cơ thể, cải thiện nhanh chóng tình trạng suy nhược cơ thể và phục hồi sức khỏe nhanh chóng.</p><p class=\"ql-align-justify\">– Tốt cho mắt và da: thành phần chứa nhiều axit béo omega-3, ăn bạch tuộc thường xuyên sẽ giúp đôi mắt luôn sáng khỏe và một làn da săn chắc, đầy sức sống.</p><h2 class=\"ql-align-justify\"><strong>II. Hướng Dẫn Chế Biến Bạch Tuộc Sim Cấp Đông</strong></h2><p class=\"ql-align-justify\"><strong>Một Số Món Ăn Chế Biến Bạch Tuộc Sim</strong></p><p class=\"ql-align-justify\">Bạch tuộc có vị ngọt, thơm, ngon đặc trưng của Bạch tuộc khác biệt với các dòng thâm mềm khác, như mực.</p><p class=\"ql-align-justify\">Bạch tuộc tươi có thể được chế biến thành nhiều món ăn khác nhau sau quá trình sơ chế (rã đông) và vệ sinh như:</p><p class=\"ql-align-justify\">Nhúng lẩu, hấp, chiên, nướng, xào.</p><h3 class=\"ql-align-justify\"><strong>Món 1: Bạch tuộc xào kiểu Hàn Quốc</strong></h3><p class=\"ql-align-justify\"><strong><em>Nguyên Liệu:</em></strong></p><ul><li class=\"ql-align-justify\">3 muỗng tương ớt HQ</li><li class=\"ql-align-justify\">2 muỗng mật ong</li><li class=\"ql-align-justify\">1/2 muỗng đường</li><li class=\"ql-align-justify\">1 muỗng nước tương</li><li class=\"ql-align-justify\">1 muỗng dầu hào 1mc dầu mè</li><li class=\"ql-align-justify\">1/2 kg&nbsp;bạch tuộc loại nhỏ, làm sạch, cắt đôi khúc&nbsp;Hành lá cắt</li><li class=\"ql-align-justify\">2-3&nbsp;cà chua, cắt múi cau</li><li class=\"ql-align-justify\">1 củ&nbsp;hành tây nhỏ hay 1/2 củ lớn, cắt múi cau, tỏi bằm</li></ul><p class=\"ql-align-justify\"><strong><em>Các Bước:</em></strong></p><p class=\"ql-align-justify\">Trộn tất cả nguyên liệu chất lỏng thành nước xốt</p><p class=\"ql-align-justify\">Cho dầu vào chảo, dầu nóng, xào tỏi thơm</p><p class=\"ql-align-justify\">Cho hành tây vào đảo lên</p><p class=\"ql-align-justify\">Cho cà chua vào</p><p class=\"ql-align-justify\">Cho xốt ở bước 1 vào đảo đều</p><p class=\"ql-align-justify\">Cho bạch tuộc vào đảo 3-5 phút, tránh nấu lâu sẽ bị dai</p><p class=\"ql-align-justify\">Cho hành lá vào xào sơ rồi tắt bếp. Món này ăn với cơm.</p><p class=\"ql-align-justify\">Có thể rắc mè (vừng) cho phần thơm ngon và bổ dưỡng</p><h3 class=\"ql-align-justify\"><strong>Món 2: Bạch Tuộc Xào Cần Tỏi</strong></h3><p class=\"ql-align-justify\"><strong><em>Nguyên Liệu:</em></strong></p><ul><li class=\"ql-align-justify\">350 gr&nbsp;bạch tuộc tươi</li><li class=\"ql-align-justify\">1/2 củ&nbsp;hành tây</li><li class=\"ql-align-justify\">1 bó&nbsp;nhỏ cần tây</li><li class=\"ql-align-justify\">4-5 chiếc&nbsp;ngô bao tử</li><li class=\"ql-align-justify\">1 củ&nbsp;tỏi</li><li class=\"ql-align-justify\">1 thìa&nbsp;sa tế</li><li class=\"ql-align-justify\">1 thìa&nbsp;rượu trắng</li><li class=\"ql-align-justify\">1 thìa&nbsp;hạt nêm</li><li class=\"ql-align-justify\">1/2 thìa cà phê&nbsp;tiêu</li><li class=\"ql-align-justify\">1&nbsp;quả ớt sừng</li><li class=\"ql-align-justify\">1 thìa nhỏ&nbsp;dầu hào</li><li class=\"ql-align-justify\">1 thìa&nbsp;nước mắm</li><li class=\"ql-align-justify\">1 thìa cà phê&nbsp;đường</li><li class=\"ql-align-justify\">Dầu ăn</li></ul><h4 class=\"ql-align-justify\"><strong><em>Các Bước:</em></strong></h4><p class=\"ql-align-justify\">Bạch tuộc sin đông lạnh mua về đem rã đông. Sơ chế sạch sẽ rồi đổ nước vào nồi đun sôi thì cho gừng thái lát, 1 thìa rượu trắng vào. Sau đó cho bạch tuộc vào chần sơ qua khoảng 1 phút thì vớt ra, thái miếng vừa ăn.</p><p class=\"ql-align-justify\">Hành tây thái múi cau. Cần tây nhặt bỏ phần lá và rửa sạch thái khúc dài. Tỏi băm nhỏ. Ớt sừng thái lát mỏng. Ngô bao tử thái miếng vát chéo.</p><p class=\"ql-align-justify\">Đặt chảo lên bếp cho khoảng 1 thìa dầu ăn sau đó cho 1/2 chỗ tỏi băm phi cho thơm thì cho bạch tuộc vào xào, nêm sa tế, hạt nêm, tiêu, đường, nước mắm và đảo đều rồi xúc ra đĩa.</p><p class=\"ql-align-justify\">Sử dụng luôn chảo đó và thêm 1 thìa dầu ăn vào chảo, cho nốt chỗ tỏi còn lại phi cho thơm rồi cho ngô bao tử vào xào, thêm 1 chút xíu nước để ngô nhanh chín sau đó thêm hành tây, cần tây, ớt sừng rồi đảo đều và nêm dầu hào, xào cho nguyên liệu chín thì cho bạch tuộc vào cùng. Đảo đều và tắt bếp.</p><p>------------------------------------------</p><h2><strong>III. Thời Hạn Sử Dụng Và Bảo Quản Bạch Tuộc Sim:</strong></h2><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #bachtuoc #bachtuocsim #raubachtuoc</p><h2 class=\"ql-align-justify\"><br></h2><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/43ddcd2b-49fe-40b1-b2f3-4e03ce3dd6c9.jpg",
+    "price": 125000,
+    "oldPrice": 175000,
+    "discountPercent": 29,
+    "stock": 487,
+    "totalSold": 197,
+    "maxQuantityPerUser": null,
+    "unit": "500g",
+    "sku": "8936085660674",
+    "origin": "",
+    "sellerId": 263,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.9,
+    "instructions": "<h1><strong>Hạn Sử Dụng Và Bảo Quản Bạch Tuộc Sim:</strong></h1><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #bachtuoc #bachtuocsim #raubachtuoc</p>",
+    "category": {
+      "id": 132,
+      "name": "Mực ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/37d1439d-2a61-413d-8770-2e1c2fc392c0.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Natufood",
+      "Hải Sản",
+      "Hải sản đông lạnh",
+      "Hải sản tươi sống",
+      "Hải sản chế biến",
+      "Hải sản sấy khô\\",
+      "Bạch tuộc",
+      "Bạch tuộc sim"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/43ddcd2b-49fe-40b1-b2f3-4e03ce3dd6c9.jpg",
+      "https://images.f99.com.vn/images/680a3d4a-3adc-4c79-b29b-27188de88dc4.jpg",
+      "https://images.f99.com.vn/images/1c5439ac-bad0-4c9e-927a-32391137ac08.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15179",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 263,
+      "sellerRate": 4,
+      "sellerName": "NatuFood",
+      "warehouseId": "611945d9-1b81-4453-9191-e621d5ad3623",
+      "warehouseAddress": "361 Hoàng Công Chất, Phú Diễn, Bắc Từ Liêm, Hà Nội",
+      "distance": 7224,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 44.583333333333336,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15298,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bề Bề Nõn Natufood Hộp 500g Size (60-80) [Chỉ giao HN]",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h1 class=\"ql-align-justify\"><strong>🦐 Hải Sản - Bề Bề Nõn 🦐</strong></h1><h2 class=\"ql-align-justify\"><strong>I. Đặc Điểm Của Bề Bề Nõn</strong></h2><h3 class=\"ql-align-justify\"><strong>1.1. Giới thiệu Bề Bề Nõn</strong></h3><p class=\"ql-align-justify\">Bề Bề thịt hấp là món ăn được tạo thành từ những con Bề Bề tươi ngon nhất, được bảo quản đông lạnh. Hấp chín rồi bóc vỏ, cấp đông với nhiệt độ -35 đến -55 độ C, bảo quản ở nhiệt độ -18 độ C.</p><h3 class=\"ql-align-justify\"><strong>1.2. Dinh Dưỡng Của Bề Bề Nõn</strong></h3><ul><li class=\"ql-align-justify\">Bổ sung Vitamin B12: đây là loại vitamin phức tạp tham gia vào quá trình chuyển hóa năng lượng trong cơ thể. Vitamin B12 giữ vai trò quan trọng trong tổng hợp các nucleotic, protein, carbohydrat và chất béo. Vì vậy, thường xuyên ăn Bề Bề sẽ giúp giảm suy nhược cơ thể, cân bằng dinh dưỡng.</li><li class=\"ql-align-justify\">Bổ sung sắt và protein: sắt là chất vô cùng quan trọng trong quá trình tạo máu. Nếu thiếu sắt cơ thể sẽ bị thiếu máu, mệt lả và khó thở. Sắt tăng cường hệ miễn dịch, vận chuyển oxy từ phổi đến các cơ quan. Sắt đặc biệt quan trọng đối với trẻ em trong độ tuổi phát triển.</li><li class=\"ql-align-justify\">Bổ sung canxi: là chất quan trọng đối với xương khớp và răng. Cứ 100g bề bề có đến 2000mg canxi. Đối với trẻ nhỏ, nếu thiếu canxi sẽ bị chậm lớn, hạn chế chiều cao, còi xương. Đối với người tuổi trung niên, nếu thiếu canxi sẽ dẫn đến loãng xương, mất xương.</li><li class=\"ql-align-justify\">Bổ sung Omega-3: đây là loại axit béo vô cùng quan tọng trong việc phát triển trí não và hệ thần kinh. Những người được bổ sung Omega-3 thường xuyên sẽ giúp tăng khả năng tập trung.</li><li class=\"ql-align-justify\">Ngoài ra, bề bề còn có rất nhiều chất quan trọng như khoáng chất, vitamin A, vitamin B1, kẽm, kali,…</li></ul><h2 class=\"ql-align-justify\"><strong>II. Cách Chế Biến Bề Bề Nõn </strong></h2><h3 class=\"ql-align-justify\"><strong>Món 1: Bún Bề Bề</strong></h3><p class=\"ql-align-justify\"><strong><em>Nguyên Liệu:</em></strong></p><p class=\"ql-align-justify\">Bề Bề thịt hấp (1 gói)</p><p class=\"ql-align-justify\">4 quả cà chua</p><p class=\"ql-align-justify\">10 củ hành khô</p><p class=\"ql-align-justify\">1 bó Rau cải ngọt</p><p class=\"ql-align-justify\"><strong><em>Các Bước:</em></strong></p><p class=\"ql-align-justify\">Bề bề rửa ráo cho vào nồi đun sôi.</p><p class=\"ql-align-justify\">Dùng bề bề nõn</p><p class=\"ql-align-justify\">Nếu có vỏ và càng bề bề thì đem xay hoặc giã</p><p class=\"ql-align-justify\">Rau rửa sạch trần vớt ra cho ráo</p><p class=\"ql-align-justify\">Phi hành khô</p><p class=\"ql-align-justify\">Bún trần ra bát, xếp bề bề, rau lên trên. Chan nước dùng vs cà chua. Rắc hành khô. Cho tương ớt vào.</p><h3 class=\"ql-align-justify\"><strong>Món 2: Chả Nem Nhân Tôm Bề Bề</strong></h3><p class=\"ql-align-justify\"><strong><em>Nguyên Liệu:</em></strong></p><p class=\"ql-align-justify\">500 g Bề Bề thịt hấp</p><p class=\"ql-align-justify\">1 cuộn miến dong, nấm hương và mộc nhĩ vừa đủ. Bánh tráng để gói</p><p class=\"ql-align-justify\">1 củ Su hào</p><p class=\"ql-align-justify\">1 củ Cà rốt</p><p class=\"ql-align-justify\">400 g Thịt băm</p><p class=\"ql-align-justify\">Trứng : 2 quả</p><p class=\"ql-align-justify\">Nước chấm : đu đủ xanh, cà rốt, chanh, ớt, đường, tỏi</p><p class=\"ql-align-justify\">Rau sống ăn kèm</p><p class=\"ql-align-justify\"><strong><em>Các Bước:</em></strong></p><p class=\"ql-align-justify\">Bào hoặc thái mỏng các nguyên liệu rồi cho ra chậu trộn lên. Thái tí hành và rau mùi,rắc chút hạt tiêu cho nhân thơm nhằm hạn chế bớt mùi tanh của bề bề lại.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Trải bánh tráng ra để cuốn. 1 cái nguyên và 1 nửa cái đã cắt làm đôi. Để nhân thịt vào trước rồi đặt bề bề lên cho đều khắp chiều dài nem rồi gói lại chắc tay.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Đổ ngập dầu rồi chiên lửa nhỏ. Lựa tay lật chả để chín đều mà ko cháy hoặc vỡ chả khiến ngấm dầu. Nếu làm nhiều để dành ăn dần thì chiên sơ sơ là được. Chiên xong gác lên gá chảo cho bớt dầu sẽ ko bị ngấy.</p><p class=\"ql-align-justify\">Bào mỏng su su cùng cà rốt r xóc muối 1 lúc sau đó rửa sạch và cho đường, giấm vào làm dưa góp. Pha nước chấm gồm đường, chanh,tỏi và ớt.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Ngoài ra, chúng ta có thể dùng bề bề thịt để chế biến món&nbsp;Nem Bề Bề&nbsp;– món ngon lạ miệng được nhiều người yêu thích.</p><p>------------------------------------------</p><h2><strong>III. Thời Hạn Sử Dụng Và Bảo Quản Bề Bề Nõn:</strong></h2><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #bebe #bebenon #bebenguyencon</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/1a32ddf6-600a-4789-9a4e-4236c80e4fcc.jpg\",\"https://images.f99.com.vn/images/d9331b24-cc6d-41f7-8b72-d0fa0b1d2e0f.png\",\"https://images.f99.com.vn/images/e44ecd27-6906-4571-8159-ca0fde43a7a9.jpg\",\"https://images.f99.com.vn/images/0a127a5c-970a-47da-8e21-5daf1d7eaa7b.jpg\",\"https://images.f99.com.vn/images/7539da83-16b1-4bd3-8594-bf0e7b7d4142.jpg\",\"https://images.f99.com.vn/images/f9744c10-b8c8-4e5b-9edd-4b67a1fd1b23.jpg\",\"https://images.f99.com.vn/images/ec420a35-a29e-4558-8298-a5a25a0b5ba4.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Natufood\",\"Hải sản\",\"Hải sản chế biến\",\"Hải sản sấy khô\",\"Hải sản đông lạnh\",\"Bề bề\",\"Bề bề nõn\",\"Bề bề nguyên con\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bề Bề Nõn Natufood Hộp 500g Size (60-80) [Chỉ giao HN]",
+    "description": "<h1 class=\"ql-align-justify\"><strong>🦐 Hải Sản - Bề Bề Nõn 🦐</strong></h1><h2 class=\"ql-align-justify\"><strong>I. Đặc Điểm Của Bề Bề Nõn</strong></h2><h3 class=\"ql-align-justify\"><strong>1.1. Giới thiệu Bề Bề Nõn</strong></h3><p class=\"ql-align-justify\">Bề Bề thịt hấp là món ăn được tạo thành từ những con Bề Bề tươi ngon nhất, được bảo quản đông lạnh. Hấp chín rồi bóc vỏ, cấp đông với nhiệt độ -35 đến -55 độ C, bảo quản ở nhiệt độ -18 độ C.</p><h3 class=\"ql-align-justify\"><strong>1.2. Dinh Dưỡng Của Bề Bề Nõn</strong></h3><ul><li class=\"ql-align-justify\">Bổ sung Vitamin B12: đây là loại vitamin phức tạp tham gia vào quá trình chuyển hóa năng lượng trong cơ thể. Vitamin B12 giữ vai trò quan trọng trong tổng hợp các nucleotic, protein, carbohydrat và chất béo. Vì vậy, thường xuyên ăn Bề Bề sẽ giúp giảm suy nhược cơ thể, cân bằng dinh dưỡng.</li><li class=\"ql-align-justify\">Bổ sung sắt và protein: sắt là chất vô cùng quan trọng trong quá trình tạo máu. Nếu thiếu sắt cơ thể sẽ bị thiếu máu, mệt lả và khó thở. Sắt tăng cường hệ miễn dịch, vận chuyển oxy từ phổi đến các cơ quan. Sắt đặc biệt quan trọng đối với trẻ em trong độ tuổi phát triển.</li><li class=\"ql-align-justify\">Bổ sung canxi: là chất quan trọng đối với xương khớp và răng. Cứ 100g bề bề có đến 2000mg canxi. Đối với trẻ nhỏ, nếu thiếu canxi sẽ bị chậm lớn, hạn chế chiều cao, còi xương. Đối với người tuổi trung niên, nếu thiếu canxi sẽ dẫn đến loãng xương, mất xương.</li><li class=\"ql-align-justify\">Bổ sung Omega-3: đây là loại axit béo vô cùng quan tọng trong việc phát triển trí não và hệ thần kinh. Những người được bổ sung Omega-3 thường xuyên sẽ giúp tăng khả năng tập trung.</li><li class=\"ql-align-justify\">Ngoài ra, bề bề còn có rất nhiều chất quan trọng như khoáng chất, vitamin A, vitamin B1, kẽm, kali,…</li></ul><h2 class=\"ql-align-justify\"><strong>II. Cách Chế Biến Bề Bề Nõn </strong></h2><h3 class=\"ql-align-justify\"><strong>Món 1: Bún Bề Bề</strong></h3><p class=\"ql-align-justify\"><strong><em>Nguyên Liệu:</em></strong></p><p class=\"ql-align-justify\">Bề Bề thịt hấp (1 gói)</p><p class=\"ql-align-justify\">4 quả cà chua</p><p class=\"ql-align-justify\">10 củ hành khô</p><p class=\"ql-align-justify\">1 bó Rau cải ngọt</p><p class=\"ql-align-justify\"><strong><em>Các Bước:</em></strong></p><p class=\"ql-align-justify\">Bề bề rửa ráo cho vào nồi đun sôi.</p><p class=\"ql-align-justify\">Dùng bề bề nõn</p><p class=\"ql-align-justify\">Nếu có vỏ và càng bề bề thì đem xay hoặc giã</p><p class=\"ql-align-justify\">Rau rửa sạch trần vớt ra cho ráo</p><p class=\"ql-align-justify\">Phi hành khô</p><p class=\"ql-align-justify\">Bún trần ra bát, xếp bề bề, rau lên trên. Chan nước dùng vs cà chua. Rắc hành khô. Cho tương ớt vào.</p><h3 class=\"ql-align-justify\"><strong>Món 2: Chả Nem Nhân Tôm Bề Bề</strong></h3><p class=\"ql-align-justify\"><strong><em>Nguyên Liệu:</em></strong></p><p class=\"ql-align-justify\">500 g Bề Bề thịt hấp</p><p class=\"ql-align-justify\">1 cuộn miến dong, nấm hương và mộc nhĩ vừa đủ. Bánh tráng để gói</p><p class=\"ql-align-justify\">1 củ Su hào</p><p class=\"ql-align-justify\">1 củ Cà rốt</p><p class=\"ql-align-justify\">400 g Thịt băm</p><p class=\"ql-align-justify\">Trứng : 2 quả</p><p class=\"ql-align-justify\">Nước chấm : đu đủ xanh, cà rốt, chanh, ớt, đường, tỏi</p><p class=\"ql-align-justify\">Rau sống ăn kèm</p><p class=\"ql-align-justify\"><strong><em>Các Bước:</em></strong></p><p class=\"ql-align-justify\">Bào hoặc thái mỏng các nguyên liệu rồi cho ra chậu trộn lên. Thái tí hành và rau mùi,rắc chút hạt tiêu cho nhân thơm nhằm hạn chế bớt mùi tanh của bề bề lại.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Trải bánh tráng ra để cuốn. 1 cái nguyên và 1 nửa cái đã cắt làm đôi. Để nhân thịt vào trước rồi đặt bề bề lên cho đều khắp chiều dài nem rồi gói lại chắc tay.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Đổ ngập dầu rồi chiên lửa nhỏ. Lựa tay lật chả để chín đều mà ko cháy hoặc vỡ chả khiến ngấm dầu. Nếu làm nhiều để dành ăn dần thì chiên sơ sơ là được. Chiên xong gác lên gá chảo cho bớt dầu sẽ ko bị ngấy.</p><p class=\"ql-align-justify\">Bào mỏng su su cùng cà rốt r xóc muối 1 lúc sau đó rửa sạch và cho đường, giấm vào làm dưa góp. Pha nước chấm gồm đường, chanh,tỏi và ớt.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Ngoài ra, chúng ta có thể dùng bề bề thịt để chế biến món&nbsp;Nem Bề Bề&nbsp;– món ngon lạ miệng được nhiều người yêu thích.</p><p>------------------------------------------</p><h2><strong>III. Thời Hạn Sử Dụng Và Bảo Quản Bề Bề Nõn:</strong></h2><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #bebe #bebenon #bebenguyencon</p>",
+    "imageUrl": "https://images.f99.com.vn/images/1a32ddf6-600a-4789-9a4e-4236c80e4fcc.jpg",
+    "price": 136500,
+    "oldPrice": 195000,
+    "discountPercent": 30,
+    "stock": 425,
+    "totalSold": 345,
+    "maxQuantityPerUser": null,
+    "unit": "500g",
+    "sku": "8936085660575",
+    "origin": "",
+    "sellerId": 263,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.8,
+    "instructions": "<h1><strong>Hạn Sử Dụng Và Bảo Quản Bề Bề Nõn</strong></h1><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p class=\"ql-align-justify\">Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p class=\"ql-align-justify\"><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #bebe #bebenon #bebenguyencon</p>",
+    "category": {
+      "id": 132,
+      "name": "Mực ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/37d1439d-2a61-413d-8770-2e1c2fc392c0.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Natufood",
+      "Hải sản",
+      "Hải sản chế biến",
+      "Hải sản sấy khô",
+      "Hải sản đông lạnh",
+      "Bề bề",
+      "Bề bề nõn",
+      "Bề bề nguyên con"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/1a32ddf6-600a-4789-9a4e-4236c80e4fcc.jpg",
+      "https://images.f99.com.vn/images/d9331b24-cc6d-41f7-8b72-d0fa0b1d2e0f.png",
+      "https://images.f99.com.vn/images/e44ecd27-6906-4571-8159-ca0fde43a7a9.jpg",
+      "https://images.f99.com.vn/images/0a127a5c-970a-47da-8e21-5daf1d7eaa7b.jpg",
+      "https://images.f99.com.vn/images/7539da83-16b1-4bd3-8594-bf0e7b7d4142.jpg",
+      "https://images.f99.com.vn/images/f9744c10-b8c8-4e5b-9edd-4b67a1fd1b23.jpg",
+      "https://images.f99.com.vn/images/ec420a35-a29e-4558-8298-a5a25a0b5ba4.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15298",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "500g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 64005,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 136500,
+        "oldPrice": 195000,
+        "discountPercent": 30,
+        "stock": 425,
+        "totalSold": 345,
+        "unit": "500g",
+        "sku": "8936085660575",
+        "rating": 4.8,
+        "instructions": "<h1><strong>Hạn Sử Dụng Và Bảo Quản Bề Bề Nõn</strong></h1><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p class=\"ql-align-justify\">Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p class=\"ql-align-justify\"><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #bebe #bebenon #bebenguyencon</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 263,
+      "sellerRate": 4,
+      "sellerName": "NatuFood",
+      "warehouseId": "611945d9-1b81-4453-9191-e621d5ad3623",
+      "warehouseAddress": "361 Hoàng Công Chất, Phú Diễn, Bắc Từ Liêm, Hà Nội",
+      "distance": 7224,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 44.583333333333336,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 16933,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bề Bề bóc nõn -Hải sản Thanh Liên",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/f133779f-f724-45db-9abc-2245a0aaa0bb.jpg\",\"https://images.f99.com.vn/images/fd9e30b0-b192-440a-b230-96c05788d8ab.jpg\",\"https://images.f99.com.vn/images/3b03061e-35ba-40cb-b20e-69b0523f8a03.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Bề Bề bóc nõn hay còn gọi là tôm tít. Bề Bề bóc nõn là phần thịt của bề bề sau khi đã tách lớp vỏ cứng. Bề Bề làm được rất nhiều món như rang me chua, xào xả ớt, xào bơ tỏi, trứng rán bề bề, làm bún hải sản, là nem,.......</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bề Bề bóc nõn -Hải sản Thanh Liên",
+    "description": "<p>Bề Bề bóc nõn hay còn gọi là tôm tít. Bề Bề bóc nõn là phần thịt của bề bề sau khi đã tách lớp vỏ cứng. Bề Bề làm được rất nhiều món như rang me chua, xào xả ớt, xào bơ tỏi, trứng rán bề bề, làm bún hải sản, là nem,.......</p>",
+    "imageUrl": "https://images.f99.com.vn/images/f133779f-f724-45db-9abc-2245a0aaa0bb.jpg",
+    "price": 300000,
+    "oldPrice": 350000,
+    "discountPercent": 14,
+    "stock": 70,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "300/2 túi",
+    "sku": "",
+    "origin": "",
+    "sellerId": 257,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.5,
+    "instructions": "<p>Bảo quản ngăn đá tủ lạnh</p>",
+    "category": {
+      "id": 132,
+      "name": "Mực ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/37d1439d-2a61-413d-8770-2e1c2fc392c0.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/f133779f-f724-45db-9abc-2245a0aaa0bb.jpg",
+      "https://images.f99.com.vn/images/fd9e30b0-b192-440a-b230-96c05788d8ab.jpg",
+      "https://images.f99.com.vn/images/3b03061e-35ba-40cb-b20e-69b0523f8a03.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/16933",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "300/2 túi"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 94438,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "300/2 túi",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "300/2 túi",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "300/2 túi",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 300000,
+        "oldPrice": 350000,
+        "discountPercent": 14,
+        "stock": 70,
+        "totalSold": 0,
+        "unit": "300/2 túi",
+        "sku": "",
+        "rating": 4.5,
+        "instructions": "<p>Bảo quản ngăn đá tủ lạnh</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "300/2 túi"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 257,
+      "sellerRate": 4.3,
+      "sellerName": "Hải sản Thanh Liên",
+      "warehouseId": "205ae179-d711-4e52-984e-be6cda25f432",
+      "warehouseAddress": "Số nhà 29 ngõ 192A Phố Quán Thánh , Quán Thánh, Ba Đình, Hà Nội",
+      "distance": 1719,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 74.97623692307694,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 17484,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "BỀ BỀ TƯƠI SỐNG",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Bề bề là loại hải sản rất phổ biến, giàu giá trị dinh dưỡng và có nhiều phương thức chế biến đơn giản nhanh chóng ( hấp, cháy tỏi, nướng ...)</p><p><span style=\"color: black;\"> Bề Bề lẫn trứng và thịt được đánh bắt tự nhiên và vận chuyển từ Quảng Ninh đến cửa hàng Mặn seafood vào sáng sớm hàng ngày. Sản phẩm sẽ được giao tươi sống đến tay khách hàng ngay sau đơn đặt hàng.</span></p><p><span style=\"color: black;\">﻿Cửa hàng có dịch vụ hỗ trợ sơ chế, hấp theo yêu cầu của quý khách miễn phí và tặng kèm sốt chấm hải sản xanh.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/a12e6e60-53d5-4308-b874-b04cf830efc9.jpg\",\"https://images.f99.com.vn/images/69183143-42f1-4190-a8a2-22b7aeff0388.jpg\",\"https://images.f99.com.vn/images/ed838b57-15cd-46cb-9e15-75e67093327f.jpg\",\"https://images.f99.com.vn/images/f2eb42a3-6841-4f66-a70c-50d335ab5303.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"BỀ BỀ\",\"HẢI SẢN\",\"SEAFOOD\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "BỀ BỀ TƯƠI SỐNG",
+    "description": "<p>Bề bề là loại hải sản rất phổ biến, giàu giá trị dinh dưỡng và có nhiều phương thức chế biến đơn giản nhanh chóng ( hấp, cháy tỏi, nướng ...)</p><p><span style=\"color: black;\"> Bề Bề lẫn trứng và thịt được đánh bắt tự nhiên và vận chuyển từ Quảng Ninh đến cửa hàng Mặn seafood vào sáng sớm hàng ngày. Sản phẩm sẽ được giao tươi sống đến tay khách hàng ngay sau đơn đặt hàng.</span></p><p><span style=\"color: black;\">﻿Cửa hàng có dịch vụ hỗ trợ sơ chế, hấp theo yêu cầu của quý khách miễn phí và tặng kèm sốt chấm hải sản xanh.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/a12e6e60-53d5-4308-b874-b04cf830efc9.jpg",
+    "price": 265000,
+    "oldPrice": 280000,
+    "discountPercent": 5,
+    "stock": 100,
+    "totalSold": 22,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "BB01",
+    "origin": "",
+    "sellerId": 285,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><span style=\"color: black;\">Quý khách vui lòng bảo quản bề bề trong đá lạnh để giữ bề bề được tươi ngon nhất hoặc tiến hành chế biến ( hấp, sốt, nướng...) ngay khi nhận được hàng để giữ lại trọn vẹn chất dinh dưỡng cũng như hương vị tươi ngon của sản phẩm.</span></p>",
+    "category": {
+      "id": 132,
+      "name": "Mực ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/37d1439d-2a61-413d-8770-2e1c2fc392c0.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "BỀ BỀ",
+      "HẢI SẢN",
+      "SEAFOOD"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/a12e6e60-53d5-4308-b874-b04cf830efc9.jpg",
+      "https://images.f99.com.vn/images/69183143-42f1-4190-a8a2-22b7aeff0388.jpg",
+      "https://images.f99.com.vn/images/ed838b57-15cd-46cb-9e15-75e67093327f.jpg",
+      "https://images.f99.com.vn/images/f2eb42a3-6841-4f66-a70c-50d335ab5303.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/17484",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 52952,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 265000,
+        "oldPrice": 280000,
+        "discountPercent": 5,
+        "stock": 100,
+        "totalSold": 22,
+        "unit": "kg",
+        "sku": "BB01",
+        "rating": 0,
+        "instructions": "<p><span style=\"color: black;\">Quý khách vui lòng bảo quản bề bề trong đá lạnh để giữ bề bề được tươi ngon nhất hoặc tiến hành chế biến ( hấp, sốt, nướng...) ngay khi nhận được hàng để giữ lại trọn vẹn chất dinh dưỡng cũng như hương vị tươi ngon của sản phẩm.</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 285,
+      "sellerRate": 4.8,
+      "sellerName": "MẶN SEAFOOD",
+      "warehouseId": "76af063e-af5c-4ded-b543-d8df31947867",
+      "warehouseAddress": " Hà Nội,  Cầu Giấy,  Dịch Vọng Hậu, Số 02, ngách 66/18 đường Cốm Vòng",
+      "distance": 5138,
+      "warehouseDistrict": "cau giay",
+      "reputation": 78.42752442361126,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 17500,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "BỀ BỀ HẤP SƠ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Bề bề hấp sơ được hấp từ bề bề tươi tại thuyền để đảm bảo giữ nguyên hương vị, sau đó được bảo quản đông lạnh và giao đến tay khách hàng.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/a5be5cf8-4ec2-46e7-b9bc-0490ea3eb0e1.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"seafood\",\"haisan\",\"bebe\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "BỀ BỀ HẤP SƠ",
+    "description": "<p>Bề bề hấp sơ được hấp từ bề bề tươi tại thuyền để đảm bảo giữ nguyên hương vị, sau đó được bảo quản đông lạnh và giao đến tay khách hàng.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/a5be5cf8-4ec2-46e7-b9bc-0490ea3eb0e1.jpg",
+    "price": 80000,
+    "oldPrice": 100000,
+    "discountPercent": 20,
+    "stock": 100,
+    "totalSold": 11,
+    "maxQuantityPerUser": null,
+    "unit": "khay",
+    "sku": "BBHS01",
+    "origin": "",
+    "sellerId": 285,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Quý khách hàng vui lòng bảo quản sản phẩm trong ngăn đông của tủ lạnh để giữ được sự tươi sạch của sản phẩm.</p>",
+    "category": {
+      "id": 132,
+      "name": "Mực ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/37d1439d-2a61-413d-8770-2e1c2fc392c0.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "seafood",
+      "haisan",
+      "bebe"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/a5be5cf8-4ec2-46e7-b9bc-0490ea3eb0e1.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/17500",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "khay"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 52954,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 khay",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "khay",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 khay",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 80000,
+        "oldPrice": 100000,
+        "discountPercent": 20,
+        "stock": 100,
+        "totalSold": 11,
+        "unit": "khay",
+        "sku": "BBHS01",
+        "rating": 0,
+        "instructions": "<p>Quý khách hàng vui lòng bảo quản sản phẩm trong ngăn đông của tủ lạnh để giữ được sự tươi sạch của sản phẩm.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "khay"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 285,
+      "sellerRate": 4.8,
+      "sellerName": "MẶN SEAFOOD",
+      "warehouseId": "76af063e-af5c-4ded-b543-d8df31947867",
+      "warehouseAddress": " Hà Nội,  Cầu Giấy,  Dịch Vọng Hậu, Số 02, ngách 66/18 đường Cốm Vòng",
+      "distance": 5138,
+      "warehouseDistrict": "cau giay",
+      "reputation": 78.42752442361126,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 17506,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "SET HẢI SẢN 299K ( HẢI SẢN TƯƠI SỐNG )",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>SET HẢI SẢN CÓ 5 LOẠI HẢI SẢN TƯƠI SỐNG ĐƯỢC ĐÁNH BẮT TỰ NHIÊN TẠI VÙNG BIỂN QUẢNG NINH ĐỦ CHO 3 ĐẾN 4 NGƯỜI. HẢI SẢN TRONG SET ĐỀU LÀ HÀNG TƯƠI SỐNG TRONG ĐÓ CÓ GHẸ VÀ BỀ BỀ SẼ ĐƯỢC GIAO BƠI SỐNG ĐẾN TAY KHÁCH HÀNG</p><p><br></p><p>CÁC LOẠI HẢI SẢN TRONG SET GỒM:</p><ol><li>3 CON GHẸ XANH</li><li>6 CON BỀ BỀ</li><li>4 CON MỰC</li><li>3 CON BẠCH TUỘC ( RUỐC CƠM )</li><li>4 CON HÀU</li></ol><p><br></p><p><span style=\"color: black;\">Cửa hàng có dịch vụ hỗ trợ sơ chế, hấp theo yêu cầu của quý khách miễn phí và tặng kèm sốt chấm hải sản xanh.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/e741446c-44ae-416b-801a-cb1cbe30fb92.jpg\",\"https://images.f99.com.vn/images/489c07ab-8242-41f8-a440-9763fdc8769d.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"sethaisan\",\"hai san\",\"haisan\",\"seafood\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "SET HẢI SẢN 299K ( HẢI SẢN TƯƠI SỐNG )",
+    "description": "<p>SET HẢI SẢN CÓ 5 LOẠI HẢI SẢN TƯƠI SỐNG ĐƯỢC ĐÁNH BẮT TỰ NHIÊN TẠI VÙNG BIỂN QUẢNG NINH ĐỦ CHO 3 ĐẾN 4 NGƯỜI. HẢI SẢN TRONG SET ĐỀU LÀ HÀNG TƯƠI SỐNG TRONG ĐÓ CÓ GHẸ VÀ BỀ BỀ SẼ ĐƯỢC GIAO BƠI SỐNG ĐẾN TAY KHÁCH HÀNG</p><p><br></p><p>CÁC LOẠI HẢI SẢN TRONG SET GỒM:</p><ol><li>3 CON GHẸ XANH</li><li>6 CON BỀ BỀ</li><li>4 CON MỰC</li><li>3 CON BẠCH TUỘC ( RUỐC CƠM )</li><li>4 CON HÀU</li></ol><p><br></p><p><span style=\"color: black;\">Cửa hàng có dịch vụ hỗ trợ sơ chế, hấp theo yêu cầu của quý khách miễn phí và tặng kèm sốt chấm hải sản xanh.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/e741446c-44ae-416b-801a-cb1cbe30fb92.jpg",
+    "price": 299000,
+    "oldPrice": 499000,
+    "discountPercent": 40,
+    "stock": 10000,
+    "totalSold": 114,
+    "maxQuantityPerUser": null,
+    "unit": "set",
+    "sku": "C201",
+    "origin": "",
+    "sellerId": 285,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><span style=\"color: black;\">Quý khách vui lòng bảo quản sản phẩm trong đá lạnh để giữ sản phẩm được tươi ngon nhất hoặc tiến hành chế biến ( hấp, sốt, nướng...) ngay khi nhận được hàng để giữ lại trọn vẹn chất dinh dưỡng cũng như hương vị tươi ngon của sản phẩm</span></p>",
+    "category": {
+      "id": 132,
+      "name": "Mực ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/37d1439d-2a61-413d-8770-2e1c2fc392c0.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "sethaisan",
+      "hai san",
+      "haisan",
+      "seafood"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/e741446c-44ae-416b-801a-cb1cbe30fb92.jpg",
+      "https://images.f99.com.vn/images/489c07ab-8242-41f8-a440-9763fdc8769d.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/17506",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "set"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 52958,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 set",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "set",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 set",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 299000,
+        "oldPrice": 499000,
+        "discountPercent": 40,
+        "stock": 10000,
+        "totalSold": 114,
+        "unit": "set",
+        "sku": "C201",
+        "rating": 0,
+        "instructions": "<p><span style=\"color: black;\">Quý khách vui lòng bảo quản sản phẩm trong đá lạnh để giữ sản phẩm được tươi ngon nhất hoặc tiến hành chế biến ( hấp, sốt, nướng...) ngay khi nhận được hàng để giữ lại trọn vẹn chất dinh dưỡng cũng như hương vị tươi ngon của sản phẩm</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "set"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 285,
+      "sellerRate": 4.8,
+      "sellerName": "MẶN SEAFOOD",
+      "warehouseId": "76af063e-af5c-4ded-b543-d8df31947867",
+      "warehouseAddress": " Hà Nội,  Cầu Giấy,  Dịch Vọng Hậu, Số 02, ngách 66/18 đường Cốm Vòng",
+      "distance": 5138,
+      "warehouseDistrict": "cau giay",
+      "reputation": 78.42752442361126,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 17507,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "SET HẢI SẢN 199K ( HẢI SẢN TƯƠI SỐNG )",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: black;\">SET HẢI SẢN CÓ 5 LOẠI HẢI SẢN TƯƠI SỐNG ĐƯỢC ĐÁNH BẮT TỰ NHIÊN TẠI VÙNG BIỂN QUẢNG NINH VỚI KHỐI LƯỢNG ĐỦ CHO 2 ĐẾN 3 NGƯỜI. HẢI SẢN TRONG SET ĐỀU LÀ HÀNG TƯƠI SỐNG TRONG ĐÓ CÓ GHẸ VÀ BỀ BỀ SẼ ĐƯỢC GIAO BƠI SỐNG ĐẾN TAY KHÁCH HÀNG</span></p><p>&nbsp;</p><p><span style=\"color: black;\">CÁC LOẠI HẢI SẢN TRONG SET GỒM:</span></p><ol><li>NGAO 2 CÙI</li><li>350G CÁ LĂNG PHILE</li><li>2 CON MỰC</li><li><span style=\"color: black;\">3 CON BẠCH TUỘC ( RUỐC CƠM )</span></li><li><span style=\"color: black;\">5 CON HÀU</span></li></ol><p><span style=\"color: black;\">Cửa hàng có dịch vụ hỗ trợ sơ chế, hấp theo yêu cầu của quý khách miễn phí và tặng kèm sốt chấm hải sản xanh.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/bb9694a7-c79c-477a-9885-ea24242a0fc8.jpg\",\"https://images.f99.com.vn/images/2e7270c5-83e4-4021-ae65-0b4ba08a8b24.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"hai san\",\"haisan\",\"seafood\",\"sethaisan\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "SET HẢI SẢN 199K ( HẢI SẢN TƯƠI SỐNG )",
+    "description": "<p><span style=\"color: black;\">SET HẢI SẢN CÓ 5 LOẠI HẢI SẢN TƯƠI SỐNG ĐƯỢC ĐÁNH BẮT TỰ NHIÊN TẠI VÙNG BIỂN QUẢNG NINH VỚI KHỐI LƯỢNG ĐỦ CHO 2 ĐẾN 3 NGƯỜI. HẢI SẢN TRONG SET ĐỀU LÀ HÀNG TƯƠI SỐNG TRONG ĐÓ CÓ GHẸ VÀ BỀ BỀ SẼ ĐƯỢC GIAO BƠI SỐNG ĐẾN TAY KHÁCH HÀNG</span></p><p>&nbsp;</p><p><span style=\"color: black;\">CÁC LOẠI HẢI SẢN TRONG SET GỒM:</span></p><ol><li>NGAO 2 CÙI</li><li>350G CÁ LĂNG PHILE</li><li>2 CON MỰC</li><li><span style=\"color: black;\">3 CON BẠCH TUỘC ( RUỐC CƠM )</span></li><li><span style=\"color: black;\">5 CON HÀU</span></li></ol><p><span style=\"color: black;\">Cửa hàng có dịch vụ hỗ trợ sơ chế, hấp theo yêu cầu của quý khách miễn phí và tặng kèm sốt chấm hải sản xanh.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/bb9694a7-c79c-477a-9885-ea24242a0fc8.jpg",
+    "price": 199000,
+    "oldPrice": 299000,
+    "discountPercent": 33,
+    "stock": 100,
+    "totalSold": 11,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "C101",
+    "origin": "",
+    "sellerId": 285,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><span style=\"color: black;\">Quý khách vui lòng bảo quản sản phẩm trong đá lạnh để giữ sản phẩm được tươi ngon nhất hoặc tiến hành chế biến ( hấp, sốt, nướng...) ngay khi nhận được hàng để giữ lại trọn vẹn chất dinh dưỡng cũng như hương vị tươi ngon của sản phẩm</span></p>",
+    "category": {
+      "id": 132,
+      "name": "Mực ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/37d1439d-2a61-413d-8770-2e1c2fc392c0.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "hai san",
+      "haisan",
+      "seafood",
+      "sethaisan"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/bb9694a7-c79c-477a-9885-ea24242a0fc8.jpg",
+      "https://images.f99.com.vn/images/2e7270c5-83e4-4021-ae65-0b4ba08a8b24.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/17507",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "KG"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 52960,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 KG",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "KG",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 KG",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 199000,
+        "oldPrice": 299000,
+        "discountPercent": 33,
+        "stock": 100,
+        "totalSold": 11,
+        "unit": "KG",
+        "sku": "C101",
+        "rating": 0,
+        "instructions": "<p><span style=\"color: black;\">Quý khách vui lòng bảo quản sản phẩm trong đá lạnh để giữ sản phẩm được tươi ngon nhất hoặc tiến hành chế biến ( hấp, sốt, nướng...) ngay khi nhận được hàng để giữ lại trọn vẹn chất dinh dưỡng cũng như hương vị tươi ngon của sản phẩm</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "KG"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 285,
+      "sellerRate": 4.8,
+      "sellerName": "MẶN SEAFOOD",
+      "warehouseId": "76af063e-af5c-4ded-b543-d8df31947867",
+      "warehouseAddress": " Hà Nội,  Cầu Giấy,  Dịch Vọng Hậu, Số 02, ngách 66/18 đường Cốm Vòng",
+      "distance": 5138,
+      "warehouseDistrict": "cau giay",
+      "reputation": 78.42752442361126,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

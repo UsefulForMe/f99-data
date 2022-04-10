@@ -1,0 +1,35 @@
+{
+  "id": 784,
+  "name": "LAKIT FOOD – VỰA HẢI SẢN NHÀ ÔNG LA",
+  "logo": "https://cdn.f99.link/groupbuy-images/9975ebee-8952-497e-b164-cca8eb8ad392.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "LAKITFOOD Với mong muốn mang lại nguồn hải sản sạch, thực phẩm đạt chất lượng đảm bảo 3 tiêu chí Sạch sẽ Tươi ngon  Giá Bình ổn  đến tay bà con một cách nhanh chóng, an toàn Và Tiết kiệm.",
+  "headQuarter": "138 Phùng Văn Cung, 4, Phú Nhuận, Hồ Chí Minh",
+  "email": "Tienlaap@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "06:30",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

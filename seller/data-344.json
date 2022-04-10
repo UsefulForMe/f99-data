@@ -1,0 +1,35 @@
+{
+  "id": 344,
+  "name": "Anh Quân Food",
+  "logo": "https://cdn.f99.link/groupbuy-images/8d7585a7-c3a7-469d-b961-95b28af8b742.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Anh Quân Food chuyên cung cấp thịt bò nhập khẩu từ mỹ, úc uy tín chất lượng.",
+  "headQuarter": "Số 3 nghách 8 ngõ 97 Triều Khúc, Tân Triều, Thanh Trì, Hà Nội",
+  "email": "nguyentoi286@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.7,
+  "availableTime": {
+    "openTime": "00:00",
+    "closeTime": "23:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 45
+}

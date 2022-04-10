@@ -1,0 +1,35 @@
+{
+  "id": 952,
+  "name": "SẦU RIÊNG HÀ NỘI",
+  "logo": "https://images.f99.com.vn/groupbuy-images/49718e2c-5cd0-44e9-a96b-d78b7abd7c4a.jpeg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp các mặt hàng trái cây theo mùa, rõ nguồn gốc xuất xứ, đảm bảo vệ sinh an toàn thực phẩm",
+  "headQuarter": "Số 43 ngõ 32 An Dương, Yên Phụ, Tây Hồ, Hà Nội",
+  "email": "Tranthiyen02061996@gmai.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.3,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "23:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 6
+}

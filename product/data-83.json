@@ -1,0 +1,3219 @@
+[
+  {
+    "id": 3160,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hộp quà Như Ý",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Là một trong những set quà được ưa chuộng</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Các loại trà được sấy lạnh theo công nghệ hiện đại.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Giao hàng đến tận tay quý khách.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">﻿</span><img src=\"https://images.f99.com.vn/images/f47dfde4-53d3-495e-b1bb-9ebe2cf54436.png\"></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">THÔNG TIN SẢN PHẨM:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Được kết hợp bởi 3 loại trà mix: Trà ngủ ngon, Trà thư giãn, Trà sáng tạo, set trà Như Ý sẽ thay lời chúc an lành và hạnh phúc.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ 3 loại trà được sắp xếp, trang trí đẹp mắt và sang trọng chắc chắn sẽ là món quà đầy ý nghĩa để dành tặng những người bạn trân quý.</span></p><p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/47ef51aa-736e-4b4c-8eec-a61582e00bc0.png\"></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">QUY CÁCH ĐÓNG GÓI:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Trà ngủ ngon - Lọ 65gr</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Trà thư giãn - Lọ 65gr</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Trà sáng tạo - Lọ 35gr</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Hộp giấy, giấy rối</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/47ef51aa-736e-4b4c-8eec-a61582e00bc0.png\",\"https://images.f99.com.vn/images/e82c3139-015a-4ceb-b9dc-79f80dab4025.png\",\"https://images.f99.com.vn/images/19a33230-4b09-4a4c-9c3c-9907f6d14937.png\",\"https://images.f99.com.vn/images/f47dfde4-53d3-495e-b1bb-9ebe2cf54436.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hộp quà Như Ý",
+    "description": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Là một trong những set quà được ưa chuộng</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Các loại trà được sấy lạnh theo công nghệ hiện đại.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Giao hàng đến tận tay quý khách.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">﻿</span><img src=\"https://images.f99.com.vn/images/f47dfde4-53d3-495e-b1bb-9ebe2cf54436.png\"></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">THÔNG TIN SẢN PHẨM:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Được kết hợp bởi 3 loại trà mix: Trà ngủ ngon, Trà thư giãn, Trà sáng tạo, set trà Như Ý sẽ thay lời chúc an lành và hạnh phúc.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ 3 loại trà được sắp xếp, trang trí đẹp mắt và sang trọng chắc chắn sẽ là món quà đầy ý nghĩa để dành tặng những người bạn trân quý.</span></p><p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/47ef51aa-736e-4b4c-8eec-a61582e00bc0.png\"></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">QUY CÁCH ĐÓNG GÓI:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Trà ngủ ngon - Lọ 65gr</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Trà thư giãn - Lọ 65gr</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Trà sáng tạo - Lọ 35gr</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Hộp giấy, giấy rối</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/47ef51aa-736e-4b4c-8eec-a61582e00bc0.png",
+    "price": 409000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1000,
+    "totalSold": 166,
+    "maxQuantityPerUser": null,
+    "unit": "Hộp",
+    "sku": "",
+    "origin": "",
+    "sellerId": 4,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.8,
+    "instructions": null,
+    "category": {
+      "id": 83,
+      "name": "Giỏ quà",
+      "imageUrl": "https://images.f99.com.vn/notification-images/a74dc1e4-98f8-4fd9-9819-30821278494a.png",
+      "parentId": 126,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/47ef51aa-736e-4b4c-8eec-a61582e00bc0.png",
+      "https://images.f99.com.vn/images/e82c3139-015a-4ceb-b9dc-79f80dab4025.png",
+      "https://images.f99.com.vn/images/19a33230-4b09-4a4c-9c3c-9907f6d14937.png",
+      "https://images.f99.com.vn/images/f47dfde4-53d3-495e-b1bb-9ebe2cf54436.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/3160",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 4,
+      "sellerRate": 4,
+      "sellerName": "Trà hoa Econashine",
+      "warehouseId": "6fa42414-4059-403b-b7a2-a14aa96e4cc7",
+      "warehouseAddress": "308 Lê Trọng Tấn, Khương Mai, Thanh Xuân, Hà Nội",
+      "distance": 4284,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 54.13448466795177,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 3161,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hộp quà Cát Tường",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Là một trong những set quà được ưa chuộng</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Các loại trà được sấy lạnh theo công nghệ hiện đại.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Giao hàng đến tận tay quý khách.</span></p><p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/9401832f-159e-4f82-9a8c-125a0a70b435.png\"></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">THÔNG TIN SẢN PHẨM:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Set Cát Tường được kết hợp bởi 4 loại trà hoa: Trà cúc hoa, Trà hoa hồng, Long nhãn và Táo đỏ.&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Với sự bài trí tinh tế và các sản phẩm trà hoa cao cấp, được chế biến 100% từ thiên nhiên, set trà Cát Tường sẽ thay bạn gửi lời chúc năm mới bình an và vạn sự như ý.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Set trà Cát Tường phù hợp để biếu, tặng vào những dịp lễ, Tết.</span></p><p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/52ad7626-9318-420e-b399-1547a503a95e.png\"></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">QUY CÁCH ĐÓNG GÓI</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Trà cúc hoa - Lọ thuỷ tinh 38gr</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Trà hoa hồng - Lọ thuỷ tinh 27gr</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Long nhãn - Lọ thuỷ tinh 150gr</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Táo đỏ - Lọ thuỷ tinh 80gr</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Hộp giấy, giấy rối</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/52ad7626-9318-420e-b399-1547a503a95e.png\",\"https://images.f99.com.vn/images/9401832f-159e-4f82-9a8c-125a0a70b435.png\",\"https://images.f99.com.vn/images/444b4a56-b715-4cac-b881-9793a6c3d4b6.png\",\"https://images.f99.com.vn/images/7ab25507-3b81-4b43-9ec4-8e199b3edeb5.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hộp quà Cát Tường",
+    "description": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Là một trong những set quà được ưa chuộng</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Các loại trà được sấy lạnh theo công nghệ hiện đại.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Giao hàng đến tận tay quý khách.</span></p><p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/9401832f-159e-4f82-9a8c-125a0a70b435.png\"></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">THÔNG TIN SẢN PHẨM:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Set Cát Tường được kết hợp bởi 4 loại trà hoa: Trà cúc hoa, Trà hoa hồng, Long nhãn và Táo đỏ.&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Với sự bài trí tinh tế và các sản phẩm trà hoa cao cấp, được chế biến 100% từ thiên nhiên, set trà Cát Tường sẽ thay bạn gửi lời chúc năm mới bình an và vạn sự như ý.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Set trà Cát Tường phù hợp để biếu, tặng vào những dịp lễ, Tết.</span></p><p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/52ad7626-9318-420e-b399-1547a503a95e.png\"></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">QUY CÁCH ĐÓNG GÓI</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Trà cúc hoa - Lọ thuỷ tinh 38gr</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Trà hoa hồng - Lọ thuỷ tinh 27gr</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Long nhãn - Lọ thuỷ tinh 150gr</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Táo đỏ - Lọ thuỷ tinh 80gr</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Hộp giấy, giấy rối</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/52ad7626-9318-420e-b399-1547a503a95e.png",
+    "price": 499000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1000,
+    "totalSold": 84,
+    "maxQuantityPerUser": null,
+    "unit": "Hộp",
+    "sku": "",
+    "origin": "",
+    "sellerId": 4,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.6,
+    "instructions": null,
+    "category": {
+      "id": 83,
+      "name": "Giỏ quà",
+      "imageUrl": "https://images.f99.com.vn/notification-images/a74dc1e4-98f8-4fd9-9819-30821278494a.png",
+      "parentId": 126,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/52ad7626-9318-420e-b399-1547a503a95e.png",
+      "https://images.f99.com.vn/images/9401832f-159e-4f82-9a8c-125a0a70b435.png",
+      "https://images.f99.com.vn/images/444b4a56-b715-4cac-b881-9793a6c3d4b6.png",
+      "https://images.f99.com.vn/images/7ab25507-3b81-4b43-9ec4-8e199b3edeb5.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/3161",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 4,
+      "sellerRate": 4,
+      "sellerName": "Trà hoa Econashine",
+      "warehouseId": "6fa42414-4059-403b-b7a2-a14aa96e4cc7",
+      "warehouseAddress": "308 Lê Trọng Tấn, Khương Mai, Thanh Xuân, Hà Nội",
+      "distance": 4284,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 54.13448466795177,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 3162,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hộp quà An Khang",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">✔ Là một trong những set quà được ưa chuộng</span></p><p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">✔ Các loại trà được sấy lạnh theo công nghệ hiện đại.</span></p><p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">✔ Giao hàng đến tận tay quý khách.</span></p><p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/dcb3fc55-dc0a-44bb-bfbb-66f0106765dc.png\"></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">THÔNG TIN SẢN PHẨM:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Set trà An Khang là sự kết hợp của 3 loại trà: Trà hoa cúc; Trà hoa hồng; Trà ngủ ngon.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Đây là sự kết hợp hài hòa, tinh tế mà chúng tôi muốn gửi tới các bạn, thành phần để tạo nên set trà hoàn toàn 100% tự nhiên, không chất bảo quản.&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Set trà là món quà tri ân - món quà sức khỏe dành tặng cho người thân. Cung chúc một năm an khang, trần đầy sức khỏe.&nbsp;</span></p><p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/d5a706dd-db0b-407d-8941-cdb8f18ecc4f.png\"></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">QUY CÁCH ĐÓNG GÓI:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Trà hoa cúc: Lọ thủy tinh 38g</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Trà hoa hồng; Lọ thủy tinh 27g</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Trà ngủ ngon: Lọ 65g</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Hộp giấy, giấy rối&nbsp;</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/d5a706dd-db0b-407d-8941-cdb8f18ecc4f.png\",\"https://images.f99.com.vn/images/dcb3fc55-dc0a-44bb-bfbb-66f0106765dc.png\",\"https://images.f99.com.vn/images/53b88cef-bfb8-46aa-8a44-d073fb126d0c.png\",\"https://images.f99.com.vn/images/de985dc2-63dc-47cd-bb52-ef4b8de9fa2a.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hộp quà An Khang",
+    "description": "<p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">✔ Là một trong những set quà được ưa chuộng</span></p><p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">✔ Các loại trà được sấy lạnh theo công nghệ hiện đại.</span></p><p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">✔ Giao hàng đến tận tay quý khách.</span></p><p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/dcb3fc55-dc0a-44bb-bfbb-66f0106765dc.png\"></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">THÔNG TIN SẢN PHẨM:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Set trà An Khang là sự kết hợp của 3 loại trà: Trà hoa cúc; Trà hoa hồng; Trà ngủ ngon.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Đây là sự kết hợp hài hòa, tinh tế mà chúng tôi muốn gửi tới các bạn, thành phần để tạo nên set trà hoàn toàn 100% tự nhiên, không chất bảo quản.&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Set trà là món quà tri ân - món quà sức khỏe dành tặng cho người thân. Cung chúc một năm an khang, trần đầy sức khỏe.&nbsp;</span></p><p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/d5a706dd-db0b-407d-8941-cdb8f18ecc4f.png\"></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">QUY CÁCH ĐÓNG GÓI:</strong></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Trà hoa cúc: Lọ thủy tinh 38g</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Trà hoa hồng; Lọ thủy tinh 27g</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Trà ngủ ngon: Lọ 65g</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">✓ Hộp giấy, giấy rối&nbsp;</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/d5a706dd-db0b-407d-8941-cdb8f18ecc4f.png",
+    "price": 489000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1000,
+    "totalSold": 100,
+    "maxQuantityPerUser": null,
+    "unit": "Hộp",
+    "sku": "",
+    "origin": "",
+    "sellerId": 4,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.4,
+    "instructions": null,
+    "category": {
+      "id": 83,
+      "name": "Giỏ quà",
+      "imageUrl": "https://images.f99.com.vn/notification-images/a74dc1e4-98f8-4fd9-9819-30821278494a.png",
+      "parentId": 126,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/d5a706dd-db0b-407d-8941-cdb8f18ecc4f.png",
+      "https://images.f99.com.vn/images/dcb3fc55-dc0a-44bb-bfbb-66f0106765dc.png",
+      "https://images.f99.com.vn/images/53b88cef-bfb8-46aa-8a44-d073fb126d0c.png",
+      "https://images.f99.com.vn/images/de985dc2-63dc-47cd-bb52-ef4b8de9fa2a.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/3162",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 4,
+      "sellerRate": 4,
+      "sellerName": "Trà hoa Econashine",
+      "warehouseId": "6fa42414-4059-403b-b7a2-a14aa96e4cc7",
+      "warehouseAddress": "308 Lê Trọng Tấn, Khương Mai, Thanh Xuân, Hà Nội",
+      "distance": 4284,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 54.13448466795177,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 5150,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Túi giấy F99",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Túi giấy F99 với thiết kế thông minh, phù hợp để đựng giỏ - hộp quà đem biếu tặng.</p><p>Chất liệu giấy dày dặn và cứng cáp kèm quai xách có thể mang hàng đi xa vẫn bảo quản tốt sản phẩm bên trong.</p><p>Túi có 2 size để lựa chọn.</p><p><img src=\"https://images.f99.com.vn/images/c2e82c70-e4fe-475d-8157-32b99307eb58.png\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/0d016a19-59fd-43d5-bd90-943461d5c9cc.png\",\"https://images.f99.com.vn/images/ae85ed28-49f6-424f-a184-000ac5ee1cf4.jpg\",\"https://images.f99.com.vn/images/f7c87e2f-cb8a-4bac-ad1d-bb141ad8d294.png\",\"https://images.f99.com.vn/images/6d797ed6-4045-4634-9403-71550c726173.png\",\"https://images.f99.com.vn/images/e95188ea-4c22-49f8-9f1a-fede37dfdf51.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Túi giấy F99",
+    "description": "<p>Túi giấy F99 với thiết kế thông minh, phù hợp để đựng giỏ - hộp quà đem biếu tặng.</p><p>Chất liệu giấy dày dặn và cứng cáp kèm quai xách có thể mang hàng đi xa vẫn bảo quản tốt sản phẩm bên trong.</p><p>Túi có 2 size để lựa chọn.</p><p><img src=\"https://images.f99.com.vn/images/c2e82c70-e4fe-475d-8157-32b99307eb58.png\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/0d016a19-59fd-43d5-bd90-943461d5c9cc.png",
+    "price": 10000,
+    "oldPrice": 25000,
+    "discountPercent": 60,
+    "stock": 36,
+    "totalSold": 5288,
+    "maxQuantityPerUser": null,
+    "unit": "Túi",
+    "sku": "",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.5,
+    "instructions": "",
+    "category": {
+      "id": 83,
+      "name": "Giỏ quà",
+      "imageUrl": "https://images.f99.com.vn/notification-images/a74dc1e4-98f8-4fd9-9819-30821278494a.png",
+      "parentId": 126,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/0d016a19-59fd-43d5-bd90-943461d5c9cc.png",
+      "https://images.f99.com.vn/images/ae85ed28-49f6-424f-a184-000ac5ee1cf4.jpg",
+      "https://images.f99.com.vn/images/f7c87e2f-cb8a-4bac-ad1d-bb141ad8d294.png",
+      "https://images.f99.com.vn/images/6d797ed6-4045-4634-9403-71550c726173.png",
+      "https://images.f99.com.vn/images/e95188ea-4c22-49f8-9f1a-fede37dfdf51.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/5150",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Size nhỏ",
+          "Size to"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 5151,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Size nhỏ",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Size nhỏ",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Size nhỏ",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 10000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 31,
+        "totalSold": 2626,
+        "unit": "Túi",
+        "sku": "20001324",
+        "rating": 4.5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Size nhỏ"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 5152,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Size to",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Size to",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Size to",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 15000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 5,
+        "totalSold": 2662,
+        "unit": "Túi",
+        "sku": "20001323",
+        "rating": 4.5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Size to"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7122,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hộp trà quà tặng cao cấp",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Khối lượng: 400g</p><p>Thương hiệu: Tâm trà Thái</p><p>Xuất sứ: Thái Nguyên</p><p>Thành phần: 100% chè tân cương Thái Nguyên</p><p>Hướng dẫn: Cho từ 3-5g trà, sau đó cho nước sôi vào, sau 5 phút bạn sẽ có tách trà như ý.</p><p>Hạn sử dụng: 12 tháng kể từ ngày sản xuất</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/87fef1c0-e137-4d09-baeb-4027ecd533a0.jpg\",\"https://images.f99.com.vn/images/cb72e846-c0ac-4795-aea6-4dd32e9e8480.jpg\",\"https://images.f99.com.vn/images/9d2021f9-b15c-468e-826f-55d5c78b953b.jpg\",\"https://images.f99.com.vn/images/36a406e4-fe77-410b-a3c0-0669b3ec973d.jpg\",\"https://images.f99.com.vn/images/43626ec5-f389-4c15-a498-efda01257840.jpg\",\"https://images.f99.com.vn/images/8f8f8727-9d7f-4348-87c6-fea0fcecf8c2.jpg\",\"https://images.f99.com.vn/images/4d249f2b-e886-4b7e-a451-a4363a1049ce.jpg\",\"https://images.f99.com.vn/images/b6fb1077-23aa-4e48-9824-a1211cf6ccaf.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"hộp trà\",\"quà tặng\",\"quà tặng trà\",\"chè thái nguyên\",\"trà thái nguyên\",\"hộp trà quà tặng\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hộp trà quà tặng cao cấp",
+    "description": "<p>Khối lượng: 400g</p><p>Thương hiệu: Tâm trà Thái</p><p>Xuất sứ: Thái Nguyên</p><p>Thành phần: 100% chè tân cương Thái Nguyên</p><p>Hướng dẫn: Cho từ 3-5g trà, sau đó cho nước sôi vào, sau 5 phút bạn sẽ có tách trà như ý.</p><p>Hạn sử dụng: 12 tháng kể từ ngày sản xuất</p>",
+    "imageUrl": "https://images.f99.com.vn/images/87fef1c0-e137-4d09-baeb-4027ecd533a0.jpg",
+    "price": 1120000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "0.4kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 89,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản: Để nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp</p>",
+    "category": {
+      "id": 83,
+      "name": "Giỏ quà",
+      "imageUrl": "https://images.f99.com.vn/notification-images/a74dc1e4-98f8-4fd9-9819-30821278494a.png",
+      "parentId": 126,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "hộp trà",
+      "quà tặng",
+      "quà tặng trà",
+      "chè thái nguyên",
+      "trà thái nguyên",
+      "hộp trà quà tặng"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/87fef1c0-e137-4d09-baeb-4027ecd533a0.jpg",
+      "https://images.f99.com.vn/images/cb72e846-c0ac-4795-aea6-4dd32e9e8480.jpg",
+      "https://images.f99.com.vn/images/9d2021f9-b15c-468e-826f-55d5c78b953b.jpg",
+      "https://images.f99.com.vn/images/36a406e4-fe77-410b-a3c0-0669b3ec973d.jpg",
+      "https://images.f99.com.vn/images/43626ec5-f389-4c15-a498-efda01257840.jpg",
+      "https://images.f99.com.vn/images/8f8f8727-9d7f-4348-87c6-fea0fcecf8c2.jpg",
+      "https://images.f99.com.vn/images/4d249f2b-e886-4b7e-a451-a4363a1049ce.jpg",
+      "https://images.f99.com.vn/images/b6fb1077-23aa-4e48-9824-a1211cf6ccaf.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7122",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "0.4kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 59706,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "0.4kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "0.4kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "0.4kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 1120000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 1000,
+        "totalSold": 0,
+        "unit": "0.4kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản: Để nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "0.4kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 89,
+      "sellerRate": 4.7,
+      "sellerName": "HTX Tâm Trà Thái",
+      "warehouseId": "018d968a-b25c-4764-b2e7-9c3a29094c55",
+      "warehouseAddress": "Số 25, ngõ 20, Phố Nghĩa Đô, Cầu Giấy, Hà Nội ",
+      "distance": 5914,
+      "warehouseDistrict": "cau giay",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7767,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Khay Trà Hoa Thảo Mộc",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong>Quà Tết tại Apple Fruit là cầu nối vô hình giúp kết nối tình thân thêm gắn kết. Bênh cạnh đó là giá trị hữu hình tương ứng với túi tiền bạn bỏ ra.</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tặng thiệp</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tặng nơ</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tặng bảng nametag</strong></p><p><strong>Giá ưu đãi cho Doanh Nghiệp</strong></p><p><strong>Xuất hóa đơn VAT 10%, Giá bán là giá chưa bao gồm thuế</strong></p><p><strong>Giỏ quà tết đẹp với thành phần là các sản phẩm nhập khẩu cao cấp, cùng hàng trăm lựa chọn khác nhau cho mọi nhu cầu quà tết của doanh nghiệp. Các mẫu đều được thiết kế đẹp mắt, sản phẩm được lựa chọn cẩn thận từ chất lượng đến kiểu dáng. </strong></p><p><strong>Tất cả các giỏ quà tết đều được đóng gói cẩn thận, bọc màng co hút chân không và gắn nơ trang trí ở bên ngoài.</strong></p><p class=\"ql-align-justify\"><strong>Hãy xem và lựa chọn những&nbsp;món quà tuyệt vời bạn nhé!</strong></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/95862ae6-2c48-450b-a0f0-5f399542c682.jpg\",\"https://images.f99.com.vn/images/6cc0955a-863b-4a8d-a0c5-baef8a367fc2.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Khay Trà Hoa Thảo Mộc",
+    "description": "<p><strong>Quà Tết tại Apple Fruit là cầu nối vô hình giúp kết nối tình thân thêm gắn kết. Bênh cạnh đó là giá trị hữu hình tương ứng với túi tiền bạn bỏ ra.</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tặng thiệp</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tặng nơ</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tặng bảng nametag</strong></p><p><strong>Giá ưu đãi cho Doanh Nghiệp</strong></p><p><strong>Xuất hóa đơn VAT 10%, Giá bán là giá chưa bao gồm thuế</strong></p><p><strong>Giỏ quà tết đẹp với thành phần là các sản phẩm nhập khẩu cao cấp, cùng hàng trăm lựa chọn khác nhau cho mọi nhu cầu quà tết của doanh nghiệp. Các mẫu đều được thiết kế đẹp mắt, sản phẩm được lựa chọn cẩn thận từ chất lượng đến kiểu dáng. </strong></p><p><strong>Tất cả các giỏ quà tết đều được đóng gói cẩn thận, bọc màng co hút chân không và gắn nơ trang trí ở bên ngoài.</strong></p><p class=\"ql-align-justify\"><strong>Hãy xem và lựa chọn những&nbsp;món quà tuyệt vời bạn nhé!</strong></p>",
+    "imageUrl": "https://images.f99.com.vn/images/95862ae6-2c48-450b-a0f0-5f399542c682.jpg",
+    "price": 399000,
+    "oldPrice": 650000,
+    "discountPercent": 39,
+    "stock": 11000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "1 Khay",
+    "sku": "camxoan",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p>Hotline:0974956933</p><p>Địa chỉ: Số 10A, ngõ 61 Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội</p>",
+    "category": {
+      "id": 83,
+      "name": "Giỏ quà",
+      "imageUrl": "https://images.f99.com.vn/notification-images/a74dc1e4-98f8-4fd9-9819-30821278494a.png",
+      "parentId": 126,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/95862ae6-2c48-450b-a0f0-5f399542c682.jpg",
+      "https://images.f99.com.vn/images/6cc0955a-863b-4a8d-a0c5-baef8a367fc2.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7767",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1 Khay"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 87793,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Khay",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1 Khay",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Khay",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 499000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 11000,
+        "totalSold": 0,
+        "unit": "1 Khay",
+        "sku": "camxoan",
+        "rating": 5,
+        "instructions": "<p>Hotline:0974956933</p><p>Địa chỉ: Số 10A, ngõ 61 Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1 Khay"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 9270,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Giỏ trái cây kèm hoa",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Giỏ trái cây gồm: Kiwi vàng, Táo, Lê Hàn, Cam, Nho, Dưa lưới và Hoa tươi.</p><p>*Chú ý: Trái cây trong giỏ có thể thay đổi theo mùa vụ tuy nhiên cửa hàng vẫn sẽ đảm bảo cho quý khách về độ tươi ngon.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/fcca7f9e-8d9d-4c24-a54d-9f616b8bcbb7.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Giỏ trái cây kèm hoa",
+    "description": "<p>Giỏ trái cây gồm: Kiwi vàng, Táo, Lê Hàn, Cam, Nho, Dưa lưới và Hoa tươi.</p><p>*Chú ý: Trái cây trong giỏ có thể thay đổi theo mùa vụ tuy nhiên cửa hàng vẫn sẽ đảm bảo cho quý khách về độ tươi ngon.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/fcca7f9e-8d9d-4c24-a54d-9f616b8bcbb7.jpg",
+    "price": 650000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "giỏ",
+    "sku": "",
+    "origin": "",
+    "sellerId": 97,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 83,
+      "name": "Giỏ quà",
+      "imageUrl": "https://images.f99.com.vn/notification-images/a74dc1e4-98f8-4fd9-9819-30821278494a.png",
+      "parentId": 126,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/fcca7f9e-8d9d-4c24-a54d-9f616b8bcbb7.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/9270",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 97,
+      "sellerRate": 4.4,
+      "sellerName": "Pink Fruit",
+      "warehouseId": "ba672d2d-91c5-41ab-927f-3880a4c4d57a",
+      "warehouseAddress": "92G Ô Chợ Dừa, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",
+      "distance": 1147,
+      "warehouseDistrict": "dong da",
+      "reputation": 74.93568838196391,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 9275,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Giỏ Trái Cây Tròn LB",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Giỏ trái cây gồm: Lê hàn, Cam, Táo, Dưa Lưới, Nho, Quýt.</p><p>*Chú ý: Trái cây trong giỏ có thể thay đổi theo mùa vụ tuy nhiên cửa hàng vẫn sẽ đảm bảo cho quý khách về độ tươi ngon.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/a1fba0b8-7801-4381-857f-1c3a062585dd.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Giỏ Trái Cây Tròn LB",
+    "description": "<p>Giỏ trái cây gồm: Lê hàn, Cam, Táo, Dưa Lưới, Nho, Quýt.</p><p>*Chú ý: Trái cây trong giỏ có thể thay đổi theo mùa vụ tuy nhiên cửa hàng vẫn sẽ đảm bảo cho quý khách về độ tươi ngon.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/a1fba0b8-7801-4381-857f-1c3a062585dd.jpg",
+    "price": 450000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1,
+    "totalSold": 8,
+    "maxQuantityPerUser": null,
+    "unit": "giỏ",
+    "sku": "",
+    "origin": "",
+    "sellerId": 97,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 83,
+      "name": "Giỏ quà",
+      "imageUrl": "https://images.f99.com.vn/notification-images/a74dc1e4-98f8-4fd9-9819-30821278494a.png",
+      "parentId": 126,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/a1fba0b8-7801-4381-857f-1c3a062585dd.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/9275",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 97,
+      "sellerRate": 4.4,
+      "sellerName": "Pink Fruit",
+      "warehouseId": "ba672d2d-91c5-41ab-927f-3880a4c4d57a",
+      "warehouseAddress": "92G Ô Chợ Dừa, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",
+      "distance": 1147,
+      "warehouseDistrict": "dong da",
+      "reputation": 74.93568838196391,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 9286,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Giỏ Truyền Thống",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>*Chú ý: Trái cây trong giỏ có thể thay đổi theo mùa vụ tuy nhiên cửa hàng vẫn sẽ đảm bảo cho quý khách về độ tươi ngon.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/ffaaa05b-6d98-44ed-955d-12dad7909b8e.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Giỏ Truyền Thống",
+    "description": "<p>*Chú ý: Trái cây trong giỏ có thể thay đổi theo mùa vụ tuy nhiên cửa hàng vẫn sẽ đảm bảo cho quý khách về độ tươi ngon.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/ffaaa05b-6d98-44ed-955d-12dad7909b8e.jpg",
+    "price": 350000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1,
+    "totalSold": 9,
+    "maxQuantityPerUser": null,
+    "unit": "giỏ",
+    "sku": "",
+    "origin": "",
+    "sellerId": 97,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 83,
+      "name": "Giỏ quà",
+      "imageUrl": "https://images.f99.com.vn/notification-images/a74dc1e4-98f8-4fd9-9819-30821278494a.png",
+      "parentId": 126,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/ffaaa05b-6d98-44ed-955d-12dad7909b8e.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/9286",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 97,
+      "sellerRate": 4.4,
+      "sellerName": "Pink Fruit",
+      "warehouseId": "ba672d2d-91c5-41ab-927f-3880a4c4d57a",
+      "warehouseAddress": "92G Ô Chợ Dừa, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",
+      "distance": 1147,
+      "warehouseDistrict": "dong da",
+      "reputation": 74.93568838196391,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 9296,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Giỏ Táo 2",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>*Chú ý: Trái cây trong giỏ có thể thay đổi theo mùa vụ tuy nhiên cửa hàng vẫn sẽ đảm bảo cho quý khách về độ tươi ngon.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/a3c49d69-2e88-4391-9c24-c195665c6a7f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Giỏ Táo 2",
+    "description": "<p>*Chú ý: Trái cây trong giỏ có thể thay đổi theo mùa vụ tuy nhiên cửa hàng vẫn sẽ đảm bảo cho quý khách về độ tươi ngon.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/a3c49d69-2e88-4391-9c24-c195665c6a7f.jpg",
+    "price": 300000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "giỏ",
+    "sku": "",
+    "origin": "",
+    "sellerId": 97,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 83,
+      "name": "Giỏ quà",
+      "imageUrl": "https://images.f99.com.vn/notification-images/a74dc1e4-98f8-4fd9-9819-30821278494a.png",
+      "parentId": 126,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/a3c49d69-2e88-4391-9c24-c195665c6a7f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/9296",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 97,
+      "sellerRate": 4.4,
+      "sellerName": "Pink Fruit",
+      "warehouseId": "ba672d2d-91c5-41ab-927f-3880a4c4d57a",
+      "warehouseAddress": "92G Ô Chợ Dừa, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",
+      "distance": 1147,
+      "warehouseDistrict": "dong da",
+      "reputation": 74.93568838196391,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 9297,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Giỏ Trái Cây 1",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>*Chú ý: Trái cây trong giỏ có thể thay đổi theo mùa vụ tuy nhiên cửa hàng vẫn sẽ đảm bảo cho quý khách về độ tươi ngon.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/60e227df-88d3-45d0-b6a0-acbb0f693787.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Giỏ Trái Cây 1",
+    "description": "<p>*Chú ý: Trái cây trong giỏ có thể thay đổi theo mùa vụ tuy nhiên cửa hàng vẫn sẽ đảm bảo cho quý khách về độ tươi ngon.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/60e227df-88d3-45d0-b6a0-acbb0f693787.jpg",
+    "price": 750000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "giỏ",
+    "sku": "",
+    "origin": "",
+    "sellerId": 97,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 83,
+      "name": "Giỏ quà",
+      "imageUrl": "https://images.f99.com.vn/notification-images/a74dc1e4-98f8-4fd9-9819-30821278494a.png",
+      "parentId": 126,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/60e227df-88d3-45d0-b6a0-acbb0f693787.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/9297",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 97,
+      "sellerRate": 4.4,
+      "sellerName": "Pink Fruit",
+      "warehouseId": "ba672d2d-91c5-41ab-927f-3880a4c4d57a",
+      "warehouseAddress": "92G Ô Chợ Dừa, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",
+      "distance": 1147,
+      "warehouseDistrict": "dong da",
+      "reputation": 74.93568838196391,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 9300,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Giỏ Táo 3",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>*Chú ý: Trái cây trong giỏ có thể thay đổi theo mùa vụ tuy nhiên cửa hàng vẫn sẽ đảm bảo cho quý khách về độ tươi ngon.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/588890c2-051d-4472-8f7e-edb5f03e512b.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Giỏ Táo 3",
+    "description": "<p>*Chú ý: Trái cây trong giỏ có thể thay đổi theo mùa vụ tuy nhiên cửa hàng vẫn sẽ đảm bảo cho quý khách về độ tươi ngon.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/588890c2-051d-4472-8f7e-edb5f03e512b.jpg",
+    "price": 550000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "giỏ",
+    "sku": "",
+    "origin": "",
+    "sellerId": 97,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 83,
+      "name": "Giỏ quà",
+      "imageUrl": "https://images.f99.com.vn/notification-images/a74dc1e4-98f8-4fd9-9819-30821278494a.png",
+      "parentId": 126,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/588890c2-051d-4472-8f7e-edb5f03e512b.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/9300",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 97,
+      "sellerRate": 4.4,
+      "sellerName": "Pink Fruit",
+      "warehouseId": "ba672d2d-91c5-41ab-927f-3880a4c4d57a",
+      "warehouseAddress": "92G Ô Chợ Dừa, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",
+      "distance": 1147,
+      "warehouseDistrict": "dong da",
+      "reputation": 74.93568838196391,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 9301,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Giỏ Trái Cây 4",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>*Chú ý: Trái cây trong giỏ có thể thay đổi theo mùa vụ tuy nhiên cửa hàng vẫn sẽ đảm bảo cho quý khách về độ tươi ngon.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/884f4030-78a4-4aa3-819c-7f93e4d678f3.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Giỏ Trái Cây 4",
+    "description": "<p>*Chú ý: Trái cây trong giỏ có thể thay đổi theo mùa vụ tuy nhiên cửa hàng vẫn sẽ đảm bảo cho quý khách về độ tươi ngon.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/884f4030-78a4-4aa3-819c-7f93e4d678f3.jpg",
+    "price": 400000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1,
+    "totalSold": 23,
+    "maxQuantityPerUser": null,
+    "unit": "Giỏ",
+    "sku": "",
+    "origin": "",
+    "sellerId": 97,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 83,
+      "name": "Giỏ quà",
+      "imageUrl": "https://images.f99.com.vn/notification-images/a74dc1e4-98f8-4fd9-9819-30821278494a.png",
+      "parentId": 126,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/884f4030-78a4-4aa3-819c-7f93e4d678f3.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/9301",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 97,
+      "sellerRate": 4.4,
+      "sellerName": "Pink Fruit",
+      "warehouseId": "ba672d2d-91c5-41ab-927f-3880a4c4d57a",
+      "warehouseAddress": "92G Ô Chợ Dừa, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",
+      "distance": 1147,
+      "warehouseDistrict": "dong da",
+      "reputation": 74.93568838196391,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 10028,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"chè quà biếu cao cấp thái nguyên\",\"chè thái nguyên biếu tặng\",\"trà biếu thái nguyên cao cấp\",\"trà quà tặng thái nguyên\",\"trà biếu thái nguyên\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/ebb4cd60-061b-4cdf-9356-50379e36510a.jpg\",\"https://images.f99.com.vn/images/dc268f83-9863-432b-b556-94becc53e8d4.jpg\",\"https://images.f99.com.vn/images/cac85a79-abdd-4854-bf53-e597ddcdaafc.jpg\",\"https://images.f99.com.vn/images/7dc54415-e082-41e6-82d8-b69ea0b1efeb.jpg\",\"https://images.f99.com.vn/images/4d472562-baf2-447c-8967-ff31338cb38e.jpg\",\"https://images.f99.com.vn/images/cfdf7d6b-2cfb-4b92-97ab-020f7e879c2e.jpg\",\"https://images.f99.com.vn/images/cc3e88ab-4830-45d2-bad5-ffed451240ac.jpg\",\"https://images.f99.com.vn/images/0bf19d4d-ec04-4add-b4e3-baa7746e2276.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Phúc- Lộc - Thọ là bộ sản phẩm trà Thái Nguyên cao cấp, mỗi gói trà thể hiện sự kết tinh của trời, đất, cái tình và kinh nghiệm lâu năm của người làm nghề. 3 hương vị, 3 màu sắc, 3 ý nghĩa khác nhau nhưng lại hòa quyện không thể khéo léo hơn để khiến bất cứu ai khi thưởng thức đều say mê.</p><p><strong>Bộ trà quà tặng Phúc Lộc Thọ bao gồm 3 sản phẩm</strong></p><p>Trà Phúc, trà Lộc, trà Thọ được đóng gói trong túi giấy kraf có lớp tráng bạc bên trong vừa thân thiện môi trường, vừa bảo quản tốt.</p><p><strong>Ý nghĩa của trà Phúc trong bộ quà tặng</strong></p><p>Thể hiện sự may mắn sẽ đến khi những suy nghĩ, hành động của bạn hướng đến những điều thiện lành.</p><p><strong>Ý nghĩa trà Lộc trong bộ quà tặng</strong></p><p>Vật chất, thành công sẽ đến khi bạn thực sự tư duy, lao động một cách chân chính.</p><p><strong>Ý nghĩa trà thọ trong bộ quà tặng</strong></p><p>Thể hiện sự sống vui khỏe bên những người thân yêu khi bạn thực sự đối đãi với mọi người bằng sự yêu quý, cảm thông, nhiệt thành.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bộ Quà Trà Thái Nguyên Cao Cấp - Phúc Lộc Thọ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bộ Quà Trà Thái Nguyên Cao Cấp - Phúc Lộc Thọ",
+    "description": "<p>Phúc- Lộc - Thọ là bộ sản phẩm trà Thái Nguyên cao cấp, mỗi gói trà thể hiện sự kết tinh của trời, đất, cái tình và kinh nghiệm lâu năm của người làm nghề. 3 hương vị, 3 màu sắc, 3 ý nghĩa khác nhau nhưng lại hòa quyện không thể khéo léo hơn để khiến bất cứu ai khi thưởng thức đều say mê.</p><p><strong>Bộ trà quà tặng Phúc Lộc Thọ bao gồm 3 sản phẩm</strong></p><p>Trà Phúc, trà Lộc, trà Thọ được đóng gói trong túi giấy kraf có lớp tráng bạc bên trong vừa thân thiện môi trường, vừa bảo quản tốt.</p><p><strong>Ý nghĩa của trà Phúc trong bộ quà tặng</strong></p><p>Thể hiện sự may mắn sẽ đến khi những suy nghĩ, hành động của bạn hướng đến những điều thiện lành.</p><p><strong>Ý nghĩa trà Lộc trong bộ quà tặng</strong></p><p>Vật chất, thành công sẽ đến khi bạn thực sự tư duy, lao động một cách chân chính.</p><p><strong>Ý nghĩa trà thọ trong bộ quà tặng</strong></p><p>Thể hiện sự sống vui khỏe bên những người thân yêu khi bạn thực sự đối đãi với mọi người bằng sự yêu quý, cảm thông, nhiệt thành.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/ebb4cd60-061b-4cdf-9356-50379e36510a.jpg",
+    "price": 329000,
+    "oldPrice": 670000,
+    "discountPercent": 51,
+    "stock": 100,
+    "totalSold": 6,
+    "maxQuantityPerUser": null,
+    "unit": "Bộ",
+    "sku": "",
+    "origin": "",
+    "sellerId": 132,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 83,
+      "name": "Giỏ quà",
+      "imageUrl": "https://images.f99.com.vn/notification-images/a74dc1e4-98f8-4fd9-9819-30821278494a.png",
+      "parentId": 126,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "chè quà biếu cao cấp thái nguyên",
+      "chè thái nguyên biếu tặng",
+      "trà biếu thái nguyên cao cấp",
+      "trà quà tặng thái nguyên",
+      "trà biếu thái nguyên"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/ebb4cd60-061b-4cdf-9356-50379e36510a.jpg",
+      "https://images.f99.com.vn/images/dc268f83-9863-432b-b556-94becc53e8d4.jpg",
+      "https://images.f99.com.vn/images/cac85a79-abdd-4854-bf53-e597ddcdaafc.jpg",
+      "https://images.f99.com.vn/images/7dc54415-e082-41e6-82d8-b69ea0b1efeb.jpg",
+      "https://images.f99.com.vn/images/4d472562-baf2-447c-8967-ff31338cb38e.jpg",
+      "https://images.f99.com.vn/images/cfdf7d6b-2cfb-4b92-97ab-020f7e879c2e.jpg",
+      "https://images.f99.com.vn/images/cc3e88ab-4830-45d2-bad5-ffed451240ac.jpg",
+      "https://images.f99.com.vn/images/0bf19d4d-ec04-4add-b4e3-baa7746e2276.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/10028",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Bộ"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 87295,
+        "attributeTextValues": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Bộ",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Bộ",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Bộ",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 329000,
+        "oldPrice": 670000,
+        "discountPercent": 51,
+        "stock": 100,
+        "totalSold": 6,
+        "unit": "Bộ",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Bộ"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 132,
+      "sellerRate": 4.5,
+      "sellerName": "Nông sản Lạc Hồng",
+      "warehouseId": "4c914ac3-9b1c-481c-8411-3bb78a3c3702",
+      "warehouseAddress": "73 Nguyễn Văn Trỗi, Phương Liệt, Thanh Xuân, Hà Nội",
+      "distance": 4540,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 67.66818869696993,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 11395,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hộp Cherry Đỏ New 2kg",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><br></p><p><strong>GIÁ TRỊ DINH DƯỠNG :</strong></p><p><br></p><p>✔️<strong>Tốt cho người bệnh tiểu đường&nbsp;</strong></p><p>Trong cherry có tác dụng chống viêm giúp cho cơ thể khỏe mạnh hơn, tăng sức đề kháng.</p><p><br></p><h3><img src=\"https://images.f99.com.vn/images/cbbb2b0c-4dde-44d2-b4b6-24e35064c5b7.jpg\"></h3><h3><br></h3><h3>✔️<strong>Giúp ngủ ngon</strong></h3><p><a href=\"https://musangkingf99.com/dinh-duong-trong-cherry/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 0, 0);\">Giá trị dinh dưỡng quả cherry</a>&nbsp;có thể kể đến thành phần melatonin – hormone giúp kiểm soát giấc ngủ. Những người thường stress hoặc khó ngủ có thể bổ sung loại trái cây này.&nbsp;</p><p><br></p><h3>✔️<strong>Chống oxy hóa<em>&nbsp;</em></strong></h3><p>Chất oxy hóa và hợp chất chống viêm chiếm một lượng đáng kể trong cherry. Giúp cho quá trình lão hóa – kẻ thù của nhan sắc chậm đến hơn. Đặc biệt hơn là chống lại các tác nhân gây ra bệnh tim, ung thư, bệnh Alzheimer, béo phì.&nbsp;</p><p><br></p><h3>✔️<strong>Giảm đau khớp cho người thường hay vận động<em>&nbsp;</em></strong></h3><p>Làm trơn khớp , giúp dễ vận động , rất tốt cho xương khớp.</p><p><br></p><h3>✔️<strong>Giảm cholesterol&nbsp;</strong></h3><p>Cherry giúp làm giảm tổng lượng cholesterol trong cơ thể. Đặc biệt hơn cứ 1% cholesterol giảm đi cũng kéo theo giảm 2% nguy cơ mắc bệnh tim. Đặc biệt với mẹ bầu thì giá trị dinh dưỡng này lại càng quan trọng.&nbsp;</p><p><em>&nbsp;</em></p><h3>✔️<strong>Tốt cho hệ tiêu hóa</strong></h3><p>Dinh dưỡng trong cherry&nbsp;có hàm lượng chất xơ cao, theo ước tính có 3 gram chất xơ có trong 1 chén cherry. Và chiếm đến 12% nhu cầu lượng xơ cần thiết trong một ngày của người bình thường. Chính những điều này giúp người ăn nhiều cherry tốt hơn cho hệ tiêu hóa.&nbsp;</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/bebf29b0-b453-41fd-a5d1-4be6d55723f1.jpg\",\"https://images.f99.com.vn/images/b1f09c0b-648e-422c-8b8d-cf29627264d6.jpg\",\"https://images.f99.com.vn/images/0c19270d-f464-4689-81b6-c7284b26f113.jpg\",\"https://images.f99.com.vn/images/00579e7b-2318-4fcd-9edf-ac26c5602232.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"hộp cherry\",\"chery mỹ\",\"cherry ngọt\",\"cherry đỏ\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hộp Cherry Đỏ New 2kg",
+    "description": "<p><br></p><p><strong>GIÁ TRỊ DINH DƯỠNG :</strong></p><p><br></p><p>✔️<strong>Tốt cho người bệnh tiểu đường&nbsp;</strong></p><p>Trong cherry có tác dụng chống viêm giúp cho cơ thể khỏe mạnh hơn, tăng sức đề kháng.</p><p><br></p><h3><img src=\"https://images.f99.com.vn/images/cbbb2b0c-4dde-44d2-b4b6-24e35064c5b7.jpg\"></h3><h3><br></h3><h3>✔️<strong>Giúp ngủ ngon</strong></h3><p><a href=\"https://musangkingf99.com/dinh-duong-trong-cherry/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 0, 0);\">Giá trị dinh dưỡng quả cherry</a>&nbsp;có thể kể đến thành phần melatonin – hormone giúp kiểm soát giấc ngủ. Những người thường stress hoặc khó ngủ có thể bổ sung loại trái cây này.&nbsp;</p><p><br></p><h3>✔️<strong>Chống oxy hóa<em>&nbsp;</em></strong></h3><p>Chất oxy hóa và hợp chất chống viêm chiếm một lượng đáng kể trong cherry. Giúp cho quá trình lão hóa – kẻ thù của nhan sắc chậm đến hơn. Đặc biệt hơn là chống lại các tác nhân gây ra bệnh tim, ung thư, bệnh Alzheimer, béo phì.&nbsp;</p><p><br></p><h3>✔️<strong>Giảm đau khớp cho người thường hay vận động<em>&nbsp;</em></strong></h3><p>Làm trơn khớp , giúp dễ vận động , rất tốt cho xương khớp.</p><p><br></p><h3>✔️<strong>Giảm cholesterol&nbsp;</strong></h3><p>Cherry giúp làm giảm tổng lượng cholesterol trong cơ thể. Đặc biệt hơn cứ 1% cholesterol giảm đi cũng kéo theo giảm 2% nguy cơ mắc bệnh tim. Đặc biệt với mẹ bầu thì giá trị dinh dưỡng này lại càng quan trọng.&nbsp;</p><p><em>&nbsp;</em></p><h3>✔️<strong>Tốt cho hệ tiêu hóa</strong></h3><p>Dinh dưỡng trong cherry&nbsp;có hàm lượng chất xơ cao, theo ước tính có 3 gram chất xơ có trong 1 chén cherry. Và chiếm đến 12% nhu cầu lượng xơ cần thiết trong một ngày của người bình thường. Chính những điều này giúp người ăn nhiều cherry tốt hơn cho hệ tiêu hóa.&nbsp;</p>",
+    "imageUrl": "https://images.f99.com.vn/images/bebf29b0-b453-41fd-a5d1-4be6d55723f1.jpg",
+    "price": 1189000,
+    "oldPrice": 1298000,
+    "discountPercent": 8,
+    "stock": 20,
+    "totalSold": 14,
+    "maxQuantityPerUser": null,
+    "unit": "hộp",
+    "sku": "",
+    "origin": "",
+    "sellerId": 96,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 8,
+    "instructions": "<p><img src=\"https://images.f99.com.vn/images/14c22880-8c1a-44c2-8324-335882b58895.jpg\"></p><p><br></p><p><strong>HƯỚNG DẪN BẢO QUẢN:</strong></p><p><br></p><p>Sau khi mua cherry về nhà, bạn nên:</p><p><br></p><p>✔️ Cho cherry vào những hộp nhựa, bên ngoài bọc một lớp bao nylon trong sau đó cho vào ngăn mát tủ lạnh.</p><p>✔️ Giữ cho cherry khô ráo tránh tiếp xúc trực tiếp với nước vì vỏ cherry rất mỏng dễ hư hỏng.</p><p><br></p><p>✔️Không để đồ nặng đè lên hộp cherry sẽ bị dập trái và hư hỏng.</p><p><br></p><p>✔️Không nên để cherry chung với những đồ ăn nặng mùi sẽ làm bám mùi vào cherry mất ngon.</p><p>&nbsp;</p>",
+    "category": {
+      "id": 83,
+      "name": "Giỏ quà",
+      "imageUrl": "https://images.f99.com.vn/notification-images/a74dc1e4-98f8-4fd9-9819-30821278494a.png",
+      "parentId": 126,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "hộp cherry",
+      "chery mỹ",
+      "cherry ngọt",
+      "cherry đỏ"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/bebf29b0-b453-41fd-a5d1-4be6d55723f1.jpg",
+      "https://images.f99.com.vn/images/b1f09c0b-648e-422c-8b8d-cf29627264d6.jpg",
+      "https://images.f99.com.vn/images/0c19270d-f464-4689-81b6-c7284b26f113.jpg",
+      "https://images.f99.com.vn/images/00579e7b-2318-4fcd-9edf-ac26c5602232.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/11395",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1 hộp",
+          "combo 2 hộp"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 11396,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 hộp",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1 hộp",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 hộp",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 1189000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 7,
+        "unit": "hộp",
+        "sku": "",
+        "rating": 8,
+        "instructions": "<p><img src=\"https://images.f99.com.vn/images/14c22880-8c1a-44c2-8324-335882b58895.jpg\"></p><p><br></p><p><strong>HƯỚNG DẪN BẢO QUẢN:</strong></p><p><br></p><p>Sau khi mua cherry về nhà, bạn nên:</p><p><br></p><p>✔️ Cho cherry vào những hộp nhựa, bên ngoài bọc một lớp bao nylon trong sau đó cho vào ngăn mát tủ lạnh.</p><p>✔️ Giữ cho cherry khô ráo tránh tiếp xúc trực tiếp với nước vì vỏ cherry rất mỏng dễ hư hỏng.</p><p><br></p><p>✔️Không để đồ nặng đè lên hộp cherry sẽ bị dập trái và hư hỏng.</p><p><br></p><p>✔️Không nên để cherry chung với những đồ ăn nặng mùi sẽ làm bám mùi vào cherry mất ngon.</p><p>&nbsp;</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1 hộp"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 11397,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 2 hộp",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "combo 2 hộp",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 2 hộp",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 2369000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 7,
+        "unit": "hộp",
+        "sku": "",
+        "rating": 8,
+        "instructions": "<p><img src=\"https://images.f99.com.vn/images/14c22880-8c1a-44c2-8324-335882b58895.jpg\"></p><p><br></p><p><strong>HƯỚNG DẪN BẢO QUẢN:</strong></p><p><br></p><p>Sau khi mua cherry về nhà, bạn nên:</p><p><br></p><p>✔️ Cho cherry vào những hộp nhựa, bên ngoài bọc một lớp bao nylon trong sau đó cho vào ngăn mát tủ lạnh.</p><p>✔️ Giữ cho cherry khô ráo tránh tiếp xúc trực tiếp với nước vì vỏ cherry rất mỏng dễ hư hỏng.</p><p><br></p><p>✔️Không để đồ nặng đè lên hộp cherry sẽ bị dập trái và hư hỏng.</p><p><br></p><p>✔️Không nên để cherry chung với những đồ ăn nặng mùi sẽ làm bám mùi vào cherry mất ngon.</p><p>&nbsp;</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "combo 2 hộp"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 96,
+      "sellerRate": 4.4,
+      "sellerName": "Ánh Vy Fruit",
+      "warehouseId": "4ead612c-994e-4201-ab8c-583f2ba5437c",
+      "warehouseAddress": "10 Nguyễn Khánh Toàn, phường Quan Hoa, quận Cầu Giấy, Hà Nội ",
+      "distance": 3233,
+      "warehouseDistrict": "cau giay",
+      "reputation": 76.48368498960507,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 11686,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Giỏ Trái Cây Nhập Khẩu 5",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><br></p><p>Giỏ trái cây tại Apple Fruit là cầu nối vô hình giúp kết nối tình thân thêm gắn kết. Bênh cạnh đó là giá trị hữu hình tương ứng với túi tiền bạn bỏ ra.</p><ul><li>Tặng thiệp</li><li>Tặng nơ</li></ul><p>100% là trái cây sạch nhập khẩu đạt chuẩn organic, thực phẩm hữu cơ, trái cây loại</p><ul><li>Giỏ cạp mây</li><li>Nơ và vật dụng trang trí</li></ul><p><strong>Lợi ích khi chọn giỏ trái cây làm quà tặng</strong></p><p><strong>Tặng giỏ trái cây cho bạn bè, người thân, đối tác thực sự rất phù hợp vì đây là món quà không chỉ thể hiện thông điệp yêu thương chân thành với người nhận mà còn là món quà có ý nghĩa thiết thực cho sức khỏe.</strong></p><p><strong>Trái cây là thực phẩm rất tốt cho sức khỏe, bổ sung nhiều vitamin, dưỡng chất, cung cấp năng lượng cho con người. Ngoài ra, quà tặng là giỏ trái cây rất thân thiện với môi trường, góp phần bảo vệ môi trường tự nhiên.</strong></p><p><strong>Giỏ trái cây có nhiều ưu điểm nổi bật so với những món quà thông thường khác như sự sang trọng, lịch sự, độc đáo; giỏ trái cây an toàn cho sức khỏe; Ý nghĩa thiết thực; Trái cây được lựa chọn kỹ lưỡng, có nguồn gốc rõ ràng, đảm bảo chất lượng.</strong></p><p><strong>Chọn những hoa quả sạch cho gia đình hay làm quà tặng do đó được nhiều người ưa chuộng, chọn làm quà biếu tặng trong dịp lễ, Tết. Đây còn là lời chúc sức khỏe thiết thực nhất, có sức khỏe là có tất cả. Bên cạnh đó,&nbsp;giỏ trái cây quà tặng</strong>&nbsp;còn thể hiện sự đầy đủ, sung túc, màu sắc các loại quả hòa quyện với nhau thể hiện tính âm dương hài hòa, là lời chúc cho cuộc sống của người nhận luôn an khang thịnh vượng.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/5ddc67fb-58cd-41fb-85c9-15ff08ac5d8c.jpg\",\"https://images.f99.com.vn/images/14c165e2-af95-40aa-ba23-2ce59fb03e3c.jpg\",\"https://images.f99.com.vn/images/21ee78fb-10df-4e33-a676-87c0f95cec83.jpg\",\"https://images.f99.com.vn/images/d0331e49-fc34-43fc-a819-67a351404112.jpg\",\"https://images.f99.com.vn/images/1a7d4124-3fd5-40d8-ade0-981769611ef3.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"dừa\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Giỏ Trái Cây Nhập Khẩu 5",
+    "description": "<p><br></p><p>Giỏ trái cây tại Apple Fruit là cầu nối vô hình giúp kết nối tình thân thêm gắn kết. Bênh cạnh đó là giá trị hữu hình tương ứng với túi tiền bạn bỏ ra.</p><ul><li>Tặng thiệp</li><li>Tặng nơ</li></ul><p>100% là trái cây sạch nhập khẩu đạt chuẩn organic, thực phẩm hữu cơ, trái cây loại</p><ul><li>Giỏ cạp mây</li><li>Nơ và vật dụng trang trí</li></ul><p><strong>Lợi ích khi chọn giỏ trái cây làm quà tặng</strong></p><p><strong>Tặng giỏ trái cây cho bạn bè, người thân, đối tác thực sự rất phù hợp vì đây là món quà không chỉ thể hiện thông điệp yêu thương chân thành với người nhận mà còn là món quà có ý nghĩa thiết thực cho sức khỏe.</strong></p><p><strong>Trái cây là thực phẩm rất tốt cho sức khỏe, bổ sung nhiều vitamin, dưỡng chất, cung cấp năng lượng cho con người. Ngoài ra, quà tặng là giỏ trái cây rất thân thiện với môi trường, góp phần bảo vệ môi trường tự nhiên.</strong></p><p><strong>Giỏ trái cây có nhiều ưu điểm nổi bật so với những món quà thông thường khác như sự sang trọng, lịch sự, độc đáo; giỏ trái cây an toàn cho sức khỏe; Ý nghĩa thiết thực; Trái cây được lựa chọn kỹ lưỡng, có nguồn gốc rõ ràng, đảm bảo chất lượng.</strong></p><p><strong>Chọn những hoa quả sạch cho gia đình hay làm quà tặng do đó được nhiều người ưa chuộng, chọn làm quà biếu tặng trong dịp lễ, Tết. Đây còn là lời chúc sức khỏe thiết thực nhất, có sức khỏe là có tất cả. Bên cạnh đó,&nbsp;giỏ trái cây quà tặng</strong>&nbsp;còn thể hiện sự đầy đủ, sung túc, màu sắc các loại quả hòa quyện với nhau thể hiện tính âm dương hài hòa, là lời chúc cho cuộc sống của người nhận luôn an khang thịnh vượng.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/5ddc67fb-58cd-41fb-85c9-15ff08ac5d8c.jpg",
+    "price": 950000,
+    "oldPrice": 1100000,
+    "discountPercent": 14,
+    "stock": 192000,
+    "totalSold": 43,
+    "maxQuantityPerUser": null,
+    "unit": "Giỏ",
+    "sku": "",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+    "category": {
+      "id": 83,
+      "name": "Giỏ quà",
+      "imageUrl": "https://images.f99.com.vn/notification-images/a74dc1e4-98f8-4fd9-9819-30821278494a.png",
+      "parentId": 126,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "dừa"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/5ddc67fb-58cd-41fb-85c9-15ff08ac5d8c.jpg",
+      "https://images.f99.com.vn/images/14c165e2-af95-40aa-ba23-2ce59fb03e3c.jpg",
+      "https://images.f99.com.vn/images/21ee78fb-10df-4e33-a676-87c0f95cec83.jpg",
+      "https://images.f99.com.vn/images/d0331e49-fc34-43fc-a819-67a351404112.jpg",
+      "https://images.f99.com.vn/images/1a7d4124-3fd5-40d8-ade0-981769611ef3.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/11686",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Giỏ"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 62314,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Giỏ",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Giỏ",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Giỏ",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 950000,
+        "oldPrice": 1100000,
+        "discountPercent": 14,
+        "stock": 192000,
+        "totalSold": 43,
+        "unit": "Giỏ",
+        "sku": "",
+        "rating": 5,
+        "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Giỏ"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 11690,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Giỏ Quà Hoa Quả Nhập Khẩu",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong>Giỏ Quà Tết tại Apple Fruit là cầu nối vô hình giúp kết nối tình thân thêm gắn kết. Bênh cạnh đó là giá trị hữu hình tương ứng với túi tiền bạn bỏ ra.</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tặng thiệp</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tặng nơ</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tặng bảng nametag</strong></p><p><strong>Giá ưu đãi cho Doanh Nghiệp</strong></p><p><strong>Xuất hóa đơn VAT 10%, Giá bán là giá chưa bao gồm thuế</strong></p><p><strong>Giỏ quà tết đẹp với thành phần là các sản phẩm nhập khẩu cao cấp, cùng hàng trăm lựa chọn khác nhau cho mọi nhu cầu quà tết của doanh nghiệp. Các mẫu đều được thiết kế đẹp mắt, sản phẩm được lựa chọn cẩn thận từ chất lượng đến kiểu dáng. </strong></p><p><strong>Tất cả các giỏ quà tết đều được đóng gói cẩn thận, bọc màng co hút chân không và gắn nơ trang trí ở bên ngoài.</strong></p><h2><strong>Hãy xem và lựa chọn những&nbsp;món quà tuyệt vời bạn nhé!</strong></h2>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/769c7fff-fa5d-4567-9ca5-190d536b741d.jpg\",\"https://images.f99.com.vn/images/c3d1ad45-3b5e-42ca-bc96-04216fcbd1bd.jpg\",\"https://images.f99.com.vn/images/441a8dd8-3f1d-4475-be3b-2d242c101a0b.jpg\",\"https://images.f99.com.vn/images/a910446c-0afd-44fe-872b-3ce5f25b1489.jpg\",\"https://images.f99.com.vn/images/2ae8bc7a-3780-4ffe-bcee-3991a6a0313f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Giỏ Quà Hoa Quả Nhập Khẩu",
+    "description": "<p><strong>Giỏ Quà Tết tại Apple Fruit là cầu nối vô hình giúp kết nối tình thân thêm gắn kết. Bênh cạnh đó là giá trị hữu hình tương ứng với túi tiền bạn bỏ ra.</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tặng thiệp</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tặng nơ</strong></p><p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tặng bảng nametag</strong></p><p><strong>Giá ưu đãi cho Doanh Nghiệp</strong></p><p><strong>Xuất hóa đơn VAT 10%, Giá bán là giá chưa bao gồm thuế</strong></p><p><strong>Giỏ quà tết đẹp với thành phần là các sản phẩm nhập khẩu cao cấp, cùng hàng trăm lựa chọn khác nhau cho mọi nhu cầu quà tết của doanh nghiệp. Các mẫu đều được thiết kế đẹp mắt, sản phẩm được lựa chọn cẩn thận từ chất lượng đến kiểu dáng. </strong></p><p><strong>Tất cả các giỏ quà tết đều được đóng gói cẩn thận, bọc màng co hút chân không và gắn nơ trang trí ở bên ngoài.</strong></p><h2><strong>Hãy xem và lựa chọn những&nbsp;món quà tuyệt vời bạn nhé!</strong></h2>",
+    "imageUrl": "https://images.f99.com.vn/images/769c7fff-fa5d-4567-9ca5-190d536b741d.jpg",
+    "price": 990000,
+    "oldPrice": 1250000,
+    "discountPercent": 21,
+    "stock": 24000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Giỏ",
+    "sku": "Sau",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+    "category": {
+      "id": 83,
+      "name": "Giỏ quà",
+      "imageUrl": "https://images.f99.com.vn/notification-images/a74dc1e4-98f8-4fd9-9819-30821278494a.png",
+      "parentId": 126,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/769c7fff-fa5d-4567-9ca5-190d536b741d.jpg",
+      "https://images.f99.com.vn/images/c3d1ad45-3b5e-42ca-bc96-04216fcbd1bd.jpg",
+      "https://images.f99.com.vn/images/441a8dd8-3f1d-4475-be3b-2d242c101a0b.jpg",
+      "https://images.f99.com.vn/images/a910446c-0afd-44fe-872b-3ce5f25b1489.jpg",
+      "https://images.f99.com.vn/images/2ae8bc7a-3780-4ffe-bcee-3991a6a0313f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/11690",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Giỏ"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 86512,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Giỏ",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Giỏ",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Giỏ",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 990000,
+        "oldPrice": 1250000,
+        "discountPercent": 21,
+        "stock": 24000,
+        "totalSold": 0,
+        "unit": "Giỏ",
+        "sku": "Sau",
+        "rating": 5,
+        "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Giỏ"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 12629,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Giỏ Trái Cây Nhập Khẩu ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Giỏ trái cây tại Apple Fruit là cầu nối vô hình giúp kết nối tình thân thêm gắn kết. Bênh cạnh đó là giá trị hữu hình tương ứng với túi tiền bạn bỏ ra.</p><ul><li>Tặng thiệp</li><li>Tặng nơ</li></ul><p>100% là trái cây sạch nhập khẩu đạt chuẩn organic, thực phẩm hữu cơ, trái cây loại 1</p><h4>Thành phần có trong giỏ quà:</h4><ul><li>11 cam vàng Mỹ, Úc Premium dòng Sweet</li><li>Giỏ cạp mây</li><li>Nơ và vật dụng trang trí</li></ul><p><strong>Lợi ích khi chọn giỏ trái cây làm quà tặng</strong></p><p><strong>Tặng giỏ trái cây cho bạn bè, người thân, đối tác thực sự rất phù hợp vì đây là món quà không chỉ thể hiện thông điệp yêu thương chân thành với người nhận mà còn là món quà có ý nghĩa thiết thực cho sức khỏe.</strong></p><p><strong>Trái cây là thực phẩm rất tốt cho sức khỏe, bổ sung nhiều vitamin, dưỡng chất, cung cấp năng lượng cho con người. Ngoài ra, quà tặng là giỏ trái cây rất thân thiện với môi trường, góp phần bảo vệ môi trường tự nhiên.</strong></p><p><strong>Giỏ trái cây có nhiều ưu điểm nổi bật so với những món quà thông thường khác như sự sang trọng, lịch sự, độc đáo; giỏ trái cây an toàn cho sức khỏe; Ý nghĩa thiết thực; Trái cây được lựa chọn kỹ lưỡng, có nguồn gốc rõ ràng, đảm bảo chất lượng.</strong></p><p><strong>Chọn những hoa quả sạch cho gia đình hay làm quà tặng do đó được nhiều người ưa chuộng, chọn làm quà biếu tặng trong dịp lễ, Tết. Đây còn là lời chúc sức khỏe thiết thực nhất, có sức khỏe là có tất cả. Bên cạnh đó,&nbsp;giỏ trái cây quà tặng</strong>&nbsp;còn thể hiện sự đầy đủ, sung túc, màu sắc các loại quả hòa quyện với nhau thể hiện tính âm dương hài hòa, là lời chúc cho cuộc sống của người nhận luôn an khang thịnh vượng.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/5222bbbf-6ea9-40e9-a358-ffae90ddb394.jpg\",\"https://images.f99.com.vn/images/2ea5315c-abfb-4ffb-8383-f81bd3ea13cb.jpg\",\"https://images.f99.com.vn/images/65d1daae-92ef-4293-a929-e578c79dea62.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"apple Fruit\",\"giỏ quà tết\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Giỏ Trái Cây Nhập Khẩu ",
+    "description": "<p>Giỏ trái cây tại Apple Fruit là cầu nối vô hình giúp kết nối tình thân thêm gắn kết. Bênh cạnh đó là giá trị hữu hình tương ứng với túi tiền bạn bỏ ra.</p><ul><li>Tặng thiệp</li><li>Tặng nơ</li></ul><p>100% là trái cây sạch nhập khẩu đạt chuẩn organic, thực phẩm hữu cơ, trái cây loại 1</p><h4>Thành phần có trong giỏ quà:</h4><ul><li>11 cam vàng Mỹ, Úc Premium dòng Sweet</li><li>Giỏ cạp mây</li><li>Nơ và vật dụng trang trí</li></ul><p><strong>Lợi ích khi chọn giỏ trái cây làm quà tặng</strong></p><p><strong>Tặng giỏ trái cây cho bạn bè, người thân, đối tác thực sự rất phù hợp vì đây là món quà không chỉ thể hiện thông điệp yêu thương chân thành với người nhận mà còn là món quà có ý nghĩa thiết thực cho sức khỏe.</strong></p><p><strong>Trái cây là thực phẩm rất tốt cho sức khỏe, bổ sung nhiều vitamin, dưỡng chất, cung cấp năng lượng cho con người. Ngoài ra, quà tặng là giỏ trái cây rất thân thiện với môi trường, góp phần bảo vệ môi trường tự nhiên.</strong></p><p><strong>Giỏ trái cây có nhiều ưu điểm nổi bật so với những món quà thông thường khác như sự sang trọng, lịch sự, độc đáo; giỏ trái cây an toàn cho sức khỏe; Ý nghĩa thiết thực; Trái cây được lựa chọn kỹ lưỡng, có nguồn gốc rõ ràng, đảm bảo chất lượng.</strong></p><p><strong>Chọn những hoa quả sạch cho gia đình hay làm quà tặng do đó được nhiều người ưa chuộng, chọn làm quà biếu tặng trong dịp lễ, Tết. Đây còn là lời chúc sức khỏe thiết thực nhất, có sức khỏe là có tất cả. Bên cạnh đó,&nbsp;giỏ trái cây quà tặng</strong>&nbsp;còn thể hiện sự đầy đủ, sung túc, màu sắc các loại quả hòa quyện với nhau thể hiện tính âm dương hài hòa, là lời chúc cho cuộc sống của người nhận luôn an khang thịnh vượng.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/5222bbbf-6ea9-40e9-a358-ffae90ddb394.jpg",
+    "price": 499000,
+    "oldPrice": 599000,
+    "discountPercent": 17,
+    "stock": 8000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Giỏ",
+    "sku": "dua lu?i",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.8,
+    "instructions": null,
+    "category": {
+      "id": 83,
+      "name": "Giỏ quà",
+      "imageUrl": "https://images.f99.com.vn/notification-images/a74dc1e4-98f8-4fd9-9819-30821278494a.png",
+      "parentId": 126,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "apple Fruit",
+      "giỏ quà tết"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/5222bbbf-6ea9-40e9-a358-ffae90ddb394.jpg",
+      "https://images.f99.com.vn/images/2ea5315c-abfb-4ffb-8383-f81bd3ea13cb.jpg",
+      "https://images.f99.com.vn/images/65d1daae-92ef-4293-a929-e578c79dea62.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12629",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Giỏ"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 86502,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Giỏ",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Giỏ",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Giỏ",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 499000,
+        "oldPrice": 599000,
+        "discountPercent": 17,
+        "stock": 8000,
+        "totalSold": 0,
+        "unit": "Giỏ",
+        "sku": "dua lu?i",
+        "rating": 4.8,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Giỏ"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14250,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "GIỎ QUÀ BIẾU TẶNG < 299k",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>GIỎ QUÀ TẶNG TRÁI CÂY NHẬP KHẨU EUS FRUIT</p><p><br></p><p>Với tiêu chí CHẤT LƯỢNG luôn đặt lên hàng đầu, Eus fruit được các quý khách hàng tin tưởng “chọn mặt gửi vàng” khi chọn quà biếu trong những dịp quan trọng.</p><p><br></p><p>“Mùa nào thức nấy” - Tuyển chọn trái cây nhập khẩu tốt nhất từ khắp nơi trên thế giới với độ tươi ngon - an toàn được đảm bảo khắt khe.</p><p><br></p><p>Thiết kế độc đáo, sang trọng</p><p>Giá trị luôn tương xứng với giá tiền</p><p>Giải pháp quà tặng chuyên nghiệp, uy tín được nhiều cá nhân và doanh nghiệp lựa chọn hàng năm với các dịch vụ:</p><p>• Quà tặng khai trương</p><p>• Quà tặng đối tác</p><p>• Quà tặng sinh nhật</p><p>• Quà tặng Tết</p><p>• Quà tặng thăm hỏi người thân</p><p>• Quà tặng dịp 8.3, 20.10, 20.11</p><p>• Giỏ trái cây đi lễ thờ cúng, cưới hỏi - giỗ chạp</p><p><br></p><p>HOA THƠM TRÁI NGỌT - GỬI TRAO TẤM LÒNG</p><p>Giỏ quà trái cây thực sự là một lựa chọn ý nghĩa, vừa thể hiện tấm chân tình lại vừa là món quà sức khỏe an lành dành cho những người thương yêu.</p><p>Mỗi giỏ quà là kết tinh của sản vật tự nhiên cùng sự sáng tạo, khéo léo và tận tâm đến từ đội ngũ nghệ nhân của 𝐄𝐮𝐬 𝐟𝐫𝐮𝐢𝐭</p><p>Đính kèm thiệp sang trọng và hoa tươi gửi gắm những lời chúc ý nghĩa cho những dịp quan trọng</p><p>Lựa chọn đa dạng với mức giá chỉ từ 300.000đ.</p><p>Kết hợp cùng rượu vang cao cấp, thực phẩm nhập khẩu nội địa Âu Mỹ.</p><p>𝐄𝐮𝐬 𝐟𝐫𝐮𝐢𝐭 cũng nhận làm giỏ quà tặng theo yêu cầu và ý tưởng của quý khách.</p><p><br></p><p><br></p><p>Liên hệ 𝐄𝐮𝐬 𝐟𝐫𝐮𝐢𝐭 ngay hôm nay để có những lựa chọn ưng ý nhất cho những dịp đặc biệt bạn nhé!</p><p>----------------------------</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/6f9a0661-ed5b-49c6-8744-abc228a703e1.jpg\",\"https://images.f99.com.vn/images/e442a533-2745-48f6-bbaf-dfe69460e917.jpg\",\"https://images.f99.com.vn/images/f6f4aed8-46f4-4f4b-84df-d622fe1196b0.jpg\",\"https://images.f99.com.vn/images/f2d03acd-de53-44b8-bbd8-e2f1d74fef49.jpg\",\"https://images.f99.com.vn/images/9838e9a1-6d98-4518-b60d-d434b6de91c2.jpg\",\"https://images.f99.com.vn/images/3de6bc5b-f410-41c3-88fd-1f1e63c4db80.jpg\",\"https://images.f99.com.vn/images/3442df53-11ec-4a4a-a947-4420a0db967d.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "GIỎ QUÀ BIẾU TẶNG < 299k",
+    "description": "<p>GIỎ QUÀ TẶNG TRÁI CÂY NHẬP KHẨU EUS FRUIT</p><p><br></p><p>Với tiêu chí CHẤT LƯỢNG luôn đặt lên hàng đầu, Eus fruit được các quý khách hàng tin tưởng “chọn mặt gửi vàng” khi chọn quà biếu trong những dịp quan trọng.</p><p><br></p><p>“Mùa nào thức nấy” - Tuyển chọn trái cây nhập khẩu tốt nhất từ khắp nơi trên thế giới với độ tươi ngon - an toàn được đảm bảo khắt khe.</p><p><br></p><p>Thiết kế độc đáo, sang trọng</p><p>Giá trị luôn tương xứng với giá tiền</p><p>Giải pháp quà tặng chuyên nghiệp, uy tín được nhiều cá nhân và doanh nghiệp lựa chọn hàng năm với các dịch vụ:</p><p>• Quà tặng khai trương</p><p>• Quà tặng đối tác</p><p>• Quà tặng sinh nhật</p><p>• Quà tặng Tết</p><p>• Quà tặng thăm hỏi người thân</p><p>• Quà tặng dịp 8.3, 20.10, 20.11</p><p>• Giỏ trái cây đi lễ thờ cúng, cưới hỏi - giỗ chạp</p><p><br></p><p>HOA THƠM TRÁI NGỌT - GỬI TRAO TẤM LÒNG</p><p>Giỏ quà trái cây thực sự là một lựa chọn ý nghĩa, vừa thể hiện tấm chân tình lại vừa là món quà sức khỏe an lành dành cho những người thương yêu.</p><p>Mỗi giỏ quà là kết tinh của sản vật tự nhiên cùng sự sáng tạo, khéo léo và tận tâm đến từ đội ngũ nghệ nhân của 𝐄𝐮𝐬 𝐟𝐫𝐮𝐢𝐭</p><p>Đính kèm thiệp sang trọng và hoa tươi gửi gắm những lời chúc ý nghĩa cho những dịp quan trọng</p><p>Lựa chọn đa dạng với mức giá chỉ từ 300.000đ.</p><p>Kết hợp cùng rượu vang cao cấp, thực phẩm nhập khẩu nội địa Âu Mỹ.</p><p>𝐄𝐮𝐬 𝐟𝐫𝐮𝐢𝐭 cũng nhận làm giỏ quà tặng theo yêu cầu và ý tưởng của quý khách.</p><p><br></p><p><br></p><p>Liên hệ 𝐄𝐮𝐬 𝐟𝐫𝐮𝐢𝐭 ngay hôm nay để có những lựa chọn ưng ý nhất cho những dịp đặc biệt bạn nhé!</p><p>----------------------------</p>",
+    "imageUrl": "https://images.f99.com.vn/images/6f9a0661-ed5b-49c6-8744-abc228a703e1.jpg",
+    "price": 299000,
+    "oldPrice": 479000,
+    "discountPercent": 38,
+    "stock": 50,
+    "totalSold": 25,
+    "maxQuantityPerUser": null,
+    "unit": "GIỎ",
+    "sku": "",
+    "origin": "",
+    "sellerId": 194,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": null,
+    "category": {
+      "id": 83,
+      "name": "Giỏ quà",
+      "imageUrl": "https://images.f99.com.vn/notification-images/a74dc1e4-98f8-4fd9-9819-30821278494a.png",
+      "parentId": 126,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/6f9a0661-ed5b-49c6-8744-abc228a703e1.jpg",
+      "https://images.f99.com.vn/images/e442a533-2745-48f6-bbaf-dfe69460e917.jpg",
+      "https://images.f99.com.vn/images/f6f4aed8-46f4-4f4b-84df-d622fe1196b0.jpg",
+      "https://images.f99.com.vn/images/f2d03acd-de53-44b8-bbd8-e2f1d74fef49.jpg",
+      "https://images.f99.com.vn/images/9838e9a1-6d98-4518-b60d-d434b6de91c2.jpg",
+      "https://images.f99.com.vn/images/3de6bc5b-f410-41c3-88fd-1f1e63c4db80.jpg",
+      "https://images.f99.com.vn/images/3442df53-11ec-4a4a-a947-4420a0db967d.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14250",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 194,
+      "sellerRate": 4.4,
+      "sellerName": "EUS Fruit 482 Minh Khai",
+      "warehouseId": "bd652138-f1d1-48df-9992-f5be14f3ae95",
+      "warehouseAddress": "482 Minh Khai, Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "distance": 4774,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 76.79195497267878,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14252,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "GIỎ QUÀ BIẾU TẶNG < 1349K",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>GIỎ QUÀ TẶNG TRÁI CÂY NHẬP KHẨU EUS FRUIT 482 MINH KHAI</p><p><br></p><p>Với tiêu chí CHẤT LƯỢNG luôn đặt lên hàng đầu, EUS FRUIT 482 MINH KHAI được các quý khách hàng tin tưởng “chọn mặt gửi vàng” khi chọn quà biếu trong những dịp quan trọng.</p><p><br></p><p>“Mùa nào thức nấy” - Tuyển chọn trái cây nhập khẩu tốt nhất từ khắp nơi trên thế giới với độ tươi ngon - an toàn được đảm bảo khắt khe.</p><p><br></p><p>Thiết kế độc đáo, sang trọng</p><p>Giá trị luôn tương xứng với giá tiền</p><p>Giải pháp quà tặng chuyên nghiệp, uy tín được nhiều cá nhân và doanh nghiệp lựa chọn hàng năm với các dịch vụ:</p><p>• Quà tặng khai trương</p><p>• Quà tặng đối tác</p><p>• Quà tặng sinh nhật</p><p>• Quà tặng Tết</p><p>• Quà tặng thăm hỏi người thân</p><p>• Quà tặng dịp 8.3, 20.10, 20.11</p><p>• Giỏ trái cây đi lễ thờ cúng, cưới hỏi - giỗ chạp</p><p><br></p><p>HOA THƠM TRÁI NGỌT - GỬI TRAO TẤM LÒNG</p><p>Giỏ quà trái cây thực sự là một lựa chọn ý nghĩa, vừa thể hiện tấm chân tình lại vừa là món quà sức khỏe an lành dành cho những người thương yêu.</p><p>Mỗi giỏ quà là kết tinh của sản vật tự nhiên cùng sự sáng tạo, khéo léo và tận tâm đến từ đội ngũ nghệ nhân của EUS FRUIT 482 MINH KHAI</p><p>Đính kèm thiệp sang trọng và hoa tươi gửi gắm những lời chúc ý nghĩa cho những dịp quan trọng</p><p>Lựa chọn đa dạng với mức giá chỉ từ 300.000đ.</p><p>Kết hợp cùng rượu vang cao cấp, thực phẩm nhập khẩu nội địa Âu Mỹ.</p><p>EUS FRUIT 482 MINH KHAI cũng nhận làm giỏ quà tặng theo yêu cầu và ý tưởng của quý khách.</p><p><br></p><p><br></p><p>Liên hệ ngaEUS FRUIT 482 MINH KHAI hôm nay để có những lựa chọn ưng ý nhất cho những dịp đặc biệt bạn nhé!</p><p>----------------------------GIỎ QUÀ TẶNG TRÁI CÂY NHẬP KHẨU EUS FRUIT</p><p><br></p><p>Với tiêu chí CHẤT LƯỢNG luôn đặt lên hàng đầu, Eus fruit được các quý khách hàng tin tưởng “chọn mặt gửi vàng” khi chọn quà biếu trong những dịp quan trọng.</p><p><br></p><p>“Mùa nào thức nấy” - Tuyển chọn trái GIỎ QUÀ TẶNG TRÁI CÂY NHẬP KHẨU EUS FRUIT</p><p><br></p><p>Với tiêu chí CHẤT LƯỢNG luôn đặt lên hàng đầu, Eus fruit được các quý khách hàng tin tưởng “chọn mặt gửi vàng” khi chọn quà biếu trong những dịp quan trọng.</p><p><br></p><p>“Mùa nào thức nấy” - Tuyển chọn trái cây nhập khẩu tốt nhất từ khắp nơi</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/ebe2df10-dbb9-4abd-9480-990d155ca898.jpg\",\"https://images.f99.com.vn/images/234a7e23-73bb-4a17-96c2-08991338fef5.png\",\"https://images.f99.com.vn/images/c3a438c2-6826-474b-b7dd-54e098777c40.jpg\",\"https://images.f99.com.vn/images/44425db8-a83a-4dd5-a618-122e65777374.jpg\",\"https://images.f99.com.vn/images/e660e162-a7ae-4a93-ba96-ba371e006c5a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "GIỎ QUÀ BIẾU TẶNG < 1349K",
+    "description": "<p>GIỎ QUÀ TẶNG TRÁI CÂY NHẬP KHẨU EUS FRUIT 482 MINH KHAI</p><p><br></p><p>Với tiêu chí CHẤT LƯỢNG luôn đặt lên hàng đầu, EUS FRUIT 482 MINH KHAI được các quý khách hàng tin tưởng “chọn mặt gửi vàng” khi chọn quà biếu trong những dịp quan trọng.</p><p><br></p><p>“Mùa nào thức nấy” - Tuyển chọn trái cây nhập khẩu tốt nhất từ khắp nơi trên thế giới với độ tươi ngon - an toàn được đảm bảo khắt khe.</p><p><br></p><p>Thiết kế độc đáo, sang trọng</p><p>Giá trị luôn tương xứng với giá tiền</p><p>Giải pháp quà tặng chuyên nghiệp, uy tín được nhiều cá nhân và doanh nghiệp lựa chọn hàng năm với các dịch vụ:</p><p>• Quà tặng khai trương</p><p>• Quà tặng đối tác</p><p>• Quà tặng sinh nhật</p><p>• Quà tặng Tết</p><p>• Quà tặng thăm hỏi người thân</p><p>• Quà tặng dịp 8.3, 20.10, 20.11</p><p>• Giỏ trái cây đi lễ thờ cúng, cưới hỏi - giỗ chạp</p><p><br></p><p>HOA THƠM TRÁI NGỌT - GỬI TRAO TẤM LÒNG</p><p>Giỏ quà trái cây thực sự là một lựa chọn ý nghĩa, vừa thể hiện tấm chân tình lại vừa là món quà sức khỏe an lành dành cho những người thương yêu.</p><p>Mỗi giỏ quà là kết tinh của sản vật tự nhiên cùng sự sáng tạo, khéo léo và tận tâm đến từ đội ngũ nghệ nhân của EUS FRUIT 482 MINH KHAI</p><p>Đính kèm thiệp sang trọng và hoa tươi gửi gắm những lời chúc ý nghĩa cho những dịp quan trọng</p><p>Lựa chọn đa dạng với mức giá chỉ từ 300.000đ.</p><p>Kết hợp cùng rượu vang cao cấp, thực phẩm nhập khẩu nội địa Âu Mỹ.</p><p>EUS FRUIT 482 MINH KHAI cũng nhận làm giỏ quà tặng theo yêu cầu và ý tưởng của quý khách.</p><p><br></p><p><br></p><p>Liên hệ ngaEUS FRUIT 482 MINH KHAI hôm nay để có những lựa chọn ưng ý nhất cho những dịp đặc biệt bạn nhé!</p><p>----------------------------GIỎ QUÀ TẶNG TRÁI CÂY NHẬP KHẨU EUS FRUIT</p><p><br></p><p>Với tiêu chí CHẤT LƯỢNG luôn đặt lên hàng đầu, Eus fruit được các quý khách hàng tin tưởng “chọn mặt gửi vàng” khi chọn quà biếu trong những dịp quan trọng.</p><p><br></p><p>“Mùa nào thức nấy” - Tuyển chọn trái GIỎ QUÀ TẶNG TRÁI CÂY NHẬP KHẨU EUS FRUIT</p><p><br></p><p>Với tiêu chí CHẤT LƯỢNG luôn đặt lên hàng đầu, Eus fruit được các quý khách hàng tin tưởng “chọn mặt gửi vàng” khi chọn quà biếu trong những dịp quan trọng.</p><p><br></p><p>“Mùa nào thức nấy” - Tuyển chọn trái cây nhập khẩu tốt nhất từ khắp nơi</p>",
+    "imageUrl": "https://images.f99.com.vn/images/ebe2df10-dbb9-4abd-9480-990d155ca898.jpg",
+    "price": 1349000,
+    "oldPrice": 1500000,
+    "discountPercent": 10,
+    "stock": 59,
+    "totalSold": 105,
+    "maxQuantityPerUser": null,
+    "unit": "KHAY",
+    "sku": "",
+    "origin": "",
+    "sellerId": 194,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 43,
+    "instructions": "",
+    "category": {
+      "id": 83,
+      "name": "Giỏ quà",
+      "imageUrl": "https://images.f99.com.vn/notification-images/a74dc1e4-98f8-4fd9-9819-30821278494a.png",
+      "parentId": 126,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/ebe2df10-dbb9-4abd-9480-990d155ca898.jpg",
+      "https://images.f99.com.vn/images/234a7e23-73bb-4a17-96c2-08991338fef5.png",
+      "https://images.f99.com.vn/images/c3a438c2-6826-474b-b7dd-54e098777c40.jpg",
+      "https://images.f99.com.vn/images/44425db8-a83a-4dd5-a618-122e65777374.jpg",
+      "https://images.f99.com.vn/images/e660e162-a7ae-4a93-ba96-ba371e006c5a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14252",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 194,
+      "sellerRate": 4.4,
+      "sellerName": "EUS Fruit 482 Minh Khai",
+      "warehouseId": "bd652138-f1d1-48df-9992-f5be14f3ae95",
+      "warehouseAddress": "482 Minh Khai, Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+      "distance": 4774,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 76.79195497267878,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": 725,
+  "name": "Godiet Salad",
+  "logo": "https://cdn.f99.link/groupbuy-images/b3585b79-88b8-40af-a0a4-260528ecdfa1.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Godiet - Salad là bữa ăn được chuẩn bị theo chuẩn Low-Gi diet và đảm bảo rằng ăn rồi bạn sẽ chẳng muốn tìm hàng nào salad khác đâu !!!\nChúng tôi mang lại các bữa ăn Healthy theo chuẩn chế độ Low GI Diet, đảm bảo cho sức khỏe , giảm mỡ thừa và đặc biệt rất ngon và đẹp.",
+  "headQuarter": "Số 54A, ngõ 255 Cầu Giấy, Quan Hoa, Cầu Giấy, Hà Nội",
+  "email": "godietvn@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "10:00",
+    "closeTime": "16:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

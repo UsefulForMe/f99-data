@@ -1,0 +1,35 @@
+{
+  "id": 861,
+  "name": "Fresh Fruit Khả Hân - Trái cây sạch Organic",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/6b263734-dc89-404e-ba05-7045a8e41fc1.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp sỉ lẻ trái cây nội địa và nhập khẩu",
+  "headQuarter": "125/101/15 Đinh Tiên Hoàng, 3, Bình Thạnh, Hồ Chí Minh",
+  "email": "Sangngoc0506@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "23:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

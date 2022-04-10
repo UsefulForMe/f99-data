@@ -1,0 +1,35 @@
+{
+  "id": 98,
+  "name": "Ngọt Fruits",
+  "logo": "https://cdn.f99.link/groupbuy-images/57154bac-b3fe-4644-8241-3edfc0c44df3.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên trái cây nhập khẩu đảm bảo nguồn gốc xuất sứ, tươi ngon ngọt.",
+  "headQuarter": "64 Đoàn Thị Điểm, Phường.Quốc Tử Giám, Quận Đống Đa, Hà Nội, Quốc Tử Giám, Đống Đa, Hà Nội",
+  "email": "trang.idea@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 2
+}

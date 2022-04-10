@@ -1,0 +1,35 @@
+{
+  "id": 957,
+  "name": "Gà ủ muối tiêu Quan Nhân",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/fa07969d-aabb-412f-8c91-1e4012a65b49.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp các mặt hàng được bao gói sẵn",
+  "headQuarter": "26 Quan Nhân, Trung Hòa, Cầu Giấy, Hà Nội",
+  "email": "Tranphuong.quocthai@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.4,
+  "availableTime": {
+    "openTime": "07:00",
+    "closeTime": "22:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 16
+}

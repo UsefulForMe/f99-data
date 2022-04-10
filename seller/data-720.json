@@ -1,0 +1,35 @@
+{
+  "id": 720,
+  "name": "BẾP NHÀ CHI",
+  "logo": "https://cdn.f99.link/groupbuy-images/e692a027-6e92-4dca-9b6f-8ffa0b39b7b5.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cung cấp các loại khô, cá khô và thực phẩm ngon chất lượng hợp vệ sinh an toàn thưc phẩm",
+  "headQuarter": "45/28A Dương Bá Trạc, 1, Quận 8, Hồ Chí Minh",
+  "email": "linhchior@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

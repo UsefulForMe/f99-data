@@ -1,0 +1,35 @@
+{
+  "id": 342,
+  "name": "HC Bakery",
+  "logo": "https://cdn.f99.link/groupbuy-images/94727480-128b-4499-bb14-fc991ed080e4.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "HC Bakery chuyên nước ép hoa quả nguyên chất, socola Việt Nam cao cấp, các loại bánh ngọt tươi.",
+  "headQuarter": "293 Đội Cấn, Liễu Giai, Ba Đình, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

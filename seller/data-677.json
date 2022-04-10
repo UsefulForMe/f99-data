@@ -1,0 +1,35 @@
+{
+  "id": 677,
+  "name": "Bmmart Store",
+  "logo": "https://cdn.f99.link/groupbuy-images/242f07b8-f8cf-4f48-8235-095ad83109c5.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cửa hàng phục vụ xuyên suốt 24/7",
+  "headQuarter": "226/3 Minh Phụng, 6, Quận 6, Hồ Chí Minh",
+  "email": "bmmart.cskh@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "23:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

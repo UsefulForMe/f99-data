@@ -1,0 +1,35 @@
+{
+  "id": 91,
+  "name": "OVER FOOD",
+  "logo": "https://cdn.f99.link/groupbuy-images/8849156f-5190-43a5-8d1a-4ce6ef826f58.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cung cấp bán buôn, bán lẻ trái cây nhập khẩu và đặc sản nội địa uy tín.  Sản phẩm đồ sấy khô, trà hoa theo công nghệ sấy lạnh khép kín an toàn VSTP.",
+  "headQuarter": "15 Nguyễn Khang,Trung Hoà,Cầu Giấy,Hà Nội, Trung Hòa, Cầu Giấy, Hà Nội",
+  "email": "hanh.lhng@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "19:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

@@ -1,0 +1,35 @@
+{
+  "id": 602,
+  "name": "To-Market",
+  "logo": "https://cdn.f99.link/groupbuy-images/c7069aaa-0fe9-4c65-a3d7-57d9f35be6e7.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "To-Market chuyên cung cấp các mặt hàng trà, đồ uống và  nông sản sạch. Liên hệ: 0913810586",
+  "headQuarter": "Gemmek tower 2, Lê Trọng Tấn, An Khánh, Hoài Đức, Hà Nội",
+  "email": "anhtt.hanoi@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.3,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "23:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 6
+}

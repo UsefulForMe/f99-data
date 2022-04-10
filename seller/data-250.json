@@ -1,0 +1,35 @@
+{
+  "id": 250,
+  "name": "Fresh Meat – Thịt Heo Sạch",
+  "logo": "https://cdn.f99.link/groupbuy-images/a91dab0d-60f6-4e5b-828b-99a6f594477b.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Fresh Meat - Thịt Heo Sạch : Chuyên cung cấp  phân phối các sản phẩm thịt sạch, tự nhiên, nuôi dân dã, hữu cơ, đảm bảo chất lượng, khối lượng.\n",
+  "headQuarter": "123A Bùi Xương Trạch, Khương Đình, Thanh Xuân, Hà Nội ",
+  "email": "",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.7,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 348
+}

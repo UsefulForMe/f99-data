@@ -1,0 +1,4085 @@
+[
+  {
+    "id": 3799,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mít Thái ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/338962f3-68a4-4832-943d-003be9c17390.jpg\"><img src=\"https://images.f99.com.vn/images/ce009ce0-1091-4bc0-9fcf-a37b3e1b8d06.png\"><img src=\"https://images.f99.com.vn/images/4aa4d06e-627e-40ac-93b2-972dcb6964f9.png\"><img src=\"https://images.f99.com.vn/images/313a45ab-527a-4b72-91b2-83ac0062cd7e.png\"><img src=\"https://images.f99.com.vn/images/892afdc4-eff4-4e72-851d-c2dbf027f527.jpg\"><img src=\"https://images.f99.com.vn/images/d7fa717d-eee7-4dbe-9c04-026013170818.png\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/215d480d-d390-424f-8e89-49737374b7bb.png\",\"https://images.f99.com.vn/images/f288e509-1c30-4289-8471-a78a129fab0b.png\",\"https://images.f99.com.vn/images/6ff170ff-5258-4c07-aa3f-ff1aa3b4930f.jpg\",\"https://images.f99.com.vn/images/212d1f80-be37-47cc-9452-e4f5717def2d.jpg\",\"https://images.f99.com.vn/images/2867b648-fa8c-41c7-bf15-eb267a6816d1.jpg\",\"https://images.f99.com.vn/images/fb7142f9-6414-4e76-9132-fc23ef0cf663.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mít Thái ",
+    "description": "<p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/338962f3-68a4-4832-943d-003be9c17390.jpg\"><img src=\"https://images.f99.com.vn/images/ce009ce0-1091-4bc0-9fcf-a37b3e1b8d06.png\"><img src=\"https://images.f99.com.vn/images/4aa4d06e-627e-40ac-93b2-972dcb6964f9.png\"><img src=\"https://images.f99.com.vn/images/313a45ab-527a-4b72-91b2-83ac0062cd7e.png\"><img src=\"https://images.f99.com.vn/images/892afdc4-eff4-4e72-851d-c2dbf027f527.jpg\"><img src=\"https://images.f99.com.vn/images/d7fa717d-eee7-4dbe-9c04-026013170818.png\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/215d480d-d390-424f-8e89-49737374b7bb.png",
+    "price": 22900,
+    "oldPrice": 39900,
+    "discountPercent": 43,
+    "stock": 105,
+    "totalSold": 1470,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "20001072",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.9,
+    "instructions": null,
+    "category": {
+      "id": 61,
+      "name": "Mít",
+      "imageUrl": "https://imgur.com/CgKUSPx.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/215d480d-d390-424f-8e89-49737374b7bb.png",
+      "https://images.f99.com.vn/images/f288e509-1c30-4289-8471-a78a129fab0b.png",
+      "https://images.f99.com.vn/images/6ff170ff-5258-4c07-aa3f-ff1aa3b4930f.jpg",
+      "https://images.f99.com.vn/images/212d1f80-be37-47cc-9452-e4f5717def2d.jpg",
+      "https://images.f99.com.vn/images/2867b648-fa8c-41c7-bf15-eb267a6816d1.jpg",
+      "https://images.f99.com.vn/images/fb7142f9-6414-4e76-9132-fc23ef0cf663.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/3799",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 4871,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 22900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 105,
+        "totalSold": 1470,
+        "unit": "Kg",
+        "sku": "20001072",
+        "rating": 4.9,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 6794,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mít Thái Cắt Miếng",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(0, 0, 0);\">Mít thái xanh vào mùa thu hoạch</span></p><p class=\"ql-align-justify\">Quả mít thái chín có múi to, vỏ ngoài mỏng, cơm mít dầy và hạt rất nhỏ, mít chín có mùi rất thơm và ngọt. Ngoài ra, ăn mít thái còn rất có lợi cho sức khỏe, giúp cung cấp hàm lượng canxi cao, kali và các loại vitamin A, vitamin C… có lợi cho sức khỏe của bạn.</p><h2 class=\"ql-align-justify\"><strong>Đặc điểm mít thái</strong></h2><p class=\"ql-align-justify\">Mít thái được rất nhiều người ưa thích. Đặc điểm của mít thái là năng suất và chất lượng cao, phù hợp với các loại đất đồi. Đặc biệt thời gian thu hoạch nhanh, múi dầy thịt hồng đậm, ít xơ, ăn vị ngọt và mùi thơm đặc trưng.</p><p><img src=\"https://images.f99.com.vn/images/c1bf9837-f3cb-4fd8-9c29-f38e3972397b.jpg\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/3ee980bb-938c-4ff3-a91c-8622f57723ec.jpg\",\"https://images.f99.com.vn/images/7d9e5afb-6e37-46d3-9543-04e06dd95c2b.jpg\",\"https://images.f99.com.vn/images/23ce66d4-b3a9-4029-a972-9efeae49ed34.jpg\",\"https://images.f99.com.vn/images/7c49e630-6517-4850-904a-85e4a3f94788.jpg\",\"https://images.f99.com.vn/images/2a68a5c9-34cb-47aa-a717-c9c72c1d193f.jpg\",\"https://images.f99.com.vn/images/2a61544c-629f-4dec-9aa9-0cef28832d17.jpg\",\"https://images.f99.com.vn/images/855141f1-6c1a-4f1a-af73-f83b58fb1eb1.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mít Thái Cắt Miếng",
+    "description": "<p><span style=\"color: rgb(0, 0, 0);\">Mít thái xanh vào mùa thu hoạch</span></p><p class=\"ql-align-justify\">Quả mít thái chín có múi to, vỏ ngoài mỏng, cơm mít dầy và hạt rất nhỏ, mít chín có mùi rất thơm và ngọt. Ngoài ra, ăn mít thái còn rất có lợi cho sức khỏe, giúp cung cấp hàm lượng canxi cao, kali và các loại vitamin A, vitamin C… có lợi cho sức khỏe của bạn.</p><h2 class=\"ql-align-justify\"><strong>Đặc điểm mít thái</strong></h2><p class=\"ql-align-justify\">Mít thái được rất nhiều người ưa thích. Đặc điểm của mít thái là năng suất và chất lượng cao, phù hợp với các loại đất đồi. Đặc biệt thời gian thu hoạch nhanh, múi dầy thịt hồng đậm, ít xơ, ăn vị ngọt và mùi thơm đặc trưng.</p><p><img src=\"https://images.f99.com.vn/images/c1bf9837-f3cb-4fd8-9c29-f38e3972397b.jpg\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/3ee980bb-938c-4ff3-a91c-8622f57723ec.jpg",
+    "price": 19900,
+    "oldPrice": 35000,
+    "discountPercent": 43,
+    "stock": 108000,
+    "totalSold": 83,
+    "maxQuantityPerUser": null,
+    "unit": "kg ",
+    "sku": "Mit",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": null,
+    "category": {
+      "id": 61,
+      "name": "Mít",
+      "imageUrl": "https://imgur.com/CgKUSPx.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/3ee980bb-938c-4ff3-a91c-8622f57723ec.jpg",
+      "https://images.f99.com.vn/images/7d9e5afb-6e37-46d3-9543-04e06dd95c2b.jpg",
+      "https://images.f99.com.vn/images/23ce66d4-b3a9-4029-a972-9efeae49ed34.jpg",
+      "https://images.f99.com.vn/images/7c49e630-6517-4850-904a-85e4a3f94788.jpg",
+      "https://images.f99.com.vn/images/2a68a5c9-34cb-47aa-a717-c9c72c1d193f.jpg",
+      "https://images.f99.com.vn/images/2a61544c-629f-4dec-9aa9-0cef28832d17.jpg",
+      "https://images.f99.com.vn/images/855141f1-6c1a-4f1a-af73-f83b58fb1eb1.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/6794",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg mít bóc sẵn",
+          "Combo 10kg",
+          "Combo 2kg",
+          "Combo 5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 83737,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 2kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 2kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 2kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 50000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 6000,
+        "totalSold": 46,
+        "unit": "kg ",
+        "sku": "Bo",
+        "rating": 5,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 2kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 83734,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 110000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 6000,
+        "totalSold": 14,
+        "unit": "kg ",
+        "sku": "Bo",
+        "rating": 5,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 83733,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 10kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 10kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 10kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 199000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 6000,
+        "totalSold": 5,
+        "unit": "kg ",
+        "sku": "Bo",
+        "rating": 5,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 10kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 87966,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg mít bóc sẵn",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg mít bóc sẵn",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg mít bóc sẵn",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 50000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 90000,
+        "totalSold": 18,
+        "unit": "kg ",
+        "sku": "Mit",
+        "rating": 5,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg mít bóc sẵn"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 6895,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mít Thái Da Xanh Vip",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p Class=\"ql-align-justify\">Mít có vỏ và lõi</p><p class=\"ql-align-justify\"><strong>Mít Thái </strong>có nguồn gốc từ Thái Lan. Đây là một loại trái cây ăn quả rất dễ trồng và rất sai quả. Sau khi được du nhập về Việt Nam chúng được trồng ở rất nhiều nơi từ bắc tới Nam.</p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Mít thái xanh vào mùa thu hoạch</span></p><p class=\"ql-align-justify\">Quả mít thái chín có múi to, vỏ ngoài mỏng, cơm mít dầy và hạt rất nhỏ, mít chín có mùi rất thơm và ngọt. Ngoài ra, ăn mít thái còn rất có lợi cho sức khỏe, giúp cung cấp hàm lượng canxi cao, kali và các loại vitamin A, vitamin C… có lợi cho sức khỏe của bạn.</p><h2 class=\"ql-align-justify\"><strong>Đặc điểm mít thái</strong></h2><p class=\"ql-align-justify\">Mít thái được rất nhiều người ưa thích. Đặc điểm của mít thái là năng suất và chất lượng cao, phù hợp với các loại đất đồi. Đặc biệt thời gian thu hoạch nhanh, múi dầy thịt hồng đậm, ít xơ, ăn vị ngọt và mùi thơm đặc trưng.</p><p><span style=\"color: rgb(0, 0, 0);\"><img src=\"https://admin.nongsandungha.com/wp-content/uploads/2021/05/Mit-thai-1-min.jpg\" alt=\"Mít thái dai giòn, múi vàng ươm\" height=\"407\" width=\"500\"></span></p><p><span style=\"color: rgb(0, 0, 0);\">Mít thái dai giòn, múi vàng ươm</span></p><p class=\"ql-align-justify\">Trong ngành công nghiệp chế biến, mít thái được sử dụng như một loại nguyên liệu để sản xuất bánh, kẹo, mứt, đồ hộp,…</p><h2 class=\"ql-align-justify\"><br></h2>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/0982b27f-2401-4284-8aa1-42a330163feb.jpg\",\"https://images.f99.com.vn/images/025bc773-479e-4fb8-83cb-68999e384d41.jpg\",\"https://images.f99.com.vn/images/ca294995-e68f-4fec-afb3-e7be50049d2f.jpg\",\"https://images.f99.com.vn/images/d3738968-c79b-49d1-bd76-e2f1687266a1.jpg\",\"https://images.f99.com.vn/images/072a827c-37d5-4571-9688-b09d54a1033c.jpg\",\"https://images.f99.com.vn/images/54400e73-ee95-4ee9-9295-1922dcec694a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mít Thái Da Xanh Vip",
+    "description": "<p Class=\"ql-align-justify\">Mít có vỏ và lõi</p><p class=\"ql-align-justify\"><strong>Mít Thái </strong>có nguồn gốc từ Thái Lan. Đây là một loại trái cây ăn quả rất dễ trồng và rất sai quả. Sau khi được du nhập về Việt Nam chúng được trồng ở rất nhiều nơi từ bắc tới Nam.</p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Mít thái xanh vào mùa thu hoạch</span></p><p class=\"ql-align-justify\">Quả mít thái chín có múi to, vỏ ngoài mỏng, cơm mít dầy và hạt rất nhỏ, mít chín có mùi rất thơm và ngọt. Ngoài ra, ăn mít thái còn rất có lợi cho sức khỏe, giúp cung cấp hàm lượng canxi cao, kali và các loại vitamin A, vitamin C… có lợi cho sức khỏe của bạn.</p><h2 class=\"ql-align-justify\"><strong>Đặc điểm mít thái</strong></h2><p class=\"ql-align-justify\">Mít thái được rất nhiều người ưa thích. Đặc điểm của mít thái là năng suất và chất lượng cao, phù hợp với các loại đất đồi. Đặc biệt thời gian thu hoạch nhanh, múi dầy thịt hồng đậm, ít xơ, ăn vị ngọt và mùi thơm đặc trưng.</p><p><span style=\"color: rgb(0, 0, 0);\"><img src=\"https://admin.nongsandungha.com/wp-content/uploads/2021/05/Mit-thai-1-min.jpg\" alt=\"Mít thái dai giòn, múi vàng ươm\" height=\"407\" width=\"500\"></span></p><p><span style=\"color: rgb(0, 0, 0);\">Mít thái dai giòn, múi vàng ươm</span></p><p class=\"ql-align-justify\">Trong ngành công nghiệp chế biến, mít thái được sử dụng như một loại nguyên liệu để sản xuất bánh, kẹo, mứt, đồ hộp,…</p><h2 class=\"ql-align-justify\"><br></h2>",
+    "imageUrl": "https://images.f99.com.vn/images/0982b27f-2401-4284-8aa1-42a330163feb.jpg",
+    "price": 25000,
+    "oldPrice": 39000,
+    "discountPercent": 36,
+    "stock": 1146000,
+    "totalSold": 126,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "MITTHAI",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p>Bảo quản ở nhiệt độ lạnh sẽ giữ hoa quả tươi ngon lâu hơn.</p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</span></p><p><br></p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Phản hồi sản phẩm vui lòng liên hệ: </span></p><p><br></p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Hotline:0974956933</span></p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Địa chỉ: Số 10A, ngõ 61 Khương Trung , Phố Khương Trung, Khương Trung,Thanh Xuân,HN.</span></p>",
+    "category": {
+      "id": 61,
+      "name": "Mít",
+      "imageUrl": "https://imgur.com/CgKUSPx.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/0982b27f-2401-4284-8aa1-42a330163feb.jpg",
+      "https://images.f99.com.vn/images/025bc773-479e-4fb8-83cb-68999e384d41.jpg",
+      "https://images.f99.com.vn/images/ca294995-e68f-4fec-afb3-e7be50049d2f.jpg",
+      "https://images.f99.com.vn/images/d3738968-c79b-49d1-bd76-e2f1687266a1.jpg",
+      "https://images.f99.com.vn/images/072a827c-37d5-4571-9688-b09d54a1033c.jpg",
+      "https://images.f99.com.vn/images/54400e73-ee95-4ee9-9295-1922dcec694a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/6895",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "Combo 3kg",
+          "Combo 5kg",
+          "Combo2kg",
+          "Mít Bóc Sẵn Hộp 500g",
+          "Mít Thái  Nguyên Quả 10kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 63646,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo2kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo2kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo2kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 50000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 57000,
+        "totalSold": 48,
+        "unit": "kg",
+        "sku": "MITTHAI",
+        "rating": 5,
+        "instructions": "<p>Bảo quản ở nhiệt độ lạnh sẽ giữ hoa quả tươi ngon lâu hơn.</p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</span></p><p><br></p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Phản hồi sản phẩm vui lòng liên hệ: </span></p><p><br></p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Hotline:0974956933</span></p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Địa chỉ: Số 10A, ngõ 61 Khương Trung , Phố Khương Trung, Khương Trung,Thanh Xuân,HN.</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo2kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 76243,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 75000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 225000,
+        "totalSold": 26,
+        "unit": "kg",
+        "sku": "MITTHAI",
+        "rating": 5,
+        "instructions": "<p>Bảo quản ở nhiệt độ lạnh sẽ giữ hoa quả tươi ngon lâu hơn.</p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</span></p><p><br></p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Phản hồi sản phẩm vui lòng liên hệ: </span></p><p><br></p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Hotline:0974956933</span></p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Địa chỉ: Số 10A, ngõ 61 Khương Trung , Phố Khương Trung, Khương Trung,Thanh Xuân,HN.</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 52763,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 122000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 6000,
+        "totalSold": 25,
+        "unit": "kg",
+        "sku": "MITTHAI",
+        "rating": 5,
+        "instructions": "<p>Bảo quản ở nhiệt độ lạnh sẽ giữ hoa quả tươi ngon lâu hơn.</p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</span></p><p><br></p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Phản hồi sản phẩm vui lòng liên hệ: </span></p><p><br></p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Hotline:0974956933</span></p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Địa chỉ: Số 10A, ngõ 61 Khương Trung , Phố Khương Trung, Khương Trung,Thanh Xuân,HN.</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 60144,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Mít Thái  Nguyên Quả 10kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Mít Thái  Nguyên Quả 10kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Mít Thái  Nguyên Quả 10kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 220000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 18000,
+        "totalSold": 22,
+        "unit": "kg",
+        "sku": "MITTHAI",
+        "rating": 5,
+        "instructions": "<p>Bảo quản ở nhiệt độ lạnh sẽ giữ hoa quả tươi ngon lâu hơn.</p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</span></p><p><br></p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Phản hồi sản phẩm vui lòng liên hệ: </span></p><p><br></p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Hotline:0974956933</span></p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Địa chỉ: Số 10A, ngõ 61 Khương Trung , Phố Khương Trung, Khương Trung,Thanh Xuân,HN.</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Mít Thái  Nguyên Quả 10kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 89125,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Mít Bóc Sẵn Hộp 500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Mít Bóc Sẵn Hộp 500g",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Mít Bóc Sẵn Hộp 500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 26000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 840000,
+        "totalSold": 5,
+        "unit": "kg",
+        "sku": "MITTHAI",
+        "rating": 5,
+        "instructions": "<p>Bảo quản ở nhiệt độ lạnh sẽ giữ hoa quả tươi ngon lâu hơn.</p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</span></p><p><br></p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Phản hồi sản phẩm vui lòng liên hệ: </span></p><p><br></p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Hotline:0974956933</span></p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Địa chỉ: Số 10A, ngõ 61 Khương Trung , Phố Khương Trung, Khương Trung,Thanh Xuân,HN.</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Mít Bóc Sẵn Hộp 500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7082,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mít Thái Bóc Sẵn Apple Fruit",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p Class=\"ql-align-justify\"><strong>Mít Thái</strong> nguồn gốc từ Thái Lan ( tên khoa học: Artocarpus Heterophyllus). Đây là một loại trái cây ăn quả rất dễ trồng và rất sai quả. Sau khi được du nhập về Việt Nam chúng được trồng ở rất nhiều nơi từ bắc tới Nam.</p><p><span style=\"color: rgb(0, 0, 0);\"><img src=\"https://admin.nongsandungha.com/wp-content/uploads/2021/05/mit-thai-min.jpg\" alt=\"Mít thái xanh vào mùa thu hoạch\" height=\"307\" width=\"500\"></span></p><p><span style=\"color: rgb(0, 0, 0);\">Mít thái xanh vào mùa thu hoạch</span></p><p class=\"ql-align-justify\">Quả mít thái chín có múi to, vỏ ngoài mỏng, cơm mít dầy và hạt rất nhỏ, mít chín có mùi rất thơm và ngọt. Ngoài ra, ăn mít thái còn rất có lợi cho sức khỏe, giúp cung cấp hàm lượng canxi cao, kali và các loại vitamin A, vitamin C… có lợi cho sức khỏe của bạn.</p><h2 class=\"ql-align-justify\"><strong>Đặc điểm mít thái</strong></h2><p class=\"ql-align-justify\">Mít thái được rất nhiều người ưa thích. Đặc điểm của mít thái là năng suất và chất lượng cao, phù hợp với các loại đất đồi. Đặc biệt thời gian thu hoạch nhanh, múi dầy thịt hồng đậm, ít xơ, ăn vị ngọt và mùi thơm đặc trưng.</p><p><span style=\"color: rgb(0, 0, 0);\"><img src=\"https://admin.nongsandungha.com/wp-content/uploads/2021/05/Mit-thai-1-min.jpg\" alt=\"Mít thái dai giòn, múi vàng ươm\" height=\"407\" width=\"500\"></span></p><p><span style=\"color: rgb(0, 0, 0);\">Mít thái dai giòn, múi vàng ươm</span></p><p class=\"ql-align-justify\">Trong ngành công nghiệp chế biến, mít thái được sử dụng như một loại nguyên liệu để sản xuất bánh, kẹo, mứt, đồ hộp,…</p><h2 class=\"ql-align-justify\"><br></h2>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/f95fe1f0-1196-463a-ba04-3cd2d687841c.jpg\",\"https://images.f99.com.vn/images/eb983e00-353b-49a1-a9bd-f38972d1e5ae.jpg\",\"https://images.f99.com.vn/images/3dab96e6-3218-4a3c-8a9a-e819e906ee62.jpg\",\"https://images.f99.com.vn/images/7e6a3039-2e16-455a-acc3-8e72a1bc3039.jpg\",\"https://images.f99.com.vn/images/896df147-f433-4744-98a7-5283f8c8dd64.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"mít\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mít Thái Bóc Sẵn Apple Fruit",
+    "description": "<p Class=\"ql-align-justify\"><strong>Mít Thái</strong> nguồn gốc từ Thái Lan ( tên khoa học: Artocarpus Heterophyllus). Đây là một loại trái cây ăn quả rất dễ trồng và rất sai quả. Sau khi được du nhập về Việt Nam chúng được trồng ở rất nhiều nơi từ bắc tới Nam.</p><p><span style=\"color: rgb(0, 0, 0);\"><img src=\"https://admin.nongsandungha.com/wp-content/uploads/2021/05/mit-thai-min.jpg\" alt=\"Mít thái xanh vào mùa thu hoạch\" height=\"307\" width=\"500\"></span></p><p><span style=\"color: rgb(0, 0, 0);\">Mít thái xanh vào mùa thu hoạch</span></p><p class=\"ql-align-justify\">Quả mít thái chín có múi to, vỏ ngoài mỏng, cơm mít dầy và hạt rất nhỏ, mít chín có mùi rất thơm và ngọt. Ngoài ra, ăn mít thái còn rất có lợi cho sức khỏe, giúp cung cấp hàm lượng canxi cao, kali và các loại vitamin A, vitamin C… có lợi cho sức khỏe của bạn.</p><h2 class=\"ql-align-justify\"><strong>Đặc điểm mít thái</strong></h2><p class=\"ql-align-justify\">Mít thái được rất nhiều người ưa thích. Đặc điểm của mít thái là năng suất và chất lượng cao, phù hợp với các loại đất đồi. Đặc biệt thời gian thu hoạch nhanh, múi dầy thịt hồng đậm, ít xơ, ăn vị ngọt và mùi thơm đặc trưng.</p><p><span style=\"color: rgb(0, 0, 0);\"><img src=\"https://admin.nongsandungha.com/wp-content/uploads/2021/05/Mit-thai-1-min.jpg\" alt=\"Mít thái dai giòn, múi vàng ươm\" height=\"407\" width=\"500\"></span></p><p><span style=\"color: rgb(0, 0, 0);\">Mít thái dai giòn, múi vàng ươm</span></p><p class=\"ql-align-justify\">Trong ngành công nghiệp chế biến, mít thái được sử dụng như một loại nguyên liệu để sản xuất bánh, kẹo, mứt, đồ hộp,…</p><h2 class=\"ql-align-justify\"><br></h2>",
+    "imageUrl": "https://images.f99.com.vn/images/f95fe1f0-1196-463a-ba04-3cd2d687841c.jpg",
+    "price": 25000,
+    "oldPrice": 30000,
+    "discountPercent": 17,
+    "stock": 1331,
+    "totalSold": 268,
+    "maxQuantityPerUser": null,
+    "unit": "500g",
+    "sku": "MIT",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hotline: </span><span style=\"background-color: rgb(229, 239, 255); color: var(--blue-base);\">0974956933</span></p>",
+    "category": {
+      "id": 61,
+      "name": "Mít",
+      "imageUrl": "https://imgur.com/CgKUSPx.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "mít"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/f95fe1f0-1196-463a-ba04-3cd2d687841c.jpg",
+      "https://images.f99.com.vn/images/eb983e00-353b-49a1-a9bd-f38972d1e5ae.jpg",
+      "https://images.f99.com.vn/images/3dab96e6-3218-4a3c-8a9a-e819e906ee62.jpg",
+      "https://images.f99.com.vn/images/7e6a3039-2e16-455a-acc3-8e72a1bc3039.jpg",
+      "https://images.f99.com.vn/images/896df147-f433-4744-98a7-5283f8c8dd64.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7082",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 Hộp 500g",
+          "1 Túi 500g",
+          "Combo 3 hộp 500g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 74279,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Hộp 500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 Hộp 500g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Hộp 500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 25000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 217,
+        "totalSold": 95,
+        "unit": "500g",
+        "sku": "MIT",
+        "rating": 5,
+        "instructions": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hotline: </span><span style=\"background-color: rgb(229, 239, 255); color: var(--blue-base);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 Hộp 500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 74277,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 3 hộp 500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 3 hộp 500g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 3 hộp 500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 73000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 217,
+        "totalSold": 39,
+        "unit": "500g",
+        "sku": "MIT",
+        "rating": 5,
+        "instructions": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hotline: </span><span style=\"background-color: rgb(229, 239, 255); color: var(--blue-base);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 3 hộp 500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 87149,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Túi 500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 Túi 500g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Túi 500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 23000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 897,
+        "totalSold": 134,
+        "unit": "500g",
+        "sku": "MIT",
+        "rating": 5,
+        "instructions": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Hotline: </span><span style=\"background-color: rgb(229, 239, 255); color: var(--blue-base);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 Túi 500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 32554,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mít Thái Tiền Giang 500gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>500 gram mít Thái Tiền Giang bóc múi sẵn ngọt thơm ngon</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/8b679d72-4fef-4ff0-aaf2-762659312ff5.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mít Thái Tiền Giang 500gr",
+    "description": "<p>500 gram mít Thái Tiền Giang bóc múi sẵn ngọt thơm ngon</p>",
+    "imageUrl": "https://images.f99.com.vn/images/8b679d72-4fef-4ff0-aaf2-762659312ff5.jpg",
+    "price": 33000,
+    "oldPrice": 45000,
+    "discountPercent": 27,
+    "stock": 20,
+    "totalSold": 28,
+    "maxQuantityPerUser": null,
+    "unit": "nửa kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 333,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 61,
+      "name": "Mít",
+      "imageUrl": "https://imgur.com/CgKUSPx.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/8b679d72-4fef-4ff0-aaf2-762659312ff5.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/32554",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 333,
+      "sellerRate": 4.5,
+      "sellerName": "HOA QUẢ TƯƠI UK",
+      "warehouseId": "00a32823-8ca3-40ea-9b90-7602ba7a142d",
+      "warehouseAddress": " Hà Nội,  Nam Từ Liêm,  Mễ Trì, Số 111 ngõ 14 Mễ Trì Hạ",
+      "distance": 5655,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 73.88293932300736,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 39504,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mít Thái Tiền Giang Loại 1 Cắt Miếng",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>1Kg Mít Thái Tiền Giang Loại 1 Cắt Miếng ( Cả Vỏ )</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/ee59b231-671b-4a6c-9334-62cfd5540f68.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mít Thái Tiền Giang Loại 1 Cắt Miếng",
+    "description": "<p>1Kg Mít Thái Tiền Giang Loại 1 Cắt Miếng ( Cả Vỏ )</p>",
+    "imageUrl": "https://images.f99.com.vn/images/ee59b231-671b-4a6c-9334-62cfd5540f68.jpg",
+    "price": 30000,
+    "oldPrice": 45000,
+    "discountPercent": 33,
+    "stock": 20,
+    "totalSold": 6,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 333,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 61,
+      "name": "Mít",
+      "imageUrl": "https://imgur.com/CgKUSPx.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/ee59b231-671b-4a6c-9334-62cfd5540f68.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/39504",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 89721,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 30000,
+        "oldPrice": 45000,
+        "discountPercent": 33,
+        "stock": 20,
+        "totalSold": 6,
+        "unit": "Kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 333,
+      "sellerRate": 4.5,
+      "sellerName": "HOA QUẢ TƯƠI UK",
+      "warehouseId": "00a32823-8ca3-40ea-9b90-7602ba7a142d",
+      "warehouseAddress": " Hà Nội,  Nam Từ Liêm,  Mễ Trì, Số 111 ngõ 14 Mễ Trì Hạ",
+      "distance": 5655,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 73.88293932300736,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 44693,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://i.imgur.com/J7JqqoC.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "Mít là loại trái cây quen thuộc có mùi hương nồng nàn, được chế biến thành nhiều món ăn ngon như xôi mít và nhiều loại chè",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mít bóc múi - 800gram",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mít bóc múi - 800gram",
+    "description": "Mít là loại trái cây quen thuộc có mùi hương nồng nàn, được chế biến thành nhiều món ăn ngon như xôi mít và nhiều loại chè",
+    "imageUrl": "https://i.imgur.com/J7JqqoC.png",
+    "price": 75000,
+    "oldPrice": null,
+    "discountPercent": null,
+    "stock": 100,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Gói",
+    "sku": "",
+    "origin": "",
+    "sellerId": 548,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.2,
+    "instructions": "",
+    "category": {
+      "id": 61,
+      "name": "Mít",
+      "imageUrl": "https://imgur.com/CgKUSPx.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://i.imgur.com/J7JqqoC.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/44693",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 548,
+      "sellerRate": 4.4,
+      "sellerName": "DELI MART",
+      "warehouseId": "602391b3-9831-42e9-80a5-2e8333671a3e",
+      "warehouseAddress": "Sàn Thương Mại Tầng 1 - Riverside Garden, số 349 Vũ Tông Phan, Khương Đình, Thanh Xuân, Hà Nội",
+      "distance": 4620,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 61.13986206896673,
+      "others": [
+        {
+          "sellerId": 548,
+          "sellerRate": 4.4,
+          "sellerName": "DELI MART",
+          "warehouseId": "602391b3-9831-42e9-80a5-2e8333671a3e",
+          "warehouseAddress": "Sàn Thương Mại Tầng 1 - Riverside Garden, số 349 Vũ Tông Phan, Khương Đình, Thanh Xuân, Hà Nội",
+          "distance": 4620,
+          "warehouseDistrict": "thanh xuan",
+          "reputation": 61.13986206896673,
+          "others": []
+        },
+        {
+          "sellerId": 548,
+          "sellerRate": 4.4,
+          "sellerName": "DELI MART",
+          "warehouseId": "05aed57f-e0a2-44c7-bed4-f754f25a5900",
+          "warehouseAddress": "Căn 103, Tòa CT4, Vimeco, Nguyễn Chánh, Trung Hòa, Cầu Giấy, Hà Nội",
+          "distance": 4718,
+          "warehouseDistrict": "cau giay",
+          "reputation": 61.13986206896673,
+          "others": []
+        },
+        {
+          "sellerId": 548,
+          "sellerRate": 4.4,
+          "sellerName": "DELI MART",
+          "warehouseId": "f31e5e1a-e677-4d15-80db-214131370d1c",
+          "warehouseAddress": "Sảnh căn hộ T03 - Times City, 458 Minh Khai, Hai Bà Trưng, Hà Nội.",
+          "distance": 5140,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 61.13986206896673,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 52028,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mít thái bóc sẵn",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>700-800gram, ngọt, giòn</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/6bea3c8c-4d68-43d4-90d3-547f60252416.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mít thái bóc sẵn",
+    "description": "<p>700-800gram, ngọt, giòn</p>",
+    "imageUrl": "https://images.f99.com.vn/images/6bea3c8c-4d68-43d4-90d3-547f60252416.png",
+    "price": 65000,
+    "oldPrice": 80000,
+    "discountPercent": 19,
+    "stock": 100,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "Hộp",
+    "sku": "100",
+    "origin": "",
+    "sellerId": 359,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ngăn mát tủ lạnh</p>",
+    "category": {
+      "id": 61,
+      "name": "Mít",
+      "imageUrl": "https://imgur.com/CgKUSPx.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/6bea3c8c-4d68-43d4-90d3-547f60252416.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/52028",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 359,
+      "sellerRate": 4.4,
+      "sellerName": "Quang Anh- Hoa quả tươi theo mùa",
+      "warehouseId": "b29cda85-3ce5-4127-9c6b-1eb1a04399dc",
+      "warehouseAddress": " Hà Nội,  Hai Bà Trưng,  Vĩnh Tuy, NT9, Ngõ 124 Vĩnh Tuy",
+      "distance": 5482,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 70.9110772740987,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 57488,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mít thái ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Mít thái da xanh miền tây</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/bdcdce14-5bcc-4d64-a37b-9a5ce2f35dae.jpeg\",\"https://images.f99.com.vn/images/b96762b7-9b0e-40e4-8b79-586b65006e98.jpeg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mít thái ",
+    "description": "<p>Mít thái da xanh miền tây</p>",
+    "imageUrl": "https://images.f99.com.vn/images/bdcdce14-5bcc-4d64-a37b-9a5ce2f35dae.jpeg",
+    "price": 35000,
+    "oldPrice": 50000,
+    "discountPercent": 30,
+    "stock": 1234,
+    "totalSold": 5,
+    "maxQuantityPerUser": null,
+    "unit": "1Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 882,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Để tủ mát</p>",
+    "category": {
+      "id": 61,
+      "name": "Mít",
+      "imageUrl": "https://imgur.com/CgKUSPx.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/bdcdce14-5bcc-4d64-a37b-9a5ce2f35dae.jpeg",
+      "https://images.f99.com.vn/images/b96762b7-9b0e-40e4-8b79-586b65006e98.jpeg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/57488",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 882,
+      "sellerRate": 4.3,
+      "sellerName": "CƯỜNG SẦU",
+      "warehouseId": "d29ee19b-2562-433d-825d-c1bc1c776b6a",
+      "warehouseAddress": " Hà Nội,  Tây Hồ,  Yên Phụ, 43/32 An Dương",
+      "distance": 2721,
+      "warehouseDistrict": "tay ho",
+      "reputation": 61.900000000000006,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 61299,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mít Thái Nguyên Quả",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p Class=\"ql-align-justify\"><strong>Mít Thái </strong>có nguồn gốc từ Thái Lan. Đây là một loại trái cây ăn quả rất dễ trồng và rất sai quả. Sau khi được du nhập về Việt Nam chúng được trồng ở rất nhiều nơi từ bắc tới Nam.</p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Mít thái xanh vào mùa thu hoạch</span></p><p class=\"ql-align-justify\">Quả mít thái chín có múi to, vỏ ngoài mỏng, cơm mít dầy và hạt rất nhỏ, mít chín có mùi rất thơm và ngọt. Ngoài ra, ăn mít thái còn rất có lợi cho sức khỏe, giúp cung cấp hàm lượng canxi cao, kali và các loại vitamin A, vitamin C… có lợi cho sức khỏe của bạn.</p><h2 class=\"ql-align-justify\"><strong>Đặc điểm mít thái</strong></h2><p class=\"ql-align-justify\">Mít thái được rất nhiều người ưa thích. Đặc điểm của mít thái là năng suất và chất lượng cao, phù hợp với các loại đất đồi. Đặc biệt thời gian thu hoạch nhanh, múi dầy thịt hồng đậm, ít xơ, ăn vị ngọt và mùi thơm đặc trưng.</p><p><img src=\"https://images.f99.com.vn/images/71f021a6-74de-4631-b1aa-3ddce2e4e06e.jpg\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/9584d3dd-f9ba-4ac2-82d0-f3e102bbf5f7.png\",\"https://images.f99.com.vn/images/dd873f9c-58b2-4b37-bbfe-f2dff885e169.jpg\",\"https://images.f99.com.vn/images/92bf3578-ee52-4e0c-a7e0-76b030b09567.jpg\",\"https://images.f99.com.vn/images/de722175-ac0d-4dda-a35b-0b000c4369f9.jpeg\",\"https://images.f99.com.vn/images/9290faaf-7cc5-414f-bcd1-c8955bee4f9e.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mít Thái Nguyên Quả",
+    "description": "<p Class=\"ql-align-justify\"><strong>Mít Thái </strong>có nguồn gốc từ Thái Lan. Đây là một loại trái cây ăn quả rất dễ trồng và rất sai quả. Sau khi được du nhập về Việt Nam chúng được trồng ở rất nhiều nơi từ bắc tới Nam.</p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Mít thái xanh vào mùa thu hoạch</span></p><p class=\"ql-align-justify\">Quả mít thái chín có múi to, vỏ ngoài mỏng, cơm mít dầy và hạt rất nhỏ, mít chín có mùi rất thơm và ngọt. Ngoài ra, ăn mít thái còn rất có lợi cho sức khỏe, giúp cung cấp hàm lượng canxi cao, kali và các loại vitamin A, vitamin C… có lợi cho sức khỏe của bạn.</p><h2 class=\"ql-align-justify\"><strong>Đặc điểm mít thái</strong></h2><p class=\"ql-align-justify\">Mít thái được rất nhiều người ưa thích. Đặc điểm của mít thái là năng suất và chất lượng cao, phù hợp với các loại đất đồi. Đặc biệt thời gian thu hoạch nhanh, múi dầy thịt hồng đậm, ít xơ, ăn vị ngọt và mùi thơm đặc trưng.</p><p><img src=\"https://images.f99.com.vn/images/71f021a6-74de-4631-b1aa-3ddce2e4e06e.jpg\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/9584d3dd-f9ba-4ac2-82d0-f3e102bbf5f7.png",
+    "price": 19900,
+    "oldPrice": 29000,
+    "discountPercent": 31,
+    "stock": 1440000,
+    "totalSold": 6,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "mit thai",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 61,
+      "name": "Mít",
+      "imageUrl": "https://imgur.com/CgKUSPx.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/9584d3dd-f9ba-4ac2-82d0-f3e102bbf5f7.png",
+      "https://images.f99.com.vn/images/dd873f9c-58b2-4b37-bbfe-f2dff885e169.jpg",
+      "https://images.f99.com.vn/images/92bf3578-ee52-4e0c-a7e0-76b030b09567.jpg",
+      "https://images.f99.com.vn/images/de722175-ac0d-4dda-a35b-0b000c4369f9.jpeg",
+      "https://images.f99.com.vn/images/9290faaf-7cc5-414f-bcd1-c8955bee4f9e.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/61299",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "Phí  Bổ sẵn gọt vỏ lõi 1 quả",
+          "Quả 10kg",
+          "Quả 12 kg",
+          "Quả 8kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 90277,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Quả 10kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Quả 10kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Quả 10kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 199000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 72000,
+        "totalSold": 4,
+        "unit": "kg",
+        "sku": "mit thai",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Quả 10kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 90276,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Quả 12 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Quả 12 kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Quả 12 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 239000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 72000,
+        "totalSold": 1,
+        "unit": "kg",
+        "sku": "mit thai",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Quả 12 kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 90462,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Phí  Bổ sẵn gọt vỏ lõi 1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Phí  Bổ sẵn gọt vỏ lõi 1 quả",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Phí  Bổ sẵn gọt vỏ lõi 1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 10000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 288000,
+        "totalSold": 1,
+        "unit": "kg",
+        "sku": "mit thai",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Phí  Bổ sẵn gọt vỏ lõi 1 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 94584,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Quả 8kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Quả 8kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Quả 8kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 159000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 1008000,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "mit thai",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Quả 8kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 68516,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": " MÍT THÁI ĐÓNG KHAY SẠCH SẼ 1nKHAY",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>MÍT THÁI DA XANH MIỀN NAM MŨI DÀY, NGỌT LỊM</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/ed428472-486f-4efd-a430-3c18f3d6b1b9.jpeg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": " MÍT THÁI ĐÓNG KHAY SẠCH SẼ 1nKHAY",
+    "description": "<p>MÍT THÁI DA XANH MIỀN NAM MŨI DÀY, NGỌT LỊM</p>",
+    "imageUrl": "https://images.f99.com.vn/images/ed428472-486f-4efd-a430-3c18f3d6b1b9.jpeg",
+    "price": 50000,
+    "oldPrice": 70000,
+    "discountPercent": 29,
+    "stock": 123456789,
+    "totalSold": 4,
+    "maxQuantityPerUser": null,
+    "unit": "1",
+    "sku": "",
+    "origin": "",
+    "sellerId": 952,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Ăn trực tiếp</p>",
+    "category": {
+      "id": 61,
+      "name": "Mít",
+      "imageUrl": "https://imgur.com/CgKUSPx.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/ed428472-486f-4efd-a430-3c18f3d6b1b9.jpeg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/68516",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 68517,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 50000,
+        "oldPrice": 70000,
+        "discountPercent": 29,
+        "stock": 123456789,
+        "totalSold": 4,
+        "unit": "1",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Ăn trực tiếp</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 952,
+      "sellerRate": 4.3,
+      "sellerName": "SẦU RIÊNG HÀ NỘI",
+      "warehouseId": "e0c13f83-6096-4582-8452-239a0d04c359",
+      "warehouseAddress": "Số 43 ngõ 32 An Dương, Yên Phụ, Tây Hồ, Hà Nội",
+      "distance": 2792,
+      "warehouseDistrict": "tay ho",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 71597,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mít Bóc Sẵn ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>thơm ngon tới miếng cuối cùng</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/c63daf1a-16d3-41a2-9010-9404345a9517.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"mít\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mít Bóc Sẵn ",
+    "description": "<p>thơm ngon tới miếng cuối cùng</p>",
+    "imageUrl": "https://images.f99.com.vn/images/c63daf1a-16d3-41a2-9010-9404345a9517.jpg",
+    "price": 65000,
+    "oldPrice": 69000,
+    "discountPercent": 6,
+    "stock": 2000,
+    "totalSold": 102,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 484,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 61,
+      "name": "Mít",
+      "imageUrl": "https://imgur.com/CgKUSPx.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "mít"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/c63daf1a-16d3-41a2-9010-9404345a9517.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/71597",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg",
+          "2kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 71605,
+        "attributeTextValues": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 65000,
+        "oldPrice": 69000,
+        "discountPercent": 6,
+        "stock": 1000,
+        "totalSold": 53,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 71604,
+        "attributeTextValues": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 125000,
+        "oldPrice": 69000,
+        "discountPercent": -81,
+        "stock": 1000,
+        "totalSold": 49,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "2kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 484,
+      "sellerRate": 4.6,
+      "sellerName": "HOME FRUITS",
+      "warehouseId": "c9100430-cbd7-4e59-a914-9ce7a7071cbc",
+      "warehouseAddress": "Số 172 Trần Bình, phường Mỹ Đình, Quận Nam Từ Liêm, Hà Nội",
+      "distance": 6740,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 80.48249894439043,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 72646,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mít thái ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><br></p><p>MÍT THÁI DA XANH HÀNG LOẠI 1 CHUẨN BAO SẠCH 100%_ BAO LUÔN HÀNG NGON NHÉ BÀ CON_ BAO 1 ĐỔI 1 NẾU KÉM CHẤT LƯƠNG</p><p>_ MIẾNG SẠCH CÙI TRẮNG: 35KG( MIẾNG 2kg</p><p>_BÓC MÚI:50k</p><p>_ CẢ QUẢ 25k</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/5f56fe60-e1d6-4dcb-9156-39edab674d17.jpeg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mít thái ",
+    "description": "<p><br></p><p>MÍT THÁI DA XANH HÀNG LOẠI 1 CHUẨN BAO SẠCH 100%_ BAO LUÔN HÀNG NGON NHÉ BÀ CON_ BAO 1 ĐỔI 1 NẾU KÉM CHẤT LƯƠNG</p><p>_ MIẾNG SẠCH CÙI TRẮNG: 35KG( MIẾNG 2kg</p><p>_BÓC MÚI:50k</p><p>_ CẢ QUẢ 25k</p>",
+    "imageUrl": "https://images.f99.com.vn/images/5f56fe60-e1d6-4dcb-9156-39edab674d17.jpeg",
+    "price": 70000,
+    "oldPrice": 100000,
+    "discountPercent": 30,
+    "stock": 100,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "2kg",
+    "sku": "12345567",
+    "origin": "",
+    "sellerId": 952,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>ăn trực tiếp </p>",
+    "category": {
+      "id": 61,
+      "name": "Mít",
+      "imageUrl": "https://imgur.com/CgKUSPx.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/5f56fe60-e1d6-4dcb-9156-39edab674d17.jpeg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/72646",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "2kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 72647,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 70000,
+        "oldPrice": 100000,
+        "discountPercent": 30,
+        "stock": 100,
+        "totalSold": 1,
+        "unit": "2kg",
+        "sku": "12345567",
+        "rating": 0,
+        "instructions": "<p>ăn trực tiếp </p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "2kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 952,
+      "sellerRate": 4.3,
+      "sellerName": "SẦU RIÊNG HÀ NỘI",
+      "warehouseId": "e0c13f83-6096-4582-8452-239a0d04c359",
+      "warehouseAddress": "Số 43 ngõ 32 An Dương, Yên Phụ, Tây Hồ, Hà Nội",
+      "distance": 2792,
+      "warehouseDistrict": "tay ho",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 74259,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mít Thái Tiền Giang ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h2>Giới thiệu về mít Thái Cái Bè</h2><p class=\"ql-align-justify\">Trong số các sản vật miền Nam, những năm gần đây nổi lên sản phẩm mít Thái Cái Bè. Mít Thái Cái Bè còn được gọi là mít Thái siêu sớm. Đây là giống mít Thái quả rất to. Thông thường, mỗi trái mít Thái Cái Bè nặng từ 7 - 10kg, nên có giá rất đắt. Đặc điểm của loại mít này là múi to, vàng ruộm, không hạt, thịt thơm ngon, trông rất hấp dẫn.</p><p class=\"ql-align-justify\">Do sự nổi tiếng của mình, món sản vật Phương Nam này đã trở thành món quà quê dân dã nhưng cũng rất cao cấp để mua về hoặc biếu tặng khi có dịp. Tuy nhiên để hiểu rõ về nguồn gốc mít Thái Cái Bè, hiểu thêm về giá trị, đặc điểm riêng của loại mít này thì không phải ai cũng biết.</p><h2>Nguồn gốc mít Thái Cái Bè</h2><p class=\"ql-align-justify\">Mít Thái Cái Bè là một loại mít mới được trồng thời gian gần đây, bên cạnh các loại mít sẵn có. Loại mít này du nhập từ Thái Lan. Mít được đem về nhân giống, trồng ở Cái Bè và Cai Lậy (tỉnh Tiền Giang) từ những năm gần đây. Mít khá dễ trồng, dễ chăm sóc</p><h2>Thưởng thức mít Thái Cái Bè</h2><p class=\"ql-align-justify\">Mít Thái Cái Bè là một trong những loại quả thơm ngon được rất nhiều người yêu thích.&nbsp;Mít có hương vị ngọt ngào, được cho là hương vị tổng hợp của nhiều loại trái cây khác.</p><p class=\"ql-align-justify\">Tuy nhiên khi thưởng thức mít thì không nên ăn vào lúc đói hoặc lúc chiều tối, dễ gây chướng bụng. Mít khi thưởng thức không nên ăn quá nhiều một lúc. Nên ăn kèm với loại hoa quả khác để bổ sung dưỡng chất cần thiết.</p><p class=\"ql-align-justify\">Bên cạnh ăn mít chín tự nhiên, bạn có thể lấy mít để nấu chè mít quế hoa, sữa chua mít, mứt mít, sinh tố mít, xôi mít, bánh mít chiên, snack mít, mít sấy khô, kem mít… Riêng xôi mít có rất nhiều loại. Bạn có thể nấu xôi mít chè hoa đậu biếc, xôi mít lá dứa, xôi mít ngũ sắc hoặc sáng tạo thành các món khác để thết đãi gia đình.</p><p class=\"ql-align-justify\"><br></p><p><a href=\"https://www.facebook.com/hoaquatuoingonsach\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(238, 47, 21); background-color: rgba(255, 255, 255, 0.53);\"><img src=\"https://danviet.mediacdn.vn/thumb_w/650/296231569849192448/2021/5/7/gia-mit-hom-nay-1620362296895784982475.jpg\" alt=\"Giá mít Thái hôm nay 7/5: Do đâu anh nông dân Tiền Giang đốn 1.000 cây mít Thái trồng ổi Đài Loan, giá mít tăng? - Ảnh 1.\"></a></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/6386b025-d50d-4f52-b941-c4da6c8913d2.jpg\",\"https://images.f99.com.vn/images/93daeedc-704e-4da5-9d91-c0a2f2209428.jpg\",\"https://images.f99.com.vn/images/f308bdd0-a387-4828-bb20-9fc187c5c9a3.jpg\",\"https://images.f99.com.vn/images/3374977b-8a58-45fd-996e-4daac8f31087.jpg\",\"https://images.f99.com.vn/images/1536abc3-85e3-426e-8d53-e2cbe2d58fa5.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mít Thái Tiền Giang ",
+    "description": "<h2>Giới thiệu về mít Thái Cái Bè</h2><p class=\"ql-align-justify\">Trong số các sản vật miền Nam, những năm gần đây nổi lên sản phẩm mít Thái Cái Bè. Mít Thái Cái Bè còn được gọi là mít Thái siêu sớm. Đây là giống mít Thái quả rất to. Thông thường, mỗi trái mít Thái Cái Bè nặng từ 7 - 10kg, nên có giá rất đắt. Đặc điểm của loại mít này là múi to, vàng ruộm, không hạt, thịt thơm ngon, trông rất hấp dẫn.</p><p class=\"ql-align-justify\">Do sự nổi tiếng của mình, món sản vật Phương Nam này đã trở thành món quà quê dân dã nhưng cũng rất cao cấp để mua về hoặc biếu tặng khi có dịp. Tuy nhiên để hiểu rõ về nguồn gốc mít Thái Cái Bè, hiểu thêm về giá trị, đặc điểm riêng của loại mít này thì không phải ai cũng biết.</p><h2>Nguồn gốc mít Thái Cái Bè</h2><p class=\"ql-align-justify\">Mít Thái Cái Bè là một loại mít mới được trồng thời gian gần đây, bên cạnh các loại mít sẵn có. Loại mít này du nhập từ Thái Lan. Mít được đem về nhân giống, trồng ở Cái Bè và Cai Lậy (tỉnh Tiền Giang) từ những năm gần đây. Mít khá dễ trồng, dễ chăm sóc</p><h2>Thưởng thức mít Thái Cái Bè</h2><p class=\"ql-align-justify\">Mít Thái Cái Bè là một trong những loại quả thơm ngon được rất nhiều người yêu thích.&nbsp;Mít có hương vị ngọt ngào, được cho là hương vị tổng hợp của nhiều loại trái cây khác.</p><p class=\"ql-align-justify\">Tuy nhiên khi thưởng thức mít thì không nên ăn vào lúc đói hoặc lúc chiều tối, dễ gây chướng bụng. Mít khi thưởng thức không nên ăn quá nhiều một lúc. Nên ăn kèm với loại hoa quả khác để bổ sung dưỡng chất cần thiết.</p><p class=\"ql-align-justify\">Bên cạnh ăn mít chín tự nhiên, bạn có thể lấy mít để nấu chè mít quế hoa, sữa chua mít, mứt mít, sinh tố mít, xôi mít, bánh mít chiên, snack mít, mít sấy khô, kem mít… Riêng xôi mít có rất nhiều loại. Bạn có thể nấu xôi mít chè hoa đậu biếc, xôi mít lá dứa, xôi mít ngũ sắc hoặc sáng tạo thành các món khác để thết đãi gia đình.</p><p class=\"ql-align-justify\"><br></p><p><a href=\"https://www.facebook.com/hoaquatuoingonsach\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(238, 47, 21); background-color: rgba(255, 255, 255, 0.53);\"><img src=\"https://danviet.mediacdn.vn/thumb_w/650/296231569849192448/2021/5/7/gia-mit-hom-nay-1620362296895784982475.jpg\" alt=\"Giá mít Thái hôm nay 7/5: Do đâu anh nông dân Tiền Giang đốn 1.000 cây mít Thái trồng ổi Đài Loan, giá mít tăng? - Ảnh 1.\"></a></p>",
+    "imageUrl": "https://images.f99.com.vn/images/6386b025-d50d-4f52-b941-c4da6c8913d2.jpg",
+    "price": 22000,
+    "oldPrice": 35000,
+    "discountPercent": 37,
+    "stock": 30000,
+    "totalSold": 243,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "Mit Thai",
+    "origin": "",
+    "sellerId": 250,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 61,
+      "name": "Mít",
+      "imageUrl": "https://imgur.com/CgKUSPx.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/6386b025-d50d-4f52-b941-c4da6c8913d2.jpg",
+      "https://images.f99.com.vn/images/93daeedc-704e-4da5-9d91-c0a2f2209428.jpg",
+      "https://images.f99.com.vn/images/f308bdd0-a387-4828-bb20-9fc187c5c9a3.jpg",
+      "https://images.f99.com.vn/images/3374977b-8a58-45fd-996e-4daac8f31087.jpg",
+      "https://images.f99.com.vn/images/1536abc3-85e3-426e-8d53-e2cbe2d58fa5.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/74259",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 74266,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 22000,
+        "oldPrice": 35000,
+        "discountPercent": 37,
+        "stock": 30000,
+        "totalSold": 243,
+        "unit": "kg",
+        "sku": "Mit Thai",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 250,
+      "sellerRate": 4.7,
+      "sellerName": "Fresh Meat – Thịt Heo Sạch",
+      "warehouseId": "b9609c8f-7018-457c-8460-255c8c884fdc",
+      "warehouseAddress": "Số 10A, Ngõ 61 Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3512,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 67.83505059291078,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 82144,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mít Thái Chín Cây Bóc Múi",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Mít Thái Tiền Giang Bóc Múi Ngon Ngọt</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/502d7610-4d8c-4c36-8d91-e17fd1d768a5.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mít Thái Chín Cây Bóc Múi",
+    "description": "<p>Mít Thái Tiền Giang Bóc Múi Ngon Ngọt</p>",
+    "imageUrl": "https://images.f99.com.vn/images/502d7610-4d8c-4c36-8d91-e17fd1d768a5.jpg",
+    "price": 55000,
+    "oldPrice": 70000,
+    "discountPercent": 21,
+    "stock": 9999,
+    "totalSold": 27,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 240,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 61,
+      "name": "Mít",
+      "imageUrl": "https://imgur.com/CgKUSPx.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/502d7610-4d8c-4c36-8d91-e17fd1d768a5.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/82144",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 82145,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 55000,
+        "oldPrice": 70000,
+        "discountPercent": 21,
+        "stock": 9999,
+        "totalSold": 27,
+        "unit": "Kg",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 240,
+      "sellerRate": 4.5,
+      "sellerName": "Homey Fruit & Veg ",
+      "warehouseId": "ccb00cae-e276-4a1b-af4a-ae822ab5c570",
+      "warehouseAddress": "số 52 ngõ 376 Bưởi, Vĩnh Phúc, Ba Đình, Hà Nội",
+      "distance": 3021,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 77.89029707147643,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 91940,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mít bóc",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(70, 70, 70);\">1 khay to mít nghệ tiền giang loại siêu ngon&nbsp;</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/a85d648b-3ed5-4b05-abd1-da7fa7366d0a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"#mit\",\"mít bóc\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mít bóc",
+    "description": "<p><span style=\"color: rgb(70, 70, 70);\">1 khay to mít nghệ tiền giang loại siêu ngon&nbsp;</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/a85d648b-3ed5-4b05-abd1-da7fa7366d0a.jpg",
+    "price": 50000,
+    "oldPrice": 65000,
+    "discountPercent": 23,
+    "stock": 1000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "khay/800 g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 1022,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 61,
+      "name": "Mít",
+      "imageUrl": "https://imgur.com/CgKUSPx.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "#mit",
+      "mít bóc"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/a85d648b-3ed5-4b05-abd1-da7fa7366d0a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/91940",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "khay/800 g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 91941,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "khay/800 g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "khay/800 g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "khay/800 g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 50000,
+        "oldPrice": 65000,
+        "discountPercent": 23,
+        "stock": 1000,
+        "totalSold": 0,
+        "unit": "khay/800 g",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "khay/800 g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1022,
+      "sellerRate": 4.2,
+      "sellerName": "Hoa quả tươi Khoa Nguyễn",
+      "warehouseId": "e3cfb56b-5090-4205-8216-e6c5cee448df",
+      "warehouseAddress": "298 Đê La Thành nhỏ, Phường Thổ Quan, Quận Đống Đa, Hà Nội,  Thổ Quan,  Đống Đa,  Hà Nội",
+      "distance": 1119,
+      "warehouseDistrict": "dong da",
+      "reputation": 0,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 92364,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mít Thái",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(119, 119, 119);\">Mít Thái có múi mít thịt vàng đậm, ít xơ, giòn, ráo, vị ngọt đậm và thơm mát</span></p><p>Trong mít thái chứa hàm lượng chất xơ cao và dưỡng chất quan trọng như Vitamin A, vitamin nhóm B, vitamin D, vitamin D. Đặc biệt, mít không chứa chất béo và cholesterol xấu. Vậy những công dụng mà mít mang lại cho cơ thể đó là:</p><h3><strong>- Hỗ trợ tiêu hóa</strong></h3><p>Chất xơ trong mít thái nhiều nên giúp tiêu hóa tốt hơn. Chúng không gây đau dạ dày ngay cả khi bạn ăn thường xuyên. Bên cạnh đó, mít góp phần bảo vệ ruột bằng cách loại bỏ thành phần gây bệnh.</p><h3><strong>- Tốt cho da, mắt</strong></h3><p>Vitamin A có trong mít duy trì thị lực rất tốt, giúp chống lại bệnh đục thủy tinh thể, thoái hóa điểm vàng. Bên cạnh đó, chất chống oxy hóa trong mít giúp làn da luôn tươi tắn, khỏe đẹp hơn.</p><h3><strong>- Tốt cho cơ bắp, hệ thần kinh</strong></h3><p>Trong quả mít chứa hàm lượng vitamin B1 cực kỳ quý giá để giúp cho sợi cơ và hệ thần kinh tốt hơn. Do đó, ăn mít nhiều không những tốt cho thể chất mà còn là tinh thần.</p><h3><strong>- Giúp xương luôn khỏe mạnh</strong></h3><p>Ăn mít được khuyến nghị để bổ sung canxi cho xương chắc khỏe hơn. Vitamin C và magie trong mít còn giúp cơ thể hấp thụ canxi hiệu quả nhất.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/c05538c9-d4f7-4449-9cba-0f2b79b724bc.jpg\",\"https://images.f99.com.vn/images/1a947264-1bfe-46e4-beda-9cfc2b47e6d2.jpg\",\"https://images.f99.com.vn/images/0c00962a-3e72-4b4b-b4c9-a4bed590894a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mít Thái",
+    "description": "<p><span style=\"color: rgb(119, 119, 119);\">Mít Thái có múi mít thịt vàng đậm, ít xơ, giòn, ráo, vị ngọt đậm và thơm mát</span></p><p>Trong mít thái chứa hàm lượng chất xơ cao và dưỡng chất quan trọng như Vitamin A, vitamin nhóm B, vitamin D, vitamin D. Đặc biệt, mít không chứa chất béo và cholesterol xấu. Vậy những công dụng mà mít mang lại cho cơ thể đó là:</p><h3><strong>- Hỗ trợ tiêu hóa</strong></h3><p>Chất xơ trong mít thái nhiều nên giúp tiêu hóa tốt hơn. Chúng không gây đau dạ dày ngay cả khi bạn ăn thường xuyên. Bên cạnh đó, mít góp phần bảo vệ ruột bằng cách loại bỏ thành phần gây bệnh.</p><h3><strong>- Tốt cho da, mắt</strong></h3><p>Vitamin A có trong mít duy trì thị lực rất tốt, giúp chống lại bệnh đục thủy tinh thể, thoái hóa điểm vàng. Bên cạnh đó, chất chống oxy hóa trong mít giúp làn da luôn tươi tắn, khỏe đẹp hơn.</p><h3><strong>- Tốt cho cơ bắp, hệ thần kinh</strong></h3><p>Trong quả mít chứa hàm lượng vitamin B1 cực kỳ quý giá để giúp cho sợi cơ và hệ thần kinh tốt hơn. Do đó, ăn mít nhiều không những tốt cho thể chất mà còn là tinh thần.</p><h3><strong>- Giúp xương luôn khỏe mạnh</strong></h3><p>Ăn mít được khuyến nghị để bổ sung canxi cho xương chắc khỏe hơn. Vitamin C và magie trong mít còn giúp cơ thể hấp thụ canxi hiệu quả nhất.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/c05538c9-d4f7-4449-9cba-0f2b79b724bc.jpg",
+    "price": 45000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "A5",
+    "origin": "",
+    "sellerId": 1023,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 61,
+      "name": "Mít",
+      "imageUrl": "https://imgur.com/CgKUSPx.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/c05538c9-d4f7-4449-9cba-0f2b79b724bc.jpg",
+      "https://images.f99.com.vn/images/1a947264-1bfe-46e4-beda-9cfc2b47e6d2.jpg",
+      "https://images.f99.com.vn/images/0c00962a-3e72-4b4b-b4c9-a4bed590894a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/92364",
+    "attributes": [
+      {
+        "id": 93,
+        "name": "Tình trạng",
+        "values": [
+          "Mít bổ miếng bỏ cùi",
+          "Mít bóc"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 97521,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Mít bổ miếng bỏ cùi",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 93,
+            "name": "Tình trạng",
+            "type": "text    ",
+            "value": "Mít bổ miếng bỏ cùi",
+            "attribute": {
+              "id": 93,
+              "name": "Tình trạng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Mít bổ miếng bỏ cùi",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 45000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 500,
+        "totalSold": 0,
+        "unit": "Kg",
+        "sku": "A5",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 93,
+            "name": "Tình trạng",
+            "value": "Mít bổ miếng bỏ cùi"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 97522,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Mít bóc",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 93,
+            "name": "Tình trạng",
+            "type": "text    ",
+            "value": "Mít bóc",
+            "attribute": {
+              "id": 93,
+              "name": "Tình trạng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Mít bóc",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 55000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 500,
+        "totalSold": 0,
+        "unit": "Kg",
+        "sku": "A5",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 93,
+            "name": "Tình trạng",
+            "value": "Mít bóc"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1023,
+      "sellerRate": 4.5,
+      "sellerName": "Minh Lâm",
+      "warehouseId": "ebf381a5-e009-4cd4-8974-e1550c3ba968",
+      "warehouseAddress": "số 146 Nguyễn Đổng Chi, Phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội,  Cầu Diễn,  Nam Từ Liêm,  Hà Nội",
+      "distance": 7348,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 0,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

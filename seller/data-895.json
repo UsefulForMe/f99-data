@@ -1,0 +1,35 @@
+{
+  "id": 895,
+  "name": "Trần Lê Foods",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/01a1388e-5541-4002-baac-3fea98924e30.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cung cấp thực phẩm khô, đông lạnh, trái cây tươi và đóng hộp",
+  "headQuarter": "Số 79/4A Hồ Văn Long, Bình Hưng Hòa B, Bình Tân, Hồ Chí Minh",
+  "email": "dailytranle@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

@@ -1,0 +1,35 @@
+{
+  "id": 767,
+  "name": "Bách hóa Anfood HCM",
+  "logo": "https://cdn.f99.link/groupbuy-images/7e336980-bcb6-49c6-af4c-d4a446315687.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "ANFOOD tự hào là Nhà cung cấp chính thức các sản phẩm đồ khô chính hãng chất lượng cao với giá cả cạnh tranh vào hệ thống Nhà hàng, khách sạn 5*. \n\nCác bạn có thể tìm mua các Combo cùng nhiều Ưu đãi hấp dẫn trong gian hàng của ANFOOD:\n1. Thực phẩm đông lạnh\n2. Thực phẩm thiết yếu\n3. Bánh kẹo\n4. Đồ uống\n\nMọi thứ bạn cần Anfood đều có",
+  "headQuarter": "Số 51 Ngõ 25 Đường Phú Minh, Minh Khai, Bắc Từ Liêm, Hà Nội",
+  "email": "Anfoodluontuoingon@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

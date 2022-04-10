@@ -1,0 +1,35 @@
+{
+  "id": 280,
+  "name": "Thực phẩm sạch Thảo Nguyên",
+  "logo": "https://cdn.f99.link/groupbuy-images/ff8c8ecf-f44d-49e0-9c22-c11b765fdfbe.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cung cấp thực phẩm sạch, an toàn vệ sinh thực phẩm, thơm ngon ,giàu dinh dưỡng tại Hà Nội và các tỉnh lân cận ",
+  "headQuarter": "Cửa hàng tiện ích tầng 1, Tòa CT2, KĐT Mễ Trì Thượng , Mễ Trì, Nam Từ Liêm, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.8,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 40
+}

@@ -1,0 +1,4683 @@
+[
+  {
+    "id": 2183,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bưởi da xanh",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h3 class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/f87d8e1f-438c-4718-8d36-ac6a7d0a1d64.jpg\"><img src=\"https://images.f99.com.vn/images/39836248-c8b8-439e-90f8-e4eeba6eeb0a.jpg\"><img src=\"https://images.f99.com.vn/images/eb31a09f-f5c1-4c36-bd89-972e061d968d.png\"><img src=\"https://images.f99.com.vn/images/0a242aaa-66a1-4a12-b8ef-a85df6a2ec74.png\"><img src=\"https://images.f99.com.vn/images/d0a38d9a-2e33-4181-8a59-be2bead3c8ae.png\"><img src=\"https://images.f99.com.vn/images/e2233c64-4215-4162-a2c1-ef9f69221b6e.png\"></h3><h3 class=\"ql-align-justify\"><span style=\"background-color: rgb(252, 250, 246); color: rgb(34, 34, 34);\">Theo Cục Trồng trọt (Bộ Nông nghiệp và Phát triển nông thôn), những năm gần đây, diện tích bưởi tăng nhanh (tốc độ hơn 10% một năm), với diện tích toàn miền Nam tính đến năm 2021 gần 50.000 ha. Những tỉnh có diện tích trồng bưởi lớn là Bến Tre, Vĩnh Long, Đồng Nai...</span></h3>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/83de6706-1e70-4a2b-b560-90c776155785.png\",\"https://images.f99.com.vn/images/2b4c4a84-0551-46d2-a57a-23812ca02626.png\",\"https://images.f99.com.vn/images/38c7e30c-d1bd-4c76-a96c-afbb36559798.png\",\"https://images.f99.com.vn/images/c1dd3cd4-5d3f-418c-8247-b3c130c9d451.png\",\"https://images.f99.com.vn/images/fccd90f1-84cc-4739-9d38-3f083677600c.png\",\"https://images.f99.com.vn/images/b6654e2e-921f-4265-b383-baa752d03a3f.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bưởi da xanh",
+    "description": "<h3 class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/f87d8e1f-438c-4718-8d36-ac6a7d0a1d64.jpg\"><img src=\"https://images.f99.com.vn/images/39836248-c8b8-439e-90f8-e4eeba6eeb0a.jpg\"><img src=\"https://images.f99.com.vn/images/eb31a09f-f5c1-4c36-bd89-972e061d968d.png\"><img src=\"https://images.f99.com.vn/images/0a242aaa-66a1-4a12-b8ef-a85df6a2ec74.png\"><img src=\"https://images.f99.com.vn/images/d0a38d9a-2e33-4181-8a59-be2bead3c8ae.png\"><img src=\"https://images.f99.com.vn/images/e2233c64-4215-4162-a2c1-ef9f69221b6e.png\"></h3><h3 class=\"ql-align-justify\"><span style=\"background-color: rgb(252, 250, 246); color: rgb(34, 34, 34);\">Theo Cục Trồng trọt (Bộ Nông nghiệp và Phát triển nông thôn), những năm gần đây, diện tích bưởi tăng nhanh (tốc độ hơn 10% một năm), với diện tích toàn miền Nam tính đến năm 2021 gần 50.000 ha. Những tỉnh có diện tích trồng bưởi lớn là Bến Tre, Vĩnh Long, Đồng Nai...</span></h3>",
+    "imageUrl": "https://images.f99.com.vn/images/83de6706-1e70-4a2b-b560-90c776155785.png",
+    "price": 59900,
+    "oldPrice": 52900,
+    "discountPercent": -13,
+    "stock": 137,
+    "totalSold": 1447,
+    "maxQuantityPerUser": null,
+    "unit": "quả",
+    "sku": "20000050",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.7,
+    "instructions": null,
+    "category": {
+      "id": 39,
+      "name": "Bưởi",
+      "imageUrl": "https://imgur.com/0tqoC39.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/83de6706-1e70-4a2b-b560-90c776155785.png",
+      "https://images.f99.com.vn/images/2b4c4a84-0551-46d2-a57a-23812ca02626.png",
+      "https://images.f99.com.vn/images/38c7e30c-d1bd-4c76-a96c-afbb36559798.png",
+      "https://images.f99.com.vn/images/c1dd3cd4-5d3f-418c-8247-b3c130c9d451.png",
+      "https://images.f99.com.vn/images/fccd90f1-84cc-4739-9d38-3f083677600c.png",
+      "https://images.f99.com.vn/images/b6654e2e-921f-4265-b383-baa752d03a3f.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/2183",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "size L (1.4 - 1.6 kg/quả)",
+          "Size M (1.2 - 1.4 kg/quả)",
+          "Size S (1 - 1.2 kg/quả)"
+        ]
+      },
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 4982,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Size S (1 - 1.2 kg/quả) / 1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Size S (1 - 1.2 kg/quả)",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Size S (1 - 1.2 kg/quả) / 1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 59900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 23,
+        "totalSold": 462,
+        "unit": "quả",
+        "sku": "20000050",
+        "rating": 4.7,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Size S (1 - 1.2 kg/quả)"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 4980,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Size M (1.2 - 1.4 kg/quả) / 1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Size M (1.2 - 1.4 kg/quả)",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Size M (1.2 - 1.4 kg/quả) / 1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 69900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 541,
+        "unit": "quả",
+        "sku": "20000049",
+        "rating": 4.7,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Size M (1.2 - 1.4 kg/quả)"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 4979,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "size L (1.4 - 1.6 kg/quả) / 1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "size L (1.4 - 1.6 kg/quả)",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "size L (1.4 - 1.6 kg/quả) / 1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 79900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 14,
+        "totalSold": 444,
+        "unit": "quả",
+        "sku": "20000048",
+        "rating": 4.7,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "size L (1.4 - 1.6 kg/quả)"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 6899,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bưởi Da Xanh Vinagreenco",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p Class=\"ql-align-justify\">Bến Tre nổi tiếng là vùng đất của các loại&nbsp;hoa quả&nbsp;trong nước như: măng cụt, chôm chôm, hồng xiêm,... Trong đó không thể không nhắc tới bưởi da xanh ruột hồng (hay còn gọi là bưởi hồng da xanh), loại cây kiêu kỳ,&nbsp;khó tính được trồng và chăm sóc kỹ lưỡng từ khâu trồng đến lúc thu hoạch.</p><p class=\"ql-align-center\"><img src=\"https://cdn-img-v2.webbnc.net/media/4678/vuon-buoi-da-xanh.jpg\" alt=\"vườn bưởi da xanh bến tre\"></p><h2 class=\"ql-align-justify\"><strong style=\"color: rgb(0, 128, 0);\">1. Đặc điểm của bưởi hồng da xanh</strong></h2><p class=\"ql-align-justify\">+ Bưởi hồng da xanh có hình cầu, màu xanh đậm bắt mắt, quả nặng trung bình từ 1,2-2 kg/trái</p><p class=\"ql-align-justify\">+ Khi chín vỏ bưởi có màu xanh hơi vàng, ruột màu đỏ hồng, tép bưởi ráo nước, dễ tách ra khỏi bó múi</p><p class=\"ql-align-justify\">+ Bưởi có vị ngọt, mùi thơm tự nhiên, tỷ lệ thịt quả trên 55%</p><p class=\"ql-align-center\"><img src=\"https://cdn-img-v2.webbnc.net/media/4678/buoi-da-xanh-ruot-hong.jpg\" alt=\"Bưởi da xanh ruột hồng bến tre\"></p><p class=\"ql-align-center\">Quý khách có thể hoàn toàn yên tâm về chất lượng bưởi da xanh bến tre tại Donavi</p><h2 class=\"ql-align-justify\"><strong style=\"color: rgb(0, 128, 0);\">2. Tác dụng của việc sử dụng bưởi hồng da xanh</strong></h2><p class=\"ql-align-justify\">+ Sử dụng bưởi thường xuyên giúp giảm cân, giảm cholesterol xấu trong cơ thể.</p><p class=\"ql-align-justify\">+ Bưởi còn có tác dụng kích thích tóc mọc nhiều.</p><p class=\"ql-align-justify\">+ Làm đẹp da, chống mụn nhọt.</p><p class=\"ql-align-justify\">+ Bưởi rất giàu vitamin C, giúp ngăn ngừa sỏi thận, phòng chống bệnh ung thư,...</p><p class=\"ql-align-justify\">+ Trị đau bụng, khó tiêu, thấp khớp,...</p><h2 class=\"ql-align-justify\"><br></h2>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/fc1a04e6-9750-4eed-ac3c-e414a87804c8.jpg\",\"https://images.f99.com.vn/images/b9a462df-3154-4a50-bf06-9e47df4f3f33.jpg\",\"https://images.f99.com.vn/images/16d5da89-72cb-42b0-9501-6163c799c4c7.jpg\",\"https://images.f99.com.vn/images/7903a780-d331-4e86-b1ba-eb9f94e47954.jpg\",\"https://images.f99.com.vn/images/ef9189c0-90e6-49ca-8edd-5fdfd8025942.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bưởi Da Xanh Vinagreenco",
+    "description": "<p Class=\"ql-align-justify\">Bến Tre nổi tiếng là vùng đất của các loại&nbsp;hoa quả&nbsp;trong nước như: măng cụt, chôm chôm, hồng xiêm,... Trong đó không thể không nhắc tới bưởi da xanh ruột hồng (hay còn gọi là bưởi hồng da xanh), loại cây kiêu kỳ,&nbsp;khó tính được trồng và chăm sóc kỹ lưỡng từ khâu trồng đến lúc thu hoạch.</p><p class=\"ql-align-center\"><img src=\"https://cdn-img-v2.webbnc.net/media/4678/vuon-buoi-da-xanh.jpg\" alt=\"vườn bưởi da xanh bến tre\"></p><h2 class=\"ql-align-justify\"><strong style=\"color: rgb(0, 128, 0);\">1. Đặc điểm của bưởi hồng da xanh</strong></h2><p class=\"ql-align-justify\">+ Bưởi hồng da xanh có hình cầu, màu xanh đậm bắt mắt, quả nặng trung bình từ 1,2-2 kg/trái</p><p class=\"ql-align-justify\">+ Khi chín vỏ bưởi có màu xanh hơi vàng, ruột màu đỏ hồng, tép bưởi ráo nước, dễ tách ra khỏi bó múi</p><p class=\"ql-align-justify\">+ Bưởi có vị ngọt, mùi thơm tự nhiên, tỷ lệ thịt quả trên 55%</p><p class=\"ql-align-center\"><img src=\"https://cdn-img-v2.webbnc.net/media/4678/buoi-da-xanh-ruot-hong.jpg\" alt=\"Bưởi da xanh ruột hồng bến tre\"></p><p class=\"ql-align-center\">Quý khách có thể hoàn toàn yên tâm về chất lượng bưởi da xanh bến tre tại Donavi</p><h2 class=\"ql-align-justify\"><strong style=\"color: rgb(0, 128, 0);\">2. Tác dụng của việc sử dụng bưởi hồng da xanh</strong></h2><p class=\"ql-align-justify\">+ Sử dụng bưởi thường xuyên giúp giảm cân, giảm cholesterol xấu trong cơ thể.</p><p class=\"ql-align-justify\">+ Bưởi còn có tác dụng kích thích tóc mọc nhiều.</p><p class=\"ql-align-justify\">+ Làm đẹp da, chống mụn nhọt.</p><p class=\"ql-align-justify\">+ Bưởi rất giàu vitamin C, giúp ngăn ngừa sỏi thận, phòng chống bệnh ung thư,...</p><p class=\"ql-align-justify\">+ Trị đau bụng, khó tiêu, thấp khớp,...</p><h2 class=\"ql-align-justify\"><br></h2>",
+    "imageUrl": "https://images.f99.com.vn/images/fc1a04e6-9750-4eed-ac3c-e414a87804c8.jpg",
+    "price": 50000,
+    "oldPrice": 80000,
+    "discountPercent": 38,
+    "stock": 1548000,
+    "totalSold": 149,
+    "maxQuantityPerUser": null,
+    "unit": "Quả (1-1,2kg)",
+    "sku": "BUOIDAXANH",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p>Quý khách vui lòng kiểm tra sản phẩm trước khi nhận hàng</p><p>Phản hồi sản phẩm vui lòng liên hệ:</p><p>Hotline: 0974.956.933</p><p>Địa chỉ: Số 10A, ngõ 61Phố Khương Trung,Khương Trung, Thanh Xuân, Hà Nội</p>",
+    "category": {
+      "id": 39,
+      "name": "Bưởi",
+      "imageUrl": "https://imgur.com/0tqoC39.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/fc1a04e6-9750-4eed-ac3c-e414a87804c8.jpg",
+      "https://images.f99.com.vn/images/b9a462df-3154-4a50-bf06-9e47df4f3f33.jpg",
+      "https://images.f99.com.vn/images/16d5da89-72cb-42b0-9501-6163c799c4c7.jpg",
+      "https://images.f99.com.vn/images/7903a780-d331-4e86-b1ba-eb9f94e47954.jpg",
+      "https://images.f99.com.vn/images/ef9189c0-90e6-49ca-8edd-5fdfd8025942.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/6899",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1  Quả size L",
+          "1 Quả Size S",
+          "Combo 3 Quả size L",
+          "Combo 3 quả size S",
+          "Combo 5 Quả size L"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 75844,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Quả Size S",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 Quả Size S",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Quả Size S",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 50000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 309600,
+        "totalSold": 34,
+        "unit": "Quả (1-1,2kg)",
+        "sku": "BUOIDAXANH",
+        "rating": 5,
+        "instructions": "<p>Quý khách vui lòng kiểm tra sản phẩm trước khi nhận hàng</p><p>Phản hồi sản phẩm vui lòng liên hệ:</p><p>Hotline: 0974.956.933</p><p>Địa chỉ: Số 10A, ngõ 61Phố Khương Trung,Khương Trung, Thanh Xuân, Hà Nội</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 Quả Size S"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 75842,
+        "attributeTextValues": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1  Quả size L",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1  Quả size L",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1  Quả size L",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 75000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 309600,
+        "totalSold": 38,
+        "unit": "Quả (1-1,2kg)",
+        "sku": "BUOIDAXANH",
+        "rating": 5,
+        "instructions": "<p>Quý khách vui lòng kiểm tra sản phẩm trước khi nhận hàng</p><p>Phản hồi sản phẩm vui lòng liên hệ:</p><p>Hotline: 0974.956.933</p><p>Địa chỉ: Số 10A, ngõ 61Phố Khương Trung,Khương Trung, Thanh Xuân, Hà Nội</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1  Quả size L"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 75841,
+        "attributeTextValues": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 3 Quả size L",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 3 Quả size L",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 3 Quả size L",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 225000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 309600,
+        "totalSold": 26,
+        "unit": "Quả (1-1,2kg)",
+        "sku": "BUOIDAXANH",
+        "rating": 5,
+        "instructions": "<p>Quý khách vui lòng kiểm tra sản phẩm trước khi nhận hàng</p><p>Phản hồi sản phẩm vui lòng liên hệ:</p><p>Hotline: 0974.956.933</p><p>Địa chỉ: Số 10A, ngõ 61Phố Khương Trung,Khương Trung, Thanh Xuân, Hà Nội</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 3 Quả size L"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 75840,
+        "attributeTextValues": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 5 Quả size L",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 5 Quả size L",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 5 Quả size L",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 370000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 309600,
+        "totalSold": 25,
+        "unit": "Quả (1-1,2kg)",
+        "sku": "BUOIDAXANH",
+        "rating": 5,
+        "instructions": "<p>Quý khách vui lòng kiểm tra sản phẩm trước khi nhận hàng</p><p>Phản hồi sản phẩm vui lòng liên hệ:</p><p>Hotline: 0974.956.933</p><p>Địa chỉ: Số 10A, ngõ 61Phố Khương Trung,Khương Trung, Thanh Xuân, Hà Nội</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 5 Quả size L"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 75839,
+        "attributeTextValues": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 3 quả size S",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 3 quả size S",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 3 quả size S",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 148000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 309600,
+        "totalSold": 26,
+        "unit": "Quả (1-1,2kg)",
+        "sku": "BUOIDAXANH",
+        "rating": 5,
+        "instructions": "<p>Quý khách vui lòng kiểm tra sản phẩm trước khi nhận hàng</p><p>Phản hồi sản phẩm vui lòng liên hệ:</p><p>Hotline: 0974.956.933</p><p>Địa chỉ: Số 10A, ngõ 61Phố Khương Trung,Khương Trung, Thanh Xuân, Hà Nội</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 3 quả size S"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 6906,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bưởi Năm Roi  Vĩnh Long",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p Class=\"ql-align-justify\">Khác với&nbsp;<strong>Bưởi Diễn</strong>, Bưởi năm roi là loại bưởi rất được ưa thích vì có vị ngọt dịu đặc trưng, múi bưởi luôn căng mọng nước. Bưởi là loại trái cây có nhiều lợi ích đối với sức khỏe con người. Bưởi năm roi được phân phối bởi Auchan được trồng theo phương pháp hữu cơ, luôn đảm bảo chất lượng, thơm ngon và an toàn tuyệt đối cho người tiêu dùng.</p><p class=\"ql-align-justify\">Đi tour du lịch miền Tây, du khách nào cũng bị đặc sản trái cây làm mê hoặc. Cứ vào tháng Chạp và tháng 8 âm lịch hàng năm, một mùi hương sảng khoái lạ lùng lại xuất hiện đầy hấp dẫn trên nhiều vùng đất của mảnh đất Đồng bằng Sông Cửu Long. Nhưng, nơi mà mùi hương đặc biệt ấy xuất hiện nổi bật nhất, khiến nhiều người tìm đến nhất chính là vùng đất Vĩnh Long. Và mùi hương mà chúng ta đề cập đến không gì khác ngoài mùi thơm độc đáo của những mùa bưởi chín. Hơn hết, đó còn là những mùa bưởi 5 roi. Ai đi ngang Vĩnh Long đúng mùa, dường như đều không quên mua vài trái bưởi 5 roi đặc sản Vĩnh Long làm quà.</p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/4f74f083-a31c-40ff-b6e1-f1143ac0af71.jpg\"></p><h3 class=\"ql-align-center\"><br></h3>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/05798c32-bc50-422a-b060-ca98b435fd28.jpg\",\"https://images.f99.com.vn/images/2e7fcd6b-9480-49d3-9fe1-1a1116a8b6b0.jpg\",\"https://images.f99.com.vn/images/4fc925ee-08b3-4b86-969c-7690b32bac13.jpg\",\"https://images.f99.com.vn/images/e8f5c1d5-46b2-494a-a582-3b05e18555bf.jpg\",\"https://images.f99.com.vn/images/8b4bf0eb-fd14-4ef6-b429-df4d13068d3f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bưởi Năm Roi  Vĩnh Long",
+    "description": "<p Class=\"ql-align-justify\">Khác với&nbsp;<strong>Bưởi Diễn</strong>, Bưởi năm roi là loại bưởi rất được ưa thích vì có vị ngọt dịu đặc trưng, múi bưởi luôn căng mọng nước. Bưởi là loại trái cây có nhiều lợi ích đối với sức khỏe con người. Bưởi năm roi được phân phối bởi Auchan được trồng theo phương pháp hữu cơ, luôn đảm bảo chất lượng, thơm ngon và an toàn tuyệt đối cho người tiêu dùng.</p><p class=\"ql-align-justify\">Đi tour du lịch miền Tây, du khách nào cũng bị đặc sản trái cây làm mê hoặc. Cứ vào tháng Chạp và tháng 8 âm lịch hàng năm, một mùi hương sảng khoái lạ lùng lại xuất hiện đầy hấp dẫn trên nhiều vùng đất của mảnh đất Đồng bằng Sông Cửu Long. Nhưng, nơi mà mùi hương đặc biệt ấy xuất hiện nổi bật nhất, khiến nhiều người tìm đến nhất chính là vùng đất Vĩnh Long. Và mùi hương mà chúng ta đề cập đến không gì khác ngoài mùi thơm độc đáo của những mùa bưởi chín. Hơn hết, đó còn là những mùa bưởi 5 roi. Ai đi ngang Vĩnh Long đúng mùa, dường như đều không quên mua vài trái bưởi 5 roi đặc sản Vĩnh Long làm quà.</p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/4f74f083-a31c-40ff-b6e1-f1143ac0af71.jpg\"></p><h3 class=\"ql-align-center\"><br></h3>",
+    "imageUrl": "https://images.f99.com.vn/images/05798c32-bc50-422a-b060-ca98b435fd28.jpg",
+    "price": 19900,
+    "oldPrice": 39000,
+    "discountPercent": 49,
+    "stock": 13160000,
+    "totalSold": 165,
+    "maxQuantityPerUser": null,
+    "unit": "1 Quả",
+    "sku": "buoi nam roi",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Phản hồi sản phẩm vui lòng liên hệ: </span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Hotline:0974956933</span></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Địa chỉ: Số 10A, ngõ 61 Khương Trung , Phố Khương Trung, Khương Trung,Thanh Xuân,HN.</span></p>",
+    "category": {
+      "id": 39,
+      "name": "Bưởi",
+      "imageUrl": "https://imgur.com/0tqoC39.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/05798c32-bc50-422a-b060-ca98b435fd28.jpg",
+      "https://images.f99.com.vn/images/2e7fcd6b-9480-49d3-9fe1-1a1116a8b6b0.jpg",
+      "https://images.f99.com.vn/images/4fc925ee-08b3-4b86-969c-7690b32bac13.jpg",
+      "https://images.f99.com.vn/images/e8f5c1d5-46b2-494a-a582-3b05e18555bf.jpg",
+      "https://images.f99.com.vn/images/8b4bf0eb-fd14-4ef6-b429-df4d13068d3f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/6906",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 Quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 55693,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 Quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 19900,
+        "oldPrice": 39000,
+        "discountPercent": 49,
+        "stock": 13160000,
+        "totalSold": 165,
+        "unit": "1 Quả",
+        "sku": "buoi nam roi",
+        "rating": 5,
+        "instructions": "<p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Phản hồi sản phẩm vui lòng liên hệ: </span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Hotline:0974956933</span></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Địa chỉ: Số 10A, ngõ 61 Khương Trung , Phố Khương Trung, Khương Trung,Thanh Xuân,HN.</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 Quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7521,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bưởi Da Xanh Phú Quý- Bến Tre",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgb(230, 0, 0);\">Shop sẽ cân lại và thông báo cho khách hàng khối lượng và giá tiền theo thực tế sản phẩm.</strong></p><p><br></p><p><img src=\"https://images.f99.com.vn/images/0bdb4a03-a617-4a60-ab48-8b95571e5f6c.jpg\"></p><p><br></p><p><br></p><p><br></p><p><br></p><p>✔️ Được thu hái tại vườn , đảm bảo chất lượng.</p><p><br></p><p>✔️ Quả to đều , chắc tay , màu đẹp, vị ngọt đậm đà đặc trưng.</p><p><br></p><p class=\"ql-align-justify\">✔️ Bảo quản tươi ngon và giao hàng đến tận tay quý khách.</p><p><br></p><p><strong>GIÁ TRỊ DINH DƯỠNG :</strong></p><p><br></p><p>✔️<span style=\"color: rgb(38, 38, 38);\">Các chất dinh dưỡng trong bưởi giúp&nbsp;tăng cường&nbsp;sức khỏe, duy trì cân nặng ổn định và làm đẹp da. </span></p><p>✔️<span style=\"color: rgb(38, 38, 38);\">&nbsp;Giảm nguy cơ mắc bệnh tim mạch.</span></p><p><br></p><p>✔️<span style=\"color: rgb(38, 38, 38);\"> Hàm lượng chất xơ cao, bưởi rất tuyệt vời đối với nhu động ruột của cơ thể.</span></p><p><br></p><p>✔️<span style=\"color: rgb(38, 38, 38);\">Bưởi có chứa một lượng kali cao giúp thư giãn các mạch máu và thúc đẩy sự lưu thông máu dễ dàng hơn.&nbsp;</span></p><p>✔️<span style=\"color: rgb(38, 38, 38);\">Kali trong bưởi có thể giúp xương chắc khoẻ.&nbsp;</span></p><p><br></p><p>✔️<span style=\"color: rgb(38, 38, 38);\">Hàm lượng vitamin C của quả bưởi là một chất chống oxy hoá mạnh giúp tiêu diệt các gốc tự do ngăn chặn tình trạng căng thẳng oxy hóa.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/70e8d3a1-7c33-4803-b77c-65a81a8dd972.jpg\",\"https://images.f99.com.vn/images/675e7979-62c3-4f1e-9569-5778020bb56c.jpg\",\"https://images.f99.com.vn/images/dabcd9b9-efbb-41ec-834d-3cbcde2ed429.jpg\",\"https://images.f99.com.vn/images/e71c74c1-1b00-46f6-987b-567ebfd90935.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"bưởi\",\"bưởi da xanh\",\"bưởi bến tre\",\"bưởi xanh\",\"bưởi phú quý\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bưởi Da Xanh Phú Quý- Bến Tre",
+    "description": "<p><strong style=\"color: rgb(230, 0, 0);\">Shop sẽ cân lại và thông báo cho khách hàng khối lượng và giá tiền theo thực tế sản phẩm.</strong></p><p><br></p><p><img src=\"https://images.f99.com.vn/images/0bdb4a03-a617-4a60-ab48-8b95571e5f6c.jpg\"></p><p><br></p><p><br></p><p><br></p><p><br></p><p>✔️ Được thu hái tại vườn , đảm bảo chất lượng.</p><p><br></p><p>✔️ Quả to đều , chắc tay , màu đẹp, vị ngọt đậm đà đặc trưng.</p><p><br></p><p class=\"ql-align-justify\">✔️ Bảo quản tươi ngon và giao hàng đến tận tay quý khách.</p><p><br></p><p><strong>GIÁ TRỊ DINH DƯỠNG :</strong></p><p><br></p><p>✔️<span style=\"color: rgb(38, 38, 38);\">Các chất dinh dưỡng trong bưởi giúp&nbsp;tăng cường&nbsp;sức khỏe, duy trì cân nặng ổn định và làm đẹp da. </span></p><p>✔️<span style=\"color: rgb(38, 38, 38);\">&nbsp;Giảm nguy cơ mắc bệnh tim mạch.</span></p><p><br></p><p>✔️<span style=\"color: rgb(38, 38, 38);\"> Hàm lượng chất xơ cao, bưởi rất tuyệt vời đối với nhu động ruột của cơ thể.</span></p><p><br></p><p>✔️<span style=\"color: rgb(38, 38, 38);\">Bưởi có chứa một lượng kali cao giúp thư giãn các mạch máu và thúc đẩy sự lưu thông máu dễ dàng hơn.&nbsp;</span></p><p>✔️<span style=\"color: rgb(38, 38, 38);\">Kali trong bưởi có thể giúp xương chắc khoẻ.&nbsp;</span></p><p><br></p><p>✔️<span style=\"color: rgb(38, 38, 38);\">Hàm lượng vitamin C của quả bưởi là một chất chống oxy hoá mạnh giúp tiêu diệt các gốc tự do ngăn chặn tình trạng căng thẳng oxy hóa.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/70e8d3a1-7c33-4803-b77c-65a81a8dd972.jpg",
+    "price": 119000,
+    "oldPrice": 191000,
+    "discountPercent": 38,
+    "stock": 720,
+    "totalSold": 217,
+    "maxQuantityPerUser": null,
+    "unit": "quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 96,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 221,
+    "instructions": "<p><img src=\"https://images.f99.com.vn/images/637d0fa6-a50d-4c22-9d9e-2ce17bb07bb4.jpg\"></p>",
+    "category": {
+      "id": 39,
+      "name": "Bưởi",
+      "imageUrl": "https://imgur.com/0tqoC39.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "bưởi",
+      "bưởi da xanh",
+      "bưởi bến tre",
+      "bưởi xanh",
+      "bưởi phú quý"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/70e8d3a1-7c33-4803-b77c-65a81a8dd972.jpg",
+      "https://images.f99.com.vn/images/675e7979-62c3-4f1e-9569-5778020bb56c.jpg",
+      "https://images.f99.com.vn/images/dabcd9b9-efbb-41ec-834d-3cbcde2ed429.jpg",
+      "https://images.f99.com.vn/images/e71c74c1-1b00-46f6-987b-567ebfd90935.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7521",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "Size M ( 1.5 - 1.6kg/quả)",
+          "Size XL ( 1.9 - 2kg/quả)"
+        ]
+      },
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 Quả",
+          "3 Quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 9100,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Quả / Size M ( 1.5 - 1.6kg/quả)",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Size M ( 1.5 - 1.6kg/quả)",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 Quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Quả / Size M ( 1.5 - 1.6kg/quả)",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 119000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 180,
+        "totalSold": 54,
+        "unit": "quả",
+        "sku": "",
+        "rating": 221,
+        "instructions": "<p><img src=\"https://images.f99.com.vn/images/637d0fa6-a50d-4c22-9d9e-2ce17bb07bb4.jpg\"></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Size M ( 1.5 - 1.6kg/quả)"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 Quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 9097,
+        "attributeTextValues": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Size XL ( 1.9 - 2kg/quả)",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 Quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Quả / Size XL ( 1.9 - 2kg/quả)",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Quả / Size XL ( 1.9 - 2kg/quả)",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 169000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 180,
+        "totalSold": 54,
+        "unit": "quả",
+        "sku": "",
+        "rating": 221,
+        "instructions": "<p><img src=\"https://images.f99.com.vn/images/637d0fa6-a50d-4c22-9d9e-2ce17bb07bb4.jpg\"></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Size XL ( 1.9 - 2kg/quả)"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 Quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 9096,
+        "attributeTextValues": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Size M ( 1.5 - 1.6kg/quả)",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "3 Quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "3 Quả / Size M ( 1.5 - 1.6kg/quả)",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "3 Quả / Size M ( 1.5 - 1.6kg/quả)",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 339000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 180,
+        "totalSold": 55,
+        "unit": "quả",
+        "sku": "",
+        "rating": 221,
+        "instructions": "<p><img src=\"https://images.f99.com.vn/images/637d0fa6-a50d-4c22-9d9e-2ce17bb07bb4.jpg\"></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Size M ( 1.5 - 1.6kg/quả)"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "3 Quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 9099,
+        "attributeTextValues": [
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "3 Quả / Size XL ( 1.9 - 2kg/quả)",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "3 Quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Size XL ( 1.9 - 2kg/quả)",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "3 Quả / Size XL ( 1.9 - 2kg/quả)",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 499000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 180,
+        "totalSold": 54,
+        "unit": "quả",
+        "sku": "",
+        "rating": 221,
+        "instructions": "<p><img src=\"https://images.f99.com.vn/images/637d0fa6-a50d-4c22-9d9e-2ce17bb07bb4.jpg\"></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "3 Quả"
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Size XL ( 1.9 - 2kg/quả)"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 96,
+      "sellerRate": 4.4,
+      "sellerName": "Ánh Vy Fruit",
+      "warehouseId": "4ead612c-994e-4201-ab8c-583f2ba5437c",
+      "warehouseAddress": "10 Nguyễn Khánh Toàn, phường Quan Hoa, quận Cầu Giấy, Hà Nội ",
+      "distance": 3233,
+      "warehouseDistrict": "cau giay",
+      "reputation": 76.48368498960507,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 9375,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bưởi Da xanh 1kg-1,2kg",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Bưởi da xanh bến tre size 1,1- 1,3 mỏng vỏ, tép bưởi đỏ ngọt, đậm vị .mọng nước. Bưởi da xanh là giống bưởi ngon được trồng ở miền trong với vùng đất đặc trưng cho giống bưởi</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/1cf86d5e-9ad6-4963-996b-15ab6bf30958.jpg\",\"https://images.f99.com.vn/images/3d8660af-8d26-4b79-a7be-6ed53eb275ef.jpg\",\"https://images.f99.com.vn/images/3f91d0c1-dd16-4346-9e4a-3f21693481fb.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bưởi Da xanh 1kg-1,2kg",
+    "description": "<p>Bưởi da xanh bến tre size 1,1- 1,3 mỏng vỏ, tép bưởi đỏ ngọt, đậm vị .mọng nước. Bưởi da xanh là giống bưởi ngon được trồng ở miền trong với vùng đất đặc trưng cho giống bưởi</p>",
+    "imageUrl": "https://images.f99.com.vn/images/1cf86d5e-9ad6-4963-996b-15ab6bf30958.jpg",
+    "price": 65000,
+    "oldPrice": 70000,
+    "discountPercent": 7,
+    "stock": 200,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "1 quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 118,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>bảo quản nhiệt độ</p>",
+    "category": {
+      "id": 39,
+      "name": "Bưởi",
+      "imageUrl": "https://imgur.com/0tqoC39.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/1cf86d5e-9ad6-4963-996b-15ab6bf30958.jpg",
+      "https://images.f99.com.vn/images/3d8660af-8d26-4b79-a7be-6ed53eb275ef.jpg",
+      "https://images.f99.com.vn/images/3f91d0c1-dd16-4346-9e4a-3f21693481fb.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/9375",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 55707,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 65000,
+        "oldPrice": 70000,
+        "discountPercent": 7,
+        "stock": 200,
+        "totalSold": 2,
+        "unit": "1 quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>bảo quản nhiệt độ</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 118,
+      "sellerRate": 3.9,
+      "sellerName": "Đinh Hương Fruit",
+      "warehouseId": "7d5007b2-5563-4d11-a461-2b659e39fcf0",
+      "warehouseAddress": "64 Khương Đình, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",
+      "distance": 3572,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 55.8364615384624,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 12847,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "𝑩𝒖̛𝒐̛̉𝒊 𝒅𝒂 𝒙𝒂𝒏𝒉",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>BƯỞI DA XANH SIÊU NGỌT - hàng về phục vụ CE dâng hương mùng 1 nha!</p><p>Bưởi siêu ngọt bán sướng lắm ấy&nbsp;<span style=\"color: transparent;\">😘</span>&nbsp;Toàn được các chệ khen</p><p>Khách đã ăn là sẽ khen - khen xong đặt nữa ...</p><p>Dù hàng ra khó có đắt hơn nhưng ngon lắm lắm ạ</p><p>Em tự tin bao ăn từng quả nha CE</p><p>Size Vip to luôn ạ 1.4 - 1.6kg</p><p>Múi to, mã mượt, già quả tép đỏ cực ngon</p><p>Bưởi trên TT đứt lứa giá cao, hàng này là hàng siêu ngọt nhá CE</p><p>Ăn bưởi thoải mái vừa ngon, vừa bổ sung chất sơ, bổ sung VTM C , cực tốt cho đường ruột lại hỗ trợ giảm cân...</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/aa193023-787b-4544-92d4-2d10e8e908b8.jpg\",\"https://images.f99.com.vn/images/8eb44e49-fd03-4480-89a1-94c990ba5488.jpg\",\"https://images.f99.com.vn/images/8d4536ea-5291-41b4-98ff-bc73326e5d9e.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "𝑩𝒖̛𝒐̛̉𝒊 𝒅𝒂 𝒙𝒂𝒏𝒉",
+    "description": "<p>BƯỞI DA XANH SIÊU NGỌT - hàng về phục vụ CE dâng hương mùng 1 nha!</p><p>Bưởi siêu ngọt bán sướng lắm ấy&nbsp;<span style=\"color: transparent;\">😘</span>&nbsp;Toàn được các chệ khen</p><p>Khách đã ăn là sẽ khen - khen xong đặt nữa ...</p><p>Dù hàng ra khó có đắt hơn nhưng ngon lắm lắm ạ</p><p>Em tự tin bao ăn từng quả nha CE</p><p>Size Vip to luôn ạ 1.4 - 1.6kg</p><p>Múi to, mã mượt, già quả tép đỏ cực ngon</p><p>Bưởi trên TT đứt lứa giá cao, hàng này là hàng siêu ngọt nhá CE</p><p>Ăn bưởi thoải mái vừa ngon, vừa bổ sung chất sơ, bổ sung VTM C , cực tốt cho đường ruột lại hỗ trợ giảm cân...</p>",
+    "imageUrl": "https://images.f99.com.vn/images/aa193023-787b-4544-92d4-2d10e8e908b8.jpg",
+    "price": 110000,
+    "oldPrice": 130000,
+    "discountPercent": 15,
+    "stock": 100,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "quar",
+    "sku": "",
+    "origin": "",
+    "sellerId": 202,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.8,
+    "instructions": "",
+    "category": {
+      "id": 39,
+      "name": "Bưởi",
+      "imageUrl": "https://imgur.com/0tqoC39.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/aa193023-787b-4544-92d4-2d10e8e908b8.jpg",
+      "https://images.f99.com.vn/images/8eb44e49-fd03-4480-89a1-94c990ba5488.jpg",
+      "https://images.f99.com.vn/images/8d4536ea-5291-41b4-98ff-bc73326e5d9e.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12847",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "quar"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 95465,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 quar",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "quar",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 quar",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 110000,
+        "oldPrice": 130000,
+        "discountPercent": 15,
+        "stock": 100,
+        "totalSold": 1,
+        "unit": "quar",
+        "sku": "",
+        "rating": 4.8,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "quar"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 202,
+      "sellerRate": 4.8,
+      "sellerName": "KaMart",
+      "warehouseId": "0793ea85-5017-480b-a8ad-ed54928d4af4",
+      "warehouseAddress": " 83 Phủ Doãn, Hàng Trống, Hoàn Kiếm, Hà Nội",
+      "distance": 1422,
+      "warehouseDistrict": "hoan kiem",
+      "reputation": 64.76329333333334,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 12916,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bưởi Da Xanh Bóc Sẵn",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p Class=\"ql-align-justify\">Bến Tre nổi tiếng là vùng đất của các loại&nbsp;hoa trong nước như: măng cụt, chôm chôm, hồng xiêm,... Trong đó không thể không nhắc tới bưởi da xanh ruột hồng (hay còn gọi là bưởi hồng da xanh), loại cây kiêu kỳ,&nbsp;khó tính được trồng và chăm sóc kỹ lưỡng từ khâu trồng đến lúc thu hoạch.</p><p class=\"ql-align-center\"><img src=\"https://cdn-img-v2.webbnc.net/media/4678/vuon-buoi-da-xanh.jpg\" alt=\"vườn bưởi da xanh bến tre\"></p><h2 class=\"ql-align-justify\"><strong style=\"color: rgb(0, 128, 0);\">1. Đặc điểm của bưởi hồng da xanh</strong></h2><p class=\"ql-align-justify\">+ Bưởi hồng da xanh có hình cầu, màu xanh đậm bắt mắt, quả nặng trung bình từ 1,2-2 kg/trái</p><p class=\"ql-align-justify\">+ Khi chín vỏ bưởi có màu xanh hơi vàng, ruột màu đỏ hồng, tép bưởi ráo nước, dễ tách ra khỏi bó múi</p><p class=\"ql-align-justify\">+ Bưởi có vị ngọt, mùi thơm tự nhiên, tỷ lệ thịt quả trên 55%</p><p class=\"ql-align-center\"><img src=\"https://cdn-img-v2.webbnc.net/media/4678/buoi-da-xanh-ruot-hong.jpg\" alt=\"Bưởi da xanh ruột hồng bến tre\"></p><p class=\"ql-align-center\">Quý khách có thể hoàn toàn yên tâm về chất lượng bưởi da xanh bến tre tại Donavi</p><h2 class=\"ql-align-justify\"><strong style=\"color: rgb(0, 128, 0);\">2. Tác dụng của việc sử dụng bưởi hồng da xanh</strong></h2><p class=\"ql-align-justify\">+ Sử dụng bưởi thường xuyên giúp giảm cân, giảm cholesterol xấu trong cơ thể.</p><p class=\"ql-align-justify\">+ Bưởi còn có tác dụng kích thích tóc mọc nhiều.</p><p class=\"ql-align-justify\">+ Làm đẹp da, chống mụn nhọt.</p><p class=\"ql-align-justify\">+ Bưởi rất giàu vitamin C, giúp ngăn ngừa sỏi thận, phòng chống bệnh ung thư,...</p><p class=\"ql-align-justify\">+ Trị đau bụng, khó tiêu, thấp khớp,...</p><h2 class=\"ql-align-justify\"><br></h2><h2 class=\"ql-align-justify\"><br></h2>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/88350ee3-8554-4d54-b58d-a0bdc1f4fc85.jpg\",\"https://images.f99.com.vn/images/92dedfa3-9203-4694-8df6-ac674bb44de7.jpg\",\"https://images.f99.com.vn/images/5a48723f-5349-42ca-8f07-db6a73d2a8eb.jpg\",\"https://images.f99.com.vn/images/3d63cf6c-0683-4e8a-a74e-31273f748496.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Bưởi Hồng Da Xanh\",\"Bưởi\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bưởi Da Xanh Bóc Sẵn",
+    "description": "<p Class=\"ql-align-justify\">Bến Tre nổi tiếng là vùng đất của các loại&nbsp;hoa trong nước như: măng cụt, chôm chôm, hồng xiêm,... Trong đó không thể không nhắc tới bưởi da xanh ruột hồng (hay còn gọi là bưởi hồng da xanh), loại cây kiêu kỳ,&nbsp;khó tính được trồng và chăm sóc kỹ lưỡng từ khâu trồng đến lúc thu hoạch.</p><p class=\"ql-align-center\"><img src=\"https://cdn-img-v2.webbnc.net/media/4678/vuon-buoi-da-xanh.jpg\" alt=\"vườn bưởi da xanh bến tre\"></p><h2 class=\"ql-align-justify\"><strong style=\"color: rgb(0, 128, 0);\">1. Đặc điểm của bưởi hồng da xanh</strong></h2><p class=\"ql-align-justify\">+ Bưởi hồng da xanh có hình cầu, màu xanh đậm bắt mắt, quả nặng trung bình từ 1,2-2 kg/trái</p><p class=\"ql-align-justify\">+ Khi chín vỏ bưởi có màu xanh hơi vàng, ruột màu đỏ hồng, tép bưởi ráo nước, dễ tách ra khỏi bó múi</p><p class=\"ql-align-justify\">+ Bưởi có vị ngọt, mùi thơm tự nhiên, tỷ lệ thịt quả trên 55%</p><p class=\"ql-align-center\"><img src=\"https://cdn-img-v2.webbnc.net/media/4678/buoi-da-xanh-ruot-hong.jpg\" alt=\"Bưởi da xanh ruột hồng bến tre\"></p><p class=\"ql-align-center\">Quý khách có thể hoàn toàn yên tâm về chất lượng bưởi da xanh bến tre tại Donavi</p><h2 class=\"ql-align-justify\"><strong style=\"color: rgb(0, 128, 0);\">2. Tác dụng của việc sử dụng bưởi hồng da xanh</strong></h2><p class=\"ql-align-justify\">+ Sử dụng bưởi thường xuyên giúp giảm cân, giảm cholesterol xấu trong cơ thể.</p><p class=\"ql-align-justify\">+ Bưởi còn có tác dụng kích thích tóc mọc nhiều.</p><p class=\"ql-align-justify\">+ Làm đẹp da, chống mụn nhọt.</p><p class=\"ql-align-justify\">+ Bưởi rất giàu vitamin C, giúp ngăn ngừa sỏi thận, phòng chống bệnh ung thư,...</p><p class=\"ql-align-justify\">+ Trị đau bụng, khó tiêu, thấp khớp,...</p><h2 class=\"ql-align-justify\"><br></h2><h2 class=\"ql-align-justify\"><br></h2>",
+    "imageUrl": "https://images.f99.com.vn/images/88350ee3-8554-4d54-b58d-a0bdc1f4fc85.jpg",
+    "price": 89000,
+    "oldPrice": 100000,
+    "discountPercent": 11,
+    "stock": 20000,
+    "totalSold": 5,
+    "maxQuantityPerUser": null,
+    "unit": "Hộp bóc sẵn",
+    "sku": "Bu?i",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.8,
+    "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+    "category": {
+      "id": 39,
+      "name": "Bưởi",
+      "imageUrl": "https://imgur.com/0tqoC39.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Bưởi Hồng Da Xanh",
+      "Bưởi"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/88350ee3-8554-4d54-b58d-a0bdc1f4fc85.jpg",
+      "https://images.f99.com.vn/images/92dedfa3-9203-4694-8df6-ac674bb44de7.jpg",
+      "https://images.f99.com.vn/images/5a48723f-5349-42ca-8f07-db6a73d2a8eb.jpg",
+      "https://images.f99.com.vn/images/3d63cf6c-0683-4e8a-a74e-31273f748496.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12916",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Hộp bóc sẵn"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 86161,
+        "attributeTextValues": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Hộp bóc sẵn",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Hộp bóc sẵn",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Hộp bóc sẵn",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 89000,
+        "oldPrice": 100000,
+        "discountPercent": 11,
+        "stock": 20000,
+        "totalSold": 5,
+        "unit": "Hộp bóc sẵn",
+        "sku": "Bu?i",
+        "rating": 4.8,
+        "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Hộp bóc sẵn"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14271,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bưởi năm roi",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p Class=\"ql-align-justify\">Khác với&nbsp;<strong>Bưởi Diễn</strong>, Bưởi năm roi là loại bưởi rất được ưa thích vì có vị ngọt dịu đặc trưng, múi bưởi luôn căng mọng nước. Bưởi là loại trái cây có nhiều lợi ích đối với sức khỏe con người. Bưởi năm roi được phân phối bởi Auchan được trồng theo phương pháp hữu cơ, luôn đảm bảo chất lượng, thơm ngon và an toàn tuyệt đối cho người tiêu dùng.</p><p class=\"ql-align-justify\">Đi tour du lịch miền Tây, du khách nào cũng bị đặc sản trái cây làm mê hoặc. Cứ vào tháng Chạp và tháng 8 âm lịch hàng năm, một mùi hương sảng khoái lạ lùng lại xuất hiện đầy hấp dẫn trên nhiều vùng đất của mảnh đất Đồng bằng Sông Cửu Long. Nhưng, nơi mà mùi hương đặc biệt ấy xuất hiện nổi bật nhất, khiến nhiều người tìm đến nhất chính là vùng đất Vĩnh Long. Và mùi hương mà chúng ta đề cập đến không gì khác ngoài mùi thơm độc đáo của những mùa bưởi chín. Hơn hết, đó còn là những mùa bưởi 5 roi. Ai đi ngang Vĩnh Long đúng mùa, dường như đều không quên mua vài trái bưởi 5 roi đặc sản Vĩnh Long làm quà.</p><p class=\"ql-align-center\"><img src=\"http://buoidienbaominh.com/uploads/images/buoi-nam-roi-21.jpg\" alt=\"Giá bưởi Năm Roi luôn ở mức khá trong những năm gần đây\"></p><h3 class=\"ql-align-center\"><img src=\"http://buoidienbaominh.com/uploads/images/buoi-nam-roi-vinh-long-1.jpg\" alt=\"Giá bưởi Năm Roi Vĩnh Long luôn ở mức dẫn đầu cả nước\"></h3><h3 class=\"ql-align-center\"><br></h3><h3 class=\"ql-align-center\"><br></h3>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/9227fc53-8344-4751-9d0f-4fbad779d121.jpg\",\"https://images.f99.com.vn/images/d3efb4e7-83d0-481d-92a1-a563acd4941a.jpg\",\"https://images.f99.com.vn/images/35523873-25c4-4225-aaa0-9be7be5a4f96.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bưởi năm roi",
+    "description": "<p Class=\"ql-align-justify\">Khác với&nbsp;<strong>Bưởi Diễn</strong>, Bưởi năm roi là loại bưởi rất được ưa thích vì có vị ngọt dịu đặc trưng, múi bưởi luôn căng mọng nước. Bưởi là loại trái cây có nhiều lợi ích đối với sức khỏe con người. Bưởi năm roi được phân phối bởi Auchan được trồng theo phương pháp hữu cơ, luôn đảm bảo chất lượng, thơm ngon và an toàn tuyệt đối cho người tiêu dùng.</p><p class=\"ql-align-justify\">Đi tour du lịch miền Tây, du khách nào cũng bị đặc sản trái cây làm mê hoặc. Cứ vào tháng Chạp và tháng 8 âm lịch hàng năm, một mùi hương sảng khoái lạ lùng lại xuất hiện đầy hấp dẫn trên nhiều vùng đất của mảnh đất Đồng bằng Sông Cửu Long. Nhưng, nơi mà mùi hương đặc biệt ấy xuất hiện nổi bật nhất, khiến nhiều người tìm đến nhất chính là vùng đất Vĩnh Long. Và mùi hương mà chúng ta đề cập đến không gì khác ngoài mùi thơm độc đáo của những mùa bưởi chín. Hơn hết, đó còn là những mùa bưởi 5 roi. Ai đi ngang Vĩnh Long đúng mùa, dường như đều không quên mua vài trái bưởi 5 roi đặc sản Vĩnh Long làm quà.</p><p class=\"ql-align-center\"><img src=\"http://buoidienbaominh.com/uploads/images/buoi-nam-roi-21.jpg\" alt=\"Giá bưởi Năm Roi luôn ở mức khá trong những năm gần đây\"></p><h3 class=\"ql-align-center\"><img src=\"http://buoidienbaominh.com/uploads/images/buoi-nam-roi-vinh-long-1.jpg\" alt=\"Giá bưởi Năm Roi Vĩnh Long luôn ở mức dẫn đầu cả nước\"></h3><h3 class=\"ql-align-center\"><br></h3><h3 class=\"ql-align-center\"><br></h3>",
+    "imageUrl": "https://images.f99.com.vn/images/9227fc53-8344-4751-9d0f-4fbad779d121.jpg",
+    "price": 19900,
+    "oldPrice": 30000,
+    "discountPercent": 34,
+    "stock": 17640000,
+    "totalSold": 751,
+    "maxQuantityPerUser": null,
+    "unit": "quả (0,6-1kg)",
+    "sku": "Buoi nam roi",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</span></p><p><br></p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Phản hồi sản phẩm vui lòng liên hệ: </span></p><p><br></p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Hotline:0974956933</span></p>",
+    "category": {
+      "id": 39,
+      "name": "Bưởi",
+      "imageUrl": "https://imgur.com/0tqoC39.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/9227fc53-8344-4751-9d0f-4fbad779d121.jpg",
+      "https://images.f99.com.vn/images/d3efb4e7-83d0-481d-92a1-a563acd4941a.jpg",
+      "https://images.f99.com.vn/images/35523873-25c4-4225-aaa0-9be7be5a4f96.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14271",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "quả (0,6-1kg)"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 55699,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "quả (0,6-1kg)",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "quả (0,6-1kg)",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "quả (0,6-1kg)",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 19900,
+        "oldPrice": 30000,
+        "discountPercent": 34,
+        "stock": 17640000,
+        "totalSold": 751,
+        "unit": "quả (0,6-1kg)",
+        "sku": "Buoi nam roi",
+        "rating": 5,
+        "instructions": "<p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</span></p><p><br></p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Phản hồi sản phẩm vui lòng liên hệ: </span></p><p><br></p><p><span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 132, 255);\">Hotline:0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "quả (0,6-1kg)"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14300,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bưởi Năm Roi",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Hoa Quả Rau củ Tươi Ngon. Nhập mới hàng ngày.</p><p><br></p><p>Kho hàng: số 52 ngõ 365 đường Bưởi, Ba Đình</p><p><br></p><p>Đặt hàng rau củ quả thực phẩm tươi sống sạch chất lượng tại: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fhomeyfood.net%2F%3Ffbclid%3DIwAR2JSxaf4GfQlgE8nUH0__xHpH8v6NF_BMppYMwjdVoca6iDDHe6lN7uhpA&amp;h=AT1N_fAYZiYWuKq_b3RsKWHHIUCahTIGKOMbJ0fsSzdp9NMquXMl87dsM3BUkmXxyRilEIJ-NySoeY0GmS30O6Quh2y-BvQ3zaB1ECscOtQWuEVU0OSuNsXKS0nuJe5-gWi4nw\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--always-white);\">https://homeyfood.net</a></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/8eb2af46-d9c2-4388-bb26-80ba2ec42843.jpg\",\"https://images.f99.com.vn/images/2b56af55-f26d-4722-a5d9-c826c70b5547.jpg\",\"https://images.f99.com.vn/images/80d1537f-0c24-4b72-a183-4f0d978a178b.jpg\",\"https://images.f99.com.vn/images/e4993891-d28c-4739-8ac1-96d796bea04a.jpg\",\"https://images.f99.com.vn/images/c6df28a3-70fd-49f5-82e3-836dac1c25b8.jpg\",\"https://images.f99.com.vn/images/6b9571c9-3a70-4f1a-8e71-79fddb59c5cf.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bưởi Năm Roi",
+    "description": "<p>Hoa Quả Rau củ Tươi Ngon. Nhập mới hàng ngày.</p><p><br></p><p>Kho hàng: số 52 ngõ 365 đường Bưởi, Ba Đình</p><p><br></p><p>Đặt hàng rau củ quả thực phẩm tươi sống sạch chất lượng tại: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fhomeyfood.net%2F%3Ffbclid%3DIwAR2JSxaf4GfQlgE8nUH0__xHpH8v6NF_BMppYMwjdVoca6iDDHe6lN7uhpA&amp;h=AT1N_fAYZiYWuKq_b3RsKWHHIUCahTIGKOMbJ0fsSzdp9NMquXMl87dsM3BUkmXxyRilEIJ-NySoeY0GmS30O6Quh2y-BvQ3zaB1ECscOtQWuEVU0OSuNsXKS0nuJe5-gWi4nw\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--always-white);\">https://homeyfood.net</a></p>",
+    "imageUrl": "https://images.f99.com.vn/images/8eb2af46-d9c2-4388-bb26-80ba2ec42843.jpg",
+    "price": 18000,
+    "oldPrice": 35000,
+    "discountPercent": 49,
+    "stock": 999,
+    "totalSold": 15165,
+    "maxQuantityPerUser": null,
+    "unit": "1 kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 240,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 39,
+      "name": "Bưởi",
+      "imageUrl": "https://imgur.com/0tqoC39.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/8eb2af46-d9c2-4388-bb26-80ba2ec42843.jpg",
+      "https://images.f99.com.vn/images/2b56af55-f26d-4722-a5d9-c826c70b5547.jpg",
+      "https://images.f99.com.vn/images/80d1537f-0c24-4b72-a183-4f0d978a178b.jpg",
+      "https://images.f99.com.vn/images/e4993891-d28c-4739-8ac1-96d796bea04a.jpg",
+      "https://images.f99.com.vn/images/c6df28a3-70fd-49f5-82e3-836dac1c25b8.jpg",
+      "https://images.f99.com.vn/images/6b9571c9-3a70-4f1a-8e71-79fddb59c5cf.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14300",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 74080,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 18000,
+        "oldPrice": 35000,
+        "discountPercent": 49,
+        "stock": 999,
+        "totalSold": 15165,
+        "unit": "1 kg",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 240,
+      "sellerRate": 4.5,
+      "sellerName": "Homey Fruit & Veg ",
+      "warehouseId": "ccb00cae-e276-4a1b-af4a-ae822ab5c570",
+      "warehouseAddress": "số 52 ngõ 376 Bưởi, Vĩnh Phúc, Ba Đình, Hà Nội",
+      "distance": 3021,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 77.89029707147643,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14599,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "bưởi",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>BƯỞI DA XANH có hình cầu ,có vỏ trái màu xanh ,vỏ rất mỏng và dễ lột . tép bưởi bó chặt ,màu hồng ,vị ngọt thanh mát không hạt .</p><p><br></p><p>BƯỞI </p><ul><li>giúp tăng cường quá trình trao đổi chất , giúp thải độc gan , làm sạch</li><li>chứa nhiều vitamin c giúp tăng cường hệ miễn dịch ,chống lại với các gốc tự do</li><li>làm giảm lượng cholesteron từ đó giảm nguy cơ tắc nghẽn động mạch ,vô cùng tốt cho tim.</li></ul>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/0797f90e-d24b-4de0-967a-f0cc6f03ae6e.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "bưởi",
+    "description": "<p>BƯỞI DA XANH có hình cầu ,có vỏ trái màu xanh ,vỏ rất mỏng và dễ lột . tép bưởi bó chặt ,màu hồng ,vị ngọt thanh mát không hạt .</p><p><br></p><p>BƯỞI </p><ul><li>giúp tăng cường quá trình trao đổi chất , giúp thải độc gan , làm sạch</li><li>chứa nhiều vitamin c giúp tăng cường hệ miễn dịch ,chống lại với các gốc tự do</li><li>làm giảm lượng cholesteron từ đó giảm nguy cơ tắc nghẽn động mạch ,vô cùng tốt cho tim.</li></ul>",
+    "imageUrl": "https://images.f99.com.vn/images/0797f90e-d24b-4de0-967a-f0cc6f03ae6e.jpg",
+    "price": 100000,
+    "oldPrice": 80000,
+    "discountPercent": -25,
+    "stock": 10,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 220,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 39,
+      "name": "Bưởi",
+      "imageUrl": "https://imgur.com/0tqoC39.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/0797f90e-d24b-4de0-967a-f0cc6f03ae6e.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14599",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 220,
+      "sellerRate": 4.5,
+      "sellerName": "Mai Hoa Fruit",
+      "warehouseId": "318b6254-bdee-408b-91a1-df079579dc6d",
+      "warehouseAddress": "Số 19 ngõ 10 Nguyễn Thị Định, Trung Hoà, Cầu Giấy, Hà Nội",
+      "distance": 3649,
+      "warehouseDistrict": "cau giay",
+      "reputation": 65.73371431372549,
+      "others": [
+        {
+          "sellerId": 220,
+          "sellerRate": 4.5,
+          "sellerName": "Mai Hoa Fruit",
+          "warehouseId": "318b6254-bdee-408b-91a1-df079579dc6d",
+          "warehouseAddress": "Số 19 ngõ 10 Nguyễn Thị Định, Trung Hoà, Cầu Giấy, Hà Nội",
+          "distance": 3649,
+          "warehouseDistrict": "cau giay",
+          "reputation": 65.73371431372549,
+          "others": []
+        },
+        {
+          "sellerId": 220,
+          "sellerRate": 4.5,
+          "sellerName": "Mai Hoa Fruit",
+          "warehouseId": "c802dd36-8dd8-48f8-8fb5-62e3b6471417",
+          "warehouseAddress": "195 Quang Trung, Quang Trung, Hà Đông​, Hà Nội",
+          "distance": 9097,
+          "warehouseDistrict": "ha dong",
+          "reputation": 65.73371431372549,
+          "others": []
+        },
+        {
+          "sellerId": 220,
+          "sellerRate": 4.5,
+          "sellerName": "Mai Hoa Fruit",
+          "warehouseId": "c3d1fd66-42a4-4a2d-a215-47c3185e5f08",
+          "warehouseAddress": "Số 140 Tô Hiệu, Hà Cầu, Hà Đông, Hà Nội",
+          "distance": 9098,
+          "warehouseDistrict": "ha dong",
+          "reputation": 65.73371431372549,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15197,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": " Mã 1006 Bưởi da xanh Bến Tre loại ( 0,8 < 1 kg)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Bưởi da xanh trồng theo quy trình VietGap</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/978c9d4d-e6bd-4600-a2c5-93489ab87efd.jpg\",\"https://images.f99.com.vn/images/e453849b-51c3-4efc-87f4-7ab7b5307f75.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": " Mã 1006 Bưởi da xanh Bến Tre loại ( 0,8 < 1 kg)",
+    "description": "<p>Bưởi da xanh trồng theo quy trình VietGap</p>",
+    "imageUrl": "https://images.f99.com.vn/images/978c9d4d-e6bd-4600-a2c5-93489ab87efd.jpg",
+    "price": 70000,
+    "oldPrice": 80000,
+    "discountPercent": 12,
+    "stock": 50,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 265,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 39,
+      "name": "Bưởi",
+      "imageUrl": "https://imgur.com/0tqoC39.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/978c9d4d-e6bd-4600-a2c5-93489ab87efd.jpg",
+      "https://images.f99.com.vn/images/e453849b-51c3-4efc-87f4-7ab7b5307f75.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15197",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 72741,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 70000,
+        "oldPrice": 80000,
+        "discountPercent": 12,
+        "stock": 50,
+        "totalSold": 0,
+        "unit": "quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 265,
+      "sellerRate": 4.2,
+      "sellerName": "BƯỞI DA XANH HƯƠNG MIỀN TÂY - NPP HƯƠNG POMELO",
+      "warehouseId": "79fe2c92-02ec-4098-9e96-7736273e5dd7",
+      "warehouseAddress": "24 Quán Thánh, Quán Thánh, Ba Đình, Hà Nội",
+      "distance": 1901,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15199,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mã 1006 thùng 24 quả Bưởi da xanh Bến Tre Hương Miền Tây  ( 23 < 24 kg)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Bưởi da xanh</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/2b47091a-2835-48ff-9cb0-036c50148a1e.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mã 1006 thùng 24 quả Bưởi da xanh Bến Tre Hương Miền Tây  ( 23 < 24 kg)",
+    "description": "<p>Bưởi da xanh</p>",
+    "imageUrl": "https://images.f99.com.vn/images/2b47091a-2835-48ff-9cb0-036c50148a1e.jpg",
+    "price": 1400000,
+    "oldPrice": 1500000,
+    "discountPercent": 7,
+    "stock": 20,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "24 quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 265,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 39,
+      "name": "Bưởi",
+      "imageUrl": "https://imgur.com/0tqoC39.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/2b47091a-2835-48ff-9cb0-036c50148a1e.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15199",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "24 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 72747,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "24 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "24 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "24 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 1400000,
+        "oldPrice": 1500000,
+        "discountPercent": 7,
+        "stock": 20,
+        "totalSold": 0,
+        "unit": "24 quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "24 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 265,
+      "sellerRate": 4.2,
+      "sellerName": "BƯỞI DA XANH HƯƠNG MIỀN TÂY - NPP HƯƠNG POMELO",
+      "warehouseId": "79fe2c92-02ec-4098-9e96-7736273e5dd7",
+      "warehouseAddress": "24 Quán Thánh, Quán Thánh, Ba Đình, Hà Nội",
+      "distance": 1901,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15207,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mã 1005 Bưởi Da xanh Bến Tre ( 1 < 1,2 kg)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>BƯỞI DA XANH HƯƠNG MIỀN TÂY - NPP HƯƠNG POMELO</p><p><br></p><p>-ĐẠT TIÊU CHUẨN VIETGAP CHẤT LƯỢNG CAO</p><p>-ĐÓNG GÓI THEO TIÊU CHUẨN CHÂU ÂU HACCP</p><p>&nbsp;</p><p>Có 5 yếu tố để tạo nên sự khác biệt:</p><p><br></p><p>- Thứ nhất&nbsp;Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được trồng tại Bến Tre, các nhà khoa học nghiên cứu đây là&nbsp;nơi duy nhất có thổ nhưỡng để cho ra những quả Bưởi da xanh ngon nhất.</p><p><br></p><p>-Thứ 2 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;trồng theo quy trình nông nghiệp tốt đạt tiêu chuẩn Vietgap. Từ khâu chọn giống trồng chăm sóc đều được sự kết hợp của người dân cùng các kỹ sư nông nghiệp theo dõi đảm bảo đúng quy trình sạch.</p><p>Mỗi quả Bưởi đều đảm bảo an toàn cho người sử dụng.</p><p><br></p><p>- Thứ 3 là thu hái đúng thời điểm Bưởi từ 7-8 tháng Thuỳ mùa vụ đảm bảo trái đủ độ già. Khâu thu hái được áp dụng công nghệ xử lý đóng gói theo tiêu chuẩn HACCP. Đảm bảo đã được loại bỏ tất cả các mầm mống gây bệnh ,vi khuẩn trên từng quả Bưởi.</p><p><br></p><p>- Thứ 4 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;đặt theo tiêu chuẩn riêng&nbsp;cao cấp ở những vườn Bưởi ngon nhất, tất&nbsp;&nbsp;cả các size Bưởi từ 0.8-2,2&nbsp;đều đẹp ngon vỏ mỏng , ruột hồng và vị đậm Đà được chia là 6 size thùng khác nhau rất tiện lợi cho nhiều nhóm khách hàng.&nbsp;</p><p><br></p><p>- Thứ 5 là Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO trên mỗi quả Bưởi được dán mã QR để truy xuất nguồn gốc. Mỗi quả Bưởi tới tay các ĐẠI LÝ cũng như khách hàng được cam kết 100% chất lượng bao ăn ngon.</p><p>&nbsp;</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/245cf103-5bbf-4a8c-b043-5b8efd5ec41c.jpg\",\"https://images.f99.com.vn/images/b7a18558-c35e-4a75-a553-fd09221d7e3d.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mã 1005 Bưởi Da xanh Bến Tre ( 1 < 1,2 kg)",
+    "description": "<p>BƯỞI DA XANH HƯƠNG MIỀN TÂY - NPP HƯƠNG POMELO</p><p><br></p><p>-ĐẠT TIÊU CHUẨN VIETGAP CHẤT LƯỢNG CAO</p><p>-ĐÓNG GÓI THEO TIÊU CHUẨN CHÂU ÂU HACCP</p><p>&nbsp;</p><p>Có 5 yếu tố để tạo nên sự khác biệt:</p><p><br></p><p>- Thứ nhất&nbsp;Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được trồng tại Bến Tre, các nhà khoa học nghiên cứu đây là&nbsp;nơi duy nhất có thổ nhưỡng để cho ra những quả Bưởi da xanh ngon nhất.</p><p><br></p><p>-Thứ 2 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;trồng theo quy trình nông nghiệp tốt đạt tiêu chuẩn Vietgap. Từ khâu chọn giống trồng chăm sóc đều được sự kết hợp của người dân cùng các kỹ sư nông nghiệp theo dõi đảm bảo đúng quy trình sạch.</p><p>Mỗi quả Bưởi đều đảm bảo an toàn cho người sử dụng.</p><p><br></p><p>- Thứ 3 là thu hái đúng thời điểm Bưởi từ 7-8 tháng Thuỳ mùa vụ đảm bảo trái đủ độ già. Khâu thu hái được áp dụng công nghệ xử lý đóng gói theo tiêu chuẩn HACCP. Đảm bảo đã được loại bỏ tất cả các mầm mống gây bệnh ,vi khuẩn trên từng quả Bưởi.</p><p><br></p><p>- Thứ 4 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;đặt theo tiêu chuẩn riêng&nbsp;cao cấp ở những vườn Bưởi ngon nhất, tất&nbsp;&nbsp;cả các size Bưởi từ 0.8-2,2&nbsp;đều đẹp ngon vỏ mỏng , ruột hồng và vị đậm Đà được chia là 6 size thùng khác nhau rất tiện lợi cho nhiều nhóm khách hàng.&nbsp;</p><p><br></p><p>- Thứ 5 là Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO trên mỗi quả Bưởi được dán mã QR để truy xuất nguồn gốc. Mỗi quả Bưởi tới tay các ĐẠI LÝ cũng như khách hàng được cam kết 100% chất lượng bao ăn ngon.</p><p>&nbsp;</p>",
+    "imageUrl": "https://images.f99.com.vn/images/245cf103-5bbf-4a8c-b043-5b8efd5ec41c.jpg",
+    "price": 90000,
+    "oldPrice": 100000,
+    "discountPercent": 10,
+    "stock": 120,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 265,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 39,
+      "name": "Bưởi",
+      "imageUrl": "https://imgur.com/0tqoC39.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/245cf103-5bbf-4a8c-b043-5b8efd5ec41c.jpg",
+      "https://images.f99.com.vn/images/b7a18558-c35e-4a75-a553-fd09221d7e3d.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15207",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 72749,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 90000,
+        "oldPrice": 100000,
+        "discountPercent": 10,
+        "stock": 120,
+        "totalSold": 0,
+        "unit": "quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 265,
+      "sellerRate": 4.2,
+      "sellerName": "BƯỞI DA XANH HƯƠNG MIỀN TÂY - NPP HƯƠNG POMELO",
+      "warehouseId": "79fe2c92-02ec-4098-9e96-7736273e5dd7",
+      "warehouseAddress": "24 Quán Thánh, Quán Thánh, Ba Đình, Hà Nội",
+      "distance": 1901,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15208,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": " Mã 1005 thùng 12 quả Bưởi Da xanh Bến Tre ( 13 < 14 kg)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>BƯỞI DA XANH HƯƠNG MIỀN TÂY - NPP HƯƠNG POMELO</p><p><br></p><p>-ĐẠT TIÊU CHUẨN VIETGAP CHẤT LƯỢNG CAO</p><p>-ĐÓNG GÓI THEO TIÊU CHUẨN CHÂU ÂU HACCP</p><p>&nbsp;</p><p>Có 5 yếu tố để tạo nên sự khác biệt:</p><p><br></p><p>- Thứ nhất&nbsp;Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được trồng tại Bến Tre, các nhà khoa học nghiên cứu đây là&nbsp;nơi duy nhất có thổ nhưỡng để cho ra những quả Bưởi da xanh ngon nhất.</p><p><br></p><p>-Thứ 2 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;trồng theo quy trình nông nghiệp tốt đạt tiêu chuẩn Vietgap. Từ khâu chọn giống trồng chăm sóc đều được sự kết hợp của người dân cùng các kỹ sư nông nghiệp theo dõi đảm bảo đúng quy trình sạch.</p><p>Mỗi quả Bưởi đều đảm bảo an toàn cho người sử dụng.</p><p><br></p><p>- Thứ 3 là thu hái đúng thời điểm Bưởi từ 7-8 tháng Thuỳ mùa vụ đảm bảo trái đủ độ già. Khâu thu hái được áp dụng công nghệ xử lý đóng gói theo tiêu chuẩn HACCP. Đảm bảo đã được loại bỏ tất cả các mầm mống gây bệnh ,vi khuẩn trên từng quả Bưởi.</p><p><br></p><p>- Thứ 4 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;đặt theo tiêu chuẩn riêng&nbsp;cao cấp ở những vườn Bưởi ngon nhất, tất&nbsp;&nbsp;cả các size Bưởi từ 0.8-2,2&nbsp;đều đẹp ngon vỏ mỏng , ruột hồng và vị đậm Đà được chia là 6 size thùng khác nhau rất tiện lợi cho nhiều nhóm khách hàng.&nbsp;</p><p><br></p><p>- Thứ 5 là Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO trên mỗi quả Bưởi được dán mã QR để truy xuất nguồn gốc. Mỗi quả Bưởi tới tay các ĐẠI LÝ cũng như khách hàng được cam kết 100% chất lượng bao ăn ngon.</p><p>&nbsp;</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/dc7320f0-73ee-47d4-b91b-d48e3b7ba391.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": " Mã 1005 thùng 12 quả Bưởi Da xanh Bến Tre ( 13 < 14 kg)",
+    "description": "<p>BƯỞI DA XANH HƯƠNG MIỀN TÂY - NPP HƯƠNG POMELO</p><p><br></p><p>-ĐẠT TIÊU CHUẨN VIETGAP CHẤT LƯỢNG CAO</p><p>-ĐÓNG GÓI THEO TIÊU CHUẨN CHÂU ÂU HACCP</p><p>&nbsp;</p><p>Có 5 yếu tố để tạo nên sự khác biệt:</p><p><br></p><p>- Thứ nhất&nbsp;Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được trồng tại Bến Tre, các nhà khoa học nghiên cứu đây là&nbsp;nơi duy nhất có thổ nhưỡng để cho ra những quả Bưởi da xanh ngon nhất.</p><p><br></p><p>-Thứ 2 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;trồng theo quy trình nông nghiệp tốt đạt tiêu chuẩn Vietgap. Từ khâu chọn giống trồng chăm sóc đều được sự kết hợp của người dân cùng các kỹ sư nông nghiệp theo dõi đảm bảo đúng quy trình sạch.</p><p>Mỗi quả Bưởi đều đảm bảo an toàn cho người sử dụng.</p><p><br></p><p>- Thứ 3 là thu hái đúng thời điểm Bưởi từ 7-8 tháng Thuỳ mùa vụ đảm bảo trái đủ độ già. Khâu thu hái được áp dụng công nghệ xử lý đóng gói theo tiêu chuẩn HACCP. Đảm bảo đã được loại bỏ tất cả các mầm mống gây bệnh ,vi khuẩn trên từng quả Bưởi.</p><p><br></p><p>- Thứ 4 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;đặt theo tiêu chuẩn riêng&nbsp;cao cấp ở những vườn Bưởi ngon nhất, tất&nbsp;&nbsp;cả các size Bưởi từ 0.8-2,2&nbsp;đều đẹp ngon vỏ mỏng , ruột hồng và vị đậm Đà được chia là 6 size thùng khác nhau rất tiện lợi cho nhiều nhóm khách hàng.&nbsp;</p><p><br></p><p>- Thứ 5 là Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO trên mỗi quả Bưởi được dán mã QR để truy xuất nguồn gốc. Mỗi quả Bưởi tới tay các ĐẠI LÝ cũng như khách hàng được cam kết 100% chất lượng bao ăn ngon.</p><p>&nbsp;</p>",
+    "imageUrl": "https://images.f99.com.vn/images/dc7320f0-73ee-47d4-b91b-d48e3b7ba391.jpg",
+    "price": 1000000,
+    "oldPrice": 1200000,
+    "discountPercent": 17,
+    "stock": 120,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "thùng 12 quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 265,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 39,
+      "name": "Bưởi",
+      "imageUrl": "https://imgur.com/0tqoC39.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/dc7320f0-73ee-47d4-b91b-d48e3b7ba391.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15208",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "thùng 12 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 72756,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "thùng 12 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "thùng 12 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "thùng 12 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 1000000,
+        "oldPrice": 1200000,
+        "discountPercent": 17,
+        "stock": 120,
+        "totalSold": 0,
+        "unit": "thùng 12 quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "thùng 12 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 265,
+      "sellerRate": 4.2,
+      "sellerName": "BƯỞI DA XANH HƯƠNG MIỀN TÂY - NPP HƯƠNG POMELO",
+      "warehouseId": "79fe2c92-02ec-4098-9e96-7736273e5dd7",
+      "warehouseAddress": "24 Quán Thánh, Quán Thánh, Ba Đình, Hà Nội",
+      "distance": 1901,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15211,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mã 1004 Bưởi Da xanh Bến Tre  ( 1,2 < 1,4 kg )",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>BƯỞI DA XANH HƯƠNG MIỀN TÂY - NPP HƯƠNG POMELO</p><p><br></p><p>-ĐẠT TIÊU CHUẨN VIETGAP CHẤT LƯỢNG CAO</p><p>-ĐÓNG GÓI THEO TIÊU CHUẨN CHÂU ÂU HACCP</p><p>&nbsp;</p><p>Có 5 yếu tố để tạo nên sự khác biệt:</p><p><br></p><p>- Thứ nhất&nbsp;Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được trồng tại Bến Tre, các nhà khoa học nghiên cứu đây là&nbsp;nơi duy nhất có thổ nhưỡng để cho ra những quả Bưởi da xanh ngon nhất.</p><p><br></p><p>-Thứ 2 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;trồng theo quy trình nông nghiệp tốt đạt tiêu chuẩn Vietgap. Từ khâu chọn giống trồng chăm sóc đều được sự kết hợp của người dân cùng các kỹ sư nông nghiệp theo dõi đảm bảo đúng quy trình sạch.</p><p>Mỗi quả Bưởi đều đảm bảo an toàn cho người sử dụng.</p><p><br></p><p>- Thứ 3 là thu hái đúng thời điểm Bưởi từ 7-8 tháng Thuỳ mùa vụ đảm bảo trái đủ độ già. Khâu thu hái được áp dụng công nghệ xử lý đóng gói theo tiêu chuẩn HACCP. Đảm bảo đã được loại bỏ tất cả các mầm mống gây bệnh ,vi khuẩn trên từng quả Bưởi.</p><p><br></p><p>- Thứ 4 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;đặt theo tiêu chuẩn riêng&nbsp;cao cấp ở những vườn Bưởi ngon nhất, tất&nbsp;&nbsp;cả các size Bưởi từ 0.8-2,2&nbsp;đều đẹp ngon vỏ mỏng , ruột hồng và vị đậm Đà được chia là 6 size thùng khác nhau rất tiện lợi cho nhiều nhóm khách hàng.&nbsp;</p><p><br></p><p>- Thứ 5 là Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO trên mỗi quả Bưởi được dán mã QR để truy xuất nguồn gốc. Mỗi quả Bưởi tới tay các ĐẠI LÝ cũng như khách hàng được cam kết 100% chất lượng bao ăn ngon.</p><p>&nbsp;</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/0086a632-7834-4baf-8014-134ee2f3714a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mã 1004 Bưởi Da xanh Bến Tre  ( 1,2 < 1,4 kg )",
+    "description": "<p>BƯỞI DA XANH HƯƠNG MIỀN TÂY - NPP HƯƠNG POMELO</p><p><br></p><p>-ĐẠT TIÊU CHUẨN VIETGAP CHẤT LƯỢNG CAO</p><p>-ĐÓNG GÓI THEO TIÊU CHUẨN CHÂU ÂU HACCP</p><p>&nbsp;</p><p>Có 5 yếu tố để tạo nên sự khác biệt:</p><p><br></p><p>- Thứ nhất&nbsp;Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được trồng tại Bến Tre, các nhà khoa học nghiên cứu đây là&nbsp;nơi duy nhất có thổ nhưỡng để cho ra những quả Bưởi da xanh ngon nhất.</p><p><br></p><p>-Thứ 2 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;trồng theo quy trình nông nghiệp tốt đạt tiêu chuẩn Vietgap. Từ khâu chọn giống trồng chăm sóc đều được sự kết hợp của người dân cùng các kỹ sư nông nghiệp theo dõi đảm bảo đúng quy trình sạch.</p><p>Mỗi quả Bưởi đều đảm bảo an toàn cho người sử dụng.</p><p><br></p><p>- Thứ 3 là thu hái đúng thời điểm Bưởi từ 7-8 tháng Thuỳ mùa vụ đảm bảo trái đủ độ già. Khâu thu hái được áp dụng công nghệ xử lý đóng gói theo tiêu chuẩn HACCP. Đảm bảo đã được loại bỏ tất cả các mầm mống gây bệnh ,vi khuẩn trên từng quả Bưởi.</p><p><br></p><p>- Thứ 4 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;đặt theo tiêu chuẩn riêng&nbsp;cao cấp ở những vườn Bưởi ngon nhất, tất&nbsp;&nbsp;cả các size Bưởi từ 0.8-2,2&nbsp;đều đẹp ngon vỏ mỏng , ruột hồng và vị đậm Đà được chia là 6 size thùng khác nhau rất tiện lợi cho nhiều nhóm khách hàng.&nbsp;</p><p><br></p><p>- Thứ 5 là Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO trên mỗi quả Bưởi được dán mã QR để truy xuất nguồn gốc. Mỗi quả Bưởi tới tay các ĐẠI LÝ cũng như khách hàng được cam kết 100% chất lượng bao ăn ngon.</p><p>&nbsp;</p>",
+    "imageUrl": "https://images.f99.com.vn/images/0086a632-7834-4baf-8014-134ee2f3714a.jpg",
+    "price": 1300000,
+    "oldPrice": 1400000,
+    "discountPercent": 7,
+    "stock": 100,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "12 quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 265,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 39,
+      "name": "Bưởi",
+      "imageUrl": "https://imgur.com/0tqoC39.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/0086a632-7834-4baf-8014-134ee2f3714a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15211",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "12 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 72757,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "12 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "12 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "12 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 1300000,
+        "oldPrice": 1400000,
+        "discountPercent": 7,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "12 quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "12 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 265,
+      "sellerRate": 4.2,
+      "sellerName": "BƯỞI DA XANH HƯƠNG MIỀN TÂY - NPP HƯƠNG POMELO",
+      "warehouseId": "79fe2c92-02ec-4098-9e96-7736273e5dd7",
+      "warehouseAddress": "24 Quán Thánh, Quán Thánh, Ba Đình, Hà Nội",
+      "distance": 1901,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15215,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": " Mã1004 thùng 12 quả Bưởi Da xanh Bến Tre ( 15 < 17 kg )",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>BƯỞI DA XANH HƯƠNG MIỀN TÂY - NPP HƯƠNG POMELO</p><p><br></p><p>-ĐẠT TIÊU CHUẨN VIETGAP CHẤT LƯỢNG CAO</p><p>-ĐÓNG GÓI THEO TIÊU CHUẨN CHÂU ÂU HACCP</p><p>&nbsp;</p><p>Có 5 yếu tố để tạo nên sự khác biệt:</p><p><br></p><p>- Thứ nhất&nbsp;Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được trồng tại Bến Tre, các nhà khoa học nghiên cứu đây là&nbsp;nơi duy nhất có thổ nhưỡng để cho ra những quả Bưởi da xanh ngon nhất.</p><p><br></p><p>-Thứ 2 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;trồng theo quy trình nông nghiệp tốt đạt tiêu chuẩn Vietgap. Từ khâu chọn giống trồng chăm sóc đều được sự kết hợp của người dân cùng các kỹ sư nông nghiệp theo dõi đảm bảo đúng quy trình sạch.</p><p>Mỗi quả Bưởi đều đảm bảo an toàn cho người sử dụng.</p><p><br></p><p>- Thứ 3 là thu hái đúng thời điểm Bưởi từ 7-8 tháng Thuỳ mùa vụ đảm bảo trái đủ độ già. Khâu thu hái được áp dụng công nghệ xử lý đóng gói theo tiêu chuẩn HACCP. Đảm bảo đã được loại bỏ tất cả các mầm mống gây bệnh ,vi khuẩn trên từng quả Bưởi.</p><p><br></p><p>- Thứ 4 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;đặt theo tiêu chuẩn riêng&nbsp;cao cấp ở những vườn Bưởi ngon nhất, tất&nbsp;&nbsp;cả các size Bưởi từ 0.8-2,2&nbsp;đều đẹp ngon vỏ mỏng , ruột hồng và vị đậm Đà được chia là 6 size thùng khác nhau rất tiện lợi cho nhiều nhóm khách hàng.&nbsp;</p><p><br></p><p>- Thứ 5 là Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO trên mỗi quả Bưởi được dán mã QR để truy xuất nguồn gốc. Mỗi quả Bưởi tới tay các ĐẠI LÝ cũng như khách hàng được cam kết 100% chất lượng bao ăn ngon.</p><p>&nbsp;</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/a83e32bc-b409-41e8-8d74-5c728e7cea65.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": " Mã1004 thùng 12 quả Bưởi Da xanh Bến Tre ( 15 < 17 kg )",
+    "description": "<p>BƯỞI DA XANH HƯƠNG MIỀN TÂY - NPP HƯƠNG POMELO</p><p><br></p><p>-ĐẠT TIÊU CHUẨN VIETGAP CHẤT LƯỢNG CAO</p><p>-ĐÓNG GÓI THEO TIÊU CHUẨN CHÂU ÂU HACCP</p><p>&nbsp;</p><p>Có 5 yếu tố để tạo nên sự khác biệt:</p><p><br></p><p>- Thứ nhất&nbsp;Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được trồng tại Bến Tre, các nhà khoa học nghiên cứu đây là&nbsp;nơi duy nhất có thổ nhưỡng để cho ra những quả Bưởi da xanh ngon nhất.</p><p><br></p><p>-Thứ 2 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;trồng theo quy trình nông nghiệp tốt đạt tiêu chuẩn Vietgap. Từ khâu chọn giống trồng chăm sóc đều được sự kết hợp của người dân cùng các kỹ sư nông nghiệp theo dõi đảm bảo đúng quy trình sạch.</p><p>Mỗi quả Bưởi đều đảm bảo an toàn cho người sử dụng.</p><p><br></p><p>- Thứ 3 là thu hái đúng thời điểm Bưởi từ 7-8 tháng Thuỳ mùa vụ đảm bảo trái đủ độ già. Khâu thu hái được áp dụng công nghệ xử lý đóng gói theo tiêu chuẩn HACCP. Đảm bảo đã được loại bỏ tất cả các mầm mống gây bệnh ,vi khuẩn trên từng quả Bưởi.</p><p><br></p><p>- Thứ 4 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;đặt theo tiêu chuẩn riêng&nbsp;cao cấp ở những vườn Bưởi ngon nhất, tất&nbsp;&nbsp;cả các size Bưởi từ 0.8-2,2&nbsp;đều đẹp ngon vỏ mỏng , ruột hồng và vị đậm Đà được chia là 6 size thùng khác nhau rất tiện lợi cho nhiều nhóm khách hàng.&nbsp;</p><p><br></p><p>- Thứ 5 là Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO trên mỗi quả Bưởi được dán mã QR để truy xuất nguồn gốc. Mỗi quả Bưởi tới tay các ĐẠI LÝ cũng như khách hàng được cam kết 100% chất lượng bao ăn ngon.</p><p>&nbsp;</p>",
+    "imageUrl": "https://images.f99.com.vn/images/a83e32bc-b409-41e8-8d74-5c728e7cea65.jpg",
+    "price": 1300000,
+    "oldPrice": 1450000,
+    "discountPercent": 10,
+    "stock": 120,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "thùng 12 quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 265,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 39,
+      "name": "Bưởi",
+      "imageUrl": "https://imgur.com/0tqoC39.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/a83e32bc-b409-41e8-8d74-5c728e7cea65.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15215",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "thùng 12 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 72764,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "thùng 12 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "thùng 12 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "thùng 12 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 1300000,
+        "oldPrice": 1450000,
+        "discountPercent": 10,
+        "stock": 120,
+        "totalSold": 0,
+        "unit": "thùng 12 quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "thùng 12 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 265,
+      "sellerRate": 4.2,
+      "sellerName": "BƯỞI DA XANH HƯƠNG MIỀN TÂY - NPP HƯƠNG POMELO",
+      "warehouseId": "79fe2c92-02ec-4098-9e96-7736273e5dd7",
+      "warehouseAddress": "24 Quán Thánh, Quán Thánh, Ba Đình, Hà Nội",
+      "distance": 1901,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15218,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "  Mã 1003 Bưởi Da xanh Bên Tre ( 1,4 < 1,5 kg )",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>BƯỞI DA XANH HƯƠNG MIỀN TÂY - NPP HƯƠNG POMELO</p><p><br></p><p>-ĐẠT TIÊU CHUẨN VIETGAP CHẤT LƯỢNG CAO</p><p>-ĐÓNG GÓI THEO TIÊU CHUẨN CHÂU ÂU HACCP</p><p>&nbsp;</p><p>Có 5 yếu tố để tạo nên sự khác biệt:</p><p><br></p><p>- Thứ nhất&nbsp;Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được trồng tại Bến Tre, các nhà khoa học nghiên cứu đây là&nbsp;nơi duy nhất có thổ nhưỡng để cho ra những quả Bưởi da xanh ngon nhất.</p><p><br></p><p>-Thứ 2 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;trồng theo quy trình nông nghiệp tốt đạt tiêu chuẩn Vietgap. Từ khâu chọn giống trồng chăm sóc đều được sự kết hợp của người dân cùng các kỹ sư nông nghiệp theo dõi đảm bảo đúng quy trình sạch.</p><p>Mỗi quả Bưởi đều đảm bảo an toàn cho người sử dụng.</p><p><br></p><p>- Thứ 3 là thu hái đúng thời điểm Bưởi từ 7-8 tháng Thuỳ mùa vụ đảm bảo trái đủ độ già. Khâu thu hái được áp dụng công nghệ xử lý đóng gói theo tiêu chuẩn HACCP. Đảm bảo đã được loại bỏ tất cả các mầm mống gây bệnh ,vi khuẩn trên từng quả Bưởi.</p><p><br></p><p>- Thứ 4 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;đặt theo tiêu chuẩn riêng&nbsp;cao cấp ở những vườn Bưởi ngon nhất, tất&nbsp;&nbsp;cả các size Bưởi từ 0.8-2,2&nbsp;đều đẹp ngon vỏ mỏng , ruột hồng và vị đậm Đà được chia là 6 size thùng khác nhau rất tiện lợi cho nhiều nhóm khách hàng.&nbsp;</p><p><br></p><p>- Thứ 5 là Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO trên mỗi quả Bưởi được dán mã QR để truy xuất nguồn gốc. Mỗi quả Bưởi tới tay các ĐẠI LÝ cũng như khách hàng được cam kết 100% chất lượng bao ăn ngon.</p><p>&nbsp;</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/6c9c7132-08c7-4b8f-8085-86cf11de9ef9.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "  Mã 1003 Bưởi Da xanh Bên Tre ( 1,4 < 1,5 kg )",
+    "description": "<p>BƯỞI DA XANH HƯƠNG MIỀN TÂY - NPP HƯƠNG POMELO</p><p><br></p><p>-ĐẠT TIÊU CHUẨN VIETGAP CHẤT LƯỢNG CAO</p><p>-ĐÓNG GÓI THEO TIÊU CHUẨN CHÂU ÂU HACCP</p><p>&nbsp;</p><p>Có 5 yếu tố để tạo nên sự khác biệt:</p><p><br></p><p>- Thứ nhất&nbsp;Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được trồng tại Bến Tre, các nhà khoa học nghiên cứu đây là&nbsp;nơi duy nhất có thổ nhưỡng để cho ra những quả Bưởi da xanh ngon nhất.</p><p><br></p><p>-Thứ 2 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;trồng theo quy trình nông nghiệp tốt đạt tiêu chuẩn Vietgap. Từ khâu chọn giống trồng chăm sóc đều được sự kết hợp của người dân cùng các kỹ sư nông nghiệp theo dõi đảm bảo đúng quy trình sạch.</p><p>Mỗi quả Bưởi đều đảm bảo an toàn cho người sử dụng.</p><p><br></p><p>- Thứ 3 là thu hái đúng thời điểm Bưởi từ 7-8 tháng Thuỳ mùa vụ đảm bảo trái đủ độ già. Khâu thu hái được áp dụng công nghệ xử lý đóng gói theo tiêu chuẩn HACCP. Đảm bảo đã được loại bỏ tất cả các mầm mống gây bệnh ,vi khuẩn trên từng quả Bưởi.</p><p><br></p><p>- Thứ 4 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;đặt theo tiêu chuẩn riêng&nbsp;cao cấp ở những vườn Bưởi ngon nhất, tất&nbsp;&nbsp;cả các size Bưởi từ 0.8-2,2&nbsp;đều đẹp ngon vỏ mỏng , ruột hồng và vị đậm Đà được chia là 6 size thùng khác nhau rất tiện lợi cho nhiều nhóm khách hàng.&nbsp;</p><p><br></p><p>- Thứ 5 là Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO trên mỗi quả Bưởi được dán mã QR để truy xuất nguồn gốc. Mỗi quả Bưởi tới tay các ĐẠI LÝ cũng như khách hàng được cam kết 100% chất lượng bao ăn ngon.</p><p>&nbsp;</p>",
+    "imageUrl": "https://images.f99.com.vn/images/6c9c7132-08c7-4b8f-8085-86cf11de9ef9.jpg",
+    "price": 130000,
+    "oldPrice": 140000,
+    "discountPercent": 7,
+    "stock": 120,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 265,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 39,
+      "name": "Bưởi",
+      "imageUrl": "https://imgur.com/0tqoC39.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/6c9c7132-08c7-4b8f-8085-86cf11de9ef9.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15218",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 72770,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 130000,
+        "oldPrice": 140000,
+        "discountPercent": 7,
+        "stock": 120,
+        "totalSold": 0,
+        "unit": "quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 265,
+      "sellerRate": 4.2,
+      "sellerName": "BƯỞI DA XANH HƯƠNG MIỀN TÂY - NPP HƯƠNG POMELO",
+      "warehouseId": "79fe2c92-02ec-4098-9e96-7736273e5dd7",
+      "warehouseAddress": "24 Quán Thánh, Quán Thánh, Ba Đình, Hà Nội",
+      "distance": 1901,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15221,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mã 1003 thùng 12 quả Bưởi Da xanh Bến Tre ( 18 < 19 kg )",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>BƯỞI DA XANH HƯƠNG MIỀN TÂY - NPP HƯƠNG POMELO</p><p><br></p><p>-ĐẠT TIÊU CHUẨN VIETGAP CHẤT LƯỢNG CAO</p><p>-ĐÓNG GÓI THEO TIÊU CHUẨN CHÂU ÂU HACCP</p><p>&nbsp;</p><p>Có 5 yếu tố để tạo nên sự khác biệt:</p><p><br></p><p>- Thứ nhất&nbsp;Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được trồng tại Bến Tre, các nhà khoa học nghiên cứu đây là&nbsp;nơi duy nhất có thổ nhưỡng để cho ra những quả Bưởi da xanh ngon nhất.</p><p><br></p><p>-Thứ 2 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;trồng theo quy trình nông nghiệp tốt đạt tiêu chuẩn Vietgap. Từ khâu chọn giống trồng chăm sóc đều được sự kết hợp của người dân cùng các kỹ sư nông nghiệp theo dõi đảm bảo đúng quy trình sạch.</p><p>Mỗi quả Bưởi đều đảm bảo an toàn cho người sử dụng.</p><p><br></p><p>- Thứ 3 là thu hái đúng thời điểm Bưởi từ 7-8 tháng Thuỳ mùa vụ đảm bảo trái đủ độ già. Khâu thu hái được áp dụng công nghệ xử lý đóng gói theo tiêu chuẩn HACCP. Đảm bảo đã được loại bỏ tất cả các mầm mống gây bệnh ,vi khuẩn trên từng quả Bưởi.</p><p><br></p><p>- Thứ 4 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;đặt theo tiêu chuẩn riêng&nbsp;cao cấp ở những vườn Bưởi ngon nhất, tất&nbsp;&nbsp;cả các size Bưởi từ 0.8-2,2&nbsp;đều đẹp ngon vỏ mỏng , ruột hồng và vị đậm Đà được chia là 6 size thùng khác nhau rất tiện lợi cho nhiều nhóm khách hàng.&nbsp;</p><p><br></p><p>- Thứ 5 là Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO trên mỗi quả Bưởi được dán mã QR để truy xuất nguồn gốc. Mỗi quả Bưởi tới tay các ĐẠI LÝ cũng như khách hàng được cam kết 100% chất lượng bao ăn ngon.</p><p>&nbsp;</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/0ed20f1d-bc19-4510-bb88-9549404cc52a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mã 1003 thùng 12 quả Bưởi Da xanh Bến Tre ( 18 < 19 kg )",
+    "description": "<p>BƯỞI DA XANH HƯƠNG MIỀN TÂY - NPP HƯƠNG POMELO</p><p><br></p><p>-ĐẠT TIÊU CHUẨN VIETGAP CHẤT LƯỢNG CAO</p><p>-ĐÓNG GÓI THEO TIÊU CHUẨN CHÂU ÂU HACCP</p><p>&nbsp;</p><p>Có 5 yếu tố để tạo nên sự khác biệt:</p><p><br></p><p>- Thứ nhất&nbsp;Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được trồng tại Bến Tre, các nhà khoa học nghiên cứu đây là&nbsp;nơi duy nhất có thổ nhưỡng để cho ra những quả Bưởi da xanh ngon nhất.</p><p><br></p><p>-Thứ 2 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;trồng theo quy trình nông nghiệp tốt đạt tiêu chuẩn Vietgap. Từ khâu chọn giống trồng chăm sóc đều được sự kết hợp của người dân cùng các kỹ sư nông nghiệp theo dõi đảm bảo đúng quy trình sạch.</p><p>Mỗi quả Bưởi đều đảm bảo an toàn cho người sử dụng.</p><p><br></p><p>- Thứ 3 là thu hái đúng thời điểm Bưởi từ 7-8 tháng Thuỳ mùa vụ đảm bảo trái đủ độ già. Khâu thu hái được áp dụng công nghệ xử lý đóng gói theo tiêu chuẩn HACCP. Đảm bảo đã được loại bỏ tất cả các mầm mống gây bệnh ,vi khuẩn trên từng quả Bưởi.</p><p><br></p><p>- Thứ 4 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;đặt theo tiêu chuẩn riêng&nbsp;cao cấp ở những vườn Bưởi ngon nhất, tất&nbsp;&nbsp;cả các size Bưởi từ 0.8-2,2&nbsp;đều đẹp ngon vỏ mỏng , ruột hồng và vị đậm Đà được chia là 6 size thùng khác nhau rất tiện lợi cho nhiều nhóm khách hàng.&nbsp;</p><p><br></p><p>- Thứ 5 là Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO trên mỗi quả Bưởi được dán mã QR để truy xuất nguồn gốc. Mỗi quả Bưởi tới tay các ĐẠI LÝ cũng như khách hàng được cam kết 100% chất lượng bao ăn ngon.</p><p>&nbsp;</p>",
+    "imageUrl": "https://images.f99.com.vn/images/0ed20f1d-bc19-4510-bb88-9549404cc52a.jpg",
+    "price": 1400000,
+    "oldPrice": 1500000,
+    "discountPercent": 7,
+    "stock": 120,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "thùng 12 quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 265,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 39,
+      "name": "Bưởi",
+      "imageUrl": "https://imgur.com/0tqoC39.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/0ed20f1d-bc19-4510-bb88-9549404cc52a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15221",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "thùng 12 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 72779,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "thùng 12 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "thùng 12 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "thùng 12 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 1400000,
+        "oldPrice": 1500000,
+        "discountPercent": 7,
+        "stock": 120,
+        "totalSold": 0,
+        "unit": "thùng 12 quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "thùng 12 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 265,
+      "sellerRate": 4.2,
+      "sellerName": "BƯỞI DA XANH HƯƠNG MIỀN TÂY - NPP HƯƠNG POMELO",
+      "warehouseId": "79fe2c92-02ec-4098-9e96-7736273e5dd7",
+      "warehouseAddress": "24 Quán Thánh, Quán Thánh, Ba Đình, Hà Nội",
+      "distance": 1901,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15228,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mã 1002 Bưởi Da xanh Bến Tre ( 1,5 < 1,7 kg )",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>BƯỞI DA XANH HƯƠNG MIỀN TÂY - NPP HƯƠNG POMELO</p><p><br></p><p>-ĐẠT TIÊU CHUẨN VIETGAP CHẤT LƯỢNG CAO</p><p>-ĐÓNG GÓI THEO TIÊU CHUẨN CHÂU ÂU HACCP</p><p>&nbsp;</p><p>Có 5 yếu tố để tạo nên sự khác biệt:</p><p><br></p><p>- Thứ nhất&nbsp;Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được trồng tại Bến Tre, các nhà khoa học nghiên cứu đây là&nbsp;nơi duy nhất có thổ nhưỡng để cho ra những quả Bưởi da xanh ngon nhất.</p><p><br></p><p>-Thứ 2 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;trồng theo quy trình nông nghiệp tốt đạt tiêu chuẩn Vietgap. Từ khâu chọn giống trồng chăm sóc đều được sự kết hợp của người dân cùng các kỹ sư nông nghiệp theo dõi đảm bảo đúng quy trình sạch.</p><p>Mỗi quả Bưởi đều đảm bảo an toàn cho người sử dụng.</p><p><br></p><p>- Thứ 3 là thu hái đúng thời điểm Bưởi từ 7-8 tháng Thuỳ mùa vụ đảm bảo trái đủ độ già. Khâu thu hái được áp dụng công nghệ xử lý đóng gói theo tiêu chuẩn HACCP. Đảm bảo đã được loại bỏ tất cả các mầm mống gây bệnh ,vi khuẩn trên từng quả Bưởi.</p><p><br></p><p>- Thứ 4 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;đặt theo tiêu chuẩn riêng&nbsp;cao cấp ở những vườn Bưởi ngon nhất, tất&nbsp;&nbsp;cả các size Bưởi từ 0.8-2,2&nbsp;đều đẹp ngon vỏ mỏng , ruột hồng và vị đậm Đà được chia là 6 size thùng khác nhau rất tiện lợi cho nhiều nhóm khách hàng.&nbsp;</p><p><br></p><p>- Thứ 5 là Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO trên mỗi quả Bưởi được dán mã QR để truy xuất nguồn gốc. Mỗi quả Bưởi tới tay các ĐẠI LÝ cũng như khách hàng được cam kết 100% chất lượng bao ăn ngon.</p><p>&nbsp;</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/9f354107-bb5c-4895-81a3-a1ccf648a16a.jpg\",\"https://images.f99.com.vn/images/4a773d3c-2372-45e9-a712-887ca404a6d3.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mã 1002 Bưởi Da xanh Bến Tre ( 1,5 < 1,7 kg )",
+    "description": "<p>BƯỞI DA XANH HƯƠNG MIỀN TÂY - NPP HƯƠNG POMELO</p><p><br></p><p>-ĐẠT TIÊU CHUẨN VIETGAP CHẤT LƯỢNG CAO</p><p>-ĐÓNG GÓI THEO TIÊU CHUẨN CHÂU ÂU HACCP</p><p>&nbsp;</p><p>Có 5 yếu tố để tạo nên sự khác biệt:</p><p><br></p><p>- Thứ nhất&nbsp;Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được trồng tại Bến Tre, các nhà khoa học nghiên cứu đây là&nbsp;nơi duy nhất có thổ nhưỡng để cho ra những quả Bưởi da xanh ngon nhất.</p><p><br></p><p>-Thứ 2 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;trồng theo quy trình nông nghiệp tốt đạt tiêu chuẩn Vietgap. Từ khâu chọn giống trồng chăm sóc đều được sự kết hợp của người dân cùng các kỹ sư nông nghiệp theo dõi đảm bảo đúng quy trình sạch.</p><p>Mỗi quả Bưởi đều đảm bảo an toàn cho người sử dụng.</p><p><br></p><p>- Thứ 3 là thu hái đúng thời điểm Bưởi từ 7-8 tháng Thuỳ mùa vụ đảm bảo trái đủ độ già. Khâu thu hái được áp dụng công nghệ xử lý đóng gói theo tiêu chuẩn HACCP. Đảm bảo đã được loại bỏ tất cả các mầm mống gây bệnh ,vi khuẩn trên từng quả Bưởi.</p><p><br></p><p>- Thứ 4 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;đặt theo tiêu chuẩn riêng&nbsp;cao cấp ở những vườn Bưởi ngon nhất, tất&nbsp;&nbsp;cả các size Bưởi từ 0.8-2,2&nbsp;đều đẹp ngon vỏ mỏng , ruột hồng và vị đậm Đà được chia là 6 size thùng khác nhau rất tiện lợi cho nhiều nhóm khách hàng.&nbsp;</p><p><br></p><p>- Thứ 5 là Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO trên mỗi quả Bưởi được dán mã QR để truy xuất nguồn gốc. Mỗi quả Bưởi tới tay các ĐẠI LÝ cũng như khách hàng được cam kết 100% chất lượng bao ăn ngon.</p><p>&nbsp;</p>",
+    "imageUrl": "https://images.f99.com.vn/images/9f354107-bb5c-4895-81a3-a1ccf648a16a.jpg",
+    "price": 170000,
+    "oldPrice": 180000,
+    "discountPercent": 6,
+    "stock": 120,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 265,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 39,
+      "name": "Bưởi",
+      "imageUrl": "https://imgur.com/0tqoC39.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/9f354107-bb5c-4895-81a3-a1ccf648a16a.jpg",
+      "https://images.f99.com.vn/images/4a773d3c-2372-45e9-a712-887ca404a6d3.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15228",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 72792,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 170000,
+        "oldPrice": 180000,
+        "discountPercent": 6,
+        "stock": 120,
+        "totalSold": 0,
+        "unit": "quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 265,
+      "sellerRate": 4.2,
+      "sellerName": "BƯỞI DA XANH HƯƠNG MIỀN TÂY - NPP HƯƠNG POMELO",
+      "warehouseId": "79fe2c92-02ec-4098-9e96-7736273e5dd7",
+      "warehouseAddress": "24 Quán Thánh, Quán Thánh, Ba Đình, Hà Nội",
+      "distance": 1901,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15232,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mã 1002 thùng 12 quả Bưởi Da xanh Bến Tre  ( 20 < 21 kg )",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>BƯỞI DA XANH HƯƠNG MIỀN TÂY - NPP HƯƠNG POMELO</p><p><br></p><p>-ĐẠT TIÊU CHUẨN VIETGAP CHẤT LƯỢNG CAO</p><p>-ĐÓNG GÓI THEO TIÊU CHUẨN CHÂU ÂU HACCP</p><p>&nbsp;</p><p>Có 5 yếu tố để tạo nên sự khác biệt:</p><p><br></p><p>- Thứ nhất&nbsp;Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được trồng tại Bến Tre, các nhà khoa học nghiên cứu đây là&nbsp;nơi duy nhất có thổ nhưỡng để cho ra những quả Bưởi da xanh ngon nhất.</p><p><br></p><p>-Thứ 2 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;trồng theo quy trình nông nghiệp tốt đạt tiêu chuẩn Vietgap. Từ khâu chọn giống trồng chăm sóc đều được sự kết hợp của người dân cùng các kỹ sư nông nghiệp theo dõi đảm bảo đúng quy trình sạch.</p><p>Mỗi quả Bưởi đều đảm bảo an toàn cho người sử dụng.</p><p><br></p><p>- Thứ 3 là thu hái đúng thời điểm Bưởi từ 7-8 tháng Thuỳ mùa vụ đảm bảo trái đủ độ già. Khâu thu hái được áp dụng công nghệ xử lý đóng gói theo tiêu chuẩn HACCP. Đảm bảo đã được loại bỏ tất cả các mầm mống gây bệnh ,vi khuẩn trên từng quả Bưởi.</p><p><br></p><p>- Thứ 4 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;đặt theo tiêu chuẩn riêng&nbsp;cao cấp ở những vườn Bưởi ngon nhất, tất&nbsp;&nbsp;cả các size Bưởi từ 0.8-2,2&nbsp;đều đẹp ngon vỏ mỏng , ruột hồng và vị đậm Đà được chia là 6 size thùng khác nhau rất tiện lợi cho nhiều nhóm khách hàng.&nbsp;</p><p><br></p><p>- Thứ 5 là Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO trên mỗi quả Bưởi được dán mã QR để truy xuất nguồn gốc. Mỗi quả Bưởi tới tay các ĐẠI LÝ cũng như khách hàng được cam kết 100% chất lượng bao ăn ngon.</p><p>&nbsp;</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/1d580f83-ef98-44a0-a8c8-8d4a9b37fb84.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mã 1002 thùng 12 quả Bưởi Da xanh Bến Tre  ( 20 < 21 kg )",
+    "description": "<p>BƯỞI DA XANH HƯƠNG MIỀN TÂY - NPP HƯƠNG POMELO</p><p><br></p><p>-ĐẠT TIÊU CHUẨN VIETGAP CHẤT LƯỢNG CAO</p><p>-ĐÓNG GÓI THEO TIÊU CHUẨN CHÂU ÂU HACCP</p><p>&nbsp;</p><p>Có 5 yếu tố để tạo nên sự khác biệt:</p><p><br></p><p>- Thứ nhất&nbsp;Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được trồng tại Bến Tre, các nhà khoa học nghiên cứu đây là&nbsp;nơi duy nhất có thổ nhưỡng để cho ra những quả Bưởi da xanh ngon nhất.</p><p><br></p><p>-Thứ 2 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;trồng theo quy trình nông nghiệp tốt đạt tiêu chuẩn Vietgap. Từ khâu chọn giống trồng chăm sóc đều được sự kết hợp của người dân cùng các kỹ sư nông nghiệp theo dõi đảm bảo đúng quy trình sạch.</p><p>Mỗi quả Bưởi đều đảm bảo an toàn cho người sử dụng.</p><p><br></p><p>- Thứ 3 là thu hái đúng thời điểm Bưởi từ 7-8 tháng Thuỳ mùa vụ đảm bảo trái đủ độ già. Khâu thu hái được áp dụng công nghệ xử lý đóng gói theo tiêu chuẩn HACCP. Đảm bảo đã được loại bỏ tất cả các mầm mống gây bệnh ,vi khuẩn trên từng quả Bưởi.</p><p><br></p><p>- Thứ 4 Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO được&nbsp;đặt theo tiêu chuẩn riêng&nbsp;cao cấp ở những vườn Bưởi ngon nhất, tất&nbsp;&nbsp;cả các size Bưởi từ 0.8-2,2&nbsp;đều đẹp ngon vỏ mỏng , ruột hồng và vị đậm Đà được chia là 6 size thùng khác nhau rất tiện lợi cho nhiều nhóm khách hàng.&nbsp;</p><p><br></p><p>- Thứ 5 là Bưởi da xanh Bến Tre Hương Miền Tây - NPP HƯƠNG POMELO trên mỗi quả Bưởi được dán mã QR để truy xuất nguồn gốc. Mỗi quả Bưởi tới tay các ĐẠI LÝ cũng như khách hàng được cam kết 100% chất lượng bao ăn ngon.</p><p>&nbsp;</p>",
+    "imageUrl": "https://images.f99.com.vn/images/1d580f83-ef98-44a0-a8c8-8d4a9b37fb84.jpg",
+    "price": 1700000,
+    "oldPrice": 1700000,
+    "discountPercent": 0,
+    "stock": 120,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "thùng 12 quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 265,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 39,
+      "name": "Bưởi",
+      "imageUrl": "https://imgur.com/0tqoC39.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/1d580f83-ef98-44a0-a8c8-8d4a9b37fb84.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15232",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "thùng 12 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 72803,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "thùng 12 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "thùng 12 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "thùng 12 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 1700000,
+        "oldPrice": 1700000,
+        "discountPercent": 0,
+        "stock": 120,
+        "totalSold": 0,
+        "unit": "thùng 12 quả",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "thùng 12 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 265,
+      "sellerRate": 4.2,
+      "sellerName": "BƯỞI DA XANH HƯƠNG MIỀN TÂY - NPP HƯƠNG POMELO",
+      "warehouseId": "79fe2c92-02ec-4098-9e96-7736273e5dd7",
+      "warehouseAddress": "24 Quán Thánh, Quán Thánh, Ba Đình, Hà Nội",
+      "distance": 1901,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

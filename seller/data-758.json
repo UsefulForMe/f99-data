@@ -1,0 +1,35 @@
+{
+  "id": 758,
+  "name": "ĂN VẶT & TRÁI CÂY TÔ – TMT2A",
+  "logo": "https://cdn.f99.link/groupbuy-images/36a29e41-6ee5-499a-b478-65979270b20b.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Thế giới đồ ăn vặt & trái cây tươi",
+  "headQuarter": "18/1 Trung Mỹ Tây 2A, Trung Mỹ Tây, Quận 12, Hồ Chí Minh",
+  "email": "Phanthiha.tamle@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "10:00",
+    "closeTime": "23:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

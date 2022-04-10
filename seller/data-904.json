@@ -1,0 +1,35 @@
+{
+  "id": 904,
+  "name": "Vườn Trái Cây Tú Oanh",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/c8dd463d-5ca6-452a-985f-9dca919d3b24.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "chuyên cung cấp sỉ lẻ các loại trái cây, rau củ giá tận vườn, đảm bảo chất lượng tươi ngon -giá cả hợp lý.",
+  "headQuarter": "Số Nhà 73 Đường 385, Tăng Nhơn Phú A, Quận 9, Hồ Chí Minh",
+  "email": "tranhanh28908@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

@@ -1,0 +1,35 @@
+{
+  "id": 1004,
+  "name": "Hàng Phố Food",
+  "logo": "https://images.f99.com.vn/groupbuy-images/e3f9d216-1332-475c-96c4-120810c50ec1.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Xưởng sản xuất thực phẩm sạch Hàng Phố - chuyên thịt bò khô, thịt heo khô.",
+  "headQuarter": "Số 31/135 Đội Cấn, Phường Ngọc Hà, Quận Ba Đình, Thành Phố Hà Nội, Ngọc Hà, Ba Đình, Hà Nội",
+  "email": "hangphofood@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

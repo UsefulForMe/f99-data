@@ -1,0 +1,426 @@
+{
+  "id": 1332,
+  "attributeTextValues": [
+    {
+      "id": 1,
+      "name": "Name",
+      "type": "text    ",
+      "value": "Táo Rockit ",
+      "attribute": {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "isRequired": true
+      }
+    },
+    {
+      "id": 2,
+      "name": "Description",
+      "type": "text    ",
+      "value": "<p><img src=\"https://images.f99.com.vn/images/1dd4da71-739e-45df-ab07-8a1fc425ebed.png\"><img src=\"https://images.f99.com.vn/images/d1ceef9a-81bd-419e-80f5-734fffb0d224.jpg\"><img src=\"https://images.f99.com.vn/images/8df42cb7-1638-4eac-95f1-d53feca110a1.png\"><img src=\"https://images.f99.com.vn/images/36c9df30-7651-4aa5-9cf6-53a629e1ab2f.png\"><img src=\"https://images.f99.com.vn/images/728a1d90-d608-4904-8914-c5b1f53dd245.jpg\"><img src=\"https://images.f99.com.vn/images/242765d0-eb00-4e32-acdc-ee23d3730967.png\"></p>",
+      "attribute": {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "isRequired": true
+      }
+    },
+    {
+      "id": 6,
+      "name": "Standards",
+      "type": "text    ",
+      "value": "[]",
+      "attribute": {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "isRequired": true
+      }
+    },
+    {
+      "id": 4,
+      "name": "Images",
+      "type": "text    ",
+      "value": "[\"https://images.f99.com.vn/images/a04d79d3-d7bc-4bae-93d9-2cbe20d671aa.png\",\"https://images.f99.com.vn/images/2e03e4ad-071a-44be-9960-f79b3d9e2c22.png\",\"https://images.f99.com.vn/images/4cf81e1d-b4bb-4f52-995a-82a49ac8d2c3.png\",\"https://images.f99.com.vn/images/c7788496-6a76-419d-a90a-d19f361e8bfd.png\",\"https://images.f99.com.vn/images/70ea18e7-000b-49bf-8e4b-cd2a41ead52a.png\",\"https://images.f99.com.vn/images/70bc90a5-6c06-454d-815e-1c9794133df0.png\"]",
+      "attribute": {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "isRequired": true
+      }
+    },
+    {
+      "id": 44,
+      "name": "Tags",
+      "type": "text    ",
+      "value": "[\"Táo\",\"Táo Rockit\",\"Táo Rockit Newzealand\",\"Hoa quả sạch nhập khẩu\",\"Hoa quả tươi nhập khẩu\"]",
+      "attribute": {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "isRequired": true
+      }
+    }
+  ],
+  "flashSale": null,
+  "name": "Táo Rockit ",
+  "description": "<p><img src=\"https://images.f99.com.vn/images/1dd4da71-739e-45df-ab07-8a1fc425ebed.png\"><img src=\"https://images.f99.com.vn/images/d1ceef9a-81bd-419e-80f5-734fffb0d224.jpg\"><img src=\"https://images.f99.com.vn/images/8df42cb7-1638-4eac-95f1-d53feca110a1.png\"><img src=\"https://images.f99.com.vn/images/36c9df30-7651-4aa5-9cf6-53a629e1ab2f.png\"><img src=\"https://images.f99.com.vn/images/728a1d90-d608-4904-8914-c5b1f53dd245.jpg\"><img src=\"https://images.f99.com.vn/images/242765d0-eb00-4e32-acdc-ee23d3730967.png\"></p>",
+  "imageUrl": "https://images.f99.com.vn/images/a04d79d3-d7bc-4bae-93d9-2cbe20d671aa.png",
+  "price": 149000,
+  "oldPrice": 165000,
+  "discountPercent": 10,
+  "stock": 38,
+  "totalSold": 461,
+  "maxQuantityPerUser": null,
+  "unit": "lốc ",
+  "sku": "20001315",
+  "origin": "",
+  "sellerId": 1,
+  "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+  "rating": 4.4,
+  "instructions": null,
+  "category": {
+    "id": 1,
+    "name": "Táo",
+    "imageUrl": "https://imgur.com/AtewyJz.png",
+    "parentId": 86,
+    "parent": null
+  },
+  "isLiked": null,
+  "isLocked": false,
+  "standards": [],
+  "tags": [
+    "Táo",
+    "Táo Rockit",
+    "Táo Rockit Newzealand",
+    "Hoa quả sạch nhập khẩu",
+    "Hoa quả tươi nhập khẩu"
+  ],
+  "imageUrls": [
+    "https://images.f99.com.vn/images/a04d79d3-d7bc-4bae-93d9-2cbe20d671aa.png",
+    "https://images.f99.com.vn/images/2e03e4ad-071a-44be-9960-f79b3d9e2c22.png",
+    "https://images.f99.com.vn/images/4cf81e1d-b4bb-4f52-995a-82a49ac8d2c3.png",
+    "https://images.f99.com.vn/images/c7788496-6a76-419d-a90a-d19f361e8bfd.png",
+    "https://images.f99.com.vn/images/70ea18e7-000b-49bf-8e4b-cd2a41ead52a.png",
+    "https://images.f99.com.vn/images/70bc90a5-6c06-454d-815e-1c9794133df0.png"
+  ],
+  "note": null,
+  "sharingProductUrl": "https://m.f99.com.vn/product/1332",
+  "attributes": [
+    {
+      "id": 80,
+      "name": "Đóng gói",
+      "values": ["1 hộp", "3 hộp", "5 hộp"]
+    }
+  ],
+  "crossSaleProducts": null,
+  "variants": [
+    {
+      "isOriginal": false,
+      "isPoor": false,
+      "id": 5196,
+      "attributeTextValues": [
+        {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "value": "1 hộp",
+          "attribute": {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "isRequired": true
+          }
+        },
+        {
+          "id": 79,
+          "name": "Note",
+          "type": "text    ",
+          "value": "",
+          "attribute": {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "isRequired": true
+          }
+        },
+        {
+          "id": 80,
+          "name": "Đóng gói",
+          "type": "text    ",
+          "value": "1 hộp",
+          "attribute": {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "isRequired": false
+          }
+        }
+      ],
+      "flashSale": null,
+      "name": "1 hộp",
+      "description": "",
+      "imageUrls": [],
+      "imageUrl": null,
+      "price": 149000,
+      "oldPrice": 0,
+      "discountPercent": null,
+      "stock": 25,
+      "totalSold": 282,
+      "unit": "lốc ",
+      "sku": "20001315",
+      "rating": 4.4,
+      "instructions": null,
+      "sellerId": 0,
+      "note": "",
+      "attributes": [
+        {
+          "id": 80,
+          "name": "Đóng gói",
+          "value": "1 hộp"
+        }
+      ],
+      "flashSaleComingSoon": null,
+      "maxQuantityPerUser": null
+    },
+    {
+      "isOriginal": false,
+      "isPoor": false,
+      "id": 5197,
+      "attributeTextValues": [
+        {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "value": "3 hộp",
+          "attribute": {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "isRequired": true
+          }
+        },
+        {
+          "id": 79,
+          "name": "Note",
+          "type": "text    ",
+          "value": "139,9k/kg",
+          "attribute": {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "isRequired": true
+          }
+        },
+        {
+          "id": 80,
+          "name": "Đóng gói",
+          "type": "text    ",
+          "value": "3 hộp",
+          "attribute": {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "isRequired": false
+          }
+        }
+      ],
+      "flashSale": null,
+      "name": "3 hộp",
+      "description": "",
+      "imageUrls": [],
+      "imageUrl": null,
+      "price": 419700,
+      "oldPrice": 0,
+      "discountPercent": null,
+      "stock": 8,
+      "totalSold": 94,
+      "unit": "lốc ",
+      "sku": "20001594",
+      "rating": 4.4,
+      "instructions": null,
+      "sellerId": 0,
+      "note": "139,9k/kg",
+      "attributes": [
+        {
+          "id": 80,
+          "name": "Đóng gói",
+          "value": "3 hộp"
+        }
+      ],
+      "flashSaleComingSoon": null,
+      "maxQuantityPerUser": null
+    },
+    {
+      "isOriginal": false,
+      "isPoor": false,
+      "id": 5322,
+      "attributeTextValues": [
+        {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "value": "5 hộp",
+          "attribute": {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "isRequired": true
+          }
+        },
+        {
+          "id": 79,
+          "name": "Note",
+          "type": "text    ",
+          "value": "129,9k/kg",
+          "attribute": {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "isRequired": true
+          }
+        },
+        {
+          "id": 80,
+          "name": "Đóng gói",
+          "type": "text    ",
+          "value": "5 hộp",
+          "attribute": {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "isRequired": false
+          }
+        }
+      ],
+      "flashSale": null,
+      "name": "5 hộp",
+      "description": "",
+      "imageUrls": [],
+      "imageUrl": null,
+      "price": 649500,
+      "oldPrice": 0,
+      "discountPercent": null,
+      "stock": 5,
+      "totalSold": 85,
+      "unit": "lốc ",
+      "sku": "20001595",
+      "rating": 4.4,
+      "instructions": null,
+      "sellerId": 0,
+      "note": "129,9k/kg",
+      "attributes": [
+        {
+          "id": 80,
+          "name": "Đóng gói",
+          "value": "5 hộp"
+        }
+      ],
+      "flashSaleComingSoon": null,
+      "maxQuantityPerUser": null
+    }
+  ],
+  "currentTime": "0001-01-01T00:00:00",
+  "warehouse": {
+    "sellerId": 1,
+    "sellerRate": 4.8,
+    "sellerName": "F99 Trading",
+    "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+    "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+    "distance": 2188,
+    "warehouseDistrict": "dong da",
+    "reputation": 100,
+    "others": [
+      {
+        "sellerId": 1,
+        "sellerRate": 4.8,
+        "sellerName": "F99 Trading",
+        "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+        "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+        "distance": 2188,
+        "warehouseDistrict": "dong da",
+        "reputation": 100,
+        "others": []
+      },
+      {
+        "sellerId": 1,
+        "sellerRate": 4.8,
+        "sellerName": "F99 Trading",
+        "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+        "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+        "distance": 4139,
+        "warehouseDistrict": "long bien",
+        "reputation": 100,
+        "others": []
+      },
+      {
+        "sellerId": 1,
+        "sellerRate": 4.8,
+        "sellerName": "F99 Trading",
+        "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+        "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+        "distance": 4397,
+        "warehouseDistrict": "hai ba trung",
+        "reputation": 100,
+        "others": []
+      },
+      {
+        "sellerId": 1,
+        "sellerRate": 4.8,
+        "sellerName": "F99 Trading",
+        "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+        "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+        "distance": 4397,
+        "warehouseDistrict": "hai ba trung",
+        "reputation": 100,
+        "others": []
+      },
+      {
+        "sellerId": 1,
+        "sellerRate": 4.8,
+        "sellerName": "F99 Trading",
+        "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+        "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+        "distance": 4413,
+        "warehouseDistrict": "tay ho",
+        "reputation": 100,
+        "others": []
+      },
+      {
+        "sellerId": 1,
+        "sellerRate": 4.8,
+        "sellerName": "F99 Trading",
+        "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+        "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+        "distance": 5451,
+        "warehouseDistrict": "bac tu liem",
+        "reputation": 100,
+        "others": []
+      },
+      {
+        "sellerId": 1,
+        "sellerRate": 4.8,
+        "sellerName": "F99 Trading",
+        "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+        "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+        "distance": 5889,
+        "warehouseDistrict": "cau giay",
+        "reputation": 100,
+        "others": []
+      },
+      {
+        "sellerId": 1,
+        "sellerRate": 4.8,
+        "sellerName": "F99 Trading",
+        "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+        "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+        "distance": 7674,
+        "warehouseDistrict": "bac tu liem",
+        "reputation": 100,
+        "others": []
+      }
+    ]
+  },
+  "flashSaleSoonEngage": null,
+  "recentCount": 0
+}

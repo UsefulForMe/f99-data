@@ -1,0 +1,35 @@
+{
+  "id": 873,
+  "name": "Hali Food",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/e8545982-aef5-4333-9488-3898219321cb.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cung cấp thực phẩm vì sức khoẻ",
+  "headQuarter": "11 Đường 11, KDC Vạn Phúc, Hiệp Bình Phước, Thủ Đức, Hồ Chí Minh",
+  "email": "Tranthanhha46@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "06:00",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

@@ -1,0 +1,2537 @@
+[
+  {
+    "id": 7970,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bột Xí muội 100gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Bột Xí muội 100gr</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/90a728b6eae941c1a0b60b95db67357c.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bột Xí muội 100gr",
+    "description": "<p>Bột Xí muội 100gr</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/90a728b6eae941c1a0b60b95db67357c.jpg",
+    "price": 35000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Túi",
+    "sku": "8936079284956",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 141,
+      "name": "Bột ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/b584ee91-e5f6-4633-b554-6aff5b213dea.png",
+      "parentId": 133,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/90a728b6eae941c1a0b60b95db67357c.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7970",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8299,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bột mì Meizan 500gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Bột mì Meizan 500gr</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/e9a204ae046d4bbc846d2c4a6338306b.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bột mì Meizan 500gr",
+    "description": "<p>Bột mì Meizan 500gr</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/e9a204ae046d4bbc846d2c4a6338306b.png",
+    "price": 12000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 27,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "8938510494014",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 141,
+      "name": "Bột ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/b584ee91-e5f6-4633-b554-6aff5b213dea.png",
+      "parentId": 133,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/e9a204ae046d4bbc846d2c4a6338306b.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8299",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "gói"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 60060,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 gói",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "gói",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 gói",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 12000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 200,
+        "totalSold": 27,
+        "unit": "gói",
+        "sku": "8938510494014",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "gói"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8300,
+    "attributeTextValues": [
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/048686a5b2c5469eb62cd77eaeb9de67.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Bột mì Meizan 1kg</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bột mì Meizan 1kg",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bột mì Meizan 1kg",
+    "description": "<p>Bột mì Meizan 1kg</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/048686a5b2c5469eb62cd77eaeb9de67.png",
+    "price": 23000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 31,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "8938510494038",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 141,
+      "name": "Bột ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/b584ee91-e5f6-4633-b554-6aff5b213dea.png",
+      "parentId": 133,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/048686a5b2c5469eb62cd77eaeb9de67.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8300",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "gói"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 60058,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 gói",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "gói",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 gói",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 23000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 200,
+        "totalSold": 31,
+        "unit": "gói",
+        "sku": "8938510494038",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "gói"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8349,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bột Baking Soda 454gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Bột Baking Soda 454gr</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/deea24b0aca44f79939b0afe7b8fb647.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bột Baking Soda 454gr",
+    "description": "<p>Bột Baking Soda 454gr</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/deea24b0aca44f79939b0afe7b8fb647.jpg",
+    "price": 30000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 13,
+    "maxQuantityPerUser": null,
+    "unit": "Hộp",
+    "sku": "033200011101",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 141,
+      "name": "Bột ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/b584ee91-e5f6-4633-b554-6aff5b213dea.png",
+      "parentId": 133,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/deea24b0aca44f79939b0afe7b8fb647.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8349",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 19090,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bột bánh bao Nano Curcumin 400g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgba(0, 0, 0, 0.8);\">BỘT BÁNH BAO NANO CURCUMIN 400G:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hoàn toàn chiết xuất từ tự nhiên, được bổ sung tinh chất quý Nano Nghệ, không chỉ giúp mang lại vị thơm ngon của bột mà còn mang đến chế độ ăn uống tốt cho sức khỏe, đặc biệt là hệ tiêu hóa.</span></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Thành phần: </strong><span style=\"color: rgba(0, 0, 0, 0.8);\">Bột mì, bột năng, men khô, Nano Curcumin 0.25%</span></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Hạn sử dụng: </strong><span style=\"color: rgba(0, 0, 0, 0.8);\">12 tháng kể từ ngày sản xuất.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Khối lượng tịnh: 400g</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Lưu ý: Không dùng sản phẩm khi hết hạn sử dụng, hoặc sản phẩm có dấu hiệu hư hỏng (nấm, mốc, vón cục).</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Hướng dẫn sử dụng:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 1: Cho 1 gói men khô vào trong 180ml sữa tươi không đường (hoặc nước), rồi đổ 300g bột vào (nhớ chừa lại khoảng 100g để làm bột áo). Nhồi đều tay khoảng 10 phút cho vào 3 thìa nhỏ dầu ăn xong nhồi thêm 10 phút nữa. </span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Lưu ý: nhồi đến khi bột mịn không còn dính tay là được.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 2: Ủ bột trong 60 phút.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 3: Lấy bột vo và kéo dài, rồi cắt đều thành 8 phần. Sau đó cán mỏng cho nhân vào (dùng bột áo thoa để khỏi dính tay), đặt bánh trên giấy nến hoặc giấy lót.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 4: Hấp bánh, đun nước cho thật sôi. Hấp khoảng 20 - 25 phút là bánh chín.</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Cách làm nhân:</strong><span style=\"color: rgba(0, 0, 0, 0.8);\"> Luộc chín 8 quả trứng cút hoặc 4 quả trứng gà, cắt ra làm 8 miếng. trộn chung 250g thịt heo xay, bột ngọt, tiêu, muối, miến, mộc nhĩ sau đó vo viên lại cho tròn thành 8 phần và lấy phần 1 trứng cút hoặc 1 trứng gà cho vào nhân bánh, phần vỏ bánh đã cán cho nhân thịt sống vào kéo vỏ bánh cho kín nhân rồi đặt vào giấy nến hoặc giấy lót sau đó cho bánh vào hấp.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/2e52bb9a-d96f-418d-9cd1-81a1f2fece70.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bột bánh bao Nano Curcumin 400g",
+    "description": "<p><strong style=\"color: rgba(0, 0, 0, 0.8);\">BỘT BÁNH BAO NANO CURCUMIN 400G:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hoàn toàn chiết xuất từ tự nhiên, được bổ sung tinh chất quý Nano Nghệ, không chỉ giúp mang lại vị thơm ngon của bột mà còn mang đến chế độ ăn uống tốt cho sức khỏe, đặc biệt là hệ tiêu hóa.</span></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Thành phần: </strong><span style=\"color: rgba(0, 0, 0, 0.8);\">Bột mì, bột năng, men khô, Nano Curcumin 0.25%</span></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Hạn sử dụng: </strong><span style=\"color: rgba(0, 0, 0, 0.8);\">12 tháng kể từ ngày sản xuất.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Khối lượng tịnh: 400g</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Lưu ý: Không dùng sản phẩm khi hết hạn sử dụng, hoặc sản phẩm có dấu hiệu hư hỏng (nấm, mốc, vón cục).</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Hướng dẫn sử dụng:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 1: Cho 1 gói men khô vào trong 180ml sữa tươi không đường (hoặc nước), rồi đổ 300g bột vào (nhớ chừa lại khoảng 100g để làm bột áo). Nhồi đều tay khoảng 10 phút cho vào 3 thìa nhỏ dầu ăn xong nhồi thêm 10 phút nữa. </span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Lưu ý: nhồi đến khi bột mịn không còn dính tay là được.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 2: Ủ bột trong 60 phút.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 3: Lấy bột vo và kéo dài, rồi cắt đều thành 8 phần. Sau đó cán mỏng cho nhân vào (dùng bột áo thoa để khỏi dính tay), đặt bánh trên giấy nến hoặc giấy lót.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 4: Hấp bánh, đun nước cho thật sôi. Hấp khoảng 20 - 25 phút là bánh chín.</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Cách làm nhân:</strong><span style=\"color: rgba(0, 0, 0, 0.8);\"> Luộc chín 8 quả trứng cút hoặc 4 quả trứng gà, cắt ra làm 8 miếng. trộn chung 250g thịt heo xay, bột ngọt, tiêu, muối, miến, mộc nhĩ sau đó vo viên lại cho tròn thành 8 phần và lấy phần 1 trứng cút hoặc 1 trứng gà cho vào nhân bánh, phần vỏ bánh đã cán cho nhân thịt sống vào kéo vỏ bánh cho kín nhân rồi đặt vào giấy nến hoặc giấy lót sau đó cho bánh vào hấp.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/2e52bb9a-d96f-418d-9cd1-81a1f2fece70.jpg",
+    "price": 33900,
+    "oldPrice": 47000,
+    "discountPercent": 28,
+    "stock": 1000,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Túi 400g",
+    "sku": "8938503498753",
+    "origin": "",
+    "sellerId": 316,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bảo quản: Nơi khô ráo, tránh xa các loại hóa chất.</span></p>",
+    "category": {
+      "id": 141,
+      "name": "Bột ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/b584ee91-e5f6-4633-b554-6aff5b213dea.png",
+      "parentId": 133,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/2e52bb9a-d96f-418d-9cd1-81a1f2fece70.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/19090",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 316,
+      "sellerRate": 4.2,
+      "sellerName": "Dad's Farm",
+      "warehouseId": "1173160f-669a-4c76-814b-bc0ce0159549",
+      "warehouseAddress": "NV1-C2 ô 5-6 Geleximco khu đô thị hai bên đường Lê Trọng Tấn, Dương Nội, Hà Đông, Hà Nội",
+      "distance": 11024,
+      "warehouseDistrict": "ha dong",
+      "reputation": 61.85360283687986,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 19095,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bột bánh cuốn Nano Curcumin 400g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgba(0, 0, 0, 0.8);\">BỘT BÁNH CUỐN NANO CURCUMIN 400G:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\"> Hoàn toàn chiết xuất từ tự nhiên, được bổ sung tinh chất quý Nano Nghệ, không chỉ giúp mang lại vị thơm ngon của bột mà còn mang đến chế độ ăn uống tốt cho sức khỏe, đặc biệt là hệ tiêu hóa.</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Thành phần:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bột gạo tẻ Thái Hồng 94,75%, bộp gạo nếp 5%, Nano Curcumin 0,25%</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Khối lượng tịnh: 400g</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hạn sử dụng: 12 tháng kể từ ngày sản xuất</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Lưu ý: Không dùng sản phẩm khi hết hạn sử dụng, hoặc sản phẩm có dấu hiệu hư hỏng (nấm, mốc, vón cục)</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Hướng dẫn sử dụng:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 1: Pha bột bánh cuốn 400g + 1 lít nước+ dầu ăn</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 2: Nhân bánh</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Thịt nạc, hành, mộc nhĩ, tiêu băm nhỏ xào chín</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 3: Tráng bánh</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Cho bột vào chảo chống dính, tráng mỏng, đậy nắp 15 giây, lấy bánh bằng cách úp chảo xuống mâm có thoa dầu.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 4: Cuốn bánh</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Cho nhân vào giữa bánh và cuốn bánh lại</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bánh dùng với rau thơm cắt nhỏ, hành phi, chả lụa và nước mắm pha.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/0829714e-a44d-4b36-87fa-4bc8a4f86c9a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bột bánh cuốn Nano Curcumin 400g",
+    "description": "<p><strong style=\"color: rgba(0, 0, 0, 0.8);\">BỘT BÁNH CUỐN NANO CURCUMIN 400G:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\"> Hoàn toàn chiết xuất từ tự nhiên, được bổ sung tinh chất quý Nano Nghệ, không chỉ giúp mang lại vị thơm ngon của bột mà còn mang đến chế độ ăn uống tốt cho sức khỏe, đặc biệt là hệ tiêu hóa.</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Thành phần:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bột gạo tẻ Thái Hồng 94,75%, bộp gạo nếp 5%, Nano Curcumin 0,25%</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Khối lượng tịnh: 400g</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hạn sử dụng: 12 tháng kể từ ngày sản xuất</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Lưu ý: Không dùng sản phẩm khi hết hạn sử dụng, hoặc sản phẩm có dấu hiệu hư hỏng (nấm, mốc, vón cục)</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Hướng dẫn sử dụng:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 1: Pha bột bánh cuốn 400g + 1 lít nước+ dầu ăn</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 2: Nhân bánh</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Thịt nạc, hành, mộc nhĩ, tiêu băm nhỏ xào chín</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 3: Tráng bánh</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Cho bột vào chảo chống dính, tráng mỏng, đậy nắp 15 giây, lấy bánh bằng cách úp chảo xuống mâm có thoa dầu.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 4: Cuốn bánh</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Cho nhân vào giữa bánh và cuốn bánh lại</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bánh dùng với rau thơm cắt nhỏ, hành phi, chả lụa và nước mắm pha.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/0829714e-a44d-4b36-87fa-4bc8a4f86c9a.jpg",
+    "price": 33900,
+    "oldPrice": 47000,
+    "discountPercent": 28,
+    "stock": 1000,
+    "totalSold": 4,
+    "maxQuantityPerUser": null,
+    "unit": "Gói 400g",
+    "sku": "8938503498647",
+    "origin": "",
+    "sellerId": 316,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Bảo quản:</strong><span style=\"color: rgba(0, 0, 0, 0.8);\"> Nơi khô ráo, tránh xa các loai hóa chất.</span></p>",
+    "category": {
+      "id": 141,
+      "name": "Bột ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/b584ee91-e5f6-4633-b554-6aff5b213dea.png",
+      "parentId": 133,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/0829714e-a44d-4b36-87fa-4bc8a4f86c9a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/19095",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 316,
+      "sellerRate": 4.2,
+      "sellerName": "Dad's Farm",
+      "warehouseId": "1173160f-669a-4c76-814b-bc0ce0159549",
+      "warehouseAddress": "NV1-C2 ô 5-6 Geleximco khu đô thị hai bên đường Lê Trọng Tấn, Dương Nội, Hà Đông, Hà Nội",
+      "distance": 11024,
+      "warehouseDistrict": "ha dong",
+      "reputation": 61.85360283687986,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 19107,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bột bánh xèo Nano Curcumin 400g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgba(0, 0, 0, 0.8);\">BỘT BÁNH XÈO NANO CURCUMIN 400G :</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hoàn toàn chiết xuất từ tự nhiên, được bổ sung tinh chất quý Nano Nghệ, không chỉ giúp mang lại vị thơm ngon của bột mà còn mang đến chế độ ăn uống tốt cho sức khỏe, đặc biệt là hệ tiêu hóa.</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Thành phần: </strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bột gạo, bột mì, bột cốt dừa, Nano Curcumin 0.25%</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hạn sử dụng: 12 tháng kể từ ngày sản xuất.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Lưu ý: Không dùng sản phẩm khi hết hạn sử dụng, hoặc sản phẩm có dấu hiệu hư hỏng (nấm, mốc, vón cục).</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Hướng dẫn sử dụng:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 1: Cho 400g bột bánh xèo, sau đó hòa tan với 750ml - 800ml nước, hàng lá xắt nhỏ bỏ vào rồi quậy đều.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 2: Tráng mỡ vào chảo thật nóng. Tôm, thịt bò, tiêu, dầu hào, muối, bột ngọt vào xào sơ, sau đó múc bột đổ vào chảo tráng đều, thêm giá vào giữa chảo. Đậy nắp lại khoảng 3 phút cho giá chín.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 3: Mở nắp khi thấy bánh chín vàng đều và giòn thì gập bánh lại làm đôi (nửa hình tròn), xúc bánh ra đĩa dùng chung rau cải chấm với nước mắm. Phần bột còn lại tiếp tục đổ cho đến hết.</span></p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/6445569d-5751-42b3-b3e5-21d01eadd9a3.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bột bánh xèo Nano Curcumin 400g",
+    "description": "<p><strong style=\"color: rgba(0, 0, 0, 0.8);\">BỘT BÁNH XÈO NANO CURCUMIN 400G :</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hoàn toàn chiết xuất từ tự nhiên, được bổ sung tinh chất quý Nano Nghệ, không chỉ giúp mang lại vị thơm ngon của bột mà còn mang đến chế độ ăn uống tốt cho sức khỏe, đặc biệt là hệ tiêu hóa.</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Thành phần: </strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bột gạo, bột mì, bột cốt dừa, Nano Curcumin 0.25%</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hạn sử dụng: 12 tháng kể từ ngày sản xuất.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Lưu ý: Không dùng sản phẩm khi hết hạn sử dụng, hoặc sản phẩm có dấu hiệu hư hỏng (nấm, mốc, vón cục).</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Hướng dẫn sử dụng:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 1: Cho 400g bột bánh xèo, sau đó hòa tan với 750ml - 800ml nước, hàng lá xắt nhỏ bỏ vào rồi quậy đều.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 2: Tráng mỡ vào chảo thật nóng. Tôm, thịt bò, tiêu, dầu hào, muối, bột ngọt vào xào sơ, sau đó múc bột đổ vào chảo tráng đều, thêm giá vào giữa chảo. Đậy nắp lại khoảng 3 phút cho giá chín.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 3: Mở nắp khi thấy bánh chín vàng đều và giòn thì gập bánh lại làm đôi (nửa hình tròn), xúc bánh ra đĩa dùng chung rau cải chấm với nước mắm. Phần bột còn lại tiếp tục đổ cho đến hết.</span></p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/6445569d-5751-42b3-b3e5-21d01eadd9a3.jpg",
+    "price": 33900,
+    "oldPrice": 47000,
+    "discountPercent": 28,
+    "stock": 1000,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "Gói 400g",
+    "sku": "8938503498746",
+    "origin": "",
+    "sellerId": 316,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Bảo quản:</strong><span style=\"color: rgba(0, 0, 0, 0.8);\"> Nơi khô ráo, tránh xa các loại hóa chất.</span></p>",
+    "category": {
+      "id": 141,
+      "name": "Bột ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/b584ee91-e5f6-4633-b554-6aff5b213dea.png",
+      "parentId": 133,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/6445569d-5751-42b3-b3e5-21d01eadd9a3.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/19107",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 316,
+      "sellerRate": 4.2,
+      "sellerName": "Dad's Farm",
+      "warehouseId": "1173160f-669a-4c76-814b-bc0ce0159549",
+      "warehouseAddress": "NV1-C2 ô 5-6 Geleximco khu đô thị hai bên đường Lê Trọng Tấn, Dương Nội, Hà Đông, Hà Nội",
+      "distance": 11024,
+      "warehouseDistrict": "ha dong",
+      "reputation": 61.85360283687986,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 19110,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bột tẻ Nano Curcumin 400g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Bột tẻ nanocurcumin 400g:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bột tẻ Nano Ngệ được làm từ hạt gạo qua các công đoạn như ngâm, xay, khuấy, lắng, chia bột, phơi khô kết hợp tinh chất Nano Nghệ tự nhiên không chỉ giúp mang lại vị thơm ngon của bột mà còn mang đến chế độ ăn uống tốt cho sức khỏe, đặt biệt là hệ tiêu hóa.</span></p><ul><li><span style=\"color: rgba(0, 0, 0, 0.8);\"> Chiết xuất Nano Curcumin</span></li><li><span style=\"color: rgba(0, 0, 0, 0.8);\">Tốt cho tiêu hóa</span></li></ul><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">+ Thành phần: Bột gạo tẻ 99.75%, Nano Curcumin 0.25%</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">+ Hạn sử dụng: 12 tháng kể từ ngày sản xuất. Ngày sản xuất và hạn sử dụng: In trên bao bì sản phẩm.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">+ Lưu ý: Không dùng sản phẩm khi hết hạn sử dụng hoặc sản phẩm có dấu hiệu hư hỏng (nấm, mốc, vón cục)</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">+ Hướng dẫn sử dụng: Là thành phần chính trong các loại Bánh Việt như: bánh bò, bánh giò, bánh tẻ, bánh cuốn, bánh xèo, bánh bèo, bánh đúc, bánh khoái, bánh canh, bánh hỏi, ....</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/7092c4a9-4502-42e4-b718-5fbeb83546d4.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bột tẻ Nano Curcumin 400g",
+    "description": "<p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Bột tẻ nanocurcumin 400g:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bột tẻ Nano Ngệ được làm từ hạt gạo qua các công đoạn như ngâm, xay, khuấy, lắng, chia bột, phơi khô kết hợp tinh chất Nano Nghệ tự nhiên không chỉ giúp mang lại vị thơm ngon của bột mà còn mang đến chế độ ăn uống tốt cho sức khỏe, đặt biệt là hệ tiêu hóa.</span></p><ul><li><span style=\"color: rgba(0, 0, 0, 0.8);\"> Chiết xuất Nano Curcumin</span></li><li><span style=\"color: rgba(0, 0, 0, 0.8);\">Tốt cho tiêu hóa</span></li></ul><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">+ Thành phần: Bột gạo tẻ 99.75%, Nano Curcumin 0.25%</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">+ Hạn sử dụng: 12 tháng kể từ ngày sản xuất. Ngày sản xuất và hạn sử dụng: In trên bao bì sản phẩm.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">+ Lưu ý: Không dùng sản phẩm khi hết hạn sử dụng hoặc sản phẩm có dấu hiệu hư hỏng (nấm, mốc, vón cục)</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">+ Hướng dẫn sử dụng: Là thành phần chính trong các loại Bánh Việt như: bánh bò, bánh giò, bánh tẻ, bánh cuốn, bánh xèo, bánh bèo, bánh đúc, bánh khoái, bánh canh, bánh hỏi, ....</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/7092c4a9-4502-42e4-b718-5fbeb83546d4.jpg",
+    "price": 22900,
+    "oldPrice": 32000,
+    "discountPercent": 28,
+    "stock": 1000,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "Gói 400g",
+    "sku": "8938503498593",
+    "origin": "",
+    "sellerId": 316,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Bảo quản:</strong><span style=\"color: rgba(0, 0, 0, 0.8);\"> Nơi khô ráo, tránh xa các loại hóa chất.</span></p>",
+    "category": {
+      "id": 141,
+      "name": "Bột ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/b584ee91-e5f6-4633-b554-6aff5b213dea.png",
+      "parentId": 133,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/7092c4a9-4502-42e4-b718-5fbeb83546d4.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/19110",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 316,
+      "sellerRate": 4.2,
+      "sellerName": "Dad's Farm",
+      "warehouseId": "1173160f-669a-4c76-814b-bc0ce0159549",
+      "warehouseAddress": "NV1-C2 ô 5-6 Geleximco khu đô thị hai bên đường Lê Trọng Tấn, Dương Nội, Hà Đông, Hà Nội",
+      "distance": 11024,
+      "warehouseDistrict": "ha dong",
+      "reputation": 61.85360283687986,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 19116,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bột bánh rán Nano Curcumin 400g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgba(0, 0, 0, 0.8);\">BỘT BÁNH RÁN NANO CURCUMIN 400G:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hoàn toàn chiết xuất từ tự nhiên, được bổ sung tinh chất quý Nano Nghệ, không chỉ giúp mang lại vị thơm ngon của bột mà còn mang đến chế độ ăn uống tốt cho sức khỏe, đặc biệt là hệ tiêu hóa.</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Thành phần:</strong><span style=\"color: rgba(0, 0, 0, 0.8);\"> Bột gạo nếp lức 99.5%, Nano curcumin 0.5%</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hạn sử dụng: 12 tháng kể từ ngày sản xuất</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Lưu ý: Không dùng sản phẩm khi hết hạn sử dụng, hoặc sản phẩm có dấu hiệu hư hỏng (nấm, mốc, vón cục)</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Hướng dẫn sử dụng:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 1: 380ml nước + 400g bột bánh rán Nano curcumin, trộn hỗn hợp khoảng 10 phút sau đó chia ra thành 15 đến 20 phần vỏ bánh.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 2: Tạo nhân ngọt:</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- 100g đậu xanh đã nấu chín</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- 25g đường</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- 5ml dần ăn</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Cho hỗn hợp này vào máy xay nhuyễn sau đó cho vào chảo nấu 2- 3 phút, sau đó chia làm 15 - 20 phần nhân bánh.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 3: Lấy vỏ bảnh ở bước 1 bọc nhân bánh ở được bánh có nhân ngọt.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 4: Cho dầu vào chảo, làm nóng dầu tới khoảng 150 độ C và thả bánh ở bước 3 vào chảo, đợi đến khi bánh chín vàng và nổi phồng lê bề mặt thì vớt ra.</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Gợi ý: Có thể làm nhân mặn thay cho nhân ngọt:</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Tạo nhân mặn: Miến 30g (ngâm và cắt thành sợi dài khoảng 2 - 3cm), mộc nhĩ thái sợi nhỏ 10g, thịt 200g, tiêu 2g, muối 10g trộn đều và chia thành 15 - 20 phần.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/23db349b-4419-4cef-80ac-0d0da825e2a7.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bột bánh rán Nano Curcumin 400g",
+    "description": "<p><strong style=\"color: rgba(0, 0, 0, 0.8);\">BỘT BÁNH RÁN NANO CURCUMIN 400G:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hoàn toàn chiết xuất từ tự nhiên, được bổ sung tinh chất quý Nano Nghệ, không chỉ giúp mang lại vị thơm ngon của bột mà còn mang đến chế độ ăn uống tốt cho sức khỏe, đặc biệt là hệ tiêu hóa.</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Thành phần:</strong><span style=\"color: rgba(0, 0, 0, 0.8);\"> Bột gạo nếp lức 99.5%, Nano curcumin 0.5%</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hạn sử dụng: 12 tháng kể từ ngày sản xuất</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Lưu ý: Không dùng sản phẩm khi hết hạn sử dụng, hoặc sản phẩm có dấu hiệu hư hỏng (nấm, mốc, vón cục)</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Hướng dẫn sử dụng:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 1: 380ml nước + 400g bột bánh rán Nano curcumin, trộn hỗn hợp khoảng 10 phút sau đó chia ra thành 15 đến 20 phần vỏ bánh.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 2: Tạo nhân ngọt:</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- 100g đậu xanh đã nấu chín</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- 25g đường</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- 5ml dần ăn</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Cho hỗn hợp này vào máy xay nhuyễn sau đó cho vào chảo nấu 2- 3 phút, sau đó chia làm 15 - 20 phần nhân bánh.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 3: Lấy vỏ bảnh ở bước 1 bọc nhân bánh ở được bánh có nhân ngọt.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bước 4: Cho dầu vào chảo, làm nóng dầu tới khoảng 150 độ C và thả bánh ở bước 3 vào chảo, đợi đến khi bánh chín vàng và nổi phồng lê bề mặt thì vớt ra.</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Gợi ý: Có thể làm nhân mặn thay cho nhân ngọt:</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Tạo nhân mặn: Miến 30g (ngâm và cắt thành sợi dài khoảng 2 - 3cm), mộc nhĩ thái sợi nhỏ 10g, thịt 200g, tiêu 2g, muối 10g trộn đều và chia thành 15 - 20 phần.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/23db349b-4419-4cef-80ac-0d0da825e2a7.jpg",
+    "price": 33900,
+    "oldPrice": 47000,
+    "discountPercent": 28,
+    "stock": 1000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Gói 400g",
+    "sku": "8938503498654",
+    "origin": "",
+    "sellerId": 316,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Bảo quản: </strong><span style=\"color: rgba(0, 0, 0, 0.8);\">Nơi khô ráo, tránh xa các loại hóa chất</span></p>",
+    "category": {
+      "id": 141,
+      "name": "Bột ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/b584ee91-e5f6-4633-b554-6aff5b213dea.png",
+      "parentId": 133,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/23db349b-4419-4cef-80ac-0d0da825e2a7.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/19116",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 316,
+      "sellerRate": 4.2,
+      "sellerName": "Dad's Farm",
+      "warehouseId": "1173160f-669a-4c76-814b-bc0ce0159549",
+      "warehouseAddress": "NV1-C2 ô 5-6 Geleximco khu đô thị hai bên đường Lê Trọng Tấn, Dương Nội, Hà Đông, Hà Nội",
+      "distance": 11024,
+      "warehouseDistrict": "ha dong",
+      "reputation": 61.85360283687986,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 19117,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bột nếp Nano Curcumin 400g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Bột nếp nanocurcumin 400g:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hoàn toàn chiết xuất từ tự nhiên được bổ sung tinh chất quý Nano nghệ không chỉ giúp mang lại vị thơm ngon của bột mà còn mang đến chế độ ăn uống tốt cho sức khỏe, đặc biệt là hệ tiêu hóa.</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Thành phần:</strong><span style=\"color: rgba(0, 0, 0, 0.8);\"> Bột gạo nếp 99.75%, Nano Curcumin 0.25%</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hạn sử dụng: 12 tháng kể từ ngày sản xuất.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Khối lượng tịnh: 400g</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Lưu ý: Không dùng sản phẩm khi hết hạn sử dụng, hoặc sản phẩm có dấu hiệu hư hỏng (nấm, mốc, vón cục).</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Hướng dẫn sử dụng:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bột nếp dùng để chế biến các món như: bánh trôi, bánh chay, bánh dày, bánh ít trần, bánh mocha, bánh trung thu...</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/cb84b9a9-f841-4e4b-8952-e41a1c6201a3.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bột nếp Nano Curcumin 400g",
+    "description": "<p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Bột nếp nanocurcumin 400g:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hoàn toàn chiết xuất từ tự nhiên được bổ sung tinh chất quý Nano nghệ không chỉ giúp mang lại vị thơm ngon của bột mà còn mang đến chế độ ăn uống tốt cho sức khỏe, đặc biệt là hệ tiêu hóa.</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Thành phần:</strong><span style=\"color: rgba(0, 0, 0, 0.8);\"> Bột gạo nếp 99.75%, Nano Curcumin 0.25%</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hạn sử dụng: 12 tháng kể từ ngày sản xuất.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Khối lượng tịnh: 400g</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Lưu ý: Không dùng sản phẩm khi hết hạn sử dụng, hoặc sản phẩm có dấu hiệu hư hỏng (nấm, mốc, vón cục).</span></p><p><br></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Hướng dẫn sử dụng:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Bột nếp dùng để chế biến các món như: bánh trôi, bánh chay, bánh dày, bánh ít trần, bánh mocha, bánh trung thu...</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/cb84b9a9-f841-4e4b-8952-e41a1c6201a3.jpg",
+    "price": 33900,
+    "oldPrice": 47000,
+    "discountPercent": 28,
+    "stock": 1000,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "Gói 400g",
+    "sku": "8938503498098",
+    "origin": "",
+    "sellerId": 316,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Bảo quản:</strong><span style=\"color: rgba(0, 0, 0, 0.8);\"> Nơi khô ráo, tránh xa các loại hóa chất.</span></p>",
+    "category": {
+      "id": 141,
+      "name": "Bột ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/b584ee91-e5f6-4633-b554-6aff5b213dea.png",
+      "parentId": 133,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/cb84b9a9-f841-4e4b-8952-e41a1c6201a3.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/19117",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 316,
+      "sellerRate": 4.2,
+      "sellerName": "Dad's Farm",
+      "warehouseId": "1173160f-669a-4c76-814b-bc0ce0159549",
+      "warehouseAddress": "NV1-C2 ô 5-6 Geleximco khu đô thị hai bên đường Lê Trọng Tấn, Dương Nội, Hà Đông, Hà Nội",
+      "distance": 11024,
+      "warehouseDistrict": "ha dong",
+      "reputation": 61.85360283687986,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 23202,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bột Bắp Meizan 1kg",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Bột Bắp Meizan 1kg</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/e7bca067-6405-4fd9-a311-ef8e90afade2.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bột Bắp Meizan 1kg",
+    "description": "<p>Bột Bắp Meizan 1kg</p>",
+    "imageUrl": "https://images.f99.com.vn/images/e7bca067-6405-4fd9-a311-ef8e90afade2.jpg",
+    "price": 30000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 19,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Gói",
+    "sku": "8938509627348",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>s</p>",
+    "category": {
+      "id": 141,
+      "name": "Bột ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/b584ee91-e5f6-4633-b554-6aff5b213dea.png",
+      "parentId": 133,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/e7bca067-6405-4fd9-a311-ef8e90afade2.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/23202",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 50293,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bột Mỳ Cao Cấp Hoa Ngọc Lan 500g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgb(62, 62, 62);\">Bột mỳ</strong><span style=\"color: rgb(62, 62, 62);\">&nbsp;là một trong những nguyên liệu chính và sử dụng nhiều nhất trong các công thức làm bánh cơ bản. Bột mỳ có nhiều loại khác nhau chủ yếu do thành phần protein trong bột mỳ để quyết định loại bánh bạn muốn làm.&nbsp;</span><strong style=\"color: rgb(62, 62, 62);\">Bột mỳ hoa ngọc lan 500g</strong><span style=\"color: rgb(62, 62, 62);\">&nbsp;là một trong những loại bột mỳ cơ bản mà bạn có thể dễ dàng tìm mua ở trong các cửa hàng tạp hóa và siêu thị tại Việt Nam.</span></p><p class=\"ql-align-justify\"><span class=\"ql-cursor\">﻿</span>Bột mỳ&nbsp;không sử dụng hóa chất, không chất bảo quản độc hại, đảm bảo an toàn cho sức khỏe người tiêu dùng. Bao bì đựng sản phẩm làm từ PE là nguyên liệu sạch, không lẫn tạp chất, thân thiện với môi trường.</p><p class=\"ql-align-justify\"><strong>Bột mỳ hoa ngọc lan 500g&nbsp;</strong>được sử dụng nhiều trong gia đình với các món ăn như tôm tẩm bột, gà tẩm bột&nbsp;, quẩy rán, bánh mì, bánh rán, bánh bao, bánh xèo, bánh ngọt, bánh Trung thu,...</p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/00fda130-82fb-47d7-950b-baefe5dfb08e.jpg\",\"https://images.f99.com.vn/images/cf8eb2b8-152a-44e6-b0a0-f616bfcffa09.jpg\",\"https://images.f99.com.vn/images/b29b611c-4eda-4cb6-a712-856da841a806.jpg\",\"https://images.f99.com.vn/images/e46b886e-5a76-443a-aa1a-6b14c6bea7f0.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"bột\",\"bột mỳ\",\"bột mỳ Hoa Ngọc Lan\",\"hoa ngọc lan\",\"đà lạt mart\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bột Mỳ Cao Cấp Hoa Ngọc Lan 500g",
+    "description": "<p><strong style=\"color: rgb(62, 62, 62);\">Bột mỳ</strong><span style=\"color: rgb(62, 62, 62);\">&nbsp;là một trong những nguyên liệu chính và sử dụng nhiều nhất trong các công thức làm bánh cơ bản. Bột mỳ có nhiều loại khác nhau chủ yếu do thành phần protein trong bột mỳ để quyết định loại bánh bạn muốn làm.&nbsp;</span><strong style=\"color: rgb(62, 62, 62);\">Bột mỳ hoa ngọc lan 500g</strong><span style=\"color: rgb(62, 62, 62);\">&nbsp;là một trong những loại bột mỳ cơ bản mà bạn có thể dễ dàng tìm mua ở trong các cửa hàng tạp hóa và siêu thị tại Việt Nam.</span></p><p class=\"ql-align-justify\"><span class=\"ql-cursor\">﻿</span>Bột mỳ&nbsp;không sử dụng hóa chất, không chất bảo quản độc hại, đảm bảo an toàn cho sức khỏe người tiêu dùng. Bao bì đựng sản phẩm làm từ PE là nguyên liệu sạch, không lẫn tạp chất, thân thiện với môi trường.</p><p class=\"ql-align-justify\"><strong>Bột mỳ hoa ngọc lan 500g&nbsp;</strong>được sử dụng nhiều trong gia đình với các món ăn như tôm tẩm bột, gà tẩm bột&nbsp;, quẩy rán, bánh mì, bánh rán, bánh bao, bánh xèo, bánh ngọt, bánh Trung thu,...</p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/00fda130-82fb-47d7-950b-baefe5dfb08e.jpg",
+    "price": 12000,
+    "oldPrice": 16000,
+    "discountPercent": 25,
+    "stock": 100,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Gói ",
+    "sku": "",
+    "origin": "",
+    "sellerId": 753,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi thoáng mát, sạch sẽ, hợp vệ sinh </p>",
+    "category": {
+      "id": 141,
+      "name": "Bột ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/b584ee91-e5f6-4633-b554-6aff5b213dea.png",
+      "parentId": 133,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "bột",
+      "bột mỳ",
+      "bột mỳ Hoa Ngọc Lan",
+      "hoa ngọc lan",
+      "đà lạt mart"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/00fda130-82fb-47d7-950b-baefe5dfb08e.jpg",
+      "https://images.f99.com.vn/images/cf8eb2b8-152a-44e6-b0a0-f616bfcffa09.jpg",
+      "https://images.f99.com.vn/images/b29b611c-4eda-4cb6-a712-856da841a806.jpg",
+      "https://images.f99.com.vn/images/e46b886e-5a76-443a-aa1a-6b14c6bea7f0.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/50293",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 753,
+      "sellerRate": 4.1,
+      "sellerName": "ĐÀ LẠT MART",
+      "warehouseId": "72145374-3a89-440d-9881-429faceb9617",
+      "warehouseAddress": " Hà Nội,  Đống Đa,  Láng Hạ, 49 Vũ Ngọc Phan",
+      "distance": 2899,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.0228266044001,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 50294,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bột mỳ cao cấp Hoa Ngọc Lan túi 1kg",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong>Bột mì hoa ngọc lan</strong> là một trong những loại bột mỳ cơ bản mà bạn có thể dễ dàng tìm mua ở trong các cửa hàng tạp hóa và siêu thị tại Việt Nam. Bột mỳ hoa ngọc lan được sản xuất tại Việt Nam, không sử dụng hóa chất, không chất bảo quản độc hại, đảm bảo an toàn cho sức khỏe người tiêu dùng. Bao bì đựng sản phẩm làm từ PE là nguyên liệu sạch, không lẫn tạp chất, thân thiện với môi trường.</p><p>Sản phẩm <strong>bột mì hoa ngọc lan</strong> được sử dụng nhiều trong gia đình với các món ăn như tôm tẩm bột, gà tẩm bột&nbsp;, quẩy rán, bánh mì, bánh rán, bánh bao, bánh xèo, bánh ngọt, bánh Trung thu,..</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/ecf28404-8855-4337-a738-7f7e89ed7266.jpg\",\"https://images.f99.com.vn/images/758c0fee-6694-4892-b8ea-42d0f11e2140.jpg\",\"https://images.f99.com.vn/images/2ab7e83b-0fa5-47af-a1ef-6042fcf09ea3.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"bột\",\"bột mỳ\",\"bột mỳ hoa ngọc lan\",\"hoa ngọc lan\",\"đà lạt mart\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bột mỳ cao cấp Hoa Ngọc Lan túi 1kg",
+    "description": "<p><strong>Bột mì hoa ngọc lan</strong> là một trong những loại bột mỳ cơ bản mà bạn có thể dễ dàng tìm mua ở trong các cửa hàng tạp hóa và siêu thị tại Việt Nam. Bột mỳ hoa ngọc lan được sản xuất tại Việt Nam, không sử dụng hóa chất, không chất bảo quản độc hại, đảm bảo an toàn cho sức khỏe người tiêu dùng. Bao bì đựng sản phẩm làm từ PE là nguyên liệu sạch, không lẫn tạp chất, thân thiện với môi trường.</p><p>Sản phẩm <strong>bột mì hoa ngọc lan</strong> được sử dụng nhiều trong gia đình với các món ăn như tôm tẩm bột, gà tẩm bột&nbsp;, quẩy rán, bánh mì, bánh rán, bánh bao, bánh xèo, bánh ngọt, bánh Trung thu,..</p>",
+    "imageUrl": "https://images.f99.com.vn/images/ecf28404-8855-4337-a738-7f7e89ed7266.jpg",
+    "price": 23000,
+    "oldPrice": 28000,
+    "discountPercent": 18,
+    "stock": 50,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Gói",
+    "sku": "",
+    "origin": "",
+    "sellerId": 753,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Nơi khô ráo, thoáng mát tránh ánh nắng mặt trời trực tiếp</p>",
+    "category": {
+      "id": 141,
+      "name": "Bột ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/b584ee91-e5f6-4633-b554-6aff5b213dea.png",
+      "parentId": 133,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "bột",
+      "bột mỳ",
+      "bột mỳ hoa ngọc lan",
+      "hoa ngọc lan",
+      "đà lạt mart"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/ecf28404-8855-4337-a738-7f7e89ed7266.jpg",
+      "https://images.f99.com.vn/images/758c0fee-6694-4892-b8ea-42d0f11e2140.jpg",
+      "https://images.f99.com.vn/images/2ab7e83b-0fa5-47af-a1ef-6042fcf09ea3.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/50294",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 753,
+      "sellerRate": 4.1,
+      "sellerName": "ĐÀ LẠT MART",
+      "warehouseId": "72145374-3a89-440d-9881-429faceb9617",
+      "warehouseAddress": " Hà Nội,  Đống Đa,  Láng Hạ, 49 Vũ Ngọc Phan",
+      "distance": 2899,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.0228266044001,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 50295,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bột bánh bao Tuấn Phương gói 400g ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong>Bột bánh bao</strong> chuyên dụng làm bánh bao. Bạn sẽ không cần phải tìm kiếm nguyên liệu khác nhau và phân chia tỉ lệ phức tạp để làm bánh bao nữa mà gói bột này sẽ đáp ứng hết cho bạn. Khiến cho việc làm bánh bao trở nên dễ dàng và gọn gàng hơn.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/1adf6f4f-ea0f-4442-95a2-2ca8dfea09e0.jpg\",\"https://images.f99.com.vn/images/a422f310-ad5b-40f4-ba18-4831de9974f4.jpg\",\"https://images.f99.com.vn/images/2a0cc40f-59ae-4709-ab2b-462ec6dccb5a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"bột\",\"bột làm bánh\",\"bột làm bánh bao\",\"bột bánh bao ngon\",\"bột bánh bao\",\"đà lạt mart\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bột bánh bao Tuấn Phương gói 400g ",
+    "description": "<p><strong>Bột bánh bao</strong> chuyên dụng làm bánh bao. Bạn sẽ không cần phải tìm kiếm nguyên liệu khác nhau và phân chia tỉ lệ phức tạp để làm bánh bao nữa mà gói bột này sẽ đáp ứng hết cho bạn. Khiến cho việc làm bánh bao trở nên dễ dàng và gọn gàng hơn.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/1adf6f4f-ea0f-4442-95a2-2ca8dfea09e0.jpg",
+    "price": 20000,
+    "oldPrice": 24000,
+    "discountPercent": 17,
+    "stock": 50,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Gói",
+    "sku": "",
+    "origin": "",
+    "sellerId": 753,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><span style=\"color: rgba(0, 0, 0, 0.8);\">Tránh ánh nắng mặt trời trực tiếp.</span></p>",
+    "category": {
+      "id": 141,
+      "name": "Bột ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/b584ee91-e5f6-4633-b554-6aff5b213dea.png",
+      "parentId": 133,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "bột",
+      "bột làm bánh",
+      "bột làm bánh bao",
+      "bột bánh bao ngon",
+      "bột bánh bao",
+      "đà lạt mart"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/1adf6f4f-ea0f-4442-95a2-2ca8dfea09e0.jpg",
+      "https://images.f99.com.vn/images/a422f310-ad5b-40f4-ba18-4831de9974f4.jpg",
+      "https://images.f99.com.vn/images/2a0cc40f-59ae-4709-ab2b-462ec6dccb5a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/50295",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 753,
+      "sellerRate": 4.1,
+      "sellerName": "ĐÀ LẠT MART",
+      "warehouseId": "72145374-3a89-440d-9881-429faceb9617",
+      "warehouseAddress": " Hà Nội,  Đống Đa,  Láng Hạ, 49 Vũ Ngọc Phan",
+      "distance": 2899,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.0228266044001,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 50297,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bột Bánh cuốn ASEAKO gói 400gr ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong>Bột bánh cuốn</strong> thành phần chính là bột gạo và bột năng.</p><p><strong>Bánh cuốn</strong> truyền thống được tráng nóng, nước sôi xình xịch trong chiếc nồi gang hay nhôm, để cho ra làn hơi nước qua tấm vải căng ngang mặt nồi.</p><p>Ngày nay món bánh cuốn làm tại nhà thật tiện, chỉ cần tráng bằng chảo chống dính.</p><p>Chảo nóng lên múc 1 vá bột đã pha cho vào lòng chảo, nhanh tay nghiêng mặt chảo tạo một lớp bột thật mỏng đều, đậy nắp chờ khoảng 20 giây, bột trong là chín, úp chảo ra mâm để lấy bánh ra, cho nhân vào cuộn lại.</p><p><strong>Bánh cuốn</strong> ngon đạt chuẩn phải có lớp bột mỏng mịn, deo dẻo bọc ngoài nhân củ sắn, tôm, thịt… Ngoài miếng chả, nem cắt dày, ăn kèm cùng miếng bánh&nbsp;tôm đầy đặn chiên giòn rụm, ta có thể thêm một ít hành phi, rau thơm và nước mắm pha chua ngọt theo công thức 2 nước mắm: 3 đường: 4 nước và chút nước cốt chanh tuỳ khẩu vị người dùng.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/bee44769-bb0d-4462-b9cf-b1af83e2ba53.jpg\",\"https://images.f99.com.vn/images/6091ed67-2444-4d82-817e-0460e22c1485.jpg\",\"https://images.f99.com.vn/images/5f48d8b0-4e69-4b93-8c08-77b1660d57e8.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"bột\",\"bột bánh\",\"bột bánh cuốn\",\"nguyên liệu bánh cuốn\",\"bánh cuốn ngon\",\"làm bánh cuốn\",\"đà lạt mart\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bột Bánh cuốn ASEAKO gói 400gr ",
+    "description": "<p><strong>Bột bánh cuốn</strong> thành phần chính là bột gạo và bột năng.</p><p><strong>Bánh cuốn</strong> truyền thống được tráng nóng, nước sôi xình xịch trong chiếc nồi gang hay nhôm, để cho ra làn hơi nước qua tấm vải căng ngang mặt nồi.</p><p>Ngày nay món bánh cuốn làm tại nhà thật tiện, chỉ cần tráng bằng chảo chống dính.</p><p>Chảo nóng lên múc 1 vá bột đã pha cho vào lòng chảo, nhanh tay nghiêng mặt chảo tạo một lớp bột thật mỏng đều, đậy nắp chờ khoảng 20 giây, bột trong là chín, úp chảo ra mâm để lấy bánh ra, cho nhân vào cuộn lại.</p><p><strong>Bánh cuốn</strong> ngon đạt chuẩn phải có lớp bột mỏng mịn, deo dẻo bọc ngoài nhân củ sắn, tôm, thịt… Ngoài miếng chả, nem cắt dày, ăn kèm cùng miếng bánh&nbsp;tôm đầy đặn chiên giòn rụm, ta có thể thêm một ít hành phi, rau thơm và nước mắm pha chua ngọt theo công thức 2 nước mắm: 3 đường: 4 nước và chút nước cốt chanh tuỳ khẩu vị người dùng.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/bee44769-bb0d-4462-b9cf-b1af83e2ba53.jpg",
+    "price": 16000,
+    "oldPrice": 18000,
+    "discountPercent": 11,
+    "stock": 50,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Gói ",
+    "sku": "",
+    "origin": "",
+    "sellerId": 753,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ở nơi thoáng mát </p><p><br></p>",
+    "category": {
+      "id": 141,
+      "name": "Bột ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/b584ee91-e5f6-4633-b554-6aff5b213dea.png",
+      "parentId": 133,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "bột",
+      "bột bánh",
+      "bột bánh cuốn",
+      "nguyên liệu bánh cuốn",
+      "bánh cuốn ngon",
+      "làm bánh cuốn",
+      "đà lạt mart"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/bee44769-bb0d-4462-b9cf-b1af83e2ba53.jpg",
+      "https://images.f99.com.vn/images/6091ed67-2444-4d82-817e-0460e22c1485.jpg",
+      "https://images.f99.com.vn/images/5f48d8b0-4e69-4b93-8c08-77b1660d57e8.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/50297",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 753,
+      "sellerRate": 4.1,
+      "sellerName": "ĐÀ LẠT MART",
+      "warehouseId": "72145374-3a89-440d-9881-429faceb9617",
+      "warehouseAddress": " Hà Nội,  Đống Đa,  Láng Hạ, 49 Vũ Ngọc Phan",
+      "distance": 2899,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.0228266044001,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 50301,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bột bắp - Quốc Khanh - 135g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong>Bột bắp</strong> là một nguyên liệu không thể thiếu để tạo độ giòn cho món chiên rán</p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Thành phần: Bột năng, tinh bột bắp, bột mì, bột gạo, tinh bột khoai mì, chất ổn định, chất tạo xốp.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Dùng để chiên ngô, khoai tây, chiên thịt, tôm, cá ,.... tùy theo khẩu vị của bạn</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/54aaaa8f-5253-412e-bfd1-1531f3682751.jpg\",\"https://images.f99.com.vn/images/09a3f4ed-7517-4fe1-a2b3-0a46ebb0516d.jpg\",\"https://images.f99.com.vn/images/81071e32-ac1a-43a4-a28d-819b7590e2ed.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"bột\",\"bột bắp\",\"bột bắp ngon\",\"làm bánh\",\"nguyên liệu làm bánh\",\"đà lạt mart\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bột bắp - Quốc Khanh - 135g",
+    "description": "<p><strong>Bột bắp</strong> là một nguyên liệu không thể thiếu để tạo độ giòn cho món chiên rán</p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Thành phần: Bột năng, tinh bột bắp, bột mì, bột gạo, tinh bột khoai mì, chất ổn định, chất tạo xốp.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Dùng để chiên ngô, khoai tây, chiên thịt, tôm, cá ,.... tùy theo khẩu vị của bạn</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/54aaaa8f-5253-412e-bfd1-1531f3682751.jpg",
+    "price": 10000,
+    "oldPrice": 15000,
+    "discountPercent": 33,
+    "stock": 30,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Gói ",
+    "sku": "",
+    "origin": "",
+    "sellerId": 753,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi thoáng mát </p>",
+    "category": {
+      "id": 141,
+      "name": "Bột ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/b584ee91-e5f6-4633-b554-6aff5b213dea.png",
+      "parentId": 133,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "bột",
+      "bột bắp",
+      "bột bắp ngon",
+      "làm bánh",
+      "nguyên liệu làm bánh",
+      "đà lạt mart"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/54aaaa8f-5253-412e-bfd1-1531f3682751.jpg",
+      "https://images.f99.com.vn/images/09a3f4ed-7517-4fe1-a2b3-0a46ebb0516d.jpg",
+      "https://images.f99.com.vn/images/81071e32-ac1a-43a4-a28d-819b7590e2ed.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/50301",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 753,
+      "sellerRate": 4.1,
+      "sellerName": "ĐÀ LẠT MART",
+      "warehouseId": "72145374-3a89-440d-9881-429faceb9617",
+      "warehouseAddress": " Hà Nội,  Đống Đa,  Láng Hạ, 49 Vũ Ngọc Phan",
+      "distance": 2899,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.0228266044001,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 50303,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bột Bánh Xèo - Gói 400g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p class=\"ql-align-justify\"><strong>Bánh xèo</strong> là loại bánh đặc trưng của văn hóa ẩm thực dân gian Nam Bộ, khi đổ bột vào chảo nóng sẽ tạo nên tiếng “xèo” nghe rất vui tai và âm thanh ấy đã trở thành tên gọi của một món ăn đi vào lòng người. Đi kèm với bánh xèo có rất nhiều loại rau: lá cách, lá lụa, lá lốt hay đọt mận, đọt xoài, rau thơm, xà lách cuộn chặt miếng bánh xèo nóng hổi chấm với nước mắm pha chua ngọt.</p><p class=\"ql-align-justify\"><strong>Bánh xèo</strong> tuỳ từng vùng miền mà cách đổ bánh, kích thuớc màu sắc của bánh, nước chấm và cách thưởng thúc cũng khác nhau.</p><ul><li><br></li></ul><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/4e8768b7-f33a-4fcd-9826-cb39ca851815.jpg\",\"https://images.f99.com.vn/images/3edc6bdc-dfd8-483a-a951-0a1bd668698c.jpg\",\"https://images.f99.com.vn/images/b4620e1d-83b6-4393-b25e-a728d5dcb09c.jpg\",\"https://images.f99.com.vn/images/752883da-1c8f-433b-b38e-ffdacb182652.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"bột\",\"bột bánh\",\"bột bánh xèo\",\"bột làm bánh xèo\",\"đà lạt mart\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bột Bánh Xèo - Gói 400g",
+    "description": "<p class=\"ql-align-justify\"><strong>Bánh xèo</strong> là loại bánh đặc trưng của văn hóa ẩm thực dân gian Nam Bộ, khi đổ bột vào chảo nóng sẽ tạo nên tiếng “xèo” nghe rất vui tai và âm thanh ấy đã trở thành tên gọi của một món ăn đi vào lòng người. Đi kèm với bánh xèo có rất nhiều loại rau: lá cách, lá lụa, lá lốt hay đọt mận, đọt xoài, rau thơm, xà lách cuộn chặt miếng bánh xèo nóng hổi chấm với nước mắm pha chua ngọt.</p><p class=\"ql-align-justify\"><strong>Bánh xèo</strong> tuỳ từng vùng miền mà cách đổ bánh, kích thuớc màu sắc của bánh, nước chấm và cách thưởng thúc cũng khác nhau.</p><ul><li><br></li></ul><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/4e8768b7-f33a-4fcd-9826-cb39ca851815.jpg",
+    "price": 16000,
+    "oldPrice": 18000,
+    "discountPercent": 11,
+    "stock": 50,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Gói ",
+    "sku": "",
+    "origin": "",
+    "sellerId": 753,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát </p><p><br></p>",
+    "category": {
+      "id": 141,
+      "name": "Bột ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/b584ee91-e5f6-4633-b554-6aff5b213dea.png",
+      "parentId": 133,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "bột",
+      "bột bánh",
+      "bột bánh xèo",
+      "bột làm bánh xèo",
+      "đà lạt mart"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/4e8768b7-f33a-4fcd-9826-cb39ca851815.jpg",
+      "https://images.f99.com.vn/images/3edc6bdc-dfd8-483a-a951-0a1bd668698c.jpg",
+      "https://images.f99.com.vn/images/b4620e1d-83b6-4393-b25e-a728d5dcb09c.jpg",
+      "https://images.f99.com.vn/images/752883da-1c8f-433b-b38e-ffdacb182652.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/50303",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 753,
+      "sellerRate": 4.1,
+      "sellerName": "ĐÀ LẠT MART",
+      "warehouseId": "72145374-3a89-440d-9881-429faceb9617",
+      "warehouseAddress": " Hà Nội,  Đống Đa,  Láng Hạ, 49 Vũ Ngọc Phan",
+      "distance": 2899,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.0228266044001,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 50308,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bột nếp Taky 400g ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgb(10, 10, 10);\">Bột nếp</strong><span style=\"color: rgb(10, 10, 10);\"> là nguyên liệu đặc trưng và quen thuộc trong các món ăn truyền thống của các gia đình Việt. Bột có đặc tính dẻo, dai, màu trắng tự nhiên.</span></p><p><strong style=\"color: rgb(10, 10, 10);\">Bột nếp</strong><span style=\"color: rgb(10, 10, 10);\"> hay còn gọi là bột gạo nếp là tinh bột được lấy từ gạo nếp, để làm được bột gạo nếp người ta sẽ ngâm với nước từ 12 – 16 tiếng cho thật mềm. Sau đó mang gạo đi xay với lượng nước vừa đủ để cho ra hổn hợp bột nước. Tiếp đến người ta cho nó vào bao vải sạch và treo lên cho đến khi rút hết nước và thu được khối bột đặc. Mang khối bột này đi giã thật nhuyễn và phơi nắng cho thật khô là được (hoặc mang đi sấy khô nếu không có nắng).</span></p><p><strong style=\"color: rgb(10, 10, 10);\">bột nếp Tài Ký 400g</strong><span style=\"color: rgb(10, 10, 10);\"> đã được làm sẵn từ nguyên liệu hạt gạo nếp chọn lọc có chất lượng cao, đảm bảo an toàn, có đặc tính dẻo, dai, có màu trắng tự nhiên của nếp và được làm từ bột gạo dẻo giúp các món ăn thơm ngon, và có giá trị dinh dưỡng cao. Với gói bột nếp Tài Ký 400g này sẽ giúp bạn thuận tiện hơn trong việc chế biến đấy!</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/3fc569c5-006e-4227-a040-7188ef0c854e.jpg\",\"https://images.f99.com.vn/images/4b45fca3-bba7-45ff-a16c-b852a4bae200.jpg\",\"https://images.f99.com.vn/images/d1732dc5-15f6-4370-8a38-f5fdf2927403.jpg\",\"https://images.f99.com.vn/images/c7a7dd80-cdfa-416f-bcc7-122c6c7b31ec.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"bột\",\"bột nếp\",\"nếp\",\"bột gạo nếp\",\"bột nếp làm bánh\",\"đà lạt mart\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bột nếp Taky 400g ",
+    "description": "<p><strong style=\"color: rgb(10, 10, 10);\">Bột nếp</strong><span style=\"color: rgb(10, 10, 10);\"> là nguyên liệu đặc trưng và quen thuộc trong các món ăn truyền thống của các gia đình Việt. Bột có đặc tính dẻo, dai, màu trắng tự nhiên.</span></p><p><strong style=\"color: rgb(10, 10, 10);\">Bột nếp</strong><span style=\"color: rgb(10, 10, 10);\"> hay còn gọi là bột gạo nếp là tinh bột được lấy từ gạo nếp, để làm được bột gạo nếp người ta sẽ ngâm với nước từ 12 – 16 tiếng cho thật mềm. Sau đó mang gạo đi xay với lượng nước vừa đủ để cho ra hổn hợp bột nước. Tiếp đến người ta cho nó vào bao vải sạch và treo lên cho đến khi rút hết nước và thu được khối bột đặc. Mang khối bột này đi giã thật nhuyễn và phơi nắng cho thật khô là được (hoặc mang đi sấy khô nếu không có nắng).</span></p><p><strong style=\"color: rgb(10, 10, 10);\">bột nếp Tài Ký 400g</strong><span style=\"color: rgb(10, 10, 10);\"> đã được làm sẵn từ nguyên liệu hạt gạo nếp chọn lọc có chất lượng cao, đảm bảo an toàn, có đặc tính dẻo, dai, có màu trắng tự nhiên của nếp và được làm từ bột gạo dẻo giúp các món ăn thơm ngon, và có giá trị dinh dưỡng cao. Với gói bột nếp Tài Ký 400g này sẽ giúp bạn thuận tiện hơn trong việc chế biến đấy!</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/3fc569c5-006e-4227-a040-7188ef0c854e.jpg",
+    "price": 20000,
+    "oldPrice": 25000,
+    "discountPercent": 20,
+    "stock": 50,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Gói",
+    "sku": "",
+    "origin": "",
+    "sellerId": 753,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô ráo và thoáng mát </p>",
+    "category": {
+      "id": 141,
+      "name": "Bột ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/b584ee91-e5f6-4633-b554-6aff5b213dea.png",
+      "parentId": 133,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "bột",
+      "bột nếp",
+      "nếp",
+      "bột gạo nếp",
+      "bột nếp làm bánh",
+      "đà lạt mart"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/3fc569c5-006e-4227-a040-7188ef0c854e.jpg",
+      "https://images.f99.com.vn/images/4b45fca3-bba7-45ff-a16c-b852a4bae200.jpg",
+      "https://images.f99.com.vn/images/d1732dc5-15f6-4370-8a38-f5fdf2927403.jpg",
+      "https://images.f99.com.vn/images/c7a7dd80-cdfa-416f-bcc7-122c6c7b31ec.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/50308",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 753,
+      "sellerRate": 4.1,
+      "sellerName": "ĐÀ LẠT MART",
+      "warehouseId": "72145374-3a89-440d-9881-429faceb9617",
+      "warehouseAddress": " Hà Nội,  Đống Đa,  Láng Hạ, 49 Vũ Ngọc Phan",
+      "distance": 2899,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.0228266044001,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 50310,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bột tẩm khô chiên giòn Aji-quick 600g ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Bột Tẩm Khô Aji-Quick </strong><span style=\"color: rgba(0, 0, 0, 0.8);\">- Gói 600gr</span></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Bột Tẩm Khô Aji-Quick</strong><span style=\"color: rgba(0, 0, 0, 0.8);\"> - Gói 600gr&nbsp;là sự kết hợp giữa&nbsp;gia vị&nbsp;nêm sẵn và bột chiên khô. Aji-Quick giúp các món chiên ngon hơn với vị hài hòa, hương thơm đặc trưng và có độ giòn tự nhiên, không làm khô cứng mà vẫn giữ được vị ngọt dinh dưỡng của nguyên liệu.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Sản phẩm cũng phù hợp khi chế biến&nbsp;với nhiều loại nguyên liệu khác như đậu hũ, rau củ, hải sản.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Chỉ với một bước đơn giản, bạn đã có ngay những món chiên vàng đẹp mắt, giúp tiết kiệm thời gian tối đa cho người nội trợ.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Bột chiên giòn Aji-Quick là sản phẩm của Việt Nam, được sản xuất theo công nghệ hiện đại của&nbsp;Nhật Bản. Mọi khâu từ lựa chọn nguyên liệu đến chế biến, đóng bao bì đều được kiểm tra, giám sát nghiêm ngặt.</span></p><p><br></p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/89b0e0f7-e8d4-416a-a903-bf867a7edf48.jpg\",\"https://images.f99.com.vn/images/91fb8124-47e5-41e0-985e-a43d5cfdcb99.jpg\",\"https://images.f99.com.vn/images/aae3901e-039d-4bb8-8254-d0f24da0e428.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"bột\",\"bột tẩm khô\",\"bột chiên giòn\",\"bột ajiquick\",\"aji-quick\",\"đà lạt mart\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bột tẩm khô chiên giòn Aji-quick 600g ",
+    "description": "<p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Bột Tẩm Khô Aji-Quick </strong><span style=\"color: rgba(0, 0, 0, 0.8);\">- Gói 600gr</span></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Bột Tẩm Khô Aji-Quick</strong><span style=\"color: rgba(0, 0, 0, 0.8);\"> - Gói 600gr&nbsp;là sự kết hợp giữa&nbsp;gia vị&nbsp;nêm sẵn và bột chiên khô. Aji-Quick giúp các món chiên ngon hơn với vị hài hòa, hương thơm đặc trưng và có độ giòn tự nhiên, không làm khô cứng mà vẫn giữ được vị ngọt dinh dưỡng của nguyên liệu.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Sản phẩm cũng phù hợp khi chế biến&nbsp;với nhiều loại nguyên liệu khác như đậu hũ, rau củ, hải sản.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Chỉ với một bước đơn giản, bạn đã có ngay những món chiên vàng đẹp mắt, giúp tiết kiệm thời gian tối đa cho người nội trợ.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Bột chiên giòn Aji-Quick là sản phẩm của Việt Nam, được sản xuất theo công nghệ hiện đại của&nbsp;Nhật Bản. Mọi khâu từ lựa chọn nguyên liệu đến chế biến, đóng bao bì đều được kiểm tra, giám sát nghiêm ngặt.</span></p><p><br></p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/89b0e0f7-e8d4-416a-a903-bf867a7edf48.jpg",
+    "price": 8000,
+    "oldPrice": 10000,
+    "discountPercent": 20,
+    "stock": 50,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "Gói ",
+    "sku": "",
+    "origin": "",
+    "sellerId": 753,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát </p><p><br></p>",
+    "category": {
+      "id": 141,
+      "name": "Bột ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/b584ee91-e5f6-4633-b554-6aff5b213dea.png",
+      "parentId": 133,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "bột",
+      "bột tẩm khô",
+      "bột chiên giòn",
+      "bột ajiquick",
+      "aji-quick",
+      "đà lạt mart"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/89b0e0f7-e8d4-416a-a903-bf867a7edf48.jpg",
+      "https://images.f99.com.vn/images/91fb8124-47e5-41e0-985e-a43d5cfdcb99.jpg",
+      "https://images.f99.com.vn/images/aae3901e-039d-4bb8-8254-d0f24da0e428.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/50310",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 753,
+      "sellerRate": 4.1,
+      "sellerName": "ĐÀ LẠT MART",
+      "warehouseId": "72145374-3a89-440d-9881-429faceb9617",
+      "warehouseAddress": " Hà Nội,  Đống Đa,  Láng Hạ, 49 Vũ Ngọc Phan",
+      "distance": 2899,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.0228266044001,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 50311,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bột chiên hải sản Aji-Quick ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Thích hợp cho những món gà chiên, hải sản chiên hay rau củ chiên cũng rất thơm ngon.&nbsp;<span style=\"background-color: rgb(255, 255, 255);\">Bột chiên giòn Aji-Quick gói 150g</span>&nbsp;mang đến những món ăn ngon, giòn tan mà không bị ngán.&nbsp;<a href=\"https://www.bachhoaxanh.com/bot-chien\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Bột</a>&nbsp;<span style=\"background-color: rgb(255, 255, 255);\">Aji-Quick</span>&nbsp;được căn chỉnh đậm đà gia vị, phù hợp khẩu vị của người Việt</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/25ff3720-313e-4962-82dc-ff8bf8f27bbe.jpg\",\"https://images.f99.com.vn/images/2164c20f-24b6-4769-b9d4-3ec7359b68b2.jpg\",\"https://images.f99.com.vn/images/58aadff8-f96e-4632-9008-190b50a267b5.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"bột chiên\",\"bột chiên giòn\",\"bột chiên hải sản\",\"bột aji-quick\",\"aji-quick\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bột chiên hải sản Aji-Quick ",
+    "description": "<p>Thích hợp cho những món gà chiên, hải sản chiên hay rau củ chiên cũng rất thơm ngon.&nbsp;<span style=\"background-color: rgb(255, 255, 255);\">Bột chiên giòn Aji-Quick gói 150g</span>&nbsp;mang đến những món ăn ngon, giòn tan mà không bị ngán.&nbsp;<a href=\"https://www.bachhoaxanh.com/bot-chien\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Bột</a>&nbsp;<span style=\"background-color: rgb(255, 255, 255);\">Aji-Quick</span>&nbsp;được căn chỉnh đậm đà gia vị, phù hợp khẩu vị của người Việt</p>",
+    "imageUrl": "https://images.f99.com.vn/images/25ff3720-313e-4962-82dc-ff8bf8f27bbe.jpg",
+    "price": 7000,
+    "oldPrice": 9000,
+    "discountPercent": 22,
+    "stock": 50,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "Gói ",
+    "sku": "",
+    "origin": "",
+    "sellerId": 753,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô ráo thoáng mát </p>",
+    "category": {
+      "id": 141,
+      "name": "Bột ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/b584ee91-e5f6-4633-b554-6aff5b213dea.png",
+      "parentId": 133,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "bột chiên",
+      "bột chiên giòn",
+      "bột chiên hải sản",
+      "bột aji-quick",
+      "aji-quick"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/25ff3720-313e-4962-82dc-ff8bf8f27bbe.jpg",
+      "https://images.f99.com.vn/images/2164c20f-24b6-4769-b9d4-3ec7359b68b2.jpg",
+      "https://images.f99.com.vn/images/58aadff8-f96e-4632-9008-190b50a267b5.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/50311",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 753,
+      "sellerRate": 4.1,
+      "sellerName": "ĐÀ LẠT MART",
+      "warehouseId": "72145374-3a89-440d-9881-429faceb9617",
+      "warehouseAddress": " Hà Nội,  Đống Đa,  Láng Hạ, 49 Vũ Ngọc Phan",
+      "distance": 2899,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.0228266044001,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

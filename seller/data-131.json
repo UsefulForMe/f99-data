@@ -1,0 +1,35 @@
+{
+  "id": 131,
+  "name": "Hapi Vegan",
+  "logo": "https://cdn.f99.link/groupbuy-images/71c5ddd4-5dc1-48b7-b8f1-e415d58589f2.JPG",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Những sản phẩm của HAPI ra đời từ những cố gắng, nỗ lực từ cái tâm của mỗi con người HAPI. Ở từng sản phẩm là sự hòa hợp giữa sự sáng tạo, nhiệt huyết của tuổi trẻ với tình yêu thương vô hạn. Tất cả những điều đó tạo nên một HAPI trung thực, trách nhiệm, luôn cải tiến, đổi mới, tiên phong xây dựng một lối sống mới cho thế hệ trẻ, kiến tạo một xã hội tràn ngập tình yêu thương.\n\nVÌ SỨC KHỎE\n\nSản phẩm HAPI được làm từ TÂM\n\nVÌ MÔI TRƯỜNG\n\nHAPI luôn hướng tới cuộc sống xanh\n\nVÌ CUỘC SỐNG\n\nHAPI hướng tới tình yêu thương",
+  "headQuarter": "Nhà số 32M-475/93/20 đường Nguyễn Trãi, Hạ Đình, Thanh Xuân, Hà Nội",
+  "email": "hapivegan@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 2
+}

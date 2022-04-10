@@ -1,0 +1,35 @@
+{
+  "id": 410,
+  "name": "Desim Food",
+  "logo": "https://cdn.f99.link/groupbuy-images/9adab0a0-bb46-4e7b-a233-84d67ce6134c.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên đồ ăn kiêng healthy như granola/ngũ cốc mix hạt, bánh biscotti, bánh yến mạch, bánh hạnh nhân, bún gạo lứt,....dành cho những ai ăn kiêng hay đơn giản chỉ ăn healthy",
+  "headQuarter": "Số 6 ngõ 322/142 Nhân Mỹ, , Mỹ Đình 1, Nam Từ Liêm, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "10:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

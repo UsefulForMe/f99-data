@@ -1,0 +1,35 @@
+{
+  "id": 494,
+  "name": "THỰC PHẨM KHÁNH VY",
+  "logo": "https://cdn.f99.link/groupbuy-images/1f98093c-4746-4fac-85b6-734bb1052e57.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "THỰC PHẨM KHÁNH VY chuyên sỉ lẻ các mặt hàng thực phẩm đông lạnh, thực phẩm tươi hải sản, thủy sản, gia súc gia cầm…… Tất cả các mặt hàng đều đảm bảo xuất xứ rõ ràng, hàng tươi mới đảm bảo VSATTP",
+  "headQuarter": "24 Nguyễn Công Hoan, Giảng Võ, Ba Đình, Hà Nội",
+  "email": "davidquyen2901@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

@@ -1,0 +1,35 @@
+{
+  "id": 810,
+  "name": "FARM 79",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/f86c1373-915c-4569-b681-7bbb34b384a1.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Shop chuyên cung cấp về bột ngũ cốc Hàn Quốc, từ 17 loại hạt tốt cho sức khỏe. Liên hệ hỗ trợ 0908502855",
+  "headQuarter": "362/19 Ung Văn Khiêm, 25, Bình Thạnh, Hồ Chí Minh",
+  "email": "Ngochan.8490@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "17:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

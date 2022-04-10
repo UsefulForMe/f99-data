@@ -1,0 +1,35 @@
+{
+  "id": 866,
+  "name": "LeeFarm – Hạt Dinh Dưỡng & Trái Cây Tươi",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/b9ec2fac-4bc4-47ef-a4cd-c828328f4a8d.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp hạt dinh dưỡng, hoa quả tươi vùng miền, nước ép nguyên chất đóng chai",
+  "headQuarter": "Số 78 ngõ 32 Phố Đồng Me, Mễ Trì, Nam Từ Liêm, Hà Nội",
+  "email": "congly8693@gamil.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "13:00",
+    "closeTime": "23:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

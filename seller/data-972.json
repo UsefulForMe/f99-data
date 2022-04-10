@@ -1,0 +1,35 @@
+{
+  "id": 972,
+  "name": "HN Food",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/4f68b682-cc90-4b21-a26c-58dfd1e60780.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Thực phẩm: Rau - củ - quả, thực phẩm đông lạnh",
+  "headQuarter": "Số 45, Ngõ 52, Đường Mỹ Đình, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",
+  "email": "Vanhien9304@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.3,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 9
+}

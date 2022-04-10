@@ -1,0 +1,35 @@
+{
+  "id": 95,
+  "name": "Ngong.vn",
+  "logo": "https://cdn.f99.link/groupbuy-images/a785c199-3df1-46b9-a5d8-54f38ccefd03.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Ngỗng – An Biên Food là doanh nghiệp xã hội đồng hành cùng nông dân, chuyên gia và khách hàng xây dựng hệ sinh thái nông nghiệp bền vững, nhằm mang đến những sản phẩm nông nghiệp an toàn, tự nhiên và hữu ích cho cộng đồng, môi trường và xã hội. Thông qua các sản phẩm, hoạt động và dự án của Ngỗng, chúng tôi kết nối, xây dựng hệ sinh thái tương hỗ trong nông nghiệp.\n",
+  "headQuarter": "Số 489 Hoàng Quốc Việt, Quận. Bắc Từ Liêm, Hà Nội",
+  "email": "anbienfoodtmdt@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.7,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 3
+}

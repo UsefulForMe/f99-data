@@ -1,0 +1,35 @@
+{
+  "id": 597,
+  "name": "OLA MART VIỆT NAM",
+  "logo": "https://cdn.f99.link/groupbuy-images/46ef317e-4098-448a-ae05-b61b2be527d8.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "OLAM FOODS VIỆT NAM – Cung cấp thực phẩm nhập khẩu như: Hải sản, thịt bò nhập khẩu,…. luôn đảm bảo chất lượng ngon nhất khi đến tay khách hàng.",
+  "headQuarter": "Số 45 Đường 12, KP5, Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh",
+  "email": "hcm@olamfoods.vn",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

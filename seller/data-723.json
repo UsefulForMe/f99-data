@@ -1,0 +1,35 @@
+{
+  "id": 723,
+  "name": "Agrivi",
+  "logo": "https://cdn.f99.link/groupbuy-images/ebd03efa-c2ab-4af8-8cfe-3ba4705a19dd.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Đặt chất lượng lên hàng đầu",
+  "headQuarter": "338 Lãnh Binh Thăng, 11, Quận 11, Hồ Chí Minh",
+  "email": "agrivi.vn@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

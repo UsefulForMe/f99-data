@@ -1,0 +1,35 @@
+{
+  "id": 748,
+  "name": "AB Food",
+  "logo": "https://cdn.f99.link/groupbuy-images/6671c0cb-65c4-465a-97e4-41813c2cddc9.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "AB FOOD chuyên cung cấp thực phẩm đông lạnh, giò chả, đồ ăn vặt số lượng lớn. ",
+  "headQuarter": "2A/7 Nguyễn Thị Minh Khai, Đa Kao, Quận 1, Hồ Chí Minh",
+  "email": "Buianh040196@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "06:00",
+    "closeTime": "23:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

@@ -1,0 +1,4524 @@
+[
+  {
+    "id": 2186,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Roi đỏ An Phước",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><img src=\"https://images.f99.com.vn/images/04c9668d-a833-413a-b10f-a9d56ed2fde9.png\"><img src=\"https://images.f99.com.vn/images/3bd59050-3cc6-454a-98b3-f4219142c941.png\"><img src=\"https://images.f99.com.vn/images/5de892d2-b6da-468d-b991-92dee31414b3.png\"><img src=\"https://images.f99.com.vn/images/059cb2cb-3dbf-48c6-8bdf-bcf362febdd5.png\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/3b63e2e2-2fc5-4896-9387-29f898f8ede9.png\",\"https://images.f99.com.vn/images/324ad28a-2fd4-422d-a438-e353930c26c7.jpg\",\"https://images.f99.com.vn/images/92931641-aa12-4150-b5d0-30203f7a219e.jpg\",\"https://images.f99.com.vn/images/62573828-6261-4a88-bf1c-ef337ad75410.jpg\",\"https://images.f99.com.vn/images/2ee182c0-c2cb-4901-8735-4b80ceb2ed32.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Roi đỏ An Phước",
+    "description": "<p><img src=\"https://images.f99.com.vn/images/04c9668d-a833-413a-b10f-a9d56ed2fde9.png\"><img src=\"https://images.f99.com.vn/images/3bd59050-3cc6-454a-98b3-f4219142c941.png\"><img src=\"https://images.f99.com.vn/images/5de892d2-b6da-468d-b991-92dee31414b3.png\"><img src=\"https://images.f99.com.vn/images/059cb2cb-3dbf-48c6-8bdf-bcf362febdd5.png\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/3b63e2e2-2fc5-4896-9387-29f898f8ede9.png",
+    "price": 52900,
+    "oldPrice": 65900,
+    "discountPercent": 20,
+    "stock": 75,
+    "totalSold": 10844,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "20001163",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.8,
+    "instructions": null,
+    "category": {
+      "id": 76,
+      "name": "Roi đỏ",
+      "imageUrl": "https://imgur.com/88gyxXa.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/3b63e2e2-2fc5-4896-9387-29f898f8ede9.png",
+      "https://images.f99.com.vn/images/324ad28a-2fd4-422d-a438-e353930c26c7.jpg",
+      "https://images.f99.com.vn/images/92931641-aa12-4150-b5d0-30203f7a219e.jpg",
+      "https://images.f99.com.vn/images/62573828-6261-4a88-bf1c-ef337ad75410.jpg",
+      "https://images.f99.com.vn/images/2ee182c0-c2cb-4901-8735-4b80ceb2ed32.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/2186",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg",
+          "Combo 3kg",
+          "Combo 5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 4912,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 52900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 43,
+        "totalSold": 4545,
+        "unit": "Kg",
+        "sku": "20001163",
+        "rating": 4.8,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 4911,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 158700,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 14,
+        "totalSold": 3184,
+        "unit": "Kg",
+        "sku": "20000468",
+        "rating": 4.8,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 4910,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 264500,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 18,
+        "totalSold": 3115,
+        "unit": "Kg",
+        "sku": "20000741",
+        "rating": 4.8,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 6882,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Roi đỏ An Phước Vip (Mận)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h4 class=\"ql-align-justify\">Roi An Phước là giống roi đỏ mới&nbsp;được trồng thành công ở Việt Nam. Với hình dáng đỏ au, đẹp, bắt mắt ,&nbsp;ăn rất ngon, giòn, đặc ruột và thế mạnh&nbsp;được trồng theo phương pháp công nghệ cao nên đã trở thành phổ biến ở Nam Bộ và đang tiến dần ra Bắc , bước đầu đã nhận được sự ủng hộ nhiệt tình của khách hàng .</h4><p class=\"ql-align-justify\">Roi An Phước ( Mận An Phước )&nbsp;có hình dáng giống quả chuông, màu nâu đỏ, sọc dọc mờ, ruột đặc, màu trắng, ăn giòn, ngọt, thơm. Trọng lượng trái trung bình 100 đến 120 gram/trái. Đặc biệt trái Roi An Phước không có hạt và có hương thơm đặc trưng</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/f021d3ab-dd57-4b1b-9492-89ff92615be1.jpg\",\"https://images.f99.com.vn/images/3b955ad6-18f4-4188-8060-ba47380a1009.jpg\",\"https://images.f99.com.vn/images/2f531c91-5855-4ff6-9a9c-8a411c7a26a5.jpg\",\"https://images.f99.com.vn/images/8187e838-14db-4606-8bc4-2813017cfe89.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"roi\",\"mận\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Roi đỏ An Phước Vip (Mận)",
+    "description": "<h4 class=\"ql-align-justify\">Roi An Phước là giống roi đỏ mới&nbsp;được trồng thành công ở Việt Nam. Với hình dáng đỏ au, đẹp, bắt mắt ,&nbsp;ăn rất ngon, giòn, đặc ruột và thế mạnh&nbsp;được trồng theo phương pháp công nghệ cao nên đã trở thành phổ biến ở Nam Bộ và đang tiến dần ra Bắc , bước đầu đã nhận được sự ủng hộ nhiệt tình của khách hàng .</h4><p class=\"ql-align-justify\">Roi An Phước ( Mận An Phước )&nbsp;có hình dáng giống quả chuông, màu nâu đỏ, sọc dọc mờ, ruột đặc, màu trắng, ăn giòn, ngọt, thơm. Trọng lượng trái trung bình 100 đến 120 gram/trái. Đặc biệt trái Roi An Phước không có hạt và có hương thơm đặc trưng</p>",
+    "imageUrl": "https://images.f99.com.vn/images/f021d3ab-dd57-4b1b-9492-89ff92615be1.jpg",
+    "price": 25000,
+    "oldPrice": 50000,
+    "discountPercent": 50,
+    "stock": 48000,
+    "totalSold": 5081,
+    "maxQuantityPerUser": null,
+    "unit": "0,5 kg",
+    "sku": "ROIDO",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.8,
+    "instructions": "<p>Bảo quản lạnh để sản phẩm đươc tươi ngon lâu hơn.</p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Phản hồi sản phẩm vui lòng liên hệ: </span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Hotline:0974956933</span></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Địa chỉ: Số 10A, ngõ 61 Khương Trung , Phố Khương Trung, Khương Trung,Thanh Xuân,HN.</span></p>",
+    "category": {
+      "id": 76,
+      "name": "Roi đỏ",
+      "imageUrl": "https://imgur.com/88gyxXa.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "roi",
+      "mận"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/f021d3ab-dd57-4b1b-9492-89ff92615be1.jpg",
+      "https://images.f99.com.vn/images/3b955ad6-18f4-4188-8060-ba47380a1009.jpg",
+      "https://images.f99.com.vn/images/2f531c91-5855-4ff6-9a9c-8a411c7a26a5.jpg",
+      "https://images.f99.com.vn/images/8187e838-14db-4606-8bc4-2813017cfe89.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/6882",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "0,5kg",
+          "1kg",
+          "5kg",
+          "Combo 2kg",
+          "Combo 3kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 95549,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "0,5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "0,5kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "0,5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 26000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 24000,
+        "totalSold": 33,
+        "unit": "0,5 kg",
+        "sku": "ROIDO",
+        "rating": 4.8,
+        "instructions": "<p>Bảo quản lạnh để sản phẩm đươc tươi ngon lâu hơn.</p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Phản hồi sản phẩm vui lòng liên hệ: </span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Hotline:0974956933</span></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Địa chỉ: Số 10A, ngõ 61 Khương Trung , Phố Khương Trung, Khương Trung,Thanh Xuân,HN.</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "0,5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 9044,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 50000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 6000,
+        "totalSold": 1741,
+        "unit": "0,5 kg",
+        "sku": "ROIDO",
+        "rating": 4.8,
+        "instructions": "<p>Bảo quản lạnh để sản phẩm đươc tươi ngon lâu hơn.</p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Phản hồi sản phẩm vui lòng liên hệ: </span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Hotline:0974956933</span></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Địa chỉ: Số 10A, ngõ 61 Khương Trung , Phố Khương Trung, Khương Trung,Thanh Xuân,HN.</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 6883,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 2kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 2kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 2kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 99000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 3000,
+        "totalSold": 1668,
+        "unit": "0,5 kg",
+        "sku": "ROIDO",
+        "rating": 4.8,
+        "instructions": "<p>Bảo quản lạnh để sản phẩm đươc tươi ngon lâu hơn.</p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Phản hồi sản phẩm vui lòng liên hệ: </span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Hotline:0974956933</span></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Địa chỉ: Số 10A, ngõ 61 Khương Trung , Phố Khương Trung, Khương Trung,Thanh Xuân,HN.</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 2kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 6884,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 148000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 3000,
+        "totalSold": 1639,
+        "unit": "0,5 kg",
+        "sku": "ROIDO",
+        "rating": 4.8,
+        "instructions": "<p>Bảo quản lạnh để sản phẩm đươc tươi ngon lâu hơn.</p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Phản hồi sản phẩm vui lòng liên hệ: </span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Hotline:0974956933</span></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Địa chỉ: Số 10A, ngõ 61 Khương Trung , Phố Khương Trung, Khương Trung,Thanh Xuân,HN.</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 89141,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "5kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 245000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 12000,
+        "totalSold": 0,
+        "unit": "0,5 kg",
+        "sku": "ROIDO",
+        "rating": 4.8,
+        "instructions": "<p>Bảo quản lạnh để sản phẩm đươc tươi ngon lâu hơn.</p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Phản hồi sản phẩm vui lòng liên hệ: </span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Hotline:0974956933</span></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Địa chỉ: Số 10A, ngõ 61 Khương Trung , Phố Khương Trung, Khương Trung,Thanh Xuân,HN.</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 12878,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "𝑹𝒐𝒊 Đ𝒐̉ 𝑨𝒏 𝑷𝒉𝒖̛𝒐̛́𝒄",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Roi đỏ An Phước giá chỉ&nbsp;</p><p>Roi An Phước có hình dáng như cái chuông, đế quả to, màu vỏ đỏ sẫm, bóng loáng, nhẵn mịn không có gân xanh.</p><p>Bên trong thịt quả trắng xốp, tơi, giòn thơm, mọng nước, vị ngọt thanh. Và đặc biệt là không có hột. Ruột quả dày, thơm thơm, lại là trái cây Việt sạch nên vô cùng an toàn.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/cd5e97b5-0cd3-405d-93f0-a656bcc36bd0.jpg\",\"https://images.f99.com.vn/images/9c11a493-bc63-45a1-aeb0-99629737ba0a.jpg\",\"https://images.f99.com.vn/images/7f3df3c6-8bcb-4654-ba7f-f443d16804f3.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "𝑹𝒐𝒊 Đ𝒐̉ 𝑨𝒏 𝑷𝒉𝒖̛𝒐̛́𝒄",
+    "description": "<p>Roi đỏ An Phước giá chỉ&nbsp;</p><p>Roi An Phước có hình dáng như cái chuông, đế quả to, màu vỏ đỏ sẫm, bóng loáng, nhẵn mịn không có gân xanh.</p><p>Bên trong thịt quả trắng xốp, tơi, giòn thơm, mọng nước, vị ngọt thanh. Và đặc biệt là không có hột. Ruột quả dày, thơm thơm, lại là trái cây Việt sạch nên vô cùng an toàn.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/cd5e97b5-0cd3-405d-93f0-a656bcc36bd0.jpg",
+    "price": 70000,
+    "oldPrice": 80000,
+    "discountPercent": 12,
+    "stock": 100,
+    "totalSold": 150,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 202,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.8,
+    "instructions": "",
+    "category": {
+      "id": 76,
+      "name": "Roi đỏ",
+      "imageUrl": "https://imgur.com/88gyxXa.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/cd5e97b5-0cd3-405d-93f0-a656bcc36bd0.jpg",
+      "https://images.f99.com.vn/images/9c11a493-bc63-45a1-aeb0-99629737ba0a.jpg",
+      "https://images.f99.com.vn/images/7f3df3c6-8bcb-4654-ba7f-f443d16804f3.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12878",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 202,
+      "sellerRate": 4.8,
+      "sellerName": "KaMart",
+      "warehouseId": "0793ea85-5017-480b-a8ad-ed54928d4af4",
+      "warehouseAddress": " 83 Phủ Doãn, Hàng Trống, Hoàn Kiếm, Hà Nội",
+      "distance": 1422,
+      "warehouseDistrict": "hoan kiem",
+      "reputation": 64.76329333333334,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15484,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Roi đỏ An Phước",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(32, 33, 36);\">Trước đây , Việt Nam không có giống&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">roi đỏ</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;này , muốn ăn phải nhập khẩu từ Thái Lan nhưng hiện nay, chúng ta đã nhập mắt, ghép và nhân giống thành công tại An&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">Phước</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;(huyện Long Thành, Đồng Nai).</span></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">Làm mát cơ thể trong mùa hè&nbsp;</strong><span style=\"color: rgb(0, 0, 0);\">Do chứa hàm lượng nước cao và khả năng làm mát cơ thể tự nhiên, trái doi được coi là thực phẩm tuyệt vời trong việc làm giảm nhiệt cơ thể trong mùa hè hay khi bị sốt. Trái roi cũng có thể giúp ngăn ngừa đột quỵ nhiệt và mất nước do sốt cao.</span></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">Tốt cho bà bầu&nbsp;</strong></p><p><br></p><p><br></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Quả roi là trái cây có tác dụng làm giảm nhiệt mùa hè và giúp bạn giảm cơn khát ngày nóng nực nên nó có lợi cho phụ nữ mang thai. Bà bầu cũng có thể sử dụng loại quả này để ép nước uống hàng ngày. Cây roi rất dễ trồng và dễ đậu quả nên người ta thường ít sử dụng thuốc trừ sâu. Vì vậy bà bầu ăn quả roi rất an toàn.</span></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">﻿Tốt cho những người bị tiểu đường&nbsp;</strong></p><p><br></p><p><br></p><p><br></p><p>Một trong những l</p><p>ợi í</p><p>ch l</p><p>ớn n<span style=\"color: rgb(0, 0, 0);\">hất của trái roi là giúp kiểm soát lượng đường trong cơ thể ở mức ổn định. Nó đặc biệt tốt cho bệnh nhân tiểu đường.Ngoài ra, hạt của trái roi nếu tán thành bột khô, dùng làm đồ uống cũng được coi là một loại thuốc chữa bệnh tiểu đường.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/3aa559cd-56ad-4ade-9017-0da4f33562cd.jpg\",\"https://images.f99.com.vn/images/7d70837f-1aa8-4b03-9b84-b88f50b65dcf.jpg\",\"https://images.f99.com.vn/images/1fea9e28-ddb0-4e57-8f39-1ef09b54a004.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Roi đỏ An Phước",
+    "description": "<p><span style=\"color: rgb(32, 33, 36);\">Trước đây , Việt Nam không có giống&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">roi đỏ</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;này , muốn ăn phải nhập khẩu từ Thái Lan nhưng hiện nay, chúng ta đã nhập mắt, ghép và nhân giống thành công tại An&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">Phước</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;(huyện Long Thành, Đồng Nai).</span></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">Làm mát cơ thể trong mùa hè&nbsp;</strong><span style=\"color: rgb(0, 0, 0);\">Do chứa hàm lượng nước cao và khả năng làm mát cơ thể tự nhiên, trái doi được coi là thực phẩm tuyệt vời trong việc làm giảm nhiệt cơ thể trong mùa hè hay khi bị sốt. Trái roi cũng có thể giúp ngăn ngừa đột quỵ nhiệt và mất nước do sốt cao.</span></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">Tốt cho bà bầu&nbsp;</strong></p><p><br></p><p><br></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Quả roi là trái cây có tác dụng làm giảm nhiệt mùa hè và giúp bạn giảm cơn khát ngày nóng nực nên nó có lợi cho phụ nữ mang thai. Bà bầu cũng có thể sử dụng loại quả này để ép nước uống hàng ngày. Cây roi rất dễ trồng và dễ đậu quả nên người ta thường ít sử dụng thuốc trừ sâu. Vì vậy bà bầu ăn quả roi rất an toàn.</span></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">﻿Tốt cho những người bị tiểu đường&nbsp;</strong></p><p><br></p><p><br></p><p><br></p><p>Một trong những l</p><p>ợi í</p><p>ch l</p><p>ớn n<span style=\"color: rgb(0, 0, 0);\">hất của trái roi là giúp kiểm soát lượng đường trong cơ thể ở mức ổn định. Nó đặc biệt tốt cho bệnh nhân tiểu đường.Ngoài ra, hạt của trái roi nếu tán thành bột khô, dùng làm đồ uống cũng được coi là một loại thuốc chữa bệnh tiểu đường.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/3aa559cd-56ad-4ade-9017-0da4f33562cd.jpg",
+    "price": 89000,
+    "oldPrice": 109000,
+    "discountPercent": 18,
+    "stock": 120,
+    "totalSold": 6,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 193,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p class=\"ql-align-justify\">Để trong tủ mát với nhiệt độ từ 15.5 độ C</p>",
+    "category": {
+      "id": 76,
+      "name": "Roi đỏ",
+      "imageUrl": "https://imgur.com/88gyxXa.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/3aa559cd-56ad-4ade-9017-0da4f33562cd.jpg",
+      "https://images.f99.com.vn/images/7d70837f-1aa8-4b03-9b84-b88f50b65dcf.jpg",
+      "https://images.f99.com.vn/images/1fea9e28-ddb0-4e57-8f39-1ef09b54a004.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15484",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg",
+          "3kg",
+          "5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 15487,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 89000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 50,
+        "totalSold": 4,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p class=\"ql-align-justify\">Để trong tủ mát với nhiệt độ từ 15.5 độ C</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 15488,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "3kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 249000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 40,
+        "totalSold": 1,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p class=\"ql-align-justify\">Để trong tủ mát với nhiệt độ từ 15.5 độ C</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 15489,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "5kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 389000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 30,
+        "totalSold": 1,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p class=\"ql-align-justify\">Để trong tủ mát với nhiệt độ từ 15.5 độ C</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 193,
+      "sellerRate": 4.9,
+      "sellerName": "Royal Green Fruits",
+      "warehouseId": "54ea5d5f-edb9-4db9-9279-5db65d728ab8",
+      "warehouseAddress": "Shophouse D1 Mandarin Garden, Hoàng Minh Giám, Trung Hòa, Cầu Giấy, Hà Nội",
+      "distance": 4511,
+      "warehouseDistrict": "cau giay",
+      "reputation": 64.03561290322591,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 21200,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Roi đỏ không hạt Thái Lan (Mận)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p Class=\"ql-align-justify\"><strong>Quả roi miền Nam còn gọi là quả mận, có tên tiếng Anh là Bell fruit</strong>&nbsp;(quả chuông) bởi hình dạng của nó khá giống cái chuông. Loại cây này có tên khoa học Syzygium samarangenses, họ Đào kim cương/Sim, thuộc họ thực vật Myrtaceae.</p><p class=\"ql-align-justify\">Quả roi có nhiều màu sắc khác nhau từ&nbsp;<strong>đỏ, hồng nhạt, hồng đậm, trắng sữa cho đến xanh lá</strong>. Thịt roi&nbsp;<strong>xốp, mọng nước, có loại nhiều hạt và có loại không hạt</strong>. Thịt quả có<strong>&nbsp;vị ngọt, thanh mát</strong>&nbsp;và rất mọng nước.</p><p class=\"ql-align-justify\">Chúng có nguồn gốc từ Java (Indonesia), Ấn Độ, Malaysia, các nước Nam – Trung Mỹ và cả Đông Nam Á. Phân bố chủ yếu ở những vùng nhiệt đới. Tại Việt Nam, quả roi có mặt rộng rãi và&nbsp;<strong>phổ biến tại hầu hết các tỉnh thành</strong>&nbsp;ở nước ta.</p><p class=\"ql-align-justify\">Quả roi đỏ ở nhiều vùng còn được gọi là quả doi đỏ, vậy gọi là quả doi hay quả roi mới đúng? Thực chất cả 2 cách gọi đều đúng, sự khác biệt này đến từ nguyên nhân sự khác biệt vùng miền mà thôi.</p><h3><strong>2Công dụng của quả roi đỏ đối với sức khỏe</strong></h3><h4><strong>Tăng cường hệ miễn dịch</strong></h4><p class=\"ql-align-justify\">Quả roi được chứng minh là có nhiều vitamin C rất tốt cho sức khỏe. vitamin C&nbsp;là hoạt chất quan trọng giúp cơ thể&nbsp;<strong>tăng cường sức đề kháng, hỗ trợ miễn dịch từ đó ngăn ngừa cách bệnh gây ra bởi vi khuẩn, vi rút</strong>&nbsp;như: Cảm cúm, sốt,...</p><p class=\"ql-align-justify\"><u style=\"background-color: transparent;\"><img src=\"https://cdn.tgdd.vn/Files/2021/08/21/1376798/qua-roi-do-la-gi-cong-dung-cua-qua-roi-do-doi-voi-suc-khoe-202108211615412564.jpg\" alt=\"Quả roi đỏ giúp tăng cường hệ miễn dịch\" height=\"140\" width=\"360\"></u><em style=\"background-color: rgb(248, 251, 255);\">Quả roi đỏ giúp tăng cường hệ miễn dịch</em></p><h4><strong>Tốt cho tim mạch</strong></h4><p class=\"ql-align-justify\">Trong quả roi có chứa nhiều chất sơ, từ đó giúp ngăn chặn tích tụ mỡ thừa - vốn là nguyên nhân chính gây ra bệnh tim mạch.</p><p class=\"ql-align-justify\"><u style=\"background-color: transparent;\"><img src=\"https://cdn.tgdd.vn/Files/2021/08/21/1376798/qua-roi-do-la-gi-cong-dung-cua-qua-roi-do-doi-voi-suc-khoe-202108211616220627.jpg\" alt=\"Quả roi đỏ tốt cho tim mạch\" height=\"140\" width=\"360\"></u><em style=\"background-color: rgb(248, 251, 255);\">Tốt cho tim mạch</em></p><h4><strong>Tốt cho mắt</strong></h4><p class=\"ql-align-justify\">Quả roi có chứa một lượng lớn&nbsp;<a href=\"https://www.bachhoaxanh.com/kinh-nghiem-hay/retinol-la-gi-va-tac-dung-cua-no-voi-co-the-1004398\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 100, 194);\">V</a>iatmin A, đây là hoạt chất cực kỳ&nbsp;<strong>tốt cho mắt, giúp đôi mắt sáng khỏe</strong>&nbsp;và làm giảm các tật về mắt như cận thị,...</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/49ef236c-ef9f-43da-a773-3c8f00b75a66.jpg\",\"https://images.f99.com.vn/images/d2ff7e07-3fbf-44a6-ae6f-7ebc18a2582d.jpg\",\"https://images.f99.com.vn/images/fbb08778-ce68-4a76-a60c-1498c2b1e233.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Roi đỏ không hạt Thái Lan (Mận)",
+    "description": "<p Class=\"ql-align-justify\"><strong>Quả roi miền Nam còn gọi là quả mận, có tên tiếng Anh là Bell fruit</strong>&nbsp;(quả chuông) bởi hình dạng của nó khá giống cái chuông. Loại cây này có tên khoa học Syzygium samarangenses, họ Đào kim cương/Sim, thuộc họ thực vật Myrtaceae.</p><p class=\"ql-align-justify\">Quả roi có nhiều màu sắc khác nhau từ&nbsp;<strong>đỏ, hồng nhạt, hồng đậm, trắng sữa cho đến xanh lá</strong>. Thịt roi&nbsp;<strong>xốp, mọng nước, có loại nhiều hạt và có loại không hạt</strong>. Thịt quả có<strong>&nbsp;vị ngọt, thanh mát</strong>&nbsp;và rất mọng nước.</p><p class=\"ql-align-justify\">Chúng có nguồn gốc từ Java (Indonesia), Ấn Độ, Malaysia, các nước Nam – Trung Mỹ và cả Đông Nam Á. Phân bố chủ yếu ở những vùng nhiệt đới. Tại Việt Nam, quả roi có mặt rộng rãi và&nbsp;<strong>phổ biến tại hầu hết các tỉnh thành</strong>&nbsp;ở nước ta.</p><p class=\"ql-align-justify\">Quả roi đỏ ở nhiều vùng còn được gọi là quả doi đỏ, vậy gọi là quả doi hay quả roi mới đúng? Thực chất cả 2 cách gọi đều đúng, sự khác biệt này đến từ nguyên nhân sự khác biệt vùng miền mà thôi.</p><h3><strong>2Công dụng của quả roi đỏ đối với sức khỏe</strong></h3><h4><strong>Tăng cường hệ miễn dịch</strong></h4><p class=\"ql-align-justify\">Quả roi được chứng minh là có nhiều vitamin C rất tốt cho sức khỏe. vitamin C&nbsp;là hoạt chất quan trọng giúp cơ thể&nbsp;<strong>tăng cường sức đề kháng, hỗ trợ miễn dịch từ đó ngăn ngừa cách bệnh gây ra bởi vi khuẩn, vi rút</strong>&nbsp;như: Cảm cúm, sốt,...</p><p class=\"ql-align-justify\"><u style=\"background-color: transparent;\"><img src=\"https://cdn.tgdd.vn/Files/2021/08/21/1376798/qua-roi-do-la-gi-cong-dung-cua-qua-roi-do-doi-voi-suc-khoe-202108211615412564.jpg\" alt=\"Quả roi đỏ giúp tăng cường hệ miễn dịch\" height=\"140\" width=\"360\"></u><em style=\"background-color: rgb(248, 251, 255);\">Quả roi đỏ giúp tăng cường hệ miễn dịch</em></p><h4><strong>Tốt cho tim mạch</strong></h4><p class=\"ql-align-justify\">Trong quả roi có chứa nhiều chất sơ, từ đó giúp ngăn chặn tích tụ mỡ thừa - vốn là nguyên nhân chính gây ra bệnh tim mạch.</p><p class=\"ql-align-justify\"><u style=\"background-color: transparent;\"><img src=\"https://cdn.tgdd.vn/Files/2021/08/21/1376798/qua-roi-do-la-gi-cong-dung-cua-qua-roi-do-doi-voi-suc-khoe-202108211616220627.jpg\" alt=\"Quả roi đỏ tốt cho tim mạch\" height=\"140\" width=\"360\"></u><em style=\"background-color: rgb(248, 251, 255);\">Tốt cho tim mạch</em></p><h4><strong>Tốt cho mắt</strong></h4><p class=\"ql-align-justify\">Quả roi có chứa một lượng lớn&nbsp;<a href=\"https://www.bachhoaxanh.com/kinh-nghiem-hay/retinol-la-gi-va-tac-dung-cua-no-voi-co-the-1004398\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 100, 194);\">V</a>iatmin A, đây là hoạt chất cực kỳ&nbsp;<strong>tốt cho mắt, giúp đôi mắt sáng khỏe</strong>&nbsp;và làm giảm các tật về mắt như cận thị,...</p>",
+    "imageUrl": "https://images.f99.com.vn/images/49ef236c-ef9f-43da-a773-3c8f00b75a66.jpg",
+    "price": 30000,
+    "oldPrice": 49000,
+    "discountPercent": 39,
+    "stock": 432000,
+    "totalSold": 7,
+    "maxQuantityPerUser": null,
+    "unit": "0,5 kg",
+    "sku": "roi d?",
+    "origin": "",
+    "sellerId": 250,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.8,
+    "instructions": "<h4><br></h4>",
+    "category": {
+      "id": 76,
+      "name": "Roi đỏ",
+      "imageUrl": "https://imgur.com/88gyxXa.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/49ef236c-ef9f-43da-a773-3c8f00b75a66.jpg",
+      "https://images.f99.com.vn/images/d2ff7e07-3fbf-44a6-ae6f-7ebc18a2582d.jpg",
+      "https://images.f99.com.vn/images/fbb08778-ce68-4a76-a60c-1498c2b1e233.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/21200",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "0,5kg",
+          "1kg",
+          "2kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 96848,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "0,5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "0,5kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "0,5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 30000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 144000,
+        "totalSold": 4,
+        "unit": "0,5 kg",
+        "sku": "roi d?",
+        "rating": 4.8,
+        "instructions": "<h4><br></h4>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "0,5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 96847,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 59000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 144000,
+        "totalSold": 1,
+        "unit": "0,5 kg",
+        "sku": "roi d?",
+        "rating": 4.8,
+        "instructions": "<h4><br></h4>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 96846,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 119000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 144000,
+        "totalSold": 2,
+        "unit": "0,5 kg",
+        "sku": "roi d?",
+        "rating": 4.8,
+        "instructions": "<h4><br></h4>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "2kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 250,
+      "sellerRate": 4.7,
+      "sellerName": "Fresh Meat – Thịt Heo Sạch",
+      "warehouseId": "b9609c8f-7018-457c-8460-255c8c884fdc",
+      "warehouseAddress": "Số 10A, Ngõ 61 Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3512,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 67.83505059291078,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 32207,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Roi đỏ An Phước xuất khẩu ( thùng nguyên )",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Roi đỏ An Phước xuất khẩu về kho.</p><p>Roi ăn giòn ngọt và mát.</p><p>Thời tiết này ăn roi quá chuẩn bài các mẹ nhỉ?</p><p>Qua kho ủng hộ em nhé.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/41824bdf-4096-401d-bc99-c3ed25e31b29.jpg\",\"https://images.f99.com.vn/images/4b24b954-bfea-44fe-9fb6-342be454ee68.jpg\",\"https://images.f99.com.vn/images/6d03e3b8-5cb2-4e2e-b06f-36555460c1d2.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Roi đỏ An Phước xuất khẩu ( thùng nguyên )",
+    "description": "<p>Roi đỏ An Phước xuất khẩu về kho.</p><p>Roi ăn giòn ngọt và mát.</p><p>Thời tiết này ăn roi quá chuẩn bài các mẹ nhỉ?</p><p>Qua kho ủng hộ em nhé.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/41824bdf-4096-401d-bc99-c3ed25e31b29.jpg",
+    "price": 315000,
+    "oldPrice": 550000,
+    "discountPercent": 43,
+    "stock": 1000,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "10 kg ( cả thùng )",
+    "sku": "",
+    "origin": "",
+    "sellerId": 242,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 76,
+      "name": "Roi đỏ",
+      "imageUrl": "https://imgur.com/88gyxXa.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/41824bdf-4096-401d-bc99-c3ed25e31b29.jpg",
+      "https://images.f99.com.vn/images/4b24b954-bfea-44fe-9fb6-342be454ee68.jpg",
+      "https://images.f99.com.vn/images/6d03e3b8-5cb2-4e2e-b06f-36555460c1d2.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/32207",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "10 kg ( cả thùng )"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 82858,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "10 kg ( cả thùng )",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "10 kg ( cả thùng )",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "10 kg ( cả thùng )",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 315000,
+        "oldPrice": 550000,
+        "discountPercent": 43,
+        "stock": 1000,
+        "totalSold": 1,
+        "unit": "10 kg ( cả thùng )",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "10 kg ( cả thùng )"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 242,
+      "sellerRate": 4.1,
+      "sellerName": "Tổng Kho Amy Fruit",
+      "warehouseId": "acd38b9a-c6ad-4c61-96a8-17ef6b47e174",
+      "warehouseAddress": "Số 3 ngõ 57 Nguyễn Khánh Toàn, Dịch Vọng, Cầu Giấy, Hà Nội",
+      "distance": 4026,
+      "warehouseDistrict": "cau giay",
+      "reputation": 58.71380729701953,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 32209,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Roi  đỏ An Phước",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Roi đỏ ăn ngọt và mát.</p><p>Bán sỉ lẻ tại kho.</p><p>Roi vừa hạ kho mời các anh chị em qua ủng hộ cửa hàng nhé.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/1de3dfd2-cf79-48fc-abfc-067b8f26dbce.jpg\",\"https://images.f99.com.vn/images/8e761cb1-affd-4af9-aece-edd5e7ae6cb3.jpg\",\"https://images.f99.com.vn/images/4dc2ac05-df89-4bdd-a5c5-43db7ffdc31f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Roi  đỏ An Phước",
+    "description": "<p>Roi đỏ ăn ngọt và mát.</p><p>Bán sỉ lẻ tại kho.</p><p>Roi vừa hạ kho mời các anh chị em qua ủng hộ cửa hàng nhé.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/1de3dfd2-cf79-48fc-abfc-067b8f26dbce.jpg",
+    "price": 69000,
+    "oldPrice": 75000,
+    "discountPercent": 8,
+    "stock": 1000,
+    "totalSold": 9,
+    "maxQuantityPerUser": null,
+    "unit": "2 kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 242,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 76,
+      "name": "Roi đỏ",
+      "imageUrl": "https://imgur.com/88gyxXa.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/1de3dfd2-cf79-48fc-abfc-067b8f26dbce.jpg",
+      "https://images.f99.com.vn/images/8e761cb1-affd-4af9-aece-edd5e7ae6cb3.jpg",
+      "https://images.f99.com.vn/images/4dc2ac05-df89-4bdd-a5c5-43db7ffdc31f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/32209",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "2 kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 82860,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "2 kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 69000,
+        "oldPrice": 75000,
+        "discountPercent": 8,
+        "stock": 1000,
+        "totalSold": 9,
+        "unit": "2 kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "2 kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 242,
+      "sellerRate": 4.1,
+      "sellerName": "Tổng Kho Amy Fruit",
+      "warehouseId": "acd38b9a-c6ad-4c61-96a8-17ef6b47e174",
+      "warehouseAddress": "Số 3 ngõ 57 Nguyễn Khánh Toàn, Dịch Vọng, Cầu Giấy, Hà Nội",
+      "distance": 4026,
+      "warehouseDistrict": "cau giay",
+      "reputation": 58.71380729701953,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 32552,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Roi Đỏ Miền Nam Ngọt Mát",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>1 kg roi đỏ miền Nam kèm muối ớt</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/a798d58d-2439-4b75-b22a-38d81ce00978.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Roi Đỏ Miền Nam Ngọt Mát",
+    "description": "<p>1 kg roi đỏ miền Nam kèm muối ớt</p>",
+    "imageUrl": "https://images.f99.com.vn/images/a798d58d-2439-4b75-b22a-38d81ce00978.jpg",
+    "price": 60000,
+    "oldPrice": 75000,
+    "discountPercent": 20,
+    "stock": 20,
+    "totalSold": 15,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 333,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 76,
+      "name": "Roi đỏ",
+      "imageUrl": "https://imgur.com/88gyxXa.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/a798d58d-2439-4b75-b22a-38d81ce00978.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/32552",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 61315,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 60000,
+        "oldPrice": 75000,
+        "discountPercent": 20,
+        "stock": 20,
+        "totalSold": 15,
+        "unit": "Kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 333,
+      "sellerRate": 4.5,
+      "sellerName": "HOA QUẢ TƯƠI UK",
+      "warehouseId": "00a32823-8ca3-40ea-9b90-7602ba7a142d",
+      "warehouseAddress": " Hà Nội,  Nam Từ Liêm,  Mễ Trì, Số 111 ngõ 14 Mễ Trì Hạ",
+      "distance": 5655,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 73.88293932300736,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 40022,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Roi đỏ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Chạy sốc hàng Roi Đỏ Khủng 60k / 1 Kg. Size Quả lây đều khoảng 5-7 trái kinh thật sự ạ</p><p>Roi Đêm nay to gấp đôi mọi lần ạ <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t5b/1.5/16/1f60d.png\" alt=\"😍\" height=\"16\" width=\"16\"></p><p>Mắc nhưng sắt ra miếng nha <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t5b/1.5/16/1f60d.png\" alt=\"😍\" height=\"16\" width=\"16\"></p><p>Khách em mà thấy mê ngay. <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tf3/1.5/16/2764.png\" alt=\"❤️\" height=\"16\" width=\"16\"> vì roi mùa này ăn zòn ăn ngọt lại còn mát và lành tính</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/f6838e22-4a29-4786-8a5a-ccdcd11f6b71.jpg\",\"https://images.f99.com.vn/images/f5fbb8dc-bb75-487d-948b-703f2555d576.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Roi đỏ",
+    "description": "<p>Chạy sốc hàng Roi Đỏ Khủng 60k / 1 Kg. Size Quả lây đều khoảng 5-7 trái kinh thật sự ạ</p><p>Roi Đêm nay to gấp đôi mọi lần ạ <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t5b/1.5/16/1f60d.png\" alt=\"😍\" height=\"16\" width=\"16\"></p><p>Mắc nhưng sắt ra miếng nha <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t5b/1.5/16/1f60d.png\" alt=\"😍\" height=\"16\" width=\"16\"></p><p>Khách em mà thấy mê ngay. <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tf3/1.5/16/2764.png\" alt=\"❤️\" height=\"16\" width=\"16\"> vì roi mùa này ăn zòn ăn ngọt lại còn mát và lành tính</p>",
+    "imageUrl": "https://images.f99.com.vn/images/f6838e22-4a29-4786-8a5a-ccdcd11f6b71.jpg",
+    "price": 60000,
+    "oldPrice": 85000,
+    "discountPercent": 29,
+    "stock": 300,
+    "totalSold": 8,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "A046",
+    "origin": "",
+    "sellerId": 414,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 76,
+      "name": "Roi đỏ",
+      "imageUrl": "https://imgur.com/88gyxXa.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/f6838e22-4a29-4786-8a5a-ccdcd11f6b71.jpg",
+      "https://images.f99.com.vn/images/f5fbb8dc-bb75-487d-948b-703f2555d576.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/40022",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg",
+          "2kg",
+          "3kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 40023,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 60000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 4,
+        "unit": "Kg",
+        "sku": "A046",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 40024,
+        "attributeTextValues": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 115000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 1,
+        "unit": "Kg",
+        "sku": "A046",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "2kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 40025,
+        "attributeTextValues": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "3kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 170000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 3,
+        "unit": "Kg",
+        "sku": "A046",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 414,
+      "sellerRate": 4.2,
+      "sellerName": "PHƯƠNG ANH FRESH FRUIT",
+      "warehouseId": "2b3872f1-7f0f-492f-8e42-66d70a659bfc",
+      "warehouseAddress": "Số 81,tổ 4 Phú Đô Nam Từ Liêm Hà Nội",
+      "distance": 7371,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 56.65681345565877,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 55778,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Roi Đào Đá",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Roi đào đá đồng tháp  size VIP , Giòn , Ngọt chắc quả, thời tiết nắng nóng như thế này khách hàng mua roi đào đá về ăn giải nhiệt và tốt cho sưc khỏe</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/726442f2-0136-45b8-9a00-7a3951bcbb5a.jpg\",\"https://images.f99.com.vn/images/6b098528-9c90-4743-b536-05532289738b.jpg\",\"https://images.f99.com.vn/images/ada593d6-73ff-4b26-9170-35b33011ae1f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Roi Đào Đá",
+    "description": "<p>Roi đào đá đồng tháp  size VIP , Giòn , Ngọt chắc quả, thời tiết nắng nóng như thế này khách hàng mua roi đào đá về ăn giải nhiệt và tốt cho sưc khỏe</p>",
+    "imageUrl": "https://images.f99.com.vn/images/726442f2-0136-45b8-9a00-7a3951bcbb5a.jpg",
+    "price": 59000,
+    "oldPrice": 69000,
+    "discountPercent": 14,
+    "stock": 15,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "1 kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 118,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Tủ mát</p>",
+    "category": {
+      "id": 76,
+      "name": "Roi đỏ",
+      "imageUrl": "https://imgur.com/88gyxXa.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/726442f2-0136-45b8-9a00-7a3951bcbb5a.jpg",
+      "https://images.f99.com.vn/images/6b098528-9c90-4743-b536-05532289738b.jpg",
+      "https://images.f99.com.vn/images/ada593d6-73ff-4b26-9170-35b33011ae1f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/55778",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 55779,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 59000,
+        "oldPrice": 69000,
+        "discountPercent": 14,
+        "stock": 15,
+        "totalSold": 0,
+        "unit": "1 kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Tủ mát</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 118,
+      "sellerRate": 3.9,
+      "sellerName": "Đinh Hương Fruit",
+      "warehouseId": "7d5007b2-5563-4d11-a461-2b659e39fcf0",
+      "warehouseAddress": "64 Khương Đình, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",
+      "distance": 3572,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 55.8364615384624,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 56293,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "ROI ĐỎ AN PHƯỚC TIỀN GIANG",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Roi đỏ chuẩn Tiền Giang size Vip 6-9 quả/kg, quả to, chắc nịch, mọng nước, có quả ngọt đậm, có quả ngọt thanh</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/bfac511c-137b-41fc-a00a-f82e5a3d9a42.jpg\",\"https://images.f99.com.vn/images/6267792c-6c68-4572-b891-fd7ab48e0824.jpg\",\"https://images.f99.com.vn/images/d3f72afd-685e-49b3-93c3-188563c583a6.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "ROI ĐỎ AN PHƯỚC TIỀN GIANG",
+    "description": "<p>Roi đỏ chuẩn Tiền Giang size Vip 6-9 quả/kg, quả to, chắc nịch, mọng nước, có quả ngọt đậm, có quả ngọt thanh</p>",
+    "imageUrl": "https://images.f99.com.vn/images/bfac511c-137b-41fc-a00a-f82e5a3d9a42.jpg",
+    "price": 60000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 100,
+    "totalSold": 13,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "ROI0001",
+    "origin": "",
+    "sellerId": 777,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 76,
+      "name": "Roi đỏ",
+      "imageUrl": "https://imgur.com/88gyxXa.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/bfac511c-137b-41fc-a00a-f82e5a3d9a42.jpg",
+      "https://images.f99.com.vn/images/6267792c-6c68-4572-b891-fd7ab48e0824.jpg",
+      "https://images.f99.com.vn/images/d3f72afd-685e-49b3-93c3-188563c583a6.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/56293",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 777,
+      "sellerRate": 4.6,
+      "sellerName": "Atle Fruit",
+      "warehouseId": "d6269ee8-8fe9-415d-9a81-846c9a6341ac",
+      "warehouseAddress": "Số 23 Ngách 8/191/3, Tổ 1, P. Phú Đô, Nam Từ Liêm, Hà Nội",
+      "distance": 7240,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 79.43133142857279,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 71609,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Quả Roi",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Roi ngọt lim luôn á</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/21484f0b-d996-40ed-927a-ffddca2164a7.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"roi\",\"roi đỏ\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Quả Roi",
+    "description": "<p>Roi ngọt lim luôn á</p>",
+    "imageUrl": "https://images.f99.com.vn/images/21484f0b-d996-40ed-927a-ffddca2164a7.jpg",
+    "price": 59000,
+    "oldPrice": 59000,
+    "discountPercent": 0,
+    "stock": 2000,
+    "totalSold": 75,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 484,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 76,
+      "name": "Roi đỏ",
+      "imageUrl": "https://imgur.com/88gyxXa.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "roi",
+      "roi đỏ"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/21484f0b-d996-40ed-927a-ffddca2164a7.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/71609",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg",
+          "2kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 75163,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 59000,
+        "oldPrice": 59000,
+        "discountPercent": 0,
+        "stock": 1000,
+        "totalSold": 40,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 75162,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 115000,
+        "oldPrice": 59000,
+        "discountPercent": -95,
+        "stock": 1000,
+        "totalSold": 35,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "2kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 484,
+      "sellerRate": 4.6,
+      "sellerName": "HOME FRUITS",
+      "warehouseId": "c9100430-cbd7-4e59-a914-9ce7a7071cbc",
+      "warehouseAddress": "Số 172 Trần Bình, phường Mỹ Đình, Quận Nam Từ Liêm, Hà Nội",
+      "distance": 6740,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 80.48249894439043,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 75931,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Mận An Phước xuất khẩu",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/te/1/16/2733.png\" alt=\"✳️\" height=\"16\" width=\"16\">Mận An Phước xuất khẩu, quả to, đỏ au, nhiều nước, ăn rất đã khát, lô lần này quả to hơn</p><p>Nhìn đã mắt lắm rồi, ăn còn ưng hơn ạ</p><p>=====</p><p>Roi (mận) An Phước có hình dáng như cái chuông, đế quả to, màu vỏ đỏ sẫm, bóng loáng, nhẵn mịn không có gân xanh.</p><p>Bên trong thịt quả trắng xốp, tơi, giòn thơm, mọng nước, vị ngọt thanh, chua dịu nhẹ. Và đặc biệt là không có hột. Ruột quả dày, thơm thơm, lại là trái cây Việt sạch nên vô cùng an toàn. Mời cả nhà lên đơn</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/45fac9e9-3079-47ac-b17b-2de5612caeca.jpg\",\"https://images.f99.com.vn/images/bf5b6e85-99bb-42ad-8eac-bed075d4ef74.jpg\",\"https://images.f99.com.vn/images/61fb31ae-eb9a-46ab-a0c9-64f9bed6e2c2.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"#man\",\"#mananphuoc\",\"#mananphuocxuatkhau\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Mận An Phước xuất khẩu",
+    "description": "<p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/te/1/16/2733.png\" alt=\"✳️\" height=\"16\" width=\"16\">Mận An Phước xuất khẩu, quả to, đỏ au, nhiều nước, ăn rất đã khát, lô lần này quả to hơn</p><p>Nhìn đã mắt lắm rồi, ăn còn ưng hơn ạ</p><p>=====</p><p>Roi (mận) An Phước có hình dáng như cái chuông, đế quả to, màu vỏ đỏ sẫm, bóng loáng, nhẵn mịn không có gân xanh.</p><p>Bên trong thịt quả trắng xốp, tơi, giòn thơm, mọng nước, vị ngọt thanh, chua dịu nhẹ. Và đặc biệt là không có hột. Ruột quả dày, thơm thơm, lại là trái cây Việt sạch nên vô cùng an toàn. Mời cả nhà lên đơn</p>",
+    "imageUrl": "https://images.f99.com.vn/images/45fac9e9-3079-47ac-b17b-2de5612caeca.jpg",
+    "price": 70000,
+    "oldPrice": 95000,
+    "discountPercent": 26,
+    "stock": 3,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 704,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Để tủ mát giúp hoa quả tươi lâu hơn</p>",
+    "category": {
+      "id": 76,
+      "name": "Roi đỏ",
+      "imageUrl": "https://imgur.com/88gyxXa.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "#man",
+      "#mananphuoc",
+      "#mananphuocxuatkhau"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/45fac9e9-3079-47ac-b17b-2de5612caeca.jpg",
+      "https://images.f99.com.vn/images/bf5b6e85-99bb-42ad-8eac-bed075d4ef74.jpg",
+      "https://images.f99.com.vn/images/61fb31ae-eb9a-46ab-a0c9-64f9bed6e2c2.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/75931",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 704,
+      "sellerRate": 4.2,
+      "sellerName": "Cún Giỏ Minimart",
+      "warehouseId": "eaae98fe-1d93-4a7e-8058-bc29b30ce583",
+      "warehouseAddress": " Hà Nội,  Ba Đình,  Liễu Giai, 228 Đội Cấn",
+      "distance": 1841,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 83135,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Roi Đỏ An Phước",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Roi ngọt, tươi ngon.</p><p>*Trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>* Tên sản phẩm: Dừa xiêm là một trái cây sạch, không chịu ảnh hưởng về thuốc bảo vệ thực vật như các loại trái cây khác. Tuy nhiên trên thị trường hiện nay đã sử dụng hóa chất để làm cho loại trái cây “giếng trời” này thêm hấp dẫn với các chiệu thức đại loại như ngâm thuốc tẩy, tiêm chích đường hóa học vào quả dừa. Chính vì thế để mua dừa xiêm sạch cần mua loại nguyên quả để an toàn hơn.</p><p><br></p><p>👍Cách bảo quản:</p><p>- Bọc kín trong hộp hoặc túi nilon bảo quản trong ngăn mát đối với rau củ quả/ ngăn đá đối với thịt/ cá</p><p>👍Cam kết của HOMEYFOOD đối với khách hàng:</p><p>- Sản phẩm có xuất xứ rõ ràng</p><p>- Quá trình chăn nuôi không sử dụng hóa chất có hại cho sức khỏe</p><p>- Quy trình sơ chế và đóng gói đảm bảo vệ sinh an toàn thực phẩm</p><p>- Cam kết hoàn trả nếu phát hiện sản phẩm thiếu, hỏng</p><p><br></p><p>Với tâm huyết mang đến sản phẩm chất lượng hơn mỗi ngày, chúng mình luôn sẵn sàng lắng nghe phản hồi của các bạn qua:</p><p>Hotline: 082.3232374</p><p>Fanpage: Homeyfood.net</p><p>Website: https://www.homeyfood.net</p><p>Mua hàng tại Shopee: Homeyfood.net</p><p><br></p><p>#homeyfood #dưaxiem</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/aff20e6b-7d40-4bf4-8a11-171646bda087.jpg\",\"https://images.f99.com.vn/images/b04153ac-f8f4-4603-8819-e822f14f0048.jpg\",\"https://images.f99.com.vn/images/c099cdf3-74ba-4325-a0a8-77597c9cfef5.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Roi Đỏ An Phước",
+    "description": "<p>Roi ngọt, tươi ngon.</p><p>*Trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>* Tên sản phẩm: Dừa xiêm là một trái cây sạch, không chịu ảnh hưởng về thuốc bảo vệ thực vật như các loại trái cây khác. Tuy nhiên trên thị trường hiện nay đã sử dụng hóa chất để làm cho loại trái cây “giếng trời” này thêm hấp dẫn với các chiệu thức đại loại như ngâm thuốc tẩy, tiêm chích đường hóa học vào quả dừa. Chính vì thế để mua dừa xiêm sạch cần mua loại nguyên quả để an toàn hơn.</p><p><br></p><p>👍Cách bảo quản:</p><p>- Bọc kín trong hộp hoặc túi nilon bảo quản trong ngăn mát đối với rau củ quả/ ngăn đá đối với thịt/ cá</p><p>👍Cam kết của HOMEYFOOD đối với khách hàng:</p><p>- Sản phẩm có xuất xứ rõ ràng</p><p>- Quá trình chăn nuôi không sử dụng hóa chất có hại cho sức khỏe</p><p>- Quy trình sơ chế và đóng gói đảm bảo vệ sinh an toàn thực phẩm</p><p>- Cam kết hoàn trả nếu phát hiện sản phẩm thiếu, hỏng</p><p><br></p><p>Với tâm huyết mang đến sản phẩm chất lượng hơn mỗi ngày, chúng mình luôn sẵn sàng lắng nghe phản hồi của các bạn qua:</p><p>Hotline: 082.3232374</p><p>Fanpage: Homeyfood.net</p><p>Website: https://www.homeyfood.net</p><p>Mua hàng tại Shopee: Homeyfood.net</p><p><br></p><p>#homeyfood #dưaxiem</p>",
+    "imageUrl": "https://images.f99.com.vn/images/aff20e6b-7d40-4bf4-8a11-171646bda087.jpg",
+    "price": 50000,
+    "oldPrice": 75000,
+    "discountPercent": 33,
+    "stock": 9999,
+    "totalSold": 23,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 240,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 76,
+      "name": "Roi đỏ",
+      "imageUrl": "https://imgur.com/88gyxXa.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/aff20e6b-7d40-4bf4-8a11-171646bda087.jpg",
+      "https://images.f99.com.vn/images/b04153ac-f8f4-4603-8819-e822f14f0048.jpg",
+      "https://images.f99.com.vn/images/c099cdf3-74ba-4325-a0a8-77597c9cfef5.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/83135",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 83136,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 50000,
+        "oldPrice": 75000,
+        "discountPercent": 33,
+        "stock": 9999,
+        "totalSold": 23,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 240,
+      "sellerRate": 4.5,
+      "sellerName": "Homey Fruit & Veg ",
+      "warehouseId": "ccb00cae-e276-4a1b-af4a-ae822ab5c570",
+      "warehouseAddress": "số 52 ngõ 376 Bưởi, Vĩnh Phúc, Ba Đình, Hà Nội",
+      "distance": 3021,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 77.89029707147643,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 91958,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Roi bổ khay",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(70, 70, 70);\">Rồi bổ sẵn kèm muối Chấm Hảo hạng.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/60eba0cf-917d-40a5-a7c2-64dce1c11e11.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"roi\",\"roi khay\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Roi bổ khay",
+    "description": "<p><span style=\"color: rgb(70, 70, 70);\">Rồi bổ sẵn kèm muối Chấm Hảo hạng.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/60eba0cf-917d-40a5-a7c2-64dce1c11e11.jpg",
+    "price": 40000,
+    "oldPrice": 45000,
+    "discountPercent": 11,
+    "stock": 100,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "khay/ 600g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 1022,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 76,
+      "name": "Roi đỏ",
+      "imageUrl": "https://imgur.com/88gyxXa.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "roi",
+      "roi khay"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/60eba0cf-917d-40a5-a7c2-64dce1c11e11.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/91958",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "khay/ 600g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 91959,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "khay/ 600g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "khay/ 600g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "khay/ 600g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 40000,
+        "oldPrice": 45000,
+        "discountPercent": 11,
+        "stock": 100,
+        "totalSold": 1,
+        "unit": "khay/ 600g",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "khay/ 600g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1022,
+      "sellerRate": 4.2,
+      "sellerName": "Hoa quả tươi Khoa Nguyễn",
+      "warehouseId": "e3cfb56b-5090-4205-8216-e6c5cee448df",
+      "warehouseAddress": "298 Đê La Thành nhỏ, Phường Thổ Quan, Quận Đống Đa, Hà Nội,  Thổ Quan,  Đống Đa,  Hà Nội",
+      "distance": 1119,
+      "warehouseDistrict": "dong da",
+      "reputation": 0,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 92271,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Roi Đỏ An Phước",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgba(0, 0, 0, 0.8);\">Quả roi đỏ ngọt đậm tươi mát</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Trái cây tươi rói, quả roi đỏ mọng nhiều nước</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Thơm ngon mát bổ</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Quả mọng nước dinh dưỡng phù hợp để làm đẹp da tăng cường sức đề kháng </span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">#traicaydepda</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">#dadepdangsinh</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">#quaroido</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">#eatclean</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">#anngondangdep</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/5dd7265b-a2e8-4916-ada3-d17f7fe4d5b9.jpg\",\"https://images.f99.com.vn/images/6fcf2760-4e6b-414a-a550-eed9a78959cc.jpg\",\"https://images.f99.com.vn/images/594cef51-4c61-43f4-8dd7-3d30f76db7a1.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"roi\",\"roi đỏ\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Roi Đỏ An Phước",
+    "description": "<p><span style=\"color: rgba(0, 0, 0, 0.8);\">Quả roi đỏ ngọt đậm tươi mát</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Trái cây tươi rói, quả roi đỏ mọng nhiều nước</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Thơm ngon mát bổ</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Quả mọng nước dinh dưỡng phù hợp để làm đẹp da tăng cường sức đề kháng </span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">#traicaydepda</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">#dadepdangsinh</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">#quaroido</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">#eatclean</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">#anngondangdep</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/5dd7265b-a2e8-4916-ada3-d17f7fe4d5b9.jpg",
+    "price": 55000,
+    "oldPrice": 65000,
+    "discountPercent": 15,
+    "stock": 100,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 1023,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 76,
+      "name": "Roi đỏ",
+      "imageUrl": "https://imgur.com/88gyxXa.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "roi",
+      "roi đỏ"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/5dd7265b-a2e8-4916-ada3-d17f7fe4d5b9.jpg",
+      "https://images.f99.com.vn/images/6fcf2760-4e6b-414a-a550-eed9a78959cc.jpg",
+      "https://images.f99.com.vn/images/594cef51-4c61-43f4-8dd7-3d30f76db7a1.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/92271",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "Loại 1",
+          "Loại 2"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 97516,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Loại 1",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Loại 1",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Loại 1",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 60000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 50,
+        "totalSold": 0,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Loại 1"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 97517,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Loại 2",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Loại 2",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Loại 2",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 60000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 50,
+        "totalSold": 0,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Loại 2"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1023,
+      "sellerRate": 4.5,
+      "sellerName": "Minh Lâm",
+      "warehouseId": "ebf381a5-e009-4cd4-8974-e1550c3ba968",
+      "warehouseAddress": "số 146 Nguyễn Đổng Chi, Phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội,  Cầu Diễn,  Nam Từ Liêm,  Hà Nội",
+      "distance": 7348,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 0,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 94238,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Roi đỏ An Phước",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p Class=\"ql-align-center\">&nbsp;</p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Roi An Phước ( Mận An Phước )</strong><span style=\"color: rgb(0, 0, 0);\">&nbsp;có hình dáng giống quả chuông, màu nâu đỏ, sọc dọc mờ, ruột đặc, màu trắng, ăn giòn, ngọt, thơm. Trọng lượng trái trung bình 100 đến 120 gram/trái. Đặc biệt mận không có hạt và có hương thơm đặc trưng.</span></p><p><br></p><p><span style=\"color: rgb(17, 17, 17);\">ROI ĐỎ AN PHƯỚC: Nhiều nước ngọt thanh, ngon hơn khi chấm với muối tôm/ omai</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/28704134-62d7-454d-a979-99d5dbb996c0.jpg\",\"https://images.f99.com.vn/images/74364711-decf-4b2e-9f4d-64ce0ea01012.jpg\",\"https://images.f99.com.vn/images/f85c913a-1de4-4d16-9c65-b216ff2266e4.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Roi đỏ An Phước",
+    "description": "<p Class=\"ql-align-center\">&nbsp;</p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 0, 0);\">Roi An Phước ( Mận An Phước )</strong><span style=\"color: rgb(0, 0, 0);\">&nbsp;có hình dáng giống quả chuông, màu nâu đỏ, sọc dọc mờ, ruột đặc, màu trắng, ăn giòn, ngọt, thơm. Trọng lượng trái trung bình 100 đến 120 gram/trái. Đặc biệt mận không có hạt và có hương thơm đặc trưng.</span></p><p><br></p><p><span style=\"color: rgb(17, 17, 17);\">ROI ĐỎ AN PHƯỚC: Nhiều nước ngọt thanh, ngon hơn khi chấm với muối tôm/ omai</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/28704134-62d7-454d-a979-99d5dbb996c0.jpg",
+    "price": 50000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 0,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 414,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 76,
+      "name": "Roi đỏ",
+      "imageUrl": "https://imgur.com/88gyxXa.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/28704134-62d7-454d-a979-99d5dbb996c0.jpg",
+      "https://images.f99.com.vn/images/74364711-decf-4b2e-9f4d-64ce0ea01012.jpg",
+      "https://images.f99.com.vn/images/f85c913a-1de4-4d16-9c65-b216ff2266e4.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/94238",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 94239,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 50000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 0,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 414,
+      "sellerRate": 4.2,
+      "sellerName": "PHƯƠNG ANH FRESH FRUIT",
+      "warehouseId": "2b3872f1-7f0f-492f-8e42-66d70a659bfc",
+      "warehouseAddress": "Số 81,tổ 4 Phú Đô Nam Từ Liêm Hà Nội",
+      "distance": 7371,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 56.65681345565877,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 94833,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "1kg roi đỏ an phước",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Roi đỏ tươi ngon, ngọt, an để đẹp dáng, đẹp da, giảm cân..............................................</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/112caab0-a778-438e-8767-03c8019f87ed.png\",\"https://images.f99.com.vn/images/4100e4a3-74d5-4d08-a204-303f488caa86.png\",\"https://images.f99.com.vn/images/e7ab40fc-4f65-4271-b633-8db40195f8bc.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "1kg roi đỏ an phước",
+    "description": "<p>Roi đỏ tươi ngon, ngọt, an để đẹp dáng, đẹp da, giảm cân..............................................</p>",
+    "imageUrl": "https://images.f99.com.vn/images/112caab0-a778-438e-8767-03c8019f87ed.png",
+    "price": 89000,
+    "oldPrice": 99000,
+    "discountPercent": 10,
+    "stock": 100,
+    "totalSold": 7,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 359,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ngăn mát tủ lạnh</p>",
+    "category": {
+      "id": 76,
+      "name": "Roi đỏ",
+      "imageUrl": "https://imgur.com/88gyxXa.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/112caab0-a778-438e-8767-03c8019f87ed.png",
+      "https://images.f99.com.vn/images/4100e4a3-74d5-4d08-a204-303f488caa86.png",
+      "https://images.f99.com.vn/images/e7ab40fc-4f65-4271-b633-8db40195f8bc.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/94833",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 94834,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 89000,
+        "oldPrice": 99000,
+        "discountPercent": 10,
+        "stock": 100,
+        "totalSold": 7,
+        "unit": "Kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ngăn mát tủ lạnh</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 359,
+      "sellerRate": 4.4,
+      "sellerName": "Quang Anh- Hoa quả tươi theo mùa",
+      "warehouseId": "b29cda85-3ce5-4127-9c6b-1eb1a04399dc",
+      "warehouseAddress": " Hà Nội,  Hai Bà Trưng,  Vĩnh Tuy, NT9, Ngõ 124 Vĩnh Tuy",
+      "distance": 5482,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 70.9110772740987,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 96321,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Roi An Phước Xuất Khẩu (kg)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Roi An Phước Xuất Khẩu (kg)Roi An Phước Xuất Khẩu (kg)Roi An Phước Xuất Khẩu (kg)Roi An Phước Xuất Khẩu (kg)Roi An Phước Xuất Khẩu (kg)Roi An Phước Xuất Khẩu (kg)Roi An Phước Xuất Khẩu (kg)Roi An Phước Xuất Khẩu (kg)</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/609cbdb2-3963-4895-a40e-320406ee693a.jpg\",\"https://images.f99.com.vn/images/72a54e77-6775-4c63-880c-61973abdbce7.jpg\",\"https://images.f99.com.vn/images/723c630c-8b1c-4537-862c-0e1bfedaa8cc.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Roi An Phước Xuất Khẩu (kg)",
+    "description": "<p>Roi An Phước Xuất Khẩu (kg)Roi An Phước Xuất Khẩu (kg)Roi An Phước Xuất Khẩu (kg)Roi An Phước Xuất Khẩu (kg)Roi An Phước Xuất Khẩu (kg)Roi An Phước Xuất Khẩu (kg)Roi An Phước Xuất Khẩu (kg)Roi An Phước Xuất Khẩu (kg)</p>",
+    "imageUrl": "https://images.f99.com.vn/images/609cbdb2-3963-4895-a40e-320406ee693a.jpg",
+    "price": 70000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 3,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 76,
+      "name": "Roi đỏ",
+      "imageUrl": "https://imgur.com/88gyxXa.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/609cbdb2-3963-4895-a40e-320406ee693a.jpg",
+      "https://images.f99.com.vn/images/72a54e77-6775-4c63-880c-61973abdbce7.jpg",
+      "https://images.f99.com.vn/images/723c630c-8b1c-4537-862c-0e1bfedaa8cc.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/96321",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 96322,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 70000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 3,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

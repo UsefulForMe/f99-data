@@ -1,0 +1,35 @@
+{
+  "id": 924,
+  "name": "Hải sản sạch 45 Hàng Điếu",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/0847b673-727c-4470-8268-74db5319e7ba.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cửa hàng cung cấp các loại tôm, cá, mực cấp đông được đóng gói hút chân không sạch sẽ, đảm bảo vệ sinh an toàn thực phẩm.  Ngoài còn bán sỉ-lẻ Gạo các loại, cung cấp nước mắm cốt làng nghề gia truyền.",
+  "headQuarter": "Số 45 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội",
+  "email": "qquynhchau@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": false,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "06:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

@@ -1,0 +1,35 @@
+{
+  "id": 139,
+  "name": "I Foods",
+  "logo": "https://cdn.f99.link/groupbuy-images/673829e6-6690-4277-aa57-47be07a2c3ae.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "I Foods  - Chuyên bán buôn, bán lẻ các loại hoa quả, thực phẩm nhập khẩu chất lượng tốt, giá cả cạnh tranh. ",
+  "headQuarter": "Số 9 ngõ 36 Trần Điền, Định Công, Hoàng Mai, Hà Nội",
+  "email": "abtiscoo@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "08:15",
+    "closeTime": "17:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 111
+}

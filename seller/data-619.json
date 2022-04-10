@@ -1,0 +1,35 @@
+{
+  "id": 619,
+  "name": "Thanh Fruit",
+  "logo": "https://cdn.f99.link/groupbuy-images/286b3c6c-a0dc-410d-b033-e3f8e140ca78.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Thanh Fruit - chuyên hoa quả vùng miền",
+  "headQuarter": "Số 14 ngõ 38/24/5 Xuân La, Xuân La, Tây Hồ, Hà Nội",
+  "email": "Info.thanhnamson@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "06:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

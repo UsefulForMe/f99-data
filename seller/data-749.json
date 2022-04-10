@@ -1,0 +1,35 @@
+{
+  "id": 749,
+  "name": "FOOD GARDEN",
+  "logo": "https://cdn.f99.link/groupbuy-images/c90cf28e-ea5e-47ea-b0e3-71b6662b7d33.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "- Chuyên Sỉ & Lẻ các loại trái cây\n- Đảm bảo an toàn - Vệ sinh thực phẩm\n- Đặt chất lượng sản phẩm lên hàng đầu\n- Giá cả phải chăng - Hợp lí\n------------------------\nĐ/c: 911/10/7B Quang Trung, Phường 14, Gò Vấp\nThành phố Hồ Chí Minh",
+  "headQuarter": "911/10/7B Quang Trung, 14, Gò Vấp, Hồ Chí Minh",
+  "email": "bfood.bf@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "07:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

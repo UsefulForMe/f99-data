@@ -1,0 +1,35 @@
+{
+  "id": 896,
+  "name": "Ăn Vặt ChanChan",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/ab015b30-2741-45d6-b431-238a0a455af8.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chan Chan chuyên đồ ăn vặt tuổi thơ; đồ ăn theo trend, đảm bảo vệ sinh 100% Inbox đặt hàng hoặc liên hệ 0767346555",
+  "headQuarter": "246 Phan Đình Phùng, 1, Phú Nhuận, Hồ Chí Minh",
+  "email": "vuthihatrang1301@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

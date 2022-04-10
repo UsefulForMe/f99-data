@@ -1,0 +1,35 @@
+{
+  "id": 428,
+  "name": "OMit Mart",
+  "logo": "https://cdn.f99.link/groupbuy-images/6903a6fd-2423-4f79-91d4-d0409252a4af.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Nhà cung cấp hàng đầu thực phẩm sạch trong nước và nhập khẩu- Chuyên nhận hàng tận gốc và giao buôn tại khu công nghiệp Mê Linh - Vĩnh Phúc\n\nNay chính thức mở cửa hàng BÁN BUÔN - BÁN LẺ  tại Hà Đông\n\nCam kết với các nhà hàng và ace mua lẻ :\n👉👉👉 Giá tốt nhất - Chất lượng đảm bảo - Nguồn gốc rõ ràng - Mặt hàng phong phú",
+  "headQuarter": "Lô B1-02 khu nhà 24H Tố Hữu, Vạn Phúc, Hà Đông, Hà Nội",
+  "email": "ponynguyen82@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.6,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 22
+}

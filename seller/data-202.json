@@ -1,0 +1,35 @@
+{
+  "id": 202,
+  "name": "KaMart",
+  "logo": "https://cdn.f99.link/groupbuy-images/2ae30070-bd96-4277-9663-0b94ce9839da.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "KaMart viết tắt thành K.M lại mang một ý nghĩa đó chính là Khỏe Mạnh. Đúng với câu slogan “cái gì tốt cho sức khỏe KaMart đều bán”",
+  "headQuarter": "83 Phủ Doãn, Hàng Trống, Hoàn Kiếm, Hà Nội",
+  "email": "kamartviet@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.8,
+  "availableTime": {
+    "openTime": "07:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 10
+}

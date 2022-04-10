@@ -1,0 +1,3954 @@
+[
+  {
+    "id": 8270,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Gạo xát trắng 3kg",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Gạo xát trắng 3kg</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/1be1923f54cb447797e3dcd528adb4c6.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Gạo xát trắng 3kg",
+    "description": "<p>Gạo xát trắng 3kg</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/1be1923f54cb447797e3dcd528adb4c6.jpg",
+    "price": 120000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Bịch",
+    "sku": "0000001002365",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 114,
+      "name": "Gạo",
+      "imageUrl": "https://images.f99.com.vn/notification-images/8b02132b-3ce4-4626-a238-490fe0d01472.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/1be1923f54cb447797e3dcd528adb4c6.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8270",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8353,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Gạo Từ Tâm 5kg",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Gạo Từ Tâm 5kg</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/923f7696-8f3b-41c1-8ed3-4b1bd8507e81.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Gạo Từ Tâm 5kg",
+    "description": "<p>Gạo Từ Tâm 5kg</p>",
+    "imageUrl": "https://images.f99.com.vn/images/923f7696-8f3b-41c1-8ed3-4b1bd8507e81.png",
+    "price": 77000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 66,
+    "maxQuantityPerUser": null,
+    "unit": "Bao",
+    "sku": "8936121050179",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p>s</p>",
+    "category": {
+      "id": 114,
+      "name": "Gạo",
+      "imageUrl": "https://images.f99.com.vn/notification-images/8b02132b-3ce4-4626-a238-490fe0d01472.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/923f7696-8f3b-41c1-8ed3-4b1bd8507e81.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8353",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8364,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Gạo thơm Đậm Đà ST24 5kg",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Gạo thơm Đậm Đà ST24 5kg</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/9e2ce498ca984d2393b62225c516ee09.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Gạo thơm Đậm Đà ST24 5kg",
+    "description": "<p>Gạo thơm Đậm Đà ST24 5kg</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/9e2ce498ca984d2393b62225c516ee09.jpg",
+    "price": 135000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 9,
+    "maxQuantityPerUser": null,
+    "unit": "Gói",
+    "sku": "8936121050056",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 114,
+      "name": "Gạo",
+      "imageUrl": "https://images.f99.com.vn/notification-images/8b02132b-3ce4-4626-a238-490fe0d01472.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/9e2ce498ca984d2393b62225c516ee09.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8364",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8367,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Gạo Tám Sông Hồng 5kg",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Gạo Tám Sông Hồng 5kg</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/dc38a54a84d2441e88ccb25ee21f7073.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Gạo Tám Sông Hồng 5kg",
+    "description": "<p>Gạo Tám Sông Hồng 5kg</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/dc38a54a84d2441e88ccb25ee21f7073.png",
+    "price": 179000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 4,
+    "maxQuantityPerUser": null,
+    "unit": "Bao",
+    "sku": "8936121050223",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 114,
+      "name": "Gạo",
+      "imageUrl": "https://images.f99.com.vn/notification-images/8b02132b-3ce4-4626-a238-490fe0d01472.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/dc38a54a84d2441e88ccb25ee21f7073.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8367",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 12090,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cá Hồi Na Uy Phi Lê",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Hãng sản xuất: SALMAR NA UY</p><p>Quy cách đóng gói : 300g – 500g- 01kg/ gói ( theo yêu cầu của quý khách)</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/05b0af5b-45cc-4f88-b7c1-72bc8a55c1da.jpeg\",\"https://images.f99.com.vn/images/6cf9e0ac-beec-4019-9253-7a69210fbb32.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cá Hồi Na Uy Phi Lê",
+    "description": "<p>Hãng sản xuất: SALMAR NA UY</p><p>Quy cách đóng gói : 300g – 500g- 01kg/ gói ( theo yêu cầu của quý khách)</p>",
+    "imageUrl": "https://images.f99.com.vn/images/05b0af5b-45cc-4f88-b7c1-72bc8a55c1da.jpeg",
+    "price": 599000,
+    "oldPrice": 625000,
+    "discountPercent": 4,
+    "stock": 100,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 212,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>HƯỚNG DẪN SỬ DỤNG</p><p>Cá hồi có thể sử dụng các món gỏi sống &amp; chế biến chín</p><ul><li>Sashimi</li><li>Cá hồi sốt cam</li><li>Cá hồi ngâm tương</li><li>Salad cá hồi</li><li>Cá hồi rán, chiên, nướng…</li></ul><p>BẢO QUẢN: Ngăn mát tủ lạnh ( 1-2 ngày). Sau thời gian trên cần phải cấp đông trong ngăn đá</p>",
+    "category": {
+      "id": 114,
+      "name": "Gạo",
+      "imageUrl": "https://images.f99.com.vn/notification-images/8b02132b-3ce4-4626-a238-490fe0d01472.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/05b0af5b-45cc-4f88-b7c1-72bc8a55c1da.jpeg",
+      "https://images.f99.com.vn/images/6cf9e0ac-beec-4019-9253-7a69210fbb32.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12090",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 56150,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 599000,
+        "oldPrice": 625000,
+        "discountPercent": 4,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>HƯỚNG DẪN SỬ DỤNG</p><p>Cá hồi có thể sử dụng các món gỏi sống &amp; chế biến chín</p><ul><li>Sashimi</li><li>Cá hồi sốt cam</li><li>Cá hồi ngâm tương</li><li>Salad cá hồi</li><li>Cá hồi rán, chiên, nướng…</li></ul><p>BẢO QUẢN: Ngăn mát tủ lạnh ( 1-2 ngày). Sau thời gian trên cần phải cấp đông trong ngăn đá</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 212,
+      "sellerRate": 3.7,
+      "sellerName": "Vietworld Food",
+      "warehouseId": "85a9e9ff-539f-4ee5-afd5-c2a8e4a81f08",
+      "warehouseAddress": "119 Yên Lãng, Thịnh Quang, Đống Đa, Hà Nội",
+      "distance": 2673,
+      "warehouseDistrict": "dong da",
+      "reputation": 50.357603174603405,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 12266,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "CÁ HỒI NAUY TƯƠI FILLET",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p class=\"ql-align-justify\">Cá hồi Nauy Đại Tây Dương là loại hải sản được hãng Salmar / Leroy hàng đầu thế giới cung cấp. Hiện tại Cá hồi Nauy&nbsp;đã xuất hiện ở rất nhiều quốc gia khác nhau và được nhiều thực khách tin tưởng lựa chọn.</p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">Cá hồi Nauy được nuôi trong môi trường biển tự nhiên của Nauy nằm ở Bắc Đại Tây Dương. Quá trình chăn nuôi được quản lý nghiêm ngặt từ khi chúng còn trong trứng tới khi trưởng thành, nguồn Protein cung cấp từ thức ăn cho cá đảm bảo an toàn và lành mạnh giữ cho cá hồi sạch cũng như tác động tới môi trường biển là nhỏ nhất.</p><p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Cung cấp nguồn cá hồi sạch và là cơ sở sản xuất cá hồi trên khắp Châu Âu – Cá hồi Nauy được sản xuất quanh năm, phần lớn chúng được nuôi tại biển Nauy - phía Bắc Đại Tây Dương nơi có khí hậu lạnh quanh năm, bù lại nguồn nước trong sạch và môi trường tự nhiên tạo điều kiện thuận lợi cho cá hồi phát triển với chất lượng cao nhất.</span></p><p class=\"ql-align-justify\">&nbsp;</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/d7f9bd01-ed05-4320-8f58-90e71e5e4e48.jpg\",\"https://images.f99.com.vn/images/d2672eb4-d4b8-4efd-99ce-aadd15a2f095.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "CÁ HỒI NAUY TƯƠI FILLET",
+    "description": "<p class=\"ql-align-justify\">Cá hồi Nauy Đại Tây Dương là loại hải sản được hãng Salmar / Leroy hàng đầu thế giới cung cấp. Hiện tại Cá hồi Nauy&nbsp;đã xuất hiện ở rất nhiều quốc gia khác nhau và được nhiều thực khách tin tưởng lựa chọn.</p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">Cá hồi Nauy được nuôi trong môi trường biển tự nhiên của Nauy nằm ở Bắc Đại Tây Dương. Quá trình chăn nuôi được quản lý nghiêm ngặt từ khi chúng còn trong trứng tới khi trưởng thành, nguồn Protein cung cấp từ thức ăn cho cá đảm bảo an toàn và lành mạnh giữ cho cá hồi sạch cũng như tác động tới môi trường biển là nhỏ nhất.</p><p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Cung cấp nguồn cá hồi sạch và là cơ sở sản xuất cá hồi trên khắp Châu Âu – Cá hồi Nauy được sản xuất quanh năm, phần lớn chúng được nuôi tại biển Nauy - phía Bắc Đại Tây Dương nơi có khí hậu lạnh quanh năm, bù lại nguồn nước trong sạch và môi trường tự nhiên tạo điều kiện thuận lợi cho cá hồi phát triển với chất lượng cao nhất.</span></p><p class=\"ql-align-justify\">&nbsp;</p>",
+    "imageUrl": "https://images.f99.com.vn/images/d7f9bd01-ed05-4320-8f58-90e71e5e4e48.jpg",
+    "price": 530000,
+    "oldPrice": 560000,
+    "discountPercent": 5,
+    "stock": 450,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "15",
+    "origin": "",
+    "sellerId": 199,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Cắt đóng gói từ 300gr trở lên</p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo Quản ở tủ mát, nhiệt độ 0-5 độ C và sử dụng 02 ngày kể từ ngày đóng gói</span></p>",
+    "category": {
+      "id": 114,
+      "name": "Gạo",
+      "imageUrl": "https://images.f99.com.vn/notification-images/8b02132b-3ce4-4626-a238-490fe0d01472.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/d7f9bd01-ed05-4320-8f58-90e71e5e4e48.jpg",
+      "https://images.f99.com.vn/images/d2672eb4-d4b8-4efd-99ce-aadd15a2f095.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12266",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg",
+          "300g",
+          "500g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 13574,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "300g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "300g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "300g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 159000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 150,
+        "totalSold": 2,
+        "unit": "kg",
+        "sku": "15",
+        "rating": 0,
+        "instructions": "<p>Cắt đóng gói từ 300gr trở lên</p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo Quản ở tủ mát, nhiệt độ 0-5 độ C và sử dụng 02 ngày kể từ ngày đóng gói</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "300g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 13575,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 265000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 150,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "15",
+        "rating": 0,
+        "instructions": "<p>Cắt đóng gói từ 300gr trở lên</p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo Quản ở tủ mát, nhiệt độ 0-5 độ C và sử dụng 02 ngày kể từ ngày đóng gói</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 13576,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 530000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 150,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "15",
+        "rating": 0,
+        "instructions": "<p>Cắt đóng gói từ 300gr trở lên</p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo Quản ở tủ mát, nhiệt độ 0-5 độ C và sử dụng 02 ngày kể từ ngày đóng gói</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 199,
+      "sellerRate": 4.8,
+      "sellerName": "Gia Ngọc Food",
+      "warehouseId": "9c609183-75f3-4519-820d-7294582e0824",
+      "warehouseAddress": "cau giay, cau giay, Số 26 ngõ 115 nguyễn khang -cầu giấy -hà nội ",
+      "distance": 3625,
+      "warehouseDistrict": "cau giay",
+      "reputation": 79.89783769773578,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 12525,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "gạo st25 vinaseed bao 10kg",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/614f6b55-75e5-4ed1-b87a-7288d32ce082.jpg\",\"https://images.f99.com.vn/images/eabfdbb7-6c97-4aaa-a98b-549c313ac5cc.jpg\",\"https://images.f99.com.vn/images/bd009471-b447-46bb-9713-4c8b414450c2.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgba(0, 0, 0, 0.8);\">Giống lúa ST25 đạt giải thưởng gạo ngon nhất thế giới năm 2019.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Cơm dẻo, mềm và thơm dứa, nở ít, hạt xếp đều bắt mắt.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Được Vinaseed sản xuất từ vùng nguyên liệu lúa tôm, đạt tiêu chuẩn xuất khẩu Châu Âu.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Không chất kích thích tăng trưởng, không chất bảo quản, không hoá chất tẩy trắng, tạo mùi</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Gieo trồng từ giống lúa ST25 thuần chủng được anh hùng lao động Hồ Quang Cua lai tạo cho hạt gạo dài, mặt gạo trắng, mềm, ngọt dẻo cơm, thơm thoảng hương lá dứa.</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">ST25 là một niềm tự hào cho nền nông nhiệp nước nhà và cũng là sự tự hào của người Việt Nam.</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">St25 được chúng tôi mang đến cho bạn với chất lượng sản phẩm đạt chuẩn. Từ khâu gieo trồng đến đóng gói, Gạo Đệ Nhất chắc chắn sẽ không khiến bạn thất vọng!</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Thành phần:</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">100% gạo ST25 tự nhiên</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "gạo st25 vinaseed bao 10kg",
+    "description": "<p><span style=\"color: rgba(0, 0, 0, 0.8);\">Giống lúa ST25 đạt giải thưởng gạo ngon nhất thế giới năm 2019.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Cơm dẻo, mềm và thơm dứa, nở ít, hạt xếp đều bắt mắt.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Được Vinaseed sản xuất từ vùng nguyên liệu lúa tôm, đạt tiêu chuẩn xuất khẩu Châu Âu.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Không chất kích thích tăng trưởng, không chất bảo quản, không hoá chất tẩy trắng, tạo mùi</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Gieo trồng từ giống lúa ST25 thuần chủng được anh hùng lao động Hồ Quang Cua lai tạo cho hạt gạo dài, mặt gạo trắng, mềm, ngọt dẻo cơm, thơm thoảng hương lá dứa.</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">ST25 là một niềm tự hào cho nền nông nhiệp nước nhà và cũng là sự tự hào của người Việt Nam.</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">St25 được chúng tôi mang đến cho bạn với chất lượng sản phẩm đạt chuẩn. Từ khâu gieo trồng đến đóng gói, Gạo Đệ Nhất chắc chắn sẽ không khiến bạn thất vọng!</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Thành phần:</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">100% gạo ST25 tự nhiên</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/614f6b55-75e5-4ed1-b87a-7288d32ce082.jpg",
+    "price": 270000,
+    "oldPrice": 370000,
+    "discountPercent": 27,
+    "stock": 40,
+    "totalSold": 10,
+    "maxQuantityPerUser": null,
+    "unit": "10kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 130,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 114,
+      "name": "Gạo",
+      "imageUrl": "https://images.f99.com.vn/notification-images/8b02132b-3ce4-4626-a238-490fe0d01472.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/614f6b55-75e5-4ed1-b87a-7288d32ce082.jpg",
+      "https://images.f99.com.vn/images/eabfdbb7-6c97-4aaa-a98b-549c313ac5cc.jpg",
+      "https://images.f99.com.vn/images/bd009471-b447-46bb-9713-4c8b414450c2.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12525",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "10kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 63585,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "10kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "10kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "10kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 270000,
+        "oldPrice": 370000,
+        "discountPercent": 27,
+        "stock": 40,
+        "totalSold": 10,
+        "unit": "10kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "10kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 130,
+      "sellerRate": 4.8,
+      "sellerName": "Nông trại Hải Linh",
+      "warehouseId": "bc98c8f8-4787-42c0-91ca-aaa4baf4e0fd",
+      "warehouseAddress": "Số 156 Trung Kính, Yên Hòa, Cầu Giấy, Hà Nội",
+      "distance": 4447,
+      "warehouseDistrict": "cau giay",
+      "reputation": 81.8303070707075,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15320,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Gạo ST25 ông Cua chính hãng có tem truy xuất (túi 5kg)- VIHAFOOD",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><a href=\"https://tuoitre.vn/st25-dang-so-1-the-gioi-gio-so-2-noi-sao-cho-nguoi-ta-hieu-day-20201208182627632.htm\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(40, 138, 214);\">Gạo ST25</a>&nbsp;hay còn được gọi là gạo thơm Sóc Trăng, là kết quả nghiên cứu suốt 20 năm của kỹ sư&nbsp;<a href=\"https://dantri.com.vn/xa-hoi/ky-su-ho-quang-cua-tu-cay-lua-la-den-giong-gao-ngon-nhat-the-gioi-20200127141409390.htm\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(40, 138, 214);\">Hồ Quang Cua</a>. Giống ST25 là thế hệ mới nhất của dòng lúa thơm lừng danh với nhiều phẩm chất được xếp vào hàng \"thượng hạng\". Từ việc tuyển chọn hạt giống đến việc gieo trồng đều tuân thủ các nguyên tắc nghiêm ngặt của quy trình sản xuất gạo Organic để cho ra hạt gạo cao sản sạch và an toàn sức khỏe.</p><p>Chất lượng của gạo ST25 đã được công nhận trên trường quốc tế khi xuất sắc đạt danh hiệu \"<a href=\"http://bizhub.vn/news/viet-nams-rice-crowned-the-best-at-2019-world-rice-conference_310902.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(40, 138, 214);\">Gạo ngon nhất thế giới 2019</a>\" và giành giải nhì tại cuộc thi \"<a href=\"http://ven.vn/vietnamese-rice-ranked-second-at-worlds-best-rice-contest-2020-44088.html#:~:text=According%20to%20Vice%20Chairman%20of,2020%20World's%20Best%20Rice%20Contest.\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(40, 138, 214);\">Gạo ngon nhất thế giới 2020</a>\" được tổ chức tại Mỹ, điều này đã khẳng định phẩm cấp thượng hạng của hạt gạo Việt Nam.</p><p><br></p><p>Có tem truy xuất trên mỗi bao gạo</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/c92ee86c-c368-41d7-a8d8-36ef1a312daa.jpg\",\"https://images.f99.com.vn/images/ef5d1f3f-5c66-4add-9d21-fd536b9dc2d7.jpg\",\"https://images.f99.com.vn/images/4c56d3de-4a26-4233-a1ad-480191358b65.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Gạo ST25 ông Cua chính hãng có tem truy xuất (túi 5kg)- VIHAFOOD",
+    "description": "<p><a href=\"https://tuoitre.vn/st25-dang-so-1-the-gioi-gio-so-2-noi-sao-cho-nguoi-ta-hieu-day-20201208182627632.htm\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(40, 138, 214);\">Gạo ST25</a>&nbsp;hay còn được gọi là gạo thơm Sóc Trăng, là kết quả nghiên cứu suốt 20 năm của kỹ sư&nbsp;<a href=\"https://dantri.com.vn/xa-hoi/ky-su-ho-quang-cua-tu-cay-lua-la-den-giong-gao-ngon-nhat-the-gioi-20200127141409390.htm\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(40, 138, 214);\">Hồ Quang Cua</a>. Giống ST25 là thế hệ mới nhất của dòng lúa thơm lừng danh với nhiều phẩm chất được xếp vào hàng \"thượng hạng\". Từ việc tuyển chọn hạt giống đến việc gieo trồng đều tuân thủ các nguyên tắc nghiêm ngặt của quy trình sản xuất gạo Organic để cho ra hạt gạo cao sản sạch và an toàn sức khỏe.</p><p>Chất lượng của gạo ST25 đã được công nhận trên trường quốc tế khi xuất sắc đạt danh hiệu \"<a href=\"http://bizhub.vn/news/viet-nams-rice-crowned-the-best-at-2019-world-rice-conference_310902.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(40, 138, 214);\">Gạo ngon nhất thế giới 2019</a>\" và giành giải nhì tại cuộc thi \"<a href=\"http://ven.vn/vietnamese-rice-ranked-second-at-worlds-best-rice-contest-2020-44088.html#:~:text=According%20to%20Vice%20Chairman%20of,2020%20World's%20Best%20Rice%20Contest.\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(40, 138, 214);\">Gạo ngon nhất thế giới 2020</a>\" được tổ chức tại Mỹ, điều này đã khẳng định phẩm cấp thượng hạng của hạt gạo Việt Nam.</p><p><br></p><p>Có tem truy xuất trên mỗi bao gạo</p>",
+    "imageUrl": "https://images.f99.com.vn/images/c92ee86c-c368-41d7-a8d8-36ef1a312daa.jpg",
+    "price": 180000,
+    "oldPrice": 210000,
+    "discountPercent": 14,
+    "stock": 50,
+    "totalSold": 62,
+    "maxQuantityPerUser": null,
+    "unit": "Túi",
+    "sku": "G01",
+    "origin": "",
+    "sellerId": 244,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô thoáng, sử dụng trong vòng 6 tháng kể từ ngày sản xuất</p>",
+    "category": {
+      "id": 114,
+      "name": "Gạo",
+      "imageUrl": "https://images.f99.com.vn/notification-images/8b02132b-3ce4-4626-a238-490fe0d01472.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/c92ee86c-c368-41d7-a8d8-36ef1a312daa.jpg",
+      "https://images.f99.com.vn/images/ef5d1f3f-5c66-4add-9d21-fd536b9dc2d7.jpg",
+      "https://images.f99.com.vn/images/4c56d3de-4a26-4233-a1ad-480191358b65.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15320",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Túi"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 79406,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Túi",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Túi",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Túi",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 180000,
+        "oldPrice": 210000,
+        "discountPercent": 14,
+        "stock": 50,
+        "totalSold": 62,
+        "unit": "Túi",
+        "sku": "G01",
+        "rating": 0,
+        "instructions": "<p>Bảo quản nơi khô thoáng, sử dụng trong vòng 6 tháng kể từ ngày sản xuất</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Túi"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 244,
+      "sellerRate": 4.7,
+      "sellerName": "VIHAFOOD - Đặc sản vùng miền",
+      "warehouseId": "cf85b1b1-6f2a-49b3-b125-e261f6bfc30a",
+      "warehouseAddress": "111 Phố Đội Cấn, Ba Đình, Hà Nội",
+      "distance": 1098,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 80.86123101095345,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15912,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Gạo Tám Thái (dẻo thơm) -VIHAFOOD",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgba(0, 0, 0, 0.8);\">Gạo có mùi thơm đặc trưng, vị ngọt thanh và cơm dẻo Gạo có màu trắng đục khác so với các loại gạo tám thường ở Việt Nam, cơm thơm và mềm ngay cả khi bị nguội.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Đặc điểm nổi bật: Hạt gạo nhỏ, dài và đều. Hạt gạo căng bóng và thơm, mùi thơm không chỉ có khi nấu chín mà ngay từ khi còn lạ hạt gạo đã thơm một cách lạ thường.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/ead3577d-6ca9-473e-9146-97975df9aaa6.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Gạo Tám Thái (dẻo thơm) -VIHAFOOD",
+    "description": "<p><span style=\"color: rgba(0, 0, 0, 0.8);\">Gạo có mùi thơm đặc trưng, vị ngọt thanh và cơm dẻo Gạo có màu trắng đục khác so với các loại gạo tám thường ở Việt Nam, cơm thơm và mềm ngay cả khi bị nguội.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Đặc điểm nổi bật: Hạt gạo nhỏ, dài và đều. Hạt gạo căng bóng và thơm, mùi thơm không chỉ có khi nấu chín mà ngay từ khi còn lạ hạt gạo đã thơm một cách lạ thường.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/ead3577d-6ca9-473e-9146-97975df9aaa6.jpg",
+    "price": 180000,
+    "oldPrice": 200000,
+    "discountPercent": 10,
+    "stock": 1000,
+    "totalSold": 20,
+    "maxQuantityPerUser": null,
+    "unit": "10kg",
+    "sku": "GT1",
+    "origin": "",
+    "sellerId": 244,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô thoáng</p>",
+    "category": {
+      "id": 114,
+      "name": "Gạo",
+      "imageUrl": "https://images.f99.com.vn/notification-images/8b02132b-3ce4-4626-a238-490fe0d01472.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/ead3577d-6ca9-473e-9146-97975df9aaa6.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15912",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "10kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 73105,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "10kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "10kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "10kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 180000,
+        "oldPrice": 200000,
+        "discountPercent": 10,
+        "stock": 1000,
+        "totalSold": 20,
+        "unit": "10kg",
+        "sku": "GT1",
+        "rating": 0,
+        "instructions": "<p>Bảo quản nơi khô thoáng</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "10kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 244,
+      "sellerRate": 4.7,
+      "sellerName": "VIHAFOOD - Đặc sản vùng miền",
+      "warehouseId": "cf85b1b1-6f2a-49b3-b125-e261f6bfc30a",
+      "warehouseAddress": "111 Phố Đội Cấn, Ba Đình, Hà Nội",
+      "distance": 1098,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 80.86123101095345,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 17437,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Gạo Tám Điện Biên - VIHAFOOD",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgb(25, 26, 25);\">Gạo tá Điện Biên </strong><span style=\"color: rgb(25, 26, 25);\">là loại gạo thơm ngon, dẻo. Những hạt tám thơm Điện Biên nhỏ, đều, căng bóng nhưng khi nấu lại cho ra những chén cơm thơm phức, dẻo ngọt. Gạo tám Điện Biên được yêu thích cũng vì hương vị thơm ngon của nó. </span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/b1c05279-9fcd-4eb3-aea1-fadb72362bbf.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Gạo Tám Điện Biên - VIHAFOOD",
+    "description": "<p><strong style=\"color: rgb(25, 26, 25);\">Gạo tá Điện Biên </strong><span style=\"color: rgb(25, 26, 25);\">là loại gạo thơm ngon, dẻo. Những hạt tám thơm Điện Biên nhỏ, đều, căng bóng nhưng khi nấu lại cho ra những chén cơm thơm phức, dẻo ngọt. Gạo tám Điện Biên được yêu thích cũng vì hương vị thơm ngon của nó. </span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/b1c05279-9fcd-4eb3-aea1-fadb72362bbf.jpg",
+    "price": 170000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1000,
+    "totalSold": 42,
+    "maxQuantityPerUser": null,
+    "unit": "10kg",
+    "sku": "GDB",
+    "origin": "",
+    "sellerId": 244,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô thoáng</p>",
+    "category": {
+      "id": 114,
+      "name": "Gạo",
+      "imageUrl": "https://images.f99.com.vn/notification-images/8b02132b-3ce4-4626-a238-490fe0d01472.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/b1c05279-9fcd-4eb3-aea1-fadb72362bbf.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/17437",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "10kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 78773,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "10kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "10kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "10kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 170000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 1000,
+        "totalSold": 42,
+        "unit": "10kg",
+        "sku": "GDB",
+        "rating": 0,
+        "instructions": "<p>Bảo quản nơi khô thoáng</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "10kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 244,
+      "sellerRate": 4.7,
+      "sellerName": "VIHAFOOD - Đặc sản vùng miền",
+      "warehouseId": "cf85b1b1-6f2a-49b3-b125-e261f6bfc30a",
+      "warehouseAddress": "111 Phố Đội Cấn, Ba Đình, Hà Nội",
+      "distance": 1098,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 80.86123101095345,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 17472,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Gạo ST25 sóc trăng bao 10kg - VIHAFOOD",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(0, 0, 0);\">Gạo ST25 hay còn được gọi là loại gạo thơm Sóc Trăng, là kết quả nghiên cứu suốt gần 20 năm của kỹ sư Hồ Quang Cua. Giống ST25 chính là thế hệ mới nhất của dòng lúa thơm lừng danh với nhiều phẩm chất được xếp vào hàng “thượng hạng”. Chất lượng về gạo ST25 đã được công nhận trên trường quốc tế khi xuất sắc đạt danh hiệu về “Gạo ngon nhất thế giới 2019” và giành giải nhì tại cuộc thi “Gạo ngon nhất thế giới 2020” được tổ chức tại Mỹ, điều này đã khẳng định về phẩm cấp thượng hạng của hạt gạo Việt Nam. Từ việc tuyển chọn về hạt giống đến việc gieo trồng đều tuân thủ các nguyên tắc nghiêm ngặt của quy trình sản xuất gạo Organic để cho ra hạt gạo cao sản sạch và an toàn sức khỏe người dùng.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/1344a696-37a7-4ec5-a4e4-6a64e2589af6.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Gạo ST25 sóc trăng bao 10kg - VIHAFOOD",
+    "description": "<p><span style=\"color: rgb(0, 0, 0);\">Gạo ST25 hay còn được gọi là loại gạo thơm Sóc Trăng, là kết quả nghiên cứu suốt gần 20 năm của kỹ sư Hồ Quang Cua. Giống ST25 chính là thế hệ mới nhất của dòng lúa thơm lừng danh với nhiều phẩm chất được xếp vào hàng “thượng hạng”. Chất lượng về gạo ST25 đã được công nhận trên trường quốc tế khi xuất sắc đạt danh hiệu về “Gạo ngon nhất thế giới 2019” và giành giải nhì tại cuộc thi “Gạo ngon nhất thế giới 2020” được tổ chức tại Mỹ, điều này đã khẳng định về phẩm cấp thượng hạng của hạt gạo Việt Nam. Từ việc tuyển chọn về hạt giống đến việc gieo trồng đều tuân thủ các nguyên tắc nghiêm ngặt của quy trình sản xuất gạo Organic để cho ra hạt gạo cao sản sạch và an toàn sức khỏe người dùng.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/1344a696-37a7-4ec5-a4e4-6a64e2589af6.jpg",
+    "price": 220000,
+    "oldPrice": 260000,
+    "discountPercent": 15,
+    "stock": 100,
+    "totalSold": 30,
+    "maxQuantityPerUser": null,
+    "unit": "10kg",
+    "sku": "G",
+    "origin": "",
+    "sellerId": 244,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô thoáng</p>",
+    "category": {
+      "id": 114,
+      "name": "Gạo",
+      "imageUrl": "https://images.f99.com.vn/notification-images/8b02132b-3ce4-4626-a238-490fe0d01472.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/1344a696-37a7-4ec5-a4e4-6a64e2589af6.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/17472",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "10kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 53678,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "10kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "10kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "10kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 220000,
+        "oldPrice": 260000,
+        "discountPercent": 15,
+        "stock": 100,
+        "totalSold": 30,
+        "unit": "10kg",
+        "sku": "G",
+        "rating": 0,
+        "instructions": "<p>Bảo quản nơi khô thoáng</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "10kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 244,
+      "sellerRate": 4.7,
+      "sellerName": "VIHAFOOD - Đặc sản vùng miền",
+      "warehouseId": "cf85b1b1-6f2a-49b3-b125-e261f6bfc30a",
+      "warehouseAddress": "111 Phố Đội Cấn, Ba Đình, Hà Nội",
+      "distance": 1098,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 80.86123101095345,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 27616,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Gạo Bắc Hương Nam Định",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(5, 5, 5);\">Shop cung cấp 1 số thông tin để bạn có thể lựa chọn được đúng loại gạo Bắc Hương Nam Định:</span></p><p><br></p><p><span style=\"color: rgb(5, 5, 5);\"> - Gạo Bắc Hương Nam Định có độ dài hạt vừa phải, không quá dài và to, hạt mỏng, có màu trắng đục, có mùi thơm dịu nhẹ tự nhiên, hạt cơm ăn thấy đậm</span></p><p><br></p><p><span style=\"color: rgb(5, 5, 5);\">- Và đặc biệt khi để cơm nguội vẫn dẻo.</span></p><p><br></p><p>ĐT/Zalo: 0984 221 871</p><p>Địa chỉ: Số 11, ngõ 64 đường Kim Giang, Kim Giang, Thanh Xuân, Hà Nội&nbsp;</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/79ea6464-4a54-49c1-80a6-a333c7d890ff.jpg\",\"https://images.f99.com.vn/images/6fe9889d-2952-46a7-9d65-b8fa3cdba1d7.jpg\",\"https://images.f99.com.vn/images/9d2043ae-9b17-4b1c-a5c3-4aeb65113aa1.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Gạo Bắc Hương Nam Định",
+    "description": "<p><span style=\"color: rgb(5, 5, 5);\">Shop cung cấp 1 số thông tin để bạn có thể lựa chọn được đúng loại gạo Bắc Hương Nam Định:</span></p><p><br></p><p><span style=\"color: rgb(5, 5, 5);\"> - Gạo Bắc Hương Nam Định có độ dài hạt vừa phải, không quá dài và to, hạt mỏng, có màu trắng đục, có mùi thơm dịu nhẹ tự nhiên, hạt cơm ăn thấy đậm</span></p><p><br></p><p><span style=\"color: rgb(5, 5, 5);\">- Và đặc biệt khi để cơm nguội vẫn dẻo.</span></p><p><br></p><p>ĐT/Zalo: 0984 221 871</p><p>Địa chỉ: Số 11, ngõ 64 đường Kim Giang, Kim Giang, Thanh Xuân, Hà Nội&nbsp;</p>",
+    "imageUrl": "https://images.f99.com.vn/images/79ea6464-4a54-49c1-80a6-a333c7d890ff.jpg",
+    "price": 160000,
+    "oldPrice": 190000,
+    "discountPercent": 16,
+    "stock": 1000,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "bao 10kg",
+    "sku": "GAO001",
+    "origin": "",
+    "sellerId": 446,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<ul><li>Để trong thùng kín tránh: chuột, gián, côn trùng xâm nhập</li><li>Để nơi khô ráo, tránh ẩm mốc vì gạo hút ẩm</li><li>Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</li><li>Quý khách&nbsp;phản hồi sản phẩm vui lòng liên hệ</li></ul><p>Hotline: 0984 221 871</p><p>Địa chỉ: Số 11 ngõ 64 đường Kim Giang, Thanh Xuân, Hà Nội</p>",
+    "category": {
+      "id": 114,
+      "name": "Gạo",
+      "imageUrl": "https://images.f99.com.vn/notification-images/8b02132b-3ce4-4626-a238-490fe0d01472.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/79ea6464-4a54-49c1-80a6-a333c7d890ff.jpg",
+      "https://images.f99.com.vn/images/6fe9889d-2952-46a7-9d65-b8fa3cdba1d7.jpg",
+      "https://images.f99.com.vn/images/9d2043ae-9b17-4b1c-a5c3-4aeb65113aa1.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/27616",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "bao 10kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 89992,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "bao 10kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "bao 10kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "bao 10kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 160000,
+        "oldPrice": 190000,
+        "discountPercent": 16,
+        "stock": 1000,
+        "totalSold": 2,
+        "unit": "bao 10kg",
+        "sku": "GAO001",
+        "rating": 0,
+        "instructions": "<ul><li>Để trong thùng kín tránh: chuột, gián, côn trùng xâm nhập</li><li>Để nơi khô ráo, tránh ẩm mốc vì gạo hút ẩm</li><li>Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</li><li>Quý khách&nbsp;phản hồi sản phẩm vui lòng liên hệ</li></ul><p>Hotline: 0984 221 871</p><p>Địa chỉ: Số 11 ngõ 64 đường Kim Giang, Thanh Xuân, Hà Nội</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "bao 10kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 446,
+      "sellerRate": 4.6,
+      "sellerName": "GIA LONG FOOD",
+      "warehouseId": "a207ee41-80ab-4e6e-ac87-07de3e26e078",
+      "warehouseAddress": "Số 11, ngõ 64 đường Kim Giang, Phường Kim Giang, Quận Thanh Xuân, TP. Hà Nội",
+      "distance": 5349,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 69.5655384615392,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 27621,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Gạo Tám Thái Loại 1",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(5, 5, 5);\">Shop cung cấp 1 số thông tin để bạn có thể lựa chọn được đúng loại gạo T</span>ám Thái Loại 1<span style=\"color: rgb(5, 5, 5);\">:</span></p><p><br></p><p><span style=\"color: rgb(5, 5, 5);\">- Hạt gạo dài, căng bóng, có mùi thơm tự nhiên. </span></p><p><br></p><p><span style=\"color: rgb(5, 5, 5);\">- Gạo sau khi nấu chín, cơm nóng và cơm để nguội vẫn dẻo thơm. </span></p><p><br></p><p>ĐT/Zalo: 0984 221 871</p><p>Địa chỉ: Số 11, ngõ 64 đường Kim Giang, Kim Giang, Thanh Xuân, Hà Nội&nbsp;</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/2f8ae8ab-af30-4ca0-85ac-c2d60d6184e1.jpg\",\"https://images.f99.com.vn/images/e3fbf45b-27af-40b4-ad9b-fc556ac5cd8a.jpg\",\"https://images.f99.com.vn/images/7aa1ec74-b415-4834-a861-e347b447ec15.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Gạo Tám Thái Loại 1",
+    "description": "<p><span style=\"color: rgb(5, 5, 5);\">Shop cung cấp 1 số thông tin để bạn có thể lựa chọn được đúng loại gạo T</span>ám Thái Loại 1<span style=\"color: rgb(5, 5, 5);\">:</span></p><p><br></p><p><span style=\"color: rgb(5, 5, 5);\">- Hạt gạo dài, căng bóng, có mùi thơm tự nhiên. </span></p><p><br></p><p><span style=\"color: rgb(5, 5, 5);\">- Gạo sau khi nấu chín, cơm nóng và cơm để nguội vẫn dẻo thơm. </span></p><p><br></p><p>ĐT/Zalo: 0984 221 871</p><p>Địa chỉ: Số 11, ngõ 64 đường Kim Giang, Kim Giang, Thanh Xuân, Hà Nội&nbsp;</p>",
+    "imageUrl": "https://images.f99.com.vn/images/2f8ae8ab-af30-4ca0-85ac-c2d60d6184e1.jpg",
+    "price": 190000,
+    "oldPrice": 220000,
+    "discountPercent": 14,
+    "stock": 1000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "bao 10kg",
+    "sku": "GAO002",
+    "origin": "",
+    "sellerId": 446,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<ul><li>Để trong thùng kín tránh: chuột, gián, côn trùng xâm nhập</li><li>Để nơi khô ráo, tránh ẩm mốc vì gạo hút ẩm</li><li>Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</li><li>Quý khách&nbsp;phản hồi sản phẩm vui lòng liên hệ</li></ul><p>Hotline: 0984 221 871</p><p>Địa chỉ: Số 11 ngõ 64 đường Kim Giang, Thanh Xuân, Hà Nội</p>",
+    "category": {
+      "id": 114,
+      "name": "Gạo",
+      "imageUrl": "https://images.f99.com.vn/notification-images/8b02132b-3ce4-4626-a238-490fe0d01472.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/2f8ae8ab-af30-4ca0-85ac-c2d60d6184e1.jpg",
+      "https://images.f99.com.vn/images/e3fbf45b-27af-40b4-ad9b-fc556ac5cd8a.jpg",
+      "https://images.f99.com.vn/images/7aa1ec74-b415-4834-a861-e347b447ec15.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/27621",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "bao 10kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 89994,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "bao 10kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "bao 10kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "bao 10kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 190000,
+        "oldPrice": 220000,
+        "discountPercent": 14,
+        "stock": 1000,
+        "totalSold": 0,
+        "unit": "bao 10kg",
+        "sku": "GAO002",
+        "rating": 0,
+        "instructions": "<ul><li>Để trong thùng kín tránh: chuột, gián, côn trùng xâm nhập</li><li>Để nơi khô ráo, tránh ẩm mốc vì gạo hút ẩm</li><li>Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</li><li>Quý khách&nbsp;phản hồi sản phẩm vui lòng liên hệ</li></ul><p>Hotline: 0984 221 871</p><p>Địa chỉ: Số 11 ngõ 64 đường Kim Giang, Thanh Xuân, Hà Nội</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "bao 10kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 446,
+      "sellerRate": 4.6,
+      "sellerName": "GIA LONG FOOD",
+      "warehouseId": "a207ee41-80ab-4e6e-ac87-07de3e26e078",
+      "warehouseAddress": "Số 11, ngõ 64 đường Kim Giang, Phường Kim Giang, Quận Thanh Xuân, TP. Hà Nội",
+      "distance": 5349,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 69.5655384615392,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 27623,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Gạo BC Thái Bình",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(5, 5, 5);\">&nbsp;Xuất xứ; Được canh tác tại vùng đất Thái Bình</span></p><p><br></p><p><span style=\"color: rgb(5, 5, 5);\"> - Đặc điểm: Hạt gạo trong, khi nấu nở vừa tơi xốp cơm, cơm đậm, độ dẻo vừa thích hợp cho những bạn thích ăn chan canh.</span></p><p><br></p><p><span style=\"color: rgb(5, 5, 5);\"> - Thích hợp dùng với bếp ăn công nghiệp, trường học, bếp ăn sinh viên, làm từ thiện... </span></p><p><br></p><p>ĐT/Zalo: 0984 221 871</p><p>Địa chỉ: Số 11, ngõ 64 đường Kim Giang, Kim Giang, Thanh Xuân, Hà Nội&nbsp;</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/c450e87e-5db1-4de8-b52f-81a4e42f83c8.jpg\",\"https://images.f99.com.vn/images/c0797ec0-f1d6-4208-aa4d-202b53fc9510.jpg\",\"https://images.f99.com.vn/images/1fcb48b8-5b8c-4762-bcb7-d71c9ed14a22.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Gạo BC Thái Bình",
+    "description": "<p><span style=\"color: rgb(5, 5, 5);\">&nbsp;Xuất xứ; Được canh tác tại vùng đất Thái Bình</span></p><p><br></p><p><span style=\"color: rgb(5, 5, 5);\"> - Đặc điểm: Hạt gạo trong, khi nấu nở vừa tơi xốp cơm, cơm đậm, độ dẻo vừa thích hợp cho những bạn thích ăn chan canh.</span></p><p><br></p><p><span style=\"color: rgb(5, 5, 5);\"> - Thích hợp dùng với bếp ăn công nghiệp, trường học, bếp ăn sinh viên, làm từ thiện... </span></p><p><br></p><p>ĐT/Zalo: 0984 221 871</p><p>Địa chỉ: Số 11, ngõ 64 đường Kim Giang, Kim Giang, Thanh Xuân, Hà Nội&nbsp;</p>",
+    "imageUrl": "https://images.f99.com.vn/images/c450e87e-5db1-4de8-b52f-81a4e42f83c8.jpg",
+    "price": 140000,
+    "oldPrice": 170000,
+    "discountPercent": 18,
+    "stock": 1000,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "bao 10kg",
+    "sku": "GAO003",
+    "origin": "",
+    "sellerId": 446,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<ul><li>Để trong thùng kín tránh: chuột, gián, côn trùng xâm nhập</li><li>Để nơi khô ráo, tránh ẩm mốc vì gạo hút ẩm</li><li>Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</li><li>Quý khách&nbsp;phản hồi sản phẩm vui lòng liên hệ</li></ul><p>Hotline: 0984 221 871</p><p>Địa chỉ: Số 11 ngõ 64 đường Kim Giang, Thanh Xuân, Hà Nội</p>",
+    "category": {
+      "id": 114,
+      "name": "Gạo",
+      "imageUrl": "https://images.f99.com.vn/notification-images/8b02132b-3ce4-4626-a238-490fe0d01472.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/c450e87e-5db1-4de8-b52f-81a4e42f83c8.jpg",
+      "https://images.f99.com.vn/images/c0797ec0-f1d6-4208-aa4d-202b53fc9510.jpg",
+      "https://images.f99.com.vn/images/1fcb48b8-5b8c-4762-bcb7-d71c9ed14a22.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/27623",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "bao 10kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 89996,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "bao 10kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "bao 10kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "bao 10kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 140000,
+        "oldPrice": 170000,
+        "discountPercent": 18,
+        "stock": 1000,
+        "totalSold": 1,
+        "unit": "bao 10kg",
+        "sku": "GAO003",
+        "rating": 0,
+        "instructions": "<ul><li>Để trong thùng kín tránh: chuột, gián, côn trùng xâm nhập</li><li>Để nơi khô ráo, tránh ẩm mốc vì gạo hút ẩm</li><li>Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</li><li>Quý khách&nbsp;phản hồi sản phẩm vui lòng liên hệ</li></ul><p>Hotline: 0984 221 871</p><p>Địa chỉ: Số 11 ngõ 64 đường Kim Giang, Thanh Xuân, Hà Nội</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "bao 10kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 446,
+      "sellerRate": 4.6,
+      "sellerName": "GIA LONG FOOD",
+      "warehouseId": "a207ee41-80ab-4e6e-ac87-07de3e26e078",
+      "warehouseAddress": "Số 11, ngõ 64 đường Kim Giang, Phường Kim Giang, Quận Thanh Xuân, TP. Hà Nội",
+      "distance": 5349,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 69.5655384615392,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 27678,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Gạo Tám Điện Biên",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Gạo dẻo, thơm</p><p><br></p><p>ĐT/Zalo: 0984 221 871</p><p>Địa chỉ: Số 11, ngõ 64 đường Kim Giang, Kim Giang, Thanh Xuân, Hà Nội&nbsp;</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/475c5b2e-23f5-4942-be72-f3e133caa9d1.jpg\",\"https://images.f99.com.vn/images/1ec70d0a-14d7-4a99-887f-eef7fd21c423.jpg\",\"https://images.f99.com.vn/images/0c458515-494a-410c-bcba-26f833c9ab38.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Gạo Tám Điện Biên",
+    "description": "<p>Gạo dẻo, thơm</p><p><br></p><p>ĐT/Zalo: 0984 221 871</p><p>Địa chỉ: Số 11, ngõ 64 đường Kim Giang, Kim Giang, Thanh Xuân, Hà Nội&nbsp;</p>",
+    "imageUrl": "https://images.f99.com.vn/images/475c5b2e-23f5-4942-be72-f3e133caa9d1.jpg",
+    "price": 170000,
+    "oldPrice": 190000,
+    "discountPercent": 11,
+    "stock": 500,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Bao 10kg",
+    "sku": "GAO004",
+    "origin": "",
+    "sellerId": 446,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<ul><li>Để trong thùng kín tránh: chuột, gián, côn trùng xâm nhập</li><li>Để nơi khô ráo, tránh ẩm mốc vì gạo hút ẩm</li><li>Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</li><li>Quý khách&nbsp;phản hồi sản phẩm vui lòng liên hệ</li></ul><p>Hotline: 0984 221 871</p><p>Địa chỉ: Số 11 ngõ 64 đường Kim Giang, Thanh Xuân, Hà Nội</p>",
+    "category": {
+      "id": 114,
+      "name": "Gạo",
+      "imageUrl": "https://images.f99.com.vn/notification-images/8b02132b-3ce4-4626-a238-490fe0d01472.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/475c5b2e-23f5-4942-be72-f3e133caa9d1.jpg",
+      "https://images.f99.com.vn/images/1ec70d0a-14d7-4a99-887f-eef7fd21c423.jpg",
+      "https://images.f99.com.vn/images/0c458515-494a-410c-bcba-26f833c9ab38.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/27678",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Bao 10kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 89998,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Bao 10kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Bao 10kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Bao 10kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 170000,
+        "oldPrice": 190000,
+        "discountPercent": 11,
+        "stock": 500,
+        "totalSold": 0,
+        "unit": "Bao 10kg",
+        "sku": "GAO004",
+        "rating": 0,
+        "instructions": "<ul><li>Để trong thùng kín tránh: chuột, gián, côn trùng xâm nhập</li><li>Để nơi khô ráo, tránh ẩm mốc vì gạo hút ẩm</li><li>Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</li><li>Quý khách&nbsp;phản hồi sản phẩm vui lòng liên hệ</li></ul><p>Hotline: 0984 221 871</p><p>Địa chỉ: Số 11 ngõ 64 đường Kim Giang, Thanh Xuân, Hà Nội</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Bao 10kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 446,
+      "sellerRate": 4.6,
+      "sellerName": "GIA LONG FOOD",
+      "warehouseId": "a207ee41-80ab-4e6e-ac87-07de3e26e078",
+      "warehouseAddress": "Số 11, ngõ 64 đường Kim Giang, Phường Kim Giang, Quận Thanh Xuân, TP. Hà Nội",
+      "distance": 5349,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 69.5655384615392,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 28367,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Gạo Nếp cái hoa vàng",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(5, 5, 5);\">- Gạo nếp cái Hoa Vàng là giống lua nếp truyền thống được trồng ở đồng bằng Bắc Bộ.</span></p><p><br></p><p><span style=\"color: rgb(5, 5, 5);\">- Đặc điểm: Hạt tròn, có màu trắng, khi đồ xôi hoặc nấu cơm nếp rất dẻo, thơm.</span></p><p><br></p><p><span style=\"color: rgb(5, 5, 5);\"> - Giá bán lẻ: 30.000đ/kg</span></p><p><br></p><p>ĐT/Zalo: 0984 221 871</p><p>Địa chỉ: Số 11, ngõ 64 đường Kim Giang, Kim Giang, Thanh Xuân, Hà Nội&nbsp;</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/dfaa8844-9344-44f7-9c8d-b9d4e722de71.jpg\",\"https://images.f99.com.vn/images/49eebcd3-861c-446c-af14-6d843ae4a694.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Gạo Nếp cái hoa vàng",
+    "description": "<p><span style=\"color: rgb(5, 5, 5);\">- Gạo nếp cái Hoa Vàng là giống lua nếp truyền thống được trồng ở đồng bằng Bắc Bộ.</span></p><p><br></p><p><span style=\"color: rgb(5, 5, 5);\">- Đặc điểm: Hạt tròn, có màu trắng, khi đồ xôi hoặc nấu cơm nếp rất dẻo, thơm.</span></p><p><br></p><p><span style=\"color: rgb(5, 5, 5);\"> - Giá bán lẻ: 30.000đ/kg</span></p><p><br></p><p>ĐT/Zalo: 0984 221 871</p><p>Địa chỉ: Số 11, ngõ 64 đường Kim Giang, Kim Giang, Thanh Xuân, Hà Nội&nbsp;</p>",
+    "imageUrl": "https://images.f99.com.vn/images/dfaa8844-9344-44f7-9c8d-b9d4e722de71.jpg",
+    "price": 27000,
+    "oldPrice": 30000,
+    "discountPercent": 10,
+    "stock": 100,
+    "totalSold": 7,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "GAO005",
+    "origin": "",
+    "sellerId": 446,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<ul><li>Để trong thùng kín tránh: chuột, gián, côn trùng xâm nhập</li><li>Để nơi khô ráo, tránh ẩm mốc vì gạo hút ẩm</li><li>Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</li><li>Quý khách&nbsp;phản hồi sản phẩm vui lòng liên hệ</li></ul><p>Hotline: 0984 221 871</p><p>Địa chỉ: Số 11 ngõ 64 đường Kim Giang, Thanh Xuân, Hà Nội</p>",
+    "category": {
+      "id": 114,
+      "name": "Gạo",
+      "imageUrl": "https://images.f99.com.vn/notification-images/8b02132b-3ce4-4626-a238-490fe0d01472.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/dfaa8844-9344-44f7-9c8d-b9d4e722de71.jpg",
+      "https://images.f99.com.vn/images/49eebcd3-861c-446c-af14-6d843ae4a694.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/28367",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 446,
+      "sellerRate": 4.6,
+      "sellerName": "GIA LONG FOOD",
+      "warehouseId": "a207ee41-80ab-4e6e-ac87-07de3e26e078",
+      "warehouseAddress": "Số 11, ngõ 64 đường Kim Giang, Phường Kim Giang, Quận Thanh Xuân, TP. Hà Nội",
+      "distance": 5349,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 69.5655384615392,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 29520,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Gạo ST25 Ông Táo",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(0, 26, 51);\">💛VÌ MỘT TRÁI TIM KHOẺ - CHỌN NGAY GẠO ST25 ☀️</span></p><p><span style=\"color: rgb(0, 26, 51);\">Bạn có biết rằng, gạo ST25 không chỉ ngon mà còn là loại gạo cực tốt cho sức khoẻ trái tim của bạn. Đơn giản vì đây là dòng gạo không chứa cholesterol, là hoạt chất gây tắc nghẽn sự lưu thông máu và gây ra những bệnh nguy hiểm như: nhồi máu cơ tim, khả năng đột quỵ cao,...</span></p><p><span style=\"color: rgb(0, 26, 51);\">Chính vì vậy, những người có tiểu sử về bệnh tim có thể an tâm sử dụng gạo ST25 vào bữa cơm hằng ngày của mình nhé ❤️</span></p><p><span style=\"color: rgb(0, 26, 51);\">#DeliFarm #DeliRice #GạoST25 #GạoÔngTáo</span><img src=\"https://images.f99.com.vn/images/c4ee387e-7da0-4dc2-90b8-f286fe3d1f64.jpg\"></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">DELIFARM - NGUỒN DINH DƯỠNG CHẠM TRÁI TIM ❤️</span></p><p><span style=\"color: rgb(0, 26, 51);\">🔥Lý do vì sao DeliFarm lại chọn dòng gạo ST25 Ông Táo là sản phẩm ra mắt đầu tiên? </span><span style=\"color: transparent; background-color: initial;\">🌟</span></p><p><span style=\"color: rgb(0, 26, 51);\">❤️ Sức khoẻ: Đối với chúng tôi, sức khoẻ của người tiêu dùng được đặt lên hàng đầu. Dòng gạo ST25 không chỉ đạt chất lượng về độ ngon của hạt gạo, mà còn đạt chất lượng về sự dinh dưỡng trong từng hạt cơm</span></p><p><span style=\"color: rgb(0, 26, 51);\">🇻🇳Niềm tự hào: Đây là dòng gạo được mệnh danh là gạo ngon nhất thế giới từ năm 2019 đến nay. Mang gạo Việt hội nhập với thế giới.</span></p><p><span style=\"color: rgb(0, 26, 51);\">🌾Đột phá trong bữa cơm gia đình Việt: mang đến hạt gạo có những đặc điểm tối ưu nhất: dẻo - thơm - vị thanh ngọt - hình thức đẹp mắt. Chắc chắn là sự cải tiến trong mâm cơm của gia đình Việt.</span></p><p><span style=\"color: rgb(0, 26, 51);\">🔰Uy tín: là thương hiệu được thành lập bởi tập đoàn Tín Thương - đã có 15 năm kinh nghiệm và luôn nằm trong top 5 xuất khẩu gạo trong và ngoài nước </span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/ac7ea517-b7e0-4bbd-be84-4e5092f8de47.jpg\",\"https://images.f99.com.vn/images/27a0c855-6171-49b5-8fe2-d05fa9dad843.jpg\",\"https://images.f99.com.vn/images/d385beef-c3f2-4cd4-b78c-cfbc8053a7ba.jpg\",\"https://images.f99.com.vn/images/38086065-3a4d-4aac-9394-38bfeab0ced7.jpg\",\"https://images.f99.com.vn/images/9badddac-89b8-43e2-b85f-4d2fbf134e59.jpg\",\"https://images.f99.com.vn/images/9930da4f-9226-4da8-90e2-db9598efccb4.jpg\",\"https://images.f99.com.vn/images/4055abe6-3535-4324-b6af-49536b4d7fd7.jpg\",\"https://images.f99.com.vn/images/504fd732-3e5e-4c4f-b782-63f6499591e4.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Gạo ST25 Ông Táo",
+    "description": "<p><span style=\"color: rgb(0, 26, 51);\">💛VÌ MỘT TRÁI TIM KHOẺ - CHỌN NGAY GẠO ST25 ☀️</span></p><p><span style=\"color: rgb(0, 26, 51);\">Bạn có biết rằng, gạo ST25 không chỉ ngon mà còn là loại gạo cực tốt cho sức khoẻ trái tim của bạn. Đơn giản vì đây là dòng gạo không chứa cholesterol, là hoạt chất gây tắc nghẽn sự lưu thông máu và gây ra những bệnh nguy hiểm như: nhồi máu cơ tim, khả năng đột quỵ cao,...</span></p><p><span style=\"color: rgb(0, 26, 51);\">Chính vì vậy, những người có tiểu sử về bệnh tim có thể an tâm sử dụng gạo ST25 vào bữa cơm hằng ngày của mình nhé ❤️</span></p><p><span style=\"color: rgb(0, 26, 51);\">#DeliFarm #DeliRice #GạoST25 #GạoÔngTáo</span><img src=\"https://images.f99.com.vn/images/c4ee387e-7da0-4dc2-90b8-f286fe3d1f64.jpg\"></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">DELIFARM - NGUỒN DINH DƯỠNG CHẠM TRÁI TIM ❤️</span></p><p><span style=\"color: rgb(0, 26, 51);\">🔥Lý do vì sao DeliFarm lại chọn dòng gạo ST25 Ông Táo là sản phẩm ra mắt đầu tiên? </span><span style=\"color: transparent; background-color: initial;\">🌟</span></p><p><span style=\"color: rgb(0, 26, 51);\">❤️ Sức khoẻ: Đối với chúng tôi, sức khoẻ của người tiêu dùng được đặt lên hàng đầu. Dòng gạo ST25 không chỉ đạt chất lượng về độ ngon của hạt gạo, mà còn đạt chất lượng về sự dinh dưỡng trong từng hạt cơm</span></p><p><span style=\"color: rgb(0, 26, 51);\">🇻🇳Niềm tự hào: Đây là dòng gạo được mệnh danh là gạo ngon nhất thế giới từ năm 2019 đến nay. Mang gạo Việt hội nhập với thế giới.</span></p><p><span style=\"color: rgb(0, 26, 51);\">🌾Đột phá trong bữa cơm gia đình Việt: mang đến hạt gạo có những đặc điểm tối ưu nhất: dẻo - thơm - vị thanh ngọt - hình thức đẹp mắt. Chắc chắn là sự cải tiến trong mâm cơm của gia đình Việt.</span></p><p><span style=\"color: rgb(0, 26, 51);\">🔰Uy tín: là thương hiệu được thành lập bởi tập đoàn Tín Thương - đã có 15 năm kinh nghiệm và luôn nằm trong top 5 xuất khẩu gạo trong và ngoài nước </span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/ac7ea517-b7e0-4bbd-be84-4e5092f8de47.jpg",
+    "price": 28000,
+    "oldPrice": 36000,
+    "discountPercent": 22,
+    "stock": 35000,
+    "totalSold": 138,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "Gaost25",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 114,
+      "name": "Gạo",
+      "imageUrl": "https://images.f99.com.vn/notification-images/8b02132b-3ce4-4626-a238-490fe0d01472.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/ac7ea517-b7e0-4bbd-be84-4e5092f8de47.jpg",
+      "https://images.f99.com.vn/images/27a0c855-6171-49b5-8fe2-d05fa9dad843.jpg",
+      "https://images.f99.com.vn/images/d385beef-c3f2-4cd4-b78c-cfbc8053a7ba.jpg",
+      "https://images.f99.com.vn/images/38086065-3a4d-4aac-9394-38bfeab0ced7.jpg",
+      "https://images.f99.com.vn/images/9badddac-89b8-43e2-b85f-4d2fbf134e59.jpg",
+      "https://images.f99.com.vn/images/9930da4f-9226-4da8-90e2-db9598efccb4.jpg",
+      "https://images.f99.com.vn/images/4055abe6-3535-4324-b6af-49536b4d7fd7.jpg",
+      "https://images.f99.com.vn/images/504fd732-3e5e-4c4f-b782-63f6499591e4.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/29520",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 Túi 1kg",
+          "1 Túi 5kg",
+          "Combo 2 túi 5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 29521,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Túi 1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 Túi 1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Túi 1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 30000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 7000,
+        "totalSold": 46,
+        "unit": "1kg",
+        "sku": "Gaost25",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 Túi 1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 29524,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Túi 5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "28k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 Túi 5kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Túi 5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 140000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 7000,
+        "totalSold": 47,
+        "unit": "1kg",
+        "sku": "Gaost25",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "28k/kg",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 Túi 5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 77360,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 2 túi 5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 2 túi 5kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 2 túi 5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 280000,
+        "oldPrice": 36000,
+        "discountPercent": -678,
+        "stock": 21000,
+        "totalSold": 45,
+        "unit": "1kg",
+        "sku": "Gaost25",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 2 túi 5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 30042,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Gạo ST24 Thái hồng thượng hạng",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgba(0, 0, 0, 0.8);\">GẠO ST24 THÁI HỒNG THƯỢNG HẠNG </strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Gạo ST24 Thái Hồng thượng hạng túi 5kg có hạt nhỏ dài, màu trắng trong. Gạo khi chín có vị đậm, dẻo mềm và hương thơm lôi cuốn. Sản phẩm giúp những bữa cơm gia đình thêm ngon miệng, đầm ấm. Gạo ST24 Thái Hồng thượng hạng​ được sàng lọc kỹ trước khi đóng túi dày dặn, kín hơi, đảm bảo không để côn trùng và các tác động ngoại cảnh khác làm ảnh hưởng đến chất lượng của gạo. Sản phẩm không lẫn tạp chất, giúp bạn thưởng thức trọn vẹn vị ngon trong từng bữa ăn.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Sản phẩm được sàng sạch kỹ trước khi đóng túi dày dặn, kín hơi, đảm bảo không để côn trùng và các tác động ngoại cảnh khác làm ảnh hưởng đến chất lượng của gạo.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Gạo ST24 Thái Hồng thượng hạng túi 5kg cũng giống như các loại ngũ cốc khác, lúa gạo không chứa các loại vitamin A, C hay D, nhưng có vitamin B1, B2, niacin, ít chất sắt, kẽm và nhiều chất khoáng Mg, P, K, Ca. Vitamin B1 giúp tiêu hóa chất đường glucose để cho năng lượng, vì thế hỗ trợ cho các tế bào thần kinh, hoạt động của tim và khẩu vị.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Gạo Thái hồng số 1 Phú Hải được đóng túi chắc chắn đặc biệt với khối lượng 5kg giúp tiết kiệm chi phí và thời gian đi mua sắm để sử dụng cho cả gia đình.</span></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\"> </strong></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Hướng dẫn sử dụng</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Đong gạo bằng dụng cụ đo, vo gạo đến khi nước trong</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Điều chỉnh lượng nước cho phù hợp khẩu vị hoặc theo tỷ lệ 1:1</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Cho gạo vào nồi để nấu</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Sau khi nấu, để cơm sôi 15 phút, không mở nắp nồi, sau đó đảo lại cơm và bật chế độ Cook một lần nữa.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/ea2605ec-a8c0-4058-a41c-05201772ea81.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Gạo ST24 Thái hồng thượng hạng",
+    "description": "<p><strong style=\"color: rgba(0, 0, 0, 0.8);\">GẠO ST24 THÁI HỒNG THƯỢNG HẠNG </strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Gạo ST24 Thái Hồng thượng hạng túi 5kg có hạt nhỏ dài, màu trắng trong. Gạo khi chín có vị đậm, dẻo mềm và hương thơm lôi cuốn. Sản phẩm giúp những bữa cơm gia đình thêm ngon miệng, đầm ấm. Gạo ST24 Thái Hồng thượng hạng​ được sàng lọc kỹ trước khi đóng túi dày dặn, kín hơi, đảm bảo không để côn trùng và các tác động ngoại cảnh khác làm ảnh hưởng đến chất lượng của gạo. Sản phẩm không lẫn tạp chất, giúp bạn thưởng thức trọn vẹn vị ngon trong từng bữa ăn.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Sản phẩm được sàng sạch kỹ trước khi đóng túi dày dặn, kín hơi, đảm bảo không để côn trùng và các tác động ngoại cảnh khác làm ảnh hưởng đến chất lượng của gạo.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Gạo ST24 Thái Hồng thượng hạng túi 5kg cũng giống như các loại ngũ cốc khác, lúa gạo không chứa các loại vitamin A, C hay D, nhưng có vitamin B1, B2, niacin, ít chất sắt, kẽm và nhiều chất khoáng Mg, P, K, Ca. Vitamin B1 giúp tiêu hóa chất đường glucose để cho năng lượng, vì thế hỗ trợ cho các tế bào thần kinh, hoạt động của tim và khẩu vị.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Gạo Thái hồng số 1 Phú Hải được đóng túi chắc chắn đặc biệt với khối lượng 5kg giúp tiết kiệm chi phí và thời gian đi mua sắm để sử dụng cho cả gia đình.</span></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\"> </strong></p><p><strong style=\"color: rgba(0, 0, 0, 0.8);\">Hướng dẫn sử dụng</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Đong gạo bằng dụng cụ đo, vo gạo đến khi nước trong</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Điều chỉnh lượng nước cho phù hợp khẩu vị hoặc theo tỷ lệ 1:1</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Cho gạo vào nồi để nấu</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Sau khi nấu, để cơm sôi 15 phút, không mở nắp nồi, sau đó đảo lại cơm và bật chế độ Cook một lần nữa.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/ea2605ec-a8c0-4058-a41c-05201772ea81.jpg",
+    "price": 109000,
+    "oldPrice": 144900,
+    "discountPercent": 25,
+    "stock": 100,
+    "totalSold": 1036,
+    "maxQuantityPerUser": null,
+    "unit": "Túi",
+    "sku": "20002246",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 114,
+      "name": "Gạo",
+      "imageUrl": "https://images.f99.com.vn/notification-images/8b02132b-3ce4-4626-a238-490fe0d01472.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/ea2605ec-a8c0-4058-a41c-05201772ea81.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/30042",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 gói"
+        ]
+      },
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 30046,
+        "attributeTextValues": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 gói",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "5kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "5kg / 1 gói",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "5kg / 1 gói",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 109000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 1036,
+        "unit": "Túi",
+        "sku": "20002246",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 gói"
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 31373,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Gạo Séng Cù đặc sản Tây Bắc",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong>GẠO SÉNG CÙ - ĐẶC SẢN TÂY BẮC LÀO CAI</strong></p><p>“Gạo dẻo, gạo thơm</p><p>Ngon cơm mọi nhà”</p><p>ĐẶC ĐIỂM:</p><p>- Gạo SÉNG CÙ xịn phải là hạt dài, có màu ngà, còn nhiều cám.</p><p>- Gạo ăn có vị thơm nhẹ, dẻo, bùi, ngọt, giá trị dinh dưỡng gấp nhiều lần gạo thường.</p><p>- Ăn ít nhưng no lâu</p><p>- Gạo tươi được xát thủ công hằng ngày, bằng chính những đôi bàn tay của những người nông dân miền núi.</p><p>- Gạo Séng Cù lại được phong là loại gạo thượng hạng bậc nhất hiện nay tại Hà Nội.</p><p>Đặc biệt :</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\"> Không thuốc trừ sâu</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\"> Không chất bảo quản,phẩm màu</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\"> Không pha trộn và tạo mùi</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t84/1/16/1f381.png\" alt=\"🎁\" height=\"16\" width=\"16\"> Gạo rất thích hợp khi sử dụng, làm quà tặng hay quà biếu.</p><p>Giá bán: 300k/10kg</p><p><br></p><p><strong>SHIP TẬN NHÀ - NHANH CHÓNG - PHỤC VỤ NHIỆT TÌNH </strong></p><p>================</p><p>THỰC PHẨM SẠCH FOOD CỘNG+</p><p>+ Địa chỉ: P104H3, Ngõ 64 Kim Giang, Thanh Xuân, Hà Nội</p><p>+ Hotline: 0977902197 - A Cộng / 0359694765 - Chị Thoa (zalo/call)</p><p>***Fanfage: <a href=\"https://www.facebook.com/thucphamsachcong/?__cft__[0]=AZVTx9NFPjxHzsB4-ruT25FJhJnld4QcnetVnBvuzE1AeKwRmBhQ87usW6tNqUkGLiVZWa_1CJzKy-ueQkhloUNY4f_so8Gzr7B2kLDC5B_k5V8QXzNMPDqjF2Q_AAGE_JrJYU3BDBosd8QWjz72O98LH5z2up2YaqVI1b4b0qRc2w&amp;__tn__=kK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">https://www.facebook.com/thucphamsachcong/</a></p><p>https://f99.com.vn/seller/473</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/8cbf3f43-674c-4179-9b83-39bbefc54718.jpg\",\"https://images.f99.com.vn/images/2c2849e0-5778-4a0e-977e-b8a6a3eea7a2.jpeg\",\"https://images.f99.com.vn/images/6b25954f-f216-494e-82fc-b163e4473ece.png\",\"https://images.f99.com.vn/images/743f15f4-1d60-4c73-8d31-1e1f70be5185.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Gạo\",\"Gạo Séng Cù\",\"Gạo ngon\",\"Gạo Séng Cù Tây Bắc\",\"Gạo dặc sản\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Gạo Séng Cù đặc sản Tây Bắc",
+    "description": "<p><strong>GẠO SÉNG CÙ - ĐẶC SẢN TÂY BẮC LÀO CAI</strong></p><p>“Gạo dẻo, gạo thơm</p><p>Ngon cơm mọi nhà”</p><p>ĐẶC ĐIỂM:</p><p>- Gạo SÉNG CÙ xịn phải là hạt dài, có màu ngà, còn nhiều cám.</p><p>- Gạo ăn có vị thơm nhẹ, dẻo, bùi, ngọt, giá trị dinh dưỡng gấp nhiều lần gạo thường.</p><p>- Ăn ít nhưng no lâu</p><p>- Gạo tươi được xát thủ công hằng ngày, bằng chính những đôi bàn tay của những người nông dân miền núi.</p><p>- Gạo Séng Cù lại được phong là loại gạo thượng hạng bậc nhất hiện nay tại Hà Nội.</p><p>Đặc biệt :</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\"> Không thuốc trừ sâu</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\"> Không chất bảo quản,phẩm màu</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\"> Không pha trộn và tạo mùi</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t84/1/16/1f381.png\" alt=\"🎁\" height=\"16\" width=\"16\"> Gạo rất thích hợp khi sử dụng, làm quà tặng hay quà biếu.</p><p>Giá bán: 300k/10kg</p><p><br></p><p><strong>SHIP TẬN NHÀ - NHANH CHÓNG - PHỤC VỤ NHIỆT TÌNH </strong></p><p>================</p><p>THỰC PHẨM SẠCH FOOD CỘNG+</p><p>+ Địa chỉ: P104H3, Ngõ 64 Kim Giang, Thanh Xuân, Hà Nội</p><p>+ Hotline: 0977902197 - A Cộng / 0359694765 - Chị Thoa (zalo/call)</p><p>***Fanfage: <a href=\"https://www.facebook.com/thucphamsachcong/?__cft__[0]=AZVTx9NFPjxHzsB4-ruT25FJhJnld4QcnetVnBvuzE1AeKwRmBhQ87usW6tNqUkGLiVZWa_1CJzKy-ueQkhloUNY4f_so8Gzr7B2kLDC5B_k5V8QXzNMPDqjF2Q_AAGE_JrJYU3BDBosd8QWjz72O98LH5z2up2YaqVI1b4b0qRc2w&amp;__tn__=kK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">https://www.facebook.com/thucphamsachcong/</a></p><p>https://f99.com.vn/seller/473</p>",
+    "imageUrl": "https://images.f99.com.vn/images/8cbf3f43-674c-4179-9b83-39bbefc54718.jpg",
+    "price": 300000,
+    "oldPrice": 330000,
+    "discountPercent": 9,
+    "stock": 2000,
+    "totalSold": 8,
+    "maxQuantityPerUser": null,
+    "unit": "10kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 473,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản để trong thùng, nơi khô thoáng.</p>",
+    "category": {
+      "id": 114,
+      "name": "Gạo",
+      "imageUrl": "https://images.f99.com.vn/notification-images/8b02132b-3ce4-4626-a238-490fe0d01472.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Gạo",
+      "Gạo Séng Cù",
+      "Gạo ngon",
+      "Gạo Séng Cù Tây Bắc",
+      "Gạo dặc sản"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/8cbf3f43-674c-4179-9b83-39bbefc54718.jpg",
+      "https://images.f99.com.vn/images/2c2849e0-5778-4a0e-977e-b8a6a3eea7a2.jpeg",
+      "https://images.f99.com.vn/images/6b25954f-f216-494e-82fc-b163e4473ece.png",
+      "https://images.f99.com.vn/images/743f15f4-1d60-4c73-8d31-1e1f70be5185.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/31373",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "10kg",
+          "5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 59373,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "5kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 150000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 1000,
+        "totalSold": 4,
+        "unit": "10kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản để trong thùng, nơi khô thoáng.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 59374,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "10kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "10kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "10kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 300000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 1000,
+        "totalSold": 4,
+        "unit": "10kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản để trong thùng, nơi khô thoáng.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "10kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 473,
+      "sellerRate": 4.9,
+      "sellerName": "THỰC PHẨM SẠCH FOOD CỘNG+",
+      "warehouseId": "dcb7024d-b69c-402d-ac2e-dad1b7efed99",
+      "warehouseAddress": " Hà Nội, Thanh Xuân, Kim Giang, 104H3, ngõ 64 Kim Giang",
+      "distance": 5596,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 91.91367952035453,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 31380,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Gạo Bắc Hương - bao 10kg",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong>GẠO BẮC HƯƠNG BAO 10KG </strong></p><p><br></p><p><strong>ĐẶC ĐIỂM:</strong></p><p>Gạo bắc hương hay còn được gọi là gạo bắc thơm. Gạo có đặc điểm là màu trắng, hạt nhỏ dài và dính. Khi nấu thành cơm sẽ có mùi thơm tự nhiên, đặc biệt khi cơm để nguội sẽ vẫn giữ được độ dẻo và mùi thơm. Với những người ăn được cơm dẻo thì đây là loại gạo rất được yêu thích. Tuy nhiên, nếu bạn muốn giảm độ dẻo của gạo 1 chút thì cũng có thể trộn cùng với gạo BC hay gạo khang dân thì khi nấu sẽ được cơm vừa miệng và ngon hơn giống như gạo tám Hải Hậu.</p><p><br></p><p>Để nấu được cơm gạo bắc hương Hải Hậu thơm ngon bạn cần thực hiện theo các bước cụ thể như sau:</p><p>- Đong một lượng gạo nhất định tùy theo nhu cầu của người ăn.</p><p>- Dùng nước sạch để vo gạo.</p><p>- Đổ nước ngập gạo sao cho cao hơn từ 0,8- 1,2 cm.</p><p>- Sau khi cơm sôi được 15 phút thì mới mở nắp nồi và đảo cơm.</p><p><br></p><p>SHIP TẬN NHÀ - NHANH CHÓNG - PHỤC VỤ NHIỆT TÌNH</p><p>================</p><p>+ THỰC PHẨM SẠCH FOOD CỘNG+</p><p>+ Địa chỉ: P104H3, Ngõ 64 Kim Giang, Thanh Xuân, Hà Nội</p><p>+ Hotline: 0977902197 - A Cộng / 0359694765 - Chị Thoa (zalo/call)</p><p>***Fanfage: <a href=\"https://www.facebook.com/thucphamsachcong/?__cft__[0]=AZVTx9NFPjxHzsB4-ruT25FJhJnld4QcnetVnBvuzE1AeKwRmBhQ87usW6tNqUkGLiVZWa_1CJzKy-ueQkhloUNY4f_so8Gzr7B2kLDC5B_k5V8QXzNMPDqjF2Q_AAGE_JrJYU3BDBosd8QWjz72O98LH5z2up2YaqVI1b4b0qRc2w&amp;__tn__=kK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">https://www.facebook.com/thucphamsachcong/</a></p><p>https://f99.com.vn/seller/473</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/92d79761-7494-46c1-b8b0-1d04309f7c98.jpg\",\"https://images.f99.com.vn/images/a3b22ab0-93c7-4f98-9486-7091ebae47cf.jpg\",\"https://images.f99.com.vn/images/7ea65ca7-2e8f-4c84-80d7-ec5cdcb438bf.jpg\",\"https://images.f99.com.vn/images/235b2d49-93ad-428c-b7b6-7d329196d1b1.jpg\",\"https://images.f99.com.vn/images/2a0ca8bd-f93c-47ce-a381-f26252873c69.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Gạo\",\"Gạo Bắc Hương\",\"Gạo dẻo\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Gạo Bắc Hương - bao 10kg",
+    "description": "<p><strong>GẠO BẮC HƯƠNG BAO 10KG </strong></p><p><br></p><p><strong>ĐẶC ĐIỂM:</strong></p><p>Gạo bắc hương hay còn được gọi là gạo bắc thơm. Gạo có đặc điểm là màu trắng, hạt nhỏ dài và dính. Khi nấu thành cơm sẽ có mùi thơm tự nhiên, đặc biệt khi cơm để nguội sẽ vẫn giữ được độ dẻo và mùi thơm. Với những người ăn được cơm dẻo thì đây là loại gạo rất được yêu thích. Tuy nhiên, nếu bạn muốn giảm độ dẻo của gạo 1 chút thì cũng có thể trộn cùng với gạo BC hay gạo khang dân thì khi nấu sẽ được cơm vừa miệng và ngon hơn giống như gạo tám Hải Hậu.</p><p><br></p><p>Để nấu được cơm gạo bắc hương Hải Hậu thơm ngon bạn cần thực hiện theo các bước cụ thể như sau:</p><p>- Đong một lượng gạo nhất định tùy theo nhu cầu của người ăn.</p><p>- Dùng nước sạch để vo gạo.</p><p>- Đổ nước ngập gạo sao cho cao hơn từ 0,8- 1,2 cm.</p><p>- Sau khi cơm sôi được 15 phút thì mới mở nắp nồi và đảo cơm.</p><p><br></p><p>SHIP TẬN NHÀ - NHANH CHÓNG - PHỤC VỤ NHIỆT TÌNH</p><p>================</p><p>+ THỰC PHẨM SẠCH FOOD CỘNG+</p><p>+ Địa chỉ: P104H3, Ngõ 64 Kim Giang, Thanh Xuân, Hà Nội</p><p>+ Hotline: 0977902197 - A Cộng / 0359694765 - Chị Thoa (zalo/call)</p><p>***Fanfage: <a href=\"https://www.facebook.com/thucphamsachcong/?__cft__[0]=AZVTx9NFPjxHzsB4-ruT25FJhJnld4QcnetVnBvuzE1AeKwRmBhQ87usW6tNqUkGLiVZWa_1CJzKy-ueQkhloUNY4f_so8Gzr7B2kLDC5B_k5V8QXzNMPDqjF2Q_AAGE_JrJYU3BDBosd8QWjz72O98LH5z2up2YaqVI1b4b0qRc2w&amp;__tn__=kK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">https://www.facebook.com/thucphamsachcong/</a></p><p>https://f99.com.vn/seller/473</p>",
+    "imageUrl": "https://images.f99.com.vn/images/92d79761-7494-46c1-b8b0-1d04309f7c98.jpg",
+    "price": 160000,
+    "oldPrice": 170000,
+    "discountPercent": 6,
+    "stock": 3000,
+    "totalSold": 306,
+    "maxQuantityPerUser": null,
+    "unit": "10kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 473,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><span style=\"color: rgb(51, 51, 51);\">Gạo bắc hương Hải Hậu cần được bảo quản tốt. Theo đó, bạn cần để gạo ở nơi thoáng, mát và khô ráo. Để hạn chế sự thâm nhập của côn trùng và gạo có mùi lạ cần đậy kín gạo trong thùng hay buộc gạo thật kín khi để trong bao. </span></p>",
+    "category": {
+      "id": 114,
+      "name": "Gạo",
+      "imageUrl": "https://images.f99.com.vn/notification-images/8b02132b-3ce4-4626-a238-490fe0d01472.png",
+      "parentId": 87,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Gạo",
+      "Gạo Bắc Hương",
+      "Gạo dẻo"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/92d79761-7494-46c1-b8b0-1d04309f7c98.jpg",
+      "https://images.f99.com.vn/images/a3b22ab0-93c7-4f98-9486-7091ebae47cf.jpg",
+      "https://images.f99.com.vn/images/7ea65ca7-2e8f-4c84-80d7-ec5cdcb438bf.jpg",
+      "https://images.f99.com.vn/images/235b2d49-93ad-428c-b7b6-7d329196d1b1.jpg",
+      "https://images.f99.com.vn/images/2a0ca8bd-f93c-47ce-a381-f26252873c69.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/31380",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "10kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 60519,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "10kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "10kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "10kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 160000,
+        "oldPrice": 170000,
+        "discountPercent": 6,
+        "stock": 3000,
+        "totalSold": 306,
+        "unit": "10kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p><span style=\"color: rgb(51, 51, 51);\">Gạo bắc hương Hải Hậu cần được bảo quản tốt. Theo đó, bạn cần để gạo ở nơi thoáng, mát và khô ráo. Để hạn chế sự thâm nhập của côn trùng và gạo có mùi lạ cần đậy kín gạo trong thùng hay buộc gạo thật kín khi để trong bao. </span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "10kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 473,
+      "sellerRate": 4.9,
+      "sellerName": "THỰC PHẨM SẠCH FOOD CỘNG+",
+      "warehouseId": "dcb7024d-b69c-402d-ac2e-dad1b7efed99",
+      "warehouseAddress": " Hà Nội, Thanh Xuân, Kim Giang, 104H3, ngõ 64 Kim Giang",
+      "distance": 5596,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 91.91367952035453,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

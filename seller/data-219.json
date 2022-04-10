@@ -1,0 +1,35 @@
+{
+  "id": 219,
+  "name": "Nông sản Thuần Việt",
+  "logo": "https://cdn.f99.link/groupbuy-images/10a6a396-ffae-4f37-a790-e24a7e23ceda.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên sản xuất, phân phối hoa quả sạch chất lượng cao tại HN và các tỉnh",
+  "headQuarter": "Số 64, Ngõ 460 Khương Đình, Khương Đình, Thanh Xuân, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 4
+}

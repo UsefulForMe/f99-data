@@ -1,0 +1,35 @@
+{
+  "id": 982,
+  "name": "Dfoods – Hải sản sạch",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/cbeb8efa-252d-43b6-b689-71f75b4dc525.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Bán buôn, bán lẻ các loại thủy hải sản đông lạnh",
+  "headQuarter": "139 Nguyễn Thái Học, phường Điện Biên, quận Ba Đình, TP Hà Nội, Điện Biên, Ba Đình, Hà Nội",
+  "email": "Tomminhphu@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "22:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

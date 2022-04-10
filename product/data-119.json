@@ -1,0 +1,2490 @@
+[
+  {
+    "id": 8198,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cà phê rang xay Đặc biệt 200gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Cà phê rang xay Đặc biệt 200gr</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/8045c36069db4539898989da6e00b1f8.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cà phê rang xay Đặc biệt 200gr",
+    "description": "<p>Cà phê rang xay Đặc biệt 200gr</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/8045c36069db4539898989da6e00b1f8.jpg",
+    "price": 55000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 6,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "8936087630026",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p>s</p>",
+    "category": {
+      "id": 119,
+      "name": "Cà phê",
+      "imageUrl": "https://images.f99.com.vn/notification-images/da1ab283-5b6e-496d-a1b2-ceb75a42f4fb.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/8045c36069db4539898989da6e00b1f8.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8198",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8199,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/ee2b7e3feb7f4b3f9598e6b7c9ba0205.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cà phê hòa tan đen Coffilia 30gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cà phê hòa tan đen Coffilia 30gr",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/ee2b7e3feb7f4b3f9598e6b7c9ba0205.png",
+    "price": 23000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "hộp",
+    "sku": "893608763107",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 119,
+      "name": "Cà phê",
+      "imageUrl": "https://images.f99.com.vn/notification-images/da1ab283-5b6e-496d-a1b2-ceb75a42f4fb.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/ee2b7e3feb7f4b3f9598e6b7c9ba0205.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8199",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8200,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Coffilia cà phê túi lọc 72gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/2b716f8758524f56bf09248c1a918161.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Coffilia cà phê túi lọc 72gr",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/2b716f8758524f56bf09248c1a918161.jpg",
+    "price": 45000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "hộp",
+    "sku": "8936087630293",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 119,
+      "name": "Cà phê",
+      "imageUrl": "https://images.f99.com.vn/notification-images/da1ab283-5b6e-496d-a1b2-ceb75a42f4fb.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/2b716f8758524f56bf09248c1a918161.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8200",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8218,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Coffilia cà phê rang xay Bừng sắc hương trái 250gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/f827d8b01797458d8d3b5f21f0e986c4.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Coffilia cà phê rang xay Bừng sắc hương trái 250gr",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/f827d8b01797458d8d3b5f21f0e986c4.png",
+    "price": 120000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "8936087630248",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 119,
+      "name": "Cà phê",
+      "imageUrl": "https://images.f99.com.vn/notification-images/da1ab283-5b6e-496d-a1b2-ceb75a42f4fb.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/f827d8b01797458d8d3b5f21f0e986c4.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8218",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8219,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Coffilia cà phê hạt rang Nhẹ nhàng Sơn La 250gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/a5ed102520924f6290bc1a1eec37e180.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Coffilia cà phê hạt rang Nhẹ nhàng Sơn La 250gr",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/a5ed102520924f6290bc1a1eec37e180.png",
+    "price": 145000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "8936087630279",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 119,
+      "name": "Cà phê",
+      "imageUrl": "https://images.f99.com.vn/notification-images/da1ab283-5b6e-496d-a1b2-ceb75a42f4fb.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/a5ed102520924f6290bc1a1eec37e180.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8219",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8220,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cà phê hòa tan Coffilia 3in1 Kết nối đam mê 216gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/702e0b463c36494d8633fa921ec280e0.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cà phê hòa tan Coffilia 3in1 Kết nối đam mê 216gr",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/702e0b463c36494d8633fa921ec280e0.png",
+    "price": 45000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "hộp",
+    "sku": "8936087631061",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 119,
+      "name": "Cà phê",
+      "imageUrl": "https://images.f99.com.vn/notification-images/da1ab283-5b6e-496d-a1b2-ceb75a42f4fb.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/702e0b463c36494d8633fa921ec280e0.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8220",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8221,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cà phê hòa tan Coffilia 3in1 Đại ngàn hòa quyện 216gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/b9f220c3f46b450ca95aae34db3b24f4.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cà phê hòa tan Coffilia 3in1 Đại ngàn hòa quyện 216gr",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/b9f220c3f46b450ca95aae34db3b24f4.png",
+    "price": 45000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "hộp",
+    "sku": "8936087631054",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 119,
+      "name": "Cà phê",
+      "imageUrl": "https://images.f99.com.vn/notification-images/da1ab283-5b6e-496d-a1b2-ceb75a42f4fb.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/b9f220c3f46b450ca95aae34db3b24f4.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8221",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 9689,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cafe Trung Nguyên G7 3in1 18 gói * 16g ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(0, 26, 51);\">Nhà sản xuất:Trung Nguyên</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">Thành phần:Cà phê - sữa - đường.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">Đặc điểm:Cà phê G7 3in1 mang đến sự tiện lợi cho người sử dụng: bạn không mất nhiều thời gian nhưng vẫn có được ly cà phê với hương vị đậm đà, quyến rũ.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">Hạn sử dụng:2 năm.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">Khối lượng:Hộp 18 sticks x 16gr.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">Cà phê G7 3in1 được chiết xuất từ những phần tinh túy nhất có trong từng hạt cà phê, trên công nghệ hàng đầu và bí quyết không thể sao chép để cho ra đời sản phẩm cà phê hòa tan thượng hạng, với hương vị khác biệt, đậm đà, hương thơm độc đáo quyến rũ mà không một sản phẩm cà phê hòa tan nào khác đạt được.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">Cà phê G7 3in1 được 89% người tiêu dùng bình chọn là sản phẩm yêu thích hơn các loại cà phê hòa tan khác tại sự kiện thử mùi trực tiếp năm 2003.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">G7 là sản phẩm cà phê hòa tan duy nhất được chọn phục vụ các nguyên thủ quốc gia tại APEC, ASEM 5.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">Thương hiệu: Trung Nguyên</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">Đơn vị tính: Hộp</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">Quy cách đóng thùng: 24 Hộp/Thùng</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">Trọng lượng tịnh: 18 sticks x 16gr</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">Hạn sử dụng: 2 năm</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">Xuất xứ: Việt Nam</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">Chỉ tiêu chất lượng Độ ẩm ≤ 5 % Hàm lượng cafeine ≥ 0.25 %</span></p><p><br></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 26, 51);\">Hướng dẫn sử dụng: Cà phê G7 3in1 thích hợp cho cả uống nóng và uống đá. Nên để nguội cà phê trước khi thêm đá. Để có ly cà phê tuyệt hảo, cần pha đủ liều lượng nước theo hướng dẫn trên bao bì</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/24da5ab4-d097-46b6-b19b-765f1a1fabe6.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cafe Trung Nguyên G7 3in1 18 gói * 16g ",
+    "description": "<p><span style=\"color: rgb(0, 26, 51);\">Nhà sản xuất:Trung Nguyên</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">Thành phần:Cà phê - sữa - đường.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">Đặc điểm:Cà phê G7 3in1 mang đến sự tiện lợi cho người sử dụng: bạn không mất nhiều thời gian nhưng vẫn có được ly cà phê với hương vị đậm đà, quyến rũ.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">Hạn sử dụng:2 năm.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">Khối lượng:Hộp 18 sticks x 16gr.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">Cà phê G7 3in1 được chiết xuất từ những phần tinh túy nhất có trong từng hạt cà phê, trên công nghệ hàng đầu và bí quyết không thể sao chép để cho ra đời sản phẩm cà phê hòa tan thượng hạng, với hương vị khác biệt, đậm đà, hương thơm độc đáo quyến rũ mà không một sản phẩm cà phê hòa tan nào khác đạt được.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">Cà phê G7 3in1 được 89% người tiêu dùng bình chọn là sản phẩm yêu thích hơn các loại cà phê hòa tan khác tại sự kiện thử mùi trực tiếp năm 2003.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">G7 là sản phẩm cà phê hòa tan duy nhất được chọn phục vụ các nguyên thủ quốc gia tại APEC, ASEM 5.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">Thương hiệu: Trung Nguyên</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">Đơn vị tính: Hộp</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">Quy cách đóng thùng: 24 Hộp/Thùng</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">Trọng lượng tịnh: 18 sticks x 16gr</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">Hạn sử dụng: 2 năm</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">Xuất xứ: Việt Nam</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51);\">Chỉ tiêu chất lượng Độ ẩm ≤ 5 % Hàm lượng cafeine ≥ 0.25 %</span></p><p><br></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 26, 51);\">Hướng dẫn sử dụng: Cà phê G7 3in1 thích hợp cho cả uống nóng và uống đá. Nên để nguội cà phê trước khi thêm đá. Để có ly cà phê tuyệt hảo, cần pha đủ liều lượng nước theo hướng dẫn trên bao bì</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/24da5ab4-d097-46b6-b19b-765f1a1fabe6.jpg",
+    "price": 40000,
+    "oldPrice": 50000,
+    "discountPercent": 20,
+    "stock": 6,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Hộp",
+    "sku": "",
+    "origin": "",
+    "sellerId": 125,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 119,
+      "name": "Cà phê",
+      "imageUrl": "https://images.f99.com.vn/notification-images/da1ab283-5b6e-496d-a1b2-ceb75a42f4fb.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/24da5ab4-d097-46b6-b19b-765f1a1fabe6.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/9689",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Hộp"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 92980,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Hộp",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Hộp",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Hộp",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 40000,
+        "oldPrice": 50000,
+        "discountPercent": 20,
+        "stock": 6,
+        "totalSold": 0,
+        "unit": "Hộp",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Hộp"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 125,
+      "sellerRate": 4.8,
+      "sellerName": "Kang Fruits",
+      "warehouseId": "6f9d5926-1ea4-4c05-9aff-4240dbac9dca",
+      "warehouseAddress": "dong da, dong da, 14 Ngõ 120 Yên Lãng, P. Thịnh Quang, Q. Đống Đa, Tp. Hà Nội",
+      "distance": 2780,
+      "warehouseDistrict": "dong da",
+      "reputation": 86.74131859649272,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 12871,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"cafe\",\"đồ uống\",\"cafe\",\"nestcafe\",\"cafe thái\",\"nestcafe thái\",\"thái lan\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/12e6c47a-ea97-4365-b5ea-3ccc9de79583.jpg\",\"https://images.f99.com.vn/images/f42f0f86-249f-42c1-afb2-784ddf855544.jpg\",\"https://images.f99.com.vn/images/493b4a77-52c6-43a8-84a1-2b402bc3eff1.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t91/1/16/2615.png\" alt=\"☕\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t91/1/16/2615.png\" alt=\"☕️\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t91/1/16/2615.png\" alt=\"☕️\" height=\"16\" width=\"16\"> 𝑵𝑬𝑺𝑪𝑨𝑭𝑬 𝑻𝑯𝑨𝑰𝑳𝑨𝑵𝑫 <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t91/1/16/2615.png\" alt=\"☕️\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t91/1/16/2615.png\" alt=\"☕️\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t91/1/16/2615.png\" alt=\"☕️\" height=\"16\" width=\"16\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png\" alt=\"👉\" height=\"16\" width=\"16\">𝑵𝒆𝒔𝒄𝒂𝒇𝒆 𝑳𝒂𝒕𝒕𝒆 𝑪𝒂𝒓𝒂𝒎𝒆𝒍 𝑩𝒊𝒔𝒄𝒖𝒊𝒕 <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/td0/1/16/1f448.png\" alt=\"👈\" height=\"16\" width=\"16\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tca/1/16/1f4db.png\" alt=\"📛\" height=\"16\" width=\"16\"> Ngậy, thơm loại đỉnh nhất dòng Nescafe ạ <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t0/1/16/1f60b.png\" alt=\"😋\" height=\"16\" width=\"16\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png\" alt=\"👉\" height=\"16\" width=\"16\"> Tín đồ mê cafe không thể bỏ qua vì e này uống nóng hay đá đều siêu đỉnh<img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tfc/1/16/1f44d.png\" alt=\"👍\" height=\"16\" width=\"16\"> ngon thì best luôn ạ <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png\" alt=\"❤️\" height=\"16\" width=\"16\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\"> 150k bịch to hẳn 20 gói (hời hơn rất nhiều so với mẫu cũ ạ)</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Nescafe latte Caramel Biscuit Thái Lan",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Nescafe latte Caramel Biscuit Thái Lan",
+    "description": "<p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t91/1/16/2615.png\" alt=\"☕\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t91/1/16/2615.png\" alt=\"☕️\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t91/1/16/2615.png\" alt=\"☕️\" height=\"16\" width=\"16\"> 𝑵𝑬𝑺𝑪𝑨𝑭𝑬 𝑻𝑯𝑨𝑰𝑳𝑨𝑵𝑫 <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t91/1/16/2615.png\" alt=\"☕️\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t91/1/16/2615.png\" alt=\"☕️\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t91/1/16/2615.png\" alt=\"☕️\" height=\"16\" width=\"16\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png\" alt=\"👉\" height=\"16\" width=\"16\">𝑵𝒆𝒔𝒄𝒂𝒇𝒆 𝑳𝒂𝒕𝒕𝒆 𝑪𝒂𝒓𝒂𝒎𝒆𝒍 𝑩𝒊𝒔𝒄𝒖𝒊𝒕 <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/td0/1/16/1f448.png\" alt=\"👈\" height=\"16\" width=\"16\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tca/1/16/1f4db.png\" alt=\"📛\" height=\"16\" width=\"16\"> Ngậy, thơm loại đỉnh nhất dòng Nescafe ạ <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t0/1/16/1f60b.png\" alt=\"😋\" height=\"16\" width=\"16\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t51/1/16/1f449.png\" alt=\"👉\" height=\"16\" width=\"16\"> Tín đồ mê cafe không thể bỏ qua vì e này uống nóng hay đá đều siêu đỉnh<img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tfc/1/16/1f44d.png\" alt=\"👍\" height=\"16\" width=\"16\"> ngon thì best luôn ạ <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png\" alt=\"❤️\" height=\"16\" width=\"16\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png\" alt=\"✅\" height=\"16\" width=\"16\"> 150k bịch to hẳn 20 gói (hời hơn rất nhiều so với mẫu cũ ạ)</p>",
+    "imageUrl": "https://images.f99.com.vn/images/12e6c47a-ea97-4365-b5ea-3ccc9de79583.jpg",
+    "price": 150000,
+    "oldPrice": 170000,
+    "discountPercent": 12,
+    "stock": 10,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Túi",
+    "sku": "",
+    "origin": "",
+    "sellerId": 172,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô thoáng. HSD xem trên bao bì</p>",
+    "category": {
+      "id": 119,
+      "name": "Cà phê",
+      "imageUrl": "https://images.f99.com.vn/notification-images/da1ab283-5b6e-496d-a1b2-ceb75a42f4fb.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "cafe",
+      "đồ uống",
+      "cafe",
+      "nestcafe",
+      "cafe thái",
+      "nestcafe thái",
+      "thái lan"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/12e6c47a-ea97-4365-b5ea-3ccc9de79583.jpg",
+      "https://images.f99.com.vn/images/f42f0f86-249f-42c1-afb2-784ddf855544.jpg",
+      "https://images.f99.com.vn/images/493b4a77-52c6-43a8-84a1-2b402bc3eff1.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12871",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 172,
+      "sellerRate": 4.4,
+      "sellerName": "SS Home Mart",
+      "warehouseId": "43079af3-c880-4cb2-a02d-39e8b9a996c0",
+      "warehouseAddress": "253 Thụy Khuê, phường Thụy Khuê, quận Tây Hồ, Hà Nội",
+      "distance": 2568,
+      "warehouseDistrict": "tay ho",
+      "reputation": 54.97361194029909,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14577,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cà phê hòa tan DAVIDOFF CAFÉ - Espresso 57 - 100% hạt Arabica - Vị đắng mãnh liệt - 100gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/b14be79f-473b-48c6-99f7-fc3711e33c1e.jpg\",\"https://images.f99.com.vn/images/19448c14-de9e-462e-8749-49a20ffe332e.jpg\",\"https://images.f99.com.vn/images/91ee0ea8-a69a-4197-bd60-9da90f0fa610.jpg\",\"https://images.f99.com.vn/images/2bf7f450-23c9-4778-bceb-aece26b23ff7.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cà phê hòa tan DAVIDOFF CAFÉ - Espresso 57 - 100% hạt Arabica - Vị đắng mãnh liệt - 100gr",
+    "description": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/b14be79f-473b-48c6-99f7-fc3711e33c1e.jpg",
+    "price": 210000,
+    "oldPrice": 230000,
+    "discountPercent": 9,
+    "stock": 500,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "100gr",
+    "sku": "",
+    "origin": "",
+    "sellerId": 255,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 119,
+      "name": "Cà phê",
+      "imageUrl": "https://images.f99.com.vn/notification-images/da1ab283-5b6e-496d-a1b2-ceb75a42f4fb.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/b14be79f-473b-48c6-99f7-fc3711e33c1e.jpg",
+      "https://images.f99.com.vn/images/19448c14-de9e-462e-8749-49a20ffe332e.jpg",
+      "https://images.f99.com.vn/images/91ee0ea8-a69a-4197-bd60-9da90f0fa610.jpg",
+      "https://images.f99.com.vn/images/2bf7f450-23c9-4778-bceb-aece26b23ff7.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14577",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 255,
+      "sellerRate": 4.1,
+      "sellerName": "Minhanhltd",
+      "warehouseId": "5c749d1f-29b7-4ef6-a3d5-81eb84ba9f24",
+      "warehouseAddress": "117/117 Thái Hà, Trung Liệt, Đống Đa, Hà Nội",
+      "distance": 2222,
+      "warehouseDistrict": "dong da",
+      "reputation": 73.26328727272875,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14579,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cà phê hòa tan DAVIDOFF CAFÉ - Fine Aroma - 100% hạt Arabica - Vị chua thanh, hương thơm nồng nàn - 100g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/4483ad71-86c8-45be-b514-4cc3b496f968.jpg\",\"https://images.f99.com.vn/images/185cec92-4104-4484-a973-4ddae2b08e90.jpg\",\"https://images.f99.com.vn/images/15df0252-dcc4-4c94-a3bd-fab2b15e1b4f.jpg\",\"https://images.f99.com.vn/images/f4829963-87ef-48c2-88ad-77b1cbaec560.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cà phê hòa tan DAVIDOFF CAFÉ - Fine Aroma - 100% hạt Arabica - Vị chua thanh, hương thơm nồng nàn - 100g",
+    "description": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/4483ad71-86c8-45be-b514-4cc3b496f968.jpg",
+    "price": 210000,
+    "oldPrice": 230000,
+    "discountPercent": 9,
+    "stock": 500,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "100g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 255,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 119,
+      "name": "Cà phê",
+      "imageUrl": "https://images.f99.com.vn/notification-images/da1ab283-5b6e-496d-a1b2-ceb75a42f4fb.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/4483ad71-86c8-45be-b514-4cc3b496f968.jpg",
+      "https://images.f99.com.vn/images/185cec92-4104-4484-a973-4ddae2b08e90.jpg",
+      "https://images.f99.com.vn/images/15df0252-dcc4-4c94-a3bd-fab2b15e1b4f.jpg",
+      "https://images.f99.com.vn/images/f4829963-87ef-48c2-88ad-77b1cbaec560.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14579",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 255,
+      "sellerRate": 4.1,
+      "sellerName": "Minhanhltd",
+      "warehouseId": "5c749d1f-29b7-4ef6-a3d5-81eb84ba9f24",
+      "warehouseAddress": "117/117 Thái Hà, Trung Liệt, Đống Đa, Hà Nội",
+      "distance": 2222,
+      "warehouseDistrict": "dong da",
+      "reputation": 73.26328727272875,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14619,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cà phê hòa tan TCHIBO BLACK & WHITE - 80% Robusta 20% Arabica - Vị đắng đậm đà - lọ 100g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/8f247e32-d784-4476-8a59-62a97cab3a3c.jpg\",\"https://images.f99.com.vn/images/edfe4146-2920-48ce-b7ad-c67fd99e3226.jpg\",\"https://images.f99.com.vn/images/f4fe4ac4-3ca8-470f-b750-e083497ecda8.jpg\",\"https://images.f99.com.vn/images/99b85289-c9c0-4a58-bda3-83acb37bbe86.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cà phê hòa tan TCHIBO BLACK & WHITE - 80% Robusta 20% Arabica - Vị đắng đậm đà - lọ 100g",
+    "description": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/8f247e32-d784-4476-8a59-62a97cab3a3c.jpg",
+    "price": 160000,
+    "oldPrice": 180000,
+    "discountPercent": 11,
+    "stock": 500,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "100g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 255,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 119,
+      "name": "Cà phê",
+      "imageUrl": "https://images.f99.com.vn/notification-images/da1ab283-5b6e-496d-a1b2-ceb75a42f4fb.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/8f247e32-d784-4476-8a59-62a97cab3a3c.jpg",
+      "https://images.f99.com.vn/images/edfe4146-2920-48ce-b7ad-c67fd99e3226.jpg",
+      "https://images.f99.com.vn/images/f4fe4ac4-3ca8-470f-b750-e083497ecda8.jpg",
+      "https://images.f99.com.vn/images/99b85289-c9c0-4a58-bda3-83acb37bbe86.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14619",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 255,
+      "sellerRate": 4.1,
+      "sellerName": "Minhanhltd",
+      "warehouseId": "5c749d1f-29b7-4ef6-a3d5-81eb84ba9f24",
+      "warehouseAddress": "117/117 Thái Hà, Trung Liệt, Đống Đa, Hà Nội",
+      "distance": 2222,
+      "warehouseDistrict": "dong da",
+      "reputation": 73.26328727272875,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14621,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cà phê hòa tan TCHIBO GOLD - 80% Robusta 20% Arabica - Vị đắng đậm và thơm nhẹ - lọ 100g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/65421ff5-c922-4180-a2d8-55d4424e1382.jpg\",\"https://images.f99.com.vn/images/c2d4b713-5bb3-4450-a209-1fd09fdfef5d.jpg\",\"https://images.f99.com.vn/images/c7df508a-1d32-4f90-9e87-f686ee849b1b.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cà phê hòa tan TCHIBO GOLD - 80% Robusta 20% Arabica - Vị đắng đậm và thơm nhẹ - lọ 100g",
+    "description": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/65421ff5-c922-4180-a2d8-55d4424e1382.jpg",
+    "price": 160000,
+    "oldPrice": 180000,
+    "discountPercent": 11,
+    "stock": 500,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "100g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 255,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 119,
+      "name": "Cà phê",
+      "imageUrl": "https://images.f99.com.vn/notification-images/da1ab283-5b6e-496d-a1b2-ceb75a42f4fb.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/65421ff5-c922-4180-a2d8-55d4424e1382.jpg",
+      "https://images.f99.com.vn/images/c2d4b713-5bb3-4450-a209-1fd09fdfef5d.jpg",
+      "https://images.f99.com.vn/images/c7df508a-1d32-4f90-9e87-f686ee849b1b.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14621",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 255,
+      "sellerRate": 4.1,
+      "sellerName": "Minhanhltd",
+      "warehouseId": "5c749d1f-29b7-4ef6-a3d5-81eb84ba9f24",
+      "warehouseAddress": "117/117 Thái Hà, Trung Liệt, Đống Đa, Hà Nội",
+      "distance": 2222,
+      "warehouseDistrict": "dong da",
+      "reputation": 73.26328727272875,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 17647,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cafe Passiona bổ sung collagen",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgba(0, 0, 0, 0.8);\">Cà phê Passiona hòa tan 4in1 hộp 14 gói 16gr</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Passiona 4in1 - Cà phê dành cho phái đẹp.</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Với hàm lượng caffein thấp, bổ sung collagen, chất chống lão hóa, cùng với một số loại thảo mộc Phương Đông và đường ăn kiêng, Trung Nguyên đã tạo ra một sản phẩm cà phê đặc biệt đầu tiên và duy nhất dành cho những người phụ nữ đam mê hương vị cà phê.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Khi thưởng thức Passiona, chị em phụ nữ sẽ có một tinh thần sảng khoái, làn da khỏe đẹp mà lại không lo tăng cân vì đường sữa.</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Nhà sản xuất:Trung Nguyên.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Thành phần:Cà phê, sữa, đường, collgen.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Đặc điểm:Hàm lượng caffein thấp, bổ sung collagen cho da và sắc đẹp của phụ nữ.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hạn sử dụng:2 năm.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Khối lượng:Hộp 14 gói x 16gr.</span></p><p><br></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Thương hiệu:\tTrung Nguyên</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Đơn vị tính:\tHộp</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Quy cách đóng thùng:\t24 Hộp/Thùng</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Trọng lượng tịnh:\t14 sticks x 16gr</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Kích thước:\t105*57*157 mm</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hạn sử dụng:\t2 năm</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Xuất xứ:\tViệt Nam</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Chỉ tiêu chất lượng\tĐộ ẩm ≤ 5 % Hàm lượng cafeine ≥ 0.1 %</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hướng dẫn sử dụng\tCà phê G7 Passiona thích hợp cho cả uống nóng và uống đá. Để có ly cà phê tuyệt hảo, cần pha đủ liều lượng nước theo hướng dẫn trên bao bì.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/3fd79f47-584c-4235-b560-9d37d29b8726.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cafe Passiona bổ sung collagen",
+    "description": "<p><span style=\"color: rgba(0, 0, 0, 0.8);\">Cà phê Passiona hòa tan 4in1 hộp 14 gói 16gr</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Passiona 4in1 - Cà phê dành cho phái đẹp.</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Với hàm lượng caffein thấp, bổ sung collagen, chất chống lão hóa, cùng với một số loại thảo mộc Phương Đông và đường ăn kiêng, Trung Nguyên đã tạo ra một sản phẩm cà phê đặc biệt đầu tiên và duy nhất dành cho những người phụ nữ đam mê hương vị cà phê.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Khi thưởng thức Passiona, chị em phụ nữ sẽ có một tinh thần sảng khoái, làn da khỏe đẹp mà lại không lo tăng cân vì đường sữa.</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Nhà sản xuất:Trung Nguyên.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Thành phần:Cà phê, sữa, đường, collgen.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Đặc điểm:Hàm lượng caffein thấp, bổ sung collagen cho da và sắc đẹp của phụ nữ.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hạn sử dụng:2 năm.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Khối lượng:Hộp 14 gói x 16gr.</span></p><p><br></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Thương hiệu:\tTrung Nguyên</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Đơn vị tính:\tHộp</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Quy cách đóng thùng:\t24 Hộp/Thùng</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Trọng lượng tịnh:\t14 sticks x 16gr</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Kích thước:\t105*57*157 mm</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hạn sử dụng:\t2 năm</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Xuất xứ:\tViệt Nam</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Chỉ tiêu chất lượng\tĐộ ẩm ≤ 5 % Hàm lượng cafeine ≥ 0.1 %</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hướng dẫn sử dụng\tCà phê G7 Passiona thích hợp cho cả uống nóng và uống đá. Để có ly cà phê tuyệt hảo, cần pha đủ liều lượng nước theo hướng dẫn trên bao bì.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/3fd79f47-584c-4235-b560-9d37d29b8726.jpg",
+    "price": 40000,
+    "oldPrice": 44000,
+    "discountPercent": 9,
+    "stock": 10,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Hộp (14 gói)",
+    "sku": "cf",
+    "origin": "",
+    "sellerId": 244,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 119,
+      "name": "Cà phê",
+      "imageUrl": "https://images.f99.com.vn/notification-images/da1ab283-5b6e-496d-a1b2-ceb75a42f4fb.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/3fd79f47-584c-4235-b560-9d37d29b8726.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/17647",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Hộp (14 gói)"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 92949,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Hộp (14 gói)",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Hộp (14 gói)",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Hộp (14 gói)",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 40000,
+        "oldPrice": 44000,
+        "discountPercent": 9,
+        "stock": 10,
+        "totalSold": 0,
+        "unit": "Hộp (14 gói)",
+        "sku": "cf",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Hộp (14 gói)"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 244,
+      "sellerRate": 4.7,
+      "sellerName": "VIHAFOOD - Đặc sản vùng miền",
+      "warehouseId": "cf85b1b1-6f2a-49b3-b125-e261f6bfc30a",
+      "warehouseAddress": "111 Phố Đội Cấn, Ba Đình, Hà Nội",
+      "distance": 1098,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 80.86123101095345,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 18028,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cà phê hòa tan TCHIBO FAMILY - 100% Robusta - Vị đắng đậm đà - 200g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/5d82183d-4444-417a-ad5c-e2552c995d02.jpg\",\"https://images.f99.com.vn/images/3aa2a4d8-c7d0-48fa-ae8a-07a36c8ce960.jpg\",\"https://images.f99.com.vn/images/638867a2-be5c-4e61-8547-4079f48be28b.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cà phê hòa tan TCHIBO FAMILY - 100% Robusta - Vị đắng đậm đà - 200g",
+    "description": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/5d82183d-4444-417a-ad5c-e2552c995d02.jpg",
+    "price": 220000,
+    "oldPrice": 240000,
+    "discountPercent": 8,
+    "stock": 500,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "200g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 255,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 119,
+      "name": "Cà phê",
+      "imageUrl": "https://images.f99.com.vn/notification-images/da1ab283-5b6e-496d-a1b2-ceb75a42f4fb.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/5d82183d-4444-417a-ad5c-e2552c995d02.jpg",
+      "https://images.f99.com.vn/images/3aa2a4d8-c7d0-48fa-ae8a-07a36c8ce960.jpg",
+      "https://images.f99.com.vn/images/638867a2-be5c-4e61-8547-4079f48be28b.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/18028",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 255,
+      "sellerRate": 4.1,
+      "sellerName": "Minhanhltd",
+      "warehouseId": "5c749d1f-29b7-4ef6-a3d5-81eb84ba9f24",
+      "warehouseAddress": "117/117 Thái Hà, Trung Liệt, Đống Đa, Hà Nội",
+      "distance": 2222,
+      "warehouseDistrict": "dong da",
+      "reputation": 73.26328727272875,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 18029,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cà phê hòa tan dạng thanh DAVIDOFF CAFÉ RICH AROMA - 100% hạt Arabica - thơm nhẹ, chua đắng cân bằng - 45g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/98323173-d614-40c3-8b8a-5e82650ea4c4.jpg\",\"https://images.f99.com.vn/images/221512a1-9ca4-4803-b83c-3da4716df9cf.jpg\",\"https://images.f99.com.vn/images/e34f323f-eb37-4533-8514-2a6508b234ed.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cà phê hòa tan dạng thanh DAVIDOFF CAFÉ RICH AROMA - 100% hạt Arabica - thơm nhẹ, chua đắng cân bằng - 45g",
+    "description": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/98323173-d614-40c3-8b8a-5e82650ea4c4.jpg",
+    "price": 129000,
+    "oldPrice": 141900,
+    "discountPercent": 9,
+    "stock": 500,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "45g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 255,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 119,
+      "name": "Cà phê",
+      "imageUrl": "https://images.f99.com.vn/notification-images/da1ab283-5b6e-496d-a1b2-ceb75a42f4fb.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/98323173-d614-40c3-8b8a-5e82650ea4c4.jpg",
+      "https://images.f99.com.vn/images/221512a1-9ca4-4803-b83c-3da4716df9cf.jpg",
+      "https://images.f99.com.vn/images/e34f323f-eb37-4533-8514-2a6508b234ed.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/18029",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 255,
+      "sellerRate": 4.1,
+      "sellerName": "Minhanhltd",
+      "warehouseId": "5c749d1f-29b7-4ef6-a3d5-81eb84ba9f24",
+      "warehouseAddress": "117/117 Thái Hà, Trung Liệt, Đống Đa, Hà Nội",
+      "distance": 2222,
+      "warehouseDistrict": "dong da",
+      "reputation": 73.26328727272875,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 18030,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cà phê nguyên hạt DAVIDOFF CAFÉ ESPRESSO 57 - 100% hạt Arabica - Thơm phảng phất, đắng đậm đà - túi 500g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/32e7d3d9-b78d-4251-bf1b-39c3cc3e6eee.jpg\",\"https://images.f99.com.vn/images/9ea2c21f-ce3d-41a5-af35-c8f24da82b55.jpg\",\"https://images.f99.com.vn/images/b853e10d-78d7-4529-8a44-d7f9af827d02.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cà phê nguyên hạt DAVIDOFF CAFÉ ESPRESSO 57 - 100% hạt Arabica - Thơm phảng phất, đắng đậm đà - túi 500g",
+    "description": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/32e7d3d9-b78d-4251-bf1b-39c3cc3e6eee.jpg",
+    "price": 360000,
+    "oldPrice": 400000,
+    "discountPercent": 10,
+    "stock": 500,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "500g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 255,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 119,
+      "name": "Cà phê",
+      "imageUrl": "https://images.f99.com.vn/notification-images/da1ab283-5b6e-496d-a1b2-ceb75a42f4fb.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/32e7d3d9-b78d-4251-bf1b-39c3cc3e6eee.jpg",
+      "https://images.f99.com.vn/images/9ea2c21f-ce3d-41a5-af35-c8f24da82b55.jpg",
+      "https://images.f99.com.vn/images/b853e10d-78d7-4529-8a44-d7f9af827d02.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/18030",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 255,
+      "sellerRate": 4.1,
+      "sellerName": "Minhanhltd",
+      "warehouseId": "5c749d1f-29b7-4ef6-a3d5-81eb84ba9f24",
+      "warehouseAddress": "117/117 Thái Hà, Trung Liệt, Đống Đa, Hà Nội",
+      "distance": 2222,
+      "warehouseDistrict": "dong da",
+      "reputation": 73.26328727272875,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 21054,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cà phê hòa tan TCHIBO GOLD - 80% Robusta 20% Arabica - Vị đắng đậm và thơm nhẹ - lọ 50g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/eaf0af48-f732-4204-9765-45bff965fa77.jpg\",\"https://images.f99.com.vn/images/7a1dcdf2-1f93-4bfc-9a93-2b5c8e4e7e7d.jpg\",\"https://images.f99.com.vn/images/eb0de5bf-e07e-40dc-a5dc-5bcdea4d285d.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cà phê hòa tan TCHIBO GOLD - 80% Robusta 20% Arabica - Vị đắng đậm và thơm nhẹ - lọ 50g",
+    "description": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/eaf0af48-f732-4204-9765-45bff965fa77.jpg",
+    "price": 90000,
+    "oldPrice": 99000,
+    "discountPercent": 9,
+    "stock": 500,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "50g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 255,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 119,
+      "name": "Cà phê",
+      "imageUrl": "https://images.f99.com.vn/notification-images/da1ab283-5b6e-496d-a1b2-ceb75a42f4fb.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/eaf0af48-f732-4204-9765-45bff965fa77.jpg",
+      "https://images.f99.com.vn/images/7a1dcdf2-1f93-4bfc-9a93-2b5c8e4e7e7d.jpg",
+      "https://images.f99.com.vn/images/eb0de5bf-e07e-40dc-a5dc-5bcdea4d285d.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/21054",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 255,
+      "sellerRate": 4.1,
+      "sellerName": "Minhanhltd",
+      "warehouseId": "5c749d1f-29b7-4ef6-a3d5-81eb84ba9f24",
+      "warehouseAddress": "117/117 Thái Hà, Trung Liệt, Đống Đa, Hà Nội",
+      "distance": 2222,
+      "warehouseDistrict": "dong da",
+      "reputation": 73.26328727272875,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 35165,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/6b71c915-cc7c-4f26-9ebf-37e8fa83d5d6.jpg\",\"https://images.f99.com.vn/images/1516ee57-0492-425a-82ed-32c94c300316.jpg\",\"https://images.f99.com.vn/images/2dc9c696-92f9-4985-8d6d-3891f8fc64d4.jpg\",\"https://images.f99.com.vn/images/7ea3564b-d70b-49b5-b080-ecb40dd219b8.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Quả Cafe Kem Buôn mê thuột Đắc lắk vào việc đừng hỏi luônnn thề. Sắt ra miếng luôn dân sành hay ko uống đc cafe còn phải mê e nói thật. Các ca sĩ nổi tiếng đều check in uống cafe này ở đắc lắk đó ạ <img src=\"https://www.facebook.com/images/emoji.php/v9/t39/1.5/16/1f91e_1f3fb.png\" alt=\"🤞🏻\" height=\"16\" width=\"16\"> </p><p><a href=\"https://www.facebook.com/hashtag/230k?__eep__=6&amp;__cft__[0]=AZVzVs3fLFcKIShhEhITLKC45srHpLaqzj35LgTGnP6hcgje_-L9tIYvaK4eMXutAunWN-d9f8K3rSVg7JSYL80KquCRj708Q0hz_RF96SuDZ8XQTSzJNN7cqPjVfGmAnNk&amp;__tn__=*NK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">#230k</a>/set 2 chai gồm 1 chai kem, 1 chai cafe đen. </p><p>Pha tỉ lệ 1:1 cho chút đá vào là ngon ơ <img src=\"https://www.facebook.com/images/emoji.php/v9/t63/1.5/16/270c_1f3fb.png\" alt=\"✌🏻\" height=\"16\" width=\"16\"></p><p>Bảo quản tủ lạnh dc 1 tháng, 2 chai pha dc 7-10 cốc</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "CAFE KEM BUÔN MÊ THUỘT -  ĐẮC LĂCK (COMBO ĐEN +NÂU)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "CAFE KEM BUÔN MÊ THUỘT -  ĐẮC LĂCK (COMBO ĐEN +NÂU)",
+    "description": "<p>Quả Cafe Kem Buôn mê thuột Đắc lắk vào việc đừng hỏi luônnn thề. Sắt ra miếng luôn dân sành hay ko uống đc cafe còn phải mê e nói thật. Các ca sĩ nổi tiếng đều check in uống cafe này ở đắc lắk đó ạ <img src=\"https://www.facebook.com/images/emoji.php/v9/t39/1.5/16/1f91e_1f3fb.png\" alt=\"🤞🏻\" height=\"16\" width=\"16\"> </p><p><a href=\"https://www.facebook.com/hashtag/230k?__eep__=6&amp;__cft__[0]=AZVzVs3fLFcKIShhEhITLKC45srHpLaqzj35LgTGnP6hcgje_-L9tIYvaK4eMXutAunWN-d9f8K3rSVg7JSYL80KquCRj708Q0hz_RF96SuDZ8XQTSzJNN7cqPjVfGmAnNk&amp;__tn__=*NK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">#230k</a>/set 2 chai gồm 1 chai kem, 1 chai cafe đen. </p><p>Pha tỉ lệ 1:1 cho chút đá vào là ngon ơ <img src=\"https://www.facebook.com/images/emoji.php/v9/t63/1.5/16/270c_1f3fb.png\" alt=\"✌🏻\" height=\"16\" width=\"16\"></p><p>Bảo quản tủ lạnh dc 1 tháng, 2 chai pha dc 7-10 cốc</p>",
+    "imageUrl": "https://images.f99.com.vn/images/6b71c915-cc7c-4f26-9ebf-37e8fa83d5d6.jpg",
+    "price": 230000,
+    "oldPrice": 250000,
+    "discountPercent": 8,
+    "stock": 5,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "2 CHAI",
+    "sku": "",
+    "origin": "",
+    "sellerId": 169,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 119,
+      "name": "Cà phê",
+      "imageUrl": "https://images.f99.com.vn/notification-images/da1ab283-5b6e-496d-a1b2-ceb75a42f4fb.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/6b71c915-cc7c-4f26-9ebf-37e8fa83d5d6.jpg",
+      "https://images.f99.com.vn/images/1516ee57-0492-425a-82ed-32c94c300316.jpg",
+      "https://images.f99.com.vn/images/2dc9c696-92f9-4985-8d6d-3891f8fc64d4.jpg",
+      "https://images.f99.com.vn/images/7ea3564b-d70b-49b5-b080-ecb40dd219b8.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/35165",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 169,
+      "sellerRate": 4.6,
+      "sellerName": "Hương Chiaki",
+      "warehouseId": "ae5e8b40-5ad0-4501-a5e1-49de15d5e660",
+      "warehouseAddress": "102A3 phố 8/3, Quỳnh Mai, Hai Bà Trưng, Hà Nội",
+      "distance": 4083,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 65.2382346420427,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 35970,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cafe rang xay",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(0, 26, 51);\">Cafe rang xay nguyên chất được được chế biến từ 100% hạt cafe không pha lẫn các thành tố hay các phụ phẩm khác. Hương thơm của cafe rang xay nguyên chất có mùi không quá nồng đậm, không quá mạnh mẽ mà dịu dàng, thanh tao, tinh tế.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/53f2cfbf-b6d4-436e-b2de-ceecfa6b2925.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Hàng Việt Nam Chất lượng cao\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cafe rang xay",
+    "description": "<p><span style=\"color: rgb(0, 26, 51);\">Cafe rang xay nguyên chất được được chế biến từ 100% hạt cafe không pha lẫn các thành tố hay các phụ phẩm khác. Hương thơm của cafe rang xay nguyên chất có mùi không quá nồng đậm, không quá mạnh mẽ mà dịu dàng, thanh tao, tinh tế.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/53f2cfbf-b6d4-436e-b2de-ceecfa6b2925.jpg",
+    "price": 175000,
+    "oldPrice": 180000,
+    "discountPercent": 3,
+    "stock": 100,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "0.5 kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 480,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Để nơi khô ráo,thoáng mát, để trong túi hoặc hộp kín</p>",
+    "category": {
+      "id": 119,
+      "name": "Cà phê",
+      "imageUrl": "https://images.f99.com.vn/notification-images/da1ab283-5b6e-496d-a1b2-ceb75a42f4fb.png",
+      "parentId": 98,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Hàng Việt Nam Chất lượng cao"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/53f2cfbf-b6d4-436e-b2de-ceecfa6b2925.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/35970",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 480,
+      "sellerRate": 4.8,
+      "sellerName": "NÚI MART",
+      "warehouseId": "16ca5334-03c6-42f8-994d-d9b43439ca74",
+      "warehouseAddress": " Hà Nội,  Ba Đình,  Liễu Giai, 120 Vạn Phúc",
+      "distance": 2150,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 76.17257142857189,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

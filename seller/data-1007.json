@@ -1,0 +1,35 @@
+{
+  "id": 1007,
+  "name": "Mộc Hương",
+  "logo": "https://images.f99.com.vn/groupbuy-images/b0dea6c4-0376-4c8a-99ad-3159d2d451c5.PNG",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Các sản phẩm của chúng tôi được xuất phát từ nông sản Việt Nam, mang lại độ an toàn và thân thiện đến người dùng và môi trường.",
+  "headQuarter": "Số 5 ngõ 110 Quan Nhân, phường Nhân Chính, quận Thanh Xuân, thành phố Hà Nội, Nhân Chính, Thanh Xuân, Hà Nội",
+  "email": "Hoanghieu.mochuong@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "17:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

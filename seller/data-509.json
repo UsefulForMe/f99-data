@@ -1,0 +1,35 @@
+{
+  "id": 509,
+  "name": "TRANG TRẠI MOOMOO ",
+  "logo": "https://cdn.f99.link/groupbuy-images/4431d293-6d7b-46a7-8447-e3906c21ae28.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "- Chủ nhật hàng tuần cửa hàng sẽ nghỉ nên đơn được đặt sẽ dồn sang ngày thứ 2 giao\n- Cung cấp các sản phẩm hoa quả sạch, thực phẩm và đặc sản của các vùng miền.\n- Ngoài ra còn cung cấp các loại hoa quả, thực phẩm nhập khẩu từ các nước như Nhật, Mỹ, Canada, Úc…",
+  "headQuarter": "101 Nguyễn Thị Định, Trung Hòa, Cầu Giấy, Hà Nội",
+  "email": "Hienttt1982@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": false,
+  "rating": 4.8,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "17:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 25
+}

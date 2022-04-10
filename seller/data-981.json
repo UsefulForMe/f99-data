@@ -1,0 +1,35 @@
+{
+  "id": 981,
+  "name": "Yummy Food",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/8a4495f7-3558-416c-ab76-9004dd2a9ea3.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp những sản phẩm ô mai ngon, lành, đẹp, đảm bảo vệ sinh an toàn thực phẩm. Cùng dịch vụ chu đáo, thân thiện",
+  "headQuarter": "175 Âu Cơ, Tứ Liên, Tây Hồ, Hà Nội, Tứ Liên, Tây Hồ, Hà Nội",
+  "email": "Nguyenthu.toamstudio@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

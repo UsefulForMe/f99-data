@@ -1,0 +1,35 @@
+{
+  "id": 1006,
+  "name": "TigFood-Thực phẩm sạch",
+  "logo": "https://images.f99.com.vn/groupbuy-images/38c16c98-2dcb-42e3-8d9a-79bad75c1e97.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp các loại thực phẩm, hoa quả sạch: Bưởi da xanh, Bơ booth, mít Thái, sầu RI6, Gà Đông Tảo, Giò gà đông tảo….",
+  "headQuarter": "Lô 07 - Ô 06 Khu ĐTM Tây Nam Linh Đàm, Phường Hoàng Liệt, Quận Hoàng Mai, TP Hà Nội, Hoàng Liệt, Hoàng Mai, Hà Nội",
+  "email": "Tigfood1111@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "17:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

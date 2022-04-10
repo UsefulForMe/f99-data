@@ -1,0 +1,35 @@
+{
+  "id": 465,
+  "name": "Dừa Xiêm Chè Tiến Linh",
+  "logo": "https://cdn.f99.link/groupbuy-images/ec9bf12a-6f57-48ce-99a8-ce4fa42ff49b.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Dừa Xiêm Chè Tiến Linh chuyên sỉ, lẻ dừa xiêm uy tín , chất lương.",
+  "headQuarter": "57 Giáp Nhất, Thượng Đình, Thanh Xuân, Hà Nội",
+  "email": "nguyentb90@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.7,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 68
+}

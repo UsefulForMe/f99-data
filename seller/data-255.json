@@ -1,0 +1,35 @@
+{
+  "id": 255,
+  "name": "Minhanhltd",
+  "logo": "https://cdn.f99.link/groupbuy-images/2969a32d-40ab-4e60-b396-40d2dde6e365.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Công ty TNHH Thương mại và Tư vấn Minh Anh - Chuyên nhập khẩu và phân phối độc quyền các thương hiệu nổi tiếng trên thế giới như: cà phê Tchibo và Davidoff (CHLB Đức), hạt rang Blue Diamond ( Thái Lan),…Công ty có hệ thống phân phối trên toàn quốc bao gồm các siêu thị lớn, shop tiện lợi, khách sạn 4, 5*, sân bay quốc tế….",
+  "headQuarter": "117/117 Thái Hà, Trung Liệt, Đống Đa, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.1,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 9
+}

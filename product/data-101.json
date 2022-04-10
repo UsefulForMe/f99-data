@@ -1,0 +1,1261 @@
+[
+  {
+    "id": 2843,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Vú Sữa",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Vú sữa có hương thơm và vị ngọt thanh tự nhiên.</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Quả to tròn đều rất đẹp mắt.</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Bảo quản tươi ngon và giao hàng đến tận tay quý khách.</span></p><p><span style=\"color: rgb(0, 0, 0);\">﻿</span><img src=\"https://images.f99.com.vn/images/29120e6e-cf89-4891-a16e-e7ba0a77b2d7.png\"></p><p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">THÔNG TIN SẢN PHẨM:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Trái vú sữa có kích thích to khoảng bằng một nắm tay, có hình dạng tròn, có lớp vỏ xanh bóng, thơm béo như mùi sữa.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Mùa vú sữa bắt đầu vào khoảng tháng Chạp, cuối năm. Sau mỗi vụ thu hoạch, vú sữa sẽ tiếp tục ra trái vào khoảng 4 - 5 tháng sau .</span></p><p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">GIÁ TRỊ DINH DƯỠNG:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Cung cấp một lượng vitamin, vi chất và chất chống oxy hóa giúp cơ thể luôn khỏe mạnh, phát triển, phòng chống bệnh thiếu máu, còi xương, mắt sáng, đẹp da.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Giàu chất xơ giúp cho nhuận tràng, điều trị táo bón.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Tác dụng giảm cân.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Cung cấp Glucid cho cơ thể.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Hàm lượng canxi trong vú sữa còn có tác dụng làm giảm và làm biến mất chứng đau bụng, chuột rút đầy hơi của phụ nữ vào những ngày trước chu kỳ kinh.</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">﻿</span><img src=\"https://images.f99.com.vn/images/b41b5fe6-e116-4e7a-bf5a-034c6b1d8b70.png\"></p><p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">HƯỚNG DẪN SỬ DỤNG:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">&nbsp;Ăn ngay hoặc xay sinh tố.</span></p><p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">HƯỚNG DẪN BẢO QUẢN:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">&nbsp;Bảo quản ở nhiệt thường hoặc trong ngăn mát tủ lạnh.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/580f48cc-cf73-4fe9-b23b-49ef6379d7fa.png\",\"https://images.f99.com.vn/images/3db1628e-1d90-498f-8430-3229f8ace7cc.png\",\"https://images.f99.com.vn/images/2fba4e0f-2d02-453f-977a-66c7993ea502.png\",\"https://images.f99.com.vn/images/b41b5fe6-e116-4e7a-bf5a-034c6b1d8b70.png\",\"https://images.f99.com.vn/images/a43f31bc-7193-49a7-b849-7193c48b3b19.png\",\"https://images.f99.com.vn/images/3aa0b68c-864f-4e05-817d-bbf1fe9391af.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Vú Sữa",
+    "description": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Vú sữa có hương thơm và vị ngọt thanh tự nhiên.</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Quả to tròn đều rất đẹp mắt.</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Bảo quản tươi ngon và giao hàng đến tận tay quý khách.</span></p><p><span style=\"color: rgb(0, 0, 0);\">﻿</span><img src=\"https://images.f99.com.vn/images/29120e6e-cf89-4891-a16e-e7ba0a77b2d7.png\"></p><p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">THÔNG TIN SẢN PHẨM:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Trái vú sữa có kích thích to khoảng bằng một nắm tay, có hình dạng tròn, có lớp vỏ xanh bóng, thơm béo như mùi sữa.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Mùa vú sữa bắt đầu vào khoảng tháng Chạp, cuối năm. Sau mỗi vụ thu hoạch, vú sữa sẽ tiếp tục ra trái vào khoảng 4 - 5 tháng sau .</span></p><p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">GIÁ TRỊ DINH DƯỠNG:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Cung cấp một lượng vitamin, vi chất và chất chống oxy hóa giúp cơ thể luôn khỏe mạnh, phát triển, phòng chống bệnh thiếu máu, còi xương, mắt sáng, đẹp da.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Giàu chất xơ giúp cho nhuận tràng, điều trị táo bón.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Tác dụng giảm cân.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Cung cấp Glucid cho cơ thể.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Hàm lượng canxi trong vú sữa còn có tác dụng làm giảm và làm biến mất chứng đau bụng, chuột rút đầy hơi của phụ nữ vào những ngày trước chu kỳ kinh.</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">﻿</span><img src=\"https://images.f99.com.vn/images/b41b5fe6-e116-4e7a-bf5a-034c6b1d8b70.png\"></p><p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">HƯỚNG DẪN SỬ DỤNG:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">&nbsp;Ăn ngay hoặc xay sinh tố.</span></p><p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">HƯỚNG DẪN BẢO QUẢN:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">&nbsp;Bảo quản ở nhiệt thường hoặc trong ngăn mát tủ lạnh.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/580f48cc-cf73-4fe9-b23b-49ef6379d7fa.png",
+    "price": 64900,
+    "oldPrice": 65000,
+    "discountPercent": 0,
+    "stock": 0,
+    "totalSold": 534,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "20001360",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.5,
+    "instructions": null,
+    "category": {
+      "id": 101,
+      "name": "Vú sữa",
+      "imageUrl": "https://images.f99.com.vn/notification-images/6893ea38-cb45-4aa3-8f0b-0a83a32f0077.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/580f48cc-cf73-4fe9-b23b-49ef6379d7fa.png",
+      "https://images.f99.com.vn/images/3db1628e-1d90-498f-8430-3229f8ace7cc.png",
+      "https://images.f99.com.vn/images/2fba4e0f-2d02-453f-977a-66c7993ea502.png",
+      "https://images.f99.com.vn/images/b41b5fe6-e116-4e7a-bf5a-034c6b1d8b70.png",
+      "https://images.f99.com.vn/images/a43f31bc-7193-49a7-b849-7193c48b3b19.png",
+      "https://images.f99.com.vn/images/3aa0b68c-864f-4e05-817d-bbf1fe9391af.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/2843",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 kg (45k/kg)"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 4641,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg (45k/kg)",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 kg (45k/kg)",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg (45k/kg)",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 64900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 0,
+        "totalSold": 534,
+        "unit": "Kg",
+        "sku": "20001360",
+        "rating": 4.5,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 kg (45k/kg)"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 81989,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Vú sữa tím Bắc Thảo ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Quả vú sữa vị ngọt đậm, thơm lừng và sóng sánh như dòng sữa được coi là một “cực phẩm” đối với các bà mẹ sau sinh vì nó không chỉ là một cách giúp sữa mẹ đặc sánh và thơm hơn, mà nó còn mang đến rất nhiều lợi ích tuyệt vời khác.</p><p>Phụ nữ sau sinh nên ăn quả vú sữa, bởi nó thực sự là một loại quả nhiệt đới cực kỳ giàu dưỡng chất. Theo các nghiên cứu, trong 100g quả vú sữa chín có đến 8g carbohydrate, 1g protein, 3.1g chất béo lành mạnh, 45mg photpho, 18mg canxi, 0.8mg sắt, rất nhiều vitamin cùng nhiều khoáng chất khác.</p><p>VÚ SỮA TÍM BẮC THẢO trái to khoảng 3 quả/kg ,màu đẹp, vỏ cứng, có thể chuyên chở xa không bị dập, thịt mềm mịn và rất ngọt, dai, giòn, ít mủ, ít hột</p><p><br></p><p>==============</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t1c/1/16/1f6d2.png\" alt=\"🛒\" height=\"16\" width=\"16\">Cún Giỏ MiniMart - Chợ cóc Cún Giỏ <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t1c/1/16/1f6d2.png\" alt=\"🛒\" height=\"16\" width=\"16\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t22/1/16/260e.png\" alt=\"☎\" height=\"16\" width=\"16\">Địa chỉ: 228 Đội Cấn</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t22/1/16/260e.png\" alt=\"☎\" height=\"16\" width=\"16\">Hotline: 096.884.7070</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t1e/1/16/1f33f.png\" alt=\"🌿\" height=\"16\" width=\"16\">CAM KẾT HÀNG CHUẨN NGUỒN GỐC, KHÔNG PHA TRỘN</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t1e/1/16/1f33f.png\" alt=\"🌿\" height=\"16\" width=\"16\">CÁM ƠN BẠN ĐÃ TIN DÙNG SẢN PHẨM NÔNG NGHIỆP VIỆT</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/530a6830-c074-4d5c-98f6-c4c8c989e8b3.jpg\",\"https://images.f99.com.vn/images/0dd1c0fe-1065-4656-8fe1-3cf125fcdcda.jpg\",\"https://images.f99.com.vn/images/f86344ed-1935-4548-a6ab-c4b0a63789fe.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"#vusua\",\"#vusuatim\",\"#vusuabacthao\",\"#vusuangon\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Vú sữa tím Bắc Thảo ",
+    "description": "<p>Quả vú sữa vị ngọt đậm, thơm lừng và sóng sánh như dòng sữa được coi là một “cực phẩm” đối với các bà mẹ sau sinh vì nó không chỉ là một cách giúp sữa mẹ đặc sánh và thơm hơn, mà nó còn mang đến rất nhiều lợi ích tuyệt vời khác.</p><p>Phụ nữ sau sinh nên ăn quả vú sữa, bởi nó thực sự là một loại quả nhiệt đới cực kỳ giàu dưỡng chất. Theo các nghiên cứu, trong 100g quả vú sữa chín có đến 8g carbohydrate, 1g protein, 3.1g chất béo lành mạnh, 45mg photpho, 18mg canxi, 0.8mg sắt, rất nhiều vitamin cùng nhiều khoáng chất khác.</p><p>VÚ SỮA TÍM BẮC THẢO trái to khoảng 3 quả/kg ,màu đẹp, vỏ cứng, có thể chuyên chở xa không bị dập, thịt mềm mịn và rất ngọt, dai, giòn, ít mủ, ít hột</p><p><br></p><p>==============</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t1c/1/16/1f6d2.png\" alt=\"🛒\" height=\"16\" width=\"16\">Cún Giỏ MiniMart - Chợ cóc Cún Giỏ <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t1c/1/16/1f6d2.png\" alt=\"🛒\" height=\"16\" width=\"16\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t22/1/16/260e.png\" alt=\"☎\" height=\"16\" width=\"16\">Địa chỉ: 228 Đội Cấn</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t22/1/16/260e.png\" alt=\"☎\" height=\"16\" width=\"16\">Hotline: 096.884.7070</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t1e/1/16/1f33f.png\" alt=\"🌿\" height=\"16\" width=\"16\">CAM KẾT HÀNG CHUẨN NGUỒN GỐC, KHÔNG PHA TRỘN</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t1e/1/16/1f33f.png\" alt=\"🌿\" height=\"16\" width=\"16\">CÁM ƠN BẠN ĐÃ TIN DÙNG SẢN PHẨM NÔNG NGHIỆP VIỆT</p>",
+    "imageUrl": "https://images.f99.com.vn/images/530a6830-c074-4d5c-98f6-c4c8c989e8b3.jpg",
+    "price": 80000,
+    "oldPrice": 95000,
+    "discountPercent": 16,
+    "stock": 0,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 704,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Để nơi thoáng mát, tránh ánh nắng mặt trời. Bảo quản tủ lạnh sẽ lâu hơn</p>",
+    "category": {
+      "id": 101,
+      "name": "Vú sữa",
+      "imageUrl": "https://images.f99.com.vn/notification-images/6893ea38-cb45-4aa3-8f0b-0a83a32f0077.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "#vusua",
+      "#vusuatim",
+      "#vusuabacthao",
+      "#vusuangon"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/530a6830-c074-4d5c-98f6-c4c8c989e8b3.jpg",
+      "https://images.f99.com.vn/images/0dd1c0fe-1065-4656-8fe1-3cf125fcdcda.jpg",
+      "https://images.f99.com.vn/images/f86344ed-1935-4548-a6ab-c4b0a63789fe.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/81989",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 81990,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 80000,
+        "oldPrice": 95000,
+        "discountPercent": 16,
+        "stock": 0,
+        "totalSold": 0,
+        "unit": "Kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Để nơi thoáng mát, tránh ánh nắng mặt trời. Bảo quản tủ lạnh sẽ lâu hơn</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 704,
+      "sellerRate": 4.2,
+      "sellerName": "Cún Giỏ Minimart",
+      "warehouseId": "eaae98fe-1d93-4a7e-8058-bc29b30ce583",
+      "warehouseAddress": " Hà Nội,  Ba Đình,  Liễu Giai, 228 Đội Cấn",
+      "distance": 1841,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 87373,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Vú Sữa Bơ Hồng",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Vú Sữa mỏng vỏ , quả ngọt , thơm</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/b0a62de1-313b-4910-ad9c-e4de9622a132.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Vú Sữa Bơ Hồng",
+    "description": "<p>Vú Sữa mỏng vỏ , quả ngọt , thơm</p>",
+    "imageUrl": "https://images.f99.com.vn/images/b0a62de1-313b-4910-ad9c-e4de9622a132.jpg",
+    "price": 75000,
+    "oldPrice": 189000,
+    "discountPercent": 60,
+    "stock": 6,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 118,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ở tủ mát</p>",
+    "category": {
+      "id": 101,
+      "name": "Vú sữa",
+      "imageUrl": "https://images.f99.com.vn/notification-images/6893ea38-cb45-4aa3-8f0b-0a83a32f0077.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/b0a62de1-313b-4910-ad9c-e4de9622a132.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/87373",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 87374,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 75000,
+        "oldPrice": 189000,
+        "discountPercent": 60,
+        "stock": 6,
+        "totalSold": 1,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ở tủ mát</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 118,
+      "sellerRate": 3.9,
+      "sellerName": "Đinh Hương Fruit",
+      "warehouseId": "7d5007b2-5563-4d11-a461-2b659e39fcf0",
+      "warehouseAddress": "64 Khương Đình, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",
+      "distance": 3572,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 55.8364615384624,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 92361,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Vú sữa Lò Rèn Vip",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p Class=\"ql-align-justify\">- Hình dạng bên ngoài: Quả có dạng hình cầu hoặc hình cầu hơi thuôn, vỏ quả khi chín trắng ửng hồng.</p><p class=\"ql-align-justify\">- Thịt quả: Thịt quả có màu trắng đục, mềm, nước dạng sữa, dày thịt, tỷ lệ thịt quả cao, ít hạt.</p><p class=\"ql-align-justify\">- Hương vị: Vị ngọt béo và mùi thơm nhẹ (độ Brix từ 14 - 17%).</p><p class=\"ql-align-justify\">- Kích thước trung bình: Đường kính 7,3 - 8,4cm, trọng lượng 250 - 350 g/quả.</p><p class=\"ql-align-justify\">- Mùa vụ: Thu hoạch tập trung từ tháng 1 đến tháng 3 dương lịch.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/3d9d1f00-aa64-42a9-b76c-884eda12013a.jpg\",\"https://images.f99.com.vn/images/71bdd271-59d6-4d79-8c1e-0fe92091c30a.jpg\",\"https://images.f99.com.vn/images/062b979a-10fc-4b7e-9470-9fb4cc40d83c.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Vú sữa Lò Rèn Vip",
+    "description": "<p Class=\"ql-align-justify\">- Hình dạng bên ngoài: Quả có dạng hình cầu hoặc hình cầu hơi thuôn, vỏ quả khi chín trắng ửng hồng.</p><p class=\"ql-align-justify\">- Thịt quả: Thịt quả có màu trắng đục, mềm, nước dạng sữa, dày thịt, tỷ lệ thịt quả cao, ít hạt.</p><p class=\"ql-align-justify\">- Hương vị: Vị ngọt béo và mùi thơm nhẹ (độ Brix từ 14 - 17%).</p><p class=\"ql-align-justify\">- Kích thước trung bình: Đường kính 7,3 - 8,4cm, trọng lượng 250 - 350 g/quả.</p><p class=\"ql-align-justify\">- Mùa vụ: Thu hoạch tập trung từ tháng 1 đến tháng 3 dương lịch.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/3d9d1f00-aa64-42a9-b76c-884eda12013a.jpg",
+    "price": 65000,
+    "oldPrice": 70000,
+    "discountPercent": 7,
+    "stock": 500,
+    "totalSold": 9,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "a4",
+    "origin": "",
+    "sellerId": 1023,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 101,
+      "name": "Vú sữa",
+      "imageUrl": "https://images.f99.com.vn/notification-images/6893ea38-cb45-4aa3-8f0b-0a83a32f0077.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/3d9d1f00-aa64-42a9-b76c-884eda12013a.jpg",
+      "https://images.f99.com.vn/images/71bdd271-59d6-4d79-8c1e-0fe92091c30a.jpg",
+      "https://images.f99.com.vn/images/062b979a-10fc-4b7e-9470-9fb4cc40d83c.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/92361",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 92362,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 65000,
+        "oldPrice": 70000,
+        "discountPercent": 7,
+        "stock": 500,
+        "totalSold": 9,
+        "unit": "Kg",
+        "sku": "a4",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1023,
+      "sellerRate": 4.5,
+      "sellerName": "Minh Lâm",
+      "warehouseId": "ebf381a5-e009-4cd4-8974-e1550c3ba968",
+      "warehouseAddress": "số 146 Nguyễn Đổng Chi, Phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội,  Cầu Diễn,  Nam Từ Liêm,  Hà Nội",
+      "distance": 7348,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 0,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 97055,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Vú Sữa",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Vú Sữa&nbsp;*Trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>* Tên sản phẩm: Dừa xiêm là một trái cây sạch, không chịu ảnh hưởng về thuốc bảo vệ thực vật như các loại trái cây khác. Tuy nhiên trên thị trường hiện nay đã sử dụng hóa chất để làm cho loại trái cây “giếng trời” này thêm hấp dẫn với các chiệu thức đại loại như ngâm thuốc tẩy, tiêm chích đường hóa học vào quả dừa. Chính vì thế để mua dừa xiêm sạch cần mua loại nguyên quả để an toàn hơn.</p><p><br></p><p>👍Cách bảo quản:</p><p>- Bọc kín trong hộp hoặc túi nilon bảo quản trong ngăn mát đối với rau củ quả/ ngăn đá đối với thịt/ cá</p><p>👍Cam kết của HOMEYFOOD đối với khách hàng:</p><p>- Sản phẩm có xuất xứ rõ ràng</p><p>- Quá trình chăn nuôi không sử dụng hóa chất có hại cho sức khỏe</p><p>- Quy trình sơ chế và đóng gói đảm bảo vệ sinh an toàn thực phẩm</p><p>- Cam kết hoàn trả nếu phát hiện sản phẩm thiếu, hỏng</p><p><br></p><p>Với tâm huyết mang đến sản phẩm chất lượng hơn mỗi ngày, chúng mình luôn sẵn sàng lắng nghe phản hồi của các bạn qua:</p><p>Hotline: 082.3232374</p><p>Fanpage: Homeyfood.net</p><p>Website: https://www.homeyfood.net</p><p>Mua hàng tại Shopee: Homeyfood.net</p><p><br></p><p>#homeyfood #dưaxiem</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/803fbdd3-a974-45be-bbe5-83a30fbb7829.jpg\",\"https://images.f99.com.vn/images/1542d915-d500-4911-a28a-32a81f8362b9.jpg\",\"https://images.f99.com.vn/images/501785be-309c-47d4-8680-1521382e836a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Vú Sữa",
+    "description": "<p>Vú Sữa&nbsp;*Trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>* Tên sản phẩm: Dừa xiêm là một trái cây sạch, không chịu ảnh hưởng về thuốc bảo vệ thực vật như các loại trái cây khác. Tuy nhiên trên thị trường hiện nay đã sử dụng hóa chất để làm cho loại trái cây “giếng trời” này thêm hấp dẫn với các chiệu thức đại loại như ngâm thuốc tẩy, tiêm chích đường hóa học vào quả dừa. Chính vì thế để mua dừa xiêm sạch cần mua loại nguyên quả để an toàn hơn.</p><p><br></p><p>👍Cách bảo quản:</p><p>- Bọc kín trong hộp hoặc túi nilon bảo quản trong ngăn mát đối với rau củ quả/ ngăn đá đối với thịt/ cá</p><p>👍Cam kết của HOMEYFOOD đối với khách hàng:</p><p>- Sản phẩm có xuất xứ rõ ràng</p><p>- Quá trình chăn nuôi không sử dụng hóa chất có hại cho sức khỏe</p><p>- Quy trình sơ chế và đóng gói đảm bảo vệ sinh an toàn thực phẩm</p><p>- Cam kết hoàn trả nếu phát hiện sản phẩm thiếu, hỏng</p><p><br></p><p>Với tâm huyết mang đến sản phẩm chất lượng hơn mỗi ngày, chúng mình luôn sẵn sàng lắng nghe phản hồi của các bạn qua:</p><p>Hotline: 082.3232374</p><p>Fanpage: Homeyfood.net</p><p>Website: https://www.homeyfood.net</p><p>Mua hàng tại Shopee: Homeyfood.net</p><p><br></p><p>#homeyfood #dưaxiem</p>",
+    "imageUrl": "https://images.f99.com.vn/images/803fbdd3-a974-45be-bbe5-83a30fbb7829.jpg",
+    "price": 55000,
+    "oldPrice": 90000,
+    "discountPercent": 39,
+    "stock": 0,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "1 kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 240,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 101,
+      "name": "Vú sữa",
+      "imageUrl": "https://images.f99.com.vn/notification-images/6893ea38-cb45-4aa3-8f0b-0a83a32f0077.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/803fbdd3-a974-45be-bbe5-83a30fbb7829.jpg",
+      "https://images.f99.com.vn/images/1542d915-d500-4911-a28a-32a81f8362b9.jpg",
+      "https://images.f99.com.vn/images/501785be-309c-47d4-8680-1521382e836a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/97055",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 97056,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 55000,
+        "oldPrice": 90000,
+        "discountPercent": 39,
+        "stock": 0,
+        "totalSold": 0,
+        "unit": "1 kg",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 240,
+      "sellerRate": 4.5,
+      "sellerName": "Homey Fruit & Veg ",
+      "warehouseId": "ccb00cae-e276-4a1b-af4a-ae822ab5c570",
+      "warehouseAddress": "số 52 ngõ 376 Bưởi, Vĩnh Phúc, Ba Đình, Hà Nội",
+      "distance": 3021,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 77.89029707147643,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 97416,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "VÚ SỮA TÍM BÁCH THẢO",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p Class=\"ql-align-justify\"><span style=\"color: rgb(41, 41, 41);\">Bạn đã từng nhìn thấy một trái vú sữa màu tím, vỏ trơn bóng, trái to, căng mọng, cứ 3 trái là gom được 1kg?</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(41, 41, 41);\">Không chỉ nổi bật với ngoại hình đẹp mắt, vú sữa còn có vị ngọt thanh, thơm lựng, ăn không bị dính mủ, ít khi bị sâu, dòi... Đó chính là vú sữa tím Bách Thảo, xuất xứ từ Vĩnh Kim, Tiền Giang. Loại vú sữa này được canh tác theo hướng hữu cơ và được bao bọc trái từ nhỏ nên không bị ruồi sâu chích. Đây là loại trái cây thế mạnh của tỉnh Tiền Giang, nổi tiếng thơm ngon và giàu chất dinh dưỡng tốt cho sức khỏe.&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(41, 41, 41);\">Vú Sữa Tím Bách Thảo có tên khoa học là Chrysophyllum Cainino. Cái tên vú sữa tím bắt nguồn từ màu tím đậm đẹp mắt của vỏ trái vú sữa. Mỗi trái nặng từ 300 - 400g. Khoảng 3-4 trái là được 1kg. Vỏ trái dày từ 1cm - 1.1cm, có khoảng 6- 8 hạt/ trái. Thịt quả màu trắng, có vệt tím, vị ngọt thanh, tỷ lệ phần thịt ăn được khá cao. Độ brix từ 14-15%, ít béo.&nbsp;</span></p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/7b6172bf-3400-4152-b819-715a7017865a.jpg\",\"https://images.f99.com.vn/images/1d2f0702-444e-4e79-a16c-6e982486a775.jpg\",\"https://images.f99.com.vn/images/c5592142-f9ed-4490-b920-589ba4ec295a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "VÚ SỮA TÍM BÁCH THẢO",
+    "description": "<p Class=\"ql-align-justify\"><span style=\"color: rgb(41, 41, 41);\">Bạn đã từng nhìn thấy một trái vú sữa màu tím, vỏ trơn bóng, trái to, căng mọng, cứ 3 trái là gom được 1kg?</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(41, 41, 41);\">Không chỉ nổi bật với ngoại hình đẹp mắt, vú sữa còn có vị ngọt thanh, thơm lựng, ăn không bị dính mủ, ít khi bị sâu, dòi... Đó chính là vú sữa tím Bách Thảo, xuất xứ từ Vĩnh Kim, Tiền Giang. Loại vú sữa này được canh tác theo hướng hữu cơ và được bao bọc trái từ nhỏ nên không bị ruồi sâu chích. Đây là loại trái cây thế mạnh của tỉnh Tiền Giang, nổi tiếng thơm ngon và giàu chất dinh dưỡng tốt cho sức khỏe.&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(41, 41, 41);\">Vú Sữa Tím Bách Thảo có tên khoa học là Chrysophyllum Cainino. Cái tên vú sữa tím bắt nguồn từ màu tím đậm đẹp mắt của vỏ trái vú sữa. Mỗi trái nặng từ 300 - 400g. Khoảng 3-4 trái là được 1kg. Vỏ trái dày từ 1cm - 1.1cm, có khoảng 6- 8 hạt/ trái. Thịt quả màu trắng, có vệt tím, vị ngọt thanh, tỷ lệ phần thịt ăn được khá cao. Độ brix từ 14-15%, ít béo.&nbsp;</span></p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/7b6172bf-3400-4152-b819-715a7017865a.jpg",
+    "price": 79000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 0,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 193,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 101,
+      "name": "Vú sữa",
+      "imageUrl": "https://images.f99.com.vn/notification-images/6893ea38-cb45-4aa3-8f0b-0a83a32f0077.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/7b6172bf-3400-4152-b819-715a7017865a.jpg",
+      "https://images.f99.com.vn/images/1d2f0702-444e-4e79-a16c-6e982486a775.jpg",
+      "https://images.f99.com.vn/images/c5592142-f9ed-4490-b920-589ba4ec295a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/97416",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "KG"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 97417,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 KG",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "KG",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 KG",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 79000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 0,
+        "totalSold": 0,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "KG"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 193,
+      "sellerRate": 4.9,
+      "sellerName": "Royal Green Fruits",
+      "warehouseId": "54ea5d5f-edb9-4db9-9279-5db65d728ab8",
+      "warehouseAddress": "Shophouse D1 Mandarin Garden, Hoàng Minh Giám, Trung Hòa, Cầu Giấy, Hà Nội",
+      "distance": 4511,
+      "warehouseDistrict": "cau giay",
+      "reputation": 64.03561290322591,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

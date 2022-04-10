@@ -1,0 +1,35 @@
+{
+  "id": 328,
+  "name": "Best Food",
+  "logo": "https://cdn.f99.link/groupbuy-images/afc7482c-b11f-4368-9221-87b8c527fd90.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Best Food Chuyên cung cấp thực phẩm đông lạnh uy tín, chất lượng.",
+  "headQuarter": "Số 2/2/30A, Lê Trọng Tấn, La Khê, Hà Đông, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.4,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 7
+}

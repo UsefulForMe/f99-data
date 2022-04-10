@@ -1,0 +1,35 @@
+{
+  "id": 430,
+  "name": "Nuongfood",
+  "logo": "https://cdn.f99.link/groupbuy-images/1fe5a303-8ad9-4b9a-a047-c0a682b2e8be.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Nhà bán hàng chuyên cung cấp đa dạng thực phẩm đông lạnh hàng công ty",
+  "headQuarter": "300/23/23a Nguyễn Văn Linh, Bình Thuận, Quận 7, Hồ Chí Minh",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.6,
+  "availableTime": {
+    "openTime": "08:30",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 10
+}

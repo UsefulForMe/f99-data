@@ -1,0 +1,35 @@
+{
+  "id": 390,
+  "name": "Thu Huyền Food",
+  "logo": "https://cdn.f99.link/groupbuy-images/b5109331-830c-47bd-b260-dd8b7d323ee6.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Thu Huyền Food chuyên cung cấp thực phẩm sạch uy tín, chất lượng.",
+  "headQuarter": "Số 15 ngõ 151 Triều Khúc, Thanh Xuân Nam, Thanh Xuân, Hà Nội",
+  "email": "thuhuyen.le87@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 3.5,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 6
+}

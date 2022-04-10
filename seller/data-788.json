@@ -1,0 +1,35 @@
+{
+  "id": 788,
+  "name": "Ngọc Hà Minimart",
+  "logo": "https://cdn.f99.link/groupbuy-images/9b13cbd4-eab7-41c1-a8e5-4e60b82c58ca.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Siêu thị Ngọc Hà Mminimart – Chuyên đồ ăn vặt, thực phẩm",
+  "headQuarter": "Số 2 Nguyễn Hoàng, Mỹ Đình 2, Nam Từ Liêm, Hà Nội",
+  "email": "Phamthuha19931983@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.3,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 6
+}

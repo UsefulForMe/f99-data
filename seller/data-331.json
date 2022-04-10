@@ -1,0 +1,35 @@
+{
+  "id": 331,
+  "name": "FiveTC Food",
+  "logo": "https://cdn.f99.link/groupbuy-images/c6f991dd-c60f-44d1-8983-773d5699036d.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Công ty cổ phần Five TC được thành lập vào năm 2017, là nơi quy tụ những thành viên có nhiều năm kinh nghiệm trong hoạt động quản lý, kinh doanh xuất nhập khẩu, tài chính, kỹ thuật, bán hàng…\n\nChúng tôi cùng nhau cam kết thực hiện một nhiệm vụ: đó là cung cấp cho các đối tác và khách hàng của mình những loại thực phẩm đa dạng, chất lượng tốt, có nguồn gốc xuất xứ rõ ràng.\n\nFiveTC kinh doanh chính trong các  lĩnh vực:\n\n  Nhập khẩu các mặt hàng thực phẩm cao cấp từ Mỹ, Australia, Châu Âu, Nhật Bản… như thịt bò, thịt cừu, thịt lợn, cá hồi, gia vị…\n\n  Xuất khẩu các sản phẩm nông sản, gia vị của Việt Nam như hạt điều, hạt tiêu,cà phê, hoa hồi, quế…\n\n  Sản xuất, chế biến các sản phẩm thực phẩm, gia vị…",
+  "headQuarter": "Số 14BT3 KĐT Văn Quán - Yên Phúc, Phúc La, Hà Đông, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

@@ -1,0 +1,35 @@
+{
+  "id": 240,
+  "name": "Homey Fruit & Veg ",
+  "logo": "https://cdn.f99.link/groupbuy-images/3b3f67f7-47b9-4f50-aa50-a94706a6a278.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chào mừng bạn đến với gian hàng của homeyfood.net, trên tinh thần khách hàng là thượng đế , chúng tôi xin phục vụ quý khách bằng thái độ dịch vụ chân thành nhất\n\n\n-\tChúng tôi kinh doanh các loại thực phẩm sạch 100% nguồn gốc hữu cơ tự nhiên, được chọn lọc trực tiếp từ các nhà vườn nông sản uy tín khắp Việt Nam\n- Có mặt trên hầu hết các sàn TMDT, đem đến sự tiện lợi và chất lượng \n- Đa dạng về sản phẩm : Hoa quả , rau củ , thịt , cá, giò chả , nguyên liệu nấu ăn ,…\n- Liên tục cập nhật Menu , những mặt hàng thực phẩm Trend nhất\n- Giá thành TỐT NHẤT THỊ TRƯỜNG\n- Thường xuyên tổ chức Flasale, giảm giá sản phẩm hấp dẫn\n- Cam kết về chất lượng sản phẩm , 100% hoàn / đổi hàng nếu sản phẩm bị hỏng / héo\n- Uy tín tạo nên thương hiệu , chúng tôi kiếm khách chứ không kiếm tiền \n\nTrụ sở : 52 ngõ 376 Bưởi , Ba Đình , Hà Nội\nCN1 : 4 Ngõ 33 Tạ Quang Bửu , HBT, Hà Nội\nCN2 : HH4A KDT Linh Đàm\nContact : 0823232374",
+  "headQuarter": "số 10 ngõ 87 Vĩnh Phúc, Ba Đình",
+  "email": "Tuanngoc96.ftu@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 651
+}

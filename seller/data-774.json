@@ -1,0 +1,35 @@
+{
+  "id": 774,
+  "name": "Ngon Cơm",
+  "logo": "https://cdn.f99.link/groupbuy-images/0b6900e1-7ed8-47fa-aa50-ee28764f2a1f.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên kinh doanh các mặt hàng nông sản sạch, an toàn",
+  "headQuarter": "69/1A Trương Văn Hải, Tăng Nhơn Phú B, Thủ Đức, Hồ Chí Minh",
+  "email": "cskhnhanh@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "23:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

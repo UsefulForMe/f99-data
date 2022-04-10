@@ -1,0 +1,35 @@
+{
+  "id": 224,
+  "name": "Mint Fruits",
+  "logo": "https://cdn.f99.link/groupbuy-images/66fb886e-0c62-4794-9e5b-f1049373f46c.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Nước ép và trái cây\nHotline: Ms Hoa - 0972622089",
+  "headQuarter": "102 Ô Chợ Dừa, Ô Chợ Dừa, Đống Đa, Hà Nội",
+  "email": "mint.70btuetinh@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 2
+}

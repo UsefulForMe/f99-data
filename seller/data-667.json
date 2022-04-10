@@ -1,0 +1,35 @@
+{
+  "id": 667,
+  "name": "ATAFOOD MART",
+  "logo": "https://images.f99.com.vn/groupbuy-images/9aa5b9af-45bd-416f-b967-d53355a2506c.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên kinh doanh hải sản Quảng Ninh, đặc sản vùng miền.",
+  "headQuarter": "P207, CT2, Tòa A9 Nghĩa Tân, Nghĩa Tân, Cầu Giấy, Hà Nội",
+  "email": "Lienntp11986@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "07:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

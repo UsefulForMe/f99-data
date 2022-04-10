@@ -1,0 +1,35 @@
+{
+  "id": 546,
+  "name": "BEEF HOUSE - Thực phẩm nhập khẩu",
+  "logo": "https://cdn.f99.link/groupbuy-images/a4941e3e-cd8c-457b-8c6e-734bd05f5e9f.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "BEEF HOUSE - Thực phẩm nhập khẩu: Chuyên cung sỉ, lẻ thực phẩm nhập khẩu uy tín ,chất lượng.",
+  "headQuarter": "30 Nguyễn Khang, Yên Hòa, Cầu Giấy, Hà Nội",
+  "email": "phamhuongly0309@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": false,
+  "rating": 4.8,
+  "availableTime": {
+    "openTime": "08:30",
+    "closeTime": "08:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 16
+}

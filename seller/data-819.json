@@ -1,0 +1,35 @@
+{
+  "id": 819,
+  "name": "Nước ép lạnh True Juice",
+  "logo": "https://images.f99.com.vn/groupbuy-images/114ff41a-3b41-45e6-8fb2-a066ba294dd8.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "True Juice là 1 thương hiệu hàng đầu về lối sống xanh & nước ép lạnh (Cold-pressed Juice) cung cấp giải pháp nước ép rau xanh giúp cải thiện sức khỏe",
+  "headQuarter": "Số 23 ngõ Tô Hoàng, phố Bạch Mai, Cầu Dền, Hai Bà Trưng, Hà Nội",
+  "email": "truejuice.vn@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:30",
+    "closeTime": "15:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

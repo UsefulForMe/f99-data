@@ -1,0 +1,35 @@
+{
+  "id": 715,
+  "name": "K'b Food - LỰA CHỌN HOÀN HẢO CHO BỮA ĂN GIA ĐÌNH",
+  "logo": "https://cdn.f99.link/groupbuy-images/580d49d5-1cf8-4727-bebb-28dbb09238e5.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": " BUÔN BÁN TỬ TẾ",
+  "headQuarter": "Số 21 ngõ 143, phố Phúc Tân, Phúc Tân, Hoàn Kiếm, Hà Nội",
+  "email": "kissben.nguyen@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

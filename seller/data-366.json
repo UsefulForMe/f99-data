@@ -1,0 +1,35 @@
+{
+  "id": 366,
+  "name": "Thỏ Sóc Market",
+  "logo": "https://cdn.f99.link/groupbuy-images/480ee6e2-6ea6-4483-8088-ed1afaf88729.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Thỏ Sóc Market luôn cung cấp đến khách hàng các mặt hàng đảm bảo chất lượng.",
+  "headQuarter": "Số 4 ngõ 122/46/14 Kim Giang, Đại Kim, Hoàng Mai, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

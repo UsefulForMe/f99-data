@@ -1,0 +1,35 @@
+{
+  "id": 392,
+  "name": "Ẩm Thực Tây Bắc",
+  "logo": "https://cdn.f99.link/groupbuy-images/264d5778-796f-419e-89e7-c9d64ff54e19.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên kinh doanh đặc sản Tây Bắc",
+  "headQuarter": "Khu 1, Đại Đồng, Vĩnh Tường, Vĩnh Phúc",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.4,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 8
+}

@@ -1,0 +1,35 @@
+{
+  "id": 501,
+  "name": "LAGA FOODS",
+  "logo": "https://cdn.f99.link/groupbuy-images/52e89980-53cc-4446-b9a8-8213ed6a16d1.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Lago Foods chuyên cung cấp: \nĐặc sản gia truyền: Cá trắm kho truyền thống Bà Ơn, Thịt chưng mắm tép Bà Ơn, Há cảo tôm thịt, Nem chua tỏi ớt..... \nCác loại thịt: Thịt bò nhập khẩu, Thịt dê, Thịt cừu Vietgap... \nHải sản: Cá thu câu, Nõn Tôm he, Tôm sú biển, Bề bề trứng....\nHoa quả nhập khẩu, rau củ quả sạch Đà Lạt",
+  "headQuarter": "Số nhà 31 Linh Đàm, Hoàng Liệt, Hoàng Mai, Hà Nội",
+  "email": "Tapdoanviethan6688@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

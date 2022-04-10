@@ -1,0 +1,35 @@
+{
+  "id": 481,
+  "name": "Ăn Gì Sài Gòn",
+  "logo": "https://cdn.f99.link/groupbuy-images/d8772bad-4bfb-458c-9334-21b7fcbc7c59.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Kinh doanh sản phẩm nhập khẩu: thịt heo, thịt bò, thịt gà\nKinh doanh sản phẩm rau đạt tiêu chuẩn VIETGAP\nKinh doanh các sản phẩm thủy, hải sản, đặc sản các vùng miền.",
+  "headQuarter": "131 Xóm Củi, 11, Quận 8, Hồ Chí Minh",
+  "email": "hello@angisaigon.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": false,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "07:30",
+    "closeTime": "17:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

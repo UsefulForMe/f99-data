@@ -1,0 +1,35 @@
+{
+  "id": 965,
+  "name": "Thực Phẩm Sạch 1991 ",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/d2c67afd-160c-439c-a4b5-a2bcd8bb6aa8.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Thực phẩm sạch 1991 chuyên cung cấp các hải sản được nhập tận làng chài , chả cá ,chả mực giã tay Vân Đồn, Trái cây vùng miền, Thịt nhập khẩu chính ngạch . ",
+  "headQuarter": "số 28b ngách 11 ngõ 99 Nguyễn Khang, Yên Hòa , Cầu Giấy , Hà Nội",
+  "email": "Thucphamonline1991@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 17
+}

@@ -1,0 +1,35 @@
+{
+  "id": 988,
+  "name": "VÊ SHOP",
+  "logo": "https://images.f99.com.vn/groupbuy-images/5dc3f5d2-5368-4557-9bb5-2f7e92d3d56a.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên thực phẩm\n- Từ Lào : Miến Lào, Bánh canh tươi Lào, Bột nếp Lào\n- Từ Huế: Chả cua\nHoa quả nhập khẩu\n",
+  "headQuarter": "Số 4118HH1B Linh Đàm, Phường Hoàng Liệt, Quận Hoàng Mai, TP Hà Nội , Hoàng Liệt, Hoàng Mai, Hà Nội",
+  "email": "Vuonganh2210@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "00:01",
+    "closeTime": "23:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

@@ -1,0 +1,35 @@
+{
+  "id": 541,
+  "name": "Thực phẩm Hân Long",
+  "logo": "https://cdn.f99.link/groupbuy-images/c5a17921-e81f-441a-8b22-5ab78edb5332.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cung cấp thịt heo; ba rọi, cốt lết; sườn, thịt xay, khô cá dứa, khô cá đù",
+  "headQuarter": "91/1 hẻm 99 Tân Mỹ, Tân Thuận Tây, Quận 7, Hồ Chí Minh",
+  "email": "hau71762@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "06:30",
+    "closeTime": "17:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

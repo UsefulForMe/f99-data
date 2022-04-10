@@ -1,0 +1,35 @@
+{
+  "id": 193,
+  "name": "Royal Green Fruits",
+  "logo": "https://cdn.f99.link/groupbuy-images/f9937588-fe58-4b01-bd42-c8513a149204.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Royal Green là thương hiệu kinh doanh trái cây xuất nhập khẩu & giỏ quà tặng được thành lập từ năm 2017. Sản phẩm của Royal Green đều đạt tiêu chuẩn organic/VietGap/GlobalGap đem lại sự yên tâm cho quý khách hàng khi chọn lựa.",
+  "headQuarter": "Shophouse D1 Mandarin Garden, Hoàng Minh Giám, Trung Hòa, Cầu Giấy, Hà Nội",
+  "email": "royalgreenvn@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": false,
+  "rating": 4.9,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 10
+}

@@ -1,0 +1,35 @@
+{
+  "id": 347,
+  "name": "Nam Thành Food",
+  "logo": "https://images.f99.com.vn/groupbuy-images/c4981602-74ed-4ac1-bbae-04ca19905a74.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Nam Thành food là công ty đã được đăng ký kinh doanh ngành hàng thực phẩm và được thẩm định cơ sở đầy đủ đảm bảo vệ sinh an toàn thực phẩm cung cấp bán buôn bán lẻ. Hàng nhập khẩu hồ sơ chính ngạch có giấy tờ kiểm định.\nCác mặt hàng bên Nam Thành food cung cấp: Trâu/ Bò/ Lợn/ Gà/ Cá\nĐịa điểm: số 3 ngõ 459 Trương Định - Tân Mai - Hoàng Mai - Hà Nội\nHotline: 0912o39339",
+  "headQuarter": "Số 83 ngõ 35 Nguyễn An Ninh, Tương Mai, Hoàng Mai, Hà Nội",
+  "email": "huongthanh19821989@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.6,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 28
+}

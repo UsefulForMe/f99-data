@@ -1,0 +1,35 @@
+{
+  "id": 354,
+  "name": "Thực Phẩm Đông Lạnh T & T Food",
+  "logo": "https://cdn.f99.link/groupbuy-images/9ef811a7-33c5-4f0e-916f-be41b76190d9.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Thực Phẩm Đông Lạnh T & T Food chuyên thực phẩm sạch uy tín, chất lượng.",
+  "headQuarter": "Số 95 ngõ 1 Bùi Xương Trạch, Khương Đình, Thanh Xuân, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 3.8,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 8
+}

@@ -1,0 +1,35 @@
+{
+  "id": 710,
+  "name": "Lucy Food – Chuyên Ăn Vặt",
+  "logo": "https://cdn.f99.link/groupbuy-images/74a6812d-404c-4f5d-992d-7fc6018e1a8e.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyển sỉ lẻ đồ ăn vặt ( Bánh tráng, rong biển, cơm cháy, khô gà,…)",
+  "headQuarter": "45/2 Đường số 8, Bình Hưng Hòa A, Bình Tân, Hồ Chí Minh",
+  "email": "Tranmykiet@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "06:00",
+    "closeTime": "23:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

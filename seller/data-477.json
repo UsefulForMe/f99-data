@@ -1,0 +1,35 @@
+{
+  "id": 477,
+  "name": "HOME MART FRUITS",
+  "logo": "https://cdn.f99.link/groupbuy-images/54e6197c-f410-44d2-8a59-94f49dbf34cf.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Hoa quả thực phẩm 4 mùa",
+  "headQuarter": "20 ngách 21 ngõ 156 phương liệt, thanh xuân, hà nội.",
+  "email": "Nguyenthanhloan.daiichi@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.3,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "22:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 74
+}

@@ -1,0 +1,35 @@
+{
+  "id": 1020,
+  "name": "Son Fruit",
+  "logo": "https://images.f99.com.vn/groupbuy-images/6543e5ff-69e1-4231-a0aa-800ae9e4ed34.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên hoa quả thực phẩm nhập khẩu,giỏ quà các loại",
+  "headQuarter": "14 A21 Nghĩa tân,Cầu giấy,Hà nội, Nghĩa Tân, Cầu Giấy, Hà Nội",
+  "email": "dhcs2000son@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "07:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

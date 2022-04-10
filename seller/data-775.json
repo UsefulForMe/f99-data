@@ -1,0 +1,35 @@
+{
+  "id": 775,
+  "name": "Hạt Dinh Dưỡng SOC & BON",
+  "logo": "https://cdn.f99.link/groupbuy-images/35afc11d-ed2a-4194-95ff-812d9aee2c9d.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Hạt Dinh Dưỡng",
+  "headQuarter": "Số 102 tổ 24c, Thanh Lương, Hai Bà Trưng, Hà Nội",
+  "email": "Nhp.2701@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": false,
+  "rating": 4.7,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 13
+}

@@ -1,0 +1,35 @@
+{
+  "id": 293,
+  "name": "CHERRY FOOD",
+  "logo": "https://cdn.f99.link/groupbuy-images/3d849a97-4ba0-41a3-a405-de66794eb4ec.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cherry Food là nhà cung cấp thực phẩm nhập khẩu và thực phẩm đông lạnh uy tín .Với mong muốn cung cấp đến bữa ăn mọi người những thực phẩm mang nhiều giá trị dinh dưỡng, đảm bảo sức khoẻ, 100% sản phẩm tại Cherry Food đều là thực phẩm sạch, được nhập khẩu chính ngạch,an toàn sức khoẻ",
+  "headQuarter": "37 Ngõ Cẩm Văn, Ô Chợ Dừa, Đống Đa, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.8,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 103
+}

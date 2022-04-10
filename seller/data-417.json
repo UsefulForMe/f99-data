@@ -1,0 +1,35 @@
+{
+  "id": 417,
+  "name": "DƯƠNG DƯƠNG SEAFOOD",
+  "logo": "https://cdn.f99.link/groupbuy-images/d7971d59-cff5-4688-9015-714517b30d82.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp các mặt hàng hải sản khô và đông lạnh..,",
+  "headQuarter": "Số 45 ngách 46/58 ngõ 126 Hào Nam, Ô Chợ Dừa, Đống Đa, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

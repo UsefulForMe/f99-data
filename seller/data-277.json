@@ -1,0 +1,35 @@
+{
+  "id": 277,
+  "name": "Cửa hàng trái cây nhập khẩu Fresh Safe Fruits ",
+  "logo": "https://cdn.f99.link/groupbuy-images/4206edd6-3ec9-430e-9f54-5185e94479a0.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Luôn sẵn hàng\n📌Hoa quả đảm bảo tiêu chuẩn chất lượng GlobalGAP , VietGAP.\n🅰️Chúng tôi cam kết chỉ nhập những loại trái cây có nguồn gốc xuất xứ rõ ràng.\n🅱️Đảm bảo vệ sinh an toàn thực phẩm, tươi ngon",
+  "headQuarter": "Số ML6-23 đường Mộc Lan, Khu đô thị Vinhomes Green Bay, Mễ Trì, Nam Từ Liêm, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.4,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "20:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 20
+}

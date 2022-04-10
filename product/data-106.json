@@ -1,0 +1,196 @@
+[
+  {
+    "id": 50463,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Vải thiều sấy dẻo",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Vải thiều Vietgap được sấy dẻo theo công nghệ tiên tiến giữ nguyên mật quả vải, 1kg rất nhiều và ăn khá lâu hết. Ngoài ra, còn có thể dùng làm chè hay nguyên liệu chế biến khác, nhưng ăn trực tiếp vẫn là cách mà khách nhà Phúc Lâm mua về thưởng thức.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/38e7868e-d309-49aa-967b-05bf004d0285.jpg\",\"https://images.f99.com.vn/images/cb5e3421-0bd5-48d2-96bd-6465d0fb124e.jfif\",\"https://images.f99.com.vn/images/e8d957d5-1ea5-4dfe-afe0-800a8961c670.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Vải thiều sấy dẻo",
+    "description": "<p>Vải thiều Vietgap được sấy dẻo theo công nghệ tiên tiến giữ nguyên mật quả vải, 1kg rất nhiều và ăn khá lâu hết. Ngoài ra, còn có thể dùng làm chè hay nguyên liệu chế biến khác, nhưng ăn trực tiếp vẫn là cách mà khách nhà Phúc Lâm mua về thưởng thức.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/38e7868e-d309-49aa-967b-05bf004d0285.jpg",
+    "price": 75000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 100,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 743,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 106,
+      "name": "Vải",
+      "imageUrl": "https://images.f99.com.vn/notification-images/d1897eee-898d-4797-a5c3-d344c0302888.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/38e7868e-d309-49aa-967b-05bf004d0285.jpg",
+      "https://images.f99.com.vn/images/cb5e3421-0bd5-48d2-96bd-6465d0fb124e.jfif",
+      "https://images.f99.com.vn/images/e8d957d5-1ea5-4dfe-afe0-800a8961c670.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/50463",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 96138,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 75000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 743,
+      "sellerRate": 4.1,
+      "sellerName": "Phúc Lâm Foods",
+      "warehouseId": "21a7eee3-be62-4aeb-8bf3-5e0e42c04450",
+      "warehouseAddress": "130E Thụy Khuê, Tây Hồ, Hà Nội ",
+      "distance": 2009,
+      "warehouseDistrict": "tay ho",
+      "reputation": 55.27933333333387,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

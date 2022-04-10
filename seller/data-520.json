@@ -1,0 +1,35 @@
+{
+  "id": 520,
+  "name": "Thiên Hùng Food",
+  "logo": "https://cdn.f99.link/groupbuy-images/3eaad896-a153-4ff0-8280-8c875793f7b4.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Thiên Hùng Food chuyên cung cấp rau củ, Thịt sạch uy tín, chất lượng.",
+  "headQuarter": "88/13 An Dương Vương, 16, Quận 8, Hồ Chí Minh",
+  "email": "1989thienhung@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

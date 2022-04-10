@@ -1,0 +1,35 @@
+{
+  "id": 397,
+  "name": "Hà Nội Dry Foods",
+  "logo": "https://cdn.f99.link/groupbuy-images/97937d3a-96c4-4bea-8b67-2d03abcf3096.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Thực phẩm là thế mạnh của Công ty CP Hà Nội Dry Foods bao gồm:\n- Khô Gà Cooky\n- Thịt bò khô Bokay\n- Khô Heo Cháy Tỏi Kobee\n- Mực Xé Sợi Zozo\n- Cá bò nướng Rimrim",
+  "headQuarter": "Số 17 LK 4 - Tổng cục 5 Yên Xá, Tân Triều, Thanh Trì, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.6,
+  "availableTime": {
+    "openTime": "07:30",
+    "closeTime": "17:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 10
+}

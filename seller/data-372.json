@@ -1,0 +1,35 @@
+{
+  "id": 372,
+  "name": "Bum Food - Thực Phẩm Nhập Khẩu",
+  "logo": "https://cdn.f99.link/groupbuy-images/8d8045cb-8488-4afc-b986-64d4a6c1c0cb.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Bum Food - Thực Phẩm Nhập Khẩu chuyên cung cấp thực phẩm nhập khẩu uy tín, chất lượng.",
+  "headQuarter": "Số 27/274 Trương Định, Tương Mai, Hoàng Mai, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

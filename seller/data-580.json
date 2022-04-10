@@ -1,0 +1,35 @@
+{
+  "id": 580,
+  "name": "Bếp Huệ",
+  "logo": "https://cdn.f99.link/groupbuy-images/80ff0045-ce05-4cac-94c6-401a5db30445.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Kho Thực Phẩm Và Hoa Quả",
+  "headQuarter": "Sô 11 phố Phú Thượng, phường Phú Thượng, quận Tây Hồ, Hà Nội",
+  "email": "Nguyenbichngoc.1995@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.6,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 15
+}

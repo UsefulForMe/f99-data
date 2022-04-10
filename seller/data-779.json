@@ -1,0 +1,35 @@
+{
+  "id": 779,
+  "name": "NGUYET VAN FOOD",
+  "logo": "https://cdn.f99.link/groupbuy-images/30513bd1-75cd-4255-a234-ae7e5b30d85e.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Các mặt hàng khô bò sợi, miếng\nCác mặt hàng đông lạnh: Cá hồi, khoai tây đông lạnh…..",
+  "headQuarter": "33 đường DC5, Sơn Kỳ, Tân Phú, Hồ Chí Minh",
+  "email": "hanh.ngo1986@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "23:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

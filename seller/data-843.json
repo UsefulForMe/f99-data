@@ -1,0 +1,35 @@
+{
+  "id": 843,
+  "name": "CHERRY STORE",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/88ef2abc-b59d-440c-b58f-8c85db6f5dee.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cherry Store cung cấp những sản phẩm chất lượng nhất đến tay người tiêu dùng với giá cả hợp lý nhất.",
+  "headQuarter": "48A Miếu Gò Xoài, Bình Hưng Hòa A, Bình Tân, Hồ Chí Minh",
+  "email": "Cherrystore.com.vn@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": false,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "06:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

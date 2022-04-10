@@ -1,0 +1,35 @@
+{
+  "id": 838,
+  "name": "Thực Phẩm Ngon N&T",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/d819a9df-d431-4578-b2ba-17fdbbe55135.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cửa hàng chuyên bán các loại thực phảm thịt heo đen, bò đặc sản, Đặc sản Tây Nguyên",
+  "headQuarter": "112/56 Bùi Quang Là, 12, Gò Vấp, Hồ Chí Minh",
+  "email": "nguyenquocbao2869@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "06:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

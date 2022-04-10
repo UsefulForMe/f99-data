@@ -1,0 +1,35 @@
+{
+  "id": 223,
+  "name": "Clean Fruits",
+  "logo": "https://cdn.f99.link/groupbuy-images/81f78208-ad99-4393-a0cb-9f252442c412.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Clean Fruits – Chuyên dòng hoa quả nội địa sạch, ngon, giá cả phải chăng.",
+  "headQuarter": "Đình Làng Phú Mỹ, Đường Lê Đức Thọ, Mỹ Đình, Từ Liêm, Hà Nội",
+  "email": "cleanfruit86.vn@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 3.7,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 167
+}

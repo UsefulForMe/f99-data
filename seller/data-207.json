@@ -1,0 +1,35 @@
+{
+  "id": 207,
+  "name": "Tuấn Đạt Seafood",
+  "logo": "https://cdn.f99.link/groupbuy-images/7b87bf4d-4c8d-4360-aa16-2666679fe0c8.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Hải Sản Tuấn Đạt chuyên cung cấp Hải Sản Tươi Sống, Hải Sản Đông Lạnh.\n Hải Sản Tươi Sống - Tươi Sống đặt lên hàng đầu",
+  "headQuarter": "Thị trấn Kim Bài, Thanh Oai, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 2
+}

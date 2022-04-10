@@ -1,0 +1,35 @@
+{
+  "id": 555,
+  "name": "LYD-THỰC PHẨM BẢN ĐỊA",
+  "logo": "https://cdn.f99.link/groupbuy-images/17813e00-b7d1-4d3c-a314-ce405635759e.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chúng tôi tự hào là thương hiệu sản phẩm bản địa của các vùng miền Việt Nam. Chúng tôi chỉ phân phối những mặt hàng do nông dân Việt Nam chăn thả, nuôi trồng tự nhiên, mùa nào thức ấy. Chúng tôi biết rằng các thực phẩm được nuôi trồng tự nhiên, mùa nào thức ấy, không hóa chất, không kích thích tăng trưởng và không chất bảo quản là lựa chọn thông minh của các gia đình. Với suy nghĩ “BẾP ĂN CỦA MỌI NGƯỜI CŨNG NHƯ BẾP ĂN CỦA MÌNH” chúng tôi nỗ lực đem đến những sản phẩm tươi ngon và tự nhiên nhất tới các bếp ăn gia đình",
+  "headQuarter": "Số 17 ngõ 123 Hoàng quốc Việt, Nghĩa Đô, Cầu Giấy, Hà Nội",
+  "email": "yen670@gmai.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

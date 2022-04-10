@@ -1,0 +1,932 @@
+[
+  {
+    "id": 86,
+    "name": "Trái cây",
+    "imageUrl": "https://images.f99.com.vn/notification-images/7397bab3-fc14-47ab-866d-3279e9d41e59.png",
+    "totalProduct": 981,
+    "discovered": 0,
+    "parentId": null,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 87,
+    "name": "Thực phẩm",
+    "imageUrl": "https://images.f99.com.vn/notification-images/7dedbb4c-34ae-4bbf-983b-4ce69686fad3.png",
+    "totalProduct": 2563,
+    "discovered": 0,
+    "parentId": null,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 88,
+    "name": "Đồ khô",
+    "imageUrl": "https://images.f99.com.vn/notification-images/0d0858f1-fc05-48c3-a21a-e932d3ab68c0.png",
+    "totalProduct": 1106,
+    "discovered": 0,
+    "parentId": null,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 91,
+    "name": "Bánh kẹo",
+    "imageUrl": "https://images.f99.com.vn/notification-images/fbb69504-680d-46db-9b1a-84c7f7f4b115.png",
+    "totalProduct": 429,
+    "discovered": 0,
+    "parentId": null,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 95,
+    "name": "Rau, củ",
+    "imageUrl": "https://images.f99.com.vn/notification-images/b2605147-e134-4ffb-ba00-151e6bcb8034.png",
+    "totalProduct": 348,
+    "discovered": 0,
+    "parentId": null,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 98,
+    "name": "Đồ uống",
+    "imageUrl": "https://images.f99.com.vn/notification-images/2676638e-5b71-4639-9000-6e7ed1db42a1.png",
+    "totalProduct": 1002,
+    "discovered": 0,
+    "parentId": null,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 126,
+    "name": "Giỏ quà",
+    "imageUrl": "https://images.f99.com.vn/notification-images/54611663-9743-4f3b-9700-d41fcbceb80c.png",
+    "totalProduct": 294,
+    "discovered": 0,
+    "parentId": null,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 127,
+    "name": "Thịt",
+    "imageUrl": "https://images.f99.com.vn/notification-images/b6bcae3e-bbcd-43e5-9272-4b6847aab268.png",
+    "totalProduct": 788,
+    "discovered": 0,
+    "parentId": null,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 131,
+    "name": "Thủy hải sản",
+    "imageUrl": "https://images.f99.com.vn/notification-images/298a3a6e-9eee-4a02-bc17-5705d7ee5884.png",
+    "totalProduct": 639,
+    "discovered": 0,
+    "parentId": null,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 133,
+    "name": "Bách hóa ",
+    "imageUrl": "https://images.f99.com.vn/notification-images/04009054-01c4-4ad0-8f75-470bd5e9dd93.png",
+    "totalProduct": 496,
+    "discovered": 0,
+    "parentId": null,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 145,
+    "name": "Bạch Tuộc ",
+    "imageUrl": "https://images.f99.com.vn/notification-images/e5248861-2468-4ac8-9b7a-68b98608492e.png",
+    "totalProduct": 9,
+    "discovered": 0,
+    "parentId": 131,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 84,
+    "name": "Bánh",
+    "imageUrl": "",
+    "totalProduct": 275,
+    "discovered": 0,
+    "parentId": 91,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 141,
+    "name": "Bột ",
+    "imageUrl": "https://images.f99.com.vn/notification-images/b584ee91-e5f6-4633-b554-6aff5b213dea.png",
+    "totalProduct": 69,
+    "discovered": 0,
+    "parentId": 133,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 70,
+    "name": "Bơ",
+    "imageUrl": "https://imgur.com/RUDLKsR.png",
+    "totalProduct": 11,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 109,
+    "name": "Bún, Miến, Phở",
+    "imageUrl": "https://images.f99.com.vn/notification-images/b41aa0ce-1d9e-4228-9720-455ca0f4fa55.png",
+    "totalProduct": 245,
+    "discovered": 0,
+    "parentId": 87,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 39,
+    "name": "Bưởi",
+    "imageUrl": "https://imgur.com/0tqoC39.png",
+    "totalProduct": 104,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 137,
+    "name": "Cá ",
+    "imageUrl": "https://images.f99.com.vn/notification-images/ff3ed7d5-23d5-401f-9001-09712d0a261d.png",
+    "totalProduct": 267,
+    "discovered": 0,
+    "parentId": 131,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 119,
+    "name": "Cà phê",
+    "imageUrl": "https://images.f99.com.vn/notification-images/da1ab283-5b6e-496d-a1b2-ceb75a42f4fb.png",
+    "totalProduct": 44,
+    "discovered": 0,
+    "parentId": 98,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 4,
+    "name": "Cam - Quýt",
+    "imageUrl": "https://imgur.com/MrJJzzJ.png",
+    "totalProduct": 126,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 135,
+    "name": "Chăm sóc nhà cửa",
+    "imageUrl": "https://images.f99.com.vn/notification-images/3e8c70a8-52a3-4649-8237-56a9c5e02ca0.png",
+    "totalProduct": 48,
+    "discovered": 0,
+    "parentId": 133,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 3,
+    "name": "Cherry",
+    "imageUrl": "https://imgur.com/uWL4uWn.png",
+    "totalProduct": 11,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 108,
+    "name": "Chế phẩm từ sữa ",
+    "imageUrl": "https://images.f99.com.vn/notification-images/ee6da39a-ac92-4ec7-81d1-2b2e96c69d6a.png",
+    "totalProduct": 201,
+    "discovered": 0,
+    "parentId": 87,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 56,
+    "name": "Chuối",
+    "imageUrl": "https://imgur.com/86aj8f8.png",
+    "totalProduct": 8,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 113,
+    "name": "Combo tiện lợi",
+    "imageUrl": "https://images.f99.com.vn/notification-images/4f157c8b-e1c9-4250-91b9-4ae7a267093d.png",
+    "totalProduct": 199,
+    "discovered": 0,
+    "parentId": 87,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 97,
+    "name": "Củ ",
+    "imageUrl": "https://images.f99.com.vn/notification-images/e70500b4-6fb9-4275-85f1-cba07f33720b.png",
+    "totalProduct": 55,
+    "discovered": 0,
+    "parentId": 95,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 138,
+    "name": "Cua",
+    "imageUrl": "https://images.f99.com.vn/notification-images/3ee6bb4a-b51c-40eb-b752-512c71dc24cf.png",
+    "totalProduct": 9,
+    "discovered": 0,
+    "parentId": 131,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 7,
+    "name": "Dâu tây",
+    "imageUrl": "https://imgur.com/KYrGoLu.png",
+    "totalProduct": 17,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 8,
+    "name": "Dừa",
+    "imageUrl": "https://imgur.com/fvU86QU.png",
+    "totalProduct": 85,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 69,
+    "name": "Dứa",
+    "imageUrl": "https://imgur.com/GnCbFYS.png",
+    "totalProduct": 12,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 75,
+    "name": "Dưa hấu",
+    "imageUrl": "https://imgur.com/B5oz5am.png",
+    "totalProduct": 19,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 74,
+    "name": "Dưa lê",
+    "imageUrl": "https://imgur.com/xO2dm5Z.png",
+    "totalProduct": 6,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 60,
+    "name": "Dưa lưới",
+    "imageUrl": "https://imgur.com/3UCCQBE.png",
+    "totalProduct": 28,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 63,
+    "name": "Dưa Sữa",
+    "imageUrl": "https://imgur.com/WfqCTaF.png",
+    "totalProduct": 5,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 38,
+    "name": "Dưa Vàng",
+    "imageUrl": "https://imgur.com/HIv8GOr.png",
+    "totalProduct": 3,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 112,
+    "name": "Đồ ăn nhanh ",
+    "imageUrl": "https://images.f99.com.vn/notification-images/25e50049-ff6c-43b5-80fe-a874c2e8ebd8.png",
+    "totalProduct": 621,
+    "discovered": 0,
+    "parentId": 87,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 115,
+    "name": "Đồ ăn vặt",
+    "imageUrl": "https://images.f99.com.vn/notification-images/d8a19a50-1dbd-4ffd-abed-8ed61319d593.png",
+    "totalProduct": 385,
+    "discovered": 0,
+    "parentId": 88,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 124,
+    "name": "Đồ chay ",
+    "imageUrl": "https://images.f99.com.vn/notification-images/a5e40148-8b2a-4c39-8721-381056a03af2.png",
+    "totalProduct": 49,
+    "discovered": 0,
+    "parentId": 87,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 80,
+    "name": "Đồ hộp và đóng gói",
+    "imageUrl": "",
+    "totalProduct": 242,
+    "discovered": 0,
+    "parentId": 88,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 118,
+    "name": "Đồ uống BS",
+    "imageUrl": "https://images.f99.com.vn/notification-images/600aff1e-054f-4644-bd94-1f4332330723.png",
+    "totalProduct": 284,
+    "discovered": 0,
+    "parentId": 98,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 71,
+    "name": "Đu đủ",
+    "imageUrl": "https://imgur.com/73f4TLW.png",
+    "totalProduct": 4,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 114,
+    "name": "Gạo",
+    "imageUrl": "https://images.f99.com.vn/notification-images/8b02132b-3ce4-4626-a238-490fe0d01472.png",
+    "totalProduct": 134,
+    "discovered": 0,
+    "parentId": 87,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 134,
+    "name": "Gia vị",
+    "imageUrl": "https://images.f99.com.vn/notification-images/c410987c-22f3-479d-9dd6-5e01df0f913b.png",
+    "totalProduct": 379,
+    "discovered": 0,
+    "parentId": 133,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 83,
+    "name": "Giỏ quà",
+    "imageUrl": "https://images.f99.com.vn/notification-images/a74dc1e4-98f8-4fd9-9819-30821278494a.png",
+    "totalProduct": 189,
+    "discovered": 0,
+    "parentId": 126,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 85,
+    "name": "Hạt các loại",
+    "imageUrl": "https://images.f99.com.vn/notification-images/28f7ebb5-21d8-4110-895b-b91ff930a79b.png",
+    "totalProduct": 196,
+    "discovered": 0,
+    "parentId": 88,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 146,
+    "name": "Hàu",
+    "imageUrl": "https://images.f99.com.vn/notification-images/e2705617-0b6a-4526-bea1-145d2b7c1376.png",
+    "totalProduct": 5,
+    "discovered": 0,
+    "parentId": 131,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 99,
+    "name": "Hoa quả tươi",
+    "imageUrl": "https://images.f99.com.vn/notification-images/b2bad637-2dab-45c6-be20-de9d54b27811.png",
+    "totalProduct": 26,
+    "discovered": 0,
+    "parentId": 126,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 64,
+    "name": "Hồng",
+    "imageUrl": "https://imgur.com/2Z7bzQc.png",
+    "totalProduct": 4,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 105,
+    "name": "Kẹo",
+    "imageUrl": "https://images.f99.com.vn/notification-images/b205061b-e5af-470f-bb49-38ebb68aefe3.png",
+    "totalProduct": 154,
+    "discovered": 0,
+    "parentId": 91,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 125,
+    "name": "Khác",
+    "imageUrl": "https://images.f99.com.vn/notification-images/0d58bbde-f61d-4a75-be11-0d225ce722c9.png",
+    "totalProduct": 8,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 116,
+    "name": "Khác",
+    "imageUrl": "https://images.f99.com.vn/notification-images/0342daf4-6b0a-43c4-a7b1-3662a8afabfe.png",
+    "totalProduct": 43,
+    "discovered": 0,
+    "parentId": 88,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 6,
+    "name": "Kiwi",
+    "imageUrl": "https://imgur.com/9d2vSbm.png",
+    "totalProduct": 21,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 37,
+    "name": "Lê",
+    "imageUrl": "https://imgur.com/dbf34D0.png",
+    "totalProduct": 60,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 65,
+    "name": "Lựu",
+    "imageUrl": "https://imgur.com/T5xpkb6.png",
+    "totalProduct": 14,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 73,
+    "name": "Mãng cầu",
+    "imageUrl": "https://imgur.com/XmWLlXY.png",
+    "totalProduct": 1,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 94,
+    "name": "Măng cụt",
+    "imageUrl": "",
+    "totalProduct": 1,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 67,
+    "name": "Mận",
+    "imageUrl": "https://imgur.com/YcOdBTH.png",
+    "totalProduct": 6,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 123,
+    "name": "Mì các loại",
+    "imageUrl": "https://images.f99.com.vn/notification-images/21238205-bfde-4cad-a34c-3547863632b1.png",
+    "totalProduct": 37,
+    "discovered": 0,
+    "parentId": 87,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 61,
+    "name": "Mít",
+    "imageUrl": "https://imgur.com/CgKUSPx.png",
+    "totalProduct": 17,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 100,
+    "name": "Mix hoa quả tươi",
+    "imageUrl": "https://images.f99.com.vn/notification-images/58a9fdc2-57a2-4da2-beb1-a33028881ea8.png",
+    "totalProduct": 79,
+    "discovered": 0,
+    "parentId": 126,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 132,
+    "name": "Mực ",
+    "imageUrl": "https://images.f99.com.vn/notification-images/37d1439d-2a61-413d-8770-2e1c2fc392c0.png",
+    "totalProduct": 268,
+    "discovered": 0,
+    "parentId": 131,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 59,
+    "name": "Na",
+    "imageUrl": "https://imgur.com/7BKChN4.png",
+    "totalProduct": 10,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 78,
+    "name": "Nhãn",
+    "imageUrl": "https://imgur.com/iVosPb0.png",
+    "totalProduct": 7,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 2,
+    "name": "Nho",
+    "imageUrl": "https://imgur.com/Aeqp4YL.png",
+    "totalProduct": 77,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 81,
+    "name": "Nước ép rau củ",
+    "imageUrl": "",
+    "totalProduct": 29,
+    "discovered": 0,
+    "parentId": 98,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 82,
+    "name": "Nước ép trái cây",
+    "imageUrl": "",
+    "totalProduct": 190,
+    "discovered": 0,
+    "parentId": 98,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 117,
+    "name": "Ô Mai",
+    "imageUrl": "https://images.f99.com.vn/notification-images/647da69b-9c66-46a0-b51e-40efb823318c.png",
+    "totalProduct": 69,
+    "discovered": 0,
+    "parentId": 88,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 144,
+    "name": "Ốc ",
+    "imageUrl": "https://images.f99.com.vn/notification-images/91bc9174-64ae-4cac-b57a-4afbea7dcfa5.png",
+    "totalProduct": 3,
+    "discovered": 0,
+    "parentId": 131,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 72,
+    "name": "Ổi",
+    "imageUrl": "https://imgur.com/NtvL6ke.png",
+    "totalProduct": 20,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 102,
+    "name": "Quả",
+    "imageUrl": "https://images.f99.com.vn/notification-images/251327f9-b39e-4f18-b781-1cc4f64c2f8e.png",
+    "totalProduct": 25,
+    "discovered": 0,
+    "parentId": 95,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 96,
+    "name": "Rau",
+    "imageUrl": "https://images.f99.com.vn/notification-images/39f14d71-6d59-41e1-8e23-7b4630564d28.png",
+    "totalProduct": 112,
+    "discovered": 0,
+    "parentId": 95,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 136,
+    "name": "Rau, củ quả",
+    "imageUrl": "https://images.f99.com.vn/notification-images/90bf209c-934b-4fd5-9c43-d76e0621251d.png",
+    "totalProduct": 156,
+    "discovered": 0,
+    "parentId": 95,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 76,
+    "name": "Roi đỏ",
+    "imageUrl": "https://imgur.com/88gyxXa.png",
+    "totalProduct": 19,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 9,
+    "name": "Sầu riêng",
+    "imageUrl": "https://imgur.com/kBDVNwm.png",
+    "totalProduct": 15,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 104,
+    "name": "Sữa",
+    "imageUrl": "https://images.f99.com.vn/notification-images/15624840-1415-44c1-b5e1-291a3b5cacbe.jpg",
+    "totalProduct": 138,
+    "discovered": 0,
+    "parentId": 98,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 1,
+    "name": "Táo",
+    "imageUrl": "https://imgur.com/AtewyJz.png",
+    "totalProduct": 173,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 50,
+    "name": "Thanh Long",
+    "imageUrl": "https://imgur.com/iLE3lTf.png",
+    "totalProduct": 13,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 129,
+    "name": "Thịt bò ",
+    "imageUrl": "https://images.f99.com.vn/notification-images/5472b908-7ab5-4b5b-8a95-f4488df19c4b.png",
+    "totalProduct": 274,
+    "discovered": 0,
+    "parentId": 127,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 142,
+    "name": "Thịt gia cầm",
+    "imageUrl": "https://images.f99.com.vn/notification-images/f6b46453-787f-411a-8cc9-6b271af48bb8.png",
+    "totalProduct": 173,
+    "discovered": 0,
+    "parentId": 127,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 128,
+    "name": "Thịt heo ",
+    "imageUrl": "https://images.f99.com.vn/notification-images/e843d755-31cc-4d19-a459-306919fb3f16.png",
+    "totalProduct": 312,
+    "discovered": 0,
+    "parentId": 127,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 143,
+    "name": "Thịt khác ",
+    "imageUrl": "https://images.f99.com.vn/notification-images/9eb43015-0ab1-434a-824e-cb56b2313908.png",
+    "totalProduct": 15,
+    "discovered": 0,
+    "parentId": 127,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 120,
+    "name": "Thịt sấy",
+    "imageUrl": "https://images.f99.com.vn/notification-images/2a3c5080-52f1-455f-8c96-52a021c2c446.png",
+    "totalProduct": 84,
+    "discovered": 0,
+    "parentId": 88,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 130,
+    "name": "Thịt trâu",
+    "imageUrl": "https://images.f99.com.vn/notification-images/271e20b8-3520-4eab-a5ee-b1f4c18ab90a.png",
+    "totalProduct": 14,
+    "discovered": 0,
+    "parentId": 127,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 111,
+    "name": "Thực phẩm ăn kèm",
+    "imageUrl": "https://images.f99.com.vn/notification-images/c1cc83f3-5463-4f93-a582-0afd8b566c3b.png",
+    "totalProduct": 228,
+    "discovered": 0,
+    "parentId": 87,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 110,
+    "name": "Thực phẩm chế biến ",
+    "imageUrl": "https://images.f99.com.vn/notification-images/95c593e1-ba23-4b21-af51-0ff3dc8aa38b.png",
+    "totalProduct": 774,
+    "discovered": 0,
+    "parentId": 87,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 139,
+    "name": "Tôm ",
+    "imageUrl": "https://images.f99.com.vn/notification-images/aa38cec6-c2d2-4fba-8328-2f4e629b96ed.png",
+    "totalProduct": 78,
+    "discovered": 0,
+    "parentId": 131,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 103,
+    "name": "Trà",
+    "imageUrl": "https://images.f99.com.vn/notification-images/ffc742a9-f190-4599-b0dd-85aa990bc7f0.png",
+    "totalProduct": 317,
+    "discovered": 0,
+    "parentId": 98,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 57,
+    "name": "Trái cây sấy",
+    "imageUrl": "https://imgur.com/BDWLWE6.png",
+    "totalProduct": 50,
+    "discovered": 0,
+    "parentId": 88,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 122,
+    "name": "Trứng",
+    "imageUrl": "https://images.f99.com.vn/notification-images/ea890f62-5847-463a-bc5a-897bb60f86a7.png",
+    "totalProduct": 75,
+    "discovered": 0,
+    "parentId": 87,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 106,
+    "name": "Vải",
+    "imageUrl": "https://images.f99.com.vn/notification-images/d1897eee-898d-4797-a5c3-d344c0302888.png",
+    "totalProduct": 2,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 121,
+    "name": "Vật dụng ",
+    "imageUrl": "https://images.f99.com.vn/notification-images/22479467-d4bc-4904-8a54-bb45bf87d81a.png",
+    "totalProduct": 37,
+    "discovered": 0,
+    "parentId": 88,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 5,
+    "name": "Việt Quất",
+    "imageUrl": "https://imgur.com/YRCcP5V.png",
+    "totalProduct": 4,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 101,
+    "name": "Vú sữa",
+    "imageUrl": "https://images.f99.com.vn/notification-images/6893ea38-cb45-4aa3-8f0b-0a83a32f0077.png",
+    "totalProduct": 6,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  },
+  {
+    "id": 43,
+    "name": "Xoài",
+    "imageUrl": "https://imgur.com/eWfpkyp.png",
+    "totalProduct": 64,
+    "discovered": 0,
+    "parentId": 86,
+    "childCategories": null,
+    "products": null
+  }
+]

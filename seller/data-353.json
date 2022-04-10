@@ -1,0 +1,35 @@
+{
+  "id": 353,
+  "name": "Thực Phẩm Sạch Minh Long",
+  "logo": "https://cdn.f99.link/groupbuy-images/7bc3b478-37da-4a06-a319-54f295125563.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Thực Phẩm Sạch Minh Long cung cấp các sản phẩm sạch: Nem chua, chả bìa, giò lụa, giò bò, chả bì thì là. Bán sỉ bán lẻ ",
+  "headQuarter": "83 Trường Chinh, Phương Liệt, Thanh Xuân, Hà Nội",
+  "email": "tpsminhlong@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.9,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 40
+}

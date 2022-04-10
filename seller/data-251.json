@@ -1,0 +1,35 @@
+{
+  "id": 251,
+  "name": "MÓN NGON ĐÀ NẴNG",
+  "logo": "https://cdn.f99.link/groupbuy-images/d5a6e6cf-84a3-40ae-84df-785fffef42c1.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Ăn Hà Nội giá Đà Nẵng - Chúng tôi là người Đà Nẵng sẽ cung cấp cho bạn những món ngon và đặc sản của Đà Nẵng",
+  "headQuarter": "số 3 Hoàng Cầu, Trung Liệt, Đống Đa, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 16
+}

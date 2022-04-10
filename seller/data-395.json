@@ -1,0 +1,35 @@
+{
+  "id": 395,
+  "name": "Tiến Phát",
+  "logo": "https://images.f99.com.vn/groupbuy-images/992c1001-076f-4c9a-be2a-11b3a1107b46.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Farmer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Tiến Phát chuyên cung cấp hoa quả nội đia-nhập khẩu, Hải sản tươi cấp đông uy tín, chất lượng.",
+  "headQuarter": "110 Đê Trần Khát Chân, Thanh Lương, Hai Bà Trưng, Hà Nội",
+  "email": "Toi0984430297@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "06:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 104
+}

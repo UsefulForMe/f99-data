@@ -1,0 +1,35 @@
+{
+  "id": 706,
+  "name": "Thịt Nhập Khẩu Đông Lạnh - Kim Ngân ",
+  "logo": "https://cdn.f99.link/groupbuy-images/db0e97d2-3370-4d7f-b799-f218a6bbb9b8.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "HEO - BÒ NHẬP KHẨU, GÀ TƯƠI BÌNH MINH, VIETSWAN",
+  "headQuarter": "125/225/30 Nguyễn Thị Tần, 1, Quận 8, Hồ Chí Minh",
+  "email": "hongantrungnghia@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "06:00",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

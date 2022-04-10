@@ -1,0 +1,3233 @@
+[
+  {
+    "id": 8086,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Tôm hấp 250g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Tôm hấp 250g</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/64aa5da16898428bb39867f971394546.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Tôm hấp 250g",
+    "description": "<p>Tôm hấp 250g</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/64aa5da16898428bb39867f971394546.jpg",
+    "price": 110000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "8938528212075",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": null,
+    "category": {
+      "id": 139,
+      "name": "Tôm ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/aa38cec6-c2d2-4fba-8328-2f4e629b96ed.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/64aa5da16898428bb39867f971394546.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8086",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8087,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Tôm biển bóc nõn loại vừa 500gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Tôm biển bóc nõn loại vừa 500gr</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/0995330079de41a997c24322ddd42a41.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Tôm biển bóc nõn loại vừa 500gr",
+    "description": "<p>Tôm biển bóc nõn loại vừa 500gr</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/0995330079de41a997c24322ddd42a41.jpg",
+    "price": 150000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "8938528212020",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 139,
+      "name": "Tôm ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/aa38cec6-c2d2-4fba-8328-2f4e629b96ed.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/0995330079de41a997c24322ddd42a41.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8087",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14229,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Nõn Tôm Tươi",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(51, 51, 51);\">Tôm nõn tươi được bóc từ tôm tươi. Tôm nõn tươi có thể làm món chả cuốn (nem rán), nấu cháo cho bé, nấu canh, làm nem cuốn, xào hoặc kho với thịt, xào rau ...</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/61b00253-280a-4d47-a801-d4b6e921b0f8.jpg\",\"https://images.f99.com.vn/images/f56c9564-c0b1-468f-9cdd-87a80bbf2978.jpg\",\"https://images.f99.com.vn/images/c111b376-bdb3-4a71-b924-5c6897e7e985.jpg\",\"https://images.f99.com.vn/images/f62f1d8f-767c-444c-a261-ef59e5909215.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Nõn Tôm Tươi",
+    "description": "<p><span style=\"color: rgb(51, 51, 51);\">Tôm nõn tươi được bóc từ tôm tươi. Tôm nõn tươi có thể làm món chả cuốn (nem rán), nấu cháo cho bé, nấu canh, làm nem cuốn, xào hoặc kho với thịt, xào rau ...</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/61b00253-280a-4d47-a801-d4b6e921b0f8.jpg",
+    "price": 250000,
+    "oldPrice": 280000,
+    "discountPercent": 11,
+    "stock": 100,
+    "totalSold": 4,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "4588",
+    "origin": "",
+    "sellerId": 247,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Được đóng gói 500g. làm sạch hút chân không cấp đông sau -40 độ c</span></p>",
+    "category": {
+      "id": 139,
+      "name": "Tôm ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/aa38cec6-c2d2-4fba-8328-2f4e629b96ed.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/61b00253-280a-4d47-a801-d4b6e921b0f8.jpg",
+      "https://images.f99.com.vn/images/f56c9564-c0b1-468f-9cdd-87a80bbf2978.jpg",
+      "https://images.f99.com.vn/images/c111b376-bdb3-4a71-b924-5c6897e7e985.jpg",
+      "https://images.f99.com.vn/images/f62f1d8f-767c-444c-a261-ef59e5909215.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14229",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg",
+          "500g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 14230,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 130000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 50,
+        "totalSold": 1,
+        "unit": "Kg",
+        "sku": "4588",
+        "rating": 0,
+        "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Được đóng gói 500g. làm sạch hút chân không cấp đông sau -40 độ c</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 14231,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 250000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 50,
+        "totalSold": 3,
+        "unit": "Kg",
+        "sku": "4588",
+        "rating": 0,
+        "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Được đóng gói 500g. làm sạch hút chân không cấp đông sau -40 độ c</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 247,
+      "sellerRate": 2.8,
+      "sellerName": "Thiên Phú Seafood",
+      "warehouseId": "56e12c48-de7c-426a-9d75-61ee77360f20",
+      "warehouseAddress": "ha dong, ha dong, 48B LK 6b Làng Việt Kiều Châu Âu, Nguyễn Văn Lộc, Mỗ Lao, Hà Đông, Hà Nội",
+      "distance": 6716,
+      "warehouseDistrict": "ha dong",
+      "reputation": 36.18385185185251,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14238,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bề Bề Nõn",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p class=\"ql-align-justify\"><strong>Bề bề</strong>&nbsp;là một loại hải sản vô cùng ngon và bổ dưỡng do mang lại hàm lượng đạm cũng như hàm lượng magie cao. Tuy giá thành của bề bề không hề rẻ nhưng khi đã ăn bề bề rồi thì bạn sẽ bị ghiền lúc nào không hay đấy vì độ ngon không tưởng của nó. Đặc biệt, món&nbsp;<strong>bề bề bóc nõn rang me</strong>&nbsp;sẽ khiến cho bạn ăn 1 lần mà nhớ cả đời.</p><p class=\"ql-align-justify\"><strong>Bề bề</strong>&nbsp;hay còn gọi là tôm thuyền hoặc tôm tít. Thịt bề bề rất ngọt và thơm, kết hợp cùng sốt me chua chua cay cay lại ngọt ngọt sẽ làm bữa cơm thường ngày của gia đình bạn thêm thú vị và thật hấp dẫn. Do vậy hãy cùng tìm hiểu công thức làm món ăn ngon tuyệt cú mèo này ngay nhé.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/7026baef-23a5-424a-b7f2-9624d15abdca.jpg\",\"https://images.f99.com.vn/images/bbba4b9d-b2af-441b-9e67-f5c1d19c160e.jpg\",\"https://images.f99.com.vn/images/aff9dbfb-1625-4660-bb22-543aec0a65d1.jpg\",\"https://images.f99.com.vn/images/e35cb45a-3c72-434c-9e63-9ebf664f99fe.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bề Bề Nõn",
+    "description": "<p class=\"ql-align-justify\"><strong>Bề bề</strong>&nbsp;là một loại hải sản vô cùng ngon và bổ dưỡng do mang lại hàm lượng đạm cũng như hàm lượng magie cao. Tuy giá thành của bề bề không hề rẻ nhưng khi đã ăn bề bề rồi thì bạn sẽ bị ghiền lúc nào không hay đấy vì độ ngon không tưởng của nó. Đặc biệt, món&nbsp;<strong>bề bề bóc nõn rang me</strong>&nbsp;sẽ khiến cho bạn ăn 1 lần mà nhớ cả đời.</p><p class=\"ql-align-justify\"><strong>Bề bề</strong>&nbsp;hay còn gọi là tôm thuyền hoặc tôm tít. Thịt bề bề rất ngọt và thơm, kết hợp cùng sốt me chua chua cay cay lại ngọt ngọt sẽ làm bữa cơm thường ngày của gia đình bạn thêm thú vị và thật hấp dẫn. Do vậy hãy cùng tìm hiểu công thức làm món ăn ngon tuyệt cú mèo này ngay nhé.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/7026baef-23a5-424a-b7f2-9624d15abdca.jpg",
+    "price": 250000,
+    "oldPrice": 280000,
+    "discountPercent": 11,
+    "stock": 300,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "6589",
+    "origin": "",
+    "sellerId": 247,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Được đóng gói 500g. làm sạch hút chân không cấp đông sau -40 độ c</span></p>",
+    "category": {
+      "id": 139,
+      "name": "Tôm ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/aa38cec6-c2d2-4fba-8328-2f4e629b96ed.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/7026baef-23a5-424a-b7f2-9624d15abdca.jpg",
+      "https://images.f99.com.vn/images/bbba4b9d-b2af-441b-9e67-f5c1d19c160e.jpg",
+      "https://images.f99.com.vn/images/aff9dbfb-1625-4660-bb22-543aec0a65d1.jpg",
+      "https://images.f99.com.vn/images/e35cb45a-3c72-434c-9e63-9ebf664f99fe.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14238",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg",
+          "300g",
+          "500g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 17475,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "300g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "300g",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "300g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 75000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "Kg",
+        "sku": "6589",
+        "rating": 0,
+        "instructions": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Được đóng gói 500g. làm sạch hút chân không cấp đông sau -40 độ c</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "300g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 17476,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 130000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "Kg",
+        "sku": "6589",
+        "rating": 0,
+        "instructions": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Được đóng gói 500g. làm sạch hút chân không cấp đông sau -40 độ c</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 17477,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 250000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "Kg",
+        "sku": "6589",
+        "rating": 0,
+        "instructions": "<p><span style=\"background-color: rgb(229, 239, 255); color: rgb(0, 26, 51);\">Được đóng gói 500g. làm sạch hút chân không cấp đông sau -40 độ c</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 247,
+      "sellerRate": 2.8,
+      "sellerName": "Thiên Phú Seafood",
+      "warehouseId": "56e12c48-de7c-426a-9d75-61ee77360f20",
+      "warehouseAddress": "ha dong, ha dong, 48B LK 6b Làng Việt Kiều Châu Âu, Nguyễn Văn Lộc, Mỗ Lao, Hà Đông, Hà Nội",
+      "distance": 6716,
+      "warehouseDistrict": "ha dong",
+      "reputation": 36.18385185185251,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14524,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "VITOT FOOD - TÔM SẮT BÓC NÕN (500g/khay)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(0, 26, 51);\">1. TÔM SẮT BÓC NÕN LÀ GÌ?</span></p><p class=\"ql-align-justify\">Tôm Sắt&nbsp;là một loại tôm biển có kích thước nhỏ. Thịt của Tôm Sắt rất chắc, ngọt, dai và giòn nên được rất nhiều người ưa thích.</p><p class=\"ql-align-justify\">Cái tên Tôm Sắt được bắt nguồn từ chiếc vỏ cứng như sắt của chúng. Vậy nên Tôm sắt thường được lột vỏ lấy nõn khi chế biến các món ăn khác nhau.</p><p class=\"ql-align-justify\">Sau khi được đánh bắt từ biển về, những con tôm sắt còn tươi, khỏe sẽ được lọc ra, đem rửa sạch, bóc vỏ, bỏ đầu và phần chỉ đen trên lưng. Tôm thành phẩm thu được sẽ được đóng gói, hút chân không và bảo quản đông lạnh.</p><p class=\"ql-align-justify\">Tôm sắt bóc nõn có chứa rất nhiều các thành phần dinh dưỡng, đặc biệt là canxi và axit béo có lợi trong việc phát triển của trẻ nhỏ. Mỗi lần nấu ăn, bạn chỉ cần bỏ lượng vừa đủ ra ngoài để rã đông và chế biến vô cùng tiện lợi. Không nên để đông lạnh quá lâu để tránh tôm bị mất vị tươi ngọt và không đảm bảo sức khỏe</p><p><span style=\"color: rgb(0, 26, 51);\">- Quy cách đóng gói: 500g/khay</span></p><p><span style=\"color: rgb(0, 26, 51);\">- Các món ăn chế biến từ tôm sắt bóc nõn:</span></p><p>Tôm sắt bóc nõn rim</p><p>Tôm sắt bóc nõn nấu canh</p><p>Tôm sắt bóc nõn nấu cháo,...</p><p><span style=\"color: rgb(0, 26, 51);\">2. CAM KẾT CỦA VITOT FOOD</span></p><p><span style=\"color: rgb(0, 26, 51);\">- Hàng ngon - giá tốt</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 26, 51);\">- 1 đổi 1 nếu sản phẩm bị lỗi.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/e8fea8e2-0d6a-4be6-a56c-104f29776aa3.png\",\"https://images.f99.com.vn/images/0eeb6bd7-448e-48a9-bfb1-b6c96be754ec.jpg\",\"https://images.f99.com.vn/images/201535f3-4bb3-4697-a3b7-18e21ef688e7.jpg\",\"https://images.f99.com.vn/images/1ed3a4a3-8d05-4d43-be7f-0531c882c13f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"tôm sắt\",\"tôm sắt nõn\",\"tôm nõn\",\"tôm sắt nõn giá bao nhiêu\",\"giá tôm sắt\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "VITOT FOOD - TÔM SẮT BÓC NÕN (500g/khay)",
+    "description": "<p><span style=\"color: rgb(0, 26, 51);\">1. TÔM SẮT BÓC NÕN LÀ GÌ?</span></p><p class=\"ql-align-justify\">Tôm Sắt&nbsp;là một loại tôm biển có kích thước nhỏ. Thịt của Tôm Sắt rất chắc, ngọt, dai và giòn nên được rất nhiều người ưa thích.</p><p class=\"ql-align-justify\">Cái tên Tôm Sắt được bắt nguồn từ chiếc vỏ cứng như sắt của chúng. Vậy nên Tôm sắt thường được lột vỏ lấy nõn khi chế biến các món ăn khác nhau.</p><p class=\"ql-align-justify\">Sau khi được đánh bắt từ biển về, những con tôm sắt còn tươi, khỏe sẽ được lọc ra, đem rửa sạch, bóc vỏ, bỏ đầu và phần chỉ đen trên lưng. Tôm thành phẩm thu được sẽ được đóng gói, hút chân không và bảo quản đông lạnh.</p><p class=\"ql-align-justify\">Tôm sắt bóc nõn có chứa rất nhiều các thành phần dinh dưỡng, đặc biệt là canxi và axit béo có lợi trong việc phát triển của trẻ nhỏ. Mỗi lần nấu ăn, bạn chỉ cần bỏ lượng vừa đủ ra ngoài để rã đông và chế biến vô cùng tiện lợi. Không nên để đông lạnh quá lâu để tránh tôm bị mất vị tươi ngọt và không đảm bảo sức khỏe</p><p><span style=\"color: rgb(0, 26, 51);\">- Quy cách đóng gói: 500g/khay</span></p><p><span style=\"color: rgb(0, 26, 51);\">- Các món ăn chế biến từ tôm sắt bóc nõn:</span></p><p>Tôm sắt bóc nõn rim</p><p>Tôm sắt bóc nõn nấu canh</p><p>Tôm sắt bóc nõn nấu cháo,...</p><p><span style=\"color: rgb(0, 26, 51);\">2. CAM KẾT CỦA VITOT FOOD</span></p><p><span style=\"color: rgb(0, 26, 51);\">- Hàng ngon - giá tốt</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 26, 51);\">- 1 đổi 1 nếu sản phẩm bị lỗi.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/e8fea8e2-0d6a-4be6-a56c-104f29776aa3.png",
+    "price": 125000,
+    "oldPrice": 200000,
+    "discountPercent": 38,
+    "stock": 50,
+    "totalSold": 21,
+    "maxQuantityPerUser": null,
+    "unit": "500g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 218,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<ul><li class=\"ql-align-justify\">Tôm sắt bóc nõn không có chất bảo quản nên bảo quản ngăn đá để đảm bảo chất lượng</li><li class=\"ql-align-justify\">Khi nào chế biến bỏ ra ngoài tầm 5-10 phút rồi chế biến, không rã đông thông thường hay bỏ ngăn mát.</li></ul>",
+    "category": {
+      "id": 139,
+      "name": "Tôm ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/aa38cec6-c2d2-4fba-8328-2f4e629b96ed.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "tôm sắt",
+      "tôm sắt nõn",
+      "tôm nõn",
+      "tôm sắt nõn giá bao nhiêu",
+      "giá tôm sắt"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/e8fea8e2-0d6a-4be6-a56c-104f29776aa3.png",
+      "https://images.f99.com.vn/images/0eeb6bd7-448e-48a9-bfb1-b6c96be754ec.jpg",
+      "https://images.f99.com.vn/images/201535f3-4bb3-4697-a3b7-18e21ef688e7.jpg",
+      "https://images.f99.com.vn/images/1ed3a4a3-8d05-4d43-be7f-0531c882c13f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14524",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "500g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 66723,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 125000,
+        "oldPrice": 200000,
+        "discountPercent": 38,
+        "stock": 50,
+        "totalSold": 21,
+        "unit": "500g",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<ul><li class=\"ql-align-justify\">Tôm sắt bóc nõn không có chất bảo quản nên bảo quản ngăn đá để đảm bảo chất lượng</li><li class=\"ql-align-justify\">Khi nào chế biến bỏ ra ngoài tầm 5-10 phút rồi chế biến, không rã đông thông thường hay bỏ ngăn mát.</li></ul>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 218,
+      "sellerRate": 4.6,
+      "sellerName": "VITOT FOOD - MÓN NGON NỔI TIẾNG",
+      "warehouseId": "5a5ccfcb-761e-4fc7-be85-dbc87b66387f",
+      "warehouseAddress": "thanh xuan, 263 Hoàng Văn Thái, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3549,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 80.99133393939447,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14527,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "VITOT FOOD - TÔM LỚT BÓC NÕN (500g/khay)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(0, 26, 51);\">1. TÔM LỚT BÓC NÕN LÀ GÌ?</span></p><p class=\"ql-align-justify\">Tôm lớt bóc nõn là những chú tôm sau khi đánh bắt sẽ đưa lên bờ, sẽ được đem đi hấp sôi sau đó mới bóc nõn để giữ nguyên độ ngọt và tươi của tôm sống nên sẽ có màu vàng cam rực rỡ của tôm chín.</p><p class=\"ql-align-justify\">Khi ăn sẽ cảm nhận được hương vị ngon ngọt, tươi, thịt rất săn chắc, dai, giòn, không hề bở. Không chỉ vậy tôm lớt chứa hàm lượng dinh dưỡng cao, cung cấp protein dồi dào, bổ sung canxi, sắt, omega 3… Vì vậy mà luôn là sự lựa chọn hàng đầu của các bà nội trợ, vừa ngon vừa bổ.</p><p><span style=\"color: rgb(0, 26, 51);\">- Quy cách đóng gói: 500g/khay</span></p><p><span style=\"color: rgb(0, 26, 51);\">- Các món ăn chế biến từ tôm lớt:</span></p><p>Tôm lớt bóc nõn nấu canh bầu</p><p>Tôm lớt bóc nõn làm salad</p><p>Tôm lớt bóc nõn chiên nước cốt dừa,...</p><p><span style=\"color: rgb(0, 26, 51);\">2. CAM KẾT CỦA VITOT FOOD</span></p><p><span style=\"color: rgb(0, 26, 51);\">- Hàng ngon - giá tốt</span></p><p><span style=\"color: rgb(0, 26, 51);\">- 1 đổi 1 nếu sản phẩm bị lỗi</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/c948dd2b-d061-46fb-ad35-c187d1301f6d.png\",\"https://images.f99.com.vn/images/c11c78db-0e81-4c14-94ba-eccacc55e70d.jpg\",\"https://images.f99.com.vn/images/1b5fd610-a889-48cd-bb5a-9ce19ab5e44f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "VITOT FOOD - TÔM LỚT BÓC NÕN (500g/khay)",
+    "description": "<p><span style=\"color: rgb(0, 26, 51);\">1. TÔM LỚT BÓC NÕN LÀ GÌ?</span></p><p class=\"ql-align-justify\">Tôm lớt bóc nõn là những chú tôm sau khi đánh bắt sẽ đưa lên bờ, sẽ được đem đi hấp sôi sau đó mới bóc nõn để giữ nguyên độ ngọt và tươi của tôm sống nên sẽ có màu vàng cam rực rỡ của tôm chín.</p><p class=\"ql-align-justify\">Khi ăn sẽ cảm nhận được hương vị ngon ngọt, tươi, thịt rất săn chắc, dai, giòn, không hề bở. Không chỉ vậy tôm lớt chứa hàm lượng dinh dưỡng cao, cung cấp protein dồi dào, bổ sung canxi, sắt, omega 3… Vì vậy mà luôn là sự lựa chọn hàng đầu của các bà nội trợ, vừa ngon vừa bổ.</p><p><span style=\"color: rgb(0, 26, 51);\">- Quy cách đóng gói: 500g/khay</span></p><p><span style=\"color: rgb(0, 26, 51);\">- Các món ăn chế biến từ tôm lớt:</span></p><p>Tôm lớt bóc nõn nấu canh bầu</p><p>Tôm lớt bóc nõn làm salad</p><p>Tôm lớt bóc nõn chiên nước cốt dừa,...</p><p><span style=\"color: rgb(0, 26, 51);\">2. CAM KẾT CỦA VITOT FOOD</span></p><p><span style=\"color: rgb(0, 26, 51);\">- Hàng ngon - giá tốt</span></p><p><span style=\"color: rgb(0, 26, 51);\">- 1 đổi 1 nếu sản phẩm bị lỗi</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/c948dd2b-d061-46fb-ad35-c187d1301f6d.png",
+    "price": 195000,
+    "oldPrice": 300000,
+    "discountPercent": 35,
+    "stock": 50,
+    "totalSold": 4,
+    "maxQuantityPerUser": null,
+    "unit": "500g",
+    "sku": "",
+    "origin": "",
+    "sellerId": 218,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<ul><li><span style=\"color: rgb(36, 36, 36); background-color: rgb(250, 250, 250);\">Tôm lớt bóc nõn không có chất bảo quản nên bảo quản ngăn đá để đảm bảo chất lượng</span></li><li class=\"ql-align-justify\">Khi nào chế biến bỏ ra ngoài tầm 5-10 phút rồi chế biến, không rã đông thông thường hay bỏ ngăn mát.</li></ul>",
+    "category": {
+      "id": 139,
+      "name": "Tôm ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/aa38cec6-c2d2-4fba-8328-2f4e629b96ed.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/c948dd2b-d061-46fb-ad35-c187d1301f6d.png",
+      "https://images.f99.com.vn/images/c11c78db-0e81-4c14-94ba-eccacc55e70d.jpg",
+      "https://images.f99.com.vn/images/1b5fd610-a889-48cd-bb5a-9ce19ab5e44f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14527",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "500g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 66725,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 195000,
+        "oldPrice": 300000,
+        "discountPercent": 35,
+        "stock": 50,
+        "totalSold": 4,
+        "unit": "500g",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<ul><li><span style=\"color: rgb(36, 36, 36); background-color: rgb(250, 250, 250);\">Tôm lớt bóc nõn không có chất bảo quản nên bảo quản ngăn đá để đảm bảo chất lượng</span></li><li class=\"ql-align-justify\">Khi nào chế biến bỏ ra ngoài tầm 5-10 phút rồi chế biến, không rã đông thông thường hay bỏ ngăn mát.</li></ul>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 218,
+      "sellerRate": 4.6,
+      "sellerName": "VITOT FOOD - MÓN NGON NỔI TIẾNG",
+      "warehouseId": "5a5ccfcb-761e-4fc7-be85-dbc87b66387f",
+      "warehouseAddress": "thanh xuan, 263 Hoàng Văn Thái, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3549,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 80.99133393939447,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15296,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hải sản Bề Bề Trứng Natufood nguyên con loại (10-20con) [Chỉ giao HN]",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h1 class=\"ql-align-justify\"><strong>🦐 Hải Sản - Bề Bề Trứng Nguyên Con 🦐</strong></h1><h2 class=\"ql-align-justify\"><strong>I. Giới Thiệu Về Bề Bề Trứng Nguyên Con</strong></h2><h3 class=\"ql-align-justify\"><strong>1.1. Đặc Điểm Bề Ngoài Bề Bề Trứng Nguyên Con</strong></h3><p class=\"ql-align-justify\">Bề Bề còn có tên gọi khác là tôm tít, được biết đến với sự thơm ngon và nguồn dinh dưỡng dồi dào. Bề Bề Nguyên Con có phần thịt trong, vỏ cứng. Chúng sinh sống ở vùng nước mặt nên rất dễ đánh bắt.</p><h3 class=\"ql-align-justify\"><strong>1.2. Dinh Dưỡng Của Bề Bề Trứng Nguyên Con</strong></h3><ul><li class=\"ql-align-justify\">Bổ sung Vitamin B12: đây là loại vitamin phức tạp tham gia vào quá trình chuyển hóa năng lượng trong cơ thể. Vitamin B12 giữ vai trò quan trọng trong tổng hợp các nucleotic, protein, carbohydrat và chất béo. Vì vậy, thường xuyên ăn bề bề sẽ giúp giảm suy nhược cơ thể, cân bằng dinh dưỡng.</li><li class=\"ql-align-justify\">Bổ sung sắt và protein: sắt là chất vô cùng quan trọng trong quá trình tạo máu. Nếu thiếu sắt cơ thể sẽ bị thiếu máu, mệt lả và khó thở. Sắt tăng cường hệ miễn dịch, vận chuyển oxy từ phổi đến các cơ quan. Sắt đặc biệt quan trọng đối với trẻ em trong độ tuổi phát triển.</li><li class=\"ql-align-justify\">Bổ sung canxi: là chất quan trọng đối với xương khớp và răng. Cứ 100g bề bề có đến 2000mg canxi. Đối với trẻ nhỏ, nếu thiếu canxi sẽ bị chậm lớn, hạn chế chiều cao, còi xương. Đối với người tuổi trung niên, nếu thiếu canxi sẽ dẫn đến loãng xương, mất xương.</li><li class=\"ql-align-justify\">Bổ sung Omega-3: đây là loại axit béo vô cùng quan tọng trong việc phát triển trí não và hệ thần kinh. Những người được bổ sung Omega-3 thường xuyên sẽ giúp tăng khả năng tập trung.</li><li class=\"ql-align-justify\">Ngoài ra, bề bề còn có rất nhiều chất quan trọng như khoáng chất, vitamin A, vitamin B1, kẽm, kali,…</li></ul><h3 class=\"ql-align-justify\"><strong>1.3. Cách Bóc Vỏ Bề Bề Trứng Nguyên Con Dễ Dàng</strong></h3><p class=\"ql-align-justify\">Bề Bề nguyên con có lớp vỏ ngoài rất cứng thịt mềm, vì vậy để loại bỏ vỏ bề bề dễ dàng ta cần làm như sau:</p><ul><li class=\"ql-align-justify\">Dùng một cây kéo dài cắt bỏ phần đầu, cắt dọc hai bên viền dọc theo thân bề bề.</li><li class=\"ql-align-justify\">Nhẹ nhàng bóc lớp vỏ cứng (cần bóc từ từ để thịt không bị vỡ, không bị dính lại vỏ).</li></ul><h2 class=\"ql-align-justify\"><strong>II. Các Món Ăn Đặc Sắc Từ Bề Bề Trứng Nguyên Con</strong></h2><h3 class=\"ql-align-justify\"><strong>Món 1: Bún Bề Bề</strong></h3><p class=\"ql-align-justify\"><strong><em>Nguyên Liệu:</em></strong></p><p class=\"ql-align-justify\">Bề Bề thịt hấp (1 gói)</p><p class=\"ql-align-justify\">4 quả cà chua</p><p class=\"ql-align-justify\">10 củ hành khô</p><p class=\"ql-align-justify\">1 bó Rau cải ngọt</p><p class=\"ql-align-justify\"><strong><em>Các Bước:</em></strong></p><p class=\"ql-align-justify\">Bề bề rửa ráo cho vào nồi đun sôi.</p><p class=\"ql-align-justify\">Dùng bề bề nõn</p><p class=\"ql-align-justify\">Nếu có vỏ và càng bề bề thì đem xay hoặc giã</p><p class=\"ql-align-justify\">Rau rửa sạch trần vớt ra cho ráo</p><p class=\"ql-align-justify\">Phi hành khô</p><p class=\"ql-align-justify\">Bún trần ra bát, xếp bề bề, rau lên trên. Chan nước dùng vs cà chua. Rắc hành khô. Cho tương ớt vào.</p><h3 class=\"ql-align-justify\"><strong>Món 2: Chả Nem Nhân Tôm Bề Bề</strong></h3><p class=\"ql-align-justify\"><strong><em>Nguyên Liệu:</em></strong></p><p class=\"ql-align-justify\">500 g Bề Bề thịt hấp</p><p class=\"ql-align-justify\">1 cuộn miến dong, nấm hương và mộc nhĩ vừa đủ. Bánh tráng để gói</p><p class=\"ql-align-justify\">1 củ Su hào</p><p class=\"ql-align-justify\">1 củ Cà rốt</p><p class=\"ql-align-justify\">400 g Thịt băm</p><p class=\"ql-align-justify\">Trứng : 2 quả</p><p class=\"ql-align-justify\">Nước chấm : đu đủ xanh, cà rốt, chanh, ớt, đường, tỏi</p><p class=\"ql-align-justify\">Rau sống ăn kèm</p><p class=\"ql-align-justify\"><strong><em>Các Bước:</em></strong></p><p class=\"ql-align-justify\">Bào hoặc thái mỏng các nguyên liệu rồi cho ra chậu trộn lên. Thái tí hành và rau mùi,rắc chút hạt tiêu cho nhân thơm nhằm hạn chế bớt mùi tanh của bề bề lại.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Trải bánh tráng ra để cuốn. 1 cái nguyên và 1 nửa cái đã cắt làm đôi. Để nhân thịt vào trước rồi đặt bề bề lên cho đều khắp chiều dài nem rồi gói lại chắc tay.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Đổ ngập dầu rồi chiên lửa nhỏ. Lựa tay lật chả để chín đều mà ko cháy hoặc vỡ chả khiến ngấm dầu. Nếu làm nhiều để dành ăn dần thì chiên sơ sơ là được. Chiên xong gác lên gá chảo cho bớt dầu sẽ ko bị ngấy.</p><p class=\"ql-align-justify\">Bào mỏng su su cùng cà rốt r xóc muối 1 lúc sau đó rửa sạch và cho đường, giấm vào làm dưa góp. Pha nước chấm gồm đường, chanh,tỏi và ớt.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Ngoài ra, chúng ta có thể dùng bề bề thịt để chế biến món&nbsp;Nem Bề Bề&nbsp;– món ngon lạ miệng được nhiều người yêu thích.</p><p>------------------------------------------</p><h2><strong>III. Thời Hạn Sử Dụng Và Bảo Quản Bề Bề Trứng Nguyên Con:</strong></h2><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #bebe #bebenon #bebenguyencon #bebenontrung #bebetrung</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/a496a53a-b4d6-4a37-b8ef-54de6070981f.jpg\",\"https://images.f99.com.vn/images/7f28f1ae-28d6-425b-bbbc-4eabce4aec48.jpg\",\"https://images.f99.com.vn/images/0735a74a-5cc8-4028-8445-2ff32681e1d5.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Natufood\",\"Hải sản\",\"Hải sản đông lạnh\",\"Hải sản tươi sống\",\"Hải sản chế biến\",\"Hải sản sấy khô\",\"Bề bề\",\"Bề bề nguyên con\",\"Bề bề trứng\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hải sản Bề Bề Trứng Natufood nguyên con loại (10-20con) [Chỉ giao HN]",
+    "description": "<h1 class=\"ql-align-justify\"><strong>🦐 Hải Sản - Bề Bề Trứng Nguyên Con 🦐</strong></h1><h2 class=\"ql-align-justify\"><strong>I. Giới Thiệu Về Bề Bề Trứng Nguyên Con</strong></h2><h3 class=\"ql-align-justify\"><strong>1.1. Đặc Điểm Bề Ngoài Bề Bề Trứng Nguyên Con</strong></h3><p class=\"ql-align-justify\">Bề Bề còn có tên gọi khác là tôm tít, được biết đến với sự thơm ngon và nguồn dinh dưỡng dồi dào. Bề Bề Nguyên Con có phần thịt trong, vỏ cứng. Chúng sinh sống ở vùng nước mặt nên rất dễ đánh bắt.</p><h3 class=\"ql-align-justify\"><strong>1.2. Dinh Dưỡng Của Bề Bề Trứng Nguyên Con</strong></h3><ul><li class=\"ql-align-justify\">Bổ sung Vitamin B12: đây là loại vitamin phức tạp tham gia vào quá trình chuyển hóa năng lượng trong cơ thể. Vitamin B12 giữ vai trò quan trọng trong tổng hợp các nucleotic, protein, carbohydrat và chất béo. Vì vậy, thường xuyên ăn bề bề sẽ giúp giảm suy nhược cơ thể, cân bằng dinh dưỡng.</li><li class=\"ql-align-justify\">Bổ sung sắt và protein: sắt là chất vô cùng quan trọng trong quá trình tạo máu. Nếu thiếu sắt cơ thể sẽ bị thiếu máu, mệt lả và khó thở. Sắt tăng cường hệ miễn dịch, vận chuyển oxy từ phổi đến các cơ quan. Sắt đặc biệt quan trọng đối với trẻ em trong độ tuổi phát triển.</li><li class=\"ql-align-justify\">Bổ sung canxi: là chất quan trọng đối với xương khớp và răng. Cứ 100g bề bề có đến 2000mg canxi. Đối với trẻ nhỏ, nếu thiếu canxi sẽ bị chậm lớn, hạn chế chiều cao, còi xương. Đối với người tuổi trung niên, nếu thiếu canxi sẽ dẫn đến loãng xương, mất xương.</li><li class=\"ql-align-justify\">Bổ sung Omega-3: đây là loại axit béo vô cùng quan tọng trong việc phát triển trí não và hệ thần kinh. Những người được bổ sung Omega-3 thường xuyên sẽ giúp tăng khả năng tập trung.</li><li class=\"ql-align-justify\">Ngoài ra, bề bề còn có rất nhiều chất quan trọng như khoáng chất, vitamin A, vitamin B1, kẽm, kali,…</li></ul><h3 class=\"ql-align-justify\"><strong>1.3. Cách Bóc Vỏ Bề Bề Trứng Nguyên Con Dễ Dàng</strong></h3><p class=\"ql-align-justify\">Bề Bề nguyên con có lớp vỏ ngoài rất cứng thịt mềm, vì vậy để loại bỏ vỏ bề bề dễ dàng ta cần làm như sau:</p><ul><li class=\"ql-align-justify\">Dùng một cây kéo dài cắt bỏ phần đầu, cắt dọc hai bên viền dọc theo thân bề bề.</li><li class=\"ql-align-justify\">Nhẹ nhàng bóc lớp vỏ cứng (cần bóc từ từ để thịt không bị vỡ, không bị dính lại vỏ).</li></ul><h2 class=\"ql-align-justify\"><strong>II. Các Món Ăn Đặc Sắc Từ Bề Bề Trứng Nguyên Con</strong></h2><h3 class=\"ql-align-justify\"><strong>Món 1: Bún Bề Bề</strong></h3><p class=\"ql-align-justify\"><strong><em>Nguyên Liệu:</em></strong></p><p class=\"ql-align-justify\">Bề Bề thịt hấp (1 gói)</p><p class=\"ql-align-justify\">4 quả cà chua</p><p class=\"ql-align-justify\">10 củ hành khô</p><p class=\"ql-align-justify\">1 bó Rau cải ngọt</p><p class=\"ql-align-justify\"><strong><em>Các Bước:</em></strong></p><p class=\"ql-align-justify\">Bề bề rửa ráo cho vào nồi đun sôi.</p><p class=\"ql-align-justify\">Dùng bề bề nõn</p><p class=\"ql-align-justify\">Nếu có vỏ và càng bề bề thì đem xay hoặc giã</p><p class=\"ql-align-justify\">Rau rửa sạch trần vớt ra cho ráo</p><p class=\"ql-align-justify\">Phi hành khô</p><p class=\"ql-align-justify\">Bún trần ra bát, xếp bề bề, rau lên trên. Chan nước dùng vs cà chua. Rắc hành khô. Cho tương ớt vào.</p><h3 class=\"ql-align-justify\"><strong>Món 2: Chả Nem Nhân Tôm Bề Bề</strong></h3><p class=\"ql-align-justify\"><strong><em>Nguyên Liệu:</em></strong></p><p class=\"ql-align-justify\">500 g Bề Bề thịt hấp</p><p class=\"ql-align-justify\">1 cuộn miến dong, nấm hương và mộc nhĩ vừa đủ. Bánh tráng để gói</p><p class=\"ql-align-justify\">1 củ Su hào</p><p class=\"ql-align-justify\">1 củ Cà rốt</p><p class=\"ql-align-justify\">400 g Thịt băm</p><p class=\"ql-align-justify\">Trứng : 2 quả</p><p class=\"ql-align-justify\">Nước chấm : đu đủ xanh, cà rốt, chanh, ớt, đường, tỏi</p><p class=\"ql-align-justify\">Rau sống ăn kèm</p><p class=\"ql-align-justify\"><strong><em>Các Bước:</em></strong></p><p class=\"ql-align-justify\">Bào hoặc thái mỏng các nguyên liệu rồi cho ra chậu trộn lên. Thái tí hành và rau mùi,rắc chút hạt tiêu cho nhân thơm nhằm hạn chế bớt mùi tanh của bề bề lại.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Trải bánh tráng ra để cuốn. 1 cái nguyên và 1 nửa cái đã cắt làm đôi. Để nhân thịt vào trước rồi đặt bề bề lên cho đều khắp chiều dài nem rồi gói lại chắc tay.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Đổ ngập dầu rồi chiên lửa nhỏ. Lựa tay lật chả để chín đều mà ko cháy hoặc vỡ chả khiến ngấm dầu. Nếu làm nhiều để dành ăn dần thì chiên sơ sơ là được. Chiên xong gác lên gá chảo cho bớt dầu sẽ ko bị ngấy.</p><p class=\"ql-align-justify\">Bào mỏng su su cùng cà rốt r xóc muối 1 lúc sau đó rửa sạch và cho đường, giấm vào làm dưa góp. Pha nước chấm gồm đường, chanh,tỏi và ớt.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Ngoài ra, chúng ta có thể dùng bề bề thịt để chế biến món&nbsp;Nem Bề Bề&nbsp;– món ngon lạ miệng được nhiều người yêu thích.</p><p>------------------------------------------</p><h2><strong>III. Thời Hạn Sử Dụng Và Bảo Quản Bề Bề Trứng Nguyên Con:</strong></h2><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #bebe #bebenon #bebenguyencon #bebenontrung #bebetrung</p>",
+    "imageUrl": "https://images.f99.com.vn/images/a496a53a-b4d6-4a37-b8ef-54de6070981f.jpg",
+    "price": 195000,
+    "oldPrice": 250000,
+    "discountPercent": 22,
+    "stock": 487,
+    "totalSold": 85,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "8936085660070",
+    "origin": "",
+    "sellerId": 263,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<h1><strong>Hạn Dụng Và Bảo Quản Bề Bề Trứng Nguyên Con</strong></h1><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #bebe #bebenon #bebenguyencon #bebenontrung #bebetrung</p>",
+    "category": {
+      "id": 139,
+      "name": "Tôm ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/aa38cec6-c2d2-4fba-8328-2f4e629b96ed.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Natufood",
+      "Hải sản",
+      "Hải sản đông lạnh",
+      "Hải sản tươi sống",
+      "Hải sản chế biến",
+      "Hải sản sấy khô",
+      "Bề bề",
+      "Bề bề nguyên con",
+      "Bề bề trứng"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/a496a53a-b4d6-4a37-b8ef-54de6070981f.jpg",
+      "https://images.f99.com.vn/images/7f28f1ae-28d6-425b-bbbc-4eabce4aec48.jpg",
+      "https://images.f99.com.vn/images/0735a74a-5cc8-4028-8445-2ff32681e1d5.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15296",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 263,
+      "sellerRate": 4,
+      "sellerName": "NatuFood",
+      "warehouseId": "611945d9-1b81-4453-9191-e621d5ad3623",
+      "warehouseAddress": "361 Hoàng Công Chất, Phú Diễn, Bắc Từ Liêm, Hà Nội",
+      "distance": 7224,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 44.583333333333336,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15297,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hải sản Bề Bề Nõn Trứng Natufood 500g nguyên con [Chỉ giao HN]",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h1 class=\"ql-align-justify\"><strong>🦐 Hải Sản - Bề Bề Nõn Trứng 🦐</strong></h1><h2 class=\"ql-align-justify\"><strong>I. Giới Thiệu Bề Bề Nõn Trứng</strong></h2><h3 class=\"ql-align-justify\"><strong>1.1. Bề Bề Nõn Trứng là gì?</strong></h3><p class=\"ql-align-justify\">Bề Bề còn có tên gọi khác là tôm tít, được biết đến với sự thơm ngon và nguồn dinh dưỡng dồi dào. Thịt Bề Bề có chứa nhiều vitamin A, vitamin B1, sắt, lượng Omega 3 rất tốt cho hệ miễn dịch. Đặc biệt, vào mùa sinh sản, chúng chứa một lượng trứng lớn, thịt bề bề lúc này bùi, béo ngậy.</p><p class=\"ql-align-justify\">Bề Bề Nõn Trứng là giải pháp hữu ích cho nhiều người nội trợ khi dễ dàng chế biến thành nhiều món ăn ngon, bổ dưỡng, lại tốn ít thời gian.</p><h3 class=\"ql-align-justify\"><strong>1.2. Dinh Dưỡng Của Bề Bề Nõn Trứng</strong></h3><ul><li class=\"ql-align-justify\">Bổ sung Vitamin B12: đây là loại vitamin phức tạp tham gia vào quá trình chuyển hóa năng lượng trong cơ thể. Vitamin B12 giữ vai trò quan trọng trong tổng hợp các nucleotic, protein, carbohydrat và chất béo. Vì vậy, thường xuyên ăn bề bề sẽ giúp giảm suy nhược cơ thể, cân bằng dinh dưỡng.</li><li class=\"ql-align-justify\">Bổ sung sắt và protein: sắt là chất vô cùng quan trọng trong quá trình tạo máu. Nếu thiếu sắt cơ thể sẽ bị thiếu máu, mệt lả và khó thở. Sắt tăng cường hệ miễn dịch, vận chuyển oxy từ phổi đến các cơ quan. Sắt đặc biệt quan trọng đối với trẻ em trong độ tuổi phát triển.</li><li class=\"ql-align-justify\">Bổ sung canxi: là chất quan trọng đối với xương khớp và răng. Cứ 100g bề bề có đến 2000mg canxi. Đối với trẻ nhỏ, nếu thiếu canxi sẽ bị chậm lớn, hạn chế chiều cao, còi xương. Đối với người tuổi trung niên, nếu thiếu canxi sẽ dẫn đến loãng xương, mất xương.</li><li class=\"ql-align-justify\">Bổ sung Omega-3: đây là loại axit béo vô cùng quan tọng trong việc phát triển trí não và hệ thần kinh. Những người được bổ sung Omega-3 thường xuyên sẽ giúp tăng khả năng tập trung.</li><li class=\"ql-align-justify\">Ngoài ra, bề bề còn có rất nhiều chất quan trọng như khoáng chất, vitamin A, vitamin B1, kẽm, kali,…</li></ul><h2 class=\"ql-align-justify\"><strong>II. Một Số Món Ngon Từ Bề Bề Nõn Trứng</strong></h2><h3 class=\"ql-align-justify\"><strong>Món 1: Bún Bề Bề</strong></h3><p class=\"ql-align-justify\"><strong><em>Nguyên Liệu:</em></strong></p><p class=\"ql-align-justify\">Bề Bề thịt hấp (1 gói)</p><p class=\"ql-align-justify\">4 quả cà chua</p><p class=\"ql-align-justify\">10 củ hành khô</p><p class=\"ql-align-justify\">1 bó Rau cải ngọt</p><p class=\"ql-align-justify\"><strong><em>Các Bước:</em></strong></p><p class=\"ql-align-justify\">Bề bề rửa ráo cho vào nồi đun sôi.</p><p class=\"ql-align-justify\">Dùng bề bề nõn</p><p class=\"ql-align-justify\">Nếu có vỏ và càng bề bề thì đem xay hoặc giã</p><p class=\"ql-align-justify\">Rau rửa sạch trần vớt ra cho ráo</p><p class=\"ql-align-justify\">Phi hành khô</p><p class=\"ql-align-justify\">Bún trần ra bát, xếp bề bề, rau lên trên. Chan nước dùng vs cà chua. Rắc hành khô. Cho tương ớt vào.</p><h3 class=\"ql-align-justify\"><strong>Món 2: Chả Nem Nhân Tôm Bề Bề</strong></h3><p class=\"ql-align-justify\"><strong><em>Nguyên Liệu:</em></strong></p><p class=\"ql-align-justify\">500 g Bề Bề thịt hấp</p><p class=\"ql-align-justify\">1 cuộn miến dong, nấm hương và mộc nhĩ vừa đủ. Bánh tráng để gói</p><p class=\"ql-align-justify\">1 củ Su hào</p><p class=\"ql-align-justify\">1 củ Cà rốt</p><p class=\"ql-align-justify\">400 g Thịt băm</p><p class=\"ql-align-justify\">Trứng : 2 quả</p><p class=\"ql-align-justify\">Nước chấm : đu đủ xanh, cà rốt, chanh, ớt, đường, tỏi</p><p class=\"ql-align-justify\">Rau sống ăn kèm</p><p class=\"ql-align-justify\"><strong><em>Các Bước:</em></strong></p><p class=\"ql-align-justify\">Bào hoặc thái mỏng các nguyên liệu rồi cho ra chậu trộn lên. Thái tí hành và rau mùi,rắc chút hạt tiêu cho nhân thơm nhằm hạn chế bớt mùi tanh của bề bề lại.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Trải bánh tráng ra để cuốn. 1 cái nguyên và 1 nửa cái đã cắt làm đôi. Để nhân thịt vào trước rồi đặt bề bề lên cho đều khắp chiều dài nem rồi gói lại chắc tay.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Đổ ngập dầu rồi chiên lửa nhỏ. Lựa tay lật chả để chín đều mà ko cháy hoặc vỡ chả khiến ngấm dầu. Nếu làm nhiều để dành ăn dần thì chiên sơ sơ là được. Chiên xong gác lên gá chảo cho bớt dầu sẽ ko bị ngấy.</p><p class=\"ql-align-justify\">Bào mỏng su su cùng cà rốt r xóc muối 1 lúc sau đó rửa sạch và cho đường, giấm vào làm dưa góp. Pha nước chấm gồm đường, chanh,tỏi và ớt.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Ngoài ra, chúng ta có thể dùng bề bề thịt để chế biến món&nbsp;Nem Bề Bề&nbsp;– món ngon lạ miệng được nhiều người yêu thích.</p><p>------------------------------------------</p><h2><strong>III. Thời Hạn Sử Dụng Và Bảo Quản Bề Bề Nõn Trứng:</strong></h2><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #bebe #bebenon #bebenguyencon #bebenontrung #bebetrung</p><h2 class=\"ql-align-justify\"><br></h2><p class=\"ql-align-justify\"><br></p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/79fdc3ad-7884-4e46-afc0-785f0094b24b.jpg\",\"https://images.f99.com.vn/images/88b93c01-be50-474e-a6eb-1c3d8f7b6360.jpg\",\"https://images.f99.com.vn/images/9fa30d71-cb2b-4e16-934b-e07351c6d2bb.jpg\",\"https://images.f99.com.vn/images/dc153646-ee2e-4599-9582-d72494055a9e.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Natufood\",\"Hải sản\",\"Hải sản đông lạnh\",\"Hải sản chế biến\",\"Hải sản sấy khô\",\"Bề bề\",\"Bề bề nõn\",\"Bề bề trứng\",\"Bề bề nõn trứng\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hải sản Bề Bề Nõn Trứng Natufood 500g nguyên con [Chỉ giao HN]",
+    "description": "<h1 class=\"ql-align-justify\"><strong>🦐 Hải Sản - Bề Bề Nõn Trứng 🦐</strong></h1><h2 class=\"ql-align-justify\"><strong>I. Giới Thiệu Bề Bề Nõn Trứng</strong></h2><h3 class=\"ql-align-justify\"><strong>1.1. Bề Bề Nõn Trứng là gì?</strong></h3><p class=\"ql-align-justify\">Bề Bề còn có tên gọi khác là tôm tít, được biết đến với sự thơm ngon và nguồn dinh dưỡng dồi dào. Thịt Bề Bề có chứa nhiều vitamin A, vitamin B1, sắt, lượng Omega 3 rất tốt cho hệ miễn dịch. Đặc biệt, vào mùa sinh sản, chúng chứa một lượng trứng lớn, thịt bề bề lúc này bùi, béo ngậy.</p><p class=\"ql-align-justify\">Bề Bề Nõn Trứng là giải pháp hữu ích cho nhiều người nội trợ khi dễ dàng chế biến thành nhiều món ăn ngon, bổ dưỡng, lại tốn ít thời gian.</p><h3 class=\"ql-align-justify\"><strong>1.2. Dinh Dưỡng Của Bề Bề Nõn Trứng</strong></h3><ul><li class=\"ql-align-justify\">Bổ sung Vitamin B12: đây là loại vitamin phức tạp tham gia vào quá trình chuyển hóa năng lượng trong cơ thể. Vitamin B12 giữ vai trò quan trọng trong tổng hợp các nucleotic, protein, carbohydrat và chất béo. Vì vậy, thường xuyên ăn bề bề sẽ giúp giảm suy nhược cơ thể, cân bằng dinh dưỡng.</li><li class=\"ql-align-justify\">Bổ sung sắt và protein: sắt là chất vô cùng quan trọng trong quá trình tạo máu. Nếu thiếu sắt cơ thể sẽ bị thiếu máu, mệt lả và khó thở. Sắt tăng cường hệ miễn dịch, vận chuyển oxy từ phổi đến các cơ quan. Sắt đặc biệt quan trọng đối với trẻ em trong độ tuổi phát triển.</li><li class=\"ql-align-justify\">Bổ sung canxi: là chất quan trọng đối với xương khớp và răng. Cứ 100g bề bề có đến 2000mg canxi. Đối với trẻ nhỏ, nếu thiếu canxi sẽ bị chậm lớn, hạn chế chiều cao, còi xương. Đối với người tuổi trung niên, nếu thiếu canxi sẽ dẫn đến loãng xương, mất xương.</li><li class=\"ql-align-justify\">Bổ sung Omega-3: đây là loại axit béo vô cùng quan tọng trong việc phát triển trí não và hệ thần kinh. Những người được bổ sung Omega-3 thường xuyên sẽ giúp tăng khả năng tập trung.</li><li class=\"ql-align-justify\">Ngoài ra, bề bề còn có rất nhiều chất quan trọng như khoáng chất, vitamin A, vitamin B1, kẽm, kali,…</li></ul><h2 class=\"ql-align-justify\"><strong>II. Một Số Món Ngon Từ Bề Bề Nõn Trứng</strong></h2><h3 class=\"ql-align-justify\"><strong>Món 1: Bún Bề Bề</strong></h3><p class=\"ql-align-justify\"><strong><em>Nguyên Liệu:</em></strong></p><p class=\"ql-align-justify\">Bề Bề thịt hấp (1 gói)</p><p class=\"ql-align-justify\">4 quả cà chua</p><p class=\"ql-align-justify\">10 củ hành khô</p><p class=\"ql-align-justify\">1 bó Rau cải ngọt</p><p class=\"ql-align-justify\"><strong><em>Các Bước:</em></strong></p><p class=\"ql-align-justify\">Bề bề rửa ráo cho vào nồi đun sôi.</p><p class=\"ql-align-justify\">Dùng bề bề nõn</p><p class=\"ql-align-justify\">Nếu có vỏ và càng bề bề thì đem xay hoặc giã</p><p class=\"ql-align-justify\">Rau rửa sạch trần vớt ra cho ráo</p><p class=\"ql-align-justify\">Phi hành khô</p><p class=\"ql-align-justify\">Bún trần ra bát, xếp bề bề, rau lên trên. Chan nước dùng vs cà chua. Rắc hành khô. Cho tương ớt vào.</p><h3 class=\"ql-align-justify\"><strong>Món 2: Chả Nem Nhân Tôm Bề Bề</strong></h3><p class=\"ql-align-justify\"><strong><em>Nguyên Liệu:</em></strong></p><p class=\"ql-align-justify\">500 g Bề Bề thịt hấp</p><p class=\"ql-align-justify\">1 cuộn miến dong, nấm hương và mộc nhĩ vừa đủ. Bánh tráng để gói</p><p class=\"ql-align-justify\">1 củ Su hào</p><p class=\"ql-align-justify\">1 củ Cà rốt</p><p class=\"ql-align-justify\">400 g Thịt băm</p><p class=\"ql-align-justify\">Trứng : 2 quả</p><p class=\"ql-align-justify\">Nước chấm : đu đủ xanh, cà rốt, chanh, ớt, đường, tỏi</p><p class=\"ql-align-justify\">Rau sống ăn kèm</p><p class=\"ql-align-justify\"><strong><em>Các Bước:</em></strong></p><p class=\"ql-align-justify\">Bào hoặc thái mỏng các nguyên liệu rồi cho ra chậu trộn lên. Thái tí hành và rau mùi,rắc chút hạt tiêu cho nhân thơm nhằm hạn chế bớt mùi tanh của bề bề lại.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Trải bánh tráng ra để cuốn. 1 cái nguyên và 1 nửa cái đã cắt làm đôi. Để nhân thịt vào trước rồi đặt bề bề lên cho đều khắp chiều dài nem rồi gói lại chắc tay.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Đổ ngập dầu rồi chiên lửa nhỏ. Lựa tay lật chả để chín đều mà ko cháy hoặc vỡ chả khiến ngấm dầu. Nếu làm nhiều để dành ăn dần thì chiên sơ sơ là được. Chiên xong gác lên gá chảo cho bớt dầu sẽ ko bị ngấy.</p><p class=\"ql-align-justify\">Bào mỏng su su cùng cà rốt r xóc muối 1 lúc sau đó rửa sạch và cho đường, giấm vào làm dưa góp. Pha nước chấm gồm đường, chanh,tỏi và ớt.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Ngoài ra, chúng ta có thể dùng bề bề thịt để chế biến món&nbsp;Nem Bề Bề&nbsp;– món ngon lạ miệng được nhiều người yêu thích.</p><p>------------------------------------------</p><h2><strong>III. Thời Hạn Sử Dụng Và Bảo Quản Bề Bề Nõn Trứng:</strong></h2><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #bebe #bebenon #bebenguyencon #bebenontrung #bebetrung</p><h2 class=\"ql-align-justify\"><br></h2><p class=\"ql-align-justify\"><br></p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/79fdc3ad-7884-4e46-afc0-785f0094b24b.jpg",
+    "price": 195000,
+    "oldPrice": 225000,
+    "discountPercent": 13,
+    "stock": 257,
+    "totalSold": 124,
+    "maxQuantityPerUser": null,
+    "unit": "500g",
+    "sku": "8936085660520",
+    "origin": "",
+    "sellerId": 263,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<h1><strong>Hạn Sử Dụng Và Bảo Quản Bề Bề Nõn Trứng</strong></h1><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #bebe #bebenon #bebenguyencon #bebenontrung #bebetrung</p>",
+    "category": {
+      "id": 139,
+      "name": "Tôm ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/aa38cec6-c2d2-4fba-8328-2f4e629b96ed.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Natufood",
+      "Hải sản",
+      "Hải sản đông lạnh",
+      "Hải sản chế biến",
+      "Hải sản sấy khô",
+      "Bề bề",
+      "Bề bề nõn",
+      "Bề bề trứng",
+      "Bề bề nõn trứng"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/79fdc3ad-7884-4e46-afc0-785f0094b24b.jpg",
+      "https://images.f99.com.vn/images/88b93c01-be50-474e-a6eb-1c3d8f7b6360.jpg",
+      "https://images.f99.com.vn/images/9fa30d71-cb2b-4e16-934b-e07351c6d2bb.jpg",
+      "https://images.f99.com.vn/images/dc153646-ee2e-4599-9582-d72494055a9e.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15297",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 263,
+      "sellerRate": 4,
+      "sellerName": "NatuFood",
+      "warehouseId": "611945d9-1b81-4453-9191-e621d5ad3623",
+      "warehouseAddress": "361 Hoàng Công Chất, Phú Diễn, Bắc Từ Liêm, Hà Nội",
+      "distance": 7224,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 44.583333333333336,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 15382,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hải sản Bề Bề Nõn Natufood Size (60-80) Hộp 500g nguyên con [Chỉ giao HN]",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h1 class=\"ql-align-justify\"><strong>🦐 Hải Sản - Bề Bề Nõn 🦐</strong></h1><h2 class=\"ql-align-justify\"><strong>I. Đặc Điểm Của Bề Bề Nõn</strong></h2><h3 class=\"ql-align-justify\"><strong>1.1. Giới thiệu Bề Bề Nõn</strong></h3><p class=\"ql-align-justify\">Bề Bề thịt hấp là món ăn được tạo thành từ những con Bề Bề tươi ngon nhất, được bảo quản đông lạnh. Hấp chín rồi bóc vỏ, cấp đông với nhiệt độ -35 đến -55 độ C, bảo quản ở nhiệt độ -18 độ C.</p><h3 class=\"ql-align-justify\"><strong>1.2. Dinh Dưỡng Của Bề Bề Nõn</strong></h3><ul><li class=\"ql-align-justify\">Bổ sung Vitamin B12: đây là loại vitamin phức tạp tham gia vào quá trình chuyển hóa năng lượng trong cơ thể. Vitamin B12 giữ vai trò quan trọng trong tổng hợp các nucleotic, protein, carbohydrat và chất béo. Vì vậy, thường xuyên ăn Bề Bề sẽ giúp giảm suy nhược cơ thể, cân bằng dinh dưỡng.</li><li class=\"ql-align-justify\">Bổ sung sắt và protein: sắt là chất vô cùng quan trọng trong quá trình tạo máu. Nếu thiếu sắt cơ thể sẽ bị thiếu máu, mệt lả và khó thở. Sắt tăng cường hệ miễn dịch, vận chuyển oxy từ phổi đến các cơ quan. Sắt đặc biệt quan trọng đối với trẻ em trong độ tuổi phát triển.</li><li class=\"ql-align-justify\">Bổ sung canxi: là chất quan trọng đối với xương khớp và răng. Cứ 100g bề bề có đến 2000mg canxi. Đối với trẻ nhỏ, nếu thiếu canxi sẽ bị chậm lớn, hạn chế chiều cao, còi xương. Đối với người tuổi trung niên, nếu thiếu canxi sẽ dẫn đến loãng xương, mất xương.</li><li class=\"ql-align-justify\">Bổ sung Omega-3: đây là loại axit béo vô cùng quan tọng trong việc phát triển trí não và hệ thần kinh. Những người được bổ sung Omega-3 thường xuyên sẽ giúp tăng khả năng tập trung.</li><li class=\"ql-align-justify\">Ngoài ra, bề bề còn có rất nhiều chất quan trọng như khoáng chất, vitamin A, vitamin B1, kẽm, kali,…</li></ul><h2 class=\"ql-align-justify\"><strong>II. Cách Chế Biến Bề Bề Nõn </strong></h2><h3 class=\"ql-align-justify\"><strong>Món 1: Bún Bề Bề</strong></h3><p class=\"ql-align-justify\"><strong><em>Nguyên Liệu:</em></strong></p><p class=\"ql-align-justify\">Bề Bề thịt hấp (1 gói)</p><p class=\"ql-align-justify\">4 quả cà chua</p><p class=\"ql-align-justify\">10 củ hành khô</p><p class=\"ql-align-justify\">1 bó Rau cải ngọt</p><p class=\"ql-align-justify\"><strong><em>Các Bước:</em></strong></p><p class=\"ql-align-justify\">Bề bề rửa ráo cho vào nồi đun sôi.</p><p class=\"ql-align-justify\">Dùng bề bề nõn</p><p class=\"ql-align-justify\">Nếu có vỏ và càng bề bề thì đem xay hoặc giã</p><p class=\"ql-align-justify\">Rau rửa sạch trần vớt ra cho ráo</p><p class=\"ql-align-justify\">Phi hành khô</p><p class=\"ql-align-justify\">Bún trần ra bát, xếp bề bề, rau lên trên. Chan nước dùng vs cà chua. Rắc hành khô. Cho tương ớt vào.</p><h3 class=\"ql-align-justify\"><strong>Món 2: Chả Nem Nhân Tôm Bề Bề</strong></h3><p class=\"ql-align-justify\"><strong><em>Nguyên Liệu:</em></strong></p><p class=\"ql-align-justify\">500 g Bề Bề thịt hấp</p><p class=\"ql-align-justify\">1 cuộn miến dong, nấm hương và mộc nhĩ vừa đủ. Bánh tráng để gói</p><p class=\"ql-align-justify\">1 củ Su hào</p><p class=\"ql-align-justify\">1 củ Cà rốt</p><p class=\"ql-align-justify\">400 g Thịt băm</p><p class=\"ql-align-justify\">Trứng : 2 quả</p><p class=\"ql-align-justify\">Nước chấm : đu đủ xanh, cà rốt, chanh, ớt, đường, tỏi</p><p class=\"ql-align-justify\">Rau sống ăn kèm</p><p class=\"ql-align-justify\"><strong><em>Các Bước:</em></strong></p><p class=\"ql-align-justify\">Bào hoặc thái mỏng các nguyên liệu rồi cho ra chậu trộn lên. Thái tí hành và rau mùi,rắc chút hạt tiêu cho nhân thơm nhằm hạn chế bớt mùi tanh của bề bề lại.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Trải bánh tráng ra để cuốn. 1 cái nguyên và 1 nửa cái đã cắt làm đôi. Để nhân thịt vào trước rồi đặt bề bề lên cho đều khắp chiều dài nem rồi gói lại chắc tay.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Đổ ngập dầu rồi chiên lửa nhỏ. Lựa tay lật chả để chín đều mà ko cháy hoặc vỡ chả khiến ngấm dầu. Nếu làm nhiều để dành ăn dần thì chiên sơ sơ là được. Chiên xong gác lên gá chảo cho bớt dầu sẽ ko bị ngấy.</p><p class=\"ql-align-justify\">Bào mỏng su su cùng cà rốt r xóc muối 1 lúc sau đó rửa sạch và cho đường, giấm vào làm dưa góp. Pha nước chấm gồm đường, chanh,tỏi và ớt.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Ngoài ra, chúng ta có thể dùng bề bề thịt để chế biến món&nbsp;Nem Bề Bề&nbsp;– món ngon lạ miệng được nhiều người yêu thích.</p><p>------------------------------------------</p><h2><strong>III. Thời Hạn Sử Dụng Và Bảo Quản Bề Bề Nõn:</strong></h2><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #bebe #bebenon #bebenguyencon #bebenontrung #bebetrung</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/a4d134a0-6f5a-4152-aa26-988f484fcf70.jpg\",\"https://images.f99.com.vn/images/7fcbc46f-0e43-4e49-90f4-dc29cb580b56.jpg\",\"https://images.f99.com.vn/images/0f0ebdcb-8308-4eb8-b3a4-76a2b7df6297.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Natufood\",\"Hải sản\",\"Hải sản đông lạnh\",\"Hải sản chế biến\",\"Hải sản sấy khô\",\"Bề bề\",\"Bề bề nõn\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hải sản Bề Bề Nõn Natufood Size (60-80) Hộp 500g nguyên con [Chỉ giao HN]",
+    "description": "<h1 class=\"ql-align-justify\"><strong>🦐 Hải Sản - Bề Bề Nõn 🦐</strong></h1><h2 class=\"ql-align-justify\"><strong>I. Đặc Điểm Của Bề Bề Nõn</strong></h2><h3 class=\"ql-align-justify\"><strong>1.1. Giới thiệu Bề Bề Nõn</strong></h3><p class=\"ql-align-justify\">Bề Bề thịt hấp là món ăn được tạo thành từ những con Bề Bề tươi ngon nhất, được bảo quản đông lạnh. Hấp chín rồi bóc vỏ, cấp đông với nhiệt độ -35 đến -55 độ C, bảo quản ở nhiệt độ -18 độ C.</p><h3 class=\"ql-align-justify\"><strong>1.2. Dinh Dưỡng Của Bề Bề Nõn</strong></h3><ul><li class=\"ql-align-justify\">Bổ sung Vitamin B12: đây là loại vitamin phức tạp tham gia vào quá trình chuyển hóa năng lượng trong cơ thể. Vitamin B12 giữ vai trò quan trọng trong tổng hợp các nucleotic, protein, carbohydrat và chất béo. Vì vậy, thường xuyên ăn Bề Bề sẽ giúp giảm suy nhược cơ thể, cân bằng dinh dưỡng.</li><li class=\"ql-align-justify\">Bổ sung sắt và protein: sắt là chất vô cùng quan trọng trong quá trình tạo máu. Nếu thiếu sắt cơ thể sẽ bị thiếu máu, mệt lả và khó thở. Sắt tăng cường hệ miễn dịch, vận chuyển oxy từ phổi đến các cơ quan. Sắt đặc biệt quan trọng đối với trẻ em trong độ tuổi phát triển.</li><li class=\"ql-align-justify\">Bổ sung canxi: là chất quan trọng đối với xương khớp và răng. Cứ 100g bề bề có đến 2000mg canxi. Đối với trẻ nhỏ, nếu thiếu canxi sẽ bị chậm lớn, hạn chế chiều cao, còi xương. Đối với người tuổi trung niên, nếu thiếu canxi sẽ dẫn đến loãng xương, mất xương.</li><li class=\"ql-align-justify\">Bổ sung Omega-3: đây là loại axit béo vô cùng quan tọng trong việc phát triển trí não và hệ thần kinh. Những người được bổ sung Omega-3 thường xuyên sẽ giúp tăng khả năng tập trung.</li><li class=\"ql-align-justify\">Ngoài ra, bề bề còn có rất nhiều chất quan trọng như khoáng chất, vitamin A, vitamin B1, kẽm, kali,…</li></ul><h2 class=\"ql-align-justify\"><strong>II. Cách Chế Biến Bề Bề Nõn </strong></h2><h3 class=\"ql-align-justify\"><strong>Món 1: Bún Bề Bề</strong></h3><p class=\"ql-align-justify\"><strong><em>Nguyên Liệu:</em></strong></p><p class=\"ql-align-justify\">Bề Bề thịt hấp (1 gói)</p><p class=\"ql-align-justify\">4 quả cà chua</p><p class=\"ql-align-justify\">10 củ hành khô</p><p class=\"ql-align-justify\">1 bó Rau cải ngọt</p><p class=\"ql-align-justify\"><strong><em>Các Bước:</em></strong></p><p class=\"ql-align-justify\">Bề bề rửa ráo cho vào nồi đun sôi.</p><p class=\"ql-align-justify\">Dùng bề bề nõn</p><p class=\"ql-align-justify\">Nếu có vỏ và càng bề bề thì đem xay hoặc giã</p><p class=\"ql-align-justify\">Rau rửa sạch trần vớt ra cho ráo</p><p class=\"ql-align-justify\">Phi hành khô</p><p class=\"ql-align-justify\">Bún trần ra bát, xếp bề bề, rau lên trên. Chan nước dùng vs cà chua. Rắc hành khô. Cho tương ớt vào.</p><h3 class=\"ql-align-justify\"><strong>Món 2: Chả Nem Nhân Tôm Bề Bề</strong></h3><p class=\"ql-align-justify\"><strong><em>Nguyên Liệu:</em></strong></p><p class=\"ql-align-justify\">500 g Bề Bề thịt hấp</p><p class=\"ql-align-justify\">1 cuộn miến dong, nấm hương và mộc nhĩ vừa đủ. Bánh tráng để gói</p><p class=\"ql-align-justify\">1 củ Su hào</p><p class=\"ql-align-justify\">1 củ Cà rốt</p><p class=\"ql-align-justify\">400 g Thịt băm</p><p class=\"ql-align-justify\">Trứng : 2 quả</p><p class=\"ql-align-justify\">Nước chấm : đu đủ xanh, cà rốt, chanh, ớt, đường, tỏi</p><p class=\"ql-align-justify\">Rau sống ăn kèm</p><p class=\"ql-align-justify\"><strong><em>Các Bước:</em></strong></p><p class=\"ql-align-justify\">Bào hoặc thái mỏng các nguyên liệu rồi cho ra chậu trộn lên. Thái tí hành và rau mùi,rắc chút hạt tiêu cho nhân thơm nhằm hạn chế bớt mùi tanh của bề bề lại.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Trải bánh tráng ra để cuốn. 1 cái nguyên và 1 nửa cái đã cắt làm đôi. Để nhân thịt vào trước rồi đặt bề bề lên cho đều khắp chiều dài nem rồi gói lại chắc tay.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Đổ ngập dầu rồi chiên lửa nhỏ. Lựa tay lật chả để chín đều mà ko cháy hoặc vỡ chả khiến ngấm dầu. Nếu làm nhiều để dành ăn dần thì chiên sơ sơ là được. Chiên xong gác lên gá chảo cho bớt dầu sẽ ko bị ngấy.</p><p class=\"ql-align-justify\">Bào mỏng su su cùng cà rốt r xóc muối 1 lúc sau đó rửa sạch và cho đường, giấm vào làm dưa góp. Pha nước chấm gồm đường, chanh,tỏi và ớt.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Ngoài ra, chúng ta có thể dùng bề bề thịt để chế biến món&nbsp;Nem Bề Bề&nbsp;– món ngon lạ miệng được nhiều người yêu thích.</p><p>------------------------------------------</p><h2><strong>III. Thời Hạn Sử Dụng Và Bảo Quản Bề Bề Nõn:</strong></h2><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #bebe #bebenon #bebenguyencon #bebenontrung #bebetrung</p>",
+    "imageUrl": "https://images.f99.com.vn/images/a4d134a0-6f5a-4152-aa26-988f484fcf70.jpg",
+    "price": 136500,
+    "oldPrice": 195000,
+    "discountPercent": 30,
+    "stock": 541,
+    "totalSold": 334,
+    "maxQuantityPerUser": null,
+    "unit": "500g",
+    "sku": "8936085660056",
+    "origin": "",
+    "sellerId": 263,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.9,
+    "instructions": "<h1><strong>Hạn Sử Dụng Và Bảo Quản Bề Bề Nõn</strong></h1><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p class=\"ql-align-justify\">Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p class=\"ql-align-justify\"><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #bebe #bebenon #bebenguyencon #bebenontrung #bebetrung</p>",
+    "category": {
+      "id": 139,
+      "name": "Tôm ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/aa38cec6-c2d2-4fba-8328-2f4e629b96ed.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Natufood",
+      "Hải sản",
+      "Hải sản đông lạnh",
+      "Hải sản chế biến",
+      "Hải sản sấy khô",
+      "Bề bề",
+      "Bề bề nõn"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/a4d134a0-6f5a-4152-aa26-988f484fcf70.jpg",
+      "https://images.f99.com.vn/images/7fcbc46f-0e43-4e49-90f4-dc29cb580b56.jpg",
+      "https://images.f99.com.vn/images/0f0ebdcb-8308-4eb8-b3a4-76a2b7df6297.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/15382",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "500g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 72929,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "500g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 136500,
+        "oldPrice": 195000,
+        "discountPercent": 30,
+        "stock": 541,
+        "totalSold": 334,
+        "unit": "500g",
+        "sku": "8936085660056",
+        "rating": 4.9,
+        "instructions": "<h1><strong>Hạn Sử Dụng Và Bảo Quản Bề Bề Nõn</strong></h1><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p class=\"ql-align-justify\">Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p class=\"ql-align-justify\"><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #bebe #bebenon #bebenguyencon #bebenontrung #bebetrung</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "500g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 263,
+      "sellerRate": 4,
+      "sellerName": "NatuFood",
+      "warehouseId": "611945d9-1b81-4453-9191-e621d5ad3623",
+      "warehouseAddress": "361 Hoàng Công Chất, Phú Diễn, Bắc Từ Liêm, Hà Nội",
+      "distance": 7224,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 44.583333333333336,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 16779,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hải sản Tôm Nõn Khô Natufood 200g nguyên con [Chỉ giao HN]",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h1 class=\"ql-align-justify\"><strong>🦐 Hải Sản Khô - Tôm Nõn Khô 🦐</strong></h1><h2 class=\"ql-align-justify\"><strong>I. Giới Thiệu Tôm Nõn Khô</strong></h2><h3 class=\"ql-align-justify\"><strong>1.1. Đặc điểm bên ngoài Tôm Nõn Khô</strong></h3><p class=\"ql-align-justify\">Tôm Nõn Sấy Khô hay còn gọi là Tôm Nõn Khô được làm từ tôm tươi hấp, phơi khô rồi bóc vỏ.</p><ul><li class=\"ql-align-justify\">Thân mình tròn, chắc</li><li class=\"ql-align-justify\">Tôm khô, màu hồng (có thể hơi đậm)</li><li class=\"ql-align-justify\">Thịt cứng, thơm, mình cuộn tròn lại</li></ul><h3 class=\"ql-align-justify\"><strong>1.2. Dinh dưỡng của Tôm Nõn Khô</strong></h3><p class=\"ql-align-justify\">Tôm là một loại thực phẩm rất bổ dưỡng, trong đó có chứa một lượng lớn chất đạm và canxi</p><p class=\"ql-align-justify\">Protein:≥ 72,1 %</p><p class=\"ql-align-justify\">Muối ≥ 3,3 %</p><p class=\"ql-align-justify\">Lipit: ≥ 2,5 %</p><p class=\"ql-align-justify\">Tuy nhiên, có một số người dễ bị dị ứng với tôm. Nên trước khi thưởng thức, quý khách hãy chắc chắn mình không bị dị ứng.</p><h2 class=\"ql-align-justify\"><strong>II. Cách Chế Biến Tôm Nõn Khô</strong></h2><h3 class=\"ql-align-justify\"><strong>2.1. Giới Thiệu Về Tôm Nõn Khô</strong></h3><ul><li class=\"ql-align-justify\">Tôm Nõn Khô&nbsp;là 1 trong những thực phẩm phổ biến của người dân Việt Nam, vì sự tiện lợi và dễ chế biến.</li><li class=\"ql-align-justify\">Tôm Nõn SAA là dòng tôm cỡ lớn, được tách rời vỏ và đem sấy (phơi) khô để có thể bảo quan lâu hơn và làm thịt tôm trở nên săn, chắc hơn.</li><li class=\"ql-align-justify\">Không giống như các dòng tôm nhỏ khác thường được dùng để nấu canh và trộn ăn kèm, Tôm Nõn thường được dùng với vai trò chính trong món ăn như tôm xào, sốt.</li><li class=\"ql-align-justify\">Tôm Nõn Khô SAA đều là các dòng tôm có kích thước lớn nên thịt rất chắc, ngọt hứa hẹn sẽ mang tới cho gia đình bạn những món ăn thơm ngon và bổ dưỡng.</li></ul><h3 class=\"ql-align-justify\"><strong>2.2. Một Số Món Ăn Từ Tôm Khô Bóc Nõn</strong></h3><p class=\"ql-align-justify\"><strong>Tôm Khô Sốt Cà Chua</strong></p><p class=\"ql-align-justify\"><strong><em>Nguyên liệu</em></strong></p><p class=\"ql-align-justify\">Tôm khô, cà chua, tỏi, hành lá.</p><p class=\"ql-align-justify\"><strong><em>Cách làm</em></strong></p><ul><li class=\"ql-align-justify\">Cà chua thái múi cau và tách hạt trước khi dùng.</li><li class=\"ql-align-justify\">Tôm khô rửa sạch, ngâm nước cho mềm và hết cát.</li><li class=\"ql-align-justify\">Bắc nồi nhỏ lên bếp, cho chút dầu hành cho thơm, cho tỏi và hành vào xào đều đến khi vàng thơm thì cho cà chua vào.</li><li class=\"ql-align-justify\">Nêm thêm chút xíu nước lạnh cho cà chua mềm. Lúc này nêm vào cà chua 1 muỗng nhỏ muối, 1 muỗng nhỏ đường.</li><li class=\"ql-align-justify\">Đảo đều, cho tôm khô vào, xào đến khi tôm ngấm gia vị, tắt lửa bắc xuống. Cho thêm chút tiêu, dùng nóng với cơm trắng rất ngon. Bạn có thể làm xốt hơi sệt sệt để chấm rau nữa thì càng tuyệt.</li></ul><p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/19952a05-09ea-4886-b31f-abc6a534ebc1.jpg\"></p><h4 class=\"ql-align-justify\"><br></h4><h4 class=\"ql-align-justify\"><strong>Tôm Rim Ức Gà Hạt Điều</strong></h4><p class=\"ql-align-justify\"><strong><em>Nguyên liệu</em></strong></p><p class=\"ql-align-justify\">Ức gà, tôm SSA khô, hạt điều rang, hành tây, đầu hành lá, tỏi băm, sa tế, hạt nêm, tương, đường, màu điều, nước dùng, dầu ăn.</p><p class=\"ql-align-justify\"><strong><em>Cách làm</em></strong></p><ul><li class=\"ql-align-justify\">Thịt gà rửa sạch, thái miếng vừa ăn. Tôm khô rửa sạch ngâm nước sôi cho mềm. Hành tây rửa sạch thái miếng vuông. Hành lá rửa sạch thái khúc.</li><li class=\"ql-align-justify\">Bắc chảo nóng, phi thơm tỏi, trút gà vào xào săn, cho thêm nước dùng vào, đun lửa nhỏ. Nêm ớt sa tế, nước tương, hạt nêm, đường, màu điều cho vừa ăn.</li><li class=\"ql-align-justify\">Sau đó thêm tôm khô và hạt điều vào xào chung. Cuối cùng cho đầu hành lá và hành tây vào, nấu cho keo là được.</li><li class=\"ql-align-justify\">Tôm tươi làm sạch, bóc vỏ rửa bằng nước muối, sấy khô</li></ul><p>------------------------------------------</p><h2><strong>III. Thời Hạn Sử Dụng Và Bảo Quản Tôm Nõn Khô:</strong></h2><p>- HSD 06 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ 4 đến 10 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #tomkho #tomnonkho</p><h2 class=\"ql-align-justify\"><br></h2><h3 class=\"ql-align-justify\"><br></h3><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/9c205c05-4df2-4ece-b936-8547a58201f3.jpg\",\"https://images.f99.com.vn/images/0fa50a74-4f0d-4605-9d4a-d360c789638e.jpg\",\"https://images.f99.com.vn/images/67fd39f7-dc0f-45b3-ba95-daf9aa0ddc0b.jpg\",\"https://images.f99.com.vn/images/e0fa9398-4fe6-42cb-9931-3dfc58043bc9.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Natufood\",\"Hải sản\",\"Hải sản tươi sống\",\"Hải sản đông lạnh\",\"Hải sản sấy khô\",\"Hải sản chế biến\",\"Tôm nõn khô\",\"Tôm khô\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hải sản Tôm Nõn Khô Natufood 200g nguyên con [Chỉ giao HN]",
+    "description": "<h1 class=\"ql-align-justify\"><strong>🦐 Hải Sản Khô - Tôm Nõn Khô 🦐</strong></h1><h2 class=\"ql-align-justify\"><strong>I. Giới Thiệu Tôm Nõn Khô</strong></h2><h3 class=\"ql-align-justify\"><strong>1.1. Đặc điểm bên ngoài Tôm Nõn Khô</strong></h3><p class=\"ql-align-justify\">Tôm Nõn Sấy Khô hay còn gọi là Tôm Nõn Khô được làm từ tôm tươi hấp, phơi khô rồi bóc vỏ.</p><ul><li class=\"ql-align-justify\">Thân mình tròn, chắc</li><li class=\"ql-align-justify\">Tôm khô, màu hồng (có thể hơi đậm)</li><li class=\"ql-align-justify\">Thịt cứng, thơm, mình cuộn tròn lại</li></ul><h3 class=\"ql-align-justify\"><strong>1.2. Dinh dưỡng của Tôm Nõn Khô</strong></h3><p class=\"ql-align-justify\">Tôm là một loại thực phẩm rất bổ dưỡng, trong đó có chứa một lượng lớn chất đạm và canxi</p><p class=\"ql-align-justify\">Protein:≥ 72,1 %</p><p class=\"ql-align-justify\">Muối ≥ 3,3 %</p><p class=\"ql-align-justify\">Lipit: ≥ 2,5 %</p><p class=\"ql-align-justify\">Tuy nhiên, có một số người dễ bị dị ứng với tôm. Nên trước khi thưởng thức, quý khách hãy chắc chắn mình không bị dị ứng.</p><h2 class=\"ql-align-justify\"><strong>II. Cách Chế Biến Tôm Nõn Khô</strong></h2><h3 class=\"ql-align-justify\"><strong>2.1. Giới Thiệu Về Tôm Nõn Khô</strong></h3><ul><li class=\"ql-align-justify\">Tôm Nõn Khô&nbsp;là 1 trong những thực phẩm phổ biến của người dân Việt Nam, vì sự tiện lợi và dễ chế biến.</li><li class=\"ql-align-justify\">Tôm Nõn SAA là dòng tôm cỡ lớn, được tách rời vỏ và đem sấy (phơi) khô để có thể bảo quan lâu hơn và làm thịt tôm trở nên săn, chắc hơn.</li><li class=\"ql-align-justify\">Không giống như các dòng tôm nhỏ khác thường được dùng để nấu canh và trộn ăn kèm, Tôm Nõn thường được dùng với vai trò chính trong món ăn như tôm xào, sốt.</li><li class=\"ql-align-justify\">Tôm Nõn Khô SAA đều là các dòng tôm có kích thước lớn nên thịt rất chắc, ngọt hứa hẹn sẽ mang tới cho gia đình bạn những món ăn thơm ngon và bổ dưỡng.</li></ul><h3 class=\"ql-align-justify\"><strong>2.2. Một Số Món Ăn Từ Tôm Khô Bóc Nõn</strong></h3><p class=\"ql-align-justify\"><strong>Tôm Khô Sốt Cà Chua</strong></p><p class=\"ql-align-justify\"><strong><em>Nguyên liệu</em></strong></p><p class=\"ql-align-justify\">Tôm khô, cà chua, tỏi, hành lá.</p><p class=\"ql-align-justify\"><strong><em>Cách làm</em></strong></p><ul><li class=\"ql-align-justify\">Cà chua thái múi cau và tách hạt trước khi dùng.</li><li class=\"ql-align-justify\">Tôm khô rửa sạch, ngâm nước cho mềm và hết cát.</li><li class=\"ql-align-justify\">Bắc nồi nhỏ lên bếp, cho chút dầu hành cho thơm, cho tỏi và hành vào xào đều đến khi vàng thơm thì cho cà chua vào.</li><li class=\"ql-align-justify\">Nêm thêm chút xíu nước lạnh cho cà chua mềm. Lúc này nêm vào cà chua 1 muỗng nhỏ muối, 1 muỗng nhỏ đường.</li><li class=\"ql-align-justify\">Đảo đều, cho tôm khô vào, xào đến khi tôm ngấm gia vị, tắt lửa bắc xuống. Cho thêm chút tiêu, dùng nóng với cơm trắng rất ngon. Bạn có thể làm xốt hơi sệt sệt để chấm rau nữa thì càng tuyệt.</li></ul><p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/19952a05-09ea-4886-b31f-abc6a534ebc1.jpg\"></p><h4 class=\"ql-align-justify\"><br></h4><h4 class=\"ql-align-justify\"><strong>Tôm Rim Ức Gà Hạt Điều</strong></h4><p class=\"ql-align-justify\"><strong><em>Nguyên liệu</em></strong></p><p class=\"ql-align-justify\">Ức gà, tôm SSA khô, hạt điều rang, hành tây, đầu hành lá, tỏi băm, sa tế, hạt nêm, tương, đường, màu điều, nước dùng, dầu ăn.</p><p class=\"ql-align-justify\"><strong><em>Cách làm</em></strong></p><ul><li class=\"ql-align-justify\">Thịt gà rửa sạch, thái miếng vừa ăn. Tôm khô rửa sạch ngâm nước sôi cho mềm. Hành tây rửa sạch thái miếng vuông. Hành lá rửa sạch thái khúc.</li><li class=\"ql-align-justify\">Bắc chảo nóng, phi thơm tỏi, trút gà vào xào săn, cho thêm nước dùng vào, đun lửa nhỏ. Nêm ớt sa tế, nước tương, hạt nêm, đường, màu điều cho vừa ăn.</li><li class=\"ql-align-justify\">Sau đó thêm tôm khô và hạt điều vào xào chung. Cuối cùng cho đầu hành lá và hành tây vào, nấu cho keo là được.</li><li class=\"ql-align-justify\">Tôm tươi làm sạch, bóc vỏ rửa bằng nước muối, sấy khô</li></ul><p>------------------------------------------</p><h2><strong>III. Thời Hạn Sử Dụng Và Bảo Quản Tôm Nõn Khô:</strong></h2><p>- HSD 06 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ 4 đến 10 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #tomkho #tomnonkho</p><h2 class=\"ql-align-justify\"><br></h2><h3 class=\"ql-align-justify\"><br></h3><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/9c205c05-4df2-4ece-b936-8547a58201f3.jpg",
+    "price": 165000,
+    "oldPrice": 172000,
+    "discountPercent": 4,
+    "stock": 345,
+    "totalSold": 267,
+    "maxQuantityPerUser": null,
+    "unit": "200g",
+    "sku": "8936085660469",
+    "origin": "",
+    "sellerId": 263,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.9,
+    "instructions": "<h1><strong>Hạn Sử Dụng Và Bảo Quản Tôm Nõn Khô:</strong></h1><p><br></p><p>- HSD 06 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ 4 đến 10 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #tomkho #tomnonkho</p><h2 class=\"ql-align-justify\"><br></h2><p class=\"ql-align-justify\"><br></p>",
+    "category": {
+      "id": 139,
+      "name": "Tôm ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/aa38cec6-c2d2-4fba-8328-2f4e629b96ed.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Natufood",
+      "Hải sản",
+      "Hải sản tươi sống",
+      "Hải sản đông lạnh",
+      "Hải sản sấy khô",
+      "Hải sản chế biến",
+      "Tôm nõn khô",
+      "Tôm khô"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/9c205c05-4df2-4ece-b936-8547a58201f3.jpg",
+      "https://images.f99.com.vn/images/0fa50a74-4f0d-4605-9d4a-d360c789638e.jpg",
+      "https://images.f99.com.vn/images/67fd39f7-dc0f-45b3-ba95-daf9aa0ddc0b.jpg",
+      "https://images.f99.com.vn/images/e0fa9398-4fe6-42cb-9931-3dfc58043bc9.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/16779",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 263,
+      "sellerRate": 4,
+      "sellerName": "NatuFood",
+      "warehouseId": "611945d9-1b81-4453-9191-e621d5ad3623",
+      "warehouseAddress": "361 Hoàng Công Chất, Phú Diễn, Bắc Từ Liêm, Hà Nội",
+      "distance": 7224,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 44.583333333333336,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 17615,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Nõn tôm sắt (Đóng gói túi 500g) - Hải sản Mắt biển",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Nõn tôm sắt được làm sạch, đã lột vỏ, đóng gói sạch sẽ, đảm bảo vệ sinh an toàn thực phẩm.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/2e658069-e2a0-42c0-b44a-28baab63cf53.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Nõn tôm\",\"vệ sinh\",\"an toàn\",\"hải sản mắt biển\",\"seafood\",\"hải sản\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Nõn tôm sắt (Đóng gói túi 500g) - Hải sản Mắt biển",
+    "description": "<p>Nõn tôm sắt được làm sạch, đã lột vỏ, đóng gói sạch sẽ, đảm bảo vệ sinh an toàn thực phẩm.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/2e658069-e2a0-42c0-b44a-28baab63cf53.jpg",
+    "price": 110000,
+    "oldPrice": 125000,
+    "discountPercent": 12,
+    "stock": 1000,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "Túi 500g",
+    "sku": "SKU2000",
+    "origin": "",
+    "sellerId": 303,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<ol><li>Bảo quản ở nhiệt độ ngăn đông tủ lạnh</li><li>Giã đông ở nhiệt độ thường trong 1-2h.</li></ol>",
+    "category": {
+      "id": 139,
+      "name": "Tôm ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/aa38cec6-c2d2-4fba-8328-2f4e629b96ed.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Nõn tôm",
+      "vệ sinh",
+      "an toàn",
+      "hải sản mắt biển",
+      "seafood",
+      "hải sản"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/2e658069-e2a0-42c0-b44a-28baab63cf53.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/17615",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 303,
+      "sellerRate": 4.7,
+      "sellerName": "HẢI SẢN MẮT BIỂN",
+      "warehouseId": "5a58729c-75b5-4b4c-896f-69c7aed7cbd8",
+      "warehouseAddress": "Nơ 8, Bán đảo Linh Đàm, Hoàng Liệt, Hoàng Mai, Hà Nội",
+      "distance": 6764,
+      "warehouseDistrict": "hoang mai",
+      "reputation": 65.59727659574611,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 17617,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Nõn tôm he biển (Đóng gói túi 500g) - Hải sản Mắt Biển",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Nõn tôm he biển được Hải sản Mắt biển làm sạch, đóng gói sạch sẽ, đảm bảo vệ sinh an toàn thực phẩm. Sản phẩm được đóng gói 500g/túi mang đến sự tiện lợi trong bảo quản và chế biến bữa ăn của từng gia đình.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/9bbaa330-4347-4179-8a3b-84ef08c80803.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Nõn tôm he\",\"Vệ sinh\",\"an toàn\",\"Hải sản mắt biển\",\"seafood\",\"Hải sản\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Nõn tôm he biển (Đóng gói túi 500g) - Hải sản Mắt Biển",
+    "description": "<p>Nõn tôm he biển được Hải sản Mắt biển làm sạch, đóng gói sạch sẽ, đảm bảo vệ sinh an toàn thực phẩm. Sản phẩm được đóng gói 500g/túi mang đến sự tiện lợi trong bảo quản và chế biến bữa ăn của từng gia đình.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/9bbaa330-4347-4179-8a3b-84ef08c80803.jpg",
+    "price": 145000,
+    "oldPrice": 160000,
+    "discountPercent": 9,
+    "stock": 1000,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "Túi 500g",
+    "sku": "SKU3000",
+    "origin": "",
+    "sellerId": 303,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<ol><li>Bảo quản ở nhiệt độ ngăn đông tủ lạnh.</li><li>Giã đông ở nhiệt độ thường trong vòng 1-2h.</li></ol>",
+    "category": {
+      "id": 139,
+      "name": "Tôm ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/aa38cec6-c2d2-4fba-8328-2f4e629b96ed.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Nõn tôm he",
+      "Vệ sinh",
+      "an toàn",
+      "Hải sản mắt biển",
+      "seafood",
+      "Hải sản"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/9bbaa330-4347-4179-8a3b-84ef08c80803.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/17617",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 303,
+      "sellerRate": 4.7,
+      "sellerName": "HẢI SẢN MẮT BIỂN",
+      "warehouseId": "5a58729c-75b5-4b4c-896f-69c7aed7cbd8",
+      "warehouseAddress": "Nơ 8, Bán đảo Linh Đàm, Hoàng Liệt, Hoàng Mai, Hà Nội",
+      "distance": 6764,
+      "warehouseDistrict": "hoang mai",
+      "reputation": 65.59727659574611,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 17723,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "TÔM NÕN HẤP SƠ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Chỉ <a href=\"https://www.facebook.com/hashtag/285k?__eep__=6&amp;__cft__[0]=AZXsAXhMJjP2qC_D_ap9Jr8jOQbflw9eW-by_p7k4eIfqrmcWoV3VI_BMs-d7tkqU3PP6XjR4mWZH4OX4l6aDxkYzcBFmEIYBfPJyNCSBcL_hmhmKZs98-Xcn2HT1apn-Ys&amp;__tn__=*NK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">#285k</a>/1kg.  Tôm nõn hấp sơ. Mà mn biết là hấp lên nó mất nước nên hao lắm ấy. Thị trường rẻ nhất cũng hơn 300k/1kh đây ạ.</p><p>Chả là em có mua tôm về ăn. Em ko sành ăn lắm. Nhà hàng quán xá các kiểu chờ em thì chỉ có ế. Nhưng mõm nhôm của em đồ ăn là phải tươi ngon sạch sẽ. Gà chỉ ăn loại hơn 1 kg. Hna ck lỡ mua gà to là em cá chê ngay. Hải sản ăn phải tươi. Đồ ôi ươn là em biết ngay. Em cũng  ko có ý định bán đâu. Nhưng mua về ăn cá nhân em thấy tôm tươi nêm thịt dai ko bị bở bồm bộp. Thơm. Ko sạn cát. </p><p>Oài 1kg tôm nõn được nhiều lắm ạ. Làm cuốn. Gói nem. Rim thịt. Như trưa nay em vừa xào măng ăn cũng ra gì phết đấy chứ. </p><p>Bán giá này là em block người bán tôm cho em ko là bị chửi chết vì phá giá đấy ạ. Nhưng em kệ em gom cho khách hoa quả nhà em được ăn tôm ngon giá rẻ thoai ạ. </p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/94e363fb-531c-4b54-b0da-6af70cb4bf22.jpg\",\"https://images.f99.com.vn/images/af26bce6-1cd8-468f-b73f-da09ce278424.jpg\",\"https://images.f99.com.vn/images/e2ca0e37-c99b-41b0-a01c-16d1f761e1e7.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "TÔM NÕN HẤP SƠ",
+    "description": "<p>Chỉ <a href=\"https://www.facebook.com/hashtag/285k?__eep__=6&amp;__cft__[0]=AZXsAXhMJjP2qC_D_ap9Jr8jOQbflw9eW-by_p7k4eIfqrmcWoV3VI_BMs-d7tkqU3PP6XjR4mWZH4OX4l6aDxkYzcBFmEIYBfPJyNCSBcL_hmhmKZs98-Xcn2HT1apn-Ys&amp;__tn__=*NK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">#285k</a>/1kg.  Tôm nõn hấp sơ. Mà mn biết là hấp lên nó mất nước nên hao lắm ấy. Thị trường rẻ nhất cũng hơn 300k/1kh đây ạ.</p><p>Chả là em có mua tôm về ăn. Em ko sành ăn lắm. Nhà hàng quán xá các kiểu chờ em thì chỉ có ế. Nhưng mõm nhôm của em đồ ăn là phải tươi ngon sạch sẽ. Gà chỉ ăn loại hơn 1 kg. Hna ck lỡ mua gà to là em cá chê ngay. Hải sản ăn phải tươi. Đồ ôi ươn là em biết ngay. Em cũng  ko có ý định bán đâu. Nhưng mua về ăn cá nhân em thấy tôm tươi nêm thịt dai ko bị bở bồm bộp. Thơm. Ko sạn cát. </p><p>Oài 1kg tôm nõn được nhiều lắm ạ. Làm cuốn. Gói nem. Rim thịt. Như trưa nay em vừa xào măng ăn cũng ra gì phết đấy chứ. </p><p>Bán giá này là em block người bán tôm cho em ko là bị chửi chết vì phá giá đấy ạ. Nhưng em kệ em gom cho khách hoa quả nhà em được ăn tôm ngon giá rẻ thoai ạ. </p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/94e363fb-531c-4b54-b0da-6af70cb4bf22.jpg",
+    "price": 285000,
+    "oldPrice": 320000,
+    "discountPercent": 11,
+    "stock": 10,
+    "totalSold": 4,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 169,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 139,
+      "name": "Tôm ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/aa38cec6-c2d2-4fba-8328-2f4e629b96ed.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/94e363fb-531c-4b54-b0da-6af70cb4bf22.jpg",
+      "https://images.f99.com.vn/images/af26bce6-1cd8-468f-b73f-da09ce278424.jpg",
+      "https://images.f99.com.vn/images/e2ca0e37-c99b-41b0-a01c-16d1f761e1e7.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/17723",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 169,
+      "sellerRate": 4.6,
+      "sellerName": "Hương Chiaki",
+      "warehouseId": "ae5e8b40-5ad0-4501-a5e1-49de15d5e660",
+      "warehouseAddress": "102A3 phố 8/3, Quỳnh Mai, Hai Bà Trưng, Hà Nội",
+      "distance": 4083,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 65.2382346420427,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 18845,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Tép khô 200g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong style=\"color: rgba(0, 0, 0, 0.8);\">TÉP KHÔ 200G:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Thành phần: Tép khô 100%</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hạn sử dụng: 06 tháng kể từ ngày sản xuất</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Ngày sản xuất và hạn sử dụng in trên bao bì.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hướng dẫn sử dụng: Sản phẩm phải chế biến (chiên/rán, rang, kho...) trước khi dùng, ngon hơn khi dùng cùng tương ớt.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Số TCB: 06/SDC/2020</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Lưu ý: Không sử dụng sản phẩm khi có dấu hiệu nấm mốc, hư hỏng.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/b560e6d0-06fe-44c0-b06c-2cb55cadd024.jpg\",\"https://images.f99.com.vn/images/89fec555-1595-4840-8f18-b8cc51f1ce57.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Tép khô 200g",
+    "description": "<p><strong style=\"color: rgba(0, 0, 0, 0.8);\">TÉP KHÔ 200G:</strong></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Thành phần: Tép khô 100%</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hạn sử dụng: 06 tháng kể từ ngày sản xuất</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Ngày sản xuất và hạn sử dụng in trên bao bì.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Hướng dẫn sử dụng: Sản phẩm phải chế biến (chiên/rán, rang, kho...) trước khi dùng, ngon hơn khi dùng cùng tương ớt.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Số TCB: 06/SDC/2020</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">Lưu ý: Không sử dụng sản phẩm khi có dấu hiệu nấm mốc, hư hỏng.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/b560e6d0-06fe-44c0-b06c-2cb55cadd024.jpg",
+    "price": 36900,
+    "oldPrice": 49000,
+    "discountPercent": 25,
+    "stock": 1000,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Túi 200g",
+    "sku": "8936201830066",
+    "origin": "",
+    "sellerId": 316,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p><span style=\"color: rgba(0, 0, 0, 0.8);\">Trong ngăn mát tủ lạnh, nhiệt độ bảo quản 0 - 5 độ C</span></p>",
+    "category": {
+      "id": 139,
+      "name": "Tôm ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/aa38cec6-c2d2-4fba-8328-2f4e629b96ed.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/b560e6d0-06fe-44c0-b06c-2cb55cadd024.jpg",
+      "https://images.f99.com.vn/images/89fec555-1595-4840-8f18-b8cc51f1ce57.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/18845",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 316,
+      "sellerRate": 4.2,
+      "sellerName": "Dad's Farm",
+      "warehouseId": "1173160f-669a-4c76-814b-bc0ce0159549",
+      "warehouseAddress": "NV1-C2 ô 5-6 Geleximco khu đô thị hai bên đường Lê Trọng Tấn, Dương Nội, Hà Đông, Hà Nội",
+      "distance": 11024,
+      "warehouseDistrict": "ha dong",
+      "reputation": 61.85360283687986,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 19151,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Tôm sắt Đồ Sơn bóc nõn",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(0, 0, 0);\">Ngọt mẩy tôm sắt, tha hồ chế biến trăm món ngon đổi vị tại gia.</span></p><p><span style=\"color: rgb(0, 0, 0);\">Rã đông, sử dụng để chế biến các món gỏi tôm, canh tôm, tôm rang thịt...</span></p><p><span style=\"color: rgb(0, 0, 0);\">500gr</span></p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/81edbe95-3988-40b1-b420-7130fe60a72e.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Tôm sắt Đồ Sơn bóc nõn",
+    "description": "<p><span style=\"color: rgb(0, 0, 0);\">Ngọt mẩy tôm sắt, tha hồ chế biến trăm món ngon đổi vị tại gia.</span></p><p><span style=\"color: rgb(0, 0, 0);\">Rã đông, sử dụng để chế biến các món gỏi tôm, canh tôm, tôm rang thịt...</span></p><p><span style=\"color: rgb(0, 0, 0);\">500gr</span></p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/81edbe95-3988-40b1-b420-7130fe60a72e.jpg",
+    "price": 300000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 30,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "0.5 kg",
+    "sku": "ABTOMNON",
+    "origin": "",
+    "sellerId": 310,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 139,
+      "name": "Tôm ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/aa38cec6-c2d2-4fba-8328-2f4e629b96ed.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/81edbe95-3988-40b1-b420-7130fe60a72e.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/19151",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 310,
+      "sellerRate": 4.6,
+      "sellerName": "An Biên Eatery",
+      "warehouseId": "5e20ebbe-64c0-49c8-92d5-e50c669e2b6d",
+      "warehouseAddress": " Hà Nội,  Hai Bà Trưng,  Nguyễn Du, Số 111 Triệu Việt Vương",
+      "distance": 2271,
+      "warehouseDistrict": "hai ba trung",
+      "reputation": 64.34,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 19239,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Tôm nõn hấp đông lạnh (1kg/ túi) ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Tôm nõn hấp, sản phẩm quen thuộc với bữa cơm gia đình việt.</p><p>Sản phẩm được bóc vỏ, hấp sơ qua.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/6b0bbb5c-2035-401d-9c46-a64d3c3761a5.jpg\",\"https://images.f99.com.vn/images/3a3317e9-4291-47f3-9d3f-8d1ce95ec803.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Tôm nõn hấp đông lạnh (1kg/ túi) ",
+    "description": "<p>Tôm nõn hấp, sản phẩm quen thuộc với bữa cơm gia đình việt.</p><p>Sản phẩm được bóc vỏ, hấp sơ qua.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/6b0bbb5c-2035-401d-9c46-a64d3c3761a5.jpg",
+    "price": 150000,
+    "oldPrice": 160000,
+    "discountPercent": 6,
+    "stock": 1000,
+    "totalSold": 8,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 335,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ở tủ đông.</p><p>Date: 12 tháng</p><p>Chế biến:</p><ul><li>tôm nõn xào thập cẩm.</li><li>ba chỉ cuộn tôm</li><li>tôm sốt bơ tỏi</li><li>tôm chiên trứng.</li><li>tôm rang muối</li><li>tôm chiên xù</li><li>tôm rang mắm đường</li></ul>",
+    "category": {
+      "id": 139,
+      "name": "Tôm ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/aa38cec6-c2d2-4fba-8328-2f4e629b96ed.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/6b0bbb5c-2035-401d-9c46-a64d3c3761a5.jpg",
+      "https://images.f99.com.vn/images/3a3317e9-4291-47f3-9d3f-8d1ce95ec803.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/19239",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 70660,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 150000,
+        "oldPrice": 160000,
+        "discountPercent": 6,
+        "stock": 1000,
+        "totalSold": 8,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ở tủ đông.</p><p>Date: 12 tháng</p><p>Chế biến:</p><ul><li>tôm nõn xào thập cẩm.</li><li>ba chỉ cuộn tôm</li><li>tôm sốt bơ tỏi</li><li>tôm chiên trứng.</li><li>tôm rang muối</li><li>tôm chiên xù</li><li>tôm rang mắm đường</li></ul>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 335,
+      "sellerRate": 4.6,
+      "sellerName": "Công ty TNHH Thực Phẩm Khánh Hà",
+      "warehouseId": "2fc1e903-e117-4ec1-8cd4-d0a492f87fb7",
+      "warehouseAddress": "  Lô B24 Khu Đấu Giá 3Ha,Phúc Diễn,Bắc Từ Liêm, Hà Nội",
+      "distance": 8559,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 69.42853917808279,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 20228,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Tôm Bóc Nõn - 500Gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>TÔM NÕN!!</p><ul><li>Tôm mập, chắc thịt, có vị ngọt...</li><li>Chế biến : rang, rim, xào....</li><li>Đóng gói : 0.5kg / khay</li><li>LH : 0938431990 - 0345962016</li><li>ĐC : 102 B7 PHẠM NGỌC THẠCH / 90 NGÕ 165/49/25 DƯƠNG QUẢNG HÀM</li></ul>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/2be9ef72-e252-47c4-87ad-0234eed895ff.jpg\",\"https://images.f99.com.vn/images/837c479e-2e40-45ee-95ed-73093141ae5c.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Tôm Bóc Nõn - 500Gr",
+    "description": "<p>TÔM NÕN!!</p><ul><li>Tôm mập, chắc thịt, có vị ngọt...</li><li>Chế biến : rang, rim, xào....</li><li>Đóng gói : 0.5kg / khay</li><li>LH : 0938431990 - 0345962016</li><li>ĐC : 102 B7 PHẠM NGỌC THẠCH / 90 NGÕ 165/49/25 DƯƠNG QUẢNG HÀM</li></ul>",
+    "imageUrl": "https://images.f99.com.vn/images/2be9ef72-e252-47c4-87ad-0234eed895ff.jpg",
+    "price": 150000,
+    "oldPrice": 185000,
+    "discountPercent": 19,
+    "stock": 1000,
+    "totalSold": 82,
+    "maxQuantityPerUser": null,
+    "unit": "500Gr",
+    "sku": "",
+    "origin": "",
+    "sellerId": 356,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p>BẢO QUẢN CẤP ĐÔNG</p>",
+    "category": {
+      "id": 139,
+      "name": "Tôm ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/aa38cec6-c2d2-4fba-8328-2f4e629b96ed.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/2be9ef72-e252-47c4-87ad-0234eed895ff.jpg",
+      "https://images.f99.com.vn/images/837c479e-2e40-45ee-95ed-73093141ae5c.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/20228",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 356,
+      "sellerRate": 4.8,
+      "sellerName": "QUỲNH HƯƠNG FOOD",
+      "warehouseId": "d002037a-b149-4929-a7ba-96f33ee0cb54",
+      "warehouseAddress": "Số 101B Ngõ 46A Phạm Ngọc Thạch - Đống Đa - Hà Nội",
+      "distance": 1960,
+      "warehouseDistrict": "dong da",
+      "reputation": 83.77750355426403,
+      "others": [
+        {
+          "sellerId": 356,
+          "sellerRate": 4.8,
+          "sellerName": "QUỲNH HƯƠNG FOOD",
+          "warehouseId": "d002037a-b149-4929-a7ba-96f33ee0cb54",
+          "warehouseAddress": "Số 101B Ngõ 46A Phạm Ngọc Thạch - Đống Đa - Hà Nội",
+          "distance": 1960,
+          "warehouseDistrict": "dong da",
+          "reputation": 83.77750355426403,
+          "others": []
+        },
+        {
+          "sellerId": 356,
+          "sellerRate": 4.8,
+          "sellerName": "QUỲNH HƯƠNG FOOD",
+          "warehouseId": "ec58be66-d2b3-414c-8ad3-189afc311b5d",
+          "warehouseAddress": "15 - CHUNG CƯ B7 PHẠM NGỌC THẠCH - ĐỐNG ĐA - HÀ NÔI",
+          "distance": 2030,
+          "warehouseDistrict": "dong da",
+          "reputation": 83.77750355426403,
+          "others": []
+        },
+        {
+          "sellerId": 356,
+          "sellerRate": 4.8,
+          "sellerName": "QUỲNH HƯƠNG FOOD",
+          "warehouseId": "3c726327-72ae-4bc0-985e-48ba00e5675c",
+          "warehouseAddress": "400 Đường Láng, Quận Đống Đa, TP.Hà Nội",
+          "distance": 2932,
+          "warehouseDistrict": "dong da",
+          "reputation": 83.77750355426403,
+          "others": []
+        },
+        {
+          "sellerId": 356,
+          "sellerRate": 4.8,
+          "sellerName": "QUỲNH HƯƠNG FOOD",
+          "warehouseId": "2fd9113c-0c5d-4d6c-ab0c-e173c5306a47",
+          "warehouseAddress": " NGÕ 106 LÊ TRỌNG TẤN - KHƯƠNG MAI - THANH XUÂN - HÀ NỘI",
+          "distance": 3424,
+          "warehouseDistrict": "thanh xuan",
+          "reputation": 83.77750355426403,
+          "others": []
+        },
+        {
+          "sellerId": 356,
+          "sellerRate": 4.8,
+          "sellerName": "QUỲNH HƯƠNG FOOD",
+          "warehouseId": "b51acd9b-4541-4598-82ad-6107da0bde36",
+          "warehouseAddress": "NGÕ 165 DƯƠNG QUẢNG HÀM - QUAN HOA - CẦU GIẤY - HÀ NỘI",
+          "distance": 3667,
+          "warehouseDistrict": "cau giay",
+          "reputation": 83.77750355426403,
+          "others": []
+        },
+        {
+          "sellerId": 356,
+          "sellerRate": 4.8,
+          "sellerName": "QUỲNH HƯƠNG FOOD",
+          "warehouseId": "6a5b6df5-08b1-4003-a687-8940556ed5a8",
+          "warehouseAddress": "71 TRUNG HÒA - CẦU GIẤY - HÀ NỘI",
+          "distance": 3772,
+          "warehouseDistrict": "cau giay",
+          "reputation": 83.77750355426403,
+          "others": []
+        },
+        {
+          "sellerId": 356,
+          "sellerRate": 4.8,
+          "sellerName": "QUỲNH HƯƠNG FOOD",
+          "warehouseId": "c7f35b03-6a1f-49a3-b328-85fc8cfa4472",
+          "warehouseAddress": "NGÕ 245 ĐỊNH CÔNG - HOÀNG MAI - HÀ NỘI",
+          "distance": 5307,
+          "warehouseDistrict": "hoang mai",
+          "reputation": 83.77750355426403,
+          "others": []
+        },
+        {
+          "sellerId": 356,
+          "sellerRate": 4.8,
+          "sellerName": "QUỲNH HƯƠNG FOOD",
+          "warehouseId": "63246a2c-f085-4103-8b86-2be3a0444b99",
+          "warehouseAddress": "KHU HÀ TRÌ 5, HÀ CẦU - HÀ ĐÔNG - HÀ NỘI",
+          "distance": 9492,
+          "warehouseDistrict": "ha dong",
+          "reputation": 83.77750355426403,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 23792,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Tôm-500g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>tôm tươi dùng nhúng lẩu rất ngon</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/1c537803-9291-42b4-9358-b8f8ed8bd51c.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Tôm-500g",
+    "description": "<p>tôm tươi dùng nhúng lẩu rất ngon</p>",
+    "imageUrl": "https://images.f99.com.vn/images/1c537803-9291-42b4-9358-b8f8ed8bd51c.jpg",
+    "price": 150000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 13222222,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "0.5",
+    "sku": "",
+    "origin": "",
+    "sellerId": 358,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 139,
+      "name": "Tôm ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/aa38cec6-c2d2-4fba-8328-2f4e629b96ed.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/1c537803-9291-42b4-9358-b8f8ed8bd51c.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/23792",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 358,
+      "sellerRate": 4.2,
+      "sellerName": "Thực Phẩm Sạch RaMa",
+      "warehouseId": "d4a01022-690c-4246-a8b3-726f99a3ccd3",
+      "warehouseAddress": " Hà Nội,  Hà Đông,  Phú Lãm, 26 Phố Xốm",
+      "distance": 12115,
+      "warehouseDistrict": "ha dong",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 23920,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Tôm Sú bóc nõn hữu cơ tập đoàn Minh Phú",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<ul><li><strong>Tôm sinh thái hữu cơ của tập đoàn Minh Phú</strong></li></ul><p>=&gt; Tôm sú sinh thái của Minh Phú - Tập đoàn \"Vua tôm\" Việt Nam là tôm sạch nuôi tự nhiên, không sử dụng kháng sinh, hóa chất và thức ăn công nghiệp, đạt chứng chỉ quốc tế.</p><p>=&gt;&nbsp;&nbsp;Là sản phẩm đạt giải thưởng 'Bông lúa vàng 2018' của Bộ Nông nghiệp và Phát triển nông thôn Việt Nam.</p><ul><li><strong>Quy trình sản xuất</strong></li></ul><p>=&gt; Được chế biến theo quy trình khép kín, đáp ứng sản phẩm luôn đạt ATVSTP. Sản phẩm của Minh Phú mang những giá trị khác biệt, hướng đến những cam kết bền vững về: an toàn thực phẩm, bảo vệ môi trường, trách nhiệm xã hội, quyền lợi và sức khỏe vật nuôi.</p><ul><li><strong>Nguồn dinh dưỡng</strong></li></ul><p>=&gt; Cung cấp cho cơ thể chất sắt, canxi, selen, protein, vitamin B12, omega-3. Nhờ đó giúp xương chắc khoẻ, giảm triệu chứng thiếu máu, mệt mỏi, cho hệ thần kinh khoẻ mạnh và ngừa ung thư</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/cdcd8bfa-0865-4baf-86bd-72b2fda3eb3b.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Tôm Sú bóc nõn hữu cơ tập đoàn Minh Phú",
+    "description": "<ul><li><strong>Tôm sinh thái hữu cơ của tập đoàn Minh Phú</strong></li></ul><p>=&gt; Tôm sú sinh thái của Minh Phú - Tập đoàn \"Vua tôm\" Việt Nam là tôm sạch nuôi tự nhiên, không sử dụng kháng sinh, hóa chất và thức ăn công nghiệp, đạt chứng chỉ quốc tế.</p><p>=&gt;&nbsp;&nbsp;Là sản phẩm đạt giải thưởng 'Bông lúa vàng 2018' của Bộ Nông nghiệp và Phát triển nông thôn Việt Nam.</p><ul><li><strong>Quy trình sản xuất</strong></li></ul><p>=&gt; Được chế biến theo quy trình khép kín, đáp ứng sản phẩm luôn đạt ATVSTP. Sản phẩm của Minh Phú mang những giá trị khác biệt, hướng đến những cam kết bền vững về: an toàn thực phẩm, bảo vệ môi trường, trách nhiệm xã hội, quyền lợi và sức khỏe vật nuôi.</p><ul><li><strong>Nguồn dinh dưỡng</strong></li></ul><p>=&gt; Cung cấp cho cơ thể chất sắt, canxi, selen, protein, vitamin B12, omega-3. Nhờ đó giúp xương chắc khoẻ, giảm triệu chứng thiếu máu, mệt mỏi, cho hệ thần kinh khoẻ mạnh và ngừa ung thư</p>",
+    "imageUrl": "https://images.f99.com.vn/images/cdcd8bfa-0865-4baf-86bd-72b2fda3eb3b.png",
+    "price": 135000,
+    "oldPrice": 150000,
+    "discountPercent": 10,
+    "stock": 100,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "300gr",
+    "sku": "T",
+    "origin": "",
+    "sellerId": 244,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ngăn đông tủ lạnh</p>",
+    "category": {
+      "id": 139,
+      "name": "Tôm ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/aa38cec6-c2d2-4fba-8328-2f4e629b96ed.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/cdcd8bfa-0865-4baf-86bd-72b2fda3eb3b.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/23920",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "300gr"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 92951,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "300gr",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "300gr",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "300gr",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 135000,
+        "oldPrice": 150000,
+        "discountPercent": 10,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "300gr",
+        "sku": "T",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ngăn đông tủ lạnh</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "300gr"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 244,
+      "sellerRate": 4.7,
+      "sellerName": "VIHAFOOD - Đặc sản vùng miền",
+      "warehouseId": "cf85b1b1-6f2a-49b3-b125-e261f6bfc30a",
+      "warehouseAddress": "111 Phố Đội Cấn, Ba Đình, Hà Nội",
+      "distance": 1098,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 80.86123101095345,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 24246,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hải sản Bề Bề Natufood nguyên con thịt loại (10-20con) [Chỉ giao HN]",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h1 class=\"ql-align-justify\"><strong>🦐 Hải Sản - Bề Bề Nguyên Con Thịt 🦐</strong></h1><h2 class=\"ql-align-justify\"><strong>I. Giới Thiệu Về Bề Bề Nguyên Con Thịt</strong></h2><h3 class=\"ql-align-justify\"><strong>1.1. Đặc Điểm Bề Ngoài Bề Bề Nguyên Con Thịt</strong></h3><p class=\"ql-align-justify\">Bề Bề còn có tên gọi khác là tôm tít, được biết đến với sự thơm ngon và nguồn dinh dưỡng dồi dào. Bề Bề Nguyên Con có phần thịt trong, vỏ cứng. Chúng sinh sống ở vùng nước mặt nên rất dễ đánh bắt.</p><h3 class=\"ql-align-justify\"><strong>1.2. Dinh Dưỡng Của Bề Bề Nguyên Con Thịt</strong></h3><ul><li class=\"ql-align-justify\">Bổ sung Vitamin B12: đây là loại vitamin phức tạp tham gia vào quá trình chuyển hóa năng lượng trong cơ thể. Vitamin B12 giữ vai trò quan trọng trong tổng hợp các nucleotic, protein, carbohydrat và chất béo. Vì vậy, thường xuyên ăn bề bề sẽ giúp giảm suy nhược cơ thể, cân bằng dinh dưỡng.</li><li class=\"ql-align-justify\">Bổ sung sắt và protein: sắt là chất vô cùng quan trọng trong quá trình tạo máu. Nếu thiếu sắt cơ thể sẽ bị thiếu máu, mệt lả và khó thở. Sắt tăng cường hệ miễn dịch, vận chuyển oxy từ phổi đến các cơ quan. Sắt đặc biệt quan trọng đối với trẻ em trong độ tuổi phát triển.</li><li class=\"ql-align-justify\">Bổ sung canxi: là chất quan trọng đối với xương khớp và răng. Cứ 100g bề bề có đến 2000mg canxi. Đối với trẻ nhỏ, nếu thiếu canxi sẽ bị chậm lớn, hạn chế chiều cao, còi xương. Đối với người tuổi trung niên, nếu thiếu canxi sẽ dẫn đến loãng xương, mất xương.</li><li class=\"ql-align-justify\">Bổ sung Omega-3: đây là loại axit béo vô cùng quan tọng trong việc phát triển trí não và hệ thần kinh. Những người được bổ sung Omega-3 thường xuyên sẽ giúp tăng khả năng tập trung.</li><li class=\"ql-align-justify\">Ngoài ra, bề bề còn có rất nhiều chất quan trọng như khoáng chất, vitamin A, vitamin B1, kẽm, kali,…</li></ul><h3 class=\"ql-align-justify\"><strong>1.3. Cách Bóc Vỏ Bề Bề Nguyên Con Thịt Dễ Dàng</strong></h3><p class=\"ql-align-justify\">Bề Bề nguyên con có lớp vỏ ngoài rất cứng thịt mềm, vì vậy để loại bỏ vỏ bề bề dễ dàng ta cần làm như sau:</p><ul><li class=\"ql-align-justify\">Dùng một cây kéo dài cắt bỏ phần đầu, cắt dọc hai bên viền dọc theo thân bề bề.</li><li class=\"ql-align-justify\">Nhẹ nhàng bóc lớp vỏ cứng (cần bóc từ từ để thịt không bị vỡ, không bị dính lại vỏ).</li></ul><h2 class=\"ql-align-justify\"><strong>II. Các Món Ăn Đặc Sắc Từ Bề Bề Nguyên Con Thịt</strong></h2><h3 class=\"ql-align-justify\"><strong>Món 1: Bún Bề Bề</strong></h3><p class=\"ql-align-justify\"><strong><em>Nguyên Liệu:</em></strong></p><p class=\"ql-align-justify\">Bề Bề thịt hấp (1 gói)</p><p class=\"ql-align-justify\">4 quả cà chua</p><p class=\"ql-align-justify\">10 củ hành khô</p><p class=\"ql-align-justify\">1 bó Rau cải ngọt</p><p class=\"ql-align-justify\"><strong><em>Các Bước:</em></strong></p><p class=\"ql-align-justify\">Bề bề rửa ráo cho vào nồi đun sôi.</p><p class=\"ql-align-justify\">Dùng bề bề nõn</p><p class=\"ql-align-justify\">Nếu có vỏ và càng bề bề thì đem xay hoặc giã</p><p class=\"ql-align-justify\">Rau rửa sạch trần vớt ra cho ráo</p><p class=\"ql-align-justify\">Phi hành khô</p><p class=\"ql-align-justify\">Bún trần ra bát, xếp bề bề, rau lên trên. Chan nước dùng vs cà chua. Rắc hành khô. Cho tương ớt vào.</p><h3 class=\"ql-align-justify\"><strong>Món 2: Chả Nem Nhân Tôm Bề Bề</strong></h3><p class=\"ql-align-justify\"><strong><em>Nguyên Liệu:</em></strong></p><p class=\"ql-align-justify\">500 g Bề Bề thịt hấp</p><p class=\"ql-align-justify\">1 cuộn miến dong, nấm hương và mộc nhĩ vừa đủ. Bánh tráng để gói</p><p class=\"ql-align-justify\">1 củ Su hào</p><p class=\"ql-align-justify\">1 củ Cà rốt</p><p class=\"ql-align-justify\">400 g Thịt băm</p><p class=\"ql-align-justify\">Trứng : 2 quả</p><p class=\"ql-align-justify\">Nước chấm : đu đủ xanh, cà rốt, chanh, ớt, đường, tỏi</p><p class=\"ql-align-justify\">Rau sống ăn kèm</p><p class=\"ql-align-justify\"><strong><em>Các Bước:</em></strong></p><p class=\"ql-align-justify\">Bào hoặc thái mỏng các nguyên liệu rồi cho ra chậu trộn lên. Thái tí hành và rau mùi,rắc chút hạt tiêu cho nhân thơm nhằm hạn chế bớt mùi tanh của bề bề lại.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Trải bánh tráng ra để cuốn. 1 cái nguyên và 1 nửa cái đã cắt làm đôi. Để nhân thịt vào trước rồi đặt bề bề lên cho đều khắp chiều dài nem rồi gói lại chắc tay.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Đổ ngập dầu rồi chiên lửa nhỏ. Lựa tay lật chả để chín đều mà ko cháy hoặc vỡ chả khiến ngấm dầu. Nếu làm nhiều để dành ăn dần thì chiên sơ sơ là được. Chiên xong gác lên gá chảo cho bớt dầu sẽ ko bị ngấy.</p><p class=\"ql-align-justify\">Bào mỏng su su cùng cà rốt r xóc muối 1 lúc sau đó rửa sạch và cho đường, giấm vào làm dưa góp. Pha nước chấm gồm đường, chanh,tỏi và ớt.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Ngoài ra, chúng ta có thể dùng bề bề thịt để chế biến món&nbsp;Nem Bề Bề&nbsp;– món ngon lạ miệng được nhiều người yêu thích.</p><p>------------------------------------------</p><h2><strong>III. Thời Hạn Sử Dụng Và Bảo Quản Bề Bề Nguyên Con Thịt:</strong></h2><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #bebe #bebenon #bebenguyencon #bebenontrung #bebetrung</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/a38eb554-c7a0-4f16-957d-1eb0b5b6f9eb.jpg\",\"https://images.f99.com.vn/images/a9af4406-687d-4bfb-8b27-35d6dbb0aa99.jpg\",\"https://images.f99.com.vn/images/84028001-d9ab-4efb-af8a-1c69131d725c.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Natufood\",\"Hải sản\",\"Hải sản tươi sống\",\"Hải sản đông lạnh\",\"Hải sản chế biến\",\"Hải sản sấy khô\",\"Bề bề nõn\",\"Bề bề trứng\",\"Bề bề nguyên con\",\"Bề bề\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hải sản Bề Bề Natufood nguyên con thịt loại (10-20con) [Chỉ giao HN]",
+    "description": "<h1 class=\"ql-align-justify\"><strong>🦐 Hải Sản - Bề Bề Nguyên Con Thịt 🦐</strong></h1><h2 class=\"ql-align-justify\"><strong>I. Giới Thiệu Về Bề Bề Nguyên Con Thịt</strong></h2><h3 class=\"ql-align-justify\"><strong>1.1. Đặc Điểm Bề Ngoài Bề Bề Nguyên Con Thịt</strong></h3><p class=\"ql-align-justify\">Bề Bề còn có tên gọi khác là tôm tít, được biết đến với sự thơm ngon và nguồn dinh dưỡng dồi dào. Bề Bề Nguyên Con có phần thịt trong, vỏ cứng. Chúng sinh sống ở vùng nước mặt nên rất dễ đánh bắt.</p><h3 class=\"ql-align-justify\"><strong>1.2. Dinh Dưỡng Của Bề Bề Nguyên Con Thịt</strong></h3><ul><li class=\"ql-align-justify\">Bổ sung Vitamin B12: đây là loại vitamin phức tạp tham gia vào quá trình chuyển hóa năng lượng trong cơ thể. Vitamin B12 giữ vai trò quan trọng trong tổng hợp các nucleotic, protein, carbohydrat và chất béo. Vì vậy, thường xuyên ăn bề bề sẽ giúp giảm suy nhược cơ thể, cân bằng dinh dưỡng.</li><li class=\"ql-align-justify\">Bổ sung sắt và protein: sắt là chất vô cùng quan trọng trong quá trình tạo máu. Nếu thiếu sắt cơ thể sẽ bị thiếu máu, mệt lả và khó thở. Sắt tăng cường hệ miễn dịch, vận chuyển oxy từ phổi đến các cơ quan. Sắt đặc biệt quan trọng đối với trẻ em trong độ tuổi phát triển.</li><li class=\"ql-align-justify\">Bổ sung canxi: là chất quan trọng đối với xương khớp và răng. Cứ 100g bề bề có đến 2000mg canxi. Đối với trẻ nhỏ, nếu thiếu canxi sẽ bị chậm lớn, hạn chế chiều cao, còi xương. Đối với người tuổi trung niên, nếu thiếu canxi sẽ dẫn đến loãng xương, mất xương.</li><li class=\"ql-align-justify\">Bổ sung Omega-3: đây là loại axit béo vô cùng quan tọng trong việc phát triển trí não và hệ thần kinh. Những người được bổ sung Omega-3 thường xuyên sẽ giúp tăng khả năng tập trung.</li><li class=\"ql-align-justify\">Ngoài ra, bề bề còn có rất nhiều chất quan trọng như khoáng chất, vitamin A, vitamin B1, kẽm, kali,…</li></ul><h3 class=\"ql-align-justify\"><strong>1.3. Cách Bóc Vỏ Bề Bề Nguyên Con Thịt Dễ Dàng</strong></h3><p class=\"ql-align-justify\">Bề Bề nguyên con có lớp vỏ ngoài rất cứng thịt mềm, vì vậy để loại bỏ vỏ bề bề dễ dàng ta cần làm như sau:</p><ul><li class=\"ql-align-justify\">Dùng một cây kéo dài cắt bỏ phần đầu, cắt dọc hai bên viền dọc theo thân bề bề.</li><li class=\"ql-align-justify\">Nhẹ nhàng bóc lớp vỏ cứng (cần bóc từ từ để thịt không bị vỡ, không bị dính lại vỏ).</li></ul><h2 class=\"ql-align-justify\"><strong>II. Các Món Ăn Đặc Sắc Từ Bề Bề Nguyên Con Thịt</strong></h2><h3 class=\"ql-align-justify\"><strong>Món 1: Bún Bề Bề</strong></h3><p class=\"ql-align-justify\"><strong><em>Nguyên Liệu:</em></strong></p><p class=\"ql-align-justify\">Bề Bề thịt hấp (1 gói)</p><p class=\"ql-align-justify\">4 quả cà chua</p><p class=\"ql-align-justify\">10 củ hành khô</p><p class=\"ql-align-justify\">1 bó Rau cải ngọt</p><p class=\"ql-align-justify\"><strong><em>Các Bước:</em></strong></p><p class=\"ql-align-justify\">Bề bề rửa ráo cho vào nồi đun sôi.</p><p class=\"ql-align-justify\">Dùng bề bề nõn</p><p class=\"ql-align-justify\">Nếu có vỏ và càng bề bề thì đem xay hoặc giã</p><p class=\"ql-align-justify\">Rau rửa sạch trần vớt ra cho ráo</p><p class=\"ql-align-justify\">Phi hành khô</p><p class=\"ql-align-justify\">Bún trần ra bát, xếp bề bề, rau lên trên. Chan nước dùng vs cà chua. Rắc hành khô. Cho tương ớt vào.</p><h3 class=\"ql-align-justify\"><strong>Món 2: Chả Nem Nhân Tôm Bề Bề</strong></h3><p class=\"ql-align-justify\"><strong><em>Nguyên Liệu:</em></strong></p><p class=\"ql-align-justify\">500 g Bề Bề thịt hấp</p><p class=\"ql-align-justify\">1 cuộn miến dong, nấm hương và mộc nhĩ vừa đủ. Bánh tráng để gói</p><p class=\"ql-align-justify\">1 củ Su hào</p><p class=\"ql-align-justify\">1 củ Cà rốt</p><p class=\"ql-align-justify\">400 g Thịt băm</p><p class=\"ql-align-justify\">Trứng : 2 quả</p><p class=\"ql-align-justify\">Nước chấm : đu đủ xanh, cà rốt, chanh, ớt, đường, tỏi</p><p class=\"ql-align-justify\">Rau sống ăn kèm</p><p class=\"ql-align-justify\"><strong><em>Các Bước:</em></strong></p><p class=\"ql-align-justify\">Bào hoặc thái mỏng các nguyên liệu rồi cho ra chậu trộn lên. Thái tí hành và rau mùi,rắc chút hạt tiêu cho nhân thơm nhằm hạn chế bớt mùi tanh của bề bề lại.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Trải bánh tráng ra để cuốn. 1 cái nguyên và 1 nửa cái đã cắt làm đôi. Để nhân thịt vào trước rồi đặt bề bề lên cho đều khắp chiều dài nem rồi gói lại chắc tay.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Đổ ngập dầu rồi chiên lửa nhỏ. Lựa tay lật chả để chín đều mà ko cháy hoặc vỡ chả khiến ngấm dầu. Nếu làm nhiều để dành ăn dần thì chiên sơ sơ là được. Chiên xong gác lên gá chảo cho bớt dầu sẽ ko bị ngấy.</p><p class=\"ql-align-justify\">Bào mỏng su su cùng cà rốt r xóc muối 1 lúc sau đó rửa sạch và cho đường, giấm vào làm dưa góp. Pha nước chấm gồm đường, chanh,tỏi và ớt.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Ngoài ra, chúng ta có thể dùng bề bề thịt để chế biến món&nbsp;Nem Bề Bề&nbsp;– món ngon lạ miệng được nhiều người yêu thích.</p><p>------------------------------------------</p><h2><strong>III. Thời Hạn Sử Dụng Và Bảo Quản Bề Bề Nguyên Con Thịt:</strong></h2><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #bebe #bebenon #bebenguyencon #bebenontrung #bebetrung</p>",
+    "imageUrl": "https://images.f99.com.vn/images/a38eb554-c7a0-4f16-957d-1eb0b5b6f9eb.jpg",
+    "price": 195000,
+    "oldPrice": 250000,
+    "discountPercent": 22,
+    "stock": 745,
+    "totalSold": 497,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "8936085660087",
+    "origin": "",
+    "sellerId": 263,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<h1><strong>Hạn Dụng Và Bảo Quản Bề Bề Nguyên Con Thịt</strong></h1><p>- HSD 12 tháng kể từ ngày sản xuất</p><p>- Bảo quản khuyến nghị ở nhiệt độ từ -18 độ C</p><p>Sản phẩm của: CÔNG TY CỔ PHẦN THỰC PHẨM NATUFOOD</p><p><br></p><p>#natufood #haisan #haisankho #haisansaykho #haisanchebien #haisandonghop #haisanphuquoc #haisandonglanh #haisancapdong #haisantuoisong #bebe #bebenon #bebenguyencon #bebenontrung #bebetrung</p>",
+    "category": {
+      "id": 139,
+      "name": "Tôm ",
+      "imageUrl": "https://images.f99.com.vn/notification-images/aa38cec6-c2d2-4fba-8328-2f4e629b96ed.png",
+      "parentId": 131,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Natufood",
+      "Hải sản",
+      "Hải sản tươi sống",
+      "Hải sản đông lạnh",
+      "Hải sản chế biến",
+      "Hải sản sấy khô",
+      "Bề bề nõn",
+      "Bề bề trứng",
+      "Bề bề nguyên con",
+      "Bề bề"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/a38eb554-c7a0-4f16-957d-1eb0b5b6f9eb.jpg",
+      "https://images.f99.com.vn/images/a9af4406-687d-4bfb-8b27-35d6dbb0aa99.jpg",
+      "https://images.f99.com.vn/images/84028001-d9ab-4efb-af8a-1c69131d725c.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/24246",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 263,
+      "sellerRate": 4,
+      "sellerName": "NatuFood",
+      "warehouseId": "611945d9-1b81-4453-9191-e621d5ad3623",
+      "warehouseAddress": "361 Hoàng Công Chất, Phú Diễn, Bắc Từ Liêm, Hà Nội",
+      "distance": 7224,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 44.583333333333336,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

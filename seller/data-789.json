@@ -1,0 +1,35 @@
+{
+  "id": 789,
+  "name": "Hải sản Minh Minh",
+  "logo": "https://cdn.f99.link/groupbuy-images/25e57697-01d5-41ee-ba0f-552b472e5602.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp sỉ lẻ hải sản (cá, mực, tuộc, …)",
+  "headQuarter": "233/12 quốc lộ 13 cũ, Hiệp Bình Phước, Thủ Đức, Hồ Chí Minh",
+  "email": "Minhnguyet27101980@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "06:00",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

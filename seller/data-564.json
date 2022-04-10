@@ -1,0 +1,35 @@
+{
+  "id": 564,
+  "name": "Thực Phẩm Sơ Chế - 8 Phút",
+  "logo": "https://cdn.f99.link/groupbuy-images/ea83289c-5a8f-4b1e-ae53-d1f6be50b87c.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp các set thực phẩm sơ chế",
+  "headQuarter": "188 An Dương, Yên Phụ, Tây Hồ, Hà Nội",
+  "email": "dohuyentrang90px@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.6,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 21
+}

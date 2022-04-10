@@ -1,0 +1,35 @@
+{
+  "id": 595,
+  "name": "Gà Tươi Tiến Hương",
+  "logo": "https://cdn.f99.link/groupbuy-images/bc7ecf2d-9f4e-4c38-8151-fc23131994af.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên sỉ, lẻ gà tươi uy tín, chất lượng",
+  "headQuarter": "22 Lý Sơn, Thượng Thanh, Long Biên, Hà Nội",
+  "email": "le490923@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.4,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 7
+}

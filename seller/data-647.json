@@ -1,0 +1,35 @@
+{
+  "id": 647,
+  "name": "Trái cây Đăk Lăk",
+  "logo": "https://cdn.f99.link/groupbuy-images/7bc81964-704b-45e3-8a1c-ee48ef4d5e1a.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp trái cây vườn sạch do gia đình trồng bảo đảm sức khỏe cho người dùng như các loại trái cây sầu riêng dona, bơ boot, bơ sáp và cóc, hồng",
+  "headQuarter": "496/71 Dương Quảng Hàm, 6, Gò Vấp, Hồ Chí Minh",
+  "email": "Daongocbaoloan@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

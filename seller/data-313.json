@@ -1,0 +1,35 @@
+{
+  "id": 313,
+  "name": "Ô Mai Xanh",
+  "logo": "https://cdn.f99.link/groupbuy-images/f6ec490c-6536-4731-89ad-c7909fe7a285.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Ô mai Hàng Đường không còn là điều xa lạ đối với những tín đồ ăn vặt. Những món ô mai chua chua ngọt ngọt vô cùng hấp dẫn với mỗi người. Nhưng để lựa chọn 1 đơn vị bán hàng ngon – chất lượng – đảm bảo vệ sinh và đặc biệt không chất phụ gia thì không phải đơn vị nào cũng làm được. Chúng tôi cam kết tất cả sản phẩm bán ra được đảm bảo trong quá trình chế biến, nguồn nguyên liệu an toàn để tạo nên hương vị tuyệt vời!\nHãy thử ngay 1 vài loại ô mai của chúng tôi nhé!",
+  "headQuarter": "94 an dương, Yên Phụ, Tây Hồ, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

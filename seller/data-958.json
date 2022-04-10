@@ -1,0 +1,35 @@
+{
+  "id": 958,
+  "name": "Nước Ép Hoa Quả",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/096bc641-f814-4ad1-8879-1db127a55580.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên nước ép hoa quả nguyên chất và nước detox",
+  "headQuarter": "Số 60 Ngô Quyền, Phường Hàng Bài, Quận Hoàn Kiếm, TP Hà Nội, Hàng Bài, Hoàn Kiếm, Hà Nội",
+  "email": "kuns2cun@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "05:00",
+    "closeTime": "23:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

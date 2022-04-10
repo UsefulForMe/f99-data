@@ -1,0 +1,35 @@
+{
+  "id": 966,
+  "name": "Bếp Mẹ Mon",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/b5e05796-9707-435d-a783-4a5fe89c3049.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cung cấp sản phẩm món ăn ngon cho gia đình,nội trợ,liên hoan,lễ tết...",
+  "headQuarter": "Số 31 ngõ 251 Kim Mã, Phường Kim Mã, Quận Ba Đình, TP Hà Nội, Kim Mã, Ba Đình, Hà Nội",
+  "email": "Kienken69@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "09:30",
+    "closeTime": "22:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

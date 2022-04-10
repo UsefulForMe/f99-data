@@ -1,0 +1,35 @@
+{
+  "id": 432,
+  "name": "Bảo Duy - Eco Food",
+  "logo": "https://cdn.f99.link/groupbuy-images/fdcdc3f4-3ffe-4f48-b03b-bf2e8a5a39e2.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp thực phẩm sạch, hàng chất lượng cao, các sản phẩm được nhiều người tin dung.",
+  "headQuarter": "407 Giải Phóng, Phương Liệt, Thanh Xuân, Hà Nội, Việt Nam",
+  "email": "baoduyfinance@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.4,
+  "availableTime": {
+    "openTime": "05:00",
+    "closeTime": "23:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 14
+}

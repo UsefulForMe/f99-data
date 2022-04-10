@@ -1,0 +1,35 @@
+{
+  "id": 199,
+  "name": "Gia Ngọc Food",
+  "logo": "https://cdn.f99.link/groupbuy-images/bb8ef1a4-89d7-4924-ab13-30039294bf15.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "CTY TNHH TM GIA NGOC - nhà nhập khẩu, phân phối Thực Phẩm nhập khẩu từ Mỹ, Canada, Úc... có mặt trên thị trường Việt Nam 8 năm qua luôn khẳng định giá trị Sp Chất lượng - Uy Tín - được người tiêu dùng Tin Tưởng lựa chọn",
+  "headQuarter": "Số 26 ngõ 115 nguyễn khang -yên hòa -cầu giấy -hà nội ",
+  "email": "diep.hcx@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.8,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 133
+}

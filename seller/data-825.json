@@ -1,0 +1,35 @@
+{
+  "id": 825,
+  "name": "Di Fresh – Trái cây tươi, quà tặng trái cây",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/c3444e95-0a88-4aee-9342-90f10ff081fb.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Nhà phân phối trái cây nhập khẩu, dịch vụ quà tặng quà biếu Tết trái cây tươi, cung cấp các sản phẩm hạt thuần thiên nhiên, giàu dinh dưỡng",
+  "headQuarter": "4/36/12 Nguyễn Văn Thương, 25, Bình Thạnh, Hồ Chí Minh",
+  "email": "Dinhtuy.tran@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "07:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

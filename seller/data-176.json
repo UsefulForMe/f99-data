@@ -1,0 +1,35 @@
+{
+  "id": 176,
+  "name": "Luôn Tươi Ngon",
+  "logo": "https://cdn.f99.link/groupbuy-images/65cfff26-724a-4cde-83a6-6461f1fa6ef0.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Luôn Tươi Ngon",
+  "headQuarter": "SN 50 ngõ 232 Trần Điền, Định Công, Hoàng Mai, Hà Nội",
+  "email": "nguyenthithucan.159@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "16:30",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 162
+}

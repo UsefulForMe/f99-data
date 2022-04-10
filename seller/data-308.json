@@ -1,0 +1,35 @@
+{
+  "id": 308,
+  "name": "Chipmart – Siêu thị thực phẩm",
+  "logo": "https://cdn.f99.link/groupbuy-images/69357298-f35d-4344-8831-afd811133ea9.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chipmart là nhà phân phối chuyên nghiệp với nhiều năm kinh nghiệm trong lĩnh vực thực phẩm chuyên cung cấp các món ăn LẨU, MÓN LÀM MÂM CỖ, ĂN VẶT Tất cả các món này đều được chúng tôi tuyển chọn kỹ lưỡng sau quá trình ăn thử cả nghìn sản phẩm với tiêu chí mang đến cho khách hàng những sản phẩm NGON – LÀNH – SẠCH Chipmart cam kết: \n- 100% sản phẩm nguồn gốc xuất xứ rõ rang\n- Chất lượng hàng đầu với giá cả hợp lý \n- Đội ngũ nhân viên chuyên nghiệp - Chế độ hậu mãi 5*",
+  "headQuarter": "Số 202 Đê La Thành, Thổ Quan, Đống Đa, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.3,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 21
+}

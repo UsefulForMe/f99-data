@@ -1,0 +1,35 @@
+{
+  "id": 983,
+  "name": "Sữa Việt",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/9eeeac00-232f-475c-9881-c626fb626721.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Công ty CP Thực Phẩm Sữa Việt – Nhà phân phối khu vực Hà Nội các sản phẩm Sữa BA Vì và nước ion Kiềm Fujiwa",
+  "headQuarter": "Số 4 ngõ 61 Phùng Chí Kiên, phường Nghĩa Đô, Cầu Giấy, Hà Nội, Nghĩa Đô, Cầu Giấy, Hà Nội",
+  "email": "suaviet61@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "07:30",
+    "closeTime": "17:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

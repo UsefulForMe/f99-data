@@ -1,0 +1,35 @@
+{
+  "id": 728,
+  "name": "Duy Food -Tổng kho Mì Indomie & Thực Phẩm Đông Lạnh",
+  "logo": "https://cdn.f99.link/groupbuy-images/cde8ecb7-a56c-4e6a-b101-7a24bf374139.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp mì Indomiee và thực phẩm đông lạnh",
+  "headQuarter": "60 ngõ 19 Trần Quang Diệu( đi hết ngõ 19 rẽ phải canh cổng mầm non), Ô Chợ Dừa, Đống Đa, Hà Nội",
+  "email": "huuduykh@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 5,
+  "availableTime": {
+    "openTime": "00:00",
+    "closeTime": "23:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 133
+}

@@ -1,0 +1,35 @@
+{
+  "id": 365,
+  "name": "Seaprodex Hải Thành",
+  "logo": "https://cdn.f99.link/groupbuy-images/e8b1f0aa-466b-4b17-b6da-ce230f9a2e25.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Công ty CP Thực phẩm Hải Thành chuyên cung cấp các sản phẩm thủy hải sản sạch trong nước và nhập khẩu, chất lượng đảm bảo vệ sinh. Nguồn cá nhập khẩu từ các vùng biển Âu – Mỹ, quy trình cấp đông và chế biến chuẩn quốc tế khiến sản phẩm giữ được độ tươi ngon tuyệt hảo. Tôn chỉ của Công ty là : “ THỰC PHẨM SẠCH, MINH BẠCH”",
+  "headQuarter": "Số 10 Nguyễn Công Hoan, Giảng Võ, Ba Đình, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 14
+}

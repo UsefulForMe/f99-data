@@ -1,0 +1,35 @@
+{
+  "id": 626,
+  "name": "Giò bê bà Sự",
+  "logo": "https://cdn.f99.link/groupbuy-images/91270734-43ac-47f6-90ea-7a23eb2f782b.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Thương hiệu Giò Bê Gia Truyền uy tín chuyên phân phối và cung cấp trên khắp các tỉnh thành Việt Nam. Cung cấp sỉ lẻ số lượng lớn lh 0983682168",
+  "headQuarter": "CT3, Ecogreen, 286 Nguyễn Xiển, Tân Triều, Thanh Trì, Hà Nội",
+  "email": "Hung.sme@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 3.7,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 6
+}

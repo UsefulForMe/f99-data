@@ -1,0 +1,35 @@
+{
+  "id": 754,
+  "name": "Bột Rau Củ Organic Food",
+  "logo": "https://cdn.f99.link/groupbuy-images/20a30afe-b2ce-4ca0-ba8f-2faebe650e6c.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Nhà phân phối sản phẩm bột rau củ thương hiệu Dalahouse",
+  "headQuarter": "76A Lê Minh Nhựt, ấp Chánh, Tân Thông Hội, Củ Chi, Hồ Chí Minh",
+  "email": "phamthienhoa11@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "22:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

@@ -1,0 +1,35 @@
+{
+  "id": 307,
+  "name": "Australian Fresh Beef",
+  "logo": "https://cdn.f99.link/groupbuy-images/4cd45ec2-3912-4b44-9d1d-d6d95227ad2c.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Công ty TNHH thực phẩm tươi sạch Victoria chuyên phân phối và nhập khẩu thịt bò ÚC tươi và sạch, Chúng tôi cam kết: Thịt bò được nhập khẩu chính ngạch, có đầy đủ các giấy về xuất xứ, kiểm dịch động vật, VSATTP…đảm bảo sức khoẻ cho mọi gia đình",
+  "headQuarter": "Số 29 Lê Văn Lương, Trung Hòa, Cầu Giấy, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

@@ -1,0 +1,35 @@
+{
+  "id": 88,
+  "name": "BIO FRUITS",
+  "logo": "https://cdn.f99.link/groupbuy-images/94daa3c9-1990-4945-8bb2-7bdd662af46d.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "BIO FRUITS: Nhà bán lẻ Trái cây Nhập Khẩu và Trái cây Nội địa hàng đầu Việt Nam. \nBIO Fruits cam kết mang đến các sản phẩm TRÁI CÂY SẠCH – TƯƠI NGON – GIÁ TỐT \n",
+  "headQuarter": "Số 2B Lê Văn Thiêm, Thanh Xuân Trung, Thanh Xuân , Hà Nội",
+  "email": "hangphoenix87@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 15
+}

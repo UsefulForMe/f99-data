@@ -1,0 +1,35 @@
+{
+  "id": 839,
+  "name": "SOP - Gạo vi sinh",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/0059247e-d27e-40c2-8ba4-f5b3b99b259b.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Phân phối gạo vi sinh của công ty SOP tại Việt Nam.",
+  "headQuarter": "Phòng 102B ngõ 122 Thái Thịnh, Thịnh Quang, Đống Đa, Hà Nội",
+  "email": "Hoangduongcoltd1@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "17:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

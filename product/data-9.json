@@ -1,0 +1,3413 @@
+[
+  {
+    "id": 7081,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Sầu riêng đông lạnh hộp 500g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p class=\"ql-align-justify\"><strong>Đặc điểm</strong>: Sầu Riêng đông lạnh là giống sầu chín cây, được tuyển chọn khắt khe từ vườn, đảm bảo tiêu chuẩn an toàn thực phẩm. Sầu dày cơm, thơm ngon, múi vàng nhẹ.</p><p class=\"ql-align-justify\"><strong>Dinh dưỡng và sức khỏe</strong> : Sầu riêng có chứa hàm lượng amino acid tryptophan cao, đây là chất làm tăng tâm tính, tạo ra những cảm giác khác lạ thông qua cơ chế làm tăng hàm lượng serotonin trong não. Ngoài ra, hàm lượng protein trong sầu giúp cơ bắp phát triển tốt, hỗ trợ cường dương, thịnh tinh cho phái mạnh.</p><p class=\"ql-align-justify\"><strong>Hướng dẫn bảo quản:</strong> Trong ngăn đá tủ lạnh</p><p><strong>Hướng dẫn sử dụng: </strong> Rã đông 15 – 20 phút sau đó thưởng thức</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/07841dc5-e7d9-426e-b73b-70a03109ff59.png\",\"https://images.f99.com.vn/images/fc0be002-fdf6-4485-9cdb-1b72778876c2.jpg\",\"https://images.f99.com.vn/images/00a925e8-a266-46b8-9d3b-56017b1d669d.jpg\",\"https://images.f99.com.vn/images/8a357e20-e3e7-4381-8759-e0d3f212bd2f.jpg\",\"https://images.f99.com.vn/images/eac7e3dc-c4b8-4b64-afce-83166dcde020.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Sầu riêng đông lạnh hộp 500g",
+    "description": "<p class=\"ql-align-justify\"><strong>Đặc điểm</strong>: Sầu Riêng đông lạnh là giống sầu chín cây, được tuyển chọn khắt khe từ vườn, đảm bảo tiêu chuẩn an toàn thực phẩm. Sầu dày cơm, thơm ngon, múi vàng nhẹ.</p><p class=\"ql-align-justify\"><strong>Dinh dưỡng và sức khỏe</strong> : Sầu riêng có chứa hàm lượng amino acid tryptophan cao, đây là chất làm tăng tâm tính, tạo ra những cảm giác khác lạ thông qua cơ chế làm tăng hàm lượng serotonin trong não. Ngoài ra, hàm lượng protein trong sầu giúp cơ bắp phát triển tốt, hỗ trợ cường dương, thịnh tinh cho phái mạnh.</p><p class=\"ql-align-justify\"><strong>Hướng dẫn bảo quản:</strong> Trong ngăn đá tủ lạnh</p><p><strong>Hướng dẫn sử dụng: </strong> Rã đông 15 – 20 phút sau đó thưởng thức</p>",
+    "imageUrl": "https://images.f99.com.vn/images/07841dc5-e7d9-426e-b73b-70a03109ff59.png",
+    "price": 219000,
+    "oldPrice": 250000,
+    "discountPercent": 12,
+    "stock": 44,
+    "totalSold": 352,
+    "maxQuantityPerUser": null,
+    "unit": "Hộp ",
+    "sku": "20001682",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 9,
+      "name": "Sầu riêng",
+      "imageUrl": "https://imgur.com/kBDVNwm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/07841dc5-e7d9-426e-b73b-70a03109ff59.png",
+      "https://images.f99.com.vn/images/fc0be002-fdf6-4485-9cdb-1b72778876c2.jpg",
+      "https://images.f99.com.vn/images/00a925e8-a266-46b8-9d3b-56017b1d669d.jpg",
+      "https://images.f99.com.vn/images/8a357e20-e3e7-4381-8759-e0d3f212bd2f.jpg",
+      "https://images.f99.com.vn/images/eac7e3dc-c4b8-4b64-afce-83166dcde020.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7081",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 34772,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Sầu Riêng Tươi Cấp Đông",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Ui nó ngon mà rẻ nữa á :)))</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/9132d14f-f0eb-432f-907b-481866564acf.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"sâu riêng\",\"sầu riêng tươi cấp đông\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Sầu Riêng Tươi Cấp Đông",
+    "description": "<p>Ui nó ngon mà rẻ nữa á :)))</p>",
+    "imageUrl": "https://images.f99.com.vn/images/9132d14f-f0eb-432f-907b-481866564acf.jpg",
+    "price": 210000,
+    "oldPrice": 220000,
+    "discountPercent": 5,
+    "stock": 2000,
+    "totalSold": 67,
+    "maxQuantityPerUser": null,
+    "unit": "1 gói",
+    "sku": "",
+    "origin": "",
+    "sellerId": 524,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 9,
+      "name": "Sầu riêng",
+      "imageUrl": "https://imgur.com/kBDVNwm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "sâu riêng",
+      "sầu riêng tươi cấp đông"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/9132d14f-f0eb-432f-907b-481866564acf.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/34772",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 gói",
+          "2 gói"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 34778,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 gói",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 gói",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 gói",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 210000,
+        "oldPrice": 220000,
+        "discountPercent": 5,
+        "stock": 1000,
+        "totalSold": 34,
+        "unit": "1 gói",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 gói"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 34777,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2 gói",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "2 gói",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2 gói",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 410000,
+        "oldPrice": 220000,
+        "discountPercent": -86,
+        "stock": 1000,
+        "totalSold": 33,
+        "unit": "1 gói",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "2 gói"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 524,
+      "sellerRate": 4.7,
+      "sellerName": "HOME MARKET",
+      "warehouseId": "fb9e99f3-40d0-4d6a-a2a2-102cf5d30eac",
+      "warehouseAddress": "Sân chơi A4 ngõ 119 Hồ Đắc Di, phường Nam Đồng, Đống Đa, Hà Nội",
+      "distance": 1826,
+      "warehouseDistrict": "dong da",
+      "reputation": 70.20266666666667,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 49412,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Sầu riêng Thái, Ri6",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Sầu Thái montghong, Ri6 tiêu chuẩn xuất khẩu chuẩn Vietgap, Phúc Lầm tuyển chọn sầu loại 1 bao ngon, bao đổi trả hoàn nếu hỏng/sượng. Thị trường rất ưa chuộng, cơm sầu thơm nức và rất ngậy, bùi. Giá 170k/kg quả, quả từ 2.5kg trở lên.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/1c9bbe9b-859b-466f-b444-d2081e06ce7b.jpg\",\"https://images.f99.com.vn/images/f7ea1c5b-16bc-4979-b01e-a117c945dc6f.jpg\",\"https://images.f99.com.vn/images/c946feb6-aecc-4da0-8271-a4e612cf053f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Sầu riêng Thái, Ri6",
+    "description": "<p>Sầu Thái montghong, Ri6 tiêu chuẩn xuất khẩu chuẩn Vietgap, Phúc Lầm tuyển chọn sầu loại 1 bao ngon, bao đổi trả hoàn nếu hỏng/sượng. Thị trường rất ưa chuộng, cơm sầu thơm nức và rất ngậy, bùi. Giá 170k/kg quả, quả từ 2.5kg trở lên.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/1c9bbe9b-859b-466f-b444-d2081e06ce7b.jpg",
+    "price": 170000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 10000,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 743,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ở nhiệt độ thường, thoáng mát, không bị nước và ánh nắng chiếu trực tiếp.</p><p>Khi có các dấu hiệu sau chứng tỏ quả sầu đã chín: mùi thơm và gai mềm.</p>",
+    "category": {
+      "id": 9,
+      "name": "Sầu riêng",
+      "imageUrl": "https://imgur.com/kBDVNwm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/1c9bbe9b-859b-466f-b444-d2081e06ce7b.jpg",
+      "https://images.f99.com.vn/images/f7ea1c5b-16bc-4979-b01e-a117c945dc6f.jpg",
+      "https://images.f99.com.vn/images/c946feb6-aecc-4da0-8271-a4e612cf053f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/49412",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "2.5kg",
+          "3.5kg",
+          "3kg",
+          "4kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 70008,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2.5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "2.5kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2.5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 425000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 2500,
+        "totalSold": 1,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ở nhiệt độ thường, thoáng mát, không bị nước và ánh nắng chiếu trực tiếp.</p><p>Khi có các dấu hiệu sau chứng tỏ quả sầu đã chín: mùi thơm và gai mềm.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "2.5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 70006,
+        "attributeTextValues": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "3kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 510000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 2500,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ở nhiệt độ thường, thoáng mát, không bị nước và ánh nắng chiếu trực tiếp.</p><p>Khi có các dấu hiệu sau chứng tỏ quả sầu đã chín: mùi thơm và gai mềm.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 70005,
+        "attributeTextValues": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "3.5kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "3.5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "3.5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 595000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 2500,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ở nhiệt độ thường, thoáng mát, không bị nước và ánh nắng chiếu trực tiếp.</p><p>Khi có các dấu hiệu sau chứng tỏ quả sầu đã chín: mùi thơm và gai mềm.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "3.5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 70004,
+        "attributeTextValues": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "4kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "4kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "4kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 680000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 2500,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ở nhiệt độ thường, thoáng mát, không bị nước và ánh nắng chiếu trực tiếp.</p><p>Khi có các dấu hiệu sau chứng tỏ quả sầu đã chín: mùi thơm và gai mềm.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "4kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 743,
+      "sellerRate": 4.1,
+      "sellerName": "Phúc Lâm Foods",
+      "warehouseId": "21a7eee3-be62-4aeb-8bf3-5e0e42c04450",
+      "warehouseAddress": "130E Thụy Khuê, Tây Hồ, Hà Nội ",
+      "distance": 2009,
+      "warehouseDistrict": "tay ho",
+      "reputation": 55.27933333333387,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 49413,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cơm sầu Ri6 xuất Nhật, EU",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Cơm sầu riêng Ri6 xuất khẩu Nhật, EU, tiêu chuẩn Vietgap được rất nhiều tín đồ sầu ở HN tin dùng và ủng hộ. Giá 450k/kg</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/3b19bd0c-a1dc-4233-87a3-91f2c904888e.jpg\",\"https://images.f99.com.vn/images/cfad8605-88e5-46c6-a052-e5fe2b87ec56.jpg\",\"https://images.f99.com.vn/images/f630f57a-d8b3-4db7-827c-cd34483568cd.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cơm sầu Ri6 xuất Nhật, EU",
+    "description": "<p>Cơm sầu riêng Ri6 xuất khẩu Nhật, EU, tiêu chuẩn Vietgap được rất nhiều tín đồ sầu ở HN tin dùng và ủng hộ. Giá 450k/kg</p>",
+    "imageUrl": "https://images.f99.com.vn/images/3b19bd0c-a1dc-4233-87a3-91f2c904888e.jpg",
+    "price": 500000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 100,
+    "totalSold": 4,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "80002",
+    "origin": "",
+    "sellerId": 743,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<ul><li>Tủ mát: ăn trong 2-3 ngày</li><li>Muốn bảo quản tủ đá: hút chân không lại sau khi đã bỏ tủ đá 1-2 tiếng.</li></ul>",
+    "category": {
+      "id": 9,
+      "name": "Sầu riêng",
+      "imageUrl": "https://imgur.com/kBDVNwm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/3b19bd0c-a1dc-4233-87a3-91f2c904888e.jpg",
+      "https://images.f99.com.vn/images/cfad8605-88e5-46c6-a052-e5fe2b87ec56.jpg",
+      "https://images.f99.com.vn/images/f630f57a-d8b3-4db7-827c-cd34483568cd.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/49413",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 56156,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 500000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 4,
+        "unit": "Kg",
+        "sku": "80002",
+        "rating": 0,
+        "instructions": "<ul><li>Tủ mát: ăn trong 2-3 ngày</li><li>Muốn bảo quản tủ đá: hút chân không lại sau khi đã bỏ tủ đá 1-2 tiếng.</li></ul>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 743,
+      "sellerRate": 4.1,
+      "sellerName": "Phúc Lâm Foods",
+      "warehouseId": "21a7eee3-be62-4aeb-8bf3-5e0e42c04450",
+      "warehouseAddress": "130E Thụy Khuê, Tây Hồ, Hà Nội ",
+      "distance": 2009,
+      "warehouseDistrict": "tay ho",
+      "reputation": 55.27933333333387,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 50388,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Sầu Ri6 Xuất khẩu Nhật, EU",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Sầu riêng Ri6 Xuất khẩu Nhật Bản đã có mặt tại Phúc Lâm, Phúc Lâm đã đàm phán được lô này để tiêu thụ thị trường trong nước, để cho khách hàng trong nước được thưởng thức đồ tiêu chuẩn xuất khẩu.</p><p>Giá 170k/kg quả, 450k/kg cơm. </p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/e37079e6-3d4a-48dd-bee7-b790b5540e1e.jpg\",\"https://images.f99.com.vn/images/8496960a-2cec-4f67-863a-4c05a13fd548.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Sầu Ri6 Xuất khẩu Nhật, EU",
+    "description": "<p>Sầu riêng Ri6 Xuất khẩu Nhật Bản đã có mặt tại Phúc Lâm, Phúc Lâm đã đàm phán được lô này để tiêu thụ thị trường trong nước, để cho khách hàng trong nước được thưởng thức đồ tiêu chuẩn xuất khẩu.</p><p>Giá 170k/kg quả, 450k/kg cơm. </p>",
+    "imageUrl": "https://images.f99.com.vn/images/e37079e6-3d4a-48dd-bee7-b790b5540e1e.jpg",
+    "price": 170000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1800,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 743,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo Quản nhiệt độ thường, khi chín sẽ thơm và gai mềm.</p>",
+    "category": {
+      "id": 9,
+      "name": "Sầu riêng",
+      "imageUrl": "https://imgur.com/kBDVNwm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/e37079e6-3d4a-48dd-bee7-b790b5540e1e.jpg",
+      "https://images.f99.com.vn/images/8496960a-2cec-4f67-863a-4c05a13fd548.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/50388",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "2.5kg",
+          "3.5kg",
+          "3kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 69998,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2.5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "2.5kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2.5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 425000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 600,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo Quản nhiệt độ thường, khi chín sẽ thơm và gai mềm.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "2.5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 69999,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "3kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 510000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 600,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo Quản nhiệt độ thường, khi chín sẽ thơm và gai mềm.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 70000,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "3.5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "3.5kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "3.5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 595000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 600,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo Quản nhiệt độ thường, khi chín sẽ thơm và gai mềm.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "3.5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 743,
+      "sellerRate": 4.1,
+      "sellerName": "Phúc Lâm Foods",
+      "warehouseId": "21a7eee3-be62-4aeb-8bf3-5e0e42c04450",
+      "warehouseAddress": "130E Thụy Khuê, Tây Hồ, Hà Nội ",
+      "distance": 2009,
+      "warehouseDistrict": "tay ho",
+      "reputation": 55.27933333333387,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 50390,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cơm sầu riêng nướng 1kg",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Cơm sầu riêng nướng thơm ngon béo ngậy, Phúc Lâm đang giảm giá 210k/kg cơm sầu nướng. Mời quý khách đặt hàng</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/095f808a-81e4-41a4-95ed-90b02913f068.jpg\",\"https://images.f99.com.vn/images/ae9f2bc1-2257-49ea-93a6-1c05365d3c26.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cơm sầu riêng nướng 1kg",
+    "description": "<p>Cơm sầu riêng nướng thơm ngon béo ngậy, Phúc Lâm đang giảm giá 210k/kg cơm sầu nướng. Mời quý khách đặt hàng</p>",
+    "imageUrl": "https://images.f99.com.vn/images/095f808a-81e4-41a4-95ed-90b02913f068.jpg",
+    "price": 210000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1000,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 743,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Ăn ngay hoặc bỏ tủ lạnh ăn trong ngày</p>",
+    "category": {
+      "id": 9,
+      "name": "Sầu riêng",
+      "imageUrl": "https://imgur.com/kBDVNwm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/095f808a-81e4-41a4-95ed-90b02913f068.jpg",
+      "https://images.f99.com.vn/images/ae9f2bc1-2257-49ea-93a6-1c05365d3c26.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/50390",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 69270,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 210000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 1000,
+        "totalSold": 1,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Ăn ngay hoặc bỏ tủ lạnh ăn trong ngày</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 743,
+      "sellerRate": 4.1,
+      "sellerName": "Phúc Lâm Foods",
+      "warehouseId": "21a7eee3-be62-4aeb-8bf3-5e0e42c04450",
+      "warehouseAddress": "130E Thụy Khuê, Tây Hồ, Hà Nội ",
+      "distance": 2009,
+      "warehouseDistrict": "tay ho",
+      "reputation": 55.27933333333387,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 50801,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Sầu Riêng",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>thơm ngon hết nấc luôn á cả nhà</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/2f4d3fed-637e-44d1-a49a-33201463078c.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"sầu riêng\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Sầu Riêng",
+    "description": "<p>thơm ngon hết nấc luôn á cả nhà</p>",
+    "imageUrl": "https://images.f99.com.vn/images/2f4d3fed-637e-44d1-a49a-33201463078c.jpg",
+    "price": 99000,
+    "oldPrice": 109000,
+    "discountPercent": 9,
+    "stock": 0,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 484,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 9,
+      "name": "Sầu riêng",
+      "imageUrl": "https://imgur.com/kBDVNwm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "sầu riêng"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/2f4d3fed-637e-44d1-a49a-33201463078c.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/50801",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg",
+          "2kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 81238,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 99000,
+        "oldPrice": 109000,
+        "discountPercent": 9,
+        "stock": 0,
+        "totalSold": 0,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 81237,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 195000,
+        "oldPrice": 109000,
+        "discountPercent": -79,
+        "stock": 0,
+        "totalSold": 0,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "2kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 484,
+      "sellerRate": 4.6,
+      "sellerName": "HOME FRUITS",
+      "warehouseId": "c9100430-cbd7-4e59-a914-9ce7a7071cbc",
+      "warehouseAddress": "Số 172 Trần Bình, phường Mỹ Đình, Quận Nam Từ Liêm, Hà Nội",
+      "distance": 6740,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 80.48249894439043,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 68685,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Sầu Thái mini - VIHAFOOD",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/4097fe44-0716-436d-a765-01af51e775ba.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Sầu Thái mini - VIHAFOOD",
+    "description": "<p>.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/4097fe44-0716-436d-a765-01af51e775ba.jpg",
+    "price": 149000,
+    "oldPrice": 225000,
+    "discountPercent": 34,
+    "stock": 0,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "1.4-1.6kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 244,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>.</p>",
+    "category": {
+      "id": 9,
+      "name": "Sầu riêng",
+      "imageUrl": "https://imgur.com/kBDVNwm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/4097fe44-0716-436d-a765-01af51e775ba.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/68685",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1.4-1.6kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 68686,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1.4-1.6kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1.4-1.6kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1.4-1.6kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 149000,
+        "oldPrice": 225000,
+        "discountPercent": 34,
+        "stock": 0,
+        "totalSold": 2,
+        "unit": "1.4-1.6kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1.4-1.6kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 244,
+      "sellerRate": 4.7,
+      "sellerName": "VIHAFOOD - Đặc sản vùng miền",
+      "warehouseId": "cf85b1b1-6f2a-49b3-b125-e261f6bfc30a",
+      "warehouseAddress": "111 Phố Đội Cấn, Ba Đình, Hà Nội",
+      "distance": 1098,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 80.86123101095345,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 70009,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cơm sầu riêng Thái, Ri6 ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Cơm sầu riêng Thái, Ri6 được Phúc Lâm lựa chọn từ vườn sầu riêng tiêu chuẩn Vietgap</p><p>Giá đang ưu đãi, cơm sầu 2 loại giá bằng nhau 500k/kg cơm.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/9ac16966-dd24-4633-9688-1768a018da07.jpg\",\"https://images.f99.com.vn/images/86eb52ba-38da-447a-a315-af1ebd8c34fc.jpg\",\"https://images.f99.com.vn/images/6cade79b-5e0a-498c-9f17-6be49213c79a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cơm sầu riêng Thái, Ri6 ",
+    "description": "<p>Cơm sầu riêng Thái, Ri6 được Phúc Lâm lựa chọn từ vườn sầu riêng tiêu chuẩn Vietgap</p><p>Giá đang ưu đãi, cơm sầu 2 loại giá bằng nhau 500k/kg cơm.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/9ac16966-dd24-4633-9688-1768a018da07.jpg",
+    "price": 500000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 500,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 743,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 9,
+      "name": "Sầu riêng",
+      "imageUrl": "https://imgur.com/kBDVNwm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/9ac16966-dd24-4633-9688-1768a018da07.jpg",
+      "https://images.f99.com.vn/images/86eb52ba-38da-447a-a315-af1ebd8c34fc.jpg",
+      "https://images.f99.com.vn/images/6cade79b-5e0a-498c-9f17-6be49213c79a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/70009",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 70010,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 500000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 500,
+        "totalSold": 1,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 743,
+      "sellerRate": 4.1,
+      "sellerName": "Phúc Lâm Foods",
+      "warehouseId": "21a7eee3-be62-4aeb-8bf3-5e0e42c04450",
+      "warehouseAddress": "130E Thụy Khuê, Tây Hồ, Hà Nội ",
+      "distance": 2009,
+      "warehouseDistrict": "tay ho",
+      "reputation": 55.27933333333387,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 83582,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Táo Ambrosia Canada",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Táo Ambrosia xuất xứ từ Canada</p><p>Táo giòn, ngọt, tươi ngon.</p><p>Trọng lượng: 1kg</p><p>*Trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>👍Cách bảo quản:</p><p>- Bọc kín trong hộp hoặc túi nilon bảo quản trong ngăn mát đối với rau củ quả/ ngăn đá đối với thịt/ cá</p><p>👍Cam kết của HOMEYFOOD đối với khách hàng:</p><p>- Sản phẩm có xuất xứ rõ ràng</p><p>- Quá trình chăn nuôi, trồng trọt không sử dụng hóa chất có hại cho sức khỏe</p><p>- Quy trình sơ chế và đóng gói đảm bảo vệ sinh an toàn thực phẩm</p><p>- Cam kết hoàn trả nếu phát hiện sản phẩm thiếu, hỏng</p><p><br></p><p>Với tâm huyết mang đến sản phẩm chất lượng hơn mỗi ngày, chúng mình luôn sẵn sàng lắng nghe phản hồi của các bạn qua:</p><p>Hotline: 082.3232374</p><p>Fanpage: Homeyfood.net</p><p>Website: https://www.homeyfood.net</p><p>Mua hàng tại Shopee: Homeyfood.net</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/b96151f3-4c9f-43f2-9664-c59b7e0f2769.jpg\",\"https://images.f99.com.vn/images/68a45ca0-8d1a-40ff-b89b-1be6ec422b7f.png\",\"https://images.f99.com.vn/images/1d42f105-9207-4323-b339-4d581030b331.jpg\",\"https://images.f99.com.vn/images/9e71c66e-0968-4909-8ba4-1b94a445c8f6.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Táo Ambrosia Canada",
+    "description": "<p>Táo Ambrosia xuất xứ từ Canada</p><p>Táo giòn, ngọt, tươi ngon.</p><p>Trọng lượng: 1kg</p><p>*Trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>👍Cách bảo quản:</p><p>- Bọc kín trong hộp hoặc túi nilon bảo quản trong ngăn mát đối với rau củ quả/ ngăn đá đối với thịt/ cá</p><p>👍Cam kết của HOMEYFOOD đối với khách hàng:</p><p>- Sản phẩm có xuất xứ rõ ràng</p><p>- Quá trình chăn nuôi, trồng trọt không sử dụng hóa chất có hại cho sức khỏe</p><p>- Quy trình sơ chế và đóng gói đảm bảo vệ sinh an toàn thực phẩm</p><p>- Cam kết hoàn trả nếu phát hiện sản phẩm thiếu, hỏng</p><p><br></p><p>Với tâm huyết mang đến sản phẩm chất lượng hơn mỗi ngày, chúng mình luôn sẵn sàng lắng nghe phản hồi của các bạn qua:</p><p>Hotline: 082.3232374</p><p>Fanpage: Homeyfood.net</p><p>Website: https://www.homeyfood.net</p><p>Mua hàng tại Shopee: Homeyfood.net</p>",
+    "imageUrl": "https://images.f99.com.vn/images/b96151f3-4c9f-43f2-9664-c59b7e0f2769.jpg",
+    "price": 135000,
+    "oldPrice": 200000,
+    "discountPercent": 32,
+    "stock": 9999,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "1 kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 240,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 9,
+      "name": "Sầu riêng",
+      "imageUrl": "https://imgur.com/kBDVNwm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/b96151f3-4c9f-43f2-9664-c59b7e0f2769.jpg",
+      "https://images.f99.com.vn/images/68a45ca0-8d1a-40ff-b89b-1be6ec422b7f.png",
+      "https://images.f99.com.vn/images/1d42f105-9207-4323-b339-4d581030b331.jpg",
+      "https://images.f99.com.vn/images/9e71c66e-0968-4909-8ba4-1b94a445c8f6.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/83582",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 83583,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 135000,
+        "oldPrice": 200000,
+        "discountPercent": 32,
+        "stock": 9999,
+        "totalSold": 1,
+        "unit": "1 kg",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 240,
+      "sellerRate": 4.5,
+      "sellerName": "Homey Fruit & Veg ",
+      "warehouseId": "ccb00cae-e276-4a1b-af4a-ae822ab5c570",
+      "warehouseAddress": "số 52 ngõ 376 Bưởi, Vĩnh Phúc, Ba Đình, Hà Nội",
+      "distance": 3021,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 77.89029707147643,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 95718,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Sầu riêng ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Sầu riêng huỳnh lâm cấp đong đóng  hộp nhưng vẫn mang hương vị sầu tươi ăn ngon ngọt béo ngậy thơm không khác gì với sầu tươi tiêu chuẩn Việt gap . được đóng gói với trọng lượng 0,4kg một họp giá bán 180k/1hop </p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/45620c5e-7fbd-4961-935b-fc61cdb3901b.jpg\",\"https://images.f99.com.vn/images/0e5fee0e-1bf9-4bbd-a003-0643c48b0a3e.jpg\",\"https://images.f99.com.vn/images/7e30447e-3ec7-4803-b98a-1a080948b9b8.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Sầu riêng ",
+    "description": "<p>Sầu riêng huỳnh lâm cấp đong đóng  hộp nhưng vẫn mang hương vị sầu tươi ăn ngon ngọt béo ngậy thơm không khác gì với sầu tươi tiêu chuẩn Việt gap . được đóng gói với trọng lượng 0,4kg một họp giá bán 180k/1hop </p>",
+    "imageUrl": "https://images.f99.com.vn/images/45620c5e-7fbd-4961-935b-fc61cdb3901b.jpg",
+    "price": 180000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 12345667,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 882,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản trong tủ đá , trước khi ăn bỏ ra ngoài 30p  ăn và thưởng thức</p>",
+    "category": {
+      "id": 9,
+      "name": "Sầu riêng",
+      "imageUrl": "https://imgur.com/kBDVNwm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/45620c5e-7fbd-4961-935b-fc61cdb3901b.jpg",
+      "https://images.f99.com.vn/images/0e5fee0e-1bf9-4bbd-a003-0643c48b0a3e.jpg",
+      "https://images.f99.com.vn/images/7e30447e-3ec7-4803-b98a-1a080948b9b8.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/95718",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 95719,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 180000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 12345667,
+        "totalSold": 2,
+        "unit": "Kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản trong tủ đá , trước khi ăn bỏ ra ngoài 30p  ăn và thưởng thức</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 882,
+      "sellerRate": 4.3,
+      "sellerName": "CƯỜNG SẦU",
+      "warehouseId": "d29ee19b-2562-433d-825d-c1bc1c776b6a",
+      "warehouseAddress": " Hà Nội,  Tây Hồ,  Yên Phụ, 43/32 An Dương",
+      "distance": 2721,
+      "warehouseDistrict": "tay ho",
+      "reputation": 61.900000000000006,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 96033,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "COMBO 3 HỘP CƠM SẦU RI BAO NGON GIẢM CÒN 510k",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>CƠM sầu ri 6 BAO NGON BAO SẠCH HÀNG VIETGAP</p><p>HÔM NAY E VỀ TIẾP 50kg phục vụ các chị ạ</p><p>Sầu riêng ri6 hàng tươi cấp đông xuất khẩu sạch 100% ,bà bầu , trẻ con, ... ăn đảm bảo , ăn bao ngon&nbsp;</p><p>Quy cách đóng hộp 400g 1 hộp&nbsp;</p><p>Giá 180k 1 hộp&nbsp;</p><p> COMBO 3 hộp 510k</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/13faf8be-054f-4dcf-8df8-98a9913bcf72.jpeg\",\"https://images.f99.com.vn/images/4c0f3c8e-caf5-4e22-ab1a-da5f27d27a09.jpeg\",\"https://images.f99.com.vn/images/90e10d5b-4fa0-424a-82e4-105ba98a212d.jpeg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "COMBO 3 HỘP CƠM SẦU RI BAO NGON GIẢM CÒN 510k",
+    "description": "<p>CƠM sầu ri 6 BAO NGON BAO SẠCH HÀNG VIETGAP</p><p>HÔM NAY E VỀ TIẾP 50kg phục vụ các chị ạ</p><p>Sầu riêng ri6 hàng tươi cấp đông xuất khẩu sạch 100% ,bà bầu , trẻ con, ... ăn đảm bảo , ăn bao ngon&nbsp;</p><p>Quy cách đóng hộp 400g 1 hộp&nbsp;</p><p>Giá 180k 1 hộp&nbsp;</p><p> COMBO 3 hộp 510k</p>",
+    "imageUrl": "https://images.f99.com.vn/images/13faf8be-054f-4dcf-8df8-98a9913bcf72.jpeg",
+    "price": 510000,
+    "oldPrice": 540000,
+    "discountPercent": 6,
+    "stock": 50,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "1,2kg",
+    "sku": "10000",
+    "origin": "",
+    "sellerId": 952,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>ăn trực tiếp</p>",
+    "category": {
+      "id": 9,
+      "name": "Sầu riêng",
+      "imageUrl": "https://imgur.com/kBDVNwm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/13faf8be-054f-4dcf-8df8-98a9913bcf72.jpeg",
+      "https://images.f99.com.vn/images/4c0f3c8e-caf5-4e22-ab1a-da5f27d27a09.jpeg",
+      "https://images.f99.com.vn/images/90e10d5b-4fa0-424a-82e4-105ba98a212d.jpeg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/96033",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1,2kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 96034,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1,2kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1,2kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1,2kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 510000,
+        "oldPrice": 540000,
+        "discountPercent": 6,
+        "stock": 50,
+        "totalSold": 0,
+        "unit": "1,2kg",
+        "sku": "10000",
+        "rating": 0,
+        "instructions": "<p>ăn trực tiếp</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1,2kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 952,
+      "sellerRate": 4.3,
+      "sellerName": "SẦU RIÊNG HÀ NỘI",
+      "warehouseId": "e0c13f83-6096-4582-8452-239a0d04c359",
+      "warehouseAddress": "Số 43 ngõ 32 An Dương, Yên Phụ, Tây Hồ, Hà Nội",
+      "distance": 2792,
+      "warehouseDistrict": "tay ho",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 96126,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cơm sầu ri miền Tây hàng tươi cấp đông bao ngon 2hộp ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Cơm sầu ri miền tây hang tươi cấp đông bao ngon hàng xuất khẩu ‘ sầu nguồn gốc xuất xứ rõ ràng mã vạch check </p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/23cdf0bb-4f34-4464-aba7-4a837cb43470.jpeg\",\"https://images.f99.com.vn/images/7902420b-bb4b-44dd-b7c9-73cc55ee1bd0.jpeg\",\"https://images.f99.com.vn/images/6892ff07-7ede-4ea4-8975-005b5e51c473.jpeg\",\"https://images.f99.com.vn/images/54f9d789-eb57-40f8-a0f0-ef38e0ce4460.jpeg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cơm sầu ri miền Tây hàng tươi cấp đông bao ngon 2hộp ",
+    "description": "<p>Cơm sầu ri miền tây hang tươi cấp đông bao ngon hàng xuất khẩu ‘ sầu nguồn gốc xuất xứ rõ ràng mã vạch check </p>",
+    "imageUrl": "https://images.f99.com.vn/images/23cdf0bb-4f34-4464-aba7-4a837cb43470.jpeg",
+    "price": 380000,
+    "oldPrice": 500000,
+    "discountPercent": 24,
+    "stock": 900,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "800",
+    "sku": "123",
+    "origin": "",
+    "sellerId": 952,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Ăn trực tiếp </p>",
+    "category": {
+      "id": 9,
+      "name": "Sầu riêng",
+      "imageUrl": "https://imgur.com/kBDVNwm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/23cdf0bb-4f34-4464-aba7-4a837cb43470.jpeg",
+      "https://images.f99.com.vn/images/7902420b-bb4b-44dd-b7c9-73cc55ee1bd0.jpeg",
+      "https://images.f99.com.vn/images/6892ff07-7ede-4ea4-8975-005b5e51c473.jpeg",
+      "https://images.f99.com.vn/images/54f9d789-eb57-40f8-a0f0-ef38e0ce4460.jpeg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/96126",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "800"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 96127,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "800",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "800",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "800",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 380000,
+        "oldPrice": 500000,
+        "discountPercent": 24,
+        "stock": 900,
+        "totalSold": 0,
+        "unit": "800",
+        "sku": "123",
+        "rating": 0,
+        "instructions": "<p>Ăn trực tiếp </p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "800"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 952,
+      "sellerRate": 4.3,
+      "sellerName": "SẦU RIÊNG HÀ NỘI",
+      "warehouseId": "e0c13f83-6096-4582-8452-239a0d04c359",
+      "warehouseAddress": "Số 43 ngõ 32 An Dương, Yên Phụ, Tây Hồ, Hà Nội",
+      "distance": 2792,
+      "warehouseDistrict": "tay ho",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 96588,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Sầu riêng chín cây tự nhiên SACHICA cấp đông khay 400gr ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>DÀNH CHO CÁC CON NGHIỆN SẦU.</p><p>SẦU RIÊNG CHÍN CÂY TỰ NHIÊN SACHICA.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t1e/1/16/1f33f.png\" alt=\"🌿\" height=\"16\" width=\"16\">Sachica chính là \" <a href=\"https://www.facebook.com/hashtag/s%E1%BA%A7u_ri%C3%AAng_ch%C3%ADn_c%C3%A2y?__eep__=6&amp;__cft__[0]=AZWxRxM1WXn6tCIvkXmczS-b-hDD1HSXUx27qzFcwjoM95XGBfMJDEbrPDskYDg6optCRdlNhrImOrs136EdlE64WZKXzyheGgLCtfbvYViQGzFTHQW_qu-HdCOn3E2rpYf8D9OdEGQ-ECs-8Ld7y1_Wyfo39umjeTjMhGnn1RXoPsJKk83SoS_XRld6U0R0Mmk&amp;__tn__=*NK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">#Sầu_riêng_chín_cây</a>\", trái chín rụng hoàn toàn tự nhiên. Được trồng, chăm sóc, theo tiêu chuẩn nông nghiệp tốt VietGap.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t1e/1/16/1f33f.png\" alt=\"🌿\" height=\"16\" width=\"16\"> Sachica sử dụng giống sầu riêng khổ qua, không biến đổi gen. Trái sầu riêng khổ qua xanh có dạng thuôn hình quả trám, vỏ màu xanh, gai nhọn và đóng khá dày, Cưm của nó có mùi vị đặc trưng đó là hương thơm nồng nàn, vị ngọt đậm,dẻo và béo ngậy...</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t1e/1/16/1f33f.png\" alt=\"🌿\" height=\"16\" width=\"16\">Sachica không sử dụng thuốc bảo vệ thực vật, chỉ sử dụng các chế phẩm vi sinh vật EM để tăng sức chống chọi sâu bệnh cho cây trồng.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t1e/1/16/1f33f.png\" alt=\"🌿\" height=\"16\" width=\"16\">Sachica bảo quản bằng công nghệ IQF, bóc tách chọn lọc cơm sầu và cấp đông nhanh theo dây chuyền hiện đại đảm bảo VS ATTP.</p><p>&gt;&gt;&gt; Quy cách: Đóng khay 400gr cấp đông.</p><p>Bảo quản: Ngăn đông.</p><p>Sử dụng: Rã đông tự nhiên trước 20 phút</p><p>Mời bà con nhanh chóng thỏa cơn nghiền nào.</p><p><a href=\"https://www.facebook.com/hashtag/sauchincay?__eep__=6&amp;__cft__[0]=AZWxRxM1WXn6tCIvkXmczS-b-hDD1HSXUx27qzFcwjoM95XGBfMJDEbrPDskYDg6optCRdlNhrImOrs136EdlE64WZKXzyheGgLCtfbvYViQGzFTHQW_qu-HdCOn3E2rpYf8D9OdEGQ-ECs-8Ld7y1_Wyfo39umjeTjMhGnn1RXoPsJKk83SoS_XRld6U0R0Mmk&amp;__tn__=*NK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">#sauchincay</a> <a href=\"https://www.facebook.com/hashtag/sauriengkhoqua?__eep__=6&amp;__cft__[0]=AZWxRxM1WXn6tCIvkXmczS-b-hDD1HSXUx27qzFcwjoM95XGBfMJDEbrPDskYDg6optCRdlNhrImOrs136EdlE64WZKXzyheGgLCtfbvYViQGzFTHQW_qu-HdCOn3E2rpYf8D9OdEGQ-ECs-8Ld7y1_Wyfo39umjeTjMhGnn1RXoPsJKk83SoS_XRld6U0R0Mmk&amp;__tn__=*NK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">#sauriengkhoqua</a> <a href=\"https://www.facebook.com/hashtag/sauriengsach?__eep__=6&amp;__cft__[0]=AZWxRxM1WXn6tCIvkXmczS-b-hDD1HSXUx27qzFcwjoM95XGBfMJDEbrPDskYDg6optCRdlNhrImOrs136EdlE64WZKXzyheGgLCtfbvYViQGzFTHQW_qu-HdCOn3E2rpYf8D9OdEGQ-ECs-8Ld7y1_Wyfo39umjeTjMhGnn1RXoPsJKk83SoS_XRld6U0R0Mmk&amp;__tn__=*NK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">#sauriengsach</a> <a href=\"https://www.facebook.com/hashtag/saurienghuuco?__eep__=6&amp;__cft__[0]=AZWxRxM1WXn6tCIvkXmczS-b-hDD1HSXUx27qzFcwjoM95XGBfMJDEbrPDskYDg6optCRdlNhrImOrs136EdlE64WZKXzyheGgLCtfbvYViQGzFTHQW_qu-HdCOn3E2rpYf8D9OdEGQ-ECs-8Ld7y1_Wyfo39umjeTjMhGnn1RXoPsJKk83SoS_XRld6U0R0Mmk&amp;__tn__=*NK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">#saurienghuuco</a> <a href=\"https://www.facebook.com/hashtag/nghiensau?__eep__=6&amp;__cft__[0]=AZWxRxM1WXn6tCIvkXmczS-b-hDD1HSXUx27qzFcwjoM95XGBfMJDEbrPDskYDg6optCRdlNhrImOrs136EdlE64WZKXzyheGgLCtfbvYViQGzFTHQW_qu-HdCOn3E2rpYf8D9OdEGQ-ECs-8Ld7y1_Wyfo39umjeTjMhGnn1RXoPsJKk83SoS_XRld6U0R0Mmk&amp;__tn__=*NK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">#nghiensau</a>.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/6b98df26-165c-4b91-8cd5-47f64541299e.jpg\",\"https://images.f99.com.vn/images/79a10083-ec5d-4936-b6ef-cc57f694a629.jpg\",\"https://images.f99.com.vn/images/82fc693d-4ade-4fe5-a6cd-96816f329106.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"#saurieng\",\"#sauriengsachica\",\"#sauriengcapdong\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Sầu riêng chín cây tự nhiên SACHICA cấp đông khay 400gr ",
+    "description": "<p>DÀNH CHO CÁC CON NGHIỆN SẦU.</p><p>SẦU RIÊNG CHÍN CÂY TỰ NHIÊN SACHICA.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t1e/1/16/1f33f.png\" alt=\"🌿\" height=\"16\" width=\"16\">Sachica chính là \" <a href=\"https://www.facebook.com/hashtag/s%E1%BA%A7u_ri%C3%AAng_ch%C3%ADn_c%C3%A2y?__eep__=6&amp;__cft__[0]=AZWxRxM1WXn6tCIvkXmczS-b-hDD1HSXUx27qzFcwjoM95XGBfMJDEbrPDskYDg6optCRdlNhrImOrs136EdlE64WZKXzyheGgLCtfbvYViQGzFTHQW_qu-HdCOn3E2rpYf8D9OdEGQ-ECs-8Ld7y1_Wyfo39umjeTjMhGnn1RXoPsJKk83SoS_XRld6U0R0Mmk&amp;__tn__=*NK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">#Sầu_riêng_chín_cây</a>\", trái chín rụng hoàn toàn tự nhiên. Được trồng, chăm sóc, theo tiêu chuẩn nông nghiệp tốt VietGap.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t1e/1/16/1f33f.png\" alt=\"🌿\" height=\"16\" width=\"16\"> Sachica sử dụng giống sầu riêng khổ qua, không biến đổi gen. Trái sầu riêng khổ qua xanh có dạng thuôn hình quả trám, vỏ màu xanh, gai nhọn và đóng khá dày, Cưm của nó có mùi vị đặc trưng đó là hương thơm nồng nàn, vị ngọt đậm,dẻo và béo ngậy...</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t1e/1/16/1f33f.png\" alt=\"🌿\" height=\"16\" width=\"16\">Sachica không sử dụng thuốc bảo vệ thực vật, chỉ sử dụng các chế phẩm vi sinh vật EM để tăng sức chống chọi sâu bệnh cho cây trồng.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t1e/1/16/1f33f.png\" alt=\"🌿\" height=\"16\" width=\"16\">Sachica bảo quản bằng công nghệ IQF, bóc tách chọn lọc cơm sầu và cấp đông nhanh theo dây chuyền hiện đại đảm bảo VS ATTP.</p><p>&gt;&gt;&gt; Quy cách: Đóng khay 400gr cấp đông.</p><p>Bảo quản: Ngăn đông.</p><p>Sử dụng: Rã đông tự nhiên trước 20 phút</p><p>Mời bà con nhanh chóng thỏa cơn nghiền nào.</p><p><a href=\"https://www.facebook.com/hashtag/sauchincay?__eep__=6&amp;__cft__[0]=AZWxRxM1WXn6tCIvkXmczS-b-hDD1HSXUx27qzFcwjoM95XGBfMJDEbrPDskYDg6optCRdlNhrImOrs136EdlE64WZKXzyheGgLCtfbvYViQGzFTHQW_qu-HdCOn3E2rpYf8D9OdEGQ-ECs-8Ld7y1_Wyfo39umjeTjMhGnn1RXoPsJKk83SoS_XRld6U0R0Mmk&amp;__tn__=*NK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">#sauchincay</a> <a href=\"https://www.facebook.com/hashtag/sauriengkhoqua?__eep__=6&amp;__cft__[0]=AZWxRxM1WXn6tCIvkXmczS-b-hDD1HSXUx27qzFcwjoM95XGBfMJDEbrPDskYDg6optCRdlNhrImOrs136EdlE64WZKXzyheGgLCtfbvYViQGzFTHQW_qu-HdCOn3E2rpYf8D9OdEGQ-ECs-8Ld7y1_Wyfo39umjeTjMhGnn1RXoPsJKk83SoS_XRld6U0R0Mmk&amp;__tn__=*NK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">#sauriengkhoqua</a> <a href=\"https://www.facebook.com/hashtag/sauriengsach?__eep__=6&amp;__cft__[0]=AZWxRxM1WXn6tCIvkXmczS-b-hDD1HSXUx27qzFcwjoM95XGBfMJDEbrPDskYDg6optCRdlNhrImOrs136EdlE64WZKXzyheGgLCtfbvYViQGzFTHQW_qu-HdCOn3E2rpYf8D9OdEGQ-ECs-8Ld7y1_Wyfo39umjeTjMhGnn1RXoPsJKk83SoS_XRld6U0R0Mmk&amp;__tn__=*NK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">#sauriengsach</a> <a href=\"https://www.facebook.com/hashtag/saurienghuuco?__eep__=6&amp;__cft__[0]=AZWxRxM1WXn6tCIvkXmczS-b-hDD1HSXUx27qzFcwjoM95XGBfMJDEbrPDskYDg6optCRdlNhrImOrs136EdlE64WZKXzyheGgLCtfbvYViQGzFTHQW_qu-HdCOn3E2rpYf8D9OdEGQ-ECs-8Ld7y1_Wyfo39umjeTjMhGnn1RXoPsJKk83SoS_XRld6U0R0Mmk&amp;__tn__=*NK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">#saurienghuuco</a> <a href=\"https://www.facebook.com/hashtag/nghiensau?__eep__=6&amp;__cft__[0]=AZWxRxM1WXn6tCIvkXmczS-b-hDD1HSXUx27qzFcwjoM95XGBfMJDEbrPDskYDg6optCRdlNhrImOrs136EdlE64WZKXzyheGgLCtfbvYViQGzFTHQW_qu-HdCOn3E2rpYf8D9OdEGQ-ECs-8Ld7y1_Wyfo39umjeTjMhGnn1RXoPsJKk83SoS_XRld6U0R0Mmk&amp;__tn__=*NK-R\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--accent);\">#nghiensau</a>.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/6b98df26-165c-4b91-8cd5-47f64541299e.jpg",
+    "price": 230000,
+    "oldPrice": 250000,
+    "discountPercent": 8,
+    "stock": 10,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Khay 400gr",
+    "sku": "",
+    "origin": "",
+    "sellerId": 704,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>để ngăn đá, trước khi sử dụng giã đông tự nhiên 20p</p>",
+    "category": {
+      "id": 9,
+      "name": "Sầu riêng",
+      "imageUrl": "https://imgur.com/kBDVNwm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "#saurieng",
+      "#sauriengsachica",
+      "#sauriengcapdong"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/6b98df26-165c-4b91-8cd5-47f64541299e.jpg",
+      "https://images.f99.com.vn/images/79a10083-ec5d-4936-b6ef-cc57f694a629.jpg",
+      "https://images.f99.com.vn/images/82fc693d-4ade-4fe5-a6cd-96816f329106.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/96588",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Khay 400gr"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 96589,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Khay 400gr",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Khay 400gr",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Khay 400gr",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 230000,
+        "oldPrice": 250000,
+        "discountPercent": 8,
+        "stock": 10,
+        "totalSold": 0,
+        "unit": "Khay 400gr",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>để ngăn đá, trước khi sử dụng giã đông tự nhiên 20p</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Khay 400gr"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 704,
+      "sellerRate": 4.2,
+      "sellerName": "Cún Giỏ Minimart",
+      "warehouseId": "eaae98fe-1d93-4a7e-8058-bc29b30ce583",
+      "warehouseAddress": " Hà Nội,  Ba Đình,  Liễu Giai, 228 Đội Cấn",
+      "distance": 1841,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 97410,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "SẦU RIÊNG  HUỲNH LÂM CẤP ĐÔNG 400GR",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tfc/1/16/1f44d.png\" alt=\"👍\" height=\"16\" width=\"16\">𝐕𝐈Ệ𝐓 𝐍𝐀𝐌 ĐỆ 𝐍𝐇Ấ𝐓 𝐒Ầ𝐔 𝐑𝐈Ê𝐍𝐆 - 𝐑𝐈𝟔 𝐂Ơ𝐌 𝐕À𝐍𝐆 𝐁É𝐎 𝐍𝐆Ọ𝐓 𝐁𝐀𝐎 Ă𝐍</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tfc/1/16/1f44d.png\" alt=\"👍\" height=\"16\" width=\"16\">Sầu riêng Huỳnh Lâm Sầu đạt tiêu chuẩn Vietgap </p><p>-----</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t77/1/16/203c.png\" alt=\"‼️\" height=\"16\" width=\"16\">SẦU RI6 - Cơm vàng, hạt lép, múi to khô ráo</p><p>- Sầu riêng múi to, cơm vàng óng ánh, vị béo bùi đặc trưng của sầu riêng ri6.</p><p>- Cơm sầu vàng đầy, múi to, thơm, béo, dẻo ngọt.</p><p>- Sầu riêng sạch theo tiêu chuẩn Vietgap an toàn  </p><p>- Hàm lượng dinh dưỡng cao gấp nhiều lần sầu riêng Ri6 khác vì tiêu chuẩn Vietgap và Trái đủ ngày phát triển và tổng hợp chất và không chứa dư lượng chất tăng trưởng</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/a82ca821-be4e-4b3f-a575-bdfdcce48806.jpg\",\"https://images.f99.com.vn/images/a9709a9e-2168-4f36-bc88-918114937933.jpg\",\"https://images.f99.com.vn/images/42656d73-fbdc-4596-b451-df329fcae372.jpg\",\"https://images.f99.com.vn/images/9635858d-f312-477b-a352-cc5a1fa8ee37.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "SẦU RIÊNG  HUỲNH LÂM CẤP ĐÔNG 400GR",
+    "description": "<p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tfc/1/16/1f44d.png\" alt=\"👍\" height=\"16\" width=\"16\">𝐕𝐈Ệ𝐓 𝐍𝐀𝐌 ĐỆ 𝐍𝐇Ấ𝐓 𝐒Ầ𝐔 𝐑𝐈Ê𝐍𝐆 - 𝐑𝐈𝟔 𝐂Ơ𝐌 𝐕À𝐍𝐆 𝐁É𝐎 𝐍𝐆Ọ𝐓 𝐁𝐀𝐎 Ă𝐍</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tfc/1/16/1f44d.png\" alt=\"👍\" height=\"16\" width=\"16\">Sầu riêng Huỳnh Lâm Sầu đạt tiêu chuẩn Vietgap </p><p>-----</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t77/1/16/203c.png\" alt=\"‼️\" height=\"16\" width=\"16\">SẦU RI6 - Cơm vàng, hạt lép, múi to khô ráo</p><p>- Sầu riêng múi to, cơm vàng óng ánh, vị béo bùi đặc trưng của sầu riêng ri6.</p><p>- Cơm sầu vàng đầy, múi to, thơm, béo, dẻo ngọt.</p><p>- Sầu riêng sạch theo tiêu chuẩn Vietgap an toàn  </p><p>- Hàm lượng dinh dưỡng cao gấp nhiều lần sầu riêng Ri6 khác vì tiêu chuẩn Vietgap và Trái đủ ngày phát triển và tổng hợp chất và không chứa dư lượng chất tăng trưởng</p>",
+    "imageUrl": "https://images.f99.com.vn/images/a82ca821-be4e-4b3f-a575-bdfdcce48806.jpg",
+    "price": 199000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 0,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "KHAY",
+    "sku": "",
+    "origin": "",
+    "sellerId": 193,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 9,
+      "name": "Sầu riêng",
+      "imageUrl": "https://imgur.com/kBDVNwm.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/a82ca821-be4e-4b3f-a575-bdfdcce48806.jpg",
+      "https://images.f99.com.vn/images/a9709a9e-2168-4f36-bc88-918114937933.jpg",
+      "https://images.f99.com.vn/images/42656d73-fbdc-4596-b451-df329fcae372.jpg",
+      "https://images.f99.com.vn/images/9635858d-f312-477b-a352-cc5a1fa8ee37.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/97410",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "KHAY"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 97411,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 KHAY",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "KHAY",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 KHAY",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 199000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 0,
+        "totalSold": 0,
+        "unit": "KHAY",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "KHAY"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 193,
+      "sellerRate": 4.9,
+      "sellerName": "Royal Green Fruits",
+      "warehouseId": "54ea5d5f-edb9-4db9-9279-5db65d728ab8",
+      "warehouseAddress": "Shophouse D1 Mandarin Garden, Hoàng Minh Giám, Trung Hòa, Cầu Giấy, Hà Nội",
+      "distance": 4511,
+      "warehouseDistrict": "cau giay",
+      "reputation": 64.03561290322591,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

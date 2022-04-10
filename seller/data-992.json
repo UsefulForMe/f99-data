@@ -1,0 +1,35 @@
+{
+  "id": 992,
+  "name": "Hải sản Thu Huyền",
+  "logo": "https://images.f99.com.vn/groupbuy-images/6099b94b-6879-4256-9428-abbb6c2cea75.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Hải sản Thu Huyền chuyên cung cấp sỉ, lẻ, các mặt hàng đông lạnh,cam kết chất lượng các mặt hàng luôn tươi mới",
+  "headQuarter": "Số 102 Nguyễn Đức Cảnh, Phường Tương Mai, Quận Hoàng Mai, TP Hà Nội, Tương Mai, Hoàng Mai, Hà Nội",
+  "email": "Tranthihuyen1989a@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "07:00",
+    "closeTime": "22:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

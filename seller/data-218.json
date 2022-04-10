@@ -1,0 +1,35 @@
+{
+  "id": 218,
+  "name": "VITOT FOOD - MÓN NGON NỔI TIẾNG",
+  "logo": "https://cdn.f99.link/groupbuy-images/245fbd13-55c1-4807-bb5a-bee859df4231.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Món ngon nổi tiếng, Thực phẩm sạch, Hải sản cá một nắng, Món ngon nhập khẩu, Món ngon vùng miền, Món ngon đang hot",
+  "headQuarter": "263 Hoàng Văn Thái, Khương Trung, Thanh Xuân, Hà Nội",
+  "email": "contact@vitot.vn",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.6,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "17:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 49
+}

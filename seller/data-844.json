@@ -1,0 +1,35 @@
+{
+  "id": 844,
+  "name": "Hoa Quả Tươi",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/192460e0-9c1f-40bb-82f5-078d6f477ea7.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Hoa Quả Tươi Ngon – Lạc Long Quân",
+  "headQuarter": "Ngách 19, Ngõ 282 Lạc Long Quân, Bưởi, Tây Hồ, Hà Nội",
+  "email": "hoangthithanh23121975@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "22:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

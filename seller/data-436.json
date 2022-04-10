@@ -1,0 +1,35 @@
+{
+  "id": 436,
+  "name": "Rau củ quả 24h",
+  "logo": "https://cdn.f99.link/groupbuy-images/ce9f86c3-7fc7-4888-942d-bce40cf3268d.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên mua bán rau củ quả các loại, Tươi, sạch, an toàn.",
+  "headQuarter": "796/30 Lê Đức Thọ, 15, Gò Vấp, Hồ Chí Minh",
+  "email": "hoamau24h@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4,
+  "availableTime": {
+    "openTime": "05:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 6
+}

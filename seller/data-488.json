@@ -1,0 +1,35 @@
+{
+  "id": 488,
+  "name": "Dalas Farm - Nông Sản Sạch",
+  "logo": "https://images.f99.com.vn/groupbuy-images/e5eec532-3983-44e9-850f-8b99a91d8b21.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Dalas Farm - Nông sản sạch\nCung cấp các sản phẩm nông sản, đồ ăn sạch, đảm bảo tiêu chuẩn vệ sinh an toàn thực phẩm đến cho người tiêu dùng",
+  "headQuarter": "56 Cổ Nhuế, Phường Cổ Nhuế 2, Quận Bắc Từ Liêm, Thành Phố Hà Nội",
+  "email": "hai71705@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

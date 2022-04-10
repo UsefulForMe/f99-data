@@ -1,0 +1,35 @@
+{
+  "id": 401,
+  "name": "Tân Gia Freshfood",
+  "logo": "https://cdn.f99.link/groupbuy-images/6faeab9e-d2f7-45f2-9247-27fefb45daab.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên bán rau rừng,ốc núi, và các loại thực phẩm đặc sản ba miền ",
+  "headQuarter": "20 ngõ 246 Xuân Đỉnh, Xuân Đỉnh, Bắc Từ Liêm, Hà Nội",
+  "email": "thieugiangheo1528@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.9,
+  "availableTime": {
+    "openTime": "07:00",
+    "closeTime": "22:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 103
+}

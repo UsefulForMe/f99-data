@@ -1,0 +1,35 @@
+{
+  "id": 700,
+  "name": "Farm49",
+  "logo": "https://cdn.f99.link/groupbuy-images/132e57eb-18e4-40aa-8b6a-4fa5ec431bf8.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Farm49 là “chợ” trái cây & phẩm sạch hiện đại, nơi bạn có thể tìm thấy thực phẩm sạch, tốt cho sức khoẻ và chất lượng cao dành cho gia đình",
+  "headQuarter": "629/53K Cách Mạng Tháng 8, Phường 15, Quận 10, Hồ Chí Minh",
+  "email": "info@farm49.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "10:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

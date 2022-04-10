@@ -1,0 +1,35 @@
+{
+  "id": 560,
+  "name": "CHẤT FOOD",
+  "logo": "https://cdn.f99.link/groupbuy-images/0231d2d9-de74-4080-bfaa-90435c85216a.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Bán buôn bán lẻ thực phẩm nhập khẩu đông lạnh, thủy hải sản đông lạnh",
+  "headQuarter": "Số 22 đường Quyết Thắng, Phú La, Hà Đông, Hà Nội",
+  "email": "Chat1foods@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": false,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "07:30",
+    "closeTime": "17:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 13
+}

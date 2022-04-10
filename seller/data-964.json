@@ -1,0 +1,35 @@
+{
+  "id": 964,
+  "name": "Thế giới viên thả lẩu & đồ ăn vặt",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/ae882e58-ee49-4559-8840-59e34b577186.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp các thực phẩm: hàng Malaysia, việt nam, đài loan, hồngkong…",
+  "headQuarter": "Ngõ 31 - C3 Lương Định Của, Cầu Thang 2, Kim Liên, Đống Đa, Hà Nội",
+  "email": "Thuy0904535722@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

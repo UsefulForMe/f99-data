@@ -1,0 +1,35 @@
+{
+  "id": 83,
+  "name": "Hằng Trần Fruits",
+  "logo": "https://cdn.f99.link/groupbuy-images/406ad01c-000d-47f6-bc58-73e95dfb29cd.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Ra đời từ năm 2015 – với quy mô ban đầu chỉ là vài người bạn thân quen cùng một gian phòng nhỏ để bán khách vãng lại thì đến nay Hằng Trần Shop đã mở rộng quy mô với một shop ở Hà Nội và một shop ở Hồ Chí Minh. Ngoài ra để đảm bảo cho người dùng có được những sản phẩm TƯƠI – NGON – SẠCH thì Hằng Trần Shop còn liên kết với các nhà giao nhận hàng không, giúp tối ưu hóa về mặt thời gian cũng như tối đa hóa về khâu vận chuyển bảo quản.\nHằng Trần luôn mong muốn là một trong những địa chỉ vừa cạnh tranh về giá nhưng vẫn uy tín về khau giao hàng và cũng như đảm bảo về mặt chất lượng.",
+  "headQuarter": "Số 22 ngõ 25 Trần Hữu Tước, Nam Đồng, Đống Đa, Hà Nội",
+  "email": "tranghanghqnk@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.9,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 7
+}

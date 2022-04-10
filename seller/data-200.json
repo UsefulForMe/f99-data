@@ -1,0 +1,35 @@
+{
+  "id": 200,
+  "name": "NagaFood",
+  "logo": "https://cdn.f99.link/groupbuy-images/eb299f9e-a420-4674-ab24-2295dbc8e3f5.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Nagafood - Siêu thị đồ nhập khẩu chuyên cung cấp và bán lẻ đồ đông lạnh chất lượng cao",
+  "headQuarter": "Sô 28 ngõ 149 Cự Lộc, Thanh Xuân, HN",
+  "email": "bagiadibuon@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.6,
+  "availableTime": {
+    "openTime": "06:30",
+    "closeTime": "20:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 23
+}

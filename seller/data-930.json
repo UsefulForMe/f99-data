@@ -1,0 +1,35 @@
+{
+  "id": 930,
+  "name": "Family fruits",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/2e6cf716-8982-4e00-9df1-a67492b98b7c.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Hoa quả tươi ngon trong ngày \nHoa quả nhập ; hoa quả việt nam được tuyển chon kỹ lưỡng \n",
+  "headQuarter": "Số 27 ngõ 84 đường Yên Hòa, Yên Hòa, Cầu Giấy, Hà Nội",
+  "email": "Phamanhchi896@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "09:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

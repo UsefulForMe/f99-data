@@ -1,0 +1,35 @@
+{
+  "id": 893,
+  "name": "THU HÀ SHOP",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/7cea8341-73a7-47e0-99f7-3b0fe71904fb.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Thu Hà Shop chuyên cung cấp sỉ lẻ các mặt hàng hoa quả tươi 4 mùa, đặc sản vùng miền, đồ ăn vặt, các loại hạt dinh dưỡng.",
+  "headQuarter": "Số 43 ngõ 144 An Dương Vương, Phú Thượng, Tây Hồ, Hà Nội",
+  "email": "qiuhe93@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

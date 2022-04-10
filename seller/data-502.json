@@ -1,0 +1,35 @@
+{
+  "id": 502,
+  "name": "BẾP HÀ THÀNH",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/5f35de9e-7c95-4bc7-9654-b3ff6558a27b.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cung cấp tất cả các loại mặt hàng ăn vặt như: Cốm gạo nứt, khô gà, hạt điều, hạnh nhân, hạt đậu, rong biển, bánh trứng, mì đen hàn quốc, …",
+  "headQuarter": "22 Triều Khúc, Thanh Xuân Nam, Thanh Xuân, Hà Nội",
+  "email": "hathumen@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": false,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "07:00",
+    "closeTime": "23:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 60
+}

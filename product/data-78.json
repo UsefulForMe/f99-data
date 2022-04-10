@@ -1,0 +1,1328 @@
+[
+  {
+    "id": 29575,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Nhãn Lồng Hưng Yên ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Nhãn lồng quả tròn, vỏ quả màu vàng nâu, cùi dày, ráo nước. Khi bóc một lớp vỏ mỏng láng, để lộ lớp cùi nhãn dày trắng trong. Đưa vào miệng nếm thử có vị ngọt thơm vừa phải, cơm nhãn cũng rất giòn. Về kích thước: Quả nhãn lồng thường có kích thước khá đều nhau. Trọng lượng mỗi quả khá nặng, khoảng 45-50 quả/kg. Đặc biệt, bên trong cơm nhãn có hạt nhỏ đen nháy. Đưa quả nhãn lên mũi ngửi sẽ thấy mùi hương rất đặc trưng, không phải là mùi thơm nức mũi mà nhẹ nhàng, tinh khiết và dịu mát.</p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(51, 51, 51);\">Hướng dẫn bảo quản:</strong><span style=\"color: rgb(51, 51, 51);\">&nbsp;Bảo quản ở nhiệt độ thường, nơi khô ráo thoáng mát, tránh ánh nắng trực tiếp có thể để được từ 4 - 5 ngày. Nếu để trong tủ lạnh có thể bảo quản trong vòng 6 - 7 ngày.</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(51, 51, 51);\">Hướng dẫn sử dụng:</strong><span style=\"color: rgb(51, 51, 51);\">&nbsp;Có thể ăn ngay, dùng làm long nhãn hoặc nấu chè.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/898b1e72-66d1-4647-9bd4-df48d477cdf2.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"nhãn\",\"nhẵn lồng\",\"nhãn lồng hưng yên\",\"nhan long hung yen\",\"nhan\",\"nhan long\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Nhãn Lồng Hưng Yên ",
+    "description": "<p>Nhãn lồng quả tròn, vỏ quả màu vàng nâu, cùi dày, ráo nước. Khi bóc một lớp vỏ mỏng láng, để lộ lớp cùi nhãn dày trắng trong. Đưa vào miệng nếm thử có vị ngọt thơm vừa phải, cơm nhãn cũng rất giòn. Về kích thước: Quả nhãn lồng thường có kích thước khá đều nhau. Trọng lượng mỗi quả khá nặng, khoảng 45-50 quả/kg. Đặc biệt, bên trong cơm nhãn có hạt nhỏ đen nháy. Đưa quả nhãn lên mũi ngửi sẽ thấy mùi hương rất đặc trưng, không phải là mùi thơm nức mũi mà nhẹ nhàng, tinh khiết và dịu mát.</p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(51, 51, 51);\">Hướng dẫn bảo quản:</strong><span style=\"color: rgb(51, 51, 51);\">&nbsp;Bảo quản ở nhiệt độ thường, nơi khô ráo thoáng mát, tránh ánh nắng trực tiếp có thể để được từ 4 - 5 ngày. Nếu để trong tủ lạnh có thể bảo quản trong vòng 6 - 7 ngày.</span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(51, 51, 51);\">Hướng dẫn sử dụng:</strong><span style=\"color: rgb(51, 51, 51);\">&nbsp;Có thể ăn ngay, dùng làm long nhãn hoặc nấu chè.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/898b1e72-66d1-4647-9bd4-df48d477cdf2.jpg",
+    "price": 29000,
+    "oldPrice": 30000,
+    "discountPercent": 3,
+    "stock": 0,
+    "totalSold": 154,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 484,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 78,
+      "name": "Nhãn",
+      "imageUrl": "https://imgur.com/iVosPb0.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "nhãn",
+      "nhẵn lồng",
+      "nhãn lồng hưng yên",
+      "nhan long hung yen",
+      "nhan",
+      "nhan long"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/898b1e72-66d1-4647-9bd4-df48d477cdf2.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/29575",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg",
+          "2kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 50528,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 29000,
+        "oldPrice": 30000,
+        "discountPercent": 3,
+        "stock": 0,
+        "totalSold": 77,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 50527,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 55000,
+        "oldPrice": 30000,
+        "discountPercent": -83,
+        "stock": 0,
+        "totalSold": 77,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "2kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 484,
+      "sellerRate": 4.6,
+      "sellerName": "HOME FRUITS",
+      "warehouseId": "c9100430-cbd7-4e59-a914-9ce7a7071cbc",
+      "warehouseAddress": "Số 172 Trần Bình, phường Mỹ Đình, Quận Nam Từ Liêm, Hà Nội",
+      "distance": 6740,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 80.48249894439043,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 29584,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Nhãn Sông Mã",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(60, 64, 67);\">Nhãn có vỏ màu vàng sậm tự nhiên, cùi giòn, hạt nhỏ đen nháy, mùi thơm tự nhiên, đáy có hai dẻ cùi lồng xếp khít vào nhau.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/85251a92-4c7b-446c-bd95-cb3ac268bee5.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"nhãn\",\"nhãn sông mã\",\"nhan\",\"nhan song ma\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Nhãn Sông Mã",
+    "description": "<p><span style=\"color: rgb(60, 64, 67);\">Nhãn có vỏ màu vàng sậm tự nhiên, cùi giòn, hạt nhỏ đen nháy, mùi thơm tự nhiên, đáy có hai dẻ cùi lồng xếp khít vào nhau.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/85251a92-4c7b-446c-bd95-cb3ac268bee5.jpg",
+    "price": 29000,
+    "oldPrice": 50000,
+    "discountPercent": 42,
+    "stock": 0,
+    "totalSold": 78,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 484,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản thoáng mát</p>",
+    "category": {
+      "id": 78,
+      "name": "Nhãn",
+      "imageUrl": "https://imgur.com/iVosPb0.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "nhãn",
+      "nhãn sông mã",
+      "nhan",
+      "nhan song ma"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/85251a92-4c7b-446c-bd95-cb3ac268bee5.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/29584",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg",
+          "2kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 50530,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 29000,
+        "oldPrice": 50000,
+        "discountPercent": 42,
+        "stock": 0,
+        "totalSold": 39,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản thoáng mát</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 50529,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "2kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 55000,
+        "oldPrice": 50000,
+        "discountPercent": -10,
+        "stock": 0,
+        "totalSold": 39,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản thoáng mát</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "2kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 484,
+      "sellerRate": 4.6,
+      "sellerName": "HOME FRUITS",
+      "warehouseId": "c9100430-cbd7-4e59-a914-9ce7a7071cbc",
+      "warehouseAddress": "Số 172 Trần Bình, phường Mỹ Đình, Quận Nam Từ Liêm, Hà Nội",
+      "distance": 6740,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 80.48249894439043,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 50462,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Long nhãn hữu cơ ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Long nhãn được Phúc Lâm thuê sấy từ nhãn hữu cơ Sơn La, dùng làm chè hoặc nguyên liệu các món khác, nhiều công dụng, đảm bảo sạch và thơm ngon</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/b953f30a-58d9-43e2-9fc2-0516afb80643.jpg\",\"https://images.f99.com.vn/images/4c5efce3-cfe0-4c0c-be1f-0715115de609.jpg\",\"https://images.f99.com.vn/images/a5aae72c-7404-4166-aa73-3b4f194917c9.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Long nhãn hữu cơ ",
+    "description": "<p>Long nhãn được Phúc Lâm thuê sấy từ nhãn hữu cơ Sơn La, dùng làm chè hoặc nguyên liệu các món khác, nhiều công dụng, đảm bảo sạch và thơm ngon</p>",
+    "imageUrl": "https://images.f99.com.vn/images/b953f30a-58d9-43e2-9fc2-0516afb80643.jpg",
+    "price": 150000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 743,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 78,
+      "name": "Nhãn",
+      "imageUrl": "https://imgur.com/iVosPb0.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/b953f30a-58d9-43e2-9fc2-0516afb80643.jpg",
+      "https://images.f99.com.vn/images/4c5efce3-cfe0-4c0c-be1f-0715115de609.jpg",
+      "https://images.f99.com.vn/images/a5aae72c-7404-4166-aa73-3b4f194917c9.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/50462",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 96136,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 150000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 200,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 743,
+      "sellerRate": 4.1,
+      "sellerName": "Phúc Lâm Foods",
+      "warehouseId": "21a7eee3-be62-4aeb-8bf3-5e0e42c04450",
+      "warehouseAddress": "130E Thụy Khuê, Tây Hồ, Hà Nội ",
+      "distance": 2009,
+      "warehouseDistrict": "tay ho",
+      "reputation": 55.27933333333387,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 71585,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Nhãn Thái",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Cùi dày ngọt lịm, ăn thanh mát, bảo quản nơi khó dáo thoáng mát, nhiệt độ lý tưởng từ 10-20 độ, có thể nấu các món như chè long nhãn</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/0dcfd3ab-0091-4307-81bb-1db8def7d4cc.jpg\",\"https://images.f99.com.vn/images/19d1ee35-ebf5-4f5d-aa4a-4da522cc6cf8.jpg\",\"https://images.f99.com.vn/images/0d5933ce-467e-4407-9213-017327e868ab.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"nhãn\",\"nhãn thái\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Nhãn Thái",
+    "description": "<p>Cùi dày ngọt lịm, ăn thanh mát, bảo quản nơi khó dáo thoáng mát, nhiệt độ lý tưởng từ 10-20 độ, có thể nấu các món như chè long nhãn</p>",
+    "imageUrl": "https://images.f99.com.vn/images/0dcfd3ab-0091-4307-81bb-1db8def7d4cc.jpg",
+    "price": 65000,
+    "oldPrice": 70000,
+    "discountPercent": 7,
+    "stock": 1000,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 484,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 78,
+      "name": "Nhãn",
+      "imageUrl": "https://imgur.com/iVosPb0.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "nhãn",
+      "nhãn thái"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/0dcfd3ab-0091-4307-81bb-1db8def7d4cc.jpg",
+      "https://images.f99.com.vn/images/19d1ee35-ebf5-4f5d-aa4a-4da522cc6cf8.jpg",
+      "https://images.f99.com.vn/images/0d5933ce-467e-4407-9213-017327e868ab.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/71585",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 96351,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 65000,
+        "oldPrice": 70000,
+        "discountPercent": 7,
+        "stock": 1000,
+        "totalSold": 2,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 484,
+      "sellerRate": 4.6,
+      "sellerName": "HOME FRUITS",
+      "warehouseId": "c9100430-cbd7-4e59-a914-9ce7a7071cbc",
+      "warehouseAddress": "Số 172 Trần Bình, phường Mỹ Đình, Quận Nam Từ Liêm, Hà Nội",
+      "distance": 6740,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 80.48249894439043,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 92266,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Nhãn",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(5, 5, 5);\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t16/1.5/16/1f4a2.png\" alt=\"💢\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t16/1.5/16/1f4a2.png\" alt=\"💢\" height=\"16\" width=\"16\"> Nhãn ăn giòn giòn, ngọt ngọt, đặc biệt cái hạt nhỏ xíu, cơm dày. Mua về nấu chè nhãn, hạt sen, táo đỏ, tuyết yến với hạt chia cộng với đường phèn <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t2c/1.5/16/1f924.png\" alt=\"🤤\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t2c/1.5/16/1f924.png\" alt=\"🤤\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t2c/1.5/16/1f924.png\" alt=\"🤤\" height=\"16\" width=\"16\"> bỏ thêm vài cọng lá dứa là ăn ngon hết sảy.<img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t5c/1.5/16/1f92d.png\" alt=\"🤭\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t5c/1.5/16/1f92d.png\" alt=\"🤭\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t4a/1.5/16/1f4af.png\" alt=\"💯\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t4a/1.5/16/1f4af.png\" alt=\"💯\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t4a/1.5/16/1f4af.png\" alt=\"💯\" height=\"16\" width=\"16\"></span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/04814211-719e-41f0-9469-650c786cfae6.jpg\",\"https://images.f99.com.vn/images/36d4f728-5617-43db-828e-0070cb787a15.jpg\",\"https://images.f99.com.vn/images/9b9ecb92-854f-4da0-9a40-890dd870281c.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"nhãn\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Nhãn",
+    "description": "<p><span style=\"color: rgb(5, 5, 5);\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t16/1.5/16/1f4a2.png\" alt=\"💢\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t16/1.5/16/1f4a2.png\" alt=\"💢\" height=\"16\" width=\"16\"> Nhãn ăn giòn giòn, ngọt ngọt, đặc biệt cái hạt nhỏ xíu, cơm dày. Mua về nấu chè nhãn, hạt sen, táo đỏ, tuyết yến với hạt chia cộng với đường phèn <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t2c/1.5/16/1f924.png\" alt=\"🤤\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t2c/1.5/16/1f924.png\" alt=\"🤤\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t2c/1.5/16/1f924.png\" alt=\"🤤\" height=\"16\" width=\"16\"> bỏ thêm vài cọng lá dứa là ăn ngon hết sảy.<img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t5c/1.5/16/1f92d.png\" alt=\"🤭\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t5c/1.5/16/1f92d.png\" alt=\"🤭\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t4a/1.5/16/1f4af.png\" alt=\"💯\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t4a/1.5/16/1f4af.png\" alt=\"💯\" height=\"16\" width=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t4a/1.5/16/1f4af.png\" alt=\"💯\" height=\"16\" width=\"16\"></span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/04814211-719e-41f0-9469-650c786cfae6.jpg",
+    "price": 70000,
+    "oldPrice": 79000,
+    "discountPercent": 11,
+    "stock": 200,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 1023,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 78,
+      "name": "Nhãn",
+      "imageUrl": "https://imgur.com/iVosPb0.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "nhãn"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/04814211-719e-41f0-9469-650c786cfae6.jpg",
+      "https://images.f99.com.vn/images/36d4f728-5617-43db-828e-0070cb787a15.jpg",
+      "https://images.f99.com.vn/images/9b9ecb92-854f-4da0-9a40-890dd870281c.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/92266",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "Loại 1",
+          "Loại 2"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": true,
+        "id": 97510,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Loại 1",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Loại 1",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Loại 1 - xuống mã",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 70000,
+        "oldPrice": 79000,
+        "discountPercent": 11,
+        "stock": 50,
+        "totalSold": 0,
+        "unit": "KG",
+        "sku": "XM-",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Loại 1"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 97512,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Loại 1",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Loại 1",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Loại 1",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 70000,
+        "oldPrice": 79000,
+        "discountPercent": 11,
+        "stock": 50,
+        "totalSold": 0,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Loại 1"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": true,
+        "id": 97511,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Loại 2",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Loại 2",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Loại 2 - xuống mã",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 70000,
+        "oldPrice": 79000,
+        "discountPercent": 11,
+        "stock": 50,
+        "totalSold": 0,
+        "unit": "KG",
+        "sku": "XM-",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Loại 2"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 97513,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Loại 2",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Loại 2",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Loại 2",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 70000,
+        "oldPrice": 79000,
+        "discountPercent": 11,
+        "stock": 50,
+        "totalSold": 0,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Loại 2"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1023,
+      "sellerRate": 4.5,
+      "sellerName": "Minh Lâm",
+      "warehouseId": "ebf381a5-e009-4cd4-8974-e1550c3ba968",
+      "warehouseAddress": "số 146 Nguyễn Đổng Chi, Phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội,  Cầu Diễn,  Nam Từ Liêm,  Hà Nội",
+      "distance": 7348,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 0,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

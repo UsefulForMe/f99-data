@@ -1,0 +1,35 @@
+{
+  "id": 115,
+  "name": "Guabao - Bánh bao tươi",
+  "logo": "https://cdn.f99.link/groupbuy-images/cfeb6c3c-1679-4364-8ed9-af9908fe4988.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Guabao chuyên sản xuất các loại bánh bao với công thức từ Đài Loan.",
+  "headQuarter": "Số 5Q38, Ngõ 160 Nguyễn An Ninh, Phương Tương Mai, Quận Hoàng Mai, Hà Nội., Tương Mai, Hoàng Mai, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 2
+}

@@ -1,0 +1,5257 @@
+[
+  {
+    "id": 933,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lê Hàn Quốc",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Lê Hàn Quốc quả to, tròn, hương thơm thanh mát.</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Lớp vỏ màu nâu, thịt quả màu trắng, ăn rất giòn.</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Bảo quản tươi ngon và giao hàng đến tận tay quý khách.</span></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/b69ecf7d-464f-4610-9e31-e3a88f60da1f.jpg\"></p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">THÔNG TIN SẢN PHẨM:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓</span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Được trồng tại vùng Nachi (Hàn Quốc).</span></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Lê Hàn là loại Lê có size quả lớn, vỏ mỏng, mịn, khi ăn có vị giòn thơm và nhiều nước.</span></p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">GIÁ TRỊ DINH DƯỠNG:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓</span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Lê chứa vitamin A, B, C, D, E cùng hàm lượng vitamin C và canxi khá lớn.&nbsp;</span></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Lê không có chất béo, cholesterol nên ăn Lê còn có tác dụng làm giảm cân.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Ngăn ngừa các bệnh ung thư, hỗ trợ điều trị huyết áp cao, bệnh tiểu đường và các bệnh về tim mạch.﻿</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">﻿</span><img src=\"https://images.f99.com.vn/images/8a818670-ce3f-4a0a-83dd-b2447020520d.png\"></p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">HƯỚNG DẪN SỬ DỤNG:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Lê Hàn Quốc có thể dùng ăn tươi, ép nước, làm salad hoặc trà lê giải nhiệt cơ thể.</span></p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">HƯỚNG DẪN BẢO QUẢN:&nbsp;</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓</span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Bảo quản tốt nhất trong ngăn mát tủ lạnh.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/6811a437-e471-4d53-8506-687324990317.jpg\",\"https://images.f99.com.vn/images/e4635e4f-bd7f-4603-ab31-9e5dc3ee3744.png\",\"https://images.f99.com.vn/images/8a818670-ce3f-4a0a-83dd-b2447020520d.png\",\"https://images.f99.com.vn/images/a4fe4ebc-26f2-4861-87b8-4d0ceec3c222.png\",\"https://images.f99.com.vn/images/78d0bbf9-0685-47a0-89a3-c03e93bd1924.png\",\"https://images.f99.com.vn/images/f11b679a-d3dc-4944-b8a8-4bcecb774e6f.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"lê\",\"lê hàn quốc\",\"hoa quả sạch nhập khẩu\",\"hoa quả tươi nhập khẩu\",\"lê\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lê Hàn Quốc",
+    "description": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Lê Hàn Quốc quả to, tròn, hương thơm thanh mát.</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Lớp vỏ màu nâu, thịt quả màu trắng, ăn rất giòn.</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">✔ Bảo quản tươi ngon và giao hàng đến tận tay quý khách.</span></p><p class=\"ql-align-center\"><img src=\"https://images.f99.com.vn/images/b69ecf7d-464f-4610-9e31-e3a88f60da1f.jpg\"></p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">THÔNG TIN SẢN PHẨM:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓</span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Được trồng tại vùng Nachi (Hàn Quốc).</span></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Lê Hàn là loại Lê có size quả lớn, vỏ mỏng, mịn, khi ăn có vị giòn thơm và nhiều nước.</span></p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">GIÁ TRỊ DINH DƯỠNG:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓</span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Lê chứa vitamin A, B, C, D, E cùng hàm lượng vitamin C và canxi khá lớn.&nbsp;</span></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Lê không có chất béo, cholesterol nên ăn Lê còn có tác dụng làm giảm cân.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Ngăn ngừa các bệnh ung thư, hỗ trợ điều trị huyết áp cao, bệnh tiểu đường và các bệnh về tim mạch.﻿</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">﻿</span><img src=\"https://images.f99.com.vn/images/8a818670-ce3f-4a0a-83dd-b2447020520d.png\"></p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">HƯỚNG DẪN SỬ DỤNG:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Lê Hàn Quốc có thể dùng ăn tươi, ép nước, làm salad hoặc trà lê giải nhiệt cơ thể.</span></p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">HƯỚNG DẪN BẢO QUẢN:&nbsp;</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓</span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Bảo quản tốt nhất trong ngăn mát tủ lạnh.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/6811a437-e471-4d53-8506-687324990317.jpg",
+    "price": 139000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 30,
+    "totalSold": 1091,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "20001039",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.8,
+    "instructions": null,
+    "category": {
+      "id": 37,
+      "name": "Lê",
+      "imageUrl": "https://imgur.com/dbf34D0.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "lê",
+      "lê hàn quốc",
+      "hoa quả sạch nhập khẩu",
+      "hoa quả tươi nhập khẩu",
+      "lê"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/6811a437-e471-4d53-8506-687324990317.jpg",
+      "https://images.f99.com.vn/images/e4635e4f-bd7f-4603-ab31-9e5dc3ee3744.png",
+      "https://images.f99.com.vn/images/8a818670-ce3f-4a0a-83dd-b2447020520d.png",
+      "https://images.f99.com.vn/images/a4fe4ebc-26f2-4861-87b8-4d0ceec3c222.png",
+      "https://images.f99.com.vn/images/78d0bbf9-0685-47a0-89a3-c03e93bd1924.png",
+      "https://images.f99.com.vn/images/f11b679a-d3dc-4944-b8a8-4bcecb774e6f.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/933",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg",
+          "Combo 3kg",
+          "Combo 5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 4898,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 139000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 527,
+        "unit": "Kg",
+        "sku": "20001039",
+        "rating": 4.8,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 5056,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "94,9k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 289500,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 296,
+        "unit": "Kg",
+        "sku": "20000567",
+        "rating": 4.8,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "94,9k/kg",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 5057,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "87,1k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 459000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10,
+        "totalSold": 268,
+        "unit": "Kg",
+        "sku": "20000732",
+        "rating": 4.8,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "87,1k/kg",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 1366,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lê Nam Phi ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><img src=\"https://images.f99.com.vn/images/618d99f2-b12f-4631-aa1d-be68ec05123e.png\"><img src=\"https://images.f99.com.vn/images/3e2978f5-065a-442b-92b2-14fe788ced5c.jpg\"><img src=\"https://images.f99.com.vn/images/115b4519-b9dc-494b-9b71-04deba1160cb.png\"><img src=\"https://images.f99.com.vn/images/272cbdd2-a1a0-4b21-82f7-6cea1b90a554.png\"><img src=\"https://images.f99.com.vn/images/05e3f5fe-0a90-4aa2-ab94-ec82c0c56124.png\"><img src=\"https://images.f99.com.vn/images/86bdf06c-7b22-4e6c-90a8-6a119f8cd31d.png\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/1f92a365-ec7d-4151-ac3f-52e4274d4de5.png\",\"https://images.f99.com.vn/images/fd3684f2-ec2d-44ef-b583-d80f923f8ebf.png\",\"https://images.f99.com.vn/images/6a90c9c9-88ef-4724-9423-decd133df4b2.png\",\"https://images.f99.com.vn/images/91a1e448-8071-4eb4-85b0-ad32c00f65a2.png\",\"https://images.f99.com.vn/images/150403a1-6ae9-4692-a8ab-c356dd541e0d.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"lê\",\"lê Nam Phi\",\"hoa quả sạch nhập khẩu\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lê Nam Phi ",
+    "description": "<p><img src=\"https://images.f99.com.vn/images/618d99f2-b12f-4631-aa1d-be68ec05123e.png\"><img src=\"https://images.f99.com.vn/images/3e2978f5-065a-442b-92b2-14fe788ced5c.jpg\"><img src=\"https://images.f99.com.vn/images/115b4519-b9dc-494b-9b71-04deba1160cb.png\"><img src=\"https://images.f99.com.vn/images/272cbdd2-a1a0-4b21-82f7-6cea1b90a554.png\"><img src=\"https://images.f99.com.vn/images/05e3f5fe-0a90-4aa2-ab94-ec82c0c56124.png\"><img src=\"https://images.f99.com.vn/images/86bdf06c-7b22-4e6c-90a8-6a119f8cd31d.png\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/1f92a365-ec7d-4151-ac3f-52e4274d4de5.png",
+    "price": 109900,
+    "oldPrice": 100000,
+    "discountPercent": -10,
+    "stock": 18,
+    "totalSold": 189,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "20001041",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": null,
+    "category": {
+      "id": 37,
+      "name": "Lê",
+      "imageUrl": "https://imgur.com/dbf34D0.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "lê",
+      "lê Nam Phi",
+      "hoa quả sạch nhập khẩu"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/1f92a365-ec7d-4151-ac3f-52e4274d4de5.png",
+      "https://images.f99.com.vn/images/fd3684f2-ec2d-44ef-b583-d80f923f8ebf.png",
+      "https://images.f99.com.vn/images/6a90c9c9-88ef-4724-9423-decd133df4b2.png",
+      "https://images.f99.com.vn/images/91a1e448-8071-4eb4-85b0-ad32c00f65a2.png",
+      "https://images.f99.com.vn/images/150403a1-6ae9-4692-a8ab-c356dd541e0d.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/1366",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg",
+          "Combo 3kg",
+          "Combo 5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 5348,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 109900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 5,
+        "totalSold": 181,
+        "unit": "kg",
+        "sku": "20001041",
+        "rating": 0,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 5347,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "85,9k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 257700,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 8,
+        "totalSold": 8,
+        "unit": "kg",
+        "sku": "20001600",
+        "rating": 0,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "85,9k/kg",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 5346,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "76,9k/kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 5kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 384500,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 5,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "20001601",
+        "rating": 0,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "76,9k/kg",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 5272,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lê nâu Hàn Quốc",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Lê Hàn hay còn được gọi là Pyrus Pyrifolia hay Lê Châu Á, lê Cát,.. Loại lê được trồng tại xứ sở Kim Chi có nguồn gốc từ Pyrus Pyrifolia. Ngoài ra một số nước khác như Úc, Hoa Kỳ ha New Zealand cũng có lê Pyrus Pyrifolia..</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ Lê Hàn Quốc sở hữu trong mình hàm lượng dưỡng chất tốt vô cùng lớn. Vì thế khi sử dụng quả Lê có thể đem đến cho người dùng nhiều công dụng đặc biệt. Đây cũng chính là lý do làm người dùng ưa chuộng </span><em style=\"color: rgb(0, 0, 0);\">Lê Hàn Quốc nhập khẩu</em><span style=\"color: rgb(0, 0, 0);\"> so với các loại Lê thông thường. </span></p><p><br></p><p><strong>GIÁ TRỊ DINH DƯỠNG </strong></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"background-color: transparent;\">Ngăn ngừa dị tật thai nhi</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"background-color: transparent;\">Trị ho, tiêu đờm, ho khan tiếng, đờm lẫn máu, ho đờm vàng đặc,.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"background-color: transparent;\">Chữa khô miệng, viêm họng, sốt nhẹ, khó thở, đoản hơi, sưng họng.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"background-color: transparent;\">Hỗ trợ điều trị tiểu tiện vàng, tắc tiểu.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"background-color: transparent;\">Ngăn ngừa táo bón, tốt cho ruột già, giảm thiểu và cân bằng Cholesterol trong cơ thể.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"background-color: transparent;\">Chữa viêm phế quản, nhuận thế, đau bụng, tăng huyết áp</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"background-color: transparent;\">Cải thiện tình trạng phát triển của các loại bệnh liên quan đến hệ đường ruột.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"background-color: transparent;\">Thành phần lành tính trong Lê có thể làm mát cơ thể, không lo dị ứng.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"background-color: transparent;\">Giảm nguy cơ đột quỵ, chống lại các gốc tự do, ngăn ngừa viêm nhiễm, giảm đau,…</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"background-color: transparent;\">Lê còn giúp giảm thâm đỏ mắt, thoái hóa điểm vàng,…</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"background-color: transparent;\">Ngoài ra quả Lê còn có tác dụng làm đẹp da, tránh nổi các hạch và mụn nhọt, đốm nâu trên da. Đem đến .</span></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">HƯỚNG DẪN SỬ DỤNG:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓ Thường dùng ăn trực tiếp.</span></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">HƯỚNG DẪN BẢO QUẢN:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓</span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Cho vào hộp nhựa kín hoặc túi nilon cất trong ngăn mát của tủ lạnh.&nbsp;</span></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Chỉ rửa nho trước khi ăn để giữ được độ tươi ngon.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/aa38a645-4364-44f6-8125-097d6736e626.png\",\"https://images.f99.com.vn/images/0678320e-09b0-4ab7-a2f6-8732590fa457.png\",\"https://images.f99.com.vn/images/ca8ded03-59ab-42fc-ac83-3072cb5424bb.png\",\"https://images.f99.com.vn/images/f955035b-943f-4c47-b637-3d467752c549.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Lê\",\"Lê Hàn Quốc\",\"Lê Nâu\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lê nâu Hàn Quốc",
+    "description": "<p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Lê Hàn hay còn được gọi là Pyrus Pyrifolia hay Lê Châu Á, lê Cát,.. Loại lê được trồng tại xứ sở Kim Chi có nguồn gốc từ Pyrus Pyrifolia. Ngoài ra một số nước khác như Úc, Hoa Kỳ ha New Zealand cũng có lê Pyrus Pyrifolia..</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ Lê Hàn Quốc sở hữu trong mình hàm lượng dưỡng chất tốt vô cùng lớn. Vì thế khi sử dụng quả Lê có thể đem đến cho người dùng nhiều công dụng đặc biệt. Đây cũng chính là lý do làm người dùng ưa chuộng </span><em style=\"color: rgb(0, 0, 0);\">Lê Hàn Quốc nhập khẩu</em><span style=\"color: rgb(0, 0, 0);\"> so với các loại Lê thông thường. </span></p><p><br></p><p><strong>GIÁ TRỊ DINH DƯỠNG </strong></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"background-color: transparent;\">Ngăn ngừa dị tật thai nhi</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"background-color: transparent;\">Trị ho, tiêu đờm, ho khan tiếng, đờm lẫn máu, ho đờm vàng đặc,.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"background-color: transparent;\">Chữa khô miệng, viêm họng, sốt nhẹ, khó thở, đoản hơi, sưng họng.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"background-color: transparent;\">Hỗ trợ điều trị tiểu tiện vàng, tắc tiểu.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"background-color: transparent;\">Ngăn ngừa táo bón, tốt cho ruột già, giảm thiểu và cân bằng Cholesterol trong cơ thể.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"background-color: transparent;\">Chữa viêm phế quản, nhuận thế, đau bụng, tăng huyết áp</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"background-color: transparent;\">Cải thiện tình trạng phát triển của các loại bệnh liên quan đến hệ đường ruột.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"background-color: transparent;\">Thành phần lành tính trong Lê có thể làm mát cơ thể, không lo dị ứng.</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"background-color: transparent;\">Giảm nguy cơ đột quỵ, chống lại các gốc tự do, ngăn ngừa viêm nhiễm, giảm đau,…</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"background-color: transparent;\">Lê còn giúp giảm thâm đỏ mắt, thoái hóa điểm vàng,…</span></p><p><span style=\"color: rgb(0, 0, 0);\">✔ </span><span style=\"background-color: transparent;\">Ngoài ra quả Lê còn có tác dụng làm đẹp da, tránh nổi các hạch và mụn nhọt, đốm nâu trên da. Đem đến .</span></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">HƯỚNG DẪN SỬ DỤNG:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓ Thường dùng ăn trực tiếp.</span></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">HƯỚNG DẪN BẢO QUẢN:</strong></p><p><span style=\"color: rgb(0, 0, 0);\">✓</span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Cho vào hộp nhựa kín hoặc túi nilon cất trong ngăn mát của tủ lạnh.&nbsp;</span></p><p><span style=\"color: rgb(0, 0, 0);\">✓ </span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Chỉ rửa nho trước khi ăn để giữ được độ tươi ngon.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/aa38a645-4364-44f6-8125-097d6736e626.png",
+    "price": 99000,
+    "oldPrice": 129000,
+    "discountPercent": 23,
+    "stock": 10,
+    "totalSold": 810,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 6,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.8,
+    "instructions": "",
+    "category": {
+      "id": 37,
+      "name": "Lê",
+      "imageUrl": "https://imgur.com/dbf34D0.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Lê",
+      "Lê Hàn Quốc",
+      "Lê Nâu"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/aa38a645-4364-44f6-8125-097d6736e626.png",
+      "https://images.f99.com.vn/images/0678320e-09b0-4ab7-a2f6-8732590fa457.png",
+      "https://images.f99.com.vn/images/ca8ded03-59ab-42fc-ac83-3072cb5424bb.png",
+      "https://images.f99.com.vn/images/f955035b-943f-4c47-b637-3d467752c549.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/5272",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1KG",
+          "2KG"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 79444,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1KG",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1KG",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1KG",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 99000,
+        "oldPrice": 129000,
+        "discountPercent": 23,
+        "stock": 5,
+        "totalSold": 405,
+        "unit": "Kg",
+        "sku": "",
+        "rating": 4.8,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1KG"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 79445,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2KG",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "2KG",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2KG",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 180000,
+        "oldPrice": 129000,
+        "discountPercent": -40,
+        "stock": 5,
+        "totalSold": 405,
+        "unit": "Kg",
+        "sku": "",
+        "rating": 4.8,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "2KG"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 6,
+      "sellerRate": 4.2,
+      "sellerName": "Tổng Kho Hoa Quả - Trái Cây Nhập Khẩu",
+      "warehouseId": "b3e0335e-ade4-48ba-b652-5a67e132d5a4",
+      "warehouseAddress": "Số nhà 24 Ngõ 788 Kim Giang Xã Thanh Liệt, Huyện Thanh Trì Thành Phố Hà Nội",
+      "distance": 4457,
+      "warehouseDistrict": "thanh tri",
+      "reputation": 58.11138047138062,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 6505,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lê nâu Hàn Quốc",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<ul><li><span style=\"background-color: transparent;\">Lê Hàn Quốc quả to, tròn, hương thơm thanh mát.</span></li><li><span style=\"background-color: transparent;\">Lớp vỏ màu nâu, thịt quả màu trắng, ăn rất giòn.</span></li><li><span style=\"background-color: transparent;\">Bảo quản tươi ngon và giao hàng đến tận tay quý khách.</span></li><li><span style=\"background-color: transparent;\">Lê chứa vitamin A, B, C, D, E cùng hàm lượng vitamin C và canxi khá lớn.&nbsp;</span></li><li><span style=\"background-color: transparent;\">Lê không có chất béo, cholesterol nên ăn Lê còn có tác dụng làm giảm cân.</span></li><li><span style=\"background-color: transparent;\">Ngăn ngừa các bệnh ung thư, hỗ trợ điều trị huyết áp cao, bệnh tiểu đường và các bệnh về tim mạch.</span></li></ul>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/07990218-c1bf-4607-a9f7-d6bf3d8be823.png\",\"https://images.f99.com.vn/images/6e96a5b1-bf5d-45ba-aaf8-3ed5bcb540f1.jpg\",\"https://images.f99.com.vn/images/01856a6d-1de5-42e2-ab4e-073872fcee24.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lê nâu Hàn Quốc",
+    "description": "<ul><li><span style=\"background-color: transparent;\">Lê Hàn Quốc quả to, tròn, hương thơm thanh mát.</span></li><li><span style=\"background-color: transparent;\">Lớp vỏ màu nâu, thịt quả màu trắng, ăn rất giòn.</span></li><li><span style=\"background-color: transparent;\">Bảo quản tươi ngon và giao hàng đến tận tay quý khách.</span></li><li><span style=\"background-color: transparent;\">Lê chứa vitamin A, B, C, D, E cùng hàm lượng vitamin C và canxi khá lớn.&nbsp;</span></li><li><span style=\"background-color: transparent;\">Lê không có chất béo, cholesterol nên ăn Lê còn có tác dụng làm giảm cân.</span></li><li><span style=\"background-color: transparent;\">Ngăn ngừa các bệnh ung thư, hỗ trợ điều trị huyết áp cao, bệnh tiểu đường và các bệnh về tim mạch.</span></li></ul>",
+    "imageUrl": "https://images.f99.com.vn/images/07990218-c1bf-4607-a9f7-d6bf3d8be823.png",
+    "price": 79000,
+    "oldPrice": 99000,
+    "discountPercent": 20,
+    "stock": 400,
+    "totalSold": 133,
+    "maxQuantityPerUser": null,
+    "unit": "0.5KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 79,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<ul><li><span style=\"color: rgb(0, 0, 0);\">Bảo quản tốt nhất trong ngăn mát tủ lạnh</span></li></ul>",
+    "category": {
+      "id": 37,
+      "name": "Lê",
+      "imageUrl": "https://imgur.com/dbf34D0.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/07990218-c1bf-4607-a9f7-d6bf3d8be823.png",
+      "https://images.f99.com.vn/images/6e96a5b1-bf5d-45ba-aaf8-3ed5bcb540f1.jpg",
+      "https://images.f99.com.vn/images/01856a6d-1de5-42e2-ab4e-073872fcee24.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/6505",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "0.5kg",
+          "1KG"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 6506,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1KG",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1KG",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1KG",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 149000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 133,
+        "unit": "0.5KG",
+        "sku": "",
+        "rating": 5,
+        "instructions": "<ul><li><span style=\"color: rgb(0, 0, 0);\">Bảo quản tốt nhất trong ngăn mát tủ lạnh</span></li></ul>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1KG"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 91673,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "0.5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "0.5kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "0.5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 79000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 300,
+        "totalSold": 0,
+        "unit": "0.5KG",
+        "sku": "",
+        "rating": 5,
+        "instructions": "<ul><li><span style=\"color: rgb(0, 0, 0);\">Bảo quản tốt nhất trong ngăn mát tủ lạnh</span></li></ul>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "0.5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 79,
+      "sellerRate": 4.6,
+      "sellerName": "Bee Fruits - Trái Cây Nhập Khẩu",
+      "warehouseId": "93099fc8-cde8-46ed-b203-44dfddc85c45",
+      "warehouseAddress": "số 210K, Đội Cấn, Ba Đình, Hà Nội",
+      "distance": 1554,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 78.75352863930483,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 6520,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lê Nam Phi ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong>Lê Nam Phi</strong> trái nhỏ, dài thường có hai màu vàng và đỏ, nhiều nước, có hương vị thơm ngon, ngọt mát nên được rất nhiều người ưa chuộng.Đặc biệt là sự giòn và mọng nước đã làm nên thương hiệu riêng cho quả lê Nam Phi.</p><p>Quả lê chứa nhiều vitamin A, C, K, B9, PP cùng nhiều nguyên tố vi lượng tốt cho sức khỏe như kali, kẽm, sắt, đồng, canxi, iot...</p><p><br></p><p>Tác dụng:</p><ul><li><span style=\"color: rgb(33, 37, 41);\">Ăn lê Nam Phi tốt cho hệ tiêu hoá.</span></li><li><span style=\"color: rgb(33, 37, 41);\">Lê Nam Phi thích hợp cho bệnh nhân bị tiểu đường.</span></li><li><span style=\"color: rgb(33, 37, 41);\">Lê Nam Phi tốt cho trái tim.</span></li><li><span style=\"color: rgb(33, 37, 41);\">Lê Nam Phi làm giảm nguy cơ phát triển ung thư.</span></li></ul>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/d219545c-60fd-462b-ae7e-6bcc2a93cfd0.jpg\",\"https://images.f99.com.vn/images/2b9912ef-b6c4-4426-90ab-5a296d583333.jpg\",\"https://images.f99.com.vn/images/ffd70e51-ec55-40ab-8a7d-3c8de65158d6.jpg\",\"https://images.f99.com.vn/images/d5ab1ea7-ec51-4c4d-9b53-bb38aa81850f.jpg\",\"https://images.f99.com.vn/images/c6c2429f-eebf-45fc-9359-83486a67f1c1.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lê Nam Phi ",
+    "description": "<p><strong>Lê Nam Phi</strong> trái nhỏ, dài thường có hai màu vàng và đỏ, nhiều nước, có hương vị thơm ngon, ngọt mát nên được rất nhiều người ưa chuộng.Đặc biệt là sự giòn và mọng nước đã làm nên thương hiệu riêng cho quả lê Nam Phi.</p><p>Quả lê chứa nhiều vitamin A, C, K, B9, PP cùng nhiều nguyên tố vi lượng tốt cho sức khỏe như kali, kẽm, sắt, đồng, canxi, iot...</p><p><br></p><p>Tác dụng:</p><ul><li><span style=\"color: rgb(33, 37, 41);\">Ăn lê Nam Phi tốt cho hệ tiêu hoá.</span></li><li><span style=\"color: rgb(33, 37, 41);\">Lê Nam Phi thích hợp cho bệnh nhân bị tiểu đường.</span></li><li><span style=\"color: rgb(33, 37, 41);\">Lê Nam Phi tốt cho trái tim.</span></li><li><span style=\"color: rgb(33, 37, 41);\">Lê Nam Phi làm giảm nguy cơ phát triển ung thư.</span></li></ul>",
+    "imageUrl": "https://images.f99.com.vn/images/d219545c-60fd-462b-ae7e-6bcc2a93cfd0.jpg",
+    "price": 42000,
+    "oldPrice": 79000,
+    "discountPercent": 47,
+    "stock": 200,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "0.3KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 79,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<ul><li>Lê Nam Phi bảo quản tốt nhất ở nhiệt độ từ 0 độ C đến 4 độ C. Vỏ lê Nam Phi rất dễ bị bầm dập nên cần nhẹ tay, tránh làm rơi hay va đập.</li></ul>",
+    "category": {
+      "id": 37,
+      "name": "Lê",
+      "imageUrl": "https://imgur.com/dbf34D0.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/d219545c-60fd-462b-ae7e-6bcc2a93cfd0.jpg",
+      "https://images.f99.com.vn/images/2b9912ef-b6c4-4426-90ab-5a296d583333.jpg",
+      "https://images.f99.com.vn/images/ffd70e51-ec55-40ab-8a7d-3c8de65158d6.jpg",
+      "https://images.f99.com.vn/images/d5ab1ea7-ec51-4c4d-9b53-bb38aa81850f.jpg",
+      "https://images.f99.com.vn/images/c6c2429f-eebf-45fc-9359-83486a67f1c1.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/6520",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1 Quả 0.3kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 97358,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Quả 0.3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1 Quả 0.3kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Quả 0.3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 42000,
+        "oldPrice": 79000,
+        "discountPercent": 47,
+        "stock": 200,
+        "totalSold": 0,
+        "unit": "0.3KG",
+        "sku": "",
+        "rating": 5,
+        "instructions": "<ul><li>Lê Nam Phi bảo quản tốt nhất ở nhiệt độ từ 0 độ C đến 4 độ C. Vỏ lê Nam Phi rất dễ bị bầm dập nên cần nhẹ tay, tránh làm rơi hay va đập.</li></ul>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1 Quả 0.3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 79,
+      "sellerRate": 4.6,
+      "sellerName": "Bee Fruits - Trái Cây Nhập Khẩu",
+      "warehouseId": "93099fc8-cde8-46ed-b203-44dfddc85c45",
+      "warehouseAddress": "số 210K, Đội Cấn, Ba Đình, Hà Nội",
+      "distance": 1554,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 78.75352863930483,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 6805,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lê Hàn Quốc ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"background-color: rgb(228, 230, 235); color: rgb(5, 5, 5);\">LÊ VÀNG VIP HÀN QUỐC - TRÁI ĐẸP NGỌT THƠM</span></p><p><span style=\"background-color: rgb(228, 230, 235); color: rgb(5, 5, 5);\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tfa/1/16/1f32a.png\" alt=\"🌪\" height=\"16\" width=\"16\">Lê Hàn ngon lắm, ngọt lắm và cực kỳ giòn, Siêu mọng nước và Siêu mới.</span></p><p><span style=\"background-color: rgb(228, 230, 235); color: rgb(5, 5, 5);\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t26/1/16/1f350.png\" alt=\"🍐\" height=\"16\" width=\"16\">Lê Hàn thuộc top các loại trái cây nhập chiếm trọn lòng tin của các chị kể cả các anh và các bé luôn ạ. Hàng khủng, trái VIP to, màu vàng sáng mịn màng!</span></p><p><span style=\"background-color: rgb(228, 230, 235); color: rgb(5, 5, 5);\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t26/1/16/1f350.png\" alt=\"🍐\" height=\"16\" width=\"16\">Đặc biệt lê Hàn siêu nhiều dinh dưỡng tốt cho cơ thể</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/2d12da6f-906a-4ede-93bf-9dfe0aef3aad.jpg\",\"https://images.f99.com.vn/images/013288af-f81b-4184-815f-46358b23aa22.jpg\",\"https://images.f99.com.vn/images/e2c44929-6dcc-4f68-bfd1-527fa1a4be10.jpg\",\"https://images.f99.com.vn/images/62d5be55-acab-4379-b83b-ae4cb02a13fd.jpg\",\"https://images.f99.com.vn/images/ef9a3df0-e6d6-467b-bf5b-f041b105066b.jpg\",\"https://images.f99.com.vn/images/631a4760-5d7d-4957-a6da-de0e140342f5.jpg\",\"https://images.f99.com.vn/images/2b32166a-1203-4418-bfa2-154d9f76e28f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lê Hàn Quốc ",
+    "description": "<p><span style=\"background-color: rgb(228, 230, 235); color: rgb(5, 5, 5);\">LÊ VÀNG VIP HÀN QUỐC - TRÁI ĐẸP NGỌT THƠM</span></p><p><span style=\"background-color: rgb(228, 230, 235); color: rgb(5, 5, 5);\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tfa/1/16/1f32a.png\" alt=\"🌪\" height=\"16\" width=\"16\">Lê Hàn ngon lắm, ngọt lắm và cực kỳ giòn, Siêu mọng nước và Siêu mới.</span></p><p><span style=\"background-color: rgb(228, 230, 235); color: rgb(5, 5, 5);\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t26/1/16/1f350.png\" alt=\"🍐\" height=\"16\" width=\"16\">Lê Hàn thuộc top các loại trái cây nhập chiếm trọn lòng tin của các chị kể cả các anh và các bé luôn ạ. Hàng khủng, trái VIP to, màu vàng sáng mịn màng!</span></p><p><span style=\"background-color: rgb(228, 230, 235); color: rgb(5, 5, 5);\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t26/1/16/1f350.png\" alt=\"🍐\" height=\"16\" width=\"16\">Đặc biệt lê Hàn siêu nhiều dinh dưỡng tốt cho cơ thể</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/2d12da6f-906a-4ede-93bf-9dfe0aef3aad.jpg",
+    "price": 45000,
+    "oldPrice": 59000,
+    "discountPercent": 24,
+    "stock": 4000,
+    "totalSold": 1687,
+    "maxQuantityPerUser": null,
+    "unit": "Quả (450-550g)",
+    "sku": "LEHAN",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.8,
+    "instructions": "<p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">uý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</span></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Phản hồi sản phẩm vui lòng liên hệ: </span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Hotline:0974956933</span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Địa chỉ: Số 10A, ngõ 61 Khương Trung , Phố Khương Trung, Thanh Xuân,HN.</span></p>",
+    "category": {
+      "id": 37,
+      "name": "Lê",
+      "imageUrl": "https://imgur.com/dbf34D0.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/2d12da6f-906a-4ede-93bf-9dfe0aef3aad.jpg",
+      "https://images.f99.com.vn/images/013288af-f81b-4184-815f-46358b23aa22.jpg",
+      "https://images.f99.com.vn/images/e2c44929-6dcc-4f68-bfd1-527fa1a4be10.jpg",
+      "https://images.f99.com.vn/images/62d5be55-acab-4379-b83b-ae4cb02a13fd.jpg",
+      "https://images.f99.com.vn/images/ef9a3df0-e6d6-467b-bf5b-f041b105066b.jpg",
+      "https://images.f99.com.vn/images/631a4760-5d7d-4957-a6da-de0e140342f5.jpg",
+      "https://images.f99.com.vn/images/2b32166a-1203-4418-bfa2-154d9f76e28f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/6805",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 quả",
+          "Combo 3 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 77328,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 45000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 2000,
+        "totalSold": 844,
+        "unit": "Quả (450-550g)",
+        "sku": "LEHAN",
+        "rating": 4.8,
+        "instructions": "<p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">uý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</span></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Phản hồi sản phẩm vui lòng liên hệ: </span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Hotline:0974956933</span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Địa chỉ: Số 10A, ngõ 61 Khương Trung , Phố Khương Trung, Thanh Xuân,HN.</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 77329,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 3 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 3 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 3 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 135000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 2000,
+        "totalSold": 843,
+        "unit": "Quả (450-550g)",
+        "sku": "LEHAN",
+        "rating": 4.8,
+        "instructions": "<p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">uý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</span></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Phản hồi sản phẩm vui lòng liên hệ: </span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Hotline:0974956933</span></p><p><br></p><p><span style=\"background-color: rgb(0, 132, 255); color: rgb(255, 255, 255);\">Địa chỉ: Số 10A, ngõ 61 Khương Trung , Phố Khương Trung, Thanh Xuân,HN.</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 3 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7414,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lê Nam Phi ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(230, 0, 0);\">Shop sẽ cân lại và thông báo cho khách hàng khối lượng và giá tiền theo thực tế sản phẩm</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/efa650eb-7a98-4a81-9919-ca2bac6d4de7.jfif\"></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>XUẤT XỨ : </strong>Nam Phi</p><p>✔️ Được nhập khẩu trực tiếp , đảm bảo chất lượng.</p><p>✔️ Quả to đều , chắc tay , màu đẹp, vị ngọt giòn đặc trưng.</p><p class=\"ql-align-justify\">✔️ Bảo quản tươi ngon và giao hàng đến tận tay quý khách.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>GIÁ TRỊ DINH DƯỠNG :</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">✔️ Lê Nam Phi&nbsp;có nhiều chất xơ nên rất tốt cho sức khỏe&nbsp;giảm cholesterol trong cơ thể, ngăn ngừa các bệnh ung thư và tim mạch</p><p class=\"ql-align-justify\">✔️ Có nguồn Vitamin C tốt&nbsp;tăng cường hệ miễn dịch cho cơ thể đồng thời tham gia sản xuất nhiều tế bào hồng cầu, tạo nhiều máu đỏ</p><p class=\"ql-align-justify\">✔️ Hàm lượng Vitamen E cũng tốt rất tốt cho da</p><p class=\"ql-align-justify\">✔️ Hàm lượng Kali cao (50mg trong 100g)&nbsp;</p><p class=\"ql-align-justify\">✔️ Ít chất béo và Calo phù hợp với những người đang trong chế độ giảm cân</p><p class=\"ql-align-justify\">✔️ Đặc biệt, thường xuyên ăn&nbsp;lê nam phi&nbsp;sẽ tăng được khả năng phòng chống chứng hay mệt, đồng thời tăng khả năng phòng chống được bệnh tăng huyết áp, sung đau họng.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/686e42d4-b9d9-4b7b-8fe9-23e2e03f5f62.jpg\",\"https://images.f99.com.vn/images/3bef30ba-a3a9-4a26-a571-ccd914c3d2c1.jpg\",\"https://images.f99.com.vn/images/0d95ad0a-df23-40f0-972a-053c87ce6ba7.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"lê\",\"lê nam phi\",\"lê ngọt\",\"nam phi\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lê Nam Phi ",
+    "description": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(230, 0, 0);\">Shop sẽ cân lại và thông báo cho khách hàng khối lượng và giá tiền theo thực tế sản phẩm</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/efa650eb-7a98-4a81-9919-ca2bac6d4de7.jfif\"></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>XUẤT XỨ : </strong>Nam Phi</p><p>✔️ Được nhập khẩu trực tiếp , đảm bảo chất lượng.</p><p>✔️ Quả to đều , chắc tay , màu đẹp, vị ngọt giòn đặc trưng.</p><p class=\"ql-align-justify\">✔️ Bảo quản tươi ngon và giao hàng đến tận tay quý khách.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>GIÁ TRỊ DINH DƯỠNG :</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">✔️ Lê Nam Phi&nbsp;có nhiều chất xơ nên rất tốt cho sức khỏe&nbsp;giảm cholesterol trong cơ thể, ngăn ngừa các bệnh ung thư và tim mạch</p><p class=\"ql-align-justify\">✔️ Có nguồn Vitamin C tốt&nbsp;tăng cường hệ miễn dịch cho cơ thể đồng thời tham gia sản xuất nhiều tế bào hồng cầu, tạo nhiều máu đỏ</p><p class=\"ql-align-justify\">✔️ Hàm lượng Vitamen E cũng tốt rất tốt cho da</p><p class=\"ql-align-justify\">✔️ Hàm lượng Kali cao (50mg trong 100g)&nbsp;</p><p class=\"ql-align-justify\">✔️ Ít chất béo và Calo phù hợp với những người đang trong chế độ giảm cân</p><p class=\"ql-align-justify\">✔️ Đặc biệt, thường xuyên ăn&nbsp;lê nam phi&nbsp;sẽ tăng được khả năng phòng chống chứng hay mệt, đồng thời tăng khả năng phòng chống được bệnh tăng huyết áp, sung đau họng.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/686e42d4-b9d9-4b7b-8fe9-23e2e03f5f62.jpg",
+    "price": 125000,
+    "oldPrice": 195000,
+    "discountPercent": 36,
+    "stock": 60,
+    "totalSold": 218,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 96,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 119,
+    "instructions": "<p class=\"ql-align-justify\">✔️ Lê Nam Phi&nbsp;bảo quản tốt nhất ở nhiệt độ từ 0oC đến 4oC , để ở nhiệt độ thường 25oC Lê sẽ chín sau 1 đến 3 ngày.</p><p class=\"ql-align-justify\">✔️ Vỏ lê rất dễ bị bầm dập, nên quý khách cần nhẹ tay, tránh làm rơi, va đập để giữ quả lê được đẹp.</p><p class=\"ql-align-justify\"><br></p>",
+    "category": {
+      "id": 37,
+      "name": "Lê",
+      "imageUrl": "https://imgur.com/dbf34D0.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "lê",
+      "lê nam phi",
+      "lê ngọt",
+      "nam phi"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/686e42d4-b9d9-4b7b-8fe9-23e2e03f5f62.jpg",
+      "https://images.f99.com.vn/images/3bef30ba-a3a9-4a26-a571-ccd914c3d2c1.jpg",
+      "https://images.f99.com.vn/images/0d95ad0a-df23-40f0-972a-053c87ce6ba7.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7414",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg",
+          "combo 3kg",
+          "combo 4kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 8646,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 125000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 20,
+        "totalSold": 74,
+        "unit": "kg",
+        "sku": "",
+        "rating": 119,
+        "instructions": "<p class=\"ql-align-justify\">✔️ Lê Nam Phi&nbsp;bảo quản tốt nhất ở nhiệt độ từ 0oC đến 4oC , để ở nhiệt độ thường 25oC Lê sẽ chín sau 1 đến 3 ngày.</p><p class=\"ql-align-justify\">✔️ Vỏ lê rất dễ bị bầm dập, nên quý khách cần nhẹ tay, tránh làm rơi, va đập để giữ quả lê được đẹp.</p><p class=\"ql-align-justify\"><br></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 8647,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "combo 3kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 369000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 20,
+        "totalSold": 72,
+        "unit": "kg",
+        "sku": "",
+        "rating": 119,
+        "instructions": "<p class=\"ql-align-justify\">✔️ Lê Nam Phi&nbsp;bảo quản tốt nhất ở nhiệt độ từ 0oC đến 4oC , để ở nhiệt độ thường 25oC Lê sẽ chín sau 1 đến 3 ngày.</p><p class=\"ql-align-justify\">✔️ Vỏ lê rất dễ bị bầm dập, nên quý khách cần nhẹ tay, tránh làm rơi, va đập để giữ quả lê được đẹp.</p><p class=\"ql-align-justify\"><br></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "combo 3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 8648,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 4kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "combo 4kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 4kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 499000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 20,
+        "totalSold": 72,
+        "unit": "kg",
+        "sku": "",
+        "rating": 119,
+        "instructions": "<p class=\"ql-align-justify\">✔️ Lê Nam Phi&nbsp;bảo quản tốt nhất ở nhiệt độ từ 0oC đến 4oC , để ở nhiệt độ thường 25oC Lê sẽ chín sau 1 đến 3 ngày.</p><p class=\"ql-align-justify\">✔️ Vỏ lê rất dễ bị bầm dập, nên quý khách cần nhẹ tay, tránh làm rơi, va đập để giữ quả lê được đẹp.</p><p class=\"ql-align-justify\"><br></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "combo 4kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 96,
+      "sellerRate": 4.4,
+      "sellerName": "Ánh Vy Fruit",
+      "warehouseId": "4ead612c-994e-4201-ab8c-583f2ba5437c",
+      "warehouseAddress": "10 Nguyễn Khánh Toàn, phường Quan Hoa, quận Cầu Giấy, Hà Nội ",
+      "distance": 3233,
+      "warehouseDistrict": "cau giay",
+      "reputation": 76.48368498960507,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7791,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lế Hàn Quốc",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(0, 0, 0);\">Lê Hàn Quốc được trồng tại vùng Nachi. Lê Hàn Quốc là loại Lê đẳng cấp nhất được lựa chọn tại các vườn danh tiếng nhất tại Hàn Quốc. Với size quả rất lớn khoảng 800gr-1000gr/quả, vỏ mỏng căng, mượt, không tì vết, thịt giòn, ngọt và nhiều nước. Lê Hàn Quốc giàu các chất xơ dễ tan, đây là loại trái cây chống tiểu đường, chống cholesterol và cắt cơn đói nhanh chóng. Với sự có mặt của chất chống ôxy hoá tanin trong thành phần, lê cũng là loại trái cây có khả năng bảo vệ trái tim luôn khỏe mạnh.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/ba704ff5-1596-4b82-825a-42ee9b18de4d.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lế Hàn Quốc",
+    "description": "<p><span style=\"color: rgb(0, 0, 0);\">Lê Hàn Quốc được trồng tại vùng Nachi. Lê Hàn Quốc là loại Lê đẳng cấp nhất được lựa chọn tại các vườn danh tiếng nhất tại Hàn Quốc. Với size quả rất lớn khoảng 800gr-1000gr/quả, vỏ mỏng căng, mượt, không tì vết, thịt giòn, ngọt và nhiều nước. Lê Hàn Quốc giàu các chất xơ dễ tan, đây là loại trái cây chống tiểu đường, chống cholesterol và cắt cơn đói nhanh chóng. Với sự có mặt của chất chống ôxy hoá tanin trong thành phần, lê cũng là loại trái cây có khả năng bảo vệ trái tim luôn khỏe mạnh.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/ba704ff5-1596-4b82-825a-42ee9b18de4d.png",
+    "price": 129000,
+    "oldPrice": 159000,
+    "discountPercent": 19,
+    "stock": 1,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 97,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 37,
+      "name": "Lê",
+      "imageUrl": "https://imgur.com/dbf34D0.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/ba704ff5-1596-4b82-825a-42ee9b18de4d.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7791",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 92776,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 129000,
+        "oldPrice": 159000,
+        "discountPercent": 19,
+        "stock": 1,
+        "totalSold": 0,
+        "unit": "Kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 97,
+      "sellerRate": 4.4,
+      "sellerName": "Pink Fruit",
+      "warehouseId": "ba672d2d-91c5-41ab-927f-3880a4c4d57a",
+      "warehouseAddress": "92G Ô Chợ Dừa, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",
+      "distance": 1147,
+      "warehouseDistrict": "dong da",
+      "reputation": 74.93568838196391,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8659,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Hộp Lê Nam Phi ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h2>HỘP LÊ NAM PHI 9 QUẢ, TRỌNG LƯỢNG 2.5KG</h2><h2>SANG TRỌNG, LỊCH SỰ PHÙ HỢP BIẾU TẶNG LÀM QUÀ !</h2><p><br></p><p><br></p><p><img src=\"https://images.f99.com.vn/images/60de4106-a67d-437b-be03-7fe5bec86631.jpg\"></p><p><br></p><p class=\"ql-align-justify\"><strong>XUẤT XỨ : </strong>Nam Phi</p><p>✔️ Được nhập khẩu trực tiếp , đảm bảo chất lượng.</p><p>✔️ Quả to đều , chắc tay , màu đẹp, vị ngọt giòn đặc trưng.</p><p class=\"ql-align-justify\">✔️ Bảo quản tươi ngon và giao hàng đến tận tay quý khách.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>GIÁ TRỊ DINH DƯỠNG :</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">✔️ Lê Nam Phi&nbsp;có nhiều chất xơ nên rất tốt cho sức khỏe&nbsp;giảm cholesterol trong cơ thể, ngăn ngừa các bệnh ung thư và tim mạch</p><p class=\"ql-align-justify\">✔️ Có nguồn Vitamin C tốt&nbsp;tăng cường hệ miễn dịch cho cơ thể đồng thời tham gia sản xuất nhiều tế bào hồng cầu, tạo nhiều máu đỏ</p><p class=\"ql-align-justify\">✔️ Hàm lượng Vitamen E cũng tốt rất tốt cho da</p><p class=\"ql-align-justify\">✔️ Hàm lượng Kali cao (50mg trong 100g)&nbsp;</p><p class=\"ql-align-justify\">✔️ Ít chất béo và Calo phù hợp với những người đang trong chế độ giảm cân</p><p class=\"ql-align-justify\">✔️ Đặc biệt, thường xuyên ăn&nbsp;lê nam phi&nbsp;sẽ tăng được khả năng phòng chống chứng hay mệt, đồng thời tăng khả năng phòng chống được bệnh tăng huyết áp, sung đau họng.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/9abdb051-4b5d-4dc7-aa4a-b2c3447b0431.jpg\",\"https://images.f99.com.vn/images/a8f12cf6-d034-4bbd-8793-ecdb5e995763.jfif\",\"https://images.f99.com.vn/images/0004cf26-b9fb-46af-b57f-f5b46d0d3bbb.jpg\",\"https://images.f99.com.vn/images/f5738329-5247-43b2-8901-03266e041de8.jfif\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"lê nam phi\",\"lê xanh\",\"hộp lê\",\"hộp quả\",\"hộp lê nam phi\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Hộp Lê Nam Phi ",
+    "description": "<h2>HỘP LÊ NAM PHI 9 QUẢ, TRỌNG LƯỢNG 2.5KG</h2><h2>SANG TRỌNG, LỊCH SỰ PHÙ HỢP BIẾU TẶNG LÀM QUÀ !</h2><p><br></p><p><br></p><p><img src=\"https://images.f99.com.vn/images/60de4106-a67d-437b-be03-7fe5bec86631.jpg\"></p><p><br></p><p class=\"ql-align-justify\"><strong>XUẤT XỨ : </strong>Nam Phi</p><p>✔️ Được nhập khẩu trực tiếp , đảm bảo chất lượng.</p><p>✔️ Quả to đều , chắc tay , màu đẹp, vị ngọt giòn đặc trưng.</p><p class=\"ql-align-justify\">✔️ Bảo quản tươi ngon và giao hàng đến tận tay quý khách.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>GIÁ TRỊ DINH DƯỠNG :</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">✔️ Lê Nam Phi&nbsp;có nhiều chất xơ nên rất tốt cho sức khỏe&nbsp;giảm cholesterol trong cơ thể, ngăn ngừa các bệnh ung thư và tim mạch</p><p class=\"ql-align-justify\">✔️ Có nguồn Vitamin C tốt&nbsp;tăng cường hệ miễn dịch cho cơ thể đồng thời tham gia sản xuất nhiều tế bào hồng cầu, tạo nhiều máu đỏ</p><p class=\"ql-align-justify\">✔️ Hàm lượng Vitamen E cũng tốt rất tốt cho da</p><p class=\"ql-align-justify\">✔️ Hàm lượng Kali cao (50mg trong 100g)&nbsp;</p><p class=\"ql-align-justify\">✔️ Ít chất béo và Calo phù hợp với những người đang trong chế độ giảm cân</p><p class=\"ql-align-justify\">✔️ Đặc biệt, thường xuyên ăn&nbsp;lê nam phi&nbsp;sẽ tăng được khả năng phòng chống chứng hay mệt, đồng thời tăng khả năng phòng chống được bệnh tăng huyết áp, sung đau họng.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/9abdb051-4b5d-4dc7-aa4a-b2c3447b0431.jpg",
+    "price": 159000,
+    "oldPrice": 250000,
+    "discountPercent": 36,
+    "stock": 80,
+    "totalSold": 132,
+    "maxQuantityPerUser": null,
+    "unit": "hộp",
+    "sku": "",
+    "origin": "",
+    "sellerId": 96,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 120,
+    "instructions": "<p><strong>HƯỚNG DẪN BẢO QUẢN: </strong></p><p><br></p><p class=\"ql-align-justify\">✔️ Lê Nam Phi&nbsp;bảo quản tốt nhất ở nhiệt độ từ 0oC đến 4oC , để ở nhiệt độ thường 25oC Lê sẽ chín sau 1 đến 3 ngày.</p><p class=\"ql-align-justify\">✔️ Vỏ lê rất dễ bị bầm dập, nên quý khách cần nhẹ tay, tránh làm rơi, va đập để giữ quả lê được đẹp.</p><p class=\"ql-align-justify\"><br></p>",
+    "category": {
+      "id": 37,
+      "name": "Lê",
+      "imageUrl": "https://imgur.com/dbf34D0.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "lê nam phi",
+      "lê xanh",
+      "hộp lê",
+      "hộp quả",
+      "hộp lê nam phi"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/9abdb051-4b5d-4dc7-aa4a-b2c3447b0431.jpg",
+      "https://images.f99.com.vn/images/a8f12cf6-d034-4bbd-8793-ecdb5e995763.jfif",
+      "https://images.f99.com.vn/images/0004cf26-b9fb-46af-b57f-f5b46d0d3bbb.jpg",
+      "https://images.f99.com.vn/images/f5738329-5247-43b2-8901-03266e041de8.jfif"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8659",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1.5kg",
+          "2.5kg"
+        ]
+      },
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 hộp",
+          "2 hộp"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 8660,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1.5kg / 1 hộp",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1.5kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 hộp",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1.5kg / 1 hộp",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 159000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 20,
+        "totalSold": 33,
+        "unit": "hộp",
+        "sku": "",
+        "rating": 120,
+        "instructions": "<p><strong>HƯỚNG DẪN BẢO QUẢN: </strong></p><p><br></p><p class=\"ql-align-justify\">✔️ Lê Nam Phi&nbsp;bảo quản tốt nhất ở nhiệt độ từ 0oC đến 4oC , để ở nhiệt độ thường 25oC Lê sẽ chín sau 1 đến 3 ngày.</p><p class=\"ql-align-justify\">✔️ Vỏ lê rất dễ bị bầm dập, nên quý khách cần nhẹ tay, tránh làm rơi, va đập để giữ quả lê được đẹp.</p><p class=\"ql-align-justify\"><br></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1.5kg"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 hộp"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 8661,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2.5kg / 1 hộp",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "2.5kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 hộp",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2.5kg / 1 hộp",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 255000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 20,
+        "totalSold": 33,
+        "unit": "hộp",
+        "sku": "",
+        "rating": 120,
+        "instructions": "<p><strong>HƯỚNG DẪN BẢO QUẢN: </strong></p><p><br></p><p class=\"ql-align-justify\">✔️ Lê Nam Phi&nbsp;bảo quản tốt nhất ở nhiệt độ từ 0oC đến 4oC , để ở nhiệt độ thường 25oC Lê sẽ chín sau 1 đến 3 ngày.</p><p class=\"ql-align-justify\">✔️ Vỏ lê rất dễ bị bầm dập, nên quý khách cần nhẹ tay, tránh làm rơi, va đập để giữ quả lê được đẹp.</p><p class=\"ql-align-justify\"><br></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "2.5kg"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 hộp"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 8662,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1.5kg / 2 hộp",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1.5kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "2 hộp",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1.5kg / 2 hộp",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 309000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 20,
+        "totalSold": 33,
+        "unit": "hộp",
+        "sku": "",
+        "rating": 120,
+        "instructions": "<p><strong>HƯỚNG DẪN BẢO QUẢN: </strong></p><p><br></p><p class=\"ql-align-justify\">✔️ Lê Nam Phi&nbsp;bảo quản tốt nhất ở nhiệt độ từ 0oC đến 4oC , để ở nhiệt độ thường 25oC Lê sẽ chín sau 1 đến 3 ngày.</p><p class=\"ql-align-justify\">✔️ Vỏ lê rất dễ bị bầm dập, nên quý khách cần nhẹ tay, tránh làm rơi, va đập để giữ quả lê được đẹp.</p><p class=\"ql-align-justify\"><br></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1.5kg"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "2 hộp"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 8663,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2.5kg / 2 hộp",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "2.5kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "2 hộp",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2.5kg / 2 hộp",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 499000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 20,
+        "totalSold": 33,
+        "unit": "hộp",
+        "sku": "",
+        "rating": 120,
+        "instructions": "<p><strong>HƯỚNG DẪN BẢO QUẢN: </strong></p><p><br></p><p class=\"ql-align-justify\">✔️ Lê Nam Phi&nbsp;bảo quản tốt nhất ở nhiệt độ từ 0oC đến 4oC , để ở nhiệt độ thường 25oC Lê sẽ chín sau 1 đến 3 ngày.</p><p class=\"ql-align-justify\">✔️ Vỏ lê rất dễ bị bầm dập, nên quý khách cần nhẹ tay, tránh làm rơi, va đập để giữ quả lê được đẹp.</p><p class=\"ql-align-justify\"><br></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "2.5kg"
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "2 hộp"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 96,
+      "sellerRate": 4.4,
+      "sellerName": "Ánh Vy Fruit",
+      "warehouseId": "4ead612c-994e-4201-ab8c-583f2ba5437c",
+      "warehouseAddress": "10 Nguyễn Khánh Toàn, phường Quan Hoa, quận Cầu Giấy, Hà Nội ",
+      "distance": 3233,
+      "warehouseDistrict": "cau giay",
+      "reputation": 76.48368498960507,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8905,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lê nâu Hàn Quốc",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(0, 0, 0);\">+ Trong một quả lê có thể cung cấp: 101 calori năng lượng, 00g chất béo, 27g carbonhydrate và 1g chất đạm, tương đương&nbsp;12% Vitamin C, vitamin K (10%), kali (6%) và 1 lượng nhỏ sắt, magie, canxi, vitamin B6.</span></p><p><span style=\"color: rgb(0, 0, 0);\">+ Hàm lượng chất xơ có trong Lê giúp người sử dụng có thể điều chỉnh hệ miễn dịch, giảm nguy cơ mắc bệnh tim mạch, tiểu đường, ngăn ngừa táo bón,...</span></p><p><span style=\"color: rgb(0, 0, 0);\">Tại Fruizzdee bạn có thể dễ dàng chọn lựa những trái lê căng mọng đẹp mắt để thưởng thức hoặc làm quà biếu sang trọng</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/c4da0941-b5a3-4c92-99f0-031088430a97.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lê nâu Hàn Quốc",
+    "description": "<p><span style=\"color: rgb(0, 0, 0);\">+ Trong một quả lê có thể cung cấp: 101 calori năng lượng, 00g chất béo, 27g carbonhydrate và 1g chất đạm, tương đương&nbsp;12% Vitamin C, vitamin K (10%), kali (6%) và 1 lượng nhỏ sắt, magie, canxi, vitamin B6.</span></p><p><span style=\"color: rgb(0, 0, 0);\">+ Hàm lượng chất xơ có trong Lê giúp người sử dụng có thể điều chỉnh hệ miễn dịch, giảm nguy cơ mắc bệnh tim mạch, tiểu đường, ngăn ngừa táo bón,...</span></p><p><span style=\"color: rgb(0, 0, 0);\">Tại Fruizzdee bạn có thể dễ dàng chọn lựa những trái lê căng mọng đẹp mắt để thưởng thức hoặc làm quà biếu sang trọng</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/c4da0941-b5a3-4c92-99f0-031088430a97.jpg",
+    "price": 150000,
+    "oldPrice": 200000,
+    "discountPercent": 25,
+    "stock": 20,
+    "totalSold": 5,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 86,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Quý khách vui lòng kiểm tra kỹ sản phẩm trước khi nhận hàng</p><p>Phản hồi sản phẩm vui lòng liên hệ</p><p>Hotline : 0961703246</p><p>Địa chỉ : Số 150 Thái Hà , Đống Đa , Hà Nội</p>",
+    "category": {
+      "id": 37,
+      "name": "Lê",
+      "imageUrl": "https://imgur.com/dbf34D0.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/c4da0941-b5a3-4c92-99f0-031088430a97.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8905",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 86,
+      "sellerRate": 4.6,
+      "sellerName": "Fruizzdee ",
+      "warehouseId": "f6ad0741-f86e-4f05-b20b-452a23d5d946",
+      "warehouseAddress": "150 Thái Hà, Trung Liệt, Đống Đa, Hà Nội ",
+      "distance": 2204,
+      "warehouseDistrict": "dong da",
+      "reputation": 71.40737637768633,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 12841,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "𝑳𝒆̂ 𝑯𝒂̀𝒏 𝑸𝒖𝒐̂́𝒄",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>𝑻𝒉𝒆𝒐 𝒏𝒈𝒉𝒊𝒆̂𝒏 𝒄𝒖̛́𝒖, 𝒎𝒐̣̂𝒕 𝒒𝒖𝒂̉ 𝒍𝒆̂ 𝑯𝒂̀𝒏 𝑸𝒖𝒐̂́𝒄 𝒄𝒐́ 𝒄𝒉𝒖̛́𝒂 𝒏𝒉𝒊𝒆̂̀𝒖 𝒄𝒉𝒂̂́𝒕 𝒅𝒊𝒏𝒉 𝒅𝒖̛𝒐̛̃𝒏𝒈 𝒗𝒂̀ 𝒌𝒉𝒐𝒂́𝒏𝒈 𝒄𝒉𝒂̂́𝒕 𝒌𝒉𝒂́𝒄 𝒏𝒉𝒂𝒖 𝒏𝒉𝒖̛ đ𝒂̣𝒎, 𝒗𝒊𝒕𝒂𝒎𝒊𝒏 𝑪, 𝒗𝒊𝒕𝒂𝒎𝒊𝒏 𝑲, 𝒌𝒂𝒍𝒊 𝒗𝒂̀ 𝒎𝒐̣̂𝒕 𝒍𝒖̛𝒐̛̣𝒏𝒈 𝒏𝒉𝒐̉ 𝒄𝒂𝒏𝒙𝒊, 𝒔𝒂̆́𝒕, 𝒎𝒂𝒈𝒊𝒆, 𝒗𝒊𝒕𝒂𝒎𝒊𝒏 𝑩6, 𝒇𝒍𝒐𝒕𝒆. 𝑽𝒊̀ 𝒕𝒉𝒆̂́ 𝒎𝒂̀ 𝒍𝒆̂ 𝒔𝒖̛̃𝒂 𝑯𝒂̀𝒏 𝑸𝒖𝒐̂́𝒄 𝒄𝒐́ 𝒄𝒐̂𝒏𝒈 𝒅𝒖̣𝒏𝒈 𝒓𝒂̂́𝒕 𝒍𝒐̛́𝒏 đ𝒐̂́𝒊 𝒗𝒐̛́𝒊 𝒄𝒐̛ 𝒕𝒉𝒆̂̉:</p><p><br></p><p>𝑮𝒊𝒂̉𝒎 𝒏𝒈𝒖𝒚 𝒄𝒐̛ 𝒎𝒂̆́𝒄 𝒃𝒆̣̂𝒏𝒉 𝒕𝒊𝒆̂̉𝒖 đ𝒖̛𝒐̛̀𝒏𝒈</p><p>𝑮𝒊𝒂̉𝒎 𝒄𝒉𝒐𝒍𝒆𝒔𝒕𝒆𝒓𝒐𝒍 𝒅𝒖̛ 𝒕𝒉𝒖̛̀𝒂</p><p>𝑷𝒉𝒐̀𝒏𝒈 𝒏𝒈𝒖̛̀𝒂 𝒍𝒐𝒂̃𝒏𝒈 𝒙𝒖̛𝒐̛𝒏𝒈</p><p>𝑻𝒂̆𝒏𝒈 𝒄𝒖̛𝒐̛̀𝒏𝒈 𝒉𝒆̣̂ 𝒎𝒊𝒆̂̃𝒏 𝒅𝒊̣𝒄𝒉</p><p>𝑮𝒊𝒂̉𝒎 𝒄𝒂̂𝒏</p><p>𝑪𝒖̣ 𝒕𝒉𝒆̂̉ 𝒏𝒉𝒖̛:</p><p>𝑳𝒆̂ 𝒈𝒊𝒂̀𝒖 𝒄𝒉𝒂̂́𝒕 𝒙𝒐̛ 𝒅𝒆̂̃ 𝒕𝒂𝒏, 𝒍𝒆̂ 𝒕𝒉𝒖̛̣𝒄 𝒔𝒖̛̣ 𝒍𝒂̀ 𝒍𝒐𝒂̣𝒊 𝒕𝒓𝒂́𝒊 𝒄𝒂̂𝒚 𝒄𝒉𝒐̂́𝒏𝒈 𝒕𝒊𝒆̂̉𝒖 đ𝒖̛𝒐̛̀𝒏𝒈, 𝒄𝒉𝒐̂́𝒏𝒈 𝒄𝒉𝒐𝒍𝒆𝒔𝒕𝒆𝒓𝒐𝒍 𝒗𝒂̀ 𝒄𝒂̆́𝒕 𝒄𝒐̛𝒏 đ𝒐́𝒊 𝒏𝒉𝒂𝒏𝒉 𝒄𝒉𝒐́𝒏𝒈.</p><p>𝑽𝒐̉ 𝒍𝒆̂ 𝑯𝒂̀𝒏 𝑸𝒖𝒐̂́𝒄 𝒄𝒐́ 𝒈𝒊𝒂́ 𝒕𝒓𝒊̣ 𝒄𝒉𝒖̛̃𝒂 𝒃𝒆̣̂𝒏𝒉 𝒄𝒂𝒐, 𝒄𝒐́ 𝒍𝒐̛̣𝒊 𝒄𝒉𝒐 𝒕𝒊𝒎 𝒗𝒂̀ 𝒑𝒉𝒐̂̉𝒊, 𝒈𝒊𝒖́𝒑 𝒕𝒊𝒆̂𝒖 đ𝒐̣̂𝒄 𝒉𝒂̣ 𝒏𝒉𝒊𝒆̣̂𝒕.</p><p>𝑳𝒆̂ 𝑯𝒂̀𝒏 𝒗𝒐̂ 𝒄𝒖̀𝒏𝒈 𝒏𝒉𝒊𝒆̂̀𝒖 𝒗𝒊𝒕𝒂𝒎𝒊𝒏 𝑨, 𝑩, 𝑪, 𝑫 𝒗𝒂̀ 𝑬. 𝑴𝒐̣̂𝒕 𝒕𝒓𝒂́𝒊 𝒍𝒆̂ 𝒄𝒐́ 𝒕𝒉𝒆̂̉ 𝒄𝒖𝒏𝒈 𝒄𝒂̂́𝒑 10% 𝒉𝒂̀𝒎 𝒍𝒖̛𝒐̛̣𝒏𝒈 𝒗𝒊𝒕𝒂𝒎𝒊𝒏 𝑪 𝒗𝒂̀ 𝒉𝒂̀𝒎 𝒍𝒖̛𝒐̛̣𝒏𝒈 𝒄𝒂𝒏𝒙𝒊 𝒍𝒐̛́𝒏.</p><p>𝑳𝒆̂ 𝑯𝒂̀𝒏 𝒎𝒂̣̆𝒄 𝒅𝒖̀ 𝒄𝒐́ đ𝒐̣̂ 𝒏𝒈𝒐̣𝒕 𝒔𝒐𝒏𝒈 đ𝒐̣̂ 𝒏𝒐́𝒏𝒈 𝒗𝒂̀ đ𝒐̣̂ 𝒏𝒈𝒐̣𝒕 𝒈𝒂̂𝒚 𝒃𝒆́𝒐 𝒕𝒉𝒂̂́𝒑, 𝒕𝒉𝒊́𝒄𝒉 𝒉𝒐̛̣𝒑 𝒗𝒐̛́𝒊 𝒏𝒉𝒖̛̃𝒏𝒈 𝒂𝒊 𝒕𝒉𝒊́𝒄𝒉 𝒂̆𝒏 𝒏𝒈𝒐̣𝒕 𝒏𝒉𝒖̛𝒏𝒈 𝒔𝒐̛̣ 𝒕𝒂̆𝒏𝒈 𝒄𝒂̂𝒏.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/52ebdad6-4b5b-4f61-9bac-76a7b1ecea95.jpg\",\"https://images.f99.com.vn/images/9ae0d574-fa5c-46fb-9ef7-4f1faefdcc5b.jpg\",\"https://images.f99.com.vn/images/550b979e-3eb2-4f85-a3d1-846f4e4be797.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "𝑳𝒆̂ 𝑯𝒂̀𝒏 𝑸𝒖𝒐̂́𝒄",
+    "description": "<p>𝑻𝒉𝒆𝒐 𝒏𝒈𝒉𝒊𝒆̂𝒏 𝒄𝒖̛́𝒖, 𝒎𝒐̣̂𝒕 𝒒𝒖𝒂̉ 𝒍𝒆̂ 𝑯𝒂̀𝒏 𝑸𝒖𝒐̂́𝒄 𝒄𝒐́ 𝒄𝒉𝒖̛́𝒂 𝒏𝒉𝒊𝒆̂̀𝒖 𝒄𝒉𝒂̂́𝒕 𝒅𝒊𝒏𝒉 𝒅𝒖̛𝒐̛̃𝒏𝒈 𝒗𝒂̀ 𝒌𝒉𝒐𝒂́𝒏𝒈 𝒄𝒉𝒂̂́𝒕 𝒌𝒉𝒂́𝒄 𝒏𝒉𝒂𝒖 𝒏𝒉𝒖̛ đ𝒂̣𝒎, 𝒗𝒊𝒕𝒂𝒎𝒊𝒏 𝑪, 𝒗𝒊𝒕𝒂𝒎𝒊𝒏 𝑲, 𝒌𝒂𝒍𝒊 𝒗𝒂̀ 𝒎𝒐̣̂𝒕 𝒍𝒖̛𝒐̛̣𝒏𝒈 𝒏𝒉𝒐̉ 𝒄𝒂𝒏𝒙𝒊, 𝒔𝒂̆́𝒕, 𝒎𝒂𝒈𝒊𝒆, 𝒗𝒊𝒕𝒂𝒎𝒊𝒏 𝑩6, 𝒇𝒍𝒐𝒕𝒆. 𝑽𝒊̀ 𝒕𝒉𝒆̂́ 𝒎𝒂̀ 𝒍𝒆̂ 𝒔𝒖̛̃𝒂 𝑯𝒂̀𝒏 𝑸𝒖𝒐̂́𝒄 𝒄𝒐́ 𝒄𝒐̂𝒏𝒈 𝒅𝒖̣𝒏𝒈 𝒓𝒂̂́𝒕 𝒍𝒐̛́𝒏 đ𝒐̂́𝒊 𝒗𝒐̛́𝒊 𝒄𝒐̛ 𝒕𝒉𝒆̂̉:</p><p><br></p><p>𝑮𝒊𝒂̉𝒎 𝒏𝒈𝒖𝒚 𝒄𝒐̛ 𝒎𝒂̆́𝒄 𝒃𝒆̣̂𝒏𝒉 𝒕𝒊𝒆̂̉𝒖 đ𝒖̛𝒐̛̀𝒏𝒈</p><p>𝑮𝒊𝒂̉𝒎 𝒄𝒉𝒐𝒍𝒆𝒔𝒕𝒆𝒓𝒐𝒍 𝒅𝒖̛ 𝒕𝒉𝒖̛̀𝒂</p><p>𝑷𝒉𝒐̀𝒏𝒈 𝒏𝒈𝒖̛̀𝒂 𝒍𝒐𝒂̃𝒏𝒈 𝒙𝒖̛𝒐̛𝒏𝒈</p><p>𝑻𝒂̆𝒏𝒈 𝒄𝒖̛𝒐̛̀𝒏𝒈 𝒉𝒆̣̂ 𝒎𝒊𝒆̂̃𝒏 𝒅𝒊̣𝒄𝒉</p><p>𝑮𝒊𝒂̉𝒎 𝒄𝒂̂𝒏</p><p>𝑪𝒖̣ 𝒕𝒉𝒆̂̉ 𝒏𝒉𝒖̛:</p><p>𝑳𝒆̂ 𝒈𝒊𝒂̀𝒖 𝒄𝒉𝒂̂́𝒕 𝒙𝒐̛ 𝒅𝒆̂̃ 𝒕𝒂𝒏, 𝒍𝒆̂ 𝒕𝒉𝒖̛̣𝒄 𝒔𝒖̛̣ 𝒍𝒂̀ 𝒍𝒐𝒂̣𝒊 𝒕𝒓𝒂́𝒊 𝒄𝒂̂𝒚 𝒄𝒉𝒐̂́𝒏𝒈 𝒕𝒊𝒆̂̉𝒖 đ𝒖̛𝒐̛̀𝒏𝒈, 𝒄𝒉𝒐̂́𝒏𝒈 𝒄𝒉𝒐𝒍𝒆𝒔𝒕𝒆𝒓𝒐𝒍 𝒗𝒂̀ 𝒄𝒂̆́𝒕 𝒄𝒐̛𝒏 đ𝒐́𝒊 𝒏𝒉𝒂𝒏𝒉 𝒄𝒉𝒐́𝒏𝒈.</p><p>𝑽𝒐̉ 𝒍𝒆̂ 𝑯𝒂̀𝒏 𝑸𝒖𝒐̂́𝒄 𝒄𝒐́ 𝒈𝒊𝒂́ 𝒕𝒓𝒊̣ 𝒄𝒉𝒖̛̃𝒂 𝒃𝒆̣̂𝒏𝒉 𝒄𝒂𝒐, 𝒄𝒐́ 𝒍𝒐̛̣𝒊 𝒄𝒉𝒐 𝒕𝒊𝒎 𝒗𝒂̀ 𝒑𝒉𝒐̂̉𝒊, 𝒈𝒊𝒖́𝒑 𝒕𝒊𝒆̂𝒖 đ𝒐̣̂𝒄 𝒉𝒂̣ 𝒏𝒉𝒊𝒆̣̂𝒕.</p><p>𝑳𝒆̂ 𝑯𝒂̀𝒏 𝒗𝒐̂ 𝒄𝒖̀𝒏𝒈 𝒏𝒉𝒊𝒆̂̀𝒖 𝒗𝒊𝒕𝒂𝒎𝒊𝒏 𝑨, 𝑩, 𝑪, 𝑫 𝒗𝒂̀ 𝑬. 𝑴𝒐̣̂𝒕 𝒕𝒓𝒂́𝒊 𝒍𝒆̂ 𝒄𝒐́ 𝒕𝒉𝒆̂̉ 𝒄𝒖𝒏𝒈 𝒄𝒂̂́𝒑 10% 𝒉𝒂̀𝒎 𝒍𝒖̛𝒐̛̣𝒏𝒈 𝒗𝒊𝒕𝒂𝒎𝒊𝒏 𝑪 𝒗𝒂̀ 𝒉𝒂̀𝒎 𝒍𝒖̛𝒐̛̣𝒏𝒈 𝒄𝒂𝒏𝒙𝒊 𝒍𝒐̛́𝒏.</p><p>𝑳𝒆̂ 𝑯𝒂̀𝒏 𝒎𝒂̣̆𝒄 𝒅𝒖̀ 𝒄𝒐́ đ𝒐̣̂ 𝒏𝒈𝒐̣𝒕 𝒔𝒐𝒏𝒈 đ𝒐̣̂ 𝒏𝒐́𝒏𝒈 𝒗𝒂̀ đ𝒐̣̂ 𝒏𝒈𝒐̣𝒕 𝒈𝒂̂𝒚 𝒃𝒆́𝒐 𝒕𝒉𝒂̂́𝒑, 𝒕𝒉𝒊́𝒄𝒉 𝒉𝒐̛̣𝒑 𝒗𝒐̛́𝒊 𝒏𝒉𝒖̛̃𝒏𝒈 𝒂𝒊 𝒕𝒉𝒊́𝒄𝒉 𝒂̆𝒏 𝒏𝒈𝒐̣𝒕 𝒏𝒉𝒖̛𝒏𝒈 𝒔𝒐̛̣ 𝒕𝒂̆𝒏𝒈 𝒄𝒂̂𝒏.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/52ebdad6-4b5b-4f61-9bac-76a7b1ecea95.jpg",
+    "price": 120000,
+    "oldPrice": 180000,
+    "discountPercent": 33,
+    "stock": 200,
+    "totalSold": 58,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 202,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.7,
+    "instructions": "",
+    "category": {
+      "id": 37,
+      "name": "Lê",
+      "imageUrl": "https://imgur.com/dbf34D0.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/52ebdad6-4b5b-4f61-9bac-76a7b1ecea95.jpg",
+      "https://images.f99.com.vn/images/9ae0d574-fa5c-46fb-9ef7-4f1faefdcc5b.jpg",
+      "https://images.f99.com.vn/images/550b979e-3eb2-4f85-a3d1-846f4e4be797.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/12841",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "2 quả",
+          "4 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 14872,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "1.5kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "2 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 180000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 29,
+        "unit": "kg",
+        "sku": "",
+        "rating": 4.7,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "1.5kg",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "2 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 14873,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "4 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "3kg",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "4 quả",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "4 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 360000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 29,
+        "unit": "kg",
+        "sku": "",
+        "rating": 4.7,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "3kg",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "4 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 202,
+      "sellerRate": 4.8,
+      "sellerName": "KaMart",
+      "warehouseId": "0793ea85-5017-480b-a8ad-ed54928d4af4",
+      "warehouseAddress": " 83 Phủ Doãn, Hàng Trống, Hoàn Kiếm, Hà Nội",
+      "distance": 1422,
+      "warehouseDistrict": "hoan kiem",
+      "reputation": 64.76329333333334,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14308,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lê xanh ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Hoa Quả Rau củ Tươi Ngon. Nhập mới hàng ngày.</p><p><br></p><p>Kho hàng: số 52 ngõ 365 đường Bưởi, Ba Đình</p><p><br></p><p>Đặt hàng rau củ quả thực phẩm tươi sống sạch chất lượng tại: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fhomeyfood.net%2F%3Ffbclid%3DIwAR2JSxaf4GfQlgE8nUH0__xHpH8v6NF_BMppYMwjdVoca6iDDHe6lN7uhpA&amp;h=AT1N_fAYZiYWuKq_b3RsKWHHIUCahTIGKOMbJ0fsSzdp9NMquXMl87dsM3BUkmXxyRilEIJ-NySoeY0GmS30O6Quh2y-BvQ3zaB1ECscOtQWuEVU0OSuNsXKS0nuJe5-gWi4nw\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--always-white);\">https://homeyfood.net</a></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/6752c3dd-2a89-4f7d-b5d3-37b04018bbd5.jpg\",\"https://images.f99.com.vn/images/38091cf3-c617-49bb-bd64-c5dae1cd5cec.jpg\",\"https://images.f99.com.vn/images/f8d08bd9-d380-4f1f-ac7b-d70bf2aa7923.jpg\",\"https://images.f99.com.vn/images/89b0649f-6949-4398-b318-e018d07c5d9d.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lê xanh ",
+    "description": "<p>Hoa Quả Rau củ Tươi Ngon. Nhập mới hàng ngày.</p><p><br></p><p>Kho hàng: số 52 ngõ 365 đường Bưởi, Ba Đình</p><p><br></p><p>Đặt hàng rau củ quả thực phẩm tươi sống sạch chất lượng tại: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fhomeyfood.net%2F%3Ffbclid%3DIwAR2JSxaf4GfQlgE8nUH0__xHpH8v6NF_BMppYMwjdVoca6iDDHe6lN7uhpA&amp;h=AT1N_fAYZiYWuKq_b3RsKWHHIUCahTIGKOMbJ0fsSzdp9NMquXMl87dsM3BUkmXxyRilEIJ-NySoeY0GmS30O6Quh2y-BvQ3zaB1ECscOtQWuEVU0OSuNsXKS0nuJe5-gWi4nw\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--always-white);\">https://homeyfood.net</a></p>",
+    "imageUrl": "https://images.f99.com.vn/images/6752c3dd-2a89-4f7d-b5d3-37b04018bbd5.jpg",
+    "price": 45000,
+    "oldPrice": 60000,
+    "discountPercent": 25,
+    "stock": 999,
+    "totalSold": 5840,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 240,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 37,
+      "name": "Lê",
+      "imageUrl": "https://imgur.com/dbf34D0.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/6752c3dd-2a89-4f7d-b5d3-37b04018bbd5.jpg",
+      "https://images.f99.com.vn/images/38091cf3-c617-49bb-bd64-c5dae1cd5cec.jpg",
+      "https://images.f99.com.vn/images/f8d08bd9-d380-4f1f-ac7b-d70bf2aa7923.jpg",
+      "https://images.f99.com.vn/images/89b0649f-6949-4398-b318-e018d07c5d9d.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14308",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 74129,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 45000,
+        "oldPrice": 60000,
+        "discountPercent": 25,
+        "stock": 999,
+        "totalSold": 5840,
+        "unit": "kg",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 240,
+      "sellerRate": 4.5,
+      "sellerName": "Homey Fruit & Veg ",
+      "warehouseId": "ccb00cae-e276-4a1b-af4a-ae822ab5c570",
+      "warehouseAddress": "số 52 ngõ 376 Bưởi, Vĩnh Phúc, Ba Đình, Hà Nội",
+      "distance": 3021,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 77.89029707147643,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14503,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lê má hồng Nam Phi",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h3><strong>Lê Forelle Nam Phi</strong>&nbsp;chủ yếu được trồng ở Western Cape, tỉnh nằm phía Tây Nam đất nước Nam Phi, trải dài khoảng 400km về phía bắc dọc theo bờ biển Đại Tây Dương và Khoảng 500km về phía đông dọc theo bờ biển Ấn Độ Dương.</h3><h3>- Lê Forrele có nhiều chất xơ nên rất tốt cho sức khỏe giảm cholesterol trong cơ thể, ngăn ngừa các bệnh ung thư và tim mạch</h3><h3>- Có nguồn Vitamin C tốt (6mg trong 100g) tăng cường hệ miễn dịch cho cơ thể đồng thời tham gia sản xuất nhiều tế bào hồng cầu, tạo nhiều máu đỏ</h3><h3>- Hàm lượng Vitamen E cũng tốt (0.5mg trong 100g) rất tốt cho da</h3><h3>- Hàm lượng Kali cao (50mg trong 100g)&nbsp;</h3><h3>- Ít chất béo và Calo phù hợp với những người đang trong chế độ giảm cân</h3><h3>- Đặc biệt, thường xuyên ăn lê sẽ tăng được khả năng phòng chống chứng hay mệt, đồng thời tăng khả năng phòng chống được bệnh tăng huyết áp, sung đau họng.</h3>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/425a4e9b-4af4-470d-8e72-1e61a7600006.jpg\",\"https://images.f99.com.vn/images/ef32486c-82b3-4b96-bd39-57d1f7f62018.jpg\",\"https://images.f99.com.vn/images/cb2704af-a71e-47d5-8eec-9e70492b855b.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"lê\",\"lê nam phi\",\"nam phi\",\"táo\",\"đào\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lê má hồng Nam Phi",
+    "description": "<h3><strong>Lê Forelle Nam Phi</strong>&nbsp;chủ yếu được trồng ở Western Cape, tỉnh nằm phía Tây Nam đất nước Nam Phi, trải dài khoảng 400km về phía bắc dọc theo bờ biển Đại Tây Dương và Khoảng 500km về phía đông dọc theo bờ biển Ấn Độ Dương.</h3><h3>- Lê Forrele có nhiều chất xơ nên rất tốt cho sức khỏe giảm cholesterol trong cơ thể, ngăn ngừa các bệnh ung thư và tim mạch</h3><h3>- Có nguồn Vitamin C tốt (6mg trong 100g) tăng cường hệ miễn dịch cho cơ thể đồng thời tham gia sản xuất nhiều tế bào hồng cầu, tạo nhiều máu đỏ</h3><h3>- Hàm lượng Vitamen E cũng tốt (0.5mg trong 100g) rất tốt cho da</h3><h3>- Hàm lượng Kali cao (50mg trong 100g)&nbsp;</h3><h3>- Ít chất béo và Calo phù hợp với những người đang trong chế độ giảm cân</h3><h3>- Đặc biệt, thường xuyên ăn lê sẽ tăng được khả năng phòng chống chứng hay mệt, đồng thời tăng khả năng phòng chống được bệnh tăng huyết áp, sung đau họng.</h3>",
+    "imageUrl": "https://images.f99.com.vn/images/425a4e9b-4af4-470d-8e72-1e61a7600006.jpg",
+    "price": 109000,
+    "oldPrice": 119000,
+    "discountPercent": 8,
+    "stock": 150,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "SP011271",
+    "origin": "",
+    "sellerId": 193,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<h3><strong>Lê Nam Phi</strong>&nbsp;bảo quản tốt nhất ở nhiệt độ từ 0oC đến 4oC , để ở nhiệt độ thường 25oC Lê sẽ chín sau 1 đến 3 ngày. Vỏ lê rất dễ bị bầm dập, nên quý khách cần nhẹ tay, tránh làm rơi, va đập để giữ quả lê được đẹp.</h3>",
+    "category": {
+      "id": 37,
+      "name": "Lê",
+      "imageUrl": "https://imgur.com/dbf34D0.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "lê",
+      "lê nam phi",
+      "nam phi",
+      "táo",
+      "đào"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/425a4e9b-4af4-470d-8e72-1e61a7600006.jpg",
+      "https://images.f99.com.vn/images/ef32486c-82b3-4b96-bd39-57d1f7f62018.jpg",
+      "https://images.f99.com.vn/images/cb2704af-a71e-47d5-8eec-9e70492b855b.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14503",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg",
+          "3kg",
+          "5kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 14504,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 109000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 50,
+        "totalSold": 2,
+        "unit": "KG",
+        "sku": "SP011271",
+        "rating": 0,
+        "instructions": "<h3><strong>Lê Nam Phi</strong>&nbsp;bảo quản tốt nhất ở nhiệt độ từ 0oC đến 4oC , để ở nhiệt độ thường 25oC Lê sẽ chín sau 1 đến 3 ngày. Vỏ lê rất dễ bị bầm dập, nên quý khách cần nhẹ tay, tránh làm rơi, va đập để giữ quả lê được đẹp.</h3>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 14505,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "3kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 295000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 50,
+        "totalSold": 0,
+        "unit": "KG",
+        "sku": "SP011271",
+        "rating": 0,
+        "instructions": "<h3><strong>Lê Nam Phi</strong>&nbsp;bảo quản tốt nhất ở nhiệt độ từ 0oC đến 4oC , để ở nhiệt độ thường 25oC Lê sẽ chín sau 1 đến 3 ngày. Vỏ lê rất dễ bị bầm dập, nên quý khách cần nhẹ tay, tránh làm rơi, va đập để giữ quả lê được đẹp.</h3>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 14506,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "5kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 479000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 50,
+        "totalSold": 0,
+        "unit": "KG",
+        "sku": "SP011271",
+        "rating": 0,
+        "instructions": "<h3><strong>Lê Nam Phi</strong>&nbsp;bảo quản tốt nhất ở nhiệt độ từ 0oC đến 4oC , để ở nhiệt độ thường 25oC Lê sẽ chín sau 1 đến 3 ngày. Vỏ lê rất dễ bị bầm dập, nên quý khách cần nhẹ tay, tránh làm rơi, va đập để giữ quả lê được đẹp.</h3>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 193,
+      "sellerRate": 4.9,
+      "sellerName": "Royal Green Fruits",
+      "warehouseId": "54ea5d5f-edb9-4db9-9279-5db65d728ab8",
+      "warehouseAddress": "Shophouse D1 Mandarin Garden, Hoàng Minh Giám, Trung Hòa, Cầu Giấy, Hà Nội",
+      "distance": 4511,
+      "warehouseDistrict": "cau giay",
+      "reputation": 64.03561290322591,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 14686,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lê Hàn Quốc ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h3><strong>Giá trị dinh dưỡng của Lê Hàn Quốc</strong></h3><p>Trong 100g lê có chứa đến:</p><ul><li>86,5g nước&nbsp;</li><li>0,1 g chất béo</li><li>0,2g protein</li><li>11g carbohydrate</li><li>1,6g xơ</li><li>14mg canxi</li><li>13mg photpho</li><li>0,5mg sắt</li><li>0,2mg vitamin PP</li><li>1mg acid folic</li></ul><h3><strong>Công dụng của Lê Hàn Quốc</strong></h3><p>Với giá trị dinh dưỡng cao thì lê Hàn Quốc là loại trái cây rất tốt cho sức khỏe và làm đẹp.</p><h4><strong>Sức khỏe</strong></h4><ul><li class=\"ql-align-justify\">Theo y dược học cổ truyền, lê tính mát, hơi chua, có tác dụng thanh nhiệt, nhuận phế, tiêu đờm, giảm ho, thanh tâm giáng hỏa, dưỡng huyết, sinh tân dịch, nhuận trường.</li><li class=\"ql-align-justify\">Vỏ quả lê có giá trị chữa bệnh cao, giúp tiêu độc hạ nhiệt.</li><li class=\"ql-align-justify\">Với đa dạng các chất, vitamin có lợi cho sức khỏe giúp chống tiểu đường, chống cholesterol, cắt cơn đói nhanh chóng và bảo vệ trái tim luôn khỏe mạnh.</li></ul><h4><strong>Làm đẹp</strong></h4><ul><li class=\"ql-align-justify\">Lê Hàn Quốc mặc dù rất ngọt, song độ nóng và độ ngọt gây béo rất thấp, rất thích hợp với những ai thích ăn ngọt nhưng sợ tăng cân.</li><li class=\"ql-align-justify\">Với cách làm trên cung cấp nhiều dưỡng chất cho làn da như: với 86,5% là nước, vitamin E, betacarotene, chất chống oxy hóa, calcium, protein giúp liên kết và làm săn chắc các sợi collagen làm mờ các đốm nám, tàn nhan.</li><li class=\"ql-align-justify\">Bên cạnh đó, chị em có thể sử dụng lê Hàn Quốc để làm mặt nạ dưỡng da giúp căng da, giảm nếp nhăn, ngăn ngừa mụn, giảm độ nhờn và trắng da.</li></ul><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/c42f092d-665e-4b0f-9899-3f004344598b.jpg\",\"https://images.f99.com.vn/images/3117de05-5d10-4f6d-8c9d-1eb0b15be605.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lê Hàn Quốc ",
+    "description": "<h3><strong>Giá trị dinh dưỡng của Lê Hàn Quốc</strong></h3><p>Trong 100g lê có chứa đến:</p><ul><li>86,5g nước&nbsp;</li><li>0,1 g chất béo</li><li>0,2g protein</li><li>11g carbohydrate</li><li>1,6g xơ</li><li>14mg canxi</li><li>13mg photpho</li><li>0,5mg sắt</li><li>0,2mg vitamin PP</li><li>1mg acid folic</li></ul><h3><strong>Công dụng của Lê Hàn Quốc</strong></h3><p>Với giá trị dinh dưỡng cao thì lê Hàn Quốc là loại trái cây rất tốt cho sức khỏe và làm đẹp.</p><h4><strong>Sức khỏe</strong></h4><ul><li class=\"ql-align-justify\">Theo y dược học cổ truyền, lê tính mát, hơi chua, có tác dụng thanh nhiệt, nhuận phế, tiêu đờm, giảm ho, thanh tâm giáng hỏa, dưỡng huyết, sinh tân dịch, nhuận trường.</li><li class=\"ql-align-justify\">Vỏ quả lê có giá trị chữa bệnh cao, giúp tiêu độc hạ nhiệt.</li><li class=\"ql-align-justify\">Với đa dạng các chất, vitamin có lợi cho sức khỏe giúp chống tiểu đường, chống cholesterol, cắt cơn đói nhanh chóng và bảo vệ trái tim luôn khỏe mạnh.</li></ul><h4><strong>Làm đẹp</strong></h4><ul><li class=\"ql-align-justify\">Lê Hàn Quốc mặc dù rất ngọt, song độ nóng và độ ngọt gây béo rất thấp, rất thích hợp với những ai thích ăn ngọt nhưng sợ tăng cân.</li><li class=\"ql-align-justify\">Với cách làm trên cung cấp nhiều dưỡng chất cho làn da như: với 86,5% là nước, vitamin E, betacarotene, chất chống oxy hóa, calcium, protein giúp liên kết và làm săn chắc các sợi collagen làm mờ các đốm nám, tàn nhan.</li><li class=\"ql-align-justify\">Bên cạnh đó, chị em có thể sử dụng lê Hàn Quốc để làm mặt nạ dưỡng da giúp căng da, giảm nếp nhăn, ngăn ngừa mụn, giảm độ nhờn và trắng da.</li></ul><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/c42f092d-665e-4b0f-9899-3f004344598b.jpg",
+    "price": 105000,
+    "oldPrice": 135000,
+    "discountPercent": 22,
+    "stock": 20000,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "11",
+    "origin": "",
+    "sellerId": 236,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<h2><strong>Cách chọn lê Hàn Quốc ngon</strong></h2><ul><li class=\"ql-align-justify\">Mua lê vào đúng mùa, lê trái mùa có chứa nhiều chất kích thích rất độc hại.</li><li class=\"ql-align-justify\">Ngày hết hạn: mỗi thùng lê Hàn Quốc nhập khẩu trực tiếp hoặc hộp Cherry Mỹ bán tại siêu thị đều có thông tin ngày đóng gói và ngày hết hạn sử dụng, bạn cần xem kỹ thông tin này.</li><li class=\"ql-align-justify\">Nếu chọn mua từ cửa hàng trái cây nhập khẩu, bạn hoàn toàn có thể yêu cầu shop cho xem giấy chứng nhận, nguồn gốc xuất xứ, bill nhập hàng, ngày nhập, hạn dùng của lô hàn Quốc nhập khẩu.</li><li class=\"ql-align-justify\">Tránh mua lê Hàn Quốc bị mềm, nhão, bị dập chảy nước.</li></ul><h2><strong>Cách bảo quản lê Hàn Quốc</strong></h2><ul><li class=\"ql-align-justify\">Lê Hàn Quốc thường được ăn tươi hoặc ép nước, không dùng để nướng bánh vì chúng có hàm lượng nước cao.</li><li class=\"ql-align-justify\">Nên bảo quản trong tủ lạnh, cần nhẹ tay vì lê rất dễ bị dập, thâm bên trong.</li><li class=\"ql-align-justify\">Nhiệt độ thích hợp để bảo quản Lê Hàn Quốc thường là 0-4 độ C</li><li class=\"ql-align-justify\">Lê Hàn Quốc có thể được bảo quản trong tủ lạnh khoảng vài tuần.</li></ul><p><br></p>",
+    "category": {
+      "id": 37,
+      "name": "Lê",
+      "imageUrl": "https://imgur.com/dbf34D0.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/c42f092d-665e-4b0f-9899-3f004344598b.jpg",
+      "https://images.f99.com.vn/images/3117de05-5d10-4f6d-8c9d-1eb0b15be605.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/14686",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 236,
+      "sellerRate": 3.3,
+      "sellerName": "Tonkin Fruits",
+      "warehouseId": "89ed028b-b678-42d8-b5f1-e7243035ce2d",
+      "warehouseAddress": "hoan kiem, Số 84 Bà Triệu, Hàng Bài, Hoàn Kiếm, Hà Nội",
+      "distance": 1826,
+      "warehouseDistrict": "hoan kiem",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 17086,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lê Nâu Hàn Quốc ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p _msthash=\"12616657\" _msttexthash=\"2162069\"><strong style=\"color: rgb(0, 0, 0);\">Đặc điểm</strong><span style=\"color: rgb(0, 0, 0);\">:</span></p><p><span style=\"color: rgb(0, 0, 0);\" _msthash=\"16178097\" _msttexthash=\"34984833\">Lê Hàn Quốc quảng cáo, trọng có trọng màu trắng, vàng, có ngọt, ngon ngon. Đó là trái cây và lai tạo táo và lê.</span></p><p><span style=\"color: rgb(0, 0, 0);\" _msthash=\"16940287\" _msttexthash=\"51619672\">Không giống như các tác giả lê là lúc chín lê vẫn còn giữ giòn, đặc biệt là lê không phải là thâm khi ra chỉ khi ngon ngon món salad.</span></p><p><strong style=\"color: rgb(0, 0, 0);\" _msthash=\"17718077\" _msttexthash=\"3532958\">Giá trị dinh dưỡng:&nbsp;</strong></p><p><span style=\"color: rgb(0, 0, 0);\" _msthash=\"19952517\" _msttexthash=\"131270633\">Theo y dược học cổ truyền, lê tính mát, hơi chua, có tác dụng thanh nhiệt, nhuận phế, tiêu đờm, giảm ho, thanh tâm giáng sinh, huyết, sinh tân dịch, nhuận trường, tiêu độc.</span></p><p><span style=\"color: rgb(0, 0, 0);\" _msthash=\"20793851\" _msttexthash=\"488947368\"> Lê giàu các chất xơ tan, lê thực sự là trái cây chống lại tiểu đường, chống cholesterol và đói nhanh chóng chóng. Thêm vào đó, có thể là một trong những tác phẩm của ra tình trạng này. Quảng lê giàu chất dinh dưỡng. 100g nước 86,5g, 0,1g béo, 0,2g protein, 11g carbohydrat, 1,6g, 14mg, canxi 13mg phospho, 0,5mg, 0,2mg vitamin PP, vitamin P, C, betacaroten, 1mg acid folic. Vì vậy, các món ăn thực tế, lê có có chất xơ có vai trò quan trọng trong chuyển hóa.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/4f3bf25c-fbd9-415d-89df-cc1ecb203e7a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lê Nâu Hàn Quốc ",
+    "description": "<p _msthash=\"12616657\" _msttexthash=\"2162069\"><strong style=\"color: rgb(0, 0, 0);\">Đặc điểm</strong><span style=\"color: rgb(0, 0, 0);\">:</span></p><p><span style=\"color: rgb(0, 0, 0);\" _msthash=\"16178097\" _msttexthash=\"34984833\">Lê Hàn Quốc quảng cáo, trọng có trọng màu trắng, vàng, có ngọt, ngon ngon. Đó là trái cây và lai tạo táo và lê.</span></p><p><span style=\"color: rgb(0, 0, 0);\" _msthash=\"16940287\" _msttexthash=\"51619672\">Không giống như các tác giả lê là lúc chín lê vẫn còn giữ giòn, đặc biệt là lê không phải là thâm khi ra chỉ khi ngon ngon món salad.</span></p><p><strong style=\"color: rgb(0, 0, 0);\" _msthash=\"17718077\" _msttexthash=\"3532958\">Giá trị dinh dưỡng:&nbsp;</strong></p><p><span style=\"color: rgb(0, 0, 0);\" _msthash=\"19952517\" _msttexthash=\"131270633\">Theo y dược học cổ truyền, lê tính mát, hơi chua, có tác dụng thanh nhiệt, nhuận phế, tiêu đờm, giảm ho, thanh tâm giáng sinh, huyết, sinh tân dịch, nhuận trường, tiêu độc.</span></p><p><span style=\"color: rgb(0, 0, 0);\" _msthash=\"20793851\" _msttexthash=\"488947368\"> Lê giàu các chất xơ tan, lê thực sự là trái cây chống lại tiểu đường, chống cholesterol và đói nhanh chóng chóng. Thêm vào đó, có thể là một trong những tác phẩm của ra tình trạng này. Quảng lê giàu chất dinh dưỡng. 100g nước 86,5g, 0,1g béo, 0,2g protein, 11g carbohydrat, 1,6g, 14mg, canxi 13mg phospho, 0,5mg, 0,2mg vitamin PP, vitamin P, C, betacaroten, 1mg acid folic. Vì vậy, các món ăn thực tế, lê có có chất xơ có vai trò quan trọng trong chuyển hóa.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/4f3bf25c-fbd9-415d-89df-cc1ecb203e7a.jpg",
+    "price": 139000,
+    "oldPrice": 189000,
+    "discountPercent": 26,
+    "stock": 200,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 286,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 37,
+      "name": "Lê",
+      "imageUrl": "https://imgur.com/dbf34D0.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/4f3bf25c-fbd9-415d-89df-cc1ecb203e7a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/17086",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "~1.2KG",
+          "~2.2KG"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 19319,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "~1.2KG",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "~1.2KG",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "~1.2KG",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 159000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "~1.2KG"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 19320,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "~2.2KG",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "~2.2KG",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "~2.2KG",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 299000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 1,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "~2.2KG"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 286,
+      "sellerRate": 4.8,
+      "sellerName": "Anh Châu Fruits ",
+      "warehouseId": "90d03d1d-fd20-41cb-a98e-29d57c1ae2cb",
+      "warehouseAddress": "110D11 Thái Thịnh, Thịnh Quang, Đống Đa, Hà Nội",
+      "distance": 2524,
+      "warehouseDistrict": "dong da",
+      "reputation": 78.82694902298906,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 17093,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lê Sữa Hàn Quốc (Quả 500gr ~ 700gr)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><strong>Với kích thước to tròn, vẻ ngoài mịn màng, căng mọng đẹp long lanh. Tuy nhiên, chất lượng thực sự của lê sữa Hàn Quốc nằm ở công dụng ngàn vàng đối với sức khoẻ con người.&nbsp;</strong></p><p><br></p><p><strong>Lê Hàn Quốc&nbsp;</strong>được trồng chủ yếu tại vùng Nachi, là loại lê đẳng cấp nhất được trồng tại các nhà vườn danh tiếng của Hàn Quốc.</p><p>Một quả size lớn nặng khoảng 500-1000 gram/quả. Lê có vỏ mỏng, căng, mượt không tì vết, thịt lê rất giòn, ngọt và nhiều nước. Cắn một miếng chắc chắn bạn sẽ thấy khác biệt về hương vị của các loại lê chuyên xuất khẩu tại các thị trường cao cấp tại Nhật Bản, Mỹ, Đức…</p><p>Lê sữa Hàn Quốc có mùa từ tháng 10-12 hàng năm.</p><p>Lê sữa Hàn Quốc có quả hình tròn, màu vàng nhạt, thịt quả trắng giòn, ngọt nhiều nước.<strong>&nbsp;Lê sữa Hàn Quốc</strong>&nbsp;có tính lạnh, bình hoà không độc hại, rất giàu vitamin và pectin là chất giúp tăng độ xốp và men vi sinh giúp hệ tiêu hoá ổn định và khoẻ mạnh.</p><p>Hàn Quốc vô cùng nổi tiếng với các loại lê size lớn, nổi bật là hai loại lê nâu và lê sữa. So với lê nâu, lê sữa có màu trắng đốm đen, da mỏng đẹp. Lượng nước trong quả lê rất nhiều, lê ngọt thanh mà không hề ngọt gắt.</p><p>Không giống như các loại lê khác, lê sữa Hàn Quốc giữ nguyên được độ giòn, đặc biệt lê không bị thâm khi bổ ra nên rất ngon khi dùng trong món salad.</p><p>Lê Hàn Quốc được du nhập sang Việt Nam từ lâu, được người tiêu dùng Việt Nam ưa chuộng bởi chất lượng đã được khẳng định trên toàn thế giới. Mỗi năm cứ đến mùa lê Hàn Quốc, người Việt lại săn đón vô cùng nhiệt tình.</p><h2>Chất lượng tạo nên giá trị</h2><p>Để đánh giá được một loại<a href=\"https://hoaquafuji.com/post/top-5-trai-cay-cung-than-tai-mang-tai-loc\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(38, 147, 0);\">&nbsp;<strong>trái cây tươi</strong></a>&nbsp;ngon hay không thì dựa vào hình thức và hương vị, để biết được lý do vì sao một loại trái cây được ưa chuộng thì phải dựa vào cả giá trị nó mang đến cho người dùng. Lê Hàn Quốc được đánh giá là loại<a href=\"https://hoaquafuji.com/post/an-trai-cay\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(38, 147, 0);\"><strong>&nbsp;trái cây</strong></a>&nbsp;giàu dinh dưỡng, đó chính là lý do mà nó được săn đón nhiệt tình đến vậy.</p><p>Theo y học cổ truyền, lê Hàn Quốc có tính mát, có tác dụng thanh nhiệt, nhuận phế, tiêu đờm, giảm ho, thanh tâm giáng hoả, dưỡng huyết, nhuận trường, tiêu độc…</p><p>Theo nghiên cứu, một quả lê Hàn Quốc có chứa nhiều chất dinh dưỡng và khoáng chất khác nhau như đạm, vitamin C, vitamin K, kali và một lượng nhỏ canxi, sắt, magie, vitamin B6, flote. Vì thế mà lê sữa Hàn Quốc có công dụng rất lớn đối với cơ thể:</p><ul><li>Giảm nguy cơ mắc bệnh tiểu đường</li><li>Giảm cholesterol dư thừa</li><li>Phòng ngừa loãng xương</li><li>Tăng cường hệ miễn dịch</li><li>Giảm cân</li></ul><p>Lê sữa Hàn Quốc được xếp trong top trái cây cung cấp một lượng nước lớn.</p><h3>Cụ thể như:</h3><ul><li>Lê giàu chất xơ dễ tan, lê thực sự là loại trái cây chống tiểu đường, chống cholesterol và cắt cơn đói nhanh chóng.</li><li>Vỏ lê Hàn Quốc có giá trị chữa bệnh cao, có lợi cho tim và phổi, giúp tiêu độc hạ nhiệt.</li><li>Lê Hàn vô cùng nhiều vitamin A, B, C, D và E. Một trái lê có thể cung cấp 10% hàm lượng vitamin C và hàm lượng canxi lớn.</li><li>Lê Hàn mặc dù có độ ngọt song độ nóng và độ ngọt gây béo thấp, thích hợp với những ai thích ăn ngọt nhưng sợ tăng cân.</li></ul>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/488f4dd9-76fc-4905-9974-559f20cd819b.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lê Sữa Hàn Quốc (Quả 500gr ~ 700gr)",
+    "description": "<p><strong>Với kích thước to tròn, vẻ ngoài mịn màng, căng mọng đẹp long lanh. Tuy nhiên, chất lượng thực sự của lê sữa Hàn Quốc nằm ở công dụng ngàn vàng đối với sức khoẻ con người.&nbsp;</strong></p><p><br></p><p><strong>Lê Hàn Quốc&nbsp;</strong>được trồng chủ yếu tại vùng Nachi, là loại lê đẳng cấp nhất được trồng tại các nhà vườn danh tiếng của Hàn Quốc.</p><p>Một quả size lớn nặng khoảng 500-1000 gram/quả. Lê có vỏ mỏng, căng, mượt không tì vết, thịt lê rất giòn, ngọt và nhiều nước. Cắn một miếng chắc chắn bạn sẽ thấy khác biệt về hương vị của các loại lê chuyên xuất khẩu tại các thị trường cao cấp tại Nhật Bản, Mỹ, Đức…</p><p>Lê sữa Hàn Quốc có mùa từ tháng 10-12 hàng năm.</p><p>Lê sữa Hàn Quốc có quả hình tròn, màu vàng nhạt, thịt quả trắng giòn, ngọt nhiều nước.<strong>&nbsp;Lê sữa Hàn Quốc</strong>&nbsp;có tính lạnh, bình hoà không độc hại, rất giàu vitamin và pectin là chất giúp tăng độ xốp và men vi sinh giúp hệ tiêu hoá ổn định và khoẻ mạnh.</p><p>Hàn Quốc vô cùng nổi tiếng với các loại lê size lớn, nổi bật là hai loại lê nâu và lê sữa. So với lê nâu, lê sữa có màu trắng đốm đen, da mỏng đẹp. Lượng nước trong quả lê rất nhiều, lê ngọt thanh mà không hề ngọt gắt.</p><p>Không giống như các loại lê khác, lê sữa Hàn Quốc giữ nguyên được độ giòn, đặc biệt lê không bị thâm khi bổ ra nên rất ngon khi dùng trong món salad.</p><p>Lê Hàn Quốc được du nhập sang Việt Nam từ lâu, được người tiêu dùng Việt Nam ưa chuộng bởi chất lượng đã được khẳng định trên toàn thế giới. Mỗi năm cứ đến mùa lê Hàn Quốc, người Việt lại săn đón vô cùng nhiệt tình.</p><h2>Chất lượng tạo nên giá trị</h2><p>Để đánh giá được một loại<a href=\"https://hoaquafuji.com/post/top-5-trai-cay-cung-than-tai-mang-tai-loc\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(38, 147, 0);\">&nbsp;<strong>trái cây tươi</strong></a>&nbsp;ngon hay không thì dựa vào hình thức và hương vị, để biết được lý do vì sao một loại trái cây được ưa chuộng thì phải dựa vào cả giá trị nó mang đến cho người dùng. Lê Hàn Quốc được đánh giá là loại<a href=\"https://hoaquafuji.com/post/an-trai-cay\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(38, 147, 0);\"><strong>&nbsp;trái cây</strong></a>&nbsp;giàu dinh dưỡng, đó chính là lý do mà nó được săn đón nhiệt tình đến vậy.</p><p>Theo y học cổ truyền, lê Hàn Quốc có tính mát, có tác dụng thanh nhiệt, nhuận phế, tiêu đờm, giảm ho, thanh tâm giáng hoả, dưỡng huyết, nhuận trường, tiêu độc…</p><p>Theo nghiên cứu, một quả lê Hàn Quốc có chứa nhiều chất dinh dưỡng và khoáng chất khác nhau như đạm, vitamin C, vitamin K, kali và một lượng nhỏ canxi, sắt, magie, vitamin B6, flote. Vì thế mà lê sữa Hàn Quốc có công dụng rất lớn đối với cơ thể:</p><ul><li>Giảm nguy cơ mắc bệnh tiểu đường</li><li>Giảm cholesterol dư thừa</li><li>Phòng ngừa loãng xương</li><li>Tăng cường hệ miễn dịch</li><li>Giảm cân</li></ul><p>Lê sữa Hàn Quốc được xếp trong top trái cây cung cấp một lượng nước lớn.</p><h3>Cụ thể như:</h3><ul><li>Lê giàu chất xơ dễ tan, lê thực sự là loại trái cây chống tiểu đường, chống cholesterol và cắt cơn đói nhanh chóng.</li><li>Vỏ lê Hàn Quốc có giá trị chữa bệnh cao, có lợi cho tim và phổi, giúp tiêu độc hạ nhiệt.</li><li>Lê Hàn vô cùng nhiều vitamin A, B, C, D và E. Một trái lê có thể cung cấp 10% hàm lượng vitamin C và hàm lượng canxi lớn.</li><li>Lê Hàn mặc dù có độ ngọt song độ nóng và độ ngọt gây béo thấp, thích hợp với những ai thích ăn ngọt nhưng sợ tăng cân.</li></ul>",
+    "imageUrl": "https://images.f99.com.vn/images/488f4dd9-76fc-4905-9974-559f20cd819b.jpg",
+    "price": 169000,
+    "oldPrice": 189000,
+    "discountPercent": 11,
+    "stock": 120,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 286,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 37,
+      "name": "Lê",
+      "imageUrl": "https://imgur.com/dbf34D0.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/488f4dd9-76fc-4905-9974-559f20cd819b.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/17093",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "~1,2KG",
+          "~2,2kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 19321,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "~1,2KG",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "~1,2KG",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "~1,2KG",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 189000,
+        "oldPrice": 189000,
+        "discountPercent": 0,
+        "stock": 60,
+        "totalSold": 0,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "~1,2KG"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 19322,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "~2,2kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "~2,2kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "~2,2kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 349000,
+        "oldPrice": 189000,
+        "discountPercent": -85,
+        "stock": 60,
+        "totalSold": 0,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "~2,2kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 286,
+      "sellerRate": 4.8,
+      "sellerName": "Anh Châu Fruits ",
+      "warehouseId": "90d03d1d-fd20-41cb-a98e-29d57c1ae2cb",
+      "warehouseAddress": "110D11 Thái Thịnh, Thịnh Quang, Đống Đa, Hà Nội",
+      "distance": 2524,
+      "warehouseDistrict": "dong da",
+      "reputation": 78.82694902298906,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 17304,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lê Sữa Hàn ",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Lê Nâu Hàn</p><ul><li>Quả lê tròn - màu nâu sẫm</li><li>Quả lê ngọt thanh - mọng nước</li><li>Chứa nhiều chất dinh dưỡng</li></ul>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/61222c75-a164-4a22-a9dd-9c0059742e37.jpg\",\"https://images.f99.com.vn/images/3b7b418c-e97a-43a1-858a-077f34c68af8.jpg\",\"https://images.f99.com.vn/images/af6173cf-9986-46a5-b239-88319e03c8a1.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Lê\",\"Lê hàn\",\"Lê nâu hàn\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lê Sữa Hàn ",
+    "description": "<p>Lê Nâu Hàn</p><ul><li>Quả lê tròn - màu nâu sẫm</li><li>Quả lê ngọt thanh - mọng nước</li><li>Chứa nhiều chất dinh dưỡng</li></ul>",
+    "imageUrl": "https://images.f99.com.vn/images/61222c75-a164-4a22-a9dd-9c0059742e37.jpg",
+    "price": 89000,
+    "oldPrice": 125000,
+    "discountPercent": 29,
+    "stock": 60,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "LNH",
+    "origin": "",
+    "sellerId": 277,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 37,
+      "name": "Lê",
+      "imageUrl": "https://imgur.com/dbf34D0.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Lê",
+      "Lê hàn",
+      "Lê nâu hàn"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/61222c75-a164-4a22-a9dd-9c0059742e37.jpg",
+      "https://images.f99.com.vn/images/3b7b418c-e97a-43a1-858a-077f34c68af8.jpg",
+      "https://images.f99.com.vn/images/af6173cf-9986-46a5-b239-88319e03c8a1.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/17304",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "2 quả"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 36445,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2 quả",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "2 quả",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2 quả",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 110000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 60,
+        "totalSold": 2,
+        "unit": "kg",
+        "sku": "LNH",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "2 quả"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 277,
+      "sellerRate": 4.4,
+      "sellerName": "Cửa hàng trái cây nhập khẩu Fresh Safe Fruits ",
+      "warehouseId": "3e83d44f-ec12-4b20-91a8-4e64e47bf46f",
+      "warehouseAddress": "Số ML6-23 đường Mộc Lan, Khu đô thị Vinhomes Green Bay, Mễ Trì, Nam Từ Liêm, Hà Nội",
+      "distance": 5793,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 71.89346119658168,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 17939,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lê Hàn",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dưa Lê của Hàn Quốc được nhiều chuyên gia đánh giá rất cao về chất lượng khi sử dụng. Nhìn chung&nbsp;<strong><em>dưa lê Hàn Quốc</em></strong>&nbsp;có phần khác với giống Lê tại Việt Nam. Ngay từ vẻ ngoài của quả Lê cũng có thể thấy điểm khác biệt này. Cụ thể sự khác biệt ấy chính là:</p><ul><li>Quả Lê thuộc loại Lê phương Tây có kết cấu bề ngoài khá giống quả táo.</li><li>Vỏ quả Lê có tone màu vàng nhạt điểm chấm các chấm trắng phía trên.</li><li>Trong phần vỏ mỏng the là phần thịt bên màu trắng giống với Lê Việt Nam.</li><li>Khi cắn lê vào miệng thịt quả Lê tràn đầy nước và rất giòn.</li><li>Lê có vị ngọt mạnh hơn và hơi chua ở phần lõi.</li><li>Mùa Lê thu hoạch sẽ có phần giai dẳng với 3 khoảng thời gian khác nhau. Những quả Lê thu hoạch đầu tiên sẽ được ăn cuối cùng.</li></ul>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/8d7ac054-7efa-46a6-b613-82b4727d5b86.jpg\",\"https://images.f99.com.vn/images/eb8a2bdd-2ddd-4faa-8575-c6da806ace2d.jpg\",\"https://images.f99.com.vn/images/f4c192ad-4611-4489-bdc8-b4f8247c9b47.jpg\",\"https://images.f99.com.vn/images/b50f4430-70c6-483f-82d6-3e49fdfa076d.jpg\",\"https://images.f99.com.vn/images/6e09f6e0-c42c-4a11-bbd1-78710cdb4077.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lê Hàn",
+    "description": "<p>Dưa Lê của Hàn Quốc được nhiều chuyên gia đánh giá rất cao về chất lượng khi sử dụng. Nhìn chung&nbsp;<strong><em>dưa lê Hàn Quốc</em></strong>&nbsp;có phần khác với giống Lê tại Việt Nam. Ngay từ vẻ ngoài của quả Lê cũng có thể thấy điểm khác biệt này. Cụ thể sự khác biệt ấy chính là:</p><ul><li>Quả Lê thuộc loại Lê phương Tây có kết cấu bề ngoài khá giống quả táo.</li><li>Vỏ quả Lê có tone màu vàng nhạt điểm chấm các chấm trắng phía trên.</li><li>Trong phần vỏ mỏng the là phần thịt bên màu trắng giống với Lê Việt Nam.</li><li>Khi cắn lê vào miệng thịt quả Lê tràn đầy nước và rất giòn.</li><li>Lê có vị ngọt mạnh hơn và hơi chua ở phần lõi.</li><li>Mùa Lê thu hoạch sẽ có phần giai dẳng với 3 khoảng thời gian khác nhau. Những quả Lê thu hoạch đầu tiên sẽ được ăn cuối cùng.</li></ul>",
+    "imageUrl": "https://images.f99.com.vn/images/8d7ac054-7efa-46a6-b613-82b4727d5b86.jpg",
+    "price": 149000,
+    "oldPrice": 169000,
+    "discountPercent": 12,
+    "stock": 1,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 90,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Lê thường được ăn tươi hoặc ép nước, không dùng để nướng bánh vì chúng có hàm lượng nước cao.</p><p>Nên bảo quản trong tủ lạnh, cần nhẹ tay vì lê rất dễ bị dập, thâm bên trong.</p><p>Lê có thể được bảo quản trong tủ lạnh khoảng vài tuần.</p><p>Nên bảo quản lê trong túi giấy hoặc màng co thực phẩm.</p><p>Tránh để lê tiếp xúc trực tiếp với ánh nắng mặt trời hoặc nhiệt độ lạnh.</p>",
+    "category": {
+      "id": 37,
+      "name": "Lê",
+      "imageUrl": "https://imgur.com/dbf34D0.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/8d7ac054-7efa-46a6-b613-82b4727d5b86.jpg",
+      "https://images.f99.com.vn/images/eb8a2bdd-2ddd-4faa-8575-c6da806ace2d.jpg",
+      "https://images.f99.com.vn/images/f4c192ad-4611-4489-bdc8-b4f8247c9b47.jpg",
+      "https://images.f99.com.vn/images/b50f4430-70c6-483f-82d6-3e49fdfa076d.jpg",
+      "https://images.f99.com.vn/images/6e09f6e0-c42c-4a11-bbd1-78710cdb4077.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/17939",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 90,
+      "sellerRate": 3.8,
+      "sellerName": "Olika Fruits",
+      "warehouseId": "68b095bb-f093-4314-be68-2fd424e6edb0",
+      "warehouseAddress": "115 Nguyễn Hoàng, Mỹ Đình 2, Từ Liêm, Hà Nội, Việt Nam",
+      "distance": 6642,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 44.164000000000534,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 18131,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lê Hàn có tem truy xuất - VIHAFOOD",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Lê Hàn giòn, ngọt, mọng nước, là loại&nbsp;trái cây nhập khẩu&nbsp;rất được yêu thích, lê Hàn bổ sung nhiều chất xơ, vitamin và khoáng chất cho cơ thể khoẻ và da đẹp, dáng chuẩn hơn.</p><p><br></p><p>CÔNG DỤNG CỦA QUẢ LÊ</p><p>✓&nbsp;Giảm nguy cơ mắc các bệnh tim mạch, tăng cường hệ miễn dịch cho cơ thể khỏe mạnh</p><p>✓ Chứa nhiều chất xơ tốt cho hệ tiêu hóa, đồng thời giúp làm giảm các bệnh về đường ruột</p><p>✓ Dồi dào khoáng chất và chất chống oxy hóa, giúp ngăn ngừa bệnh ung thư</p><p>✓ Loại&nbsp;<a href=\"http://xn--tri%20cy-9yap/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(40, 138, 214);\">trái cây</a>&nbsp;này còn tốt cho hệ xương và da</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/4a017625-6ce9-41f9-9ce7-b77300f36df7.jpg\",\"https://images.f99.com.vn/images/3bfc881a-529e-4c22-a5f2-6d640e2d870b.jpg\",\"https://images.f99.com.vn/images/ee6d05bf-40e5-43b9-b2b8-4a965be216c4.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lê Hàn có tem truy xuất - VIHAFOOD",
+    "description": "<p>Lê Hàn giòn, ngọt, mọng nước, là loại&nbsp;trái cây nhập khẩu&nbsp;rất được yêu thích, lê Hàn bổ sung nhiều chất xơ, vitamin và khoáng chất cho cơ thể khoẻ và da đẹp, dáng chuẩn hơn.</p><p><br></p><p>CÔNG DỤNG CỦA QUẢ LÊ</p><p>✓&nbsp;Giảm nguy cơ mắc các bệnh tim mạch, tăng cường hệ miễn dịch cho cơ thể khỏe mạnh</p><p>✓ Chứa nhiều chất xơ tốt cho hệ tiêu hóa, đồng thời giúp làm giảm các bệnh về đường ruột</p><p>✓ Dồi dào khoáng chất và chất chống oxy hóa, giúp ngăn ngừa bệnh ung thư</p><p>✓ Loại&nbsp;<a href=\"http://xn--tri%20cy-9yap/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(40, 138, 214);\">trái cây</a>&nbsp;này còn tốt cho hệ xương và da</p>",
+    "imageUrl": "https://images.f99.com.vn/images/4a017625-6ce9-41f9-9ce7-b77300f36df7.jpg",
+    "price": 119000,
+    "oldPrice": 150000,
+    "discountPercent": 21,
+    "stock": 20,
+    "totalSold": 12,
+    "maxQuantityPerUser": null,
+    "unit": "1.13-1.2KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 244,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ngăn mát tủ lạnh</p>",
+    "category": {
+      "id": 37,
+      "name": "Lê",
+      "imageUrl": "https://imgur.com/dbf34D0.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/4a017625-6ce9-41f9-9ce7-b77300f36df7.jpg",
+      "https://images.f99.com.vn/images/3bfc881a-529e-4c22-a5f2-6d640e2d870b.jpg",
+      "https://images.f99.com.vn/images/ee6d05bf-40e5-43b9-b2b8-4a965be216c4.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/18131",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1.13-1.2KG"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 72870,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1.13-1.2KG",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1.13-1.2KG",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1.13-1.2KG",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 119000,
+        "oldPrice": 150000,
+        "discountPercent": 21,
+        "stock": 20,
+        "totalSold": 12,
+        "unit": "1.13-1.2KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ngăn mát tủ lạnh</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1.13-1.2KG"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 244,
+      "sellerRate": 4.7,
+      "sellerName": "VIHAFOOD - Đặc sản vùng miền",
+      "warehouseId": "cf85b1b1-6f2a-49b3-b125-e261f6bfc30a",
+      "warehouseAddress": "111 Phố Đội Cấn, Ba Đình, Hà Nội",
+      "distance": 1098,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 80.86123101095345,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 24833,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Lê sữa Hàn Quốc",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p Class=\"ql-align-justify\">Lê Hàn Quốc quả to, tròn, hương thơm thanh mát.</p><p class=\"ql-align-justify\">Lớp vỏ màu sữa, thịt quả màu trắng, ăn rất giòn.</p><p class=\"ql-align-justify\">Bảo quản tươi ngon và giao hàng đến tận tay quý khách.</p><p class=\"ql-align-justify\">Lê chứa vitamin A, B, C, D, E cùng hàm lượng vitamin C và canxi khá lớn.</p><p class=\"ql-align-justify\">Lê không có chất béo, cholesterol nên ăn Lê còn có tác dụng làm giảm cân.</p><p class=\"ql-align-justify\">Ngăn ngừa các bệnh ung thư, hỗ trợ điều trị huyết áp cao, bệnh tiểu đường và các bệnh về tim mạch.</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/8223fc00-458e-401d-b345-2b7eb7749d7e.jpg\",\"https://images.f99.com.vn/images/790d6b94-ba81-40fa-ab92-8aa850d2fdec.jpg\",\"https://images.f99.com.vn/images/eb59f5b5-c3e3-4aa0-87f4-0e80cad1ab9d.jpg\",\"https://images.f99.com.vn/images/88b9d0f2-cee8-4ad6-8e2a-cc6c332f7727.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Lê sữa Hàn Quốc",
+    "description": "<p Class=\"ql-align-justify\">Lê Hàn Quốc quả to, tròn, hương thơm thanh mát.</p><p class=\"ql-align-justify\">Lớp vỏ màu sữa, thịt quả màu trắng, ăn rất giòn.</p><p class=\"ql-align-justify\">Bảo quản tươi ngon và giao hàng đến tận tay quý khách.</p><p class=\"ql-align-justify\">Lê chứa vitamin A, B, C, D, E cùng hàm lượng vitamin C và canxi khá lớn.</p><p class=\"ql-align-justify\">Lê không có chất béo, cholesterol nên ăn Lê còn có tác dụng làm giảm cân.</p><p class=\"ql-align-justify\">Ngăn ngừa các bệnh ung thư, hỗ trợ điều trị huyết áp cao, bệnh tiểu đường và các bệnh về tim mạch.</p>",
+    "imageUrl": "https://images.f99.com.vn/images/8223fc00-458e-401d-b345-2b7eb7749d7e.jpg",
+    "price": 69000,
+    "oldPrice": 99000,
+    "discountPercent": 30,
+    "stock": 400,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Quả",
+    "sku": "",
+    "origin": "",
+    "sellerId": 79,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 37,
+      "name": "Lê",
+      "imageUrl": "https://imgur.com/dbf34D0.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/8223fc00-458e-401d-b345-2b7eb7749d7e.jpg",
+      "https://images.f99.com.vn/images/790d6b94-ba81-40fa-ab92-8aa850d2fdec.jpg",
+      "https://images.f99.com.vn/images/eb59f5b5-c3e3-4aa0-87f4-0e80cad1ab9d.jpg",
+      "https://images.f99.com.vn/images/88b9d0f2-cee8-4ad6-8e2a-cc6c332f7727.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/24833",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "0.43kg",
+          "0.5kg",
+          "1kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 91669,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 149000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "Quả",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 91670,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "0.5kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "0.5kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "0.5kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 79000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "Quả",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "0.5kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 96953,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "0.43kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "0.43kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "0.43kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 69000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 200,
+        "totalSold": 0,
+        "unit": "Quả",
+        "sku": "",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "0.43kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 79,
+      "sellerRate": 4.6,
+      "sellerName": "Bee Fruits - Trái Cây Nhập Khẩu",
+      "warehouseId": "93099fc8-cde8-46ed-b203-44dfddc85c45",
+      "warehouseAddress": "số 210K, Đội Cấn, Ba Đình, Hà Nội",
+      "distance": 1554,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 78.75352863930483,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": 558,
+  "name": "Siêu Thị Meli Mart",
+  "logo": "https://cdn.f99.link/groupbuy-images/f3d3e2bd-a942-4e4a-89ca-a27ad6e89ef8.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Siêu Thị Meli Mart chuyên cung cấp thực phẩm sạch uy tín, chất lượng.",
+  "headQuarter": "Căn A2SO.08A Vinhomes Gardenia, Đường Hàm Nghi, Cầu Diễn, Nam Từ Liêm, Hà Nội",
+  "email": "ntkimthu0512@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 3.3,
+  "availableTime": {
+    "openTime": "06:00",
+    "closeTime": "22:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 7
+}

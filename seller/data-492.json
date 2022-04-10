@@ -1,0 +1,35 @@
+{
+  "id": 492,
+  "name": "THỰC PHẨM SẠCH ĐỒNG QUÊ",
+  "logo": "https://cdn.f99.link/groupbuy-images/b5aa8ea1-6c35-495e-8b3e-e884d4d678b5.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Thực phẩm sạch, hoa quả sạch cam kết vệ sinh an toàn",
+  "headQuarter": "4b ngõ 20 Nam Dư, Lĩnh Nam, Hoàng Mai, Hà Nội",
+  "email": "toantrieuquoc@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 5
+}

@@ -1,0 +1,35 @@
+{
+  "id": 780,
+  "name": "Long Biên Organic",
+  "logo": "https://cdn.f99.link/groupbuy-images/f8393c2c-6126-48b9-82ef-fc5b188c39d9.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cửa hàng chuyên bán thực phẩm hữu cơ , tự nhiên",
+  "headQuarter": "Số 6 ngõ 529 đường Ngô Gia Tự, Đức Giang, Long Biên, Hà Nội",
+  "email": "Thanhlam2905@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "06:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

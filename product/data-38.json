@@ -1,0 +1,576 @@
+[
+  {
+    "id": 25070,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dưa kim hoàng hậu",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/fef7ccd2-77d8-4055-8868-0e5cf2fd9a03.jpg\",\"https://images.f99.com.vn/images/c0782de2-2d94-4663-903e-b14f49ceff4c.jpg\",\"https://images.f99.com.vn/images/d90ac173-4de1-4925-859a-8b6c49665022.jpg\",\"https://images.f99.com.vn/images/204df853-a433-4809-81fa-e415ef12d5dd.jpg\",\"https://images.f99.com.vn/images/2cff0932-02f9-4b55-9006-8d979658f7c6.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(98, 127, 154);\">Đặc điểm của dưa kim hoàng hậu</strong></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Dưa Kim Hoàng Hậu là một loại dưa vỏ có màu vàng tươi hoặc nhạt, Khi dưa kim hoàng hậu mới cắt thì màu của vỏ dưa còn vàng nhạt để lâu thì chuyển sang màu vàng sậm hơn. Kích cỡ của một trái dưa kim hoàng hậu thường không to bằng dưa hấu hay như một số loại dưa khác. Trung bình mỗi trái nặng tầm 1 cân đến 1,5 cân mà thôi. Dưa vàng Kim Hoàng Hậu có hình oval, vỏ thuộc loại trơn, nhẵn, ít khi bị rạn sần.&nbsp;</span><strong style=\"color: black;\">Dưa Kim Hoàng Hậu</strong><span style=\"color: black;\">&nbsp;được người tiêu dùng đánh giá ngọt hơn dưa hấu đỏ và dưa lê Hoàng kim. Hiện tại dưa Kim Hoàng Hậu được gieo trồng tại Roche Farm theo tiêu chuẩn của </span><strong style=\"color: black;\">VietGap.</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Dưa Hoàng Hậu</strong><span style=\"color: black;\">&nbsp;có chứa nhiều các loại chất khoáng như: natri, kali, magie, các loại vitamin như vitamin A, vitamin C, vitamin B. Ngoài ra còn có chứa một số chất như lycopene- chất chống oxy hóa, beta-carotene,&nbsp;axit folic, arginine, potassium, citrulline.</span></p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dưa kim hoàng hậu",
+    "description": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(98, 127, 154);\">Đặc điểm của dưa kim hoàng hậu</strong></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Dưa Kim Hoàng Hậu là một loại dưa vỏ có màu vàng tươi hoặc nhạt, Khi dưa kim hoàng hậu mới cắt thì màu của vỏ dưa còn vàng nhạt để lâu thì chuyển sang màu vàng sậm hơn. Kích cỡ của một trái dưa kim hoàng hậu thường không to bằng dưa hấu hay như một số loại dưa khác. Trung bình mỗi trái nặng tầm 1 cân đến 1,5 cân mà thôi. Dưa vàng Kim Hoàng Hậu có hình oval, vỏ thuộc loại trơn, nhẵn, ít khi bị rạn sần.&nbsp;</span><strong style=\"color: black;\">Dưa Kim Hoàng Hậu</strong><span style=\"color: black;\">&nbsp;được người tiêu dùng đánh giá ngọt hơn dưa hấu đỏ và dưa lê Hoàng kim. Hiện tại dưa Kim Hoàng Hậu được gieo trồng tại Roche Farm theo tiêu chuẩn của </span><strong style=\"color: black;\">VietGap.</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Dưa Hoàng Hậu</strong><span style=\"color: black;\">&nbsp;có chứa nhiều các loại chất khoáng như: natri, kali, magie, các loại vitamin như vitamin A, vitamin C, vitamin B. Ngoài ra còn có chứa một số chất như lycopene- chất chống oxy hóa, beta-carotene,&nbsp;axit folic, arginine, potassium, citrulline.</span></p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/fef7ccd2-77d8-4055-8868-0e5cf2fd9a03.jpg",
+    "price": 49000,
+    "oldPrice": 55000,
+    "discountPercent": 11,
+    "stock": 50,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "kimhoanghau",
+    "origin": "",
+    "sellerId": 413,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 38,
+      "name": "Dưa Vàng",
+      "imageUrl": "https://imgur.com/HIv8GOr.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/fef7ccd2-77d8-4055-8868-0e5cf2fd9a03.jpg",
+      "https://images.f99.com.vn/images/c0782de2-2d94-4663-903e-b14f49ceff4c.jpg",
+      "https://images.f99.com.vn/images/d90ac173-4de1-4925-859a-8b6c49665022.jpg",
+      "https://images.f99.com.vn/images/204df853-a433-4809-81fa-e415ef12d5dd.jpg",
+      "https://images.f99.com.vn/images/2cff0932-02f9-4b55-9006-8d979658f7c6.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/25070",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 413,
+      "sellerRate": 4.3,
+      "sellerName": "Roche Market",
+      "warehouseId": "e8a4c420-228b-4d4a-b705-2e4519cc16ab",
+      "warehouseAddress": " Hà Nội,  Hoài Đức,  Sơn Đồng, Cổng làng xóm Rô",
+      "distance": 14340,
+      "warehouseDistrict": "hoai duc",
+      "reputation": 57.900000000000006,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 47015,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "DƯA KIM HOÀNG HẬU VIETGAP",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(5, 5, 5);\">Dưa kim hoàng hậu sản phẩm Việt chất lượng cao, đạt chuẩn toàn cầu về độ đường,cân nặng và mẫu mã của công ty nhà máy đường Lam Sơn</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/42ee3341-9d2f-42ec-806c-a9610efbed98.png\",\"https://images.f99.com.vn/images/379f787d-204a-417f-a4a8-a1b97eb89a05.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "DƯA KIM HOÀNG HẬU VIETGAP",
+    "description": "<p><span style=\"color: rgb(5, 5, 5);\">Dưa kim hoàng hậu sản phẩm Việt chất lượng cao, đạt chuẩn toàn cầu về độ đường,cân nặng và mẫu mã của công ty nhà máy đường Lam Sơn</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/42ee3341-9d2f-42ec-806c-a9610efbed98.png",
+    "price": 30000,
+    "oldPrice": 50000,
+    "discountPercent": 40,
+    "stock": 200,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "A049",
+    "origin": "",
+    "sellerId": 414,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 38,
+      "name": "Dưa Vàng",
+      "imageUrl": "https://imgur.com/HIv8GOr.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/42ee3341-9d2f-42ec-806c-a9610efbed98.png",
+      "https://images.f99.com.vn/images/379f787d-204a-417f-a4a8-a1b97eb89a05.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/47015",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1,5",
+          "2,5"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 47016,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1,5",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1,5",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1,5",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 45000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "KG",
+        "sku": "A049",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1,5"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 47017,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "2,5",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "2,5",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "2,5",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 70000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 100,
+        "totalSold": 1,
+        "unit": "KG",
+        "sku": "A049",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "2,5"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 414,
+      "sellerRate": 4.2,
+      "sellerName": "PHƯƠNG ANH FRESH FRUIT",
+      "warehouseId": "2b3872f1-7f0f-492f-8e42-66d70a659bfc",
+      "warehouseAddress": "Số 81,tổ 4 Phú Đô Nam Từ Liêm Hà Nội",
+      "distance": 7371,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 56.65681345565877,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 92815,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dưa Kim Cô Nương _Thanh Hóa",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Dưa Kim Cô Nương _Lam Sơn _Thanh Hóa</p><ul><li>Dưa có màu vàng tươi đẹp mắt</li><li>Dưa ăn ngọt lịm ,giòn </li></ul>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/698cf931-7d53-4bcd-ab52-bced68927944.jpg\",\"https://images.f99.com.vn/images/ed35fe30-558a-49a3-b15c-57dfebe613cb.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dưa Kim Cô Nương _Thanh Hóa",
+    "description": "<p>Dưa Kim Cô Nương _Lam Sơn _Thanh Hóa</p><ul><li>Dưa có màu vàng tươi đẹp mắt</li><li>Dưa ăn ngọt lịm ,giòn </li></ul>",
+    "imageUrl": "https://images.f99.com.vn/images/698cf931-7d53-4bcd-ab52-bced68927944.jpg",
+    "price": 79000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 50,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "1kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 118,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản ở nhiệt độ thường</p>",
+    "category": {
+      "id": 38,
+      "name": "Dưa Vàng",
+      "imageUrl": "https://imgur.com/HIv8GOr.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/698cf931-7d53-4bcd-ab52-bced68927944.jpg",
+      "https://images.f99.com.vn/images/ed35fe30-558a-49a3-b15c-57dfebe613cb.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/92815",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 92816,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 79000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 50,
+        "totalSold": 0,
+        "unit": "1kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản ở nhiệt độ thường</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 118,
+      "sellerRate": 3.9,
+      "sellerName": "Đinh Hương Fruit",
+      "warehouseId": "7d5007b2-5563-4d11-a461-2b659e39fcf0",
+      "warehouseAddress": "64 Khương Đình, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",
+      "distance": 3572,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 55.8364615384624,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": 215,
+  "name": "Chocolate Figo",
+  "logo": "https://cdn.f99.link/groupbuy-images/235926b8-6053-41bd-8092-b2efcdcf691c.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Là một người luôn quan tâm  về sức khoẻ, chắc hẳn bạn đã biết dùng Socola đen mỗi ngày mang lại rất nhiều lợi ích tốt cho sức khỏe như là thành phần socola đen có chứa chất chống oxy hoá cao giúp ngăn ngừa tế bào Ung thư, tim mạch, rất tốt cho người bệnh tiểu đường.\n\nChocolate Figo là thương hiệu đã có vị trí nhất định trong lòng người tiêu dùng Việt Nam, nếu bạn là người sành ăn Dark Chocolate, bạn sẽ biết Chocolate Figo là thương hiệu tập trung vào dòng Dark Chocolate ( Socola đen đắng nguyên chất ), tập trung vào giá trị dinh dưỡng, chất lượng để mang đến cho khách hàng của mình những sản phẩm tốt nhất.",
+  "headQuarter": "205 Hà Huy Giáp, Thạnh Lộc, Quận 12, Hồ Chí Minh",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.5,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 2
+}

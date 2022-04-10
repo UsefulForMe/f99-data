@@ -1,0 +1,35 @@
+{
+  "id": 813,
+  "name": "Lyn Fruit",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/43bf5572-df67-4559-b763-6e7bb5f551c0.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Lyn Fruit - Cửa hàng Hoa quả nhập khẩu Hoa quả vùng miền, luôn cập nhật những sản phẩm cực tốt, bình ổn giá tới khách hàng. Mới đi vào hoạt động không lâu nhưng Lyn Fruit đã được đông khách hàng quan tâm và ủng hộ. \n\n* Thời gian hoạt động:\n- Cơ sở 1(Hồng Hà): 17h30 - 21h30 các ngày trong tuần\n- Cơ sở 2(Minh Khai): 9h - 17h00 từ thứ Hai đến thứ Sáu\n\n* Nếu khách hàng inbox shop mà chưa thấy shop trả lời, khách gọi sđt 0395.518.496 khi cần gấp nhé ạ!",
+  "headQuarter": "14 ngõ 823/20 Hồng Hà, Chương Dương Độ, Hoàn Kiếm, Hà Nội",
+  "email": "tunniesmu@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 3.7,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "17:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 6
+}

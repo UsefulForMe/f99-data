@@ -1,0 +1,35 @@
+{
+  "id": 599,
+  "name": "RAU CỦ QUẢ QUẬN 11",
+  "logo": "https://cdn.f99.link/groupbuy-images/baf81791-d527-4267-a273-2435e8abe54b.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cửa hàng rau củ, trái cây, thịt heo, gà, vịt....",
+  "headQuarter": "465/5 Trần Xuân Soạn, Tân Kiểng, Quận 7, Thành phố Hồ Chí Minh",
+  "email": "nguyenhuong2494@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

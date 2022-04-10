@@ -1,0 +1,35 @@
+{
+  "id": 652,
+  "name": "BINFOOD",
+  "logo": "https://cdn.f99.link/groupbuy-images/e3c26a58-6026-472a-bb92-b7f90a4bc871.JPG",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "BINFOOD cam kết sản phẩm không đấu trộn, không sử dụng hóa chất tạo mùi, được xử lý và chế biến với sự kiểm soát nghiêm ngặt trên dây chuyền công nghệ hiện đại Châu Âu để tạo ra sản phẩm thơm ngon tự nhiên.",
+  "headQuarter": "Khu Công nghiệp Phú Thị, Phú Thị, Gia Lâm, Hà Nội",
+  "email": "Bin.nguyetnguyen@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:30",
+    "closeTime": "19:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

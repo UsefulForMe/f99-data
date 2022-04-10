@@ -1,0 +1,4174 @@
+[
+  {
+    "id": 7533,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Khô Gà Cay Posi 50g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/ef65ecf6-0ea3-46fd-a724-96b221b7a660.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Thành phần: Thịt gà 97%, gia vị 3% [ ớt, đường, muối, chất điều vị(621)]</p><p>HSD: 8 tháng kể từ ngày sản xuất</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Khô Gà Cay Posi 50g",
+    "description": "<p>Thành phần: Thịt gà 97%, gia vị 3% [ ớt, đường, muối, chất điều vị(621)]</p><p>HSD: 8 tháng kể từ ngày sản xuất</p>",
+    "imageUrl": "https://images.f99.com.vn/images/ef65ecf6-0ea3-46fd-a724-96b221b7a660.jpg",
+    "price": 20000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1000,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "Gói",
+    "sku": "",
+    "origin": "",
+    "sellerId": 20,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát</p>",
+    "category": {
+      "id": 115,
+      "name": "Đồ ăn vặt",
+      "imageUrl": "https://images.f99.com.vn/notification-images/d8a19a50-1dbd-4ffd-abed-8ed61319d593.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/ef65ecf6-0ea3-46fd-a724-96b221b7a660.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7533",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "combo 3 gói",
+          "combo 5 gói"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 9633,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 3 gói",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "giảm 10k",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "combo 3 gói",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 3 gói",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 50000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 500,
+        "totalSold": 2,
+        "unit": "Gói",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát</p>",
+        "sellerId": 0,
+        "note": "giảm 10k",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "combo 3 gói"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 9634,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 5 gói",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "giảm 20k",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "combo 5 gói",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 5 gói",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 80000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 500,
+        "totalSold": 1,
+        "unit": "Gói",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát</p>",
+        "sellerId": 0,
+        "note": "giảm 20k",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "combo 5 gói"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 20,
+      "sellerRate": 3.9,
+      "sellerName": "POSI",
+      "warehouseId": "2f78c11a-9f25-409a-ba7f-750786c19d2a",
+      "warehouseAddress": "Số 13 nhà vườn 2, Yên Xá, xã Tân Triều, huyện Thanh Trì, Thành phố Hà Nội",
+      "distance": 7878,
+      "warehouseDistrict": "thanh tri",
+      "reputation": 51.26774774774918,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7537,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Khô Gà Cay Lá Chanh 50g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/902c3ceb-748f-443f-9e93-8f1ad62461b5.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Thành phần: Thịt gà 97%, gia vị 2.5% [ ớt, đường, muối, chất điều vị( 621)], lá chanh 0.5%</p><p>HSD: 8 tháng kể từ ngày sản xuất</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Khô Gà Cay Lá Chanh 50g",
+    "description": "<p>Thành phần: Thịt gà 97%, gia vị 2.5% [ ớt, đường, muối, chất điều vị( 621)], lá chanh 0.5%</p><p>HSD: 8 tháng kể từ ngày sản xuất</p>",
+    "imageUrl": "https://images.f99.com.vn/images/902c3ceb-748f-443f-9e93-8f1ad62461b5.jpg",
+    "price": 20000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1000,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "Gói",
+    "sku": "",
+    "origin": "",
+    "sellerId": 20,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát</p>",
+    "category": {
+      "id": 115,
+      "name": "Đồ ăn vặt",
+      "imageUrl": "https://images.f99.com.vn/notification-images/d8a19a50-1dbd-4ffd-abed-8ed61319d593.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/902c3ceb-748f-443f-9e93-8f1ad62461b5.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7537",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "combo 3 gói",
+          "combo 5 gói"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 9635,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 3 gói",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "giảm 10k",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "combo 3 gói",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 3 gói",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 50000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 500,
+        "totalSold": 3,
+        "unit": "Gói",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát</p>",
+        "sellerId": 0,
+        "note": "giảm 10k",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "combo 3 gói"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 9636,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 5 gói",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "giảm 20k",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "combo 5 gói",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 5 gói",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 80000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 500,
+        "totalSold": 0,
+        "unit": "Gói",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát</p>",
+        "sellerId": 0,
+        "note": "giảm 20k",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "combo 5 gói"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 20,
+      "sellerRate": 3.9,
+      "sellerName": "POSI",
+      "warehouseId": "2f78c11a-9f25-409a-ba7f-750786c19d2a",
+      "warehouseAddress": "Số 13 nhà vườn 2, Yên Xá, xã Tân Triều, huyện Thanh Trì, Thành phố Hà Nội",
+      "distance": 7878,
+      "warehouseDistrict": "thanh tri",
+      "reputation": 51.26774774774918,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7541,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Khô Gà Cay Bơ Tỏi 50g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/c0bcfd34-bce7-42a8-ba08-97f1106cefec.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Thành phần: Thịt gà 95%, gia vị 2.5% [ ớt, đường, nước mắm, muối, chất điều vị (621)], tỏi 2%, bơ 0.5%</p><p>HSD: 8 tháng kể từ ngày sản xuất</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Khô Gà Cay Bơ Tỏi 50g",
+    "description": "<p>Thành phần: Thịt gà 95%, gia vị 2.5% [ ớt, đường, nước mắm, muối, chất điều vị (621)], tỏi 2%, bơ 0.5%</p><p>HSD: 8 tháng kể từ ngày sản xuất</p>",
+    "imageUrl": "https://images.f99.com.vn/images/c0bcfd34-bce7-42a8-ba08-97f1106cefec.jpg",
+    "price": 20000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1000,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Gói",
+    "sku": "",
+    "origin": "",
+    "sellerId": 20,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát</p>",
+    "category": {
+      "id": 115,
+      "name": "Đồ ăn vặt",
+      "imageUrl": "https://images.f99.com.vn/notification-images/d8a19a50-1dbd-4ffd-abed-8ed61319d593.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/c0bcfd34-bce7-42a8-ba08-97f1106cefec.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7541",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "combo 3 gói",
+          "combo 5 gói"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 9637,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 3 gói",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "giảm 10k",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "combo 3 gói",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 3 gói",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 50000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 500,
+        "totalSold": 1,
+        "unit": "Gói",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát</p>",
+        "sellerId": 0,
+        "note": "giảm 10k",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "combo 3 gói"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 9638,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 5 gói",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "giảm 20k",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "combo 5 gói",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 5 gói",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 80000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 500,
+        "totalSold": 0,
+        "unit": "Gói",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát</p>",
+        "sellerId": 0,
+        "note": "giảm 20k",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "combo 5 gói"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 20,
+      "sellerRate": 3.9,
+      "sellerName": "POSI",
+      "warehouseId": "2f78c11a-9f25-409a-ba7f-750786c19d2a",
+      "warehouseAddress": "Số 13 nhà vườn 2, Yên Xá, xã Tân Triều, huyện Thanh Trì, Thành phố Hà Nội",
+      "distance": 7878,
+      "warehouseDistrict": "thanh tri",
+      "reputation": 51.26774774774918,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7546,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Khô Heo Cháy Tỏi 50g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/15665c68-4860-4e92-ac01-008ff3354869.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Thành phần: Thịt heo 95%, gia vị 3% [ ớt, đường, muối, chất điều vị (621)], tỏi 2%</p><p>HSD: 8 tháng kể từ ngày sản xuất</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Khô Heo Cháy Tỏi 50g",
+    "description": "<p>Thành phần: Thịt heo 95%, gia vị 3% [ ớt, đường, muối, chất điều vị (621)], tỏi 2%</p><p>HSD: 8 tháng kể từ ngày sản xuất</p>",
+    "imageUrl": "https://images.f99.com.vn/images/15665c68-4860-4e92-ac01-008ff3354869.jpg",
+    "price": 25000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1000,
+    "totalSold": 5,
+    "maxQuantityPerUser": null,
+    "unit": "Gói",
+    "sku": "",
+    "origin": "",
+    "sellerId": 20,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát</p>",
+    "category": {
+      "id": 115,
+      "name": "Đồ ăn vặt",
+      "imageUrl": "https://images.f99.com.vn/notification-images/d8a19a50-1dbd-4ffd-abed-8ed61319d593.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/15665c68-4860-4e92-ac01-008ff3354869.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7546",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "combo 3 gói",
+          "combo 5 gói"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 9639,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 3 gói",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "giảm 10k",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "combo 3 gói",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 3 gói",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 65000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 500,
+        "totalSold": 4,
+        "unit": "Gói",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát</p>",
+        "sellerId": 0,
+        "note": "giảm 10k",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "combo 3 gói"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 9640,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 5 gói",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "giảm 20k",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "combo 5 gói",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 5 gói",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 105000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 500,
+        "totalSold": 1,
+        "unit": "Gói",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát</p>",
+        "sellerId": 0,
+        "note": "giảm 20k",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "combo 5 gói"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 20,
+      "sellerRate": 3.9,
+      "sellerName": "POSI",
+      "warehouseId": "2f78c11a-9f25-409a-ba7f-750786c19d2a",
+      "warehouseAddress": "Số 13 nhà vườn 2, Yên Xá, xã Tân Triều, huyện Thanh Trì, Thành phố Hà Nội",
+      "distance": 7878,
+      "warehouseDistrict": "thanh tri",
+      "reputation": 51.26774774774918,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7550,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Khô Gà Cay 100g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/d118810c-36b8-4ebd-9b5a-604db757c442.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Thành phần: Thịt gà 97%, gia vị 3% [ ớt, đường, muối, chất điều vị(621)]</p><p>HSD: 8 tháng kể từ ngày sản xuất</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Khô Gà Cay 100g",
+    "description": "<p>Thành phần: Thịt gà 97%, gia vị 3% [ ớt, đường, muối, chất điều vị(621)]</p><p>HSD: 8 tháng kể từ ngày sản xuất</p>",
+    "imageUrl": "https://images.f99.com.vn/images/d118810c-36b8-4ebd-9b5a-604db757c442.jpg",
+    "price": 40000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1000,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "Hộp",
+    "sku": "",
+    "origin": "",
+    "sellerId": 20,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát</p>",
+    "category": {
+      "id": 115,
+      "name": "Đồ ăn vặt",
+      "imageUrl": "https://images.f99.com.vn/notification-images/d8a19a50-1dbd-4ffd-abed-8ed61319d593.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/d118810c-36b8-4ebd-9b5a-604db757c442.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7550",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "combo 2 hũ",
+          "combo 3 hũ"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 9641,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 2 hũ",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "giảm 10k",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "combo 2 hũ",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 2 hũ",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 70000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 500,
+        "totalSold": 1,
+        "unit": "Hộp",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát</p>",
+        "sellerId": 0,
+        "note": "giảm 10k",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "combo 2 hũ"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 9642,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 3 hũ",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "giảm 20k",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "combo 3 hũ",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 3 hũ",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 100000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 500,
+        "totalSold": 2,
+        "unit": "Hộp",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát</p>",
+        "sellerId": 0,
+        "note": "giảm 20k",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "combo 3 hũ"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 20,
+      "sellerRate": 3.9,
+      "sellerName": "POSI",
+      "warehouseId": "2f78c11a-9f25-409a-ba7f-750786c19d2a",
+      "warehouseAddress": "Số 13 nhà vườn 2, Yên Xá, xã Tân Triều, huyện Thanh Trì, Thành phố Hà Nội",
+      "distance": 7878,
+      "warehouseDistrict": "thanh tri",
+      "reputation": 51.26774774774918,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7590,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/be10161c-f61a-40d6-a661-bde9cee83ca4.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Thành phần: Thịt gà 97%, gia vị 2.5 % [ Ớt, đường, muối, chất điều vị (621)], lá chanh 0.5%</p><p>HSD: 8 tháng kể từ ngày sản xuất</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Khô Gà Cay Lá Chanh 100g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Khô Gà Cay Lá Chanh 100g",
+    "description": "<p>Thành phần: Thịt gà 97%, gia vị 2.5 % [ Ớt, đường, muối, chất điều vị (621)], lá chanh 0.5%</p><p>HSD: 8 tháng kể từ ngày sản xuất</p>",
+    "imageUrl": "https://images.f99.com.vn/images/be10161c-f61a-40d6-a661-bde9cee83ca4.jpg",
+    "price": 40000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1000,
+    "totalSold": 6,
+    "maxQuantityPerUser": null,
+    "unit": "Hộp",
+    "sku": "",
+    "origin": "",
+    "sellerId": 20,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát</p>",
+    "category": {
+      "id": 115,
+      "name": "Đồ ăn vặt",
+      "imageUrl": "https://images.f99.com.vn/notification-images/d8a19a50-1dbd-4ffd-abed-8ed61319d593.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/be10161c-f61a-40d6-a661-bde9cee83ca4.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7590",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "combo 2 hũ",
+          "combo 3 hũ"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 8461,
+        "attributeTextValues": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "combo 2 hũ",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "giảm 10k",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 2 hũ",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 2 hũ",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 70000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 500,
+        "totalSold": 3,
+        "unit": "Hộp",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát</p>",
+        "sellerId": 0,
+        "note": "giảm 10k",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "combo 2 hũ"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 8460,
+        "attributeTextValues": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "combo 3 hũ",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "giảm 20k",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 3 hũ",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 3 hũ",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 100000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 500,
+        "totalSold": 3,
+        "unit": "Hộp",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát</p>",
+        "sellerId": 0,
+        "note": "giảm 20k",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "combo 3 hũ"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 20,
+      "sellerRate": 3.9,
+      "sellerName": "POSI",
+      "warehouseId": "2f78c11a-9f25-409a-ba7f-750786c19d2a",
+      "warehouseAddress": "Số 13 nhà vườn 2, Yên Xá, xã Tân Triều, huyện Thanh Trì, Thành phố Hà Nội",
+      "distance": 7878,
+      "warehouseDistrict": "thanh tri",
+      "reputation": 51.26774774774918,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7593,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Khô Gà Cay Bơ Tỏi 100g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/11a8f335-2d31-489c-a103-5141a700f3a7.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Thành phần: Thịt gà 95%, gia vị 2.5 % [ ớt, đường, nước mắm, muối, chất điều vị(621)], tỏi 2%, bơ 0.5%</p><p>HSD: 8 tháng kể từ ngày sản xuất</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Khô Gà Cay Bơ Tỏi 100g",
+    "description": "<p>Thành phần: Thịt gà 95%, gia vị 2.5 % [ ớt, đường, nước mắm, muối, chất điều vị(621)], tỏi 2%, bơ 0.5%</p><p>HSD: 8 tháng kể từ ngày sản xuất</p>",
+    "imageUrl": "https://images.f99.com.vn/images/11a8f335-2d31-489c-a103-5141a700f3a7.jpg",
+    "price": 40000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1000,
+    "totalSold": 8,
+    "maxQuantityPerUser": null,
+    "unit": "Hộp",
+    "sku": "",
+    "origin": "",
+    "sellerId": 20,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát</p>",
+    "category": {
+      "id": 115,
+      "name": "Đồ ăn vặt",
+      "imageUrl": "https://images.f99.com.vn/notification-images/d8a19a50-1dbd-4ffd-abed-8ed61319d593.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/11a8f335-2d31-489c-a103-5141a700f3a7.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7593",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "combo 2 hũ",
+          "combo 3 hũ"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 9644,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 2 hũ",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "giảm 10k",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "combo 2 hũ",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 2 hũ",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 70000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 500,
+        "totalSold": 4,
+        "unit": "Hộp",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát</p>",
+        "sellerId": 0,
+        "note": "giảm 10k",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "combo 2 hũ"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 9645,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 3 hũ",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "giảm 20k",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "combo 3 hũ",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 3 hũ",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 100000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 500,
+        "totalSold": 4,
+        "unit": "Hộp",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát</p>",
+        "sellerId": 0,
+        "note": "giảm 20k",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "combo 3 hũ"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 20,
+      "sellerRate": 3.9,
+      "sellerName": "POSI",
+      "warehouseId": "2f78c11a-9f25-409a-ba7f-750786c19d2a",
+      "warehouseAddress": "Số 13 nhà vườn 2, Yên Xá, xã Tân Triều, huyện Thanh Trì, Thành phố Hà Nội",
+      "distance": 7878,
+      "warehouseDistrict": "thanh tri",
+      "reputation": 51.26774774774918,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7598,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/9a5d731e-84b7-44d2-8e87-379098fcfa9a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Thành phần: Thịt heo 95%, gia vị 3% [ ớt, đường, muối, chất điều vị (621)], tỏi 2%</p><p>HSD: 8 tháng kể từ ngày sản xuất</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Khô heo cháy tỏi 90g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Khô heo cháy tỏi 90g",
+    "description": "<p>Thành phần: Thịt heo 95%, gia vị 3% [ ớt, đường, muối, chất điều vị (621)], tỏi 2%</p><p>HSD: 8 tháng kể từ ngày sản xuất</p>",
+    "imageUrl": "https://images.f99.com.vn/images/9a5d731e-84b7-44d2-8e87-379098fcfa9a.jpg",
+    "price": 48000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 1000,
+    "totalSold": 9,
+    "maxQuantityPerUser": null,
+    "unit": "Hộp",
+    "sku": "",
+    "origin": "",
+    "sellerId": 20,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát</p>",
+    "category": {
+      "id": 115,
+      "name": "Đồ ăn vặt",
+      "imageUrl": "https://images.f99.com.vn/notification-images/d8a19a50-1dbd-4ffd-abed-8ed61319d593.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/9a5d731e-84b7-44d2-8e87-379098fcfa9a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7598",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "combo 2 hũ",
+          "combo 3 hũ"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 8477,
+        "attributeTextValues": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "combo 2 hũ",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "giảm 10k",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 2 hũ",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 2 hũ",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 86000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 500,
+        "totalSold": 6,
+        "unit": "Hộp",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát</p>",
+        "sellerId": 0,
+        "note": "giảm 10k",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "combo 2 hũ"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 8476,
+        "attributeTextValues": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "combo 3 hũ",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "giảm 20k",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 3 hũ",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 3 hũ",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 124000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 500,
+        "totalSold": 3,
+        "unit": "Hộp",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát</p>",
+        "sellerId": 0,
+        "note": "giảm 20k",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "combo 3 hũ"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 20,
+      "sellerRate": 3.9,
+      "sellerName": "POSI",
+      "warehouseId": "2f78c11a-9f25-409a-ba7f-750786c19d2a",
+      "warehouseAddress": "Số 13 nhà vườn 2, Yên Xá, xã Tân Triều, huyện Thanh Trì, Thành phố Hà Nội",
+      "distance": 7878,
+      "warehouseDistrict": "thanh tri",
+      "reputation": 51.26774774774918,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7840,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Khô gà cay lá chanh 25g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/552c580b-f212-4d7e-ae80-78e838443cb1.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Thành phần: Thịt gà 97%, gia vị 2.5% [ ớt, đường, muối, chất điều vị( 621)], lá chanh 0.5%]</p><p>HSD: 8 tháng kể từ ngày sản xuất</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Khô gà cay lá chanh 25g",
+    "description": "<p>Thành phần: Thịt gà 97%, gia vị 2.5% [ ớt, đường, muối, chất điều vị( 621)], lá chanh 0.5%]</p><p>HSD: 8 tháng kể từ ngày sản xuất</p>",
+    "imageUrl": "https://images.f99.com.vn/images/552c580b-f212-4d7e-ae80-78e838443cb1.jpg",
+    "price": 10000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 500,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "Gói",
+    "sku": "",
+    "origin": "",
+    "sellerId": 20,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát</p>",
+    "category": {
+      "id": 115,
+      "name": "Đồ ăn vặt",
+      "imageUrl": "https://images.f99.com.vn/notification-images/d8a19a50-1dbd-4ffd-abed-8ed61319d593.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/552c580b-f212-4d7e-ae80-78e838443cb1.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7840",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "combo 5 gói"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 9646,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "combo 5 gói",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "giảm 10k",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "combo 5 gói",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "combo 5 gói",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 40000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 500,
+        "totalSold": 2,
+        "unit": "Gói",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản nơi khô ráo, thoáng mát</p>",
+        "sellerId": 0,
+        "note": "giảm 10k",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "combo 5 gói"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 20,
+      "sellerRate": 3.9,
+      "sellerName": "POSI",
+      "warehouseId": "2f78c11a-9f25-409a-ba7f-750786c19d2a",
+      "warehouseAddress": "Số 13 nhà vườn 2, Yên Xá, xã Tân Triều, huyện Thanh Trì, Thành phố Hà Nội",
+      "distance": 7878,
+      "warehouseDistrict": "thanh tri",
+      "reputation": 51.26774774774918,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7986,
+    "attributeTextValues": [
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>mô tả</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/468325e185494e1883e1fdce70818cf6.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Khô gà Việt (vị lá chanh)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Khô gà Việt (vị lá chanh)",
+    "description": "<p>mô tả</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/468325e185494e1883e1fdce70818cf6.jpg",
+    "price": 70000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 800,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "Hộp",
+    "sku": "8938520378199",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 115,
+      "name": "Đồ ăn vặt",
+      "imageUrl": "https://images.f99.com.vn/notification-images/d8a19a50-1dbd-4ffd-abed-8ed61319d593.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/468325e185494e1883e1fdce70818cf6.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7986",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7987,
+    "attributeTextValues": [
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Khô heo Việt 100g (vị cháy tỏi)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Mô tảkho</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/2f5caf120b59412688512edc1f647b99.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Khô heo Việt 100g (vị cháy tỏi)",
+    "description": "<p>Mô tảkho</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/2f5caf120b59412688512edc1f647b99.jpg",
+    "price": 45000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 3,
+    "maxQuantityPerUser": null,
+    "unit": "Túi",
+    "sku": "8938520378113",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p>khô heo</p>",
+    "category": {
+      "id": 115,
+      "name": "Đồ ăn vặt",
+      "imageUrl": "https://images.f99.com.vn/notification-images/d8a19a50-1dbd-4ffd-abed-8ed61319d593.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/2f5caf120b59412688512edc1f647b99.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7987",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 7988,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Khô heo Việt 200g (vị cháy tỏi)",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>mô tả</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/a232a121a1434e1ca60feb3399da0066.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Khô heo Việt 200g (vị cháy tỏi)",
+    "description": "<p>mô tả</p>",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/a232a121a1434e1ca60feb3399da0066.jpg",
+    "price": 95000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 2,
+    "maxQuantityPerUser": null,
+    "unit": "Hộp",
+    "sku": "8938520378007",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 115,
+      "name": "Đồ ăn vặt",
+      "imageUrl": "https://images.f99.com.vn/notification-images/d8a19a50-1dbd-4ffd-abed-8ed61319d593.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/a232a121a1434e1ca60feb3399da0066.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/7988",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8107,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bánh Đa Vừng",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/90c315d6a9aa4c1c8e86e2c727571626.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bánh Đa Vừng",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/90c315d6a9aa4c1c8e86e2c727571626.jpg",
+    "price": 30000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 6,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "8938529145112",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 115,
+      "name": "Đồ ăn vặt",
+      "imageUrl": "https://images.f99.com.vn/notification-images/d8a19a50-1dbd-4ffd-abed-8ed61319d593.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/90c315d6a9aa4c1c8e86e2c727571626.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8107",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8152,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Rong biển cuộn kimbap 22gr",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Rong biển cuộn kimbap 22gr</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/3e9943a7-9457-4a6c-859d-f571027c7bf8.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Rong biển cuộn kimbap 22gr",
+    "description": "<p>Rong biển cuộn kimbap 22gr</p>",
+    "imageUrl": "https://images.f99.com.vn/images/3e9943a7-9457-4a6c-859d-f571027c7bf8.jpg",
+    "price": 36000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Gói",
+    "sku": "8809149830859",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p>Rong biển cuộn kimbap 22gr</p>",
+    "category": {
+      "id": 115,
+      "name": "Đồ ăn vặt",
+      "imageUrl": "https://images.f99.com.vn/notification-images/d8a19a50-1dbd-4ffd-abed-8ed61319d593.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/3e9943a7-9457-4a6c-859d-f571027c7bf8.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8152",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Gói"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 79861,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Gói",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Gói",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Gói",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 36000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 200,
+        "totalSold": 0,
+        "unit": "Gói",
+        "sku": "8809149830859",
+        "rating": 5,
+        "instructions": "<p>Rong biển cuộn kimbap 22gr</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Gói"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8166,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Rong Biển Vụn Ăn Liền Trộn Hạnh Nhân và Óc Chó 50g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/07cfce2eb11045339151aa4664e0e34f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Rong Biển Vụn Ăn Liền Trộn Hạnh Nhân và Óc Chó 50g",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/07cfce2eb11045339151aa4664e0e34f.jpg",
+    "price": 50000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "Gói",
+    "sku": "8809149831931",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 115,
+      "name": "Đồ ăn vặt",
+      "imageUrl": "https://images.f99.com.vn/notification-images/d8a19a50-1dbd-4ffd-abed-8ed61319d593.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/07cfce2eb11045339151aa4664e0e34f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8166",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 8201,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Rong Biển Vụ Ăn Liền Trộn Rau 50g",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://cdn-images.kiotviet.vn/moctranan/281ff9cf03834680bd8a66541e4fd460.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "null",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Rong Biển Vụ Ăn Liền Trộn Rau 50g",
+    "description": "",
+    "imageUrl": "https://cdn-images.kiotviet.vn/moctranan/281ff9cf03834680bd8a66541e4fd460.jpg",
+    "price": 56000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 200,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "gói",
+    "sku": "8809149831955",
+    "origin": "",
+    "sellerId": 92,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 115,
+      "name": "Đồ ăn vặt",
+      "imageUrl": "https://images.f99.com.vn/notification-images/d8a19a50-1dbd-4ffd-abed-8ed61319d593.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://cdn-images.kiotviet.vn/moctranan/281ff9cf03834680bd8a66541e4fd460.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/8201",
+    "attributes": [],
+    "crossSaleProducts": null,
+    "variants": [],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 92,
+      "sellerRate": 4.8,
+      "sellerName": "Siêu thị đặc sản Mộc Nhiên",
+      "warehouseId": "bc203347-4f27-4d5a-bc25-6f9adbd8c635",
+      "warehouseAddress": "180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+      "distance": 1564,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.89835234972824,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 9374,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cơm Cháy Đáy Nồi Sài Gòn",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Từ bao nhiêu năm nay cơm cháy sài gòn đã là thương hiệu nổi tiếng khắp ba miền.  Cơm cháy đáy nồi sài gòn siêu ngon, giòn tan ngập ruốc</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/a04e4222-4b71-4397-bf87-4cd670af87ed.jpg\",\"https://images.f99.com.vn/images/70eb81cb-aceb-40e5-9948-24686fa839ec.jpg\",\"https://images.f99.com.vn/images/13eb14f3-63af-439a-b60d-983eef3c342a.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cơm Cháy Đáy Nồi Sài Gòn",
+    "description": "<p>Từ bao nhiêu năm nay cơm cháy sài gòn đã là thương hiệu nổi tiếng khắp ba miền.  Cơm cháy đáy nồi sài gòn siêu ngon, giòn tan ngập ruốc</p>",
+    "imageUrl": "https://images.f99.com.vn/images/a04e4222-4b71-4397-bf87-4cd670af87ed.jpg",
+    "price": 75000,
+    "oldPrice": 90000,
+    "discountPercent": 17,
+    "stock": 40,
+    "totalSold": 6,
+    "maxQuantityPerUser": null,
+    "unit": "1 gói 250gr",
+    "sku": "",
+    "origin": "",
+    "sellerId": 118,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>bảo quản nhiệt độ thường</p>",
+    "category": {
+      "id": 115,
+      "name": "Đồ ăn vặt",
+      "imageUrl": "https://images.f99.com.vn/notification-images/d8a19a50-1dbd-4ffd-abed-8ed61319d593.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/a04e4222-4b71-4397-bf87-4cd670af87ed.jpg",
+      "https://images.f99.com.vn/images/70eb81cb-aceb-40e5-9948-24686fa839ec.jpg",
+      "https://images.f99.com.vn/images/13eb14f3-63af-439a-b60d-983eef3c342a.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/9374",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1 gói 250gr"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 58451,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 gói 250gr",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1 gói 250gr",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 gói 250gr",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 75000,
+        "oldPrice": 90000,
+        "discountPercent": 17,
+        "stock": 40,
+        "totalSold": 6,
+        "unit": "1 gói 250gr",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>bảo quản nhiệt độ thường</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1 gói 250gr"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 118,
+      "sellerRate": 3.9,
+      "sellerName": "Đinh Hương Fruit",
+      "warehouseId": "7d5007b2-5563-4d11-a461-2b659e39fcf0",
+      "warehouseAddress": "64 Khương Đình, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",
+      "distance": 3572,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 55.8364615384624,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 9507,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Đậu Hà Lan Phô Mai",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Thành phần món ăn vặt này bao gồm: Đậu Hà Lan sấy, phô mai, dầu ăn, gia vị. Trong đó, sản phẩm không dùng chất bảo quản mà bảo quản bằng cách sấy khô và đóng kín, hương vị tự nhiên được giữ nguyên không bị biến tính trong quá trình sản xuất.</p><p><img src=\"https://images.f99.com.vn/images/de801006-4bc4-4829-9871-5fab64284cff.jpg\"></p><p>Về bản chất Đậu Hà Lan có chứa nhiều chất xơ, vitamin và khoáng chất cần thiết cho cơ thể nên chúng được xếp vào hàng thực phẩm quý đối với cơ thể. Phô mai là gia vị kết hợp để kích thích vị giác cảm thấy món ăn trở nên hấp dẫn hơn.</p><p>Công dụng của&nbsp;<strong>Đậu Hà Lan phô mai</strong>: ăn món này thường xuyên sẽ giúp ta tránh được ung thư dạ dày, giảm lượng cholesterol xấu, chữa trị bệnh táo bón, tốt cho tim mạch, giảm cân cúng tốt, dành cho người đái tháo đường và rất nhiều công dụng chữa bệnh khác nữa. Nhưng đừng quên rằng đây như là snack đậu Hà Lan nên được trẻ em khá yêu thích lại cộng thêm vị phô mai thơm thơm nữa còn gì bằng.</p><p><img src=\"https://images.f99.com.vn/images/4e882f84-b063-42b2-b682-4221d03f709f.jpg\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[\"HACCP\"]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/30001f08-7090-49e1-b094-17082bbbd2a7.jpg\",\"https://images.f99.com.vn/images/c7126e1b-10da-40c0-9cac-c945cc2dd6e9.jpg\",\"https://images.f99.com.vn/images/bb43caef-6063-4d8b-b2f0-4f5b04b821c0.jpg\",\"https://images.f99.com.vn/images/d2a56173-7804-445f-bc84-f3d626924862.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Đồ ăn vặt\",\"đậu hà lan\",\"ăn vặt\",\"nhâm nhi\",\"ăn ngon\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Đậu Hà Lan Phô Mai",
+    "description": "<p>Thành phần món ăn vặt này bao gồm: Đậu Hà Lan sấy, phô mai, dầu ăn, gia vị. Trong đó, sản phẩm không dùng chất bảo quản mà bảo quản bằng cách sấy khô và đóng kín, hương vị tự nhiên được giữ nguyên không bị biến tính trong quá trình sản xuất.</p><p><img src=\"https://images.f99.com.vn/images/de801006-4bc4-4829-9871-5fab64284cff.jpg\"></p><p>Về bản chất Đậu Hà Lan có chứa nhiều chất xơ, vitamin và khoáng chất cần thiết cho cơ thể nên chúng được xếp vào hàng thực phẩm quý đối với cơ thể. Phô mai là gia vị kết hợp để kích thích vị giác cảm thấy món ăn trở nên hấp dẫn hơn.</p><p>Công dụng của&nbsp;<strong>Đậu Hà Lan phô mai</strong>: ăn món này thường xuyên sẽ giúp ta tránh được ung thư dạ dày, giảm lượng cholesterol xấu, chữa trị bệnh táo bón, tốt cho tim mạch, giảm cân cúng tốt, dành cho người đái tháo đường và rất nhiều công dụng chữa bệnh khác nữa. Nhưng đừng quên rằng đây như là snack đậu Hà Lan nên được trẻ em khá yêu thích lại cộng thêm vị phô mai thơm thơm nữa còn gì bằng.</p><p><img src=\"https://images.f99.com.vn/images/4e882f84-b063-42b2-b682-4221d03f709f.jpg\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/30001f08-7090-49e1-b094-17082bbbd2a7.jpg",
+    "price": 12500,
+    "oldPrice": 25000,
+    "discountPercent": 50,
+    "stock": 11000,
+    "totalSold": 100,
+    "maxQuantityPerUser": null,
+    "unit": "Gói",
+    "sku": "Gói",
+    "origin": "",
+    "sellerId": 93,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p>Cách dùng: Dùng ngay sau khi mở túi vì đây là sản phẩm được chế biến sẵn.</p><p>Bảo Quản: nơi khô ráo, thoáng mát. Sau khi mở túi, dùng xong cần được đậy kỹ và để ngăn mát tủ lạnh sao cho vi khuẩn không khí không có khả năng lọt vào và phát triển ở bên trong.</p><p>Đậu Hà Lan phô mai&nbsp;có thể dùng làm quà tặng người thân và bạn bè khi mình đến chơi rất hợp lý mà ý nghĩa.</p>",
+    "category": {
+      "id": 115,
+      "name": "Đồ ăn vặt",
+      "imageUrl": "https://images.f99.com.vn/notification-images/d8a19a50-1dbd-4ffd-abed-8ed61319d593.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [
+      "HACCP"
+    ],
+    "tags": [
+      "Đồ ăn vặt",
+      "đậu hà lan",
+      "ăn vặt",
+      "nhâm nhi",
+      "ăn ngon"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/30001f08-7090-49e1-b094-17082bbbd2a7.jpg",
+      "https://images.f99.com.vn/images/c7126e1b-10da-40c0-9cac-c945cc2dd6e9.jpg",
+      "https://images.f99.com.vn/images/bb43caef-6063-4d8b-b2f0-4f5b04b821c0.jpg",
+      "https://images.f99.com.vn/images/d2a56173-7804-445f-bc84-f3d626924862.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/9507",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "100g",
+          "400g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 9508,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "400g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "400g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "400g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 45000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 1000,
+        "totalSold": 50,
+        "unit": "Gói",
+        "sku": "Gói",
+        "rating": 5,
+        "instructions": "<p>Cách dùng: Dùng ngay sau khi mở túi vì đây là sản phẩm được chế biến sẵn.</p><p>Bảo Quản: nơi khô ráo, thoáng mát. Sau khi mở túi, dùng xong cần được đậy kỹ và để ngăn mát tủ lạnh sao cho vi khuẩn không khí không có khả năng lọt vào và phát triển ở bên trong.</p><p>Đậu Hà Lan phô mai&nbsp;có thể dùng làm quà tặng người thân và bạn bè khi mình đến chơi rất hợp lý mà ý nghĩa.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "400g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 30296,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "100g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "100g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "100g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 12500,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10000,
+        "totalSold": 50,
+        "unit": "Gói",
+        "sku": "Gói",
+        "rating": 5,
+        "instructions": "<p>Cách dùng: Dùng ngay sau khi mở túi vì đây là sản phẩm được chế biến sẵn.</p><p>Bảo Quản: nơi khô ráo, thoáng mát. Sau khi mở túi, dùng xong cần được đậy kỹ và để ngăn mát tủ lạnh sao cho vi khuẩn không khí không có khả năng lọt vào và phát triển ở bên trong.</p><p>Đậu Hà Lan phô mai&nbsp;có thể dùng làm quà tặng người thân và bạn bè khi mình đến chơi rất hợp lý mà ý nghĩa.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "100g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 93,
+      "sellerRate": 4.8,
+      "sellerName": "KAMI SHOP",
+      "warehouseId": "6c044702-e0d9-492d-acd7-ecead5e40051",
+      "warehouseAddress": "Số 6/40/71 Đường Phương Canh, Phường Xuân Phương, Quận Nam Từ Liêm, TP. Hà Nội ",
+      "distance": 8689,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 65.4375,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 9528,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Đậu Hà Lan Wasabi",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Thành phần món ăn vặt này bao gồm: Đậu Hà Lan sấy, bột Wasabi, dầu ăn, gia vị. Trong đó, sản phẩm không dùng chất bảo quản mà bảo quản bằng cách sấy khô và đóng kín, hương vị tự nhiên được giữ nguyên không bị biến tính trong quá trình sản xuất.</p><p><img src=\"https://images.f99.com.vn/images/3dbb34fb-3b02-45bf-a153-9c37c8b78986.jpg\"></p><p>Về bản chất Đậu Hà Lan có chứa nhiều chất xơ, vitamin và khoáng chất cần thiết cho cơ thể nên chúng được xếp vào hàng thực phẩm quý đối với cơ thể. Bột sữa là gia vị kết hợp để kích thích vị giác cảm thấy món ăn trở nên hấp dẫn hơn.</p><p>Công dụng của&nbsp;<strong>Đậu Hà Lan Wasabi</strong>: ăn món này thường xuyên sẽ giúp ta tránh được ung thư dạ dày, giảm lượng cholesterol xấu, chữa trị bệnh táo bón, tốt cho tim mạch, giảm cân cúng tốt, dành cho người đái tháo đường và rất nhiều công dụng chữa bệnh khác nữa. Nhưng đừng quên rằng đây như là snack đậu Hà Lan nên được trẻ em, lẫn người lớn khá yêu thích lại cộng thêm vị Wasabi cay cay, thơm thơm nữa còn gì bằng.</p><p><img src=\"https://images.f99.com.vn/images/fd7efe60-d7a9-4a1e-844b-070411ca3659.jpg\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[\"HACCP\"]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/7e541448-ebfa-4355-a5b2-33277b481ac2.jpg\",\"https://images.f99.com.vn/images/e489221d-07cc-437e-b698-b6fbedd51429.jpg\",\"https://images.f99.com.vn/images/4a57f397-cc7f-44e2-b02c-145ff90d0a4a.jpg\",\"https://images.f99.com.vn/images/bc225a0f-51b3-4c8c-93e5-aa67c282ac89.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Đậu Hà Lan\",\"Đậu Hà Lan Sữa\",\"Ăn Vặt\",\"Văn Phòng\",\"Học Sinh\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Đậu Hà Lan Wasabi",
+    "description": "<p>Thành phần món ăn vặt này bao gồm: Đậu Hà Lan sấy, bột Wasabi, dầu ăn, gia vị. Trong đó, sản phẩm không dùng chất bảo quản mà bảo quản bằng cách sấy khô và đóng kín, hương vị tự nhiên được giữ nguyên không bị biến tính trong quá trình sản xuất.</p><p><img src=\"https://images.f99.com.vn/images/3dbb34fb-3b02-45bf-a153-9c37c8b78986.jpg\"></p><p>Về bản chất Đậu Hà Lan có chứa nhiều chất xơ, vitamin và khoáng chất cần thiết cho cơ thể nên chúng được xếp vào hàng thực phẩm quý đối với cơ thể. Bột sữa là gia vị kết hợp để kích thích vị giác cảm thấy món ăn trở nên hấp dẫn hơn.</p><p>Công dụng của&nbsp;<strong>Đậu Hà Lan Wasabi</strong>: ăn món này thường xuyên sẽ giúp ta tránh được ung thư dạ dày, giảm lượng cholesterol xấu, chữa trị bệnh táo bón, tốt cho tim mạch, giảm cân cúng tốt, dành cho người đái tháo đường và rất nhiều công dụng chữa bệnh khác nữa. Nhưng đừng quên rằng đây như là snack đậu Hà Lan nên được trẻ em, lẫn người lớn khá yêu thích lại cộng thêm vị Wasabi cay cay, thơm thơm nữa còn gì bằng.</p><p><img src=\"https://images.f99.com.vn/images/fd7efe60-d7a9-4a1e-844b-070411ca3659.jpg\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/7e541448-ebfa-4355-a5b2-33277b481ac2.jpg",
+    "price": 12500,
+    "oldPrice": 25000,
+    "discountPercent": 50,
+    "stock": 30000,
+    "totalSold": 100,
+    "maxQuantityPerUser": null,
+    "unit": "Gói",
+    "sku": "Gói",
+    "origin": "",
+    "sellerId": 93,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Cách dùng: Dùng ngay sau khi mở túi vì đây là sản phẩm được chế biến sẵn.</p><p>Bảo Quản: nơi khô ráo, thoáng mát. Sau khi mở túi, dùng xong cần được đậy kỹ và để ngăn mát tủ lạnh sao cho vi khuẩn không khí không có khả năng lọt vào và phát triển ở bên trong.</p><p>Đậu Hà Lan Wasabi&nbsp;có thể dùng làm quà tặng người thân và bạn bè khi mình đến chơi rất hợp lý mà ý nghĩa.</p>",
+    "category": {
+      "id": 115,
+      "name": "Đồ ăn vặt",
+      "imageUrl": "https://images.f99.com.vn/notification-images/d8a19a50-1dbd-4ffd-abed-8ed61319d593.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [
+      "HACCP"
+    ],
+    "tags": [
+      "Đậu Hà Lan",
+      "Đậu Hà Lan Sữa",
+      "Ăn Vặt",
+      "Văn Phòng",
+      "Học Sinh"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/7e541448-ebfa-4355-a5b2-33277b481ac2.jpg",
+      "https://images.f99.com.vn/images/e489221d-07cc-437e-b698-b6fbedd51429.jpg",
+      "https://images.f99.com.vn/images/4a57f397-cc7f-44e2-b02c-145ff90d0a4a.jpg",
+      "https://images.f99.com.vn/images/bc225a0f-51b3-4c8c-93e5-aa67c282ac89.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/9528",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "100g",
+          "400g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 9592,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "400g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "400g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "400g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 45000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10000,
+        "totalSold": 50,
+        "unit": "Gói",
+        "sku": "Gói",
+        "rating": 0,
+        "instructions": "<p>Cách dùng: Dùng ngay sau khi mở túi vì đây là sản phẩm được chế biến sẵn.</p><p>Bảo Quản: nơi khô ráo, thoáng mát. Sau khi mở túi, dùng xong cần được đậy kỹ và để ngăn mát tủ lạnh sao cho vi khuẩn không khí không có khả năng lọt vào và phát triển ở bên trong.</p><p>Đậu Hà Lan Wasabi&nbsp;có thể dùng làm quà tặng người thân và bạn bè khi mình đến chơi rất hợp lý mà ý nghĩa.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "400g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 30299,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "100g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "100g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "100g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 10000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 20000,
+        "totalSold": 50,
+        "unit": "Gói",
+        "sku": "Gói",
+        "rating": 0,
+        "instructions": "<p>Cách dùng: Dùng ngay sau khi mở túi vì đây là sản phẩm được chế biến sẵn.</p><p>Bảo Quản: nơi khô ráo, thoáng mát. Sau khi mở túi, dùng xong cần được đậy kỹ và để ngăn mát tủ lạnh sao cho vi khuẩn không khí không có khả năng lọt vào và phát triển ở bên trong.</p><p>Đậu Hà Lan Wasabi&nbsp;có thể dùng làm quà tặng người thân và bạn bè khi mình đến chơi rất hợp lý mà ý nghĩa.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "100g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 93,
+      "sellerRate": 4.8,
+      "sellerName": "KAMI SHOP",
+      "warehouseId": "6c044702-e0d9-492d-acd7-ecead5e40051",
+      "warehouseAddress": "Số 6/40/71 Đường Phương Canh, Phường Xuân Phương, Quận Nam Từ Liêm, TP. Hà Nội ",
+      "distance": 8689,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 65.4375,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 9540,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Đậu Hà Lan Ngũ Vị",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Thành phần món ăn vặt này bao gồm: Đậu Hà Lan sấy kết hợp các vị Wasabi, Phô Mai, Sữa, Sầu Riêng, dầu ăn, gia vị. Trong đó, sản phẩm không dùng chất bảo quản mà bảo quản bằng cách sấy khô và đóng kín, hương vị tự nhiên được giữ nguyên không bị biến tính trong quá trình sản xuất.</p><p><img src=\"https://images.f99.com.vn/images/ecdf6e73-1aaf-4a95-a29f-64099fd784df.jpg\"></p><p>Về bản chất Đậu Hà Lan có chứa nhiều chất xơ, vitamin và khoáng chất cần thiết cho cơ thể nên chúng được xếp vào hàng thực phẩm quý đối với cơ thể. Wasabi, Phô Mai, Sữa, Sầu Riêng, là gia vị kết hợp để kích thích vị giác cảm thấy món ăn trở nên hấp dẫn hơn.</p><p>Công dụng của&nbsp;<strong>Đậu Hà Lan Ngũ Vị</strong>: ăn món này thường xuyên sẽ giúp ta tránh được ung thư dạ dày, giảm lượng cholesterol xấu, chữa trị bệnh táo bón, tốt cho tim mạch, giảm cân cúng tốt, dành cho người đái tháo đường và rất nhiều công dụng chữa bệnh khác nữa. Nhưng đừng quên rằng đây như là snack đậu Hà Lan nên được trẻ em, lẫn người lớn khá yêu thích lại cộng thêm vị Wasabi, Phô Mai, Sữa, Sầu Riêng, cay cay, thơm thơm nữa còn gì bằng.</p><p><img src=\"https://images.f99.com.vn/images/97fb1259-6320-42bd-8285-554c83572859.jpg\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/7f0ba883-4b09-4d27-b238-887e046dfaaa.jpg\",\"https://images.f99.com.vn/images/24dc8806-fadc-4b4e-92b8-8e68e60de3ab.jpg\",\"https://images.f99.com.vn/images/92209c8b-4e07-4b1d-8380-a318d903f855.jpg\",\"https://images.f99.com.vn/images/d59b21ad-d175-4a34-bdea-c68751805a90.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"Ăn vặt\",\"đậu hà lan\",\"văn phòng\",\"học sinh\",\"sinh viên\",\"bóng đá\",\"ăn vặt bóng đá\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Đậu Hà Lan Ngũ Vị",
+    "description": "<p>Thành phần món ăn vặt này bao gồm: Đậu Hà Lan sấy kết hợp các vị Wasabi, Phô Mai, Sữa, Sầu Riêng, dầu ăn, gia vị. Trong đó, sản phẩm không dùng chất bảo quản mà bảo quản bằng cách sấy khô và đóng kín, hương vị tự nhiên được giữ nguyên không bị biến tính trong quá trình sản xuất.</p><p><img src=\"https://images.f99.com.vn/images/ecdf6e73-1aaf-4a95-a29f-64099fd784df.jpg\"></p><p>Về bản chất Đậu Hà Lan có chứa nhiều chất xơ, vitamin và khoáng chất cần thiết cho cơ thể nên chúng được xếp vào hàng thực phẩm quý đối với cơ thể. Wasabi, Phô Mai, Sữa, Sầu Riêng, là gia vị kết hợp để kích thích vị giác cảm thấy món ăn trở nên hấp dẫn hơn.</p><p>Công dụng của&nbsp;<strong>Đậu Hà Lan Ngũ Vị</strong>: ăn món này thường xuyên sẽ giúp ta tránh được ung thư dạ dày, giảm lượng cholesterol xấu, chữa trị bệnh táo bón, tốt cho tim mạch, giảm cân cúng tốt, dành cho người đái tháo đường và rất nhiều công dụng chữa bệnh khác nữa. Nhưng đừng quên rằng đây như là snack đậu Hà Lan nên được trẻ em, lẫn người lớn khá yêu thích lại cộng thêm vị Wasabi, Phô Mai, Sữa, Sầu Riêng, cay cay, thơm thơm nữa còn gì bằng.</p><p><img src=\"https://images.f99.com.vn/images/97fb1259-6320-42bd-8285-554c83572859.jpg\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/7f0ba883-4b09-4d27-b238-887e046dfaaa.jpg",
+    "price": 15000,
+    "oldPrice": 25000,
+    "discountPercent": 40,
+    "stock": 30000,
+    "totalSold": 98,
+    "maxQuantityPerUser": null,
+    "unit": "Gói",
+    "sku": "Gói",
+    "origin": "",
+    "sellerId": 93,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Cách dùng: Dùng ngay sau khi mở túi vì đây là sản phẩm được chế biến sẵn.</p><p>Bảo Quản: nơi khô ráo, thoáng mát. Sau khi mở túi, dùng xong cần được đậy kỹ và để ngăn mát tủ lạnh sao cho vi khuẩn không khí không có khả năng lọt vào và phát triển ở bên trong.</p><p>Đậu Hà Lan Ngũ Vị&nbsp;có thể dùng làm quà tặng người thân và bạn bè khi mình đến chơi rất hợp lý mà ý nghĩa.</p>",
+    "category": {
+      "id": 115,
+      "name": "Đồ ăn vặt",
+      "imageUrl": "https://images.f99.com.vn/notification-images/d8a19a50-1dbd-4ffd-abed-8ed61319d593.png",
+      "parentId": 88,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "Ăn vặt",
+      "đậu hà lan",
+      "văn phòng",
+      "học sinh",
+      "sinh viên",
+      "bóng đá",
+      "ăn vặt bóng đá"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/7f0ba883-4b09-4d27-b238-887e046dfaaa.jpg",
+      "https://images.f99.com.vn/images/24dc8806-fadc-4b4e-92b8-8e68e60de3ab.jpg",
+      "https://images.f99.com.vn/images/92209c8b-4e07-4b1d-8380-a318d903f855.jpg",
+      "https://images.f99.com.vn/images/d59b21ad-d175-4a34-bdea-c68751805a90.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/9540",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "100g",
+          "400g"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 9541,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "400g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "400g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "400g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 50000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 10000,
+        "totalSold": 49,
+        "unit": "Gói",
+        "sku": "Gói",
+        "rating": 0,
+        "instructions": "<p>Cách dùng: Dùng ngay sau khi mở túi vì đây là sản phẩm được chế biến sẵn.</p><p>Bảo Quản: nơi khô ráo, thoáng mát. Sau khi mở túi, dùng xong cần được đậy kỹ và để ngăn mát tủ lạnh sao cho vi khuẩn không khí không có khả năng lọt vào và phát triển ở bên trong.</p><p>Đậu Hà Lan Ngũ Vị&nbsp;có thể dùng làm quà tặng người thân và bạn bè khi mình đến chơi rất hợp lý mà ý nghĩa.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "400g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 30302,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "100g",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "100g",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "100g",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 15000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 20000,
+        "totalSold": 49,
+        "unit": "Gói",
+        "sku": "Gói",
+        "rating": 0,
+        "instructions": "<p>Cách dùng: Dùng ngay sau khi mở túi vì đây là sản phẩm được chế biến sẵn.</p><p>Bảo Quản: nơi khô ráo, thoáng mát. Sau khi mở túi, dùng xong cần được đậy kỹ và để ngăn mát tủ lạnh sao cho vi khuẩn không khí không có khả năng lọt vào và phát triển ở bên trong.</p><p>Đậu Hà Lan Ngũ Vị&nbsp;có thể dùng làm quà tặng người thân và bạn bè khi mình đến chơi rất hợp lý mà ý nghĩa.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "100g"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 93,
+      "sellerRate": 4.8,
+      "sellerName": "KAMI SHOP",
+      "warehouseId": "6c044702-e0d9-492d-acd7-ecead5e40051",
+      "warehouseAddress": "Số 6/40/71 Đường Phương Canh, Phường Xuân Phương, Quận Nam Từ Liêm, TP. Hà Nội ",
+      "distance": 8689,
+      "warehouseDistrict": "bac tu liem",
+      "reputation": 65.4375,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": 423,
+  "name": "Thúy Food - Đồ Khô & Đồ Ăn Vặt - Cầu Giấy",
+  "logo": "https://cdn.f99.link/groupbuy-images/2f6257b6-6137-47ab-a84a-bc125d55b89d.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Thúy Food - Đồ Khô & Đồ Ăn Vặt - Cầu Giấy chuyên cung cấp thực phẩm sach, thế giới ăn vặt.",
+  "headQuarter": "Số 1 ngõ 184/41/25 Hoa Bằng, Yên Hòa, Cầu Giấy, Hà Nội",
+  "email": "nguyenthithuy.sp0107@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 5,
+  "availableTime": {
+    "openTime": "05:00",
+    "closeTime": "23:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 212
+}

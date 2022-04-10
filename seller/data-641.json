@@ -1,0 +1,35 @@
+{
+  "id": 641,
+  "name": "Mộc Con’s Mix",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/643a1160-8080-4208-badd-48c79a3a85d9.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cửa hàng Mộc Con's Mix chuyên cung ứng các nhu yếu phẩm trong nước và nhập khẩu. Tất cả các sản phẩm đều được Mộc Con's Mix sàng lọc lỹ càng. Để đảm bảo chất lượng, an toàn sức khỏe đến tay người tiêu dùng. Nghiêm cấm tuyệt đối không bán hàng giả mạo, chất lượng kém. Thương hiệu đồng hành cùng giá trị!\n\n",
+  "headQuarter": "81 đường 3, Bình An, Thủ Đức, Hồ Chí Minh",
+  "email": "Minhluong.peony@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "22:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

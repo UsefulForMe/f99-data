@@ -1,0 +1,35 @@
+{
+  "id": 370,
+  "name": "Vikimart",
+  "logo": "https://cdn.f99.link/groupbuy-images/0b581c60-9f5f-4848-ab0b-e986e2de343d.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chúng tôi chuyên cung cấp thực phẩm tươi sống, thực phẩm chế biến, nhập khẩu, các loại rau củ quả uy tín, chất lượng.\n\nVikimart cảm ơn Quý khách hàng đã luôn tin tưởng và ủng hộ!\n\nSự tin tưởng và ủng hộ của quý khách là niềm hân hạnh và động lực để chúng tôi ngày càng hoàn thiện.\n\nNếu gặp bất kỳ vấn đề gì vui lòng liên hệ hoặc inbox trực tiếp cho cửa hàng. Chúng tôi cam kết sẽ xử lý trong thời gian sớm nhất.\n\nHotline: 0966.448.531\n\nChúc bạn và gia đình có những bưa ăn ngon miệng!",
+  "headQuarter": "Số 45 ngõ 52 đường Mỹ Đình, Quận Nam Từ Liêm, Hà Nội",
+  "email": "vuhongvan.hvtc@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.8,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 734
+}

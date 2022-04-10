@@ -1,0 +1,35 @@
+{
+  "id": 521,
+  "name": "ZONE 24",
+  "logo": "https://cdn.f99.link/groupbuy-images/55fe9131-68dd-4a87-beb8-fc6b477bf55e.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Zone 24 - cửa hàng cung cấp lương thực, thực phẩm tươi ngon hằng ngày cho tất cả mọi người. Mở cửa 24/7 và giao hàng tận nơi",
+  "headQuarter": "Số 6 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+  "email": "Zone24.ho@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.4,
+  "availableTime": {
+    "openTime": "06:00",
+    "closeTime": "23:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 17
+}

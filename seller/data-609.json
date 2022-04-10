@@ -1,0 +1,35 @@
+{
+  "id": 609,
+  "name": "Siêu thị Lamason 10k",
+  "logo": "https://cdn.f99.link/groupbuy-images/88818fb7-105d-40c5-80d6-302dbadea42d.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "LamaSon 10K là hệ thống siêu thị tiện ích thuộc Công ty TNHH Thương mại và Đầu tư LA.MA.SON. Ra đời từ tháng 2/2020, LamaSon 10K đang ngày một lớn mạnh với hệ thống 10 cửa hàng tại Hà Nội. Với mong muốn mang đến cho người tiêu dùng lựa chọn phong phú cả về chất lượng hàng hóa, dịch vụ vẫn giá thành, LamaSon 10K cung cấp đa dạng các mặt hàng chất lượng tốt với nhiều mức giá khác nhau như: gia dụng, mỹ phẩm và thực phẩm,...",
+  "headQuarter": "207 Tô Hiệu, Dịch Vọng, Cầu Giấy, Hà Nội",
+  "email": "Hotlinelamason10k@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

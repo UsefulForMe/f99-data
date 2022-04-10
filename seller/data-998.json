@@ -1,0 +1,35 @@
+{
+  "id": 998,
+  "name": "Đồ Ăn Vặt Hà Nội",
+  "logo": "https://images.f99.com.vn/groupbuy-images/41c0231a-ab7e-47b8-8fb2-dfe0fd7b4575.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp các sản phẩm đồ ăn vặt 3 miền. Hàng được tuyển chọn đảm bảo vệ sinh an toàn thực phẩm và chất lượng tới tay khách hàng.",
+  "headQuarter": "Nhà 43, ngõ 281/5 đường Tam Trinh, phường Hoàng Văn Thụ, quận Hoàng Mai, Hà Nội, Hoàng Văn Thụ, Hoàng Mai, Hà Nội",
+  "email": "Phamhong.qm@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

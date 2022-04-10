@@ -1,0 +1,35 @@
+{
+  "id": 835,
+  "name": "Hoa Quả Gia Đình Giá Sỉ",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/c58be57c-52c1-4e2f-bf07-6205cc2783c4.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên cung cấp các mặt hang hoa quả",
+  "headQuarter": "số 62 ngõ 69 phố Tứ Tiên, Tứ Liên, Tây Hồ, Hà Nội",
+  "email": "trugbin9x@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4,
+  "availableTime": {
+    "openTime": "06:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 7
+}

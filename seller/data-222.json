@@ -1,0 +1,35 @@
+{
+  "id": 222,
+  "name": "Thực phẩm tự nhiên VipinFood",
+  "logo": "https://cdn.f99.link/groupbuy-images/203be530-867e-4a29-afee-c7fdfef1d89d.jpeg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cửa hàng thực phẩm sạch VIPINFOOD phân phối thực phảm tiêu chuẩn hữu cơ, sạch và an toàn. Rau củ và nông sản hữu cơ đã được chứng nhận về chất lượng, thưc phẩm sống và một số mặt hàng khác được nhập từ miền núi Đông Bắc với quy trình trông trọt và chăn nuôi hữu cơ không sử dụng thuốc hóa học và các sản phảm công nghiệp khác.",
+  "headQuarter": "1 ngõ 35 Ngọc Trì, Thạch Bàn, Long Biên, Hà Nội",
+  "email": "vipinfood@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.9,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "20:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 162
+}

@@ -1,0 +1,35 @@
+{
+  "id": 154,
+  "name": "Giang Nguyễn Fruits",
+  "logo": "https://cdn.f99.link/groupbuy-images/67f6adc1-4767-46f7-9ef5-6f76db34f5d5.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên Phân Phối Sỉ - Lẻ : Bưởi 5 roi chuẩn Mỹ Hòa , Bưởi Da Xanh chuẩn Bến Tre",
+  "headQuarter": "P107-194 Giải Phóng Thanh Xuân, Hà Nội",
+  "email": "nguyengianght1211@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 25
+}

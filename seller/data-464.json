@@ -1,0 +1,35 @@
+{
+  "id": 464,
+  "name": "Thực Phẩm Sạch 72h",
+  "logo": "https://cdn.f99.link/groupbuy-images/077c678c-24ba-485c-aef7-07125382f12e.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Thực Phẩm Sạch 72h chuyên cung cấp thực phẩm sạch uy tín, chất lượng.",
+  "headQuarter": "Chung cư Osaka, ngõ 48 Ngọc Hồi, Hoàng Liệt, Hoàng Mai, Hà Nội",
+  "email": "tbphuongbds@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.7,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 12
+}

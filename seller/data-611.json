@@ -1,0 +1,35 @@
+{
+  "id": 611,
+  "name": "Food An OK",
+  "logo": "https://cdn.f99.link/groupbuy-images/4587cc30-c93d-44f2-81c5-2bec1f068df4.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên phân phối các loại trái cây và thực phẩm đông lạnh. Hàng ngon tươi mới mỗi ngày",
+  "headQuarter": "4/2/38 Tổ 44, Khu Phố 3, Đường Tân Thới Nhất 1, Tân Thới Nhất, Quận 12, Hồ Chí Minh",
+  "email": "Foodanok@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "17:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

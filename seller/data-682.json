@@ -1,0 +1,35 @@
+{
+  "id": 682,
+  "name": "Thực Phẩm Vinh Phát",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/fb0d835e-354c-44e7-8c62-b57d618dbbdb.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cung cấp các sản phẩm thịt đông lạnh nhập khẩu",
+  "headQuarter": "Số 83, ngõ 521 Cổ Nhuế, Cổ Nhuế 1, Bắc Từ Liêm, Hà Nội",
+  "email": "nhvinh.001@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "00:00",
+    "closeTime": "23:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

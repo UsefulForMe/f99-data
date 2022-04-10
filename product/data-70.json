@@ -1,0 +1,2736 @@
+[
+  {
+    "id": 2180,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bơ sáp Loại 1",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p Class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/3e8a5a2c-db22-4702-95dd-813b3058363c.png\"><img src=\"https://images.f99.com.vn/images/8417b93b-3c1a-47ca-a792-a5abe5bb8b56.jpg\"><img src=\"https://images.f99.com.vn/images/fde67a77-4c22-487e-bc01-0881076a4e52.png\"><img src=\"https://images.f99.com.vn/images/1b692e75-f833-4260-accb-403570a6b070.png\"><img src=\"https://images.f99.com.vn/images/5448df80-df55-4c70-9878-9ec6030fc90e.png\"></p><p class=\"ql-align-center\"><span style=\"color: rgb(255, 0, 0); background-color: transparent;\">Những điều thú vị về&nbsp;bơ sáp&nbsp;</span></p><p class=\"ql-align-center\"><a href=\"http://shopdacsancaonguyen.com/san-pham/bo-sap-ngon\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 51, 51); background-color: transparent;\">Bơ sáp</a><span style=\"background-color: transparent;\">&nbsp;là một loại trái cây đặc sản nổi tiếng của vùng cao nguyên , bơ nơi đây nổi bật với độ thơm ngon và giá trị dinh dưỡng lên hàng năm cứ vào vụ bơ từ tháng 5 đến tháng 8 là các thương lái tấp nập đổ về thu mua loại đặc sản này.</span></p><p class=\"ql-align-center\">&nbsp;</p><p class=\"ql-align-center\"><br></p><p class=\"ql-align-justify\"><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/837921a1-ce79-4fd5-bd6a-12195fc00baa.png\",\"https://images.f99.com.vn/images/077885bf-f983-47be-a543-75869ef8dc80.png\",\"https://images.f99.com.vn/images/b6cccf1f-03a3-4c70-a509-14bd4dc69bae.png\",\"https://images.f99.com.vn/images/dffdedfb-82d5-4901-b85b-e8fcc9445d54.png\",\"https://images.f99.com.vn/images/7035432a-f159-4964-b930-2a076a44e115.png\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bơ sáp Loại 1",
+    "description": "<p Class=\"ql-align-justify\"><img src=\"https://images.f99.com.vn/images/3e8a5a2c-db22-4702-95dd-813b3058363c.png\"><img src=\"https://images.f99.com.vn/images/8417b93b-3c1a-47ca-a792-a5abe5bb8b56.jpg\"><img src=\"https://images.f99.com.vn/images/fde67a77-4c22-487e-bc01-0881076a4e52.png\"><img src=\"https://images.f99.com.vn/images/1b692e75-f833-4260-accb-403570a6b070.png\"><img src=\"https://images.f99.com.vn/images/5448df80-df55-4c70-9878-9ec6030fc90e.png\"></p><p class=\"ql-align-center\"><span style=\"color: rgb(255, 0, 0); background-color: transparent;\">Những điều thú vị về&nbsp;bơ sáp&nbsp;</span></p><p class=\"ql-align-center\"><a href=\"http://shopdacsancaonguyen.com/san-pham/bo-sap-ngon\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 51, 51); background-color: transparent;\">Bơ sáp</a><span style=\"background-color: transparent;\">&nbsp;là một loại trái cây đặc sản nổi tiếng của vùng cao nguyên , bơ nơi đây nổi bật với độ thơm ngon và giá trị dinh dưỡng lên hàng năm cứ vào vụ bơ từ tháng 5 đến tháng 8 là các thương lái tấp nập đổ về thu mua loại đặc sản này.</span></p><p class=\"ql-align-center\">&nbsp;</p><p class=\"ql-align-center\"><br></p><p class=\"ql-align-justify\"><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/837921a1-ce79-4fd5-bd6a-12195fc00baa.png",
+    "price": 95900,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 24,
+    "totalSold": 1079,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "20007063",
+    "origin": "",
+    "sellerId": 1,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": null,
+    "category": {
+      "id": 70,
+      "name": "Bơ",
+      "imageUrl": "https://imgur.com/RUDLKsR.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/837921a1-ce79-4fd5-bd6a-12195fc00baa.png",
+      "https://images.f99.com.vn/images/077885bf-f983-47be-a543-75869ef8dc80.png",
+      "https://images.f99.com.vn/images/b6cccf1f-03a3-4c70-a509-14bd4dc69bae.png",
+      "https://images.f99.com.vn/images/dffdedfb-82d5-4901-b85b-e8fcc9445d54.png",
+      "https://images.f99.com.vn/images/7035432a-f159-4964-b930-2a076a44e115.png"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/2180",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "1kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 4893,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 95900,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 24,
+        "totalSold": 1079,
+        "unit": "Kg",
+        "sku": "20007063",
+        "rating": 0,
+        "instructions": null,
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 1,
+      "sellerRate": 4.8,
+      "sellerName": "F99 Trading",
+      "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+      "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+      "distance": 2188,
+      "warehouseDistrict": "dong da",
+      "reputation": 100,
+      "others": [
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "393a4bc8-7850-4107-8620-ab4b8c1e6439",
+          "warehouseAddress": "168 Thái Hà Trung Liệt Đống Đa Hà Nội",
+          "distance": 2188,
+          "warehouseDistrict": "dong da",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "2d18039d-3af7-403a-b77e-e52298caf132",
+          "warehouseAddress": "92 Ngọc Lâm, Long Biên, Hà Nội",
+          "distance": 4139,
+          "warehouseDistrict": "long bien",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "ca971e0d-bd00-4ab8-9ec3-496657dff10c",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "f0467536-9b36-4563-9004-7cf57b3d90e0",
+          "warehouseAddress": "244-246 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội",
+          "distance": 4397,
+          "warehouseDistrict": "hai ba trung",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "bf21b982-1749-4767-b60f-ff01876df22e",
+          "warehouseAddress": "292 Lạc Long Quân, Tây Hồ, Hà Nội",
+          "distance": 4413,
+          "warehouseDistrict": "tay ho",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "00cfdbf1-6156-4b83-80bf-11b29f5853af",
+          "warehouseAddress": "Chung cư N03-T5 Ngoại Giao Đoàn Bắc Từ Liêm Hà Nội Việt Nam",
+          "distance": 5451,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "31ff4ab1-2a04-457f-a8cd-92f1d52e5b23",
+          "warehouseAddress": "Số 180 Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",
+          "distance": 5889,
+          "warehouseDistrict": "cau giay",
+          "reputation": 100,
+          "others": []
+        },
+        {
+          "sellerId": 1,
+          "sellerRate": 4.8,
+          "sellerName": "F99 Trading",
+          "warehouseId": "5b28dc4d-f05d-4e0e-985f-c7c9c3ab0295",
+          "warehouseAddress": "158 Đường Phú Diễn, Phú Diễn, Từ Liêm, Hà Nội",
+          "distance": 7674,
+          "warehouseDistrict": "bac tu liem",
+          "reputation": 100,
+          "others": []
+        }
+      ]
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 6971,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Cóc bao tử  Apple Fruit",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<h3>Làm đẹp với sinh tố cóc và nước&nbsp;cóc ép</h3><p>Nước ép cóc là loại thức uống được lựa chọn hàng đầu dành cho những người có xu hướng muốn giảm cân nhanh, chất béo trong quả cóc là chất béo có lợi cho sức khỏe, cóc chứa ít đường, nhiều chất xơ và vitamin. Bên cạnh đó, nước ép cóc chứa nhiều chất sắt giúp da dẻ hồng hào, mỗi 100g cóc sẽ cung cấp cho cơ thể khoảng 3,2mg sắt đáp ứng nhu cầu nạp 18% chất sắt mỗi ngày.</p><p><img src=\"https://images.f99.com.vn/images/3ce30ab6-a8f2-47c4-aefa-3d4b91b4c181.jpg\"></p><p>Ngoài các tác dụng chính trên, uống nước ép cóc mỗi ngày sẽ giúp chúng ta tăng cường sức đề kháng do cóc chứa nhiều vitamin C – chất chống oxy hóa mạnh, giúp bảo vệ cơ thể chống lại các gốc tự nhiên gây hại từ đó làm giảm nguy cơ mắc bệnh tim và ung thư.</p><p>Giờ thì nước ép cóc không chỉ đơn giản là loại thức uống giải nhiệt mà còn bổ dưỡng và tốt cho sức khỏe. Những bạn nào muốn giảm cân thì nên uống nước ép cóc thường xuyên để có thân hình thon gọn và chăm sóc da tốt hơn nhé.</p><p><img src=\"https://images.f99.com.vn/images/3e2698a2-ff9c-4f03-9c8e-46bd2dd1ad94.jpg\"></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/289b2dcb-67b6-4467-a24f-067f01978a67.jpg\",\"https://images.f99.com.vn/images/4bfde18b-c5cf-4a63-93d4-c5f92e41bd16.jpg\",\"https://images.f99.com.vn/images/cceafc56-da57-4465-a079-40a593e6f790.jpg\",\"https://images.f99.com.vn/images/283b3069-7790-4734-8713-8b04b67458ca.jpg\",\"https://images.f99.com.vn/images/12fa1e0d-131f-4710-bd4b-4ae0f83f592a.jpg\",\"https://images.f99.com.vn/images/3e74d76c-51d8-4290-bd15-a5f8f47a148b.jpg\",\"https://images.f99.com.vn/images/44a0f36f-f8ad-4de3-aa49-efee42d0b22f.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Cóc bao tử  Apple Fruit",
+    "description": "<h3>Làm đẹp với sinh tố cóc và nước&nbsp;cóc ép</h3><p>Nước ép cóc là loại thức uống được lựa chọn hàng đầu dành cho những người có xu hướng muốn giảm cân nhanh, chất béo trong quả cóc là chất béo có lợi cho sức khỏe, cóc chứa ít đường, nhiều chất xơ và vitamin. Bên cạnh đó, nước ép cóc chứa nhiều chất sắt giúp da dẻ hồng hào, mỗi 100g cóc sẽ cung cấp cho cơ thể khoảng 3,2mg sắt đáp ứng nhu cầu nạp 18% chất sắt mỗi ngày.</p><p><img src=\"https://images.f99.com.vn/images/3ce30ab6-a8f2-47c4-aefa-3d4b91b4c181.jpg\"></p><p>Ngoài các tác dụng chính trên, uống nước ép cóc mỗi ngày sẽ giúp chúng ta tăng cường sức đề kháng do cóc chứa nhiều vitamin C – chất chống oxy hóa mạnh, giúp bảo vệ cơ thể chống lại các gốc tự nhiên gây hại từ đó làm giảm nguy cơ mắc bệnh tim và ung thư.</p><p>Giờ thì nước ép cóc không chỉ đơn giản là loại thức uống giải nhiệt mà còn bổ dưỡng và tốt cho sức khỏe. Những bạn nào muốn giảm cân thì nên uống nước ép cóc thường xuyên để có thân hình thon gọn và chăm sóc da tốt hơn nhé.</p><p><img src=\"https://images.f99.com.vn/images/3e2698a2-ff9c-4f03-9c8e-46bd2dd1ad94.jpg\"></p>",
+    "imageUrl": "https://images.f99.com.vn/images/289b2dcb-67b6-4467-a24f-067f01978a67.jpg",
+    "price": 25000,
+    "oldPrice": 40000,
+    "discountPercent": 38,
+    "stock": 407100,
+    "totalSold": 289,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "COC",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p>Bảo quản nhiệt độ lạnh để trái cây tươi lâu hơn.</p>",
+    "category": {
+      "id": 70,
+      "name": "Bơ",
+      "imageUrl": "https://imgur.com/RUDLKsR.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/289b2dcb-67b6-4467-a24f-067f01978a67.jpg",
+      "https://images.f99.com.vn/images/4bfde18b-c5cf-4a63-93d4-c5f92e41bd16.jpg",
+      "https://images.f99.com.vn/images/cceafc56-da57-4465-a079-40a593e6f790.jpg",
+      "https://images.f99.com.vn/images/283b3069-7790-4734-8713-8b04b67458ca.jpg",
+      "https://images.f99.com.vn/images/12fa1e0d-131f-4710-bd4b-4ae0f83f592a.jpg",
+      "https://images.f99.com.vn/images/3e74d76c-51d8-4290-bd15-a5f8f47a148b.jpg",
+      "https://images.f99.com.vn/images/44a0f36f-f8ad-4de3-aa49-efee42d0b22f.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/6971",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "1kg",
+          "Combo 20kg",
+          "Combo 3kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 73675,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "1kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 30000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 318600,
+        "totalSold": 112,
+        "unit": "kg",
+        "sku": "COC",
+        "rating": 5,
+        "instructions": "<p>Bảo quản nhiệt độ lạnh để trái cây tươi lâu hơn.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "1kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 51559,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 20kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 20kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 20kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 450000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 82600,
+        "totalSold": 82,
+        "unit": "kg",
+        "sku": "COC",
+        "rating": 5,
+        "instructions": "<p>Bảo quản nhiệt độ lạnh để trái cây tươi lâu hơn.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 20kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 6973,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Combo 3kg",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 3kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 85000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 5900,
+        "totalSold": 95,
+        "unit": "kg",
+        "sku": "COC",
+        "rating": 5,
+        "instructions": "<p>Bảo quản nhiệt độ lạnh để trái cây tươi lâu hơn.</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Combo 3kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 10952,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Trái cây cắt sẵn mix 2 loại tự chọn",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Mix 2 loại tự chọn: Táo, ổi, dứa, dưa hấu, mận, cam,cóc , xoài.....</p><p><img src=\"https://images.f99.com.vn/images/0bfb4589-5040-4785-8cf8-7fa611eb307f.jpg\"> loại tự chọn</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/dee35eb2-aefa-403d-9fdc-e9732c884ccd.jpg\",\"https://images.f99.com.vn/images/3e841430-d91e-45f6-9db1-f4d229ada78c.jpg\",\"https://images.f99.com.vn/images/3cc97a52-8ddd-4af7-833e-959804f18881.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"dứa\",\"táo\",\"ổi\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Trái cây cắt sẵn mix 2 loại tự chọn",
+    "description": "<p>Mix 2 loại tự chọn: Táo, ổi, dứa, dưa hấu, mận, cam,cóc , xoài.....</p><p><img src=\"https://images.f99.com.vn/images/0bfb4589-5040-4785-8cf8-7fa611eb307f.jpg\"> loại tự chọn</p>",
+    "imageUrl": "https://images.f99.com.vn/images/dee35eb2-aefa-403d-9fdc-e9732c884ccd.jpg",
+    "price": 35000,
+    "oldPrice": 50000,
+    "discountPercent": 30,
+    "stock": 2000,
+    "totalSold": 94,
+    "maxQuantityPerUser": null,
+    "unit": "Hộp",
+    "sku": "hoaqua",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+    "category": {
+      "id": 70,
+      "name": "Bơ",
+      "imageUrl": "https://imgur.com/RUDLKsR.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "dứa",
+      "táo",
+      "ổi"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/dee35eb2-aefa-403d-9fdc-e9732c884ccd.jpg",
+      "https://images.f99.com.vn/images/3e841430-d91e-45f6-9db1-f4d229ada78c.jpg",
+      "https://images.f99.com.vn/images/3cc97a52-8ddd-4af7-833e-959804f18881.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/10952",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "Hộp (400-500g)",
+          "hộp( 750-900g)"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 10953,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Hộp (400-500g)",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Hộp (400-500g)",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Hộp (400-500g)",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 35000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 1000,
+        "totalSold": 54,
+        "unit": "Hộp",
+        "sku": "hoaqua",
+        "rating": 5,
+        "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Hộp (400-500g)"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 10954,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "hộp( 750-900g)",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "hộp( 750-900g)",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "hộp( 750-900g)",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 68000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 1000,
+        "totalSold": 40,
+        "unit": "Hộp",
+        "sku": "hoaqua",
+        "rating": 5,
+        "instructions": "<p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Nhận hàng quý khách vui lòng kiểm tra cùng tài xế. </span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hoa quả bảo hành, bao bù, đổi trả trong ngày.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Bảo quản ở nhiệt độ tủ mát để quả tươi ngon lâu hơn.</span></p><p><br></p><p><span style=\"color: rgb(0, 26, 51); background-color: rgb(229, 239, 255);\">Hotline: </span><span style=\"color: var(--blue-base); background-color: rgb(229, 239, 255);\">0974956933</span></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "hộp( 750-900g)"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 11128,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Nhót Chín Nhót Xanh  Mộc Châu",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"background-color: initial;\">Ăn nhót xanh theo cách này vừa ngon hết ý lại giúp cân nặng giảm ầm ầm</span></p><h1><strong>Ăn nhót xanh theo cách này vừa ngon hết ý lại giúp cân nặng giảm ầm ầm</strong></h1><p class=\"ql-align-justify\"><strong style=\"background-color: initial;\">Ứa nước miếng với nhót xanh chấm chẳm chéo, món ăn khoái khẩu của hội con gái còn giúp giảm cân nữa chứ!</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-center\"><strong style=\"background-color: initial;\"><img src=\"https://1.bp.blogspot.com/-dgqjyNY0gYI/WpZSls5D6tI/AAAAAAACq2A/M4QY9OJo7gsa_g6OOYYeYsTagMTBPc01wCLcBGAs/s1600/giam-can-blogtamsuvn.jpg\"></strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>Có lẽ trong kí ức của mỗi chúng ta, ai cũng từng gắn bó với những quả nhót từ xanh non cho đến chín đỏ mọng cũng khiến bao người “ứa nước miếng”. Đến tận bây giờ những quả nhót, đặc biệt là những quả nhót xanh vẫn không hề có dấu hiệu giảm nhiệt, thậm chí “làm mưa làm gió” vào dịp sau tết âm lịch.</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-center\"><strong style=\"background-color: initial;\"><img src=\"https://2.bp.blogspot.com/-u_19yk1b61s/WpZSju13m0I/AAAAAAACq1s/OL6sttVQwRA_-RihDFLyzxJnS_PE8CCjwCLcBGAs/s1600/dang-mua-nhot-xanh-chi-em-tranh-thu-an-theo-cach-nay-vua-ngon-het-y-lai-giup-can-nang-giam-am-am-1.jpg\"></strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>Những quả nhót xanh non giờ đây đã trở thành món ăn vặt được rất nhiều chị em yêu thích. Nếu bạn là “fan” của nhót xanh thì khỏi phải nói loại quả này khi trộn chẳm chéo chính là món ăn khoái khẩu nhất khiến ai cũng “phát cuồng”. Vị chua của nhót hòa quyện với muối mặn, đường, ớt, ngò, gừng, tỏi tạo nên một món ăn tuyệt vời với hương vị lạ miệng, kích thích khứu giác.</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-center\"><strong style=\"background-color: initial;\"><img src=\"https://2.bp.blogspot.com/-yVDB44Y2sVw/WpZSjsKq8zI/AAAAAAACq1w/9by-J9PAV7EEUkvbjz_W6ENNRkGewbIAQCLcBGAs/s1600/dang-mua-nhot-xanh-chi-em-tranh-thu-an-theo-cach-nay-vua-ngon-het-y-lai-giup-can-nang-giam-am-am-2.jpg\"></strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>Một tin vui dành cho những ai thích ăn món nhót xanh trộn chẳm chéo chính là chúng có thể hỗ trợ bạn giảm cân đó. Nhót xanh có chứa nhiều vitamin C, axit hữu cơ, sắt, canxi và chất chống oxy hóa. Ăn nhót xanh sẽ giúp kích thích tiêu hóa, thúc đẩy trao đổi chất và đốt cháy mỡ thừa. Bên cạnh đó, nhót xanh kết hợp với cải bắp cùng nước chấm đa dạng sẽ đem đến món ăn ngon miệng, chống ngấy sau các bữa tiệc linh đình dịp tết và khai xuân đầu năm.</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-center\"><strong style=\"background-color: initial;\"><img src=\"https://4.bp.blogspot.com/-0s8Gwe2DZG4/WpZSjebp9RI/AAAAAAACq1o/M2MwqHUcvco83UcqTjfNiZ5CmGrRDKs3QCLcBGAs/s1600/dang-mua-nhot-xanh-chi-em-tranh-thu-an-theo-cach-nay-vua-ngon-het-y-lai-giup-can-nang-giam-am-am-3.jpg\"></strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong style=\"background-color: initial;\">Chuẩn bị nguyên liệu:</strong></p><ul><li class=\"ql-align-justify\"><em>– 1kg nhót xanh.</em></li><li class=\"ql-align-justify\"><em>– 200g cải bắp.</em></li><li class=\"ql-align-justify\"><em>– 1 củ gừng.</em></li><li class=\"ql-align-justify\"><em>– 4 quả ớt.</em></li><li class=\"ql-align-justify\"><em>– 2 tép tỏi.</em></li><li class=\"ql-align-justify\"><em>– 5 nhánh ngò rí.</em></li><li class=\"ql-align-justify\"><em>– 3 cây hành hoa.</em></li><li class=\"ql-align-justify\"><em>– 1 thìa mắc khén (đặc sản vùng Tây Bắc, nếu không có thì thôi).</em></li><li class=\"ql-align-justify\"><em>– 1/2 thìa cafe bột ngọt, 1 thìa cafe muối, 1 thìa canh đường trắng, 1 thìa canh nước mắm, 1/2 thìa cafe ớt khô.</em></li></ul><p class=\"ql-align-center\"><strong style=\"background-color: initial;\"><img src=\"https://2.bp.blogspot.com/-pcM1PposS08/WpZSku54ELI/AAAAAAACq10/coYuRbGP1yMOg_SW85lpxctPERolnnf8gCLcBGAs/s1600/dang-mua-nhot-xanh-chi-em-tranh-thu-an-theo-cach-nay-vua-ngon-het-y-lai-giup-can-nang-giam-am-am-4.jpg\"></strong></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"background-color: initial;\"><em>Cách làm:</em></strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>– Nhót xanh lựa quả bánh tẻ để ăn được hạt. Lau sạch phấn bên ngoài rồi rửa sạch dưới vòi nước. Dùng dao bổ quả nhót làm đôi.</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>– Cải bắp tách thành từng lá và rửa sạch rồi ngâm qua chậu nước muối loãng.</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>– Rau mùi rửa sạch và cắt thành các khúc. Tỏi, gừng bỏ vỏ sau đó rửa sạch thái thành miếng nhỏ, sợi.</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-center\"><strong style=\"background-color: initial;\"><img src=\"https://3.bp.blogspot.com/-5pHk1tlzLr8/WpZSk02U7kI/AAAAAAACq14/sqiSpWN1llk_9D4X169xuUQg-cM1DEmywCLcBGAs/s1600/dang-mua-nhot-xanh-chi-em-tranh-thu-an-theo-cach-nay-vua-ngon-het-y-lai-giup-can-nang-giam-am-am-5.jpg\"></strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>– Cho mắc khén, nước mắm, đường, ớt tươi, ớt khô, tỏi, gừng vào cối. Dùng chày để giã nhuyễn, cho thêm chút nước lọc, nếm thấy vừa miệng là được.</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>Khi ăn thì lấy xé lá cải bắp thành miếng vừa, đặt một nhót, cọng rau mùi, gừng thái chỉ, tỏi rồi gói ghém lại và chấm với chẳm chéo. Món ăn này có hương vị rất đặc biệt, hương vị hăng, cay và chút nồng hòa quyện với nhau khiến người thưởng thức cảm thấy xuýt xoa, sảng khoái.</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-center\"><strong style=\"background-color: initial;\"><img src=\"https://4.bp.blogspot.com/-wBqLDGSW7v8/WpZSlLR2OvI/AAAAAAACq18/xxHYxYXhNDgFDQ3V7rDMBkPD0qt9LfmAwCLcBGAs/s1600/dang-mua-nhot-xanh-chi-em-tranh-thu-an-theo-cach-nay-vua-ngon-het-y-lai-giup-can-nang-giam-am-am-6.jpg\"></strong></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/99ae78cd-264a-4f68-885a-ecd9d8721cbf.jpg\",\"https://images.f99.com.vn/images/c4bcc11a-ce19-4031-820c-16d445c6648c.jpg\",\"https://images.f99.com.vn/images/ae77941e-8724-4aad-84a6-c3c504317c69.jpg\",\"https://images.f99.com.vn/images/6759497c-3730-4dd6-b585-dc552d373cb4.jpg\",\"https://images.f99.com.vn/images/c7129a6b-f596-4d37-8616-ca78a6426878.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"dưa lưới\",\"apple fruit\",\"dưa  lưới ruột xanh\",\"giỏ quà tết\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Nhót Chín Nhót Xanh  Mộc Châu",
+    "description": "<p><span style=\"background-color: initial;\">Ăn nhót xanh theo cách này vừa ngon hết ý lại giúp cân nặng giảm ầm ầm</span></p><h1><strong>Ăn nhót xanh theo cách này vừa ngon hết ý lại giúp cân nặng giảm ầm ầm</strong></h1><p class=\"ql-align-justify\"><strong style=\"background-color: initial;\">Ứa nước miếng với nhót xanh chấm chẳm chéo, món ăn khoái khẩu của hội con gái còn giúp giảm cân nữa chứ!</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-center\"><strong style=\"background-color: initial;\"><img src=\"https://1.bp.blogspot.com/-dgqjyNY0gYI/WpZSls5D6tI/AAAAAAACq2A/M4QY9OJo7gsa_g6OOYYeYsTagMTBPc01wCLcBGAs/s1600/giam-can-blogtamsuvn.jpg\"></strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>Có lẽ trong kí ức của mỗi chúng ta, ai cũng từng gắn bó với những quả nhót từ xanh non cho đến chín đỏ mọng cũng khiến bao người “ứa nước miếng”. Đến tận bây giờ những quả nhót, đặc biệt là những quả nhót xanh vẫn không hề có dấu hiệu giảm nhiệt, thậm chí “làm mưa làm gió” vào dịp sau tết âm lịch.</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-center\"><strong style=\"background-color: initial;\"><img src=\"https://2.bp.blogspot.com/-u_19yk1b61s/WpZSju13m0I/AAAAAAACq1s/OL6sttVQwRA_-RihDFLyzxJnS_PE8CCjwCLcBGAs/s1600/dang-mua-nhot-xanh-chi-em-tranh-thu-an-theo-cach-nay-vua-ngon-het-y-lai-giup-can-nang-giam-am-am-1.jpg\"></strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>Những quả nhót xanh non giờ đây đã trở thành món ăn vặt được rất nhiều chị em yêu thích. Nếu bạn là “fan” của nhót xanh thì khỏi phải nói loại quả này khi trộn chẳm chéo chính là món ăn khoái khẩu nhất khiến ai cũng “phát cuồng”. Vị chua của nhót hòa quyện với muối mặn, đường, ớt, ngò, gừng, tỏi tạo nên một món ăn tuyệt vời với hương vị lạ miệng, kích thích khứu giác.</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-center\"><strong style=\"background-color: initial;\"><img src=\"https://2.bp.blogspot.com/-yVDB44Y2sVw/WpZSjsKq8zI/AAAAAAACq1w/9by-J9PAV7EEUkvbjz_W6ENNRkGewbIAQCLcBGAs/s1600/dang-mua-nhot-xanh-chi-em-tranh-thu-an-theo-cach-nay-vua-ngon-het-y-lai-giup-can-nang-giam-am-am-2.jpg\"></strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>Một tin vui dành cho những ai thích ăn món nhót xanh trộn chẳm chéo chính là chúng có thể hỗ trợ bạn giảm cân đó. Nhót xanh có chứa nhiều vitamin C, axit hữu cơ, sắt, canxi và chất chống oxy hóa. Ăn nhót xanh sẽ giúp kích thích tiêu hóa, thúc đẩy trao đổi chất và đốt cháy mỡ thừa. Bên cạnh đó, nhót xanh kết hợp với cải bắp cùng nước chấm đa dạng sẽ đem đến món ăn ngon miệng, chống ngấy sau các bữa tiệc linh đình dịp tết và khai xuân đầu năm.</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-center\"><strong style=\"background-color: initial;\"><img src=\"https://4.bp.blogspot.com/-0s8Gwe2DZG4/WpZSjebp9RI/AAAAAAACq1o/M2MwqHUcvco83UcqTjfNiZ5CmGrRDKs3QCLcBGAs/s1600/dang-mua-nhot-xanh-chi-em-tranh-thu-an-theo-cach-nay-vua-ngon-het-y-lai-giup-can-nang-giam-am-am-3.jpg\"></strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong style=\"background-color: initial;\">Chuẩn bị nguyên liệu:</strong></p><ul><li class=\"ql-align-justify\"><em>– 1kg nhót xanh.</em></li><li class=\"ql-align-justify\"><em>– 200g cải bắp.</em></li><li class=\"ql-align-justify\"><em>– 1 củ gừng.</em></li><li class=\"ql-align-justify\"><em>– 4 quả ớt.</em></li><li class=\"ql-align-justify\"><em>– 2 tép tỏi.</em></li><li class=\"ql-align-justify\"><em>– 5 nhánh ngò rí.</em></li><li class=\"ql-align-justify\"><em>– 3 cây hành hoa.</em></li><li class=\"ql-align-justify\"><em>– 1 thìa mắc khén (đặc sản vùng Tây Bắc, nếu không có thì thôi).</em></li><li class=\"ql-align-justify\"><em>– 1/2 thìa cafe bột ngọt, 1 thìa cafe muối, 1 thìa canh đường trắng, 1 thìa canh nước mắm, 1/2 thìa cafe ớt khô.</em></li></ul><p class=\"ql-align-center\"><strong style=\"background-color: initial;\"><img src=\"https://2.bp.blogspot.com/-pcM1PposS08/WpZSku54ELI/AAAAAAACq10/coYuRbGP1yMOg_SW85lpxctPERolnnf8gCLcBGAs/s1600/dang-mua-nhot-xanh-chi-em-tranh-thu-an-theo-cach-nay-vua-ngon-het-y-lai-giup-can-nang-giam-am-am-4.jpg\"></strong></p><p><br></p><p class=\"ql-align-justify\"><strong style=\"background-color: initial;\"><em>Cách làm:</em></strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>– Nhót xanh lựa quả bánh tẻ để ăn được hạt. Lau sạch phấn bên ngoài rồi rửa sạch dưới vòi nước. Dùng dao bổ quả nhót làm đôi.</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>– Cải bắp tách thành từng lá và rửa sạch rồi ngâm qua chậu nước muối loãng.</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>– Rau mùi rửa sạch và cắt thành các khúc. Tỏi, gừng bỏ vỏ sau đó rửa sạch thái thành miếng nhỏ, sợi.</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-center\"><strong style=\"background-color: initial;\"><img src=\"https://3.bp.blogspot.com/-5pHk1tlzLr8/WpZSk02U7kI/AAAAAAACq14/sqiSpWN1llk_9D4X169xuUQg-cM1DEmywCLcBGAs/s1600/dang-mua-nhot-xanh-chi-em-tranh-thu-an-theo-cach-nay-vua-ngon-het-y-lai-giup-can-nang-giam-am-am-5.jpg\"></strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>– Cho mắc khén, nước mắm, đường, ớt tươi, ớt khô, tỏi, gừng vào cối. Dùng chày để giã nhuyễn, cho thêm chút nước lọc, nếm thấy vừa miệng là được.</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>Khi ăn thì lấy xé lá cải bắp thành miếng vừa, đặt một nhót, cọng rau mùi, gừng thái chỉ, tỏi rồi gói ghém lại và chấm với chẳm chéo. Món ăn này có hương vị rất đặc biệt, hương vị hăng, cay và chút nồng hòa quyện với nhau khiến người thưởng thức cảm thấy xuýt xoa, sảng khoái.</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-center\"><strong style=\"background-color: initial;\"><img src=\"https://4.bp.blogspot.com/-wBqLDGSW7v8/WpZSlLR2OvI/AAAAAAACq18/xxHYxYXhNDgFDQ3V7rDMBkPD0qt9LfmAwCLcBGAs/s1600/dang-mua-nhot-xanh-chi-em-tranh-thu-an-theo-cach-nay-vua-ngon-het-y-lai-giup-can-nang-giam-am-am-6.jpg\"></strong></p>",
+    "imageUrl": "https://images.f99.com.vn/images/99ae78cd-264a-4f68-885a-ecd9d8721cbf.jpg",
+    "price": 35000,
+    "oldPrice": 55000,
+    "discountPercent": 36,
+    "stock": 216000,
+    "totalSold": 14,
+    "maxQuantityPerUser": null,
+    "unit": "Khay 500g",
+    "sku": "Nhot",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 4.8,
+    "instructions": "<p><strong>Quý khách vui lòng kiểm tra cùng tài xế khi nhận hàng </strong></p><p>Hướng dẫn bảo quản</p>",
+    "category": {
+      "id": 70,
+      "name": "Bơ",
+      "imageUrl": "https://imgur.com/RUDLKsR.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "dưa lưới",
+      "apple fruit",
+      "dưa  lưới ruột xanh",
+      "giỏ quà tết"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/99ae78cd-264a-4f68-885a-ecd9d8721cbf.jpg",
+      "https://images.f99.com.vn/images/c4bcc11a-ce19-4031-820c-16d445c6648c.jpg",
+      "https://images.f99.com.vn/images/ae77941e-8724-4aad-84a6-c3c504317c69.jpg",
+      "https://images.f99.com.vn/images/6759497c-3730-4dd6-b585-dc552d373cb4.jpg",
+      "https://images.f99.com.vn/images/c7129a6b-f596-4d37-8616-ca78a6426878.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/11128",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "500g nhót chín",
+          "500g nhót xanh"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 96381,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500g nhót xanh",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "500g nhót xanh",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500g nhót xanh",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 35000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 108000,
+        "totalSold": 10,
+        "unit": "Khay 500g",
+        "sku": "Nhot",
+        "rating": 4.8,
+        "instructions": "<p><strong>Quý khách vui lòng kiểm tra cùng tài xế khi nhận hàng </strong></p><p>Hướng dẫn bảo quản</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "500g nhót xanh"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 96380,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "500g nhót chín",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "500g nhót chín",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "500g nhót chín",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 35000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 108000,
+        "totalSold": 4,
+        "unit": "Khay 500g",
+        "sku": "Nhot",
+        "rating": 4.8,
+        "instructions": "<p><strong>Quý khách vui lòng kiểm tra cùng tài xế khi nhận hàng </strong></p><p>Hướng dẫn bảo quản</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "500g nhót chín"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 29554,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "5 kg hoa quả mix các loại",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><br></p><h1>6 lợi ích tuyệt vời của việc ăn trái cây tươi hàng ngày</h1><p><br></p><p><strong>Trái cây có rất nhiều chất dinh dưỡng, chất xơ và các vitamin nên nó sẽ giúp bạn khỏe mạnh cả về thể chất lẫn tinh thần, giảm nguy cơ mắc bệnh tật.</strong></p><p>Bổ sung trái cây vào chế độ ăn uống hàng ngày sẽ đem lại những lợi ích sức khỏe tuyệt vời. Có nhiều lý do để bạn ăn trái cây mỗi ngày, nhưng hãy nhớ rằng tiêu thụ trái cây tươi sẽ tốt hơn nhiều so với các loại trái cây bảo quản hay đóng hộp.</p><p>Trái cây là chất xơ phong phú và nó có lượng calo thấp nên nó cũng đặc biệt có lợi cho những người muốn giảm cân mà vẫn tràn đầy năng lượng.</p><p>Dưới đây là 5 lợi ích của việc ăn trái cây tươi hàng ngày:</p><p><strong style=\"background-color: transparent;\">Tránh ung thư</strong></p><p><strong style=\"color: rgb(51, 51, 51);\">Ngăn chặn các bệnh mãn tính</strong></p><p><strong style=\"color: rgb(51, 51, 51);\">Tăng cường trí não</strong></p><p><strong style=\"color: rgb(51, 51, 51);\">Tăng cường miễn dịch</strong></p><p><strong style=\"color: rgb(51, 51, 51);\">Giảm cân</strong></p><p><strong style=\"background-color: transparent;\">Làm đẹp da</strong></p><p>Bạn muốn có một làn da sáng, vậy thì đừng hỏi tại sao bạn nên ăn trái cây mỗi ngày. Hầu hết các loại trái cây, đặc biệt là bơ, có một số lượng lớn các vitamin E có khả năng làm chậm tốc độ lão hóa và giúp da sáng đẹp.</p><p class=\"ql-align-center\"><span style=\"background-color: rgb(241, 241, 241);\"><img src=\"https://znews-photo.zadn.vn/w1920/Uploaded/uopuoka/2015_08_21/ld3.jpg\"></span></p><p class=\"ql-align-center\"><span style=\"background-color: rgb(241, 241, 241);\"><img src=\"https://znews-photo.zadn.vn/w660/Uploaded/uopuoka/2015_08_21/ld3.jpg\"></span></p><p class=\"ql-align-center\"><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/88e4fd5d-b02b-4167-99d6-9b93fa058b6d.jpg\",\"https://images.f99.com.vn/images/270a88a3-61b4-4612-8124-0f307b94c995.png\",\"https://images.f99.com.vn/images/e80a23ef-aba0-4656-bd5d-4484ac7ca48e.jpg\",\"https://images.f99.com.vn/images/fc3d457d-5871-4a96-b97b-38ce3b5a7453.jpg\",\"https://images.f99.com.vn/images/dea3ea42-683c-4b0e-b883-8507a5017617.jpg\",\"https://images.f99.com.vn/images/32329065-9094-4d6b-bc68-ad703d73e397.jpg\",\"https://images.f99.com.vn/images/e4059c48-9e9b-4977-8e9f-a747a4d2145b.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "5 kg hoa quả mix các loại",
+    "description": "<p><br></p><h1>6 lợi ích tuyệt vời của việc ăn trái cây tươi hàng ngày</h1><p><br></p><p><strong>Trái cây có rất nhiều chất dinh dưỡng, chất xơ và các vitamin nên nó sẽ giúp bạn khỏe mạnh cả về thể chất lẫn tinh thần, giảm nguy cơ mắc bệnh tật.</strong></p><p>Bổ sung trái cây vào chế độ ăn uống hàng ngày sẽ đem lại những lợi ích sức khỏe tuyệt vời. Có nhiều lý do để bạn ăn trái cây mỗi ngày, nhưng hãy nhớ rằng tiêu thụ trái cây tươi sẽ tốt hơn nhiều so với các loại trái cây bảo quản hay đóng hộp.</p><p>Trái cây là chất xơ phong phú và nó có lượng calo thấp nên nó cũng đặc biệt có lợi cho những người muốn giảm cân mà vẫn tràn đầy năng lượng.</p><p>Dưới đây là 5 lợi ích của việc ăn trái cây tươi hàng ngày:</p><p><strong style=\"background-color: transparent;\">Tránh ung thư</strong></p><p><strong style=\"color: rgb(51, 51, 51);\">Ngăn chặn các bệnh mãn tính</strong></p><p><strong style=\"color: rgb(51, 51, 51);\">Tăng cường trí não</strong></p><p><strong style=\"color: rgb(51, 51, 51);\">Tăng cường miễn dịch</strong></p><p><strong style=\"color: rgb(51, 51, 51);\">Giảm cân</strong></p><p><strong style=\"background-color: transparent;\">Làm đẹp da</strong></p><p>Bạn muốn có một làn da sáng, vậy thì đừng hỏi tại sao bạn nên ăn trái cây mỗi ngày. Hầu hết các loại trái cây, đặc biệt là bơ, có một số lượng lớn các vitamin E có khả năng làm chậm tốc độ lão hóa và giúp da sáng đẹp.</p><p class=\"ql-align-center\"><span style=\"background-color: rgb(241, 241, 241);\"><img src=\"https://znews-photo.zadn.vn/w1920/Uploaded/uopuoka/2015_08_21/ld3.jpg\"></span></p><p class=\"ql-align-center\"><span style=\"background-color: rgb(241, 241, 241);\"><img src=\"https://znews-photo.zadn.vn/w660/Uploaded/uopuoka/2015_08_21/ld3.jpg\"></span></p><p class=\"ql-align-center\"><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/88e4fd5d-b02b-4167-99d6-9b93fa058b6d.jpg",
+    "price": 169000,
+    "oldPrice": 229000,
+    "discountPercent": 26,
+    "stock": 216000,
+    "totalSold": 84,
+    "maxQuantityPerUser": null,
+    "unit": "5 kg",
+    "sku": "hoa qua",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "",
+    "category": {
+      "id": 70,
+      "name": "Bơ",
+      "imageUrl": "https://imgur.com/RUDLKsR.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/88e4fd5d-b02b-4167-99d6-9b93fa058b6d.jpg",
+      "https://images.f99.com.vn/images/270a88a3-61b4-4612-8124-0f307b94c995.png",
+      "https://images.f99.com.vn/images/e80a23ef-aba0-4656-bd5d-4484ac7ca48e.jpg",
+      "https://images.f99.com.vn/images/fc3d457d-5871-4a96-b97b-38ce3b5a7453.jpg",
+      "https://images.f99.com.vn/images/dea3ea42-683c-4b0e-b883-8507a5017617.jpg",
+      "https://images.f99.com.vn/images/32329065-9094-4d6b-bc68-ad703d73e397.jpg",
+      "https://images.f99.com.vn/images/e4059c48-9e9b-4977-8e9f-a747a4d2145b.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/29554",
+    "attributes": [
+      {
+        "id": 90,
+        "name": "Khối lượng",
+        "values": [
+          "Cam,Táo,Ổi,Bưởi",
+          "Dưa Hấu, Cóc, Cam, Xoài",
+          "Mít, Cam, Ổi, Lê",
+          "Táo Cam Ổi Xoài"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 75193,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Mít, Cam, Ổi, Lê",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Mít, Cam, Ổi, Lê",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Mít, Cam, Ổi, Lê",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 169000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 54000,
+        "totalSold": 21,
+        "unit": "5 kg",
+        "sku": "hoa qua",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Mít, Cam, Ổi, Lê"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 75191,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Táo Cam Ổi Xoài",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Táo Cam Ổi Xoài",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Táo Cam Ổi Xoài",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 169000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 54000,
+        "totalSold": 22,
+        "unit": "5 kg",
+        "sku": "hoa qua",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Táo Cam Ổi Xoài"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 75190,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Cam,Táo,Ổi,Bưởi",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Cam,Táo,Ổi,Bưởi",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Cam,Táo,Ổi,Bưởi",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 169000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 54000,
+        "totalSold": 21,
+        "unit": "5 kg",
+        "sku": "hoa qua",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Cam,Táo,Ổi,Bưởi"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      },
+      {
+        "isOriginal": false,
+        "isPoor": false,
+        "id": 75192,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Dưa Hấu, Cóc, Cam, Xoài",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "type": "text    ",
+            "value": "Dưa Hấu, Cóc, Cam, Xoài",
+            "attribute": {
+              "id": 90,
+              "name": "Khối lượng",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Dưa Hấu, Cóc, Cam, Xoài",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 169000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 54000,
+        "totalSold": 20,
+        "unit": "5 kg",
+        "sku": "hoa qua",
+        "rating": 5,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 90,
+            "name": "Khối lượng",
+            "value": "Dưa Hấu, Cóc, Cam, Xoài"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 30426,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": " 6kg ( ổi, cam, táo, quýt )",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Có thể chọn 1 trong 3 combo.</p><p><br></p><p><strong>Khi quán gọi xác nhận đơn</strong></p><p><strong> Thay đổi loại quả và mua kèm các sản phẩm khác của shop để tiện ship bạn nhé</strong></p><p><br></p><h1>6 lợi ích tuyệt vời của việc ăn trái cây tươi hàng ngày</h1><p><br></p><p><strong>Trái cây có rất nhiều chất dinh dưỡng, chất xơ và các vitamin nên nó sẽ giúp bạn khỏe mạnh cả về thể chất lẫn tinh thần, giảm nguy cơ mắc bệnh tật.</strong></p><p>Bổ sung trái cây vào chế độ ăn uống hàng ngày sẽ đem lại những lợi ích sức khỏe tuyệt vời. Có nhiều lý do để bạn ăn trái cây mỗi ngày, nhưng hãy nhớ rằng tiêu thụ trái cây tươi sẽ tốt hơn nhiều so với các loại trái cây bảo quản hay đóng hộp.</p><p>Trái cây là chất xơ phong phú và nó có lượng calo thấp nên nó cũng đặc biệt có lợi cho những người muốn giảm cân mà vẫn tràn đầy năng lượng.</p><p>Dưới đây là 5 lợi ích của việc ăn trái cây tươi hàng ngày:</p><p><strong style=\"background-color: transparent;\">Tránh ung thư</strong></p><p><strong style=\"color: rgb(51, 51, 51);\">Ngăn chặn các bệnh mãn tính</strong></p><p><strong style=\"color: rgb(51, 51, 51);\">Tăng cường trí não</strong></p><p><strong style=\"color: rgb(51, 51, 51);\">Tăng cường miễn dịch</strong></p><p><strong style=\"color: rgb(51, 51, 51);\">Giảm cân</strong></p><p><strong style=\"background-color: transparent;\">Làm đẹp da</strong></p><p>Bạn muốn có một làn da sáng, vậy thì đừng hỏi tại sao bạn nên ăn trái cây mỗi ngày. Hầu hết các loại trái cây, đặc biệt là bơ, có một số lượng lớn các vitamin E có khả năng làm chậm tốc độ lão hóa và giúp da sáng đẹp.</p><p class=\"ql-align-center\"><span style=\"background-color: rgb(241, 241, 241);\"><img src=\"https://znews-photo.zadn.vn/w1920/Uploaded/uopuoka/2015_08_21/ld3.jpg\"></span></p><p class=\"ql-align-center\"><span style=\"background-color: rgb(241, 241, 241);\"><img src=\"https://znews-photo.zadn.vn/w660/Uploaded/uopuoka/2015_08_21/ld3.jpg\"></span></p><p class=\"ql-align-center\"><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/c249395c-344c-4266-aa0e-eacb452be745.jpg\",\"https://images.f99.com.vn/images/7624edc7-2456-4137-bcbc-059d0c8ac8f8.jpg\",\"https://images.f99.com.vn/images/e5e054c9-f822-416f-ab98-4b3ebdacbea3.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": " 6kg ( ổi, cam, táo, quýt )",
+    "description": "<p>Có thể chọn 1 trong 3 combo.</p><p><br></p><p><strong>Khi quán gọi xác nhận đơn</strong></p><p><strong> Thay đổi loại quả và mua kèm các sản phẩm khác của shop để tiện ship bạn nhé</strong></p><p><br></p><h1>6 lợi ích tuyệt vời của việc ăn trái cây tươi hàng ngày</h1><p><br></p><p><strong>Trái cây có rất nhiều chất dinh dưỡng, chất xơ và các vitamin nên nó sẽ giúp bạn khỏe mạnh cả về thể chất lẫn tinh thần, giảm nguy cơ mắc bệnh tật.</strong></p><p>Bổ sung trái cây vào chế độ ăn uống hàng ngày sẽ đem lại những lợi ích sức khỏe tuyệt vời. Có nhiều lý do để bạn ăn trái cây mỗi ngày, nhưng hãy nhớ rằng tiêu thụ trái cây tươi sẽ tốt hơn nhiều so với các loại trái cây bảo quản hay đóng hộp.</p><p>Trái cây là chất xơ phong phú và nó có lượng calo thấp nên nó cũng đặc biệt có lợi cho những người muốn giảm cân mà vẫn tràn đầy năng lượng.</p><p>Dưới đây là 5 lợi ích của việc ăn trái cây tươi hàng ngày:</p><p><strong style=\"background-color: transparent;\">Tránh ung thư</strong></p><p><strong style=\"color: rgb(51, 51, 51);\">Ngăn chặn các bệnh mãn tính</strong></p><p><strong style=\"color: rgb(51, 51, 51);\">Tăng cường trí não</strong></p><p><strong style=\"color: rgb(51, 51, 51);\">Tăng cường miễn dịch</strong></p><p><strong style=\"color: rgb(51, 51, 51);\">Giảm cân</strong></p><p><strong style=\"background-color: transparent;\">Làm đẹp da</strong></p><p>Bạn muốn có một làn da sáng, vậy thì đừng hỏi tại sao bạn nên ăn trái cây mỗi ngày. Hầu hết các loại trái cây, đặc biệt là bơ, có một số lượng lớn các vitamin E có khả năng làm chậm tốc độ lão hóa và giúp da sáng đẹp.</p><p class=\"ql-align-center\"><span style=\"background-color: rgb(241, 241, 241);\"><img src=\"https://znews-photo.zadn.vn/w1920/Uploaded/uopuoka/2015_08_21/ld3.jpg\"></span></p><p class=\"ql-align-center\"><span style=\"background-color: rgb(241, 241, 241);\"><img src=\"https://znews-photo.zadn.vn/w660/Uploaded/uopuoka/2015_08_21/ld3.jpg\"></span></p><p class=\"ql-align-center\"><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/c249395c-344c-4266-aa0e-eacb452be745.jpg",
+    "price": 199000,
+    "oldPrice": 239000,
+    "discountPercent": 17,
+    "stock": 14000,
+    "totalSold": 230,
+    "maxQuantityPerUser": null,
+    "unit": "Combo 6kg",
+    "sku": "cam",
+    "origin": "",
+    "sellerId": 87,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 5,
+    "instructions": "<p><img src=\"https://images.f99.com.vn/images/bd37d762-0cd3-470e-b24c-837b55b62e82.jpg\"></p>",
+    "category": {
+      "id": 70,
+      "name": "Bơ",
+      "imageUrl": "https://imgur.com/RUDLKsR.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/c249395c-344c-4266-aa0e-eacb452be745.jpg",
+      "https://images.f99.com.vn/images/7624edc7-2456-4137-bcbc-059d0c8ac8f8.jpg",
+      "https://images.f99.com.vn/images/e5e054c9-f822-416f-ab98-4b3ebdacbea3.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/30426",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Combo 6kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 71941,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "Combo 6kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Combo 6kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "Combo 6kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 199000,
+        "oldPrice": 239000,
+        "discountPercent": 17,
+        "stock": 14000,
+        "totalSold": 230,
+        "unit": "Combo 6kg",
+        "sku": "cam",
+        "rating": 5,
+        "instructions": "<p><img src=\"https://images.f99.com.vn/images/bd37d762-0cd3-470e-b24c-837b55b62e82.jpg\"></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Combo 6kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 87,
+      "sellerRate": 4.5,
+      "sellerName": " Apple Fruit - Hoa Quả Tươi Ngon",
+      "warehouseId": "f6e62284-70e6-49cc-bf16-f6f1ea56fa96",
+      "warehouseAddress": " Số 10A, ngõ 61, Phố Khương Trung, Khương Trung, Thanh Xuân, Hà Nội",
+      "distance": 3518,
+      "warehouseDistrict": "thanh xuan",
+      "reputation": 65.40574388995275,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 89808,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bơ thái  không tên",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgb(0, 0, 0);\">Trái Bơ năm lóng là loại bơ ngon dẻo, là loại bơ đang được ưa chuộng trên thị trường bơ.</span></p><p><span style=\"color: rgb(0, 0, 0);\">Bơ 5 Lóng có giá thành cao hơn so với các loại bơ Sáp khác. cộng thêm với chất lượng vượt trội, dẻo và thơm, béo hơn</span></p><p><span style=\"color: rgb(0, 0, 0);\">Bơ năm lóng là loại bơ khá an toàn cho người bán và người tiêu dùng về mặt rui ro hư hỏng.</span></p><p><span style=\"color: rgb(0, 0, 0);\">﻿Bơ là loại hoa quả rất giàu dinh dưỡng. Bơ được sử dụng vào nhiều mục đích khác nhau như ăn tươi, chế biến nhiều món ăn ngon, tinh chiết dầu ăn và đặc biệt bơ được sử dụng rất nhiều trong mỹ phẩm chăm sóc sắc đẹp. Nghiên cứu gần đây cũng cho thấy khi dùng thêm bơ trong chế biến các món nước sốt, hay trộn salad sẽ giúp cơ thể thúc đẩy quá trình hấp thụ các chất dinh dưỡng khác như alpha-carotene, beta-carotene, carotenoids.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/b3db63cf-6b91-41a8-9155-598c0618f6c9.jpg\",\"https://images.f99.com.vn/images/d7380595-e7b5-4175-bb3d-f5410d017468.jpg\",\"https://images.f99.com.vn/images/b126f7e9-9d2f-4403-966e-29e27a9cdae9.jpg\",\"https://images.f99.com.vn/images/25742f10-18fa-4564-aa39-6df8f726f0b6.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[\"bơ\",\"bơ năm\",\"bơ năm lóng\",\"năm lóng\",\"đà lạt mart\",\"da lat mart\"]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bơ thái  không tên",
+    "description": "<p><span style=\"color: rgb(0, 0, 0);\">Trái Bơ năm lóng là loại bơ ngon dẻo, là loại bơ đang được ưa chuộng trên thị trường bơ.</span></p><p><span style=\"color: rgb(0, 0, 0);\">Bơ 5 Lóng có giá thành cao hơn so với các loại bơ Sáp khác. cộng thêm với chất lượng vượt trội, dẻo và thơm, béo hơn</span></p><p><span style=\"color: rgb(0, 0, 0);\">Bơ năm lóng là loại bơ khá an toàn cho người bán và người tiêu dùng về mặt rui ro hư hỏng.</span></p><p><span style=\"color: rgb(0, 0, 0);\">﻿Bơ là loại hoa quả rất giàu dinh dưỡng. Bơ được sử dụng vào nhiều mục đích khác nhau như ăn tươi, chế biến nhiều món ăn ngon, tinh chiết dầu ăn và đặc biệt bơ được sử dụng rất nhiều trong mỹ phẩm chăm sóc sắc đẹp. Nghiên cứu gần đây cũng cho thấy khi dùng thêm bơ trong chế biến các món nước sốt, hay trộn salad sẽ giúp cơ thể thúc đẩy quá trình hấp thụ các chất dinh dưỡng khác như alpha-carotene, beta-carotene, carotenoids.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/b3db63cf-6b91-41a8-9155-598c0618f6c9.jpg",
+    "price": 105000,
+    "oldPrice": 125000,
+    "discountPercent": 16,
+    "stock": 50,
+    "totalSold": 14,
+    "maxQuantityPerUser": null,
+    "unit": "Kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 753,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>49 VŨ NGỌC PHAN</p>",
+    "category": {
+      "id": 70,
+      "name": "Bơ",
+      "imageUrl": "https://imgur.com/RUDLKsR.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [
+      "bơ",
+      "bơ năm",
+      "bơ năm lóng",
+      "năm lóng",
+      "đà lạt mart",
+      "da lat mart"
+    ],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/b3db63cf-6b91-41a8-9155-598c0618f6c9.jpg",
+      "https://images.f99.com.vn/images/d7380595-e7b5-4175-bb3d-f5410d017468.jpg",
+      "https://images.f99.com.vn/images/b126f7e9-9d2f-4403-966e-29e27a9cdae9.jpg",
+      "https://images.f99.com.vn/images/25742f10-18fa-4564-aa39-6df8f726f0b6.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/89808",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 89809,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 105000,
+        "oldPrice": 125000,
+        "discountPercent": 16,
+        "stock": 50,
+        "totalSold": 14,
+        "unit": "Kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>49 VŨ NGỌC PHAN</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 753,
+      "sellerRate": 4.1,
+      "sellerName": "ĐÀ LẠT MART",
+      "warehouseId": "72145374-3a89-440d-9881-429faceb9617",
+      "warehouseAddress": " Hà Nội,  Đống Đa,  Láng Hạ, 49 Vũ Ngọc Phan",
+      "distance": 2899,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.0228266044001,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 91674,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Dầu quả bơ Pơ Lang 10ml - VIHAFOOD",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p><span style=\"color: rgba(0, 0, 0, 0.8);\">Dầu quả bơ - Avocado oil được sản xuất từ cơm của quả bơ tươi Đắk Lắk. Sản xuất theo dây chuyền tự động, khép kín theo tiêu chuẩn quốc tế ISO 22000 được ICA (tổ chức chứng nhận ISO tại Việt Nam) cấp, đủ tiêu chuẩn xuất khẩu sang Mỹ. Giữ nguyên được hương vị, chất lượng và màu xanh lá ngả vàng đặc trưng của dầu bơ.</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">* Công dụng:</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Giữ ẩm da, làm mềm da, sáng da. </span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Thẩm thấu nhanh giúp phục hồi da, ngăn ngừa lão hóa, nếp nhăn </span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Tốt cho cả da mặt và vùng da dưới mắt </span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Phù hợp cho da khô, da lão hóa, da bong tróc, dưỡng tóc, massage cho body.</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">* Cách dùng Thoa trực tiếp lên da, cho một vài giọt dầu vào lòng bàn tay, xoa đều 2 tay rồi áp lên da, masage nhẹ nhàng vài phút cho dưỡng chất thấm vào da. Có thể dùng khóa ẩm cho serum hoặc dưỡng qua đêm trên mặt như mặt nạ ngủ</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">* Bảo quản: Bảo quản nơi khô ráo, thoáng mát, tránh ánh sáng.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">* Hạn sử dụng: 24 tháng kể từ ngày sản xuất.</span></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/f05f3888-d780-4a15-8bb6-94db14728827.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Dầu quả bơ Pơ Lang 10ml - VIHAFOOD",
+    "description": "<p><span style=\"color: rgba(0, 0, 0, 0.8);\">Dầu quả bơ - Avocado oil được sản xuất từ cơm của quả bơ tươi Đắk Lắk. Sản xuất theo dây chuyền tự động, khép kín theo tiêu chuẩn quốc tế ISO 22000 được ICA (tổ chức chứng nhận ISO tại Việt Nam) cấp, đủ tiêu chuẩn xuất khẩu sang Mỹ. Giữ nguyên được hương vị, chất lượng và màu xanh lá ngả vàng đặc trưng của dầu bơ.</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">* Công dụng:</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Giữ ẩm da, làm mềm da, sáng da. </span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Thẩm thấu nhanh giúp phục hồi da, ngăn ngừa lão hóa, nếp nhăn </span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Tốt cho cả da mặt và vùng da dưới mắt </span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">- Phù hợp cho da khô, da lão hóa, da bong tróc, dưỡng tóc, massage cho body.</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">* Cách dùng Thoa trực tiếp lên da, cho một vài giọt dầu vào lòng bàn tay, xoa đều 2 tay rồi áp lên da, masage nhẹ nhàng vài phút cho dưỡng chất thấm vào da. Có thể dùng khóa ẩm cho serum hoặc dưỡng qua đêm trên mặt như mặt nạ ngủ</span></p><p><br></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">* Bảo quản: Bảo quản nơi khô ráo, thoáng mát, tránh ánh sáng.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8);\">* Hạn sử dụng: 24 tháng kể từ ngày sản xuất.</span></p>",
+    "imageUrl": "https://images.f99.com.vn/images/f05f3888-d780-4a15-8bb6-94db14728827.jpg",
+    "price": 110000,
+    "oldPrice": 120000,
+    "discountPercent": 8,
+    "stock": 2,
+    "totalSold": 1,
+    "maxQuantityPerUser": null,
+    "unit": "Lọ",
+    "sku": "",
+    "origin": "",
+    "sellerId": 244,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>Bảo quản nơi khô thoáng</p>",
+    "category": {
+      "id": 70,
+      "name": "Bơ",
+      "imageUrl": "https://imgur.com/RUDLKsR.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/f05f3888-d780-4a15-8bb6-94db14728827.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/91674",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "Lọ"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 91675,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 Lọ",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "Lọ",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 Lọ",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 110000,
+        "oldPrice": 120000,
+        "discountPercent": 8,
+        "stock": 2,
+        "totalSold": 1,
+        "unit": "Lọ",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>Bảo quản nơi khô thoáng</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "Lọ"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 244,
+      "sellerRate": 4.7,
+      "sellerName": "VIHAFOOD - Đặc sản vùng miền",
+      "warehouseId": "cf85b1b1-6f2a-49b3-b125-e261f6bfc30a",
+      "warehouseAddress": "111 Phố Đội Cấn, Ba Đình, Hà Nội",
+      "distance": 1098,
+      "warehouseDistrict": "ba dinh",
+      "reputation": 80.86123101095345,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 96228,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bơ Quốc Minh",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p>Trái bơ thương hiệu Quốc Minh có nguồn gốc từ một anh nông dân tên là Quốc Minh tại ấp Liên Hiệp 2, xã Xà Bang, huyện Châu Đức, tỉnh Bà Rịa – Vũng Tàu.</p><p>Sau đó được nhân giống ra các tỉnh, các huyện lân cận như Đồng Nai. Cho đến thời điểm hiện tại Đồng Nai đang là tỉnh trồng bơ quốc minh nhiều nhất.</p><p>&nbsp;Hình dạng: trái dài, hình bầu dục</p><p>– Da bơ: Hơi sần sùi, không căng bóng như bơ năm lóng, có xanh đậm, cám bơ phân bổ đều trên cả trái bơ và nổi trên bề mặt của da bơ</p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/aab3c874-d94b-4008-b579-6afdb3020c85.jpg\",\"https://images.f99.com.vn/images/e714fda4-a9f7-462b-9fbf-d24b6fd41884.jpg\",\"https://images.f99.com.vn/images/147901b2-a04b-478f-970d-c819ef0e4c98.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bơ Quốc Minh",
+    "description": "<p>Trái bơ thương hiệu Quốc Minh có nguồn gốc từ một anh nông dân tên là Quốc Minh tại ấp Liên Hiệp 2, xã Xà Bang, huyện Châu Đức, tỉnh Bà Rịa – Vũng Tàu.</p><p>Sau đó được nhân giống ra các tỉnh, các huyện lân cận như Đồng Nai. Cho đến thời điểm hiện tại Đồng Nai đang là tỉnh trồng bơ quốc minh nhiều nhất.</p><p>&nbsp;Hình dạng: trái dài, hình bầu dục</p><p>– Da bơ: Hơi sần sùi, không căng bóng như bơ năm lóng, có xanh đậm, cám bơ phân bổ đều trên cả trái bơ và nổi trên bề mặt của da bơ</p>",
+    "imageUrl": "https://images.f99.com.vn/images/aab3c874-d94b-4008-b579-6afdb3020c85.jpg",
+    "price": 75000,
+    "oldPrice": 85000,
+    "discountPercent": 12,
+    "stock": 100,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 753,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p>&nbsp;Trái bơ: vỏ dày, thuận tiện cho việc vận chuyển đi xa, bơ thường chín khoảng 5-7 ngày sau khi cắt và chín tự nhiên cần để ở nơi thoáng mát, có nhiệt độ khoảng 24-26 độ.&nbsp;</p><p>– Cơm bơ: vàng màu mỡ gà, dẻo và béo dừng ở mức độ vừa phải, thích hợp cho ăn sống hoặc xay sinh tố, ăn salad</p><p>– Độ khô: 10-15%</p>",
+    "category": {
+      "id": 70,
+      "name": "Bơ",
+      "imageUrl": "https://imgur.com/RUDLKsR.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/aab3c874-d94b-4008-b579-6afdb3020c85.jpg",
+      "https://images.f99.com.vn/images/e714fda4-a9f7-462b-9fbf-d24b6fd41884.jpg",
+      "https://images.f99.com.vn/images/147901b2-a04b-478f-970d-c819ef0e4c98.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/96228",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 96229,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 75000,
+        "oldPrice": 85000,
+        "discountPercent": 12,
+        "stock": 100,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p>&nbsp;Trái bơ: vỏ dày, thuận tiện cho việc vận chuyển đi xa, bơ thường chín khoảng 5-7 ngày sau khi cắt và chín tự nhiên cần để ở nơi thoáng mát, có nhiệt độ khoảng 24-26 độ.&nbsp;</p><p>– Cơm bơ: vàng màu mỡ gà, dẻo và béo dừng ở mức độ vừa phải, thích hợp cho ăn sống hoặc xay sinh tố, ăn salad</p><p>– Độ khô: 10-15%</p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 753,
+      "sellerRate": 4.1,
+      "sellerName": "ĐÀ LẠT MART",
+      "warehouseId": "72145374-3a89-440d-9881-429faceb9617",
+      "warehouseAddress": " Hà Nội,  Đống Đa,  Láng Hạ, 49 Vũ Ngọc Phan",
+      "distance": 2899,
+      "warehouseDistrict": "dong da",
+      "reputation": 68.0228266044001,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 97192,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "Bơ Sáp Dài",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p Class=\"ql-align-justify\"><strong style=\"background-color: transparent;\">Thông tin chung về sản phẩm:</strong></p><ul><li class=\"ql-align-justify\">Bơ Sáp 034: Được thu hoạch tại Đắk Nông</li><li class=\"ql-align-justify\">Kích thước trái: 2-3/1kg</li><li class=\"ql-align-justify\">Bơ sáp siêu ngon, cơm vàng, hạt bé, trái dài từ 27 đến 32cm, độ dẻo và độ béo cao, không bị sợi xơ.</li><li class=\"ql-align-justify\">Đơn hàng tối thiểu: 5kg. Vì chúng tôi đóng gói theo thùng hàng mỗi thùng 5kg.</li><li class=\"ql-align-justify\">Thời gian giao hàng: 2 ngày kể từ ngày đặt hàng.</li></ul><p class=\"ql-align-justify\"><br></p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/ead3e267-a951-4446-9dd2-10423a55bb7b.png\",\"https://images.f99.com.vn/images/ad112e42-b35b-4cbf-a9f3-c0e232fcda13.jpg\",\"https://images.f99.com.vn/images/c6b8f753-ed84-40b1-9a79-e9f7f2bf0c42.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "Bơ Sáp Dài",
+    "description": "<p Class=\"ql-align-justify\"><strong style=\"background-color: transparent;\">Thông tin chung về sản phẩm:</strong></p><ul><li class=\"ql-align-justify\">Bơ Sáp 034: Được thu hoạch tại Đắk Nông</li><li class=\"ql-align-justify\">Kích thước trái: 2-3/1kg</li><li class=\"ql-align-justify\">Bơ sáp siêu ngon, cơm vàng, hạt bé, trái dài từ 27 đến 32cm, độ dẻo và độ béo cao, không bị sợi xơ.</li><li class=\"ql-align-justify\">Đơn hàng tối thiểu: 5kg. Vì chúng tôi đóng gói theo thùng hàng mỗi thùng 5kg.</li><li class=\"ql-align-justify\">Thời gian giao hàng: 2 ngày kể từ ngày đặt hàng.</li></ul><p class=\"ql-align-justify\"><br></p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/ead3e267-a951-4446-9dd2-10423a55bb7b.png",
+    "price": 69000,
+    "oldPrice": 75000,
+    "discountPercent": 8,
+    "stock": 50,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "kg",
+    "sku": "",
+    "origin": "",
+    "sellerId": 986,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "<p class=\"ql-align-justify\"><strong style=\"background-color: transparent;\">Hướng dẫn chọn và bảo quản bơ 034</strong></p><p class=\"ql-align-justify\">Bơ là loại hoa quả rất giàu dinh dưỡng. Bơ được sử dụng vào nhiều mục đích khác nhau như ăn tươi, chế biến nhiều món ăn ngon, tinh chiết dầu ăn và đặc biệt bơ được sử dụng rất nhiều trong mỹ phẩm chăm sóc sắc đẹp. Nghiên cứu gần đây cũng cho thấy khi dùng thêm bơ trong chế biến các món nước sốt, hay trộn salad sẽ giúp cơ thể thúc đẩy quá trình hấp thụ các chất dinh dưỡng khác như alpha-carotene, beta-carotene, carotenoids.</p><p class=\"ql-align-justify\">Tuy nhiên lại rất khó “chiều”. Bơ rất nhanh hỏng nên người sử dụng phải biết cách bảo quản bơ để đảm bảo bơ vẫn ngon và để được lâu. Dưới đây là một vài hướng dẫn nho nhỏ trong cách bảo quản bơ. Trước tiên, để bảo quản bơ thì cần phải phân biệt được đâu là bơ chín và bơ xanh để có cách bảo quản hợp lý.</p><p><br></p>",
+    "category": {
+      "id": 70,
+      "name": "Bơ",
+      "imageUrl": "https://imgur.com/RUDLKsR.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/ead3e267-a951-4446-9dd2-10423a55bb7b.png",
+      "https://images.f99.com.vn/images/ad112e42-b35b-4cbf-a9f3-c0e232fcda13.jpg",
+      "https://images.f99.com.vn/images/c6b8f753-ed84-40b1-9a79-e9f7f2bf0c42.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/97192",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "kg"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 97193,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 kg",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "kg",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 kg",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 69000,
+        "oldPrice": 75000,
+        "discountPercent": 8,
+        "stock": 50,
+        "totalSold": 0,
+        "unit": "kg",
+        "sku": "",
+        "rating": 0,
+        "instructions": "<p class=\"ql-align-justify\"><strong style=\"background-color: transparent;\">Hướng dẫn chọn và bảo quản bơ 034</strong></p><p class=\"ql-align-justify\">Bơ là loại hoa quả rất giàu dinh dưỡng. Bơ được sử dụng vào nhiều mục đích khác nhau như ăn tươi, chế biến nhiều món ăn ngon, tinh chiết dầu ăn và đặc biệt bơ được sử dụng rất nhiều trong mỹ phẩm chăm sóc sắc đẹp. Nghiên cứu gần đây cũng cho thấy khi dùng thêm bơ trong chế biến các món nước sốt, hay trộn salad sẽ giúp cơ thể thúc đẩy quá trình hấp thụ các chất dinh dưỡng khác như alpha-carotene, beta-carotene, carotenoids.</p><p class=\"ql-align-justify\">Tuy nhiên lại rất khó “chiều”. Bơ rất nhanh hỏng nên người sử dụng phải biết cách bảo quản bơ để đảm bảo bơ vẫn ngon và để được lâu. Dưới đây là một vài hướng dẫn nho nhỏ trong cách bảo quản bơ. Trước tiên, để bảo quản bơ thì cần phải phân biệt được đâu là bơ chín và bơ xanh để có cách bảo quản hợp lý.</p><p><br></p>",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "kg"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 986,
+      "sellerRate": 3.9,
+      "sellerName": "Sài Gòn 360 Fruit – Chi Nhánh Hà Nội",
+      "warehouseId": "75790ae8-72b3-4209-92cf-9c6b54fd691d",
+      "warehouseAddress": "38 Xuân La, Phường Xuân La, Quận Tây Hồ, Hà Nội",
+      "distance": 5326,
+      "warehouseDistrict": "tay ho",
+      "reputation": 65.73371431372549,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  },
+  {
+    "id": 97413,
+    "attributeTextValues": [
+      {
+        "id": 1,
+        "name": "Name",
+        "type": "text    ",
+        "value": "BƠ SÁP ĐĂK LĂK",
+        "attribute": {
+          "id": 1,
+          "name": "Name",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 2,
+        "name": "Description",
+        "type": "text    ",
+        "value": "<p Class=\"ql-align-justify\">Quả bơ sáp thường to, vỏ bơ căng và rất bóng bẩy, hạt bơ thường không quá to, bên trong là lớp cùi vàng óng thơm ngon. Nếu mới nếm thử lần đầu, chắc chắn bạn sẽ cảm thấy bơ hơi nhạt.</p><p class=\"ql-align-justify\">Nhưng dần dà, cái vị béo thơm ngậy từ những miếng bơ dẻo sẽ từ từ tan trên đầu lưỡi, khiến bạn chỉ muốn ăn thêm nữa. Chính cái vị béo ngậy, thanh nhẹ từ những trái bơ sáp ấy đã thu hút được rất nhiều người ăn.</p><p><br></p>",
+        "attribute": {
+          "id": 2,
+          "name": "Description",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 6,
+        "name": "Standards",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 6,
+          "name": "Standards",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 4,
+        "name": "Images",
+        "type": "text    ",
+        "value": "[\"https://images.f99.com.vn/images/daad4f29-31e1-42a9-8dd8-dccc13c1823a.jpg\",\"https://images.f99.com.vn/images/a6928be1-e4e5-4179-a63c-1746d6d8a7bb.jpg\",\"https://images.f99.com.vn/images/8d87a231-6622-45a6-aef5-f14d3ebb7b76.jpg\",\"https://images.f99.com.vn/images/c509a39f-2413-4639-a12c-d3fb3b09b4aa.jpg\"]",
+        "attribute": {
+          "id": 4,
+          "name": "Images",
+          "type": "text    ",
+          "isRequired": true
+        }
+      },
+      {
+        "id": 44,
+        "name": "Tags",
+        "type": "text    ",
+        "value": "[]",
+        "attribute": {
+          "id": 44,
+          "name": "Tags",
+          "type": "text    ",
+          "isRequired": true
+        }
+      }
+    ],
+    "flashSale": null,
+    "name": "BƠ SÁP ĐĂK LĂK",
+    "description": "<p Class=\"ql-align-justify\">Quả bơ sáp thường to, vỏ bơ căng và rất bóng bẩy, hạt bơ thường không quá to, bên trong là lớp cùi vàng óng thơm ngon. Nếu mới nếm thử lần đầu, chắc chắn bạn sẽ cảm thấy bơ hơi nhạt.</p><p class=\"ql-align-justify\">Nhưng dần dà, cái vị béo thơm ngậy từ những miếng bơ dẻo sẽ từ từ tan trên đầu lưỡi, khiến bạn chỉ muốn ăn thêm nữa. Chính cái vị béo ngậy, thanh nhẹ từ những trái bơ sáp ấy đã thu hút được rất nhiều người ăn.</p><p><br></p>",
+    "imageUrl": "https://images.f99.com.vn/images/daad4f29-31e1-42a9-8dd8-dccc13c1823a.jpg",
+    "price": 99000,
+    "oldPrice": 0,
+    "discountPercent": null,
+    "stock": 0,
+    "totalSold": 0,
+    "maxQuantityPerUser": null,
+    "unit": "KG",
+    "sku": "",
+    "origin": "",
+    "sellerId": 193,
+    "locationId": "b4bb3e8f-8f73-4f3a-8ea9-7d95147bcc68",
+    "rating": 0,
+    "instructions": "",
+    "category": {
+      "id": 70,
+      "name": "Bơ",
+      "imageUrl": "https://imgur.com/RUDLKsR.png",
+      "parentId": 86,
+      "parent": null
+    },
+    "isLiked": null,
+    "isLocked": false,
+    "standards": [],
+    "tags": [],
+    "imageUrls": [
+      "https://images.f99.com.vn/images/daad4f29-31e1-42a9-8dd8-dccc13c1823a.jpg",
+      "https://images.f99.com.vn/images/a6928be1-e4e5-4179-a63c-1746d6d8a7bb.jpg",
+      "https://images.f99.com.vn/images/8d87a231-6622-45a6-aef5-f14d3ebb7b76.jpg",
+      "https://images.f99.com.vn/images/c509a39f-2413-4639-a12c-d3fb3b09b4aa.jpg"
+    ],
+    "note": null,
+    "sharingProductUrl": "https://m.f99.com.vn/product/97413",
+    "attributes": [
+      {
+        "id": 80,
+        "name": "Đóng gói",
+        "values": [
+          "KG"
+        ]
+      }
+    ],
+    "crossSaleProducts": null,
+    "variants": [
+      {
+        "isOriginal": true,
+        "isPoor": false,
+        "id": 97414,
+        "attributeTextValues": [
+          {
+            "id": 1,
+            "name": "Name",
+            "type": "text    ",
+            "value": "1 KG",
+            "attribute": {
+              "id": 1,
+              "name": "Name",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 79,
+            "name": "Note",
+            "type": "text    ",
+            "value": "",
+            "attribute": {
+              "id": 79,
+              "name": "Note",
+              "type": "text    ",
+              "isRequired": true
+            }
+          },
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "type": "text    ",
+            "value": "KG",
+            "attribute": {
+              "id": 80,
+              "name": "Đóng gói",
+              "type": "text    ",
+              "isRequired": false
+            }
+          }
+        ],
+        "flashSale": null,
+        "name": "1 KG",
+        "description": "",
+        "imageUrls": [],
+        "imageUrl": null,
+        "price": 99000,
+        "oldPrice": 0,
+        "discountPercent": null,
+        "stock": 0,
+        "totalSold": 0,
+        "unit": "KG",
+        "sku": "",
+        "rating": 0,
+        "instructions": "",
+        "sellerId": 0,
+        "note": "",
+        "attributes": [
+          {
+            "id": 80,
+            "name": "Đóng gói",
+            "value": "KG"
+          }
+        ],
+        "flashSaleComingSoon": null,
+        "maxQuantityPerUser": null
+      }
+    ],
+    "currentTime": "0001-01-01T00:00:00",
+    "warehouse": {
+      "sellerId": 193,
+      "sellerRate": 4.9,
+      "sellerName": "Royal Green Fruits",
+      "warehouseId": "54ea5d5f-edb9-4db9-9279-5db65d728ab8",
+      "warehouseAddress": "Shophouse D1 Mandarin Garden, Hoàng Minh Giám, Trung Hòa, Cầu Giấy, Hà Nội",
+      "distance": 4511,
+      "warehouseDistrict": "cau giay",
+      "reputation": 64.03561290322591,
+      "others": []
+    },
+    "flashSaleSoonEngage": null,
+    "recentCount": 0
+  }
+]

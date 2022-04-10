@@ -1,0 +1,35 @@
+{
+  "id": 679,
+  "name": "Nga Nguyễn – Nem nướng Nha Trang",
+  "logo": "https://cdn.f99.link/groupbuy-images/899bf8c0-354d-4378-844c-85f8c754f273.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên bán các loại nem nướng nha trang, bánh tráng trộn, bánh tráng cuộn và đồ uống.",
+  "headQuarter": "số 10 ngõ 178 đường Cổ Nhuế, Cổ Nhuế 2, Bắc Từ Liêm, Hà Nội",
+  "email": "Ngalong199x@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "11:00",
+    "closeTime": "22:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

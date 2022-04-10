@@ -1,0 +1,35 @@
+{
+  "id": 1002,
+  "name": "Nami Mart",
+  "logo": "https://images.f99.com.vn/groupbuy-images/6957b808-edeb-4f21-9040-cfbe820ac49f.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên hàng nội địa nhập khẩu các nước: Thực phẩm ngọt, thực phẩm mặn …",
+  "headQuarter": "48 Nguyễn Huy Tưởng, phường Thanh Xuân Trung, quận Thanh Xuân, Hà Nội, Thanh Xuân Trung, Thanh Xuân, Hà Nội",
+  "email": "Ngahh.1902@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.3,
+  "availableTime": {
+    "openTime": "07:00",
+    "closeTime": "22:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 6
+}

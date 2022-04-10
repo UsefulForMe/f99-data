@@ -1,0 +1,35 @@
+{
+  "id": 996,
+  "name": "THE FOOD UNETI",
+  "logo": "https://images.f99.com.vn/groupbuy-images/41666b1a-e42e-4093-87e8-7865b9c57978.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Chuyên đồ ăn vặt, đồ thả lẩu ngon - rẻ - chất lượng",
+  "headQuarter": "Số nhà 53 ngõ 218 Lĩnh Nam, Phường Lĩnh Nam, Quận Hoàng Mai, TP Hà Nộ, Lĩnh Nam, Hoàng Mai, Hà Nội",
+  "email": "Tuananh22999@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

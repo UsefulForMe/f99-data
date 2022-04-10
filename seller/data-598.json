@@ -1,0 +1,35 @@
+{
+  "id": 598,
+  "name": "BÁCH HÓA TÂM PHÚC",
+  "logo": "https://cdn.f99.link/groupbuy-images/73f24e21-7a7b-4a7d-976f-db3228dc59b0.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Với hơn 8 năm kinh nghiệm, có giấy phép kinh doanh, chứng nhận VSATTP, sản phẩm không có chất phụ gia, bảo quản, an toàn cho mọi đối tượng",
+  "headQuarter": "Số nhà 14 Ngõ 442 Phạm Văn Đồng, Cổ Nhuế 2, Bắc Từ Liêm, Hà Nội",
+  "email": "Thaotrang99kt@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "06:00",
+    "closeTime": "21:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}

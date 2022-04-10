@@ -1,0 +1,35 @@
+{
+  "id": 524,
+  "name": "HOME MARKET",
+  "logo": "https://cdn.f99.link/groupbuy-images/04e255cf-7d63-44ff-8c84-a9690baedb01.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cung cấp thực phẩm nhập khẩu đông lạnh",
+  "headQuarter": "Sân chơi A4 ngõ 119 Hồ Đắc Di, phường Nam Đồng, Đống Đa, Hà Nội",
+  "email": "Ngocanh7997.ak@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.7,
+  "availableTime": {
+    "openTime": "08:00",
+    "closeTime": "18:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": false,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 14
+}

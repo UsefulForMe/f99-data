@@ -1,0 +1,35 @@
+{
+  "id": 285,
+  "name": "MẶN SEAFOOD",
+  "logo": "https://cdn.f99.link/groupbuy-images/594a26a9-e839-4977-b29a-d17f9d3c455c.jpg",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Hải sản tươi ngon hàng ngày",
+  "headQuarter": "Số 02, ngách 66/18 đường Cốm Vòng, Dịch Vọng Hậu, Cầu Giấy, Hà Nội",
+  "email": null,
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.8,
+  "availableTime": {
+    "openTime": "07:30",
+    "closeTime": "20:30",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": true,
+  "totalVote": 124
+}

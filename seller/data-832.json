@@ -1,0 +1,35 @@
+{
+  "id": 832,
+  "name": "Hải Sản Tươi Cấp Đông No.1",
+  "logo": "https://f99storageacc.blob.core.windows.net/groupbuy-images/efbf8cf1-79c5-4f36-b2e8-4afc645f8095.png",
+  "banner": "https://i.imgur.com/Y09Ptqu.png",
+  "type": "Retailer",
+  "businessId": null,
+  "phoneNumber": null,
+  "description": "Cửa hàng chuyên cung cấp các loại hải sản như tôm, mực, bề bề,.. được nhập từ các vùng biển nổi tiếng trong nước như Nam Định, Quảng Ninh,.. được cấp đông đảm bảo trong quá trình vận chuyển.",
+  "headQuarter": "Số 35 Khương Hạ, Khương Đình, Thanh Xuân, Hà Nội",
+  "email": "hoant3291@gmail.com",
+  "totalProduct": 0,
+  "isNew": false,
+  "isAutoOrderConfirmation": true,
+  "rating": 4.2,
+  "availableTime": {
+    "openTime": "06:30",
+    "closeTime": "23:00",
+    "holidays": [
+      {
+        "name": "Tet Holiday",
+        "startHolidayTime": "2022-01-29T17:00:00",
+        "endHolidayTime": "2022-02-07T00:00:00"
+      }
+    ]
+  },
+  "warehouse": null,
+  "warehouses": null,
+  "createdTime": "0001-01-01T00:00:00",
+  "isPublished": true,
+  "note": null,
+  "isF99Shop": null,
+  "onStore": false,
+  "totalVote": 5
+}
