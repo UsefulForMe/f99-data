@@ -6,6 +6,7 @@
   "dependencies": {
     "axios": "^0.26.1",
     "bluebird": "^3.7.2",
+    "elasticdump": "^6.82.3",
     "lodash": "^4.17.21",
     "node-fetch": "^2.6.6"
   },
