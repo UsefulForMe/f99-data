@@ -19,7 +19,7 @@ const bluebird = require("bluebird");
     });
   });
 
-  const chunk = _.chunk(data, 10);
+  const chunk = _.chunk(data, 50);
 
   await bluebird.each(
     _.map(chunk, async (chunkProduct) => {
