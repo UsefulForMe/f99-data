@@ -14,7 +14,7 @@ async function getCategories() {
   const savedCategories = await Promise.all(
     parentCategories.map(async (item) => {
       const savedCategory = await axios.post(
-        "http://localhost:3000/v1/categories",
+        "http://localhost:3000/cms/v1/categories",
         {
           name: item.name,
           image_url: item.imageUrl,
@@ -34,7 +34,7 @@ async function getCategories() {
     _.map(childCategories, async (item) => {
       const parentCategory = mapSavedCategories[item.parentId];
       const savedCategory = await axios.post(
-        "http://localhost:3000/v1/categories",
+        "http://localhost:3000/cms/v1/categories",
         {
           name: item.name,
           image_url: item.imageUrl,
@@ -62,7 +62,7 @@ async function getCategories() {
       return Promise.all(
         _sellers.map(async (item) => {
           const savedSeller = await axios.post(
-            "http://localhost:3000/v1/sellers",
+            "http://localhost:3000/cms/v1/sellers",
             {
               name: item.name,
               logo: item.logo,
@@ -109,7 +109,7 @@ async function getCategories() {
             const item = {
               name: product.name,
               description: product.description,
-              price: product.price,
+              price: `${product.price}`,
               old_price: product.oldPrice,
               unit: product.unit,
               image_url: product.imageUrl,
@@ -121,7 +121,7 @@ async function getCategories() {
               packs: _.get(product, "packs", []),
               seller_id: seller.uuid,
             };
-            return axios.post("http://localhost:3000/v1/products", item);
+            return axios.post("http://localhost:3000/cms/v1/products", item);
           })
         );
       })
